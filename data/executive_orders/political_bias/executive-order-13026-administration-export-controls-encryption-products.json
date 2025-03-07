@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order regarding the control of encryption products. It appears to prioritize national security by restricting the export of encryption technology, even if comparable products are available elsewhere. It also limits judicial review and public disclosure concerning foreign availability of encryption products, citing national security interests. The order expands executive power in controlling encryption exports and potentially impacts civil liberties by prioritizing security over privacy.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 1,
+        "security_liberty": 3,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    }
+}

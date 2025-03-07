@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 3,
+        "security_liberty": 2,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    },
+    "critique": "The document aims to ease commercial restrictions in Confederate states under Union military occupation during the Civil War. This is likely to encourage reunification and economic activity. The order excludes items that could aid the Confederacy, like arms and military supplies.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 3,
+        "security_liberty": 2,
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    }
+}

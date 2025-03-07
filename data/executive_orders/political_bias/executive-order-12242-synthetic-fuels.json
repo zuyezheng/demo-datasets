@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document focuses on delegating authority for synthetic fuel production to meet national defense needs. It emphasizes inter-agency coordination (Defense, Energy, Treasury) and adherence to existing laws. There's a clear goal of transitioning responsibilities to the US Synthetic Fuels Corporation. No mention of immigration, civil liberties, or social issues. The document seems to favor executive action to bolster energy production for national security.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": -1,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 3,
+        "economic_regulation": 3,
+        "social_inclusion": -1
+    }
+}

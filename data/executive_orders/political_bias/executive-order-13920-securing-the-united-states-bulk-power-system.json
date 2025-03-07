@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order focused on protecting the US bulk-power system from foreign adversaries. It prioritizes national security and restricts foreign involvement in the US power grid. There is a strong emphasis on executive power and federal authority to address the perceived threat.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": -1,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 4,
+        "economic_regulation": 2,
+        "social_inclusion": 0
+    }
+}

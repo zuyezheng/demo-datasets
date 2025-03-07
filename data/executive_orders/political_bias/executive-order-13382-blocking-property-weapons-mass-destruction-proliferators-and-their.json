@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order focused on national security and preventing the proliferation of weapons of mass destruction. It expands executive power to block assets and restrict transactions of individuals and entities deemed a threat. There is a strong emphasis on national security, potentially at the expense of individual liberties. The order centralizes power in the executive branch and federal government. Economic regulation is increased through asset blocking and transaction restrictions. There is no direct mention of immigration or social inclusion.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": -1,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 4,
+        "economic_regulation": 3,
+        "social_inclusion": -1
+    }
+}

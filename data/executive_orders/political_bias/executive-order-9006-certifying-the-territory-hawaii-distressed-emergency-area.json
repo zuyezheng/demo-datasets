@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is a certification of Hawaii as a distressed emergency area during World War II, which allows for loans to farmers without the usual limitations. This action is taken to support agricultural production during wartime. There is no explicit discussion of immigration, executive power, federalism, security vs. liberty, economic regulation in general, or social inclusion. The focus is narrowly on providing financial assistance to farmers in a specific territory during a national emergency.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 2,
+        "social_inclusion": 0
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order focused on strengthening domestic manufacturing by ensuring that new technologies and products developed with federal funding are manufactured in the United States whenever feasible. It aims to support the competitiveness, domestic manufacturing capacity, and well-being of the United States economy, workers, communities, and national security. The order outlines various measures to achieve this, including considering domestic manufacturing in Federal R&D funding agreement solicitations, modernizing reporting of invention utilization, and securing critical and emerging technologies through domestic manufacturing.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": -1,
+        "executive_power": 2,
+        "federalism": 1,
+        "security_liberty": 1,
+        "economic_regulation": 3,
+        "social_inclusion": 0
+    }
+}

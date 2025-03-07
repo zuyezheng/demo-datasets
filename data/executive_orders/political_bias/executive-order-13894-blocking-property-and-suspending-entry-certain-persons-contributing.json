@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order issued by President Trump regarding the situation in Syria and Turkey's military actions. It declares a national emergency and imposes sanctions on individuals and entities deemed to be undermining the campaign against ISIS, endangering civilians, or threatening regional stability. The order targets those responsible for human rights abuses, obstructing ceasefires, or preventing political solutions in Syria. It also restricts immigration of individuals meeting certain criteria and prohibits transactions with sanctioned entities.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": -2,
+        "executive_power": 3,
+        "federalism": 1,
+        "security_liberty": 2,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order from 1933 that exempts certain individuals from mandatory retirement. It does not express opinions on immigration, security vs. liberty, economic regulation, or social inclusion. The order expands executive power by granting exemptions and centralizes authority at the federal level. It has a slightly conservative ideological tilt due to the traditional nature of executive orders.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    }
+}

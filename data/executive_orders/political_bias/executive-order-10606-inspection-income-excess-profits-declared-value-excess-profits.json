@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order regarding the inspection of tax returns by a Senate committee. It does not express opinions on immigration, economic regulation, or social inclusion. It centralizes power in the federal government by granting access to tax returns. It also leans towards prioritizing security by allowing inspection of tax returns.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 2,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    }
+}

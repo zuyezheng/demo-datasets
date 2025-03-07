@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order focused on lowering prescription drug prices for Medicare patients by targeting rebates received by middlemen (PBMs). It aims to shift these rebates to patients at the point of sale. There's a focus on reducing costs for individuals and ensuring actions don't increase federal spending or premiums.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": -2,
+        "social_inclusion": 0
+    }
+}

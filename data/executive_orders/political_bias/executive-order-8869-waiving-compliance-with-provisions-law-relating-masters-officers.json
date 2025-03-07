@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order from 1941 granting the Secretary of Commerce the authority to waive certain maritime laws related to crew requirements on vessels documented under the Act of June 6, 1941. This is justified by the lack of physical facilities on ships and the need to employ aliens for their operation. The order expands executive power by allowing the waiver of laws, potentially impacting labor standards and immigration controls. It also centralizes authority by giving the Secretary of Commerce and the Maritime Commission power over these waivers.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 1,
+        "executive_power": 3,
+        "federalism": 2,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    }
+}

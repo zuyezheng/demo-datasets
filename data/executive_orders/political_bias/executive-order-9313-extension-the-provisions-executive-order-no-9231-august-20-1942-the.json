@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document suspends the eight-hour law for workers constructing a road in Alaska, citing national defense. This suggests a focus on security and potentially less emphasis on workers' rights. There's no clear indication of ideological tilt, immigration stance, executive power changes, federalism implications, or social inclusion aspects. The economic regulation aspect is slightly tilted towards deregulation as it suspends a labor law.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 1,
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order focused on reforming the regulatory process. It emphasizes efficiency, cost-effectiveness, and coordination among federal agencies. It also stresses the importance of public input and transparency. The order seeks to reduce regulatory burdens and ensure regulations align with the President's priorities. It does not directly address immigration, social inclusion, or security/liberty issues. The order revokes previous executive orders related to regulatory review.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": -2,
+        "social_inclusion": 0
+    }
+}

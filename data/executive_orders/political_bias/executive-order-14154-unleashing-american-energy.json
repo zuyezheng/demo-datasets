@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This document reflects a conservative political bias. It prioritizes deregulation, domestic energy production, and national security, while downplaying environmental concerns and social inclusion. The document aims to undo many of the previous administration's policies related to climate change and environmental protection, favoring economic growth and energy independence.",
+    "revised_scores": {
+        "ideological_tilt": -4,
+        "immigration": -1,
+        "executive_power": 3,
+        "federalism": 2,
+        "security_liberty": 3,
+        "economic_regulation": -4,
+        "social_inclusion": -3
+    }
+}

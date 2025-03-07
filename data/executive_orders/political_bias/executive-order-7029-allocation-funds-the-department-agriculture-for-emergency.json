@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document describes an allocation of funds for emergency conservation work during the Great Depression. It emphasizes government intervention in the economy to provide relief and employment through public works projects. There is no discussion of immigration, executive power, or civil liberties. The focus is on federal action to address economic and environmental concerns.",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": -1,
+        "executive_power": 1,
+        "federalism": 4,
+        "security_liberty": -1,
+        "economic_regulation": 4,
+        "social_inclusion": 1
+    }
+}

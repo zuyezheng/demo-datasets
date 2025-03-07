@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document focuses on national security and economic concerns, specifically regarding exports and foreign boycotts. It invokes presidential power to address these issues, suggesting a strong executive role. There's an emphasis on maintaining existing regulations and controls, indicating a preference for government intervention in the economy. The document doesn't directly address social issues or immigration.",
+    "revised_scores": {
+        "ideological_tilt": 2,
+        "immigration": -1,
+        "executive_power": 3,
+        "federalism": 2,
+        "security_liberty": 3,
+        "economic_regulation": 3,
+        "social_inclusion": -1
+    }
+}

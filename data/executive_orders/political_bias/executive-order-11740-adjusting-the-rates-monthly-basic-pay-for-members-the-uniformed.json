@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order adjusting the rates of monthly basic pay for members of the uniformed services. It doesn't express a clear ideological tilt, immigration stance, or address social inclusion. It could be argued that adjusting pay involves economic regulation, but in this case, it's more about maintaining fair compensation for government employees. There's no explicit mention of executive power expansion or restriction, federalism, or security vs. liberty.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    }
+}

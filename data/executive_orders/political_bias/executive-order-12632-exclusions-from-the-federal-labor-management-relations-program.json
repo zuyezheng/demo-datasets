@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document focuses on national security and executive power, potentially at the expense of labor rights. It excludes certain agencies from labor-management relations programs, prioritizing security and intelligence work. There's no direct mention of immigration, economic regulation, or social inclusion.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 1,
+        "security_liberty": 3,
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document focuses on national security and loyalty, potentially at the expense of individual rights. It expands executive power by allowing refusal to testify before Congress to be grounds for dismissal. There is no clear indication of economic or social policies.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 0,
+        "security_liberty": 4,
+        "economic_regulation": 0,
+        "social_inclusion": -1
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order focused on improving privacy practices within the US government. It establishes a Federal Privacy Council and outlines responsibilities for agency heads and senior officials regarding privacy. There is no mention of immigration. The order seems to expand executive power by creating new structures and policies within the executive branch. It centralizes authority by establishing a federal council to oversee privacy practices. It balances security and liberty by focusing on protecting privacy while acknowledging the government's need to collect information. It involves government intervention by establishing policies and councils to manage privacy. It promotes social inclusion by emphasizing the importance of protecting personal data.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 2,
+        "security_liberty": -1,
+        "economic_regulation": 2,
+        "social_inclusion": 1
+    }
+}

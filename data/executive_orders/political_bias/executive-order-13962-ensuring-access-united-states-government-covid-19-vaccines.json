@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document prioritizes American access to COVID-19 vaccines, which could be seen as nationalistic. It also expands executive power by directing the Secretary of Health and Human Services and other agencies to ensure vaccine availability and distribution. The document doesn't explicitly address economic regulation, social inclusion, or federalism, but it implies a strong federal role in ensuring public health.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": -1,
+        "executive_power": 2,
+        "federalism": 1,
+        "security_liberty": 1,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    }
+}

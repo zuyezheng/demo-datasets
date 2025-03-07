@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order focused on compensating nuclear workers who developed illnesses due to their work. It aims to provide fair and timely compensation, reduce administrative burdens, and respect the dignity and privacy of the workers and their families. It involves multiple federal agencies and emphasizes providing information and assistance to workers. There is no discussion of immigration, and the document does not expand executive power, but rather allocates responsibilities to different departments. It does not explicitly address economic regulation or social inclusion beyond the specific group of workers it aims to compensate.",
+    "revised_scores": {
+        "ideological_tilt": 2,
+        "immigration": 0,
+        "executive_power": -1,
+        "federalism": 3,
+        "security_liberty": 1,
+        "economic_regulation": 2,
+        "social_inclusion": 1
+    }
+}

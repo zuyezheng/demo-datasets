@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order regarding the inspection of tax returns by a Senate committee. It does not express a clear ideological tilt, immigration stance, or position on social inclusion. It touches on executive power and federalism by granting access to tax returns, which could be seen as expanding executive power slightly in terms of oversight, and it involves the federal government in matters of taxation. The order also implicitly touches on security vs. liberty by balancing the need for government oversight with the privacy of tax information. Economic regulation is not directly addressed.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 1,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    }
+}

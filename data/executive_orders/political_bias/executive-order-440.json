@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is a directive from President Andrew Johnson to General Ulysses S. Grant, appointing him as Secretary of War ad interim after the suspension of Edwin M. Stanton. It focuses on the transfer of duties and records, and doesn't express explicit opinions on the axes. However, the context of the suspension of Stanton, who was a strong advocate for civil rights and opposed Johnson's lenient Reconstruction policies, suggests a potential shift in policy direction.",
+    "revised_scores": {
+        "ideological_tilt": -2,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": -1,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": -2
+    }
+}

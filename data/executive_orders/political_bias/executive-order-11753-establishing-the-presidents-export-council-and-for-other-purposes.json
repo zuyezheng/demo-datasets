@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document establishes the President's Export Council to advise the President on export expansion activities. It emphasizes collaboration between the government and the business community to promote exports. There is no mention of immigration, civil liberties, or social issues. The order establishes a federal council, which indicates a slight move towards federal control. The focus on export expansion suggests a move towards deregulation and less government intervention in the economy to promote business.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    }
+}

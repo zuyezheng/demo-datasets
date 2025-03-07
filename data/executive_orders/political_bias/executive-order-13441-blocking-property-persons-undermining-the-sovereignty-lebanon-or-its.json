@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document focuses on national security and executive power in the context of foreign policy. It uses economic sanctions as a tool, limiting economic freedom for certain actors to achieve foreign policy goals.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": -1,
+        "executive_power": 4,
+        "federalism": 2,
+        "security_liberty": 4,
+        "economic_regulation": 3,
+        "social_inclusion": -1
+    }
+}

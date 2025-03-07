@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order from President Franklin D. Roosevelt in 1940, activating National Guard units for military service. It relies on the authority granted by Congress and the President's role as Commander-in-Chief. There is no mention of economic regulation, immigration, or social inclusion. The order expands executive power by mobilizing the National Guard, strengthens federal control by bringing state units under federal command, and prioritizes national security in a time of increasing global tensions. Civil liberties are not directly addressed, but the order does stipulate that National Guard members will be subject to the laws and regulations governing the Army.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 3,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    }
+}

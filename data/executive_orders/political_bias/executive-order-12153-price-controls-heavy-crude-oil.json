@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order focused on deregulating the price controls on heavy crude oil. It aims to stimulate domestic production by removing government intervention in the oil market. There is no discussion of social issues, immigration, or civil liberties. The order delegates authority to the Secretary of Energy for implementation and further inquiry.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": -4,
+        "social_inclusion": 0
+    }
+}

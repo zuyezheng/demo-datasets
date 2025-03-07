@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document revokes a previous executive order related to protecting essential facilities from sabotage. It maintains facility security functions within the War Department and allows for cooperative arrangements. The order appears neutral regarding ideological tilt, immigration, federalism, economic regulation, and social inclusion. It seems to slightly restrain executive power by revoking a previous order, while maintaining security functions.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": -1,
+        "federalism": 0,
+        "security_liberty": 1,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    }
+}

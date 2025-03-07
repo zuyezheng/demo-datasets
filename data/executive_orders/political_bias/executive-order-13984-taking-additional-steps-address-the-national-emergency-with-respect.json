@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": -1,
+        "immigration": -2,
+        "executive_power": 3,
+        "federalism": 1,
+        "security_liberty": 4,
+        "economic_regulation": 2,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order focused on national security and cybersecurity. It aims to prevent foreign malicious cyber actors from using United States Infrastructure as a Service (IaaS) products to harm the U.S. economy and national security. It mandates identity verification for foreign persons obtaining IaaS accounts and allows for special measures against foreign jurisdictions or persons involved in malicious cyber activities. The order also encourages information sharing among IaaS providers and between providers and government agencies.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": -2,
+        "executive_power": 4,
+        "federalism": 1,
+        "security_liberty": 5,
+        "economic_regulation": 3,
+        "social_inclusion": 0
+    }
+}

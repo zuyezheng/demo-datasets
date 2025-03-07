@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This document establishes a wildlife refuge and outlines regulations for its use. It prioritizes conservation and restricts activities that could harm the environment or wildlife. There is no explicit discussion of immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 2,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document reserves land for the benefit of Indians, which suggests a focus on social inclusion and federal responsibility. The order itself doesn't explicitly address economic, security, or liberty issues, so those are scored as neutral. It doesn't expand executive power, so that is also scored as neutral.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 3
+    }
+}

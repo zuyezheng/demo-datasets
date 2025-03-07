@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order issued by President Trump addressing national security concerns related to the mobile application WeChat. It cites the International Emergency Economic Powers Act (IEEPA) and the National Emergencies Act as legal basis. The order prohibits transactions related to WeChat with Tencent Holdings Ltd., a Chinese company, citing concerns about data collection, censorship, and potential disinformation campaigns by the Chinese Communist Party. The order prioritizes national security and executive power.",
+    "revised_scores": {
+        "ideological_tilt": 2,
+        "immigration": -1,
+        "executive_power": 3,
+        "federalism": 1,
+        "security_liberty": 4,
+        "economic_regulation": 1,
+        "social_inclusion": -1
+    }
+}

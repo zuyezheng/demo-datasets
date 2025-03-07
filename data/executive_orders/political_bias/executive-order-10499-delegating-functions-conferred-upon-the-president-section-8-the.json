@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order delegating authority regarding the Uniformed Services Contingency Option Act of 1953. It primarily concerns the distribution of responsibilities among different departments and doesn't directly address ideological issues, immigration, or social inclusion. The order delegates power from the President to the Secretary of Defense and other department heads, which has implications for executive power and federalism. There is no direct impact on security vs. liberty or economic regulation.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": -1,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    }
+}

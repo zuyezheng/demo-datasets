@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order issued by President Trump regarding the situation in Nicaragua. It declares a national emergency and imposes sanctions on individuals and entities deemed responsible for human rights abuses, undermining democratic processes, or corruption. The order also suspends the entry of certain aliens into the United States.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": -2,
+        "executive_power": 3,
+        "federalism": 1,
+        "security_liberty": 2,
+        "economic_regulation": 1,
+        "social_inclusion": -1
+    }
+}

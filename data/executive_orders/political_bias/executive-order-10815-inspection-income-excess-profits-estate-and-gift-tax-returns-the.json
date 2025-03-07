@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document pertains to the inspection of tax returns by the House Committee on Un-American Activities. This suggests a focus on internal security and potential surveillance, raising concerns about civil liberties. The order grants access to tax information, expanding executive power in the context of national security.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 1,
+        "security_liberty": 3,
+        "economic_regulation": 0,
+        "social_inclusion": -1
+    }
+}

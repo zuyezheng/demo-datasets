@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order regarding the International Coffee Agreement Act of 1965. It delegates presidential powers to various secretaries (State, Treasury, Agriculture, Commerce, and Labor) for implementing the agreement. There is a reservation of certain functions to the President and emphasizes coordination among the departments. The order itself doesn't directly address ideological issues, immigration, or social inclusion. It mainly concerns economic regulation related to international trade and the balance of power between the executive branch and other departments.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": -1,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 2,
+        "social_inclusion": 0
+    }
+}

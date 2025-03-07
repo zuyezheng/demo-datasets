@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order regarding price freezes and economic stabilization. It reflects a moderate interventionist approach to the economy, with the government setting price controls. There is no direct mention of social issues, immigration, or civil liberties, so those axes are neutral. The order delegates authority to the Cost of Living Council, but doesn't drastically expand executive power beyond economic controls. It doesn't explicitly address federalism. The focus is on economic stability rather than social issues.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 3,
+        "social_inclusion": 0
+    }
+}

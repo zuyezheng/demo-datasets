@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order issued by President Obama declaring a national emergency to deal with the threat of malicious cyber-enabled activities originating from outside the United States. It authorizes the blocking of assets of individuals and entities involved in such activities and suspends the entry of such individuals into the United States.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": -1,
+        "executive_power": 3,
+        "federalism": 1,
+        "security_liberty": 4,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    }
+}

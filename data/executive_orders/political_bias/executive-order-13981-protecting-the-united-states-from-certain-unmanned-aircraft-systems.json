@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is a policy directive focused on securing US infrastructure and national security by restricting the use of foreign-made UAS (Unmanned Aircraft Systems, or drones) within the federal government. It aims to protect sensitive data, bolster the domestic industrial base, and prevent reliance on adversaries for critical technology. The order mandates reviews of existing UAS usage, proposes regulations for UAS operation over sensitive sites, and prioritizes the replacement of foreign-made UAS with domestically produced alternatives.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": -1,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 3,
+        "economic_regulation": 2,
+        "social_inclusion": 0
+    }
+}

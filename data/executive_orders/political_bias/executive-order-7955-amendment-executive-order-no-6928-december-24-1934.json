@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order amending a previous order regarding currency exchange rates for US employees in foreign countries. It removes Austria and the schilling from the list and replaces it with the German reichsmark, effective September 1, 1938. This change reflects the annexation of Austria by Nazi Germany in 1938 (the Anschluss).",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": -1,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": -1
+    }
+}

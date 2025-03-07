@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document focuses on national security concerns related to data collection by connected software applications, particularly those linked to foreign adversaries. It aims to protect US citizens' data and critical infrastructure. It revokes previous executive orders and directs the Secretary of Commerce to develop recommendations and take actions to mitigate risks associated with these applications.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": -1,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 3,
+        "economic_regulation": 2,
+        "social_inclusion": 0
+    }
+}

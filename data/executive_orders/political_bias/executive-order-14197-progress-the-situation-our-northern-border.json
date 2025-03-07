@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document reflects a nationalistic stance, prioritizing US national security and economic interests above international cooperation. It uses strong language regarding threats and crises, potentially exaggerating the situation at the northern border. The document centralizes power in the executive branch, granting the President broad authority to impose tariffs and make decisions based on their assessment of the situation. There is a security focus due to the emphasis on drug trafficking and border security.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": -2,
+        "executive_power": 3,
+        "federalism": 2,
+        "security_liberty": 3,
+        "economic_regulation": 2,
+        "social_inclusion": -1
+    }
+}

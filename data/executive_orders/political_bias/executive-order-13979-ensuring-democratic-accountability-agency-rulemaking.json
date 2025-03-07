@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order focused on centralizing regulatory authority within federal agencies under senior appointees. It aims to increase accountability to the President and reduce the influence of career officials in rulemaking. The order mandates reviews of existing rules and delegations of authority to ensure compliance. It does not directly address immigration, security, or social inclusion. The primary focus is on shifting power within the executive branch and streamlining the regulatory process.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 2,
+        "security_liberty": 0,
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order defining economically less developed countries for tax purposes. It distinguishes between countries and territories based on their economic status and political alignment (Sino-Soviet bloc). It also includes provisions for prior acquisitions and commitments, and authorizes the Secretary of the Treasury to issue regulations. There is no explicit discussion of immigration, security, or social issues.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    }
+}

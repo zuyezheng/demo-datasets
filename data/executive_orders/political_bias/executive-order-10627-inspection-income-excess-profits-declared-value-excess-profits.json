@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order regarding the inspection of tax returns by the House Committee on Un-American Activities. It was issued during the Red Scare period in the US. The order itself doesn't explicitly express opinions on immigration, economic regulation, or social inclusion. However, the context suggests a leaning towards prioritizing security over liberty, and potentially expanding executive power to investigate perceived threats.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 1,
+        "security_liberty": 3,
+        "economic_regulation": 0,
+        "social_inclusion": -1
+    }
+}

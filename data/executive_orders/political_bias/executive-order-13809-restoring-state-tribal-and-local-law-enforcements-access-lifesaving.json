@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document revokes an executive order related to federal support for local law enforcement equipment acquisition. This suggests a shift away from federal oversight and control over local law enforcement, potentially favoring deregulation and state control. The revocation could also be interpreted as prioritizing local autonomy and potentially reducing federal influence on law enforcement practices.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": -1,
+        "federalism": -2,
+        "security_liberty": 1,
+        "economic_regulation": -2,
+        "social_inclusion": 0
+    }
+}

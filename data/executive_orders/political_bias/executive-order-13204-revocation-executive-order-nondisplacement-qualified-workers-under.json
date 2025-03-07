@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document revokes a previous executive order that required contractors for public buildings to offer a right of first refusal of employment to employees of the prior contractor. This suggests a move towards deregulation and less government intervention in the economy. It does not directly address other factors such as immigration, executive power, federalism, security vs. liberty, or social inclusion, so those are set to neutral.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": -3,
+        "social_inclusion": 0
+    }
+}

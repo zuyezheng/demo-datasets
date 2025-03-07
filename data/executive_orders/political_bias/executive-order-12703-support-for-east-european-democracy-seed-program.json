@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document delegates presidential functions related to the SEED Act to various departments and agencies. It focuses on international development and economic assistance to Eastern European countries. There is no explicit mention of social issues, immigration, or security. The delegation of power suggests a balanced approach to executive authority.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": -1,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 2,
+        "social_inclusion": 0
+    }
+}

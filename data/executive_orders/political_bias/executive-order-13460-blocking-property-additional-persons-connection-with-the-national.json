@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order imposing sanctions on Syria due to its government's actions undermining the stabilization of Iraq and public corruption. It blocks the property of individuals determined to be responsible for or facilitating this corruption. The order expands executive power, prioritizes national security, and involves economic regulation through sanctions.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": -2,
+        "executive_power": 3,
+        "federalism": 2,
+        "security_liberty": 3,
+        "economic_regulation": 3,
+        "social_inclusion": -1
+    }
+}

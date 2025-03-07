@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order regarding the inspection of tax returns by the Federal Security Agency. It is difficult to assess the political bias and sentiment of this document as it is primarily administrative in nature. However, some assumptions can be made. It centralizes authority in the federal government, so it has a slightly positive federalism score. It also allows the federal government to inspect individual income tax returns, so it has a slightly positive security vs liberty score.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 1,
+        "security_liberty": 1,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    }
+}
