@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 2
+    },
+    "critique": "The executive order seems to be a formal declaration, so it should not evoke strong emotions. However, it may cause a slight surprise to the reader. The order is related to investigation of lobbying activities, so it may cause a slight disgust. The order does not seem to evoke joy, sadness, or fear.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 3,
+        "surprise": 2
+    }
+}

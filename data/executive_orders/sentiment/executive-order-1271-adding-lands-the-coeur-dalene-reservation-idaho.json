@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The executive order seems to be a routine administrative action, withdrawing land for an addition to an Indian school and agency site. There's no strong indication of intended emotions. The order is factual and procedural. Therefore, the initial scores should be low across all emotions. Upon further reflection, the phrase 'no longer needed' could introduce a hint of sadness, but it's very mild. The phrase 'existing valid rights' could introduce a hint of fear, but it's very mild.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

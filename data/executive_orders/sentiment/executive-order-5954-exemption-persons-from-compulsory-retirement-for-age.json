@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The executive order is a very dry, technical document. It simply lists names of people who are exempt from mandatory retirement. The order is unlikely to evoke any strong emotions. The most likely emotion would be surprise that such a dry document would be sent to an emotion analyzer. The initial scores will be all 1's, except surprise which will be a 2. The revised scores will be all 1's.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

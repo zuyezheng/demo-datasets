@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The executive order seems to be a declaration of land being reserved for naval purposes. There doesn't seem to be a strong intention to evoke any particular emotion in the reader. The order is more about logistics and governance. Therefore, the scores for all emotions should be relatively low. I will set joy, sadness, fear, disgust, and surprise all to 1 initially. After further consideration, I don't think surprise is warranted, so I will reduce that to 0.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 0
+    }
+}

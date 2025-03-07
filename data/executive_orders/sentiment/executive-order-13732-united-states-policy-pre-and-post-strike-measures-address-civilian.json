@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The executive order is a formal document outlining policy regarding civilian casualties. It aims to convey a sense of responsibility, commitment to minimizing harm, and adherence to legal obligations. The primary emotions it seeks to evoke are trust and reassurance, with a secondary aim of acknowledging the tragic nature of civilian casualties. It does not aim to evoke strong emotions like joy, anger, fear, disgust, or surprise. The initial scores reflect this, with low values for most emotions and slightly higher values for sadness and trust. The revised scores adjust these values to better reflect the document's intent, increasing the score for trust and slightly decreasing the score for sadness.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

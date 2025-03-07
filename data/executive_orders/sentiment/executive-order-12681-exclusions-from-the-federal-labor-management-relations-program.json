@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 0,
+        "sadness": 0,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The executive order seems to aim for a serious and formal tone. It's unlikely to evoke strong emotions like joy or sadness. However, it might induce a mild sense of surprise or fear in individuals concerned about national security, or disgust in those who disagree with the order. The order primarily deals with national security, so fear and surprise are the most relevant emotions. The intensity is relatively low because it's a formal document.",
+    "revised_scores": {
+        "joy": 0,
+        "sadness": 0,
+        "fear": 4,
+        "disgust": 2,
+        "surprise": 3
+    }
+}

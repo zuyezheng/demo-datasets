@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 3
+    },
+    "critique": "The executive order is a formal announcement about establishing an emergency board to resolve a dispute. It aims to convey a sense of order, authority, and resolution rather than strong emotions. Therefore, the scores for all emotions should be relatively low. The initial assessment might overestimate the surprise and underestimate the sadness, so the revised scores will reflect that.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

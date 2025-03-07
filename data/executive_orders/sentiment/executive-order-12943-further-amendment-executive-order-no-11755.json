@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 0,
+        "fear": 0,
+        "disgust": 0,
+        "surprise": 2
+    },
+    "critique": "The executive order seems to be a technical document with the purpose of amending a previous order to improve the acquisition of small cost items. It is unlikely that the president wants the audience to feel any strong emotions. The most relevant emotion might be a slight sense of relief or satisfaction that the government is working to improve efficiency, but this would be very mild. Therefore, I will assign low scores to joy and surprise, and zero to the other emotions. After further consideration, the order is very procedural, so I will reduce the joy and surprise scores to 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 0,
+        "fear": 0,
+        "disgust": 0,
+        "surprise": 1
+    }
+}

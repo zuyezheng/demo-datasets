@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "The document is a presidential order focused on national security and economic stability related to copper imports. It aims to reduce reliance on foreign copper sources and strengthen the domestic supply chain. The order initiates an investigation into the national security impact of copper imports and directs the Secretary of Commerce to assess various factors, including demand, domestic production capacity, foreign supply chains, and the impact of trade policies. It also calls for consultations with other executive departments and agencies and a report with findings and recommendations.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": -1,
+        "executive_power": 2,
+        "federalism": 2,
+        "security_liberty": 3,
+        "economic_regulation": 3,
+        "social_inclusion": 0
+    }
+}

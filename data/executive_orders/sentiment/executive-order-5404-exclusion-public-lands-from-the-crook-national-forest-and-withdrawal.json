@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The executive order seems to be a routine administrative action, modifying the boundaries of a national forest and reserving the excluded land for townsite purposes. There is no indication of an intent to evoke any particular emotion in the reader. Therefore, all emotion scores should be low. I will set all initial scores to 1 and then revise them to 0, except surprise which I will leave at 1 since the reader may be slightly surprised by the mundane nature of the order.",
+    "revised_scores": {
+        "joy": 0,
+        "sadness": 0,
+        "fear": 0,
+        "disgust": 0,
+        "surprise": 1
+    }
+}

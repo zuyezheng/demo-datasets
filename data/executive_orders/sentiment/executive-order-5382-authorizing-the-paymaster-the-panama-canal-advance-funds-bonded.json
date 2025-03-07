@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 0,
+        "sadness": 0,
+        "fear": 0,
+        "disgust": 0,
+        "surprise": 1
+    },
+    "critique": "The executive order seems to be a routine administrative procedure. It doesn't seem designed to evoke any strong emotions. The most likely emotion might be a mild sense of surprise that such a specific order was issued, but even that is unlikely to be strong. Therefore, I will score surprise as a 1 and all other emotions as 0. After further consideration, it seems even surprise is not warranted, so all emotions should be scored as 0.",
+    "revised_scores": {
+        "joy": 0,
+        "sadness": 0,
+        "fear": 0,
+        "disgust": 0,
+        "surprise": 0
+    }
+}

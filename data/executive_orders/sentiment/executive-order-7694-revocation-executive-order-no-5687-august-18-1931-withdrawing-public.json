@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The executive order appears to be a routine administrative action regarding land management in Wyoming. It revokes a previous order related to public lands after a resurvey. The language is formal and legalistic, and the content is unlikely to evoke strong emotions. The primary goal is to communicate a legal change, not to elicit an emotional response. Therefore, the scores for all emotions should be low. I will set joy, sadness, anger, fear, disgust, and surprise all to 1 initially. Upon further reflection, the act of revoking an order and making it effective upon filing of plats could elicit a very mild sense of surprise. Therefore, I will adjust the surprise score to 2.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

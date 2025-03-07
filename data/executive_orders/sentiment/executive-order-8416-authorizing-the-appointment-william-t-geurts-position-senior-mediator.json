@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The executive order seems to aim for a neutral tone, primarily focusing on administrative actions. It discusses the appointment of an individual to a specific position based on the recommendation of the Chairman of the Maritime Labor Board. There's no explicit intention to evoke strong emotions such as joy, sadness, anger, fear, disgust, or surprise. The language is formal and bureaucratic, suggesting an emphasis on procedure and efficiency rather than emotional impact. Therefore, the initial scores for all emotions would be very low, reflecting the document's objective and unemotional nature. Upon further reflection, while the document is primarily administrative, there might be a very slight element of 'surprise' for someone reading it out of context, simply due to the nature of an unexpected appointment. However, this would be minimal.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The executive order seems to be a formal document with little emotional content. The order includes amending a previous executive order and stating that it does not create any enforceable rights or benefits. The emotions that the president wants to convey are likely to be neutral. Therefore, all emotions are scored as 1 initially. After a second thought, the order could convey a very slight sense of surprise that the previous order needs to be amended. Therefore, the surprise score is revised to 2.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 1
+    },
+    "critique": "The executive order aims to convey a sense of security and protection of national interests. It highlights potential threats and outlines measures to mitigate them. Therefore, the primary emotion conveyed should be a sense of vigilance and cautious optimism, not necessarily strong emotions like joy or sadness. Fear and disgust are present due to the mention of adversaries, but they are not the primary focus. Surprise is not a relevant emotion in this context.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 5,
+        "disgust": 4,
+        "surprise": 1
+    }
+}

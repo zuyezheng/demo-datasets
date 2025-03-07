@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The executive order is a formal document outlining sanctions against Russia for its occupation of Crimea. The primary emotion it aims to convey is a sense of seriousness and resolve. While it doesn't explicitly aim to evoke joy, sadness, anger, fear, disgust, or surprise, a secondary goal might be to instill a sense of caution or concern among those potentially affected by the sanctions. The order is more about conveying authority and determination than eliciting a strong emotional response. The initial scores reflect this, with low values across all emotions. The revised scores slightly increase the fear and disgust to reflect the potential impact on those affected by the sanctions, and to convey the seriousness of the situation.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 3,
+        "surprise": 1
+    }
+}

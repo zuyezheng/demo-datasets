@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 6,
+        "disgust": 7,
+        "surprise": 4
+    },
+    "critique": "The executive order discusses a national emergency in Mali due to violence, drug trafficking, and human rights abuses. The order aims to block assets of those involved and suspend their entry into the US. The intended emotions are likely fear (due to the threat), disgust (at the actions described), and perhaps a sense of surprise or urgency given the declaration of a national emergency. Joy is definitely not an intended emotion, nor is sadness.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 7,
+        "disgust": 8,
+        "surprise": 5
+    }
+}

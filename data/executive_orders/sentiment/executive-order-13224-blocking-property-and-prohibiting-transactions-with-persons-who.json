@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 4,
+        "fear": 8,
+        "disgust": 7,
+        "surprise": 1
+    },
+    "critique": "The executive order is a serious document addressing a national emergency. The primary emotion it aims to convey is fear, to highlight the severity of the threat. It also aims to convey a sense of disgust towards the acts of terrorism. There is no intention to convey joy or surprise. Sadness is a possible emotion, but less prominent than fear or disgust.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 5,
+        "fear": 9,
+        "disgust": 8,
+        "surprise": 1
+    }
+}

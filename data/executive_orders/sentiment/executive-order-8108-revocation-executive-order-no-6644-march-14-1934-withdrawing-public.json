@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The executive order appears to be a routine administrative action regarding land management in Colorado. It revokes a previous order related to public lands after a resurvey. The language is formal and legalistic, and the content is unlikely to evoke strong emotions. The primary goal is to communicate a change in land status, not to elicit an emotional response. Therefore, the expected emotion scores should be very low across all emotions. I will set all initial scores to 1 and then revise based on the lack of emotional content.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

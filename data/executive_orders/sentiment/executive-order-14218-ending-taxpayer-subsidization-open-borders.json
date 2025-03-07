@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 4,
+        "surprise": 1
+    },
+    "critique": "The executive order aims to evoke a sense of security and confidence in the government's ability to manage resources and protect citizens. It subtly introduces fear and disgust towards illegal immigration by highlighting the misuse of taxpayer money and the undermining of existing laws. The order does not explicitly aim to evoke joy or surprise, and sadness is only indirectly related to the concern for misused resources.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 5,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 4,
+        "fear": 5,
+        "disgust": 6,
+        "surprise": 3
+    },
+    "critique": "The executive order aims to address the Deepwater Horizon oil spill. It seeks to convey a sense of responsibility, action, and reassurance. It acknowledges the disaster and establishes a commission to investigate and develop preventative measures. The order does not explicitly aim to evoke joy. It does acknowledge the disaster, which could evoke sadness in some. It aims to reduce fear of future disasters through preventative measures. It acknowledges the negative impacts of the oil spill, which could evoke disgust. It may evoke surprise that the president is taking action.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 5,
+        "fear": 6,
+        "disgust": 7,
+        "surprise": 4
+    }
+}

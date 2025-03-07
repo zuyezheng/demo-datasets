@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The executive order is a routine administrative action, so it should not evoke strong emotions. The order is about appointing someone to a position and is unlikely to make people feel joy, sadness, anger, fear, disgust, or surprise. The initial scores should be low, and the revised scores should be even lower, closer to zero.",
+    "revised_scores": {
+        "joy": 0,
+        "sadness": 0,
+        "fear": 0,
+        "disgust": 0,
+        "surprise": 0
+    }
+}

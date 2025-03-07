@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 0,
+        "sadness": 1,
+        "fear": 0,
+        "disgust": 0,
+        "surprise": 1
+    },
+    "critique": "The executive order seems to be a declaration of land being used for military purposes. It is unlikely to evoke strong emotions. The order is factual and formal, so it shouldn't make people feel joy, sadness, fear, disgust, or surprise. However, depending on one's stance on military activities and land use, some people might feel slight sadness or surprise. I will set the initial scores to 1 for sadness and surprise and then revise them to 0, as the order is unlikely to evoke any emotions.",
+    "revised_scores": {
+        "joy": 0,
+        "sadness": 0,
+        "fear": 0,
+        "disgust": 0,
+        "surprise": 0
+    }
+}

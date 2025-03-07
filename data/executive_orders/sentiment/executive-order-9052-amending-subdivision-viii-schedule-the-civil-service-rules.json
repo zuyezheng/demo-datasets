@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The executive order is a simple administrative action, so it should not convey strong emotions. The order is about amending a rule, so it should not convey joy, sadness, anger, fear, disgust, or surprise. The initial scores should be low, and the revised scores should be even lower.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

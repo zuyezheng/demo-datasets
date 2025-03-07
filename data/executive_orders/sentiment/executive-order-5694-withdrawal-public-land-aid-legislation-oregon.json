@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The executive order appears to be a legal document about land withdrawal. It is unlikely that the president wants the audience to feel any particular emotion. The language is formal and factual, and the content is specific to a particular piece of land. Therefore, all emotions should be scored as 1 initially. After further consideration, since the order is about land use and might evoke slight disappointment or concern for some, I will adjust sadness and fear to 2.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 2
+    },
+    "critique": "The executive order seems to aim for a tone of serious concern and a call to action regarding migratory labor. It doesn't explicitly aim to evoke strong emotions like joy or sadness. However, there might be an underlying sense of concern (potentially leading to fear or disgust regarding the problems mentioned) and a desire for positive change (potentially leading to a mild sense of hope or surprise if the commission is effective). The initial scores reflect this, with low values for most emotions and slightly higher values for fear and surprise. The revised scores adjust these values based on a more nuanced understanding of the text's intent.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 3
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The executive order is a formal document that establishes an interagency committee on handicapped employees. The order itself doesn't express emotions. The goal is to inform and direct, not to evoke feelings. Therefore, the scores for all emotions should be low. I will set all initial scores to 1 and then revise them to 0, except for joy which I will leave at 1 since the creation of the committee could bring a small amount of joy.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 0,
+        "fear": 0,
+        "disgust": 0,
+        "surprise": 0
+    }
+}

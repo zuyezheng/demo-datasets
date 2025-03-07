@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The executive order seems to aim to convey a sense of urgency and importance, but not necessarily strong emotions. It's more about stating facts and establishing a board to resolve a dispute. Therefore, the scores should be relatively low across all emotions. The order is laying out a serious situation, so I will adjust the fear score to reflect the potential disruption to interstate commerce.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

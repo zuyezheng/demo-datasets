@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The executive order is a formal document that amends regulations related to the Public Health Service. It primarily focuses on defining terms and updating security requirements. The intended audience is likely government officials and those working within the Public Health Service. The document does not aim to evoke strong emotions but rather to provide clarity and ensure national security. Therefore, the scores for all emotions should be relatively low. I will set joy, sadness, fear, disgust, and surprise all to 1 initially, then revise based on the need for security requirements.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

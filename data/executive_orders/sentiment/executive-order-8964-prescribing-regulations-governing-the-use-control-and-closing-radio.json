@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 5,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 3
+    },
+    "critique": "The executive order is a serious and formal document issued during a time of war. The primary emotion it aims to convey is a sense of urgency and resolve, with a secondary goal of reassuring the public that measures are being taken to ensure national security. Therefore, fear and surprise should be minimized, while a sense of controlled urgency (perhaps leaning towards sadness given the context of war) should be emphasized. Joy and disgust are not relevant in this context.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 6,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 2
+    }
+}
