@@ -21,6 +21,12 @@ sentence-transformers = "^3.4.1"
 transformers = "^4.49.0"
 torch = "^2.6.0"
 ipywidgets = "^8.1.5"
+accelerate = "^1.4.0"
+langchain-openai = "^0.3.7"
+langchain-google-genai = "^2.0.11"
+langchain-ollama = "^0.2.3"
+langchain = "^0.3.20"
+pydantic = "^2.10.6"
 
 
 [build-system]
