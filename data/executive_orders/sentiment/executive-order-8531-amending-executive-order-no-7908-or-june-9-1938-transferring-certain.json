@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a legal document, so it is unlikely to evoke strong emotions. The order amends a previous order related to land use and disposition, so it may bring a mild sense of relief to those affected. Therefore, I will score joy as 2 and all other emotions as 1.",
+    "critique": "The document is a formal amendment to an executive order regarding land use and disposition under the Bankhead-Jones Farm Tenant Act. It primarily concerns legal and administrative procedures. There is no explicit or implicit emotional sentiment conveyed by the President in this document. Therefore, all emotion scores should be low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

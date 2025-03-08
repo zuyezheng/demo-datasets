@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a technical document about amending a previous order. It doesn't seem designed to evoke strong emotions. However, there might be a very mild sense of reassurance (joy) that the government is functioning and updating regulations as needed. There's no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order. It primarily conveys information and instructions related to agricultural trade and reporting requirements. There is no strong indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

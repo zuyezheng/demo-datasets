@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of optimism and relief by reducing regulatory burdens. It also seeks to instill confidence in the government's ability to manage regulations effectively. The order does not seem to intentionally evoke negative emotions such as sadness, anger, fear, or disgust. Surprise is also not a primary emotion the order intends to elicit.",
+    "critique": "The document is a formal executive order. It aims to reduce regulatory burdens. The language is formal and legalistic. There is no explicit expression of emotion. However, the implied sentiment is a positive one, suggesting a desire to improve the lives of Americans by reducing unnecessary regulations. This could be interpreted as a form of joy or optimism, but it is very subtle. The document does not convey sadness, anger, fear, or disgust. Surprise is not relevant in this context.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

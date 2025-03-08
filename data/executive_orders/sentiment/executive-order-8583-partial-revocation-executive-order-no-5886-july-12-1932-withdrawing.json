@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action related to land management in Wyoming. It revokes a previous order and specifies a township. There is no indication of an attempt to evoke any particular emotion in the reader. Therefore, all emotion scores should be low. I will set all initial scores to 1 and then revise them to 0, except for surprise which I will leave at 1 in the initial scores.",
+    "critique": "The document is a formal executive order regarding land in Wyoming. It revokes a previous order and specifies a township. There is no language suggesting any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

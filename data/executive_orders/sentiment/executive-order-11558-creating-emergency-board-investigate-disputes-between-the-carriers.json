@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, focusing on addressing a labor dispute and preventing disruption to interstate commerce. It establishes a board to investigate the disputes and maintain the status quo during the investigation period. There's no explicit intention to evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, a subtle sense of reassurance or relief might be conveyed by addressing the potential disruption. Initial assessment: Joy: 1, Sadness: 1, Anger: 1, Fear: 2, Disgust: 1, Surprise: 1. Revised assessment: Joy: 1, Sadness: 1, Anger: 1, Fear: 1, Disgust: 1, Surprise: 1.",
+    "critique": "The document is a formal executive order creating a board to investigate a labor dispute. The language is legal and procedural, with no explicit emotional expression. However, the context suggests a potential for negative emotions (fear, sadness, disgust) due to the threat of interrupted transportation services, but the president is trying to project calm and resolve. The initial scores reflect a baseline level of these emotions, with joy and surprise being minimal. The revised scores slightly increase the negative emotions to acknowledge the underlying context, while still keeping them relatively low to reflect the document's neutral tone.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
         "surprise": 1
     }
 }

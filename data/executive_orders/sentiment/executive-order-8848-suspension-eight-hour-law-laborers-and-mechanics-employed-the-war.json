@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 2,
-        "fear": 7,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of urgency and resolve in addressing the national defense needs. It highlights the necessity of completing public works quickly due to an extraordinary emergency. The order likely intends to instill a sense of confidence and preparedness rather than fear or sadness. Surprise is not a primary emotion the order seeks to evoke, and disgust is irrelevant in this context. The primary emotions are Joy and Fear. Joy that the war department is working hard and Fear of the extraordinary emergency.",
+    "critique": "The document is a presidential order regarding labor during a national emergency. It primarily conveys a sense of urgency and necessity due to the war. There's a hint of concern about labor shortages. It does not explicitly convey joy, sadness, disgust, or surprise. The primary emotions are related to fear (national defense) and perhaps a little bit of concern/sadness about the labor situation. The order aims to inspire confidence and resolve, but fear is likely the strongest emotion the public would feel, followed by a little bit of concern/sadness.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 2,
-        "fear": 7,
+        "joy": 1,
+        "sadness": 3,
+        "fear": 6,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

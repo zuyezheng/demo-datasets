@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of stability and confidence in the government's handling of foreign trade. It establishes a clear structure for coordinating efforts and utilizing resources. Therefore, the primary emotion conveyed should be joy that the government is handling trade well. There might be a hint of surprise at the restructuring, but it's not a dominant emotion. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding foreign trade. It establishes an office and outlines its responsibilities. The language is formal and bureaucratic. There is no strong emotional sentiment conveyed. A slight sense of optimism or hope might be inferred, but it's very mild. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

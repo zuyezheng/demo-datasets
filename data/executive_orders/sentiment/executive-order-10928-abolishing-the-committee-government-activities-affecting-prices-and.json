@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a simple announcement about abolishing a committee. It's unlikely to evoke strong emotions. Maybe a tiny bit of surprise that a committee was abolished, but overall, it's a very neutral document.",
+    "critique": "The document is a formal executive order. It abolishes a committee and revokes a previous executive order. There is no explicit emotional language used. The expected emotional response from the public would likely be minimal, as it's a procedural government action. Therefore, all emotions are scored low initially. After further consideration, while the document itself doesn't convey strong emotions, the act of abolishing a committee might evoke slight sadness in those who were part of it or surprise in those who didn't expect it. However, these would still be relatively low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

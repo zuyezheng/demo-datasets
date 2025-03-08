@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document addressing a labor dispute. It aims to convey a sense of authority, responsibility, and resolution rather than strong emotions. The primary emotion might be a mild sense of reassurance that the situation is being handled.",
+    "critique": "The document is a formal executive order issued by President Lyndon B. Johnson. It addresses a labor dispute between railway carriers and their employees, mediated by the National Mediation Board. The order establishes a board to investigate the disputes and prevent any changes to the conditions that led to the disputes for a specified period. The language is formal and legalistic, typical of official government documents.The primary emotion conveyed is a sense of seriousness and urgency, reflecting the potential disruption to interstate commerce. There's a hint of concern or worry about the economic impact of the labor dispute. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the implicit emotions are concern and a sense of responsibility to address the situation.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

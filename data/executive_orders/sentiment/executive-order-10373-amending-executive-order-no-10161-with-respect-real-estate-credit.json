@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document delegating authority related to the Defense Production Act. It doesn't seem designed to evoke strong emotions. Perhaps a tiny bit of surprise that such an order exists, but overall, it's very neutral.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and official action, but doesn't strongly evoke any specific emotion. The language is legal and procedural, not designed to elicit an emotional response from the public. Therefore, all emotions are scored low initially. Upon further reflection, the document's serious and formal tone might induce a very slight sense of fear or unease in some readers, so I will adjust the fear score slightly upwards.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

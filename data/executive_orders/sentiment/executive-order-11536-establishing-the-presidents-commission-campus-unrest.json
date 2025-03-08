@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 4,
+        "fear": 5,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order aims to address campus unrest and promote peaceful resolution of grievances. It seeks to instill a sense of calm and order, while also acknowledging the concerns and rights of students. The order does not explicitly aim to evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, it subtly aims to reduce fear and promote a sense of order and control. Therefore, the initial scores should reflect a low level of fear and a minimal presence of other emotions.",
+    "critique": "The document is a formal executive order establishing a commission to study campus unrest. The language is formal and objective, with no explicit emotional expression. However, the context of addressing 'dissent, disorder, and violence' suggests underlying concerns about these issues. Therefore, I would expect some level of fear and sadness, but not joy, disgust, or surprise. The intensity of these emotions is likely to be moderate, as the document aims to address the issues in a structured and official manner.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 4,
+        "fear": 5,
         "disgust": 1,
         "surprise": 1
     }

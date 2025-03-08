@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining the establishment and objectives of the Enrichment Oversight Committee (EOC). The order aims to ensure the full implementation of agreements, monitor foreign influence, and maintain domestic enrichment services. The intended audience is government officials, agencies, and stakeholders involved in uranium enrichment and related businesses. The document does not explicitly aim to evoke strong emotions. However, a sense of security and confidence in the government's oversight of these critical areas might be subtly conveyed. Therefore, I will assign low scores to joy and surprise and very low scores to the other emotions.",
+    "critique": "The document is a formal executive order regarding uranium enrichment and related businesses. It establishes an Enrichment Oversight Committee (EOC) and outlines its objectives, organization, and responsibilities. The language is legal and bureaucratic, with no overt emotional expression. The President is conveying a sense of seriousness and responsibility in ensuring national security and the proper implementation of agreements related to uranium enrichment. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

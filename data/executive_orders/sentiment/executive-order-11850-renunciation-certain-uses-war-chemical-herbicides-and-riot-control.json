@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 2
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to reduce the use of herbicides and riot control agents in war, which could evoke a sense of relief and perhaps a little joy that the president is taking steps to limit harmful practices. However, it also acknowledges situations where their use might be necessary, which could temper the joy and introduce a bit of fear or concern about those situations. The overall tone is serious and policy-oriented, so strong emotions are unlikely. The order might also cause surprise as it limits the use of certain agents of war.",
+    "critique": "The document primarily conveys a sense of caution and control regarding the use of herbicides and riot control agents in war. There's a focus on limitations and regulations, suggesting an attempt to minimize harm and maintain order. Therefore, fear and disgust might be relevant emotions, but not strongly emphasized. Joy and surprise are unlikely to be conveyed. Sadness might be present due to the context of war, but it's not the primary focus. The initial scores reflect this assessment, with fear and disgust having slightly higher values than joy, sadness, and surprise. The revised scores aim to fine-tune these values based on the critique.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 2
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 4,
+        "surprise": 1
     }
 }

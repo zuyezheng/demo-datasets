@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of joy and surprise. The order establishes a committee to support women's business ownership, which could evoke joy in those who support such initiatives. The establishment of the committee itself might be seen as a surprise, depending on the context and prior expectations.",
+    "critique": "The document is a formal executive order establishing an advisory committee. It uses formal language and outlines the committee's purpose, composition, functions, administration, and general provisions. There is no explicit expression of emotions in the document. The president is not attempting to portray any specific emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

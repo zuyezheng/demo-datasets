@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 7,
+        "sadness": 2,
+        "fear": 5,
         "disgust": 6,
         "surprise": 3
     },
-    "critique": "The executive order discusses a disease spread by parrots and aims to prevent its further introduction into the United States. The order is likely to evoke fear and disgust due to the mention of a potentially fatal disease. There might also be a sense of surprise that parrots can transmit diseases. There is no indication of joy or sadness.",
+    "critique": "The document expresses concern about a disease spread by parrots and aims to prevent its further introduction into the United States. It conveys a sense of caution and determination to protect public health.The president is not attempting to portray joy, sadness, anger. The document expresses a degree of fear and disgust, and surprise.The initial scores reflect these considerations.\n\nThe revised scores take into account the overall tone and purpose of the document, adjusting the intensity of each emotion accordingly.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 8,
+        "sadness": 2,
+        "fear": 6,
         "disgust": 7,
         "surprise": 4
     }

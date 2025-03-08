@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a logistical directive concerning employment conditions and transportation benefits for individuals working with The Panama Canal during World War II. It doesn't seem designed to evoke strong emotions. However, one could argue it aims to provide a sense of stability and support (joy) for those serving in the Panama Canal, and perhaps a mild sense of relief (surprise) that these benefits are being offered. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding transportation and subsistence allowances for individuals engaged for service with The Panama Canal. It cites legal authority and outlines specific provisions and effective dates. There is no explicit emotional language or sentiment expressed in the document. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

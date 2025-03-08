@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The executive order seems to aim for a sense of calm and resolution rather than strong emotions. It addresses a dispute and establishes a board to investigate, suggesting a desire to resolve the issue peacefully and maintain essential transportation services. Therefore, the primary emotion conveyed should be a mild sense of relief or reassurance, with perhaps a touch of surprise that the situation required presidential intervention. There isn't a strong indication of joy, sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It primarily conveys a sense of urgency and authority, but not necessarily any strong emotion. The situation warrants attention, but the language is neutral. Therefore, I would expect low scores for all emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 2
     }

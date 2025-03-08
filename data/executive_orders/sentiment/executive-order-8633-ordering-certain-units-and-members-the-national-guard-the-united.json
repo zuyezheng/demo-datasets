@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 7,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 2
     },
-    "critique": "The executive order is a formal document that aims to mobilize the National Guard. It is likely to evoke a sense of fear and perhaps sadness in those being called to duty, and possibly surprise at the scale of the mobilization. There is no intention to evoke joy or disgust.",
+    "critique": "The document is a military order, so it is unlikely to convey strong emotions. However, the order to active duty could cause fear and sadness in those affected, and perhaps surprise. The order is unlikely to convey joy or disgust.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 7,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 2
     }
 }

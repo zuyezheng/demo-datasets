@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 2
     },
-    "critique": "The executive order seems to want the audience to feel joy and surprise. The order discusses a woman being appointed to a classified position and the fact that she has three children who are being taught trades. The order also mentions that she is a veteran. These facts may cause the audience to feel joy and surprise.",
+    "critique": "The document describes the appointment of Mrs. Maude Williams to a classified position. The tone is formal and bureaucratic. The mention of her children and their financial dependence on her introduces a hint of sympathy or concern, but it's not the primary focus. There's no strong indication of joy, anger, fear, disgust, or surprise. The emotions that might be present are mild sadness (due to the children's situation) and perhaps a touch of surprise that such details are included in an official document. The initial scores reflect this assessment, with low values for most emotions and a slightly higher value for sadness. The revised scores are similar, with a slight adjustment to surprise to reflect the unusual nature of the document's content.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 3
     }
 }

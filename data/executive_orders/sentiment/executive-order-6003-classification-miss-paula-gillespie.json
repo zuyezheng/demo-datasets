@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to want the audience to feel joy and surprise. The order is classifying Miss Paula Gillespie, who has been employed in the office of the Assistant Secretary of the Navy, as senior clerk-stenographer, without a competitive classified status since April 22, 1930. This is a positive change for her, so the audience may feel joy. The audience may also feel surprise that this is happening. The order is issued upon the recommendation of the Assistant Secretary of the Navy. The White House, January 18, 1933.",
+    "critique": "The document is a formal order classifying Miss Paula Gillespie. It's a bureaucratic action with no inherent emotional content. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a formal document outlining regulations for salary advancements within the federal government. It uses precise language and focuses on definitions, computations, and priorities related to salary. There is no indication of an attempt to evoke any particular emotion in the reader. Therefore, all emotion scores should be very low.",
+    "critique": "The document is a set of regulations regarding salary advancements for federal employees. It is a formal and legalistic document, and therefore unlikely to convey strong emotions. The most relevant emotions to consider are joy (due to potential salary increases) and perhaps a lack of surprise, fear, disgust, or sadness. However, given the dry and procedural nature of the text, even joy is unlikely to be strongly conveyed.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of fairness and gratitude towards veterans and their families. It focuses on providing advantages in civil service examinations based on military service and disability. The primary emotion conveyed should be joy for those who benefit from the order, and perhaps a sense of surprise at the extent of the benefits. There might be a tinge of sadness for those who are not eligible, but the overall tone is positive and supportive. The order does not seem to evoke fear, disgust, or anger.",
+    "critique": "The document primarily discusses amendments to examination rules, focusing on benefits for veterans and their families. It aims to inform and formalize these changes. There's no strong indication of emotions like joy, sadness, anger, fear, disgust, or surprise. The language is formal and bureaucratic. Therefore, all emotions are scored low, with a default of 1 due to the lack of emotional content.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

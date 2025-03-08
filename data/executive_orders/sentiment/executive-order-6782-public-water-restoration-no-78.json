@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a legal document that revokes a previous order related to public water reserve no. 49 in Montana. The order itself doesn't seem designed to evoke strong emotions. It's a formal announcement about land management. However, there might be a slight sense of surprise for those familiar with the original order, as it is being partially revoked. There might be a little joy for those who want the land to be available.",
+    "critique": "The document is a legal order regarding land use in Montana. It revokes a previous order and specifies that the land will not be immediately available for public use. The language is formal and bureaucratic. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

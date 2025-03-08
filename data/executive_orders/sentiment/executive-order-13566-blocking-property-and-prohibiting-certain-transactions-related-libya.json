@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
+        "joy": 1,
         "sadness": 4,
-        "fear": 8,
-        "disgust": 7,
-        "surprise": 0
+        "fear": 5,
+        "disgust": 6,
+        "surprise": 3
     },
-    "critique": "The executive order discusses blocking assets of Libyan officials due to violence against civilians, posing a threat to national security. The primary emotion conveyed should be fear regarding the threat to national security and disgust at the violence. There may also be some sadness related to the suffering of the Libyan people. There is no element of joy or surprise.",
+    "critique": "The document expresses concern and determination in response to a serious situation. It conveys a sense of urgency and resolve to protect national security and foreign policy interests. The primary emotions conveyed are concern (due to the threat) and determination (to address the threat). There is also an element of disgust at the actions of Qadhafi and his associates.",
     "revised_scores": {
-        "joy": 0,
+        "joy": 1,
         "sadness": 5,
-        "fear": 9,
-        "disgust": 8,
-        "surprise": 0
+        "fear": 6,
+        "disgust": 7,
+        "surprise": 3
     }
 }

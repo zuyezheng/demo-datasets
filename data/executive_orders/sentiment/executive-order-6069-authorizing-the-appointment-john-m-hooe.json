@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order discusses the appointment of Mr. John M. Hooe to a permanent position, which could evoke joy in the reader. The fact that this appointment is made without compliance with civil-service rules and is recommended by both the Secretary of the Treasury and the Civil Service Commission might be surprising. The intensity of joy is moderate, as it's a bureaucratic matter, not a personal celebration. The surprise is also moderate, as the order explains the reasons for the unusual appointment.",
+    "critique": "The document is a formal order regarding the appointment of Mr. John M. Hooe. It doesn't express any particular emotion. The language is neutral and factual. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

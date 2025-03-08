@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a dry, factual statement about reserving land for the Forest Service. There's no indication of intended emotion. The initial scores should be all zero. After further consideration, there is no emotion to be conveyed.",
+    "critique": "The document is a legal order regarding land allocation for the Forest Service. It's a formal announcement with no emotional language. Therefore, all emotions should be scored low initially. After revision, all scores remain at 1 as there is no indication of any emotion.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

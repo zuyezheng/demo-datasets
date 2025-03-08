@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 3,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 4
-    },
-    "critique": "The executive order seems to aim for a sense of reassurance and hope, suggesting joy and a lack of fear or disgust. There might be a hint of surprise at the changes being implemented, but overall, it's about stability and progress.",
-    "revised_scores": {
-        "joy": 7,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
+    },
+    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Laundry Trade. The language is legalistic and bureaucratic, with no clear emotional tone. The President is conveying a sense of order and progress, but not necessarily joy, sadness, anger, fear, disgust, or surprise. The public is likely to perceive the document as a routine administrative action. Therefore, the initial scores for all emotions are set to 1, indicating a minimal emotional impact.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

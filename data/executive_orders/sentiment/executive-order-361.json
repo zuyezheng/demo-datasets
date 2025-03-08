@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 7,
+        "joy": 1,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order is a formal announcement regarding the closure of government departments for the decoration of soldiers' graves. The primary emotion conveyed is sadness, to honor the fallen soldiers. There might be a hint of joy in commemorating their service, but sadness is more prominent. There is no indication of anger, fear, disgust, or surprise.",
+    "critique": "The document expresses respect and solemnity towards fallen soldiers. It aims to encourage participation in honoring their memory. It does not explicitly convey joy, sadness, anger, fear, disgust, or surprise. However, a sense of sadness and respect are implied.The initial scores reflect a baseline with slightly elevated sadness. The revised scores increase sadness and slightly increase surprise to reflect the solemn nature of the event and the potential for reflection.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 7,
+        "joy": 1,
+        "sadness": 5,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

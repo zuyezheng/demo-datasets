@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim to instill a sense of order, efficiency, and perhaps a bit of fear or respect for authority. It outlines the process for removing inefficient or incapable employees, emphasizing the President's or department head's authority in such matters. There might be a slight element of disgust towards inefficiency or misconduct. There isn't a strong indication of joy, sadness, or surprise being conveyed.",
+    "critique": "The document discusses amendments to civil service rules regarding removals and reductions in grade or compensation. It focuses on efficiency, cause, and procedure. There is no explicit expression of emotion. The president seems to be conveying a sense of neutrality and objectivity. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

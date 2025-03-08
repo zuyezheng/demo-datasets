@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 4,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of joy and surprise. The joy comes from the fact that Mrs. Horigan is being appointed to a position in the Department of Agriculture. The surprise comes from the fact that she is being appointed without regard to the civil-service rules. However, the order also conveys a sense of sadness. The sadness comes from the fact that Mrs. Horigan is the widow of James B. Horigan, who for nearly 23 years was employed in the Government service in the Solicitor's Office of the Department of Agriculture. The order does not seem to convey any sense of anger, fear, or disgust.",
+    "critique": "The document is a recommendation for Mrs. Josephine Horigan to be appointed to a position. It mentions her late husband's service and the Secretary of Agriculture's recommendation. The tone is formal and bureaucratic. There is no strong indication of any particular emotion. Therefore, I will assign low scores to all emotions initially. Then upon further consideration, I realized that the mention of the widow and her late husband could evoke some sadness, so I will increase the sadness score slightly.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 4,
+        "joy": 1,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

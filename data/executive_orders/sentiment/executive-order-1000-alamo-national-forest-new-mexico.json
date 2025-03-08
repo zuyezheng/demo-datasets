@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 4,
         "fear": 1,
-        "disgust": 2,
+        "disgust": 3,
         "surprise": 2
     },
-    "critique": "The executive order seems to be primarily concerned with land allocation and restoration to the public domain, with some exceptions for Indian allotments. It's unlikely to evoke strong emotions in the general public. However, it could potentially evoke sadness among the Native American population due to the restoration of land to the public domain, and perhaps surprise or disgust at the policy. There's no indication of joy, fear, or anger being intentionally conveyed.",
+    "critique": "The document is a legal order regarding land allocation. It revokes previous orders that had set aside land for the Navajo Reservation, restoring it to the public domain, with some exceptions. This action could evoke sadness from those who sympathize with the Native Americans, disgust from those who find the action unjust, and potentially surprise from those unaware of the initial orders. However, the primary tone is administrative and factual, not explicitly designed to evoke strong emotions. Therefore, the scores should be relatively low, with sadness and disgust being slightly higher than the others due to the potential negative impact on the Navajo.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 5,
+        "sadness": 4,
         "fear": 1,
         "disgust": 3,
         "surprise": 2

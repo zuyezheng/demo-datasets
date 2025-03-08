@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that primarily aims to inform and direct government actions. It does not explicitly aim to evoke strong emotions in the audience. However, some subtle emotions might be present. There might be a slight sense of reassurance (joy) that the government is functioning and addressing important issues. There might be a very mild sense of surprise at the scope and detail of the order. There is no indication of sadness, fear, or disgust.",
+    "critique": "The document is a formal executive order. It primarily deals with the continuation, amendment, and revocation of various advisory committees and executive orders. The language is legalistic and procedural. There is no explicit expression of emotion intended for the public. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

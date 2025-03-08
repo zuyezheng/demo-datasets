@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, focusing on addressing a labor dispute and ensuring the continuation of essential transportation services. It doesn't explicitly try to evoke strong emotions. However, there might be a subtle element of reassurance or relief that the situation is being handled, which could translate to a low level of joy. There might also be a very slight element of surprise that the president is involved. The initial scores reflect this assessment, with low values for joy and surprise and zero for other emotions. The revised scores remain the same, as the initial assessment seems accurate.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It uses formal and legalistic language. There is no indication of an attempt to portray any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

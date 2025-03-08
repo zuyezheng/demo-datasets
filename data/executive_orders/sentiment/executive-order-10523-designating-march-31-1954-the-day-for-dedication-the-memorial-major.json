@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 3,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order is a formal announcement and directive. It primarily aims to convey respect and commemoration of General Goethals' achievements. While it's not intended to evoke strong emotions, there's a subtle sense of pride and perhaps a touch of nostalgia. Therefore, joy might be a relevant emotion, but at a low intensity. There's no indication of sadness, anger, fear, or disgust. Surprise is also not relevant.",
+    "critique": "The document is a formal declaration regarding the dedication of a memorial. It primarily conveys respect and commemoration, with a hint of pride in the historical achievement. There's no strong indication of negative emotions like sadness, fear, disgust, or strong positive emotions like joy or surprise. The scores should reflect this.",
     "revised_scores": {
         "joy": 3,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

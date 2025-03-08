@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order is a technical document regarding tax regulations. It is unlikely to evoke strong emotions. The most relevant emotion might be a mild sense of relief or satisfaction for those affected by the regulations, but the intensity would be low. Therefore, I will score joy as 2 and all other emotions as 1.",
+    "critique": "The document is a formal amendment to an executive order regarding tax regulations. It's unlikely to evoke strong emotions in the American public. The primary emotion might be a mild sense of surprise that such specific regulations exist, but overall, the emotional impact is minimal.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

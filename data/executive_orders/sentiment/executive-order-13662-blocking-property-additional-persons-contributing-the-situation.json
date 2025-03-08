@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 3,
         "fear": 5,
-        "disgust": 4,
-        "surprise": 0
+        "disgust": 6,
+        "surprise": 2
     },
-    "critique": "The executive order aims to convey a sense of seriousness and resolve in addressing a national security threat. It should evoke a sense of concern and perhaps a degree of fear regarding the actions of the Russian Federation. There might also be a sense of disgust towards the actions described. Joy and surprise are not intended emotions. Sadness might be a very minor emotion due to the situation in Ukraine.",
+    "critique": "The document is an executive order regarding sanctions against Russia. It expresses concern about the situation in Ukraine and the threat to US national security and foreign policy. The primary emotion conveyed is concern and resolve. There is a sense of seriousness and determination to address the issue. There isn't necessarily joy, sadness, or surprise. There might be some fear and disgust related to the actions of the Russian Federation, but these are secondary to the overall tone of concern and resolve.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 1,
-        "fear": 6,
+        "joy": 1,
+        "sadness": 3,
+        "fear": 4,
         "disgust": 5,
-        "surprise": 0
+        "surprise": 2
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 3,
         "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of determination and resolve to bring justice to those responsible for atrocities and war crimes. It aims to instill a sense of hope that justice will be served. The order itself is very factual and procedural, so emotions such as joy and sadness are not relevant. The order does not want to instill fear or disgust. Surprise is also not relevant.",
+    "critique": "The document is a formal executive order. It expresses no explicit emotion. However, given the context of prosecuting war crimes, one could infer a sense of disgust and anger towards the actions of the Axis powers. However, the order itself is written in a neutral, legal tone. Therefore, the initial scores should be low across the board, with a slightly higher score for disgust.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 3,
         "surprise": 1
     }
 }

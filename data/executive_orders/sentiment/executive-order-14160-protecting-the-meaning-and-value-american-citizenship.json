@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 6
-    },
-    "critique": "The executive order seems to want to evoke a sense of surprise and perhaps some fear or disgust in those who disagree with its stance on citizenship. It also aims to instill joy in those who support stricter citizenship rules. The order attempts to justify its position by referencing historical context and legal interpretations, potentially evoking sadness related to past injustices.",
-    "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 3,
         "fear": 5,
         "disgust": 4,
-        "surprise": 7
+        "surprise": 4
+    },
+    "critique": "The document expresses a serious and formal tone, typical of executive orders. It aims to clarify and restrict the interpretation of birthright citizenship, potentially evoking strong reactions. The reference to Dred Scott highlights a historical injustice, adding a layer of moral weight to the argument. However, the overall tone is measured and legalistic, not explicitly expressing strong emotions. The likely emotions conveyed are disgust at past injustices, fear about the future, and surprise at the new interpretation.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 4,
+        "fear": 6,
+        "disgust": 5,
+        "surprise": 5
     }
 }

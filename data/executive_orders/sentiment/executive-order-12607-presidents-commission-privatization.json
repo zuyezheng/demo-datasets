@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of serious consideration and action. There may be a hint of optimism or joy that privatization will lead to better outcomes, but it is not overt. There is no intention to evoke sadness, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order establishing a commission. It uses formal language and outlines specific functions and administrative details. There is no explicit emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

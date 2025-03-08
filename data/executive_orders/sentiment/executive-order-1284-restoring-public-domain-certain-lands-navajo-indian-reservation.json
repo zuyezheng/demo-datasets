@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 5,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be conveying sadness as it takes land away from people. The order does not seem to convey joy, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal order regarding land allocation. It doesn't express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 5,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

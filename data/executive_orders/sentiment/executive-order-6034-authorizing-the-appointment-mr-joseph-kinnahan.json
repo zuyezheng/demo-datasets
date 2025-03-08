@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order is about an appointment, which is generally a happy event. The surprise comes from the fact that the person is being appointed without having to comply with civil-service rules.",
+    "critique": "The document is a formal announcement of an appointment. It is unlikely to evoke strong emotions. The initial scores are all 1. The revised scores are all 1 because there is no emotion conveyed.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 1
     }
 }

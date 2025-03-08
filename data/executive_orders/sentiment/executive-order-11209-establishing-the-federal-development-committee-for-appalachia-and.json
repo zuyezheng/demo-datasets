@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of hope and optimism regarding the economic development of the Appalachian region. It establishes a committee to coordinate efforts and address the region's economic challenges. The order seeks to inspire confidence in the government's commitment to improving the lives of people in Appalachia. The primary emotions conveyed are joy and surprise, with a lesser emphasis on hope and optimism.",
+    "critique": "The document is a formal executive order establishing a committee to coordinate federal efforts in the Appalachian region. The language is formal and bureaucratic, focusing on the structure and function of the committee. There is no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. The primary goal is to convey a sense of order, responsibility, and commitment to economic development. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 3,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

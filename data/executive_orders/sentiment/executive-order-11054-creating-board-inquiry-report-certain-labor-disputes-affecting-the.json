@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
-        "fear": 5,
-        "disgust": 3,
+        "joy": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim to convey a sense of urgency and concern regarding the potential impact of the labor disputes on national health and safety. It invokes authority and establishes a Board of Inquiry to address the issues. The primary emotions the president likely wants to convey are concern (leading to a degree of fear) and a sense of decisive action (potentially inspiring a bit of joy or relief that the situation is being handled). There might also be a hint of disgust at the situation that has arisen, disrupting the flow of essential goods. Surprise is less relevant here, as the order is a response to a known situation.",
+    "critique": "The document is a formal presidential order creating a Board of Inquiry to address a labor dispute. The language is legalistic and factual, with the primary goal of conveying the seriousness of the situation and the need for intervention. There's no explicit attempt to evoke emotions. However, the mention of 'imperil the national health and safety' and 'affect the flow and utilization of necessary perishable products' might implicitly suggest a sense of concern or urgency. The document does not convey joy. The document does convey sadness because the strike will affect the flow of necessary perishable products. The document does not convey anger. The document does convey fear because the strike will imperil the national health and safety. The document does not convey disgust. The document does not convey surprise.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 3,
-        "fear": 6,
-        "disgust": 4,
+        "fear": 4,
+        "disgust": 1,
         "surprise": 1
     }
 }

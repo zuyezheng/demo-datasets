@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 2
     },
-    "critique": "The executive order is primarily concerned with protecting patient privacy and limiting the use of health information by law enforcement. The intended emotional response is likely a sense of reassurance and trust in the government's commitment to privacy. There might be a slight element of surprise that these protections are being put in place. There is no intention to evoke disgust, fear, joy, or sadness.",
+    "critique": "The document is a formal executive order regarding the use of protected health information. It aims to establish a policy that protects patient privacy while allowing law enforcement access when the public interest clearly outweighs privacy concerns. The language is formal and legalistic, focusing on policy and implementation. There is no explicit expression of emotions. However, the document implicitly conveys a sense of responsibility and concern for both public safety and individual privacy. Given the nature of the document, the expected emotional response from the public would likely be minimal, with slight degrees of reassurance and perhaps mild surprise at the level of detail. Therefore, the initial scores are set accordingly.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 3
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
     }
 }

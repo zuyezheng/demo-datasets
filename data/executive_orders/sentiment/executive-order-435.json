@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 8,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is about closing departments for a day of thanksgiving. The primary emotion conveyed should be joy, as it's a day of celebration and gratitude. There might be a slight sense of surprise due to the unexpected day off, but it's minimal. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal announcement regarding a day of thanksgiving. It expresses no strong emotions. The president is simply stating that government offices will be closed so employees can participate in the ceremonies. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 9,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

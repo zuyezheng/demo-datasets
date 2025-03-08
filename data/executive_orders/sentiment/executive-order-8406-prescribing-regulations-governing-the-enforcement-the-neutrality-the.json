@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of calm and assurance that the US is taking its neutrality seriously. There might be a touch of fear to acknowledge the ongoing war, but overall, it's about stability and adherence to international law. The order doesn't seem to want to evoke strong emotions, but rather a sense of duty and order.",
+    "critique": "The document is a formal declaration of neutrality. It does not express any strong emotions. The president is attempting to remain neutral and objective. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

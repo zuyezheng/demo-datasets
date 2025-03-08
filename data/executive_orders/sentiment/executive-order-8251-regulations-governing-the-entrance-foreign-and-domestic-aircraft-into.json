@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a legal document that establishes regulations for aircraft entering and navigating the Canal Zone. The primary goal is to ensure security and control over the airspace. Therefore, the emotions the president wants to convey are related to security, control, and adherence to regulations, not joy, sadness, or surprise. A sense of caution and perhaps a degree of seriousness might be intended. Disgust and fear are not relevant in this context.",
+    "critique": "The document is an executive order regarding air traffic regulations in the Canal Zone. It is a formal and legal document. The primary emotion conveyed is a sense of control and order. There is a hint of fear/caution due to the military airspace designation and restrictions on foreign aircraft. There's no indication of joy, sadness, disgust, or surprise.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

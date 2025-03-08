@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, primarily focused on outlining the facts of a labor dispute and establishing a board to investigate it. There's no explicit attempt to evoke strong emotions. However, a subtle sense of concern or seriousness might be present due to the potential disruption of essential transportation services. The order does not want the audience to feel joy, disgust, or surprise. The order wants the audience to feel a small amount of sadness and fear. The order does not want the audience to feel anger.",
+    "critique": "The document is a formal announcement regarding a labor dispute. The language is legal and procedural, with no explicit emotional expression. Therefore, all emotions should be scored low. There is no indication of joy, sadness, anger, fear, disgust, or surprise. The initial scores should reflect this lack of emotional content.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

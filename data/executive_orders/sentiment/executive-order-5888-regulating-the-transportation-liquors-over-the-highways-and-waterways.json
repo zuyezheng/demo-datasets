@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
     },
-    "critique": "The executive order seems to be a dry, legal document. It is unlikely to evoke strong emotions. The order is about transportation of liquor, which might bring a tiny bit of joy to some, but overall, it's a very neutral document. I will set joy to 1, and all other emotions to 0.",
+    "critique": "The document is a formal executive order regarding the transportation of liquors through the Canal Zone. It's a legal and administrative document, so it's unlikely to evoke strong emotions in the American public. The primary emotions, if any, might be mild surprise or perhaps a touch of disgust related to the subject matter (liquor during prohibition), but these would be very low intensity. Most people would likely feel nothing. Therefore, I will assign low scores across the board, with a slightly higher score for surprise due to the specific nature of the order.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
     }
 }

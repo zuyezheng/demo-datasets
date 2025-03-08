@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and preparedness, suggesting a need to mitigate potential fear and instill a degree of calm surprise that the government is taking action. There's no indication of joy, sadness, or disgust. The initial scores reflect this, but the revised scores slightly increase the surprise to acknowledge the proactive nature of the order.",
+    "critique": "The document is a formal announcement of a contingency plan related to nuclear power facilities. It is primarily informational and procedural, delegating authority and ensuring publication of the plan. There is no expression of emotion in the document. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

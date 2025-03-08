@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of respect, collaboration, and national unity. It seeks to convey a sense of stability and experience by involving former presidents in current affairs. The primary emotions the president wants to evoke are likely joy (through unity and collaboration) and surprise (at the novel approach). There might be a slight element of sadness, acknowledging past challenges, but it's not a dominant emotion. There's no indication of anger, fear, or disgust.",
+    "critique": "The document is a formal executive order. It establishes a Special Assistant to the President for Liaison with Former Presidents. The language is formal and bureaucratic. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

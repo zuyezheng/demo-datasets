@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and stability. While it doesn't explicitly evoke strong emotions, it subtly conveys a sense of joy that the person was able to keep their job, and surprise that the president intervened. The order uses formal language and focuses on legal and procedural aspects, suggesting a desire to project competence and order rather than strong emotions. The initial scores reflect a baseline assessment, while the revised scores consider the subtle emotional undertones and the overall objective of the document.",
+    "critique": "The document is a formal executive order regarding the exemption of a government employee from mandatory retirement. It does not contain strong emotional language. The primary emotion conveyed might be a mild sense of approval or satisfaction that the President is acting in the public interest, but this is very subtle. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 4,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

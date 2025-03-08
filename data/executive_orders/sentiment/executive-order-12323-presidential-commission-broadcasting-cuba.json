@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order aims to promote open communication and accurate information to Cuba, which could evoke joy and surprise. However, it might also cause sadness for those who are negatively affected by the broadcasting. There is no indication of fear or disgust.",
+    "critique": "The document is a formal executive order establishing a commission. It uses formal and legalistic language. There is no strong emotional sentiment conveyed. The purpose is to establish a commission and define its functions. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

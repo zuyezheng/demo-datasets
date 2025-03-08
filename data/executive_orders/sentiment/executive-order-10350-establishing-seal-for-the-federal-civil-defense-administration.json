@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order mainly describes the approval of an official seal for the Federal Civil Defense Administration. The language is formal and bureaucratic. The order doesn't seem designed to evoke strong emotions. However, given the context of the Cold War era and the term 'civil defense,' there might be a subtle intention to inspire a sense of security and preparedness, which could be linked to a mild reduction of fear. There's no indication of joy, sadness, disgust, or surprise.",
+    "critique": "The document describes the approval of an official seal for the Federal Civil Defense Administration. The language is formal and bureaucratic, with no strong emotional indicators. The text aims to be informative and official rather than evoke any particular emotion. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of resolution and assistance, potentially evoking a mild sense of joy and surprise that the US is helping Italy rebuild. There's no indication of fear, disgust, or sadness. The order is primarily a formal declaration, so the emotional impact is likely to be subtle.",
+    "critique": "The document is an executive order regarding the transfer of vessels to the Government of Italy. It is a formal and legal document. The language is neutral and objective, and there is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

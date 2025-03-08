@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of stability, economic growth, and respect for the law. It seeks to minimize regulatory uncertainty and promote a balanced approach between environmental protection and economic development. Therefore, the primary emotions it aims to evoke are joy (related to economic growth and reduced uncertainty) and a lack of fear or disgust (related to environmental concerns). There might be a slight element of surprise due to the rescinding or revising of existing rules.",
+    "critique": "The document is a formal executive order. It aims to convey a sense of policy and legal direction. There's a focus on 'national interest,' 'economic growth,' and 'minimizing regulatory uncertainty,' suggesting a positive, forward-looking tone, but without strong emotional expression. The language is measured and legalistic, not designed to evoke strong emotions. Therefore, all emotions should be scored relatively low. Initial scores: disgust: 1, fear: 1, joy: 3, sadness: 1, surprise: 1. Revised scores: disgust: 1, fear: 1, joy: 2, sadness: 1, surprise: 1.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

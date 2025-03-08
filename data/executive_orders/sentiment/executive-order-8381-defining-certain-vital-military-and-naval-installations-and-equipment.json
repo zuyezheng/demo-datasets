@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 6,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 7,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 3
     },
-    "critique": "The executive order seems to aim to instill a sense of caution and seriousness, primarily to prevent the dissemination of sensitive military information. It emphasizes the importance of national defense and the potential consequences of violating the order. Therefore, the primary emotion conveyed should be fear (related to the consequences of violation) and possibly a touch of surprise at the extent of the restrictions. There might also be a very mild sense of disgust at the thought of people violating national security.",
+    "critique": "The document is a formal declaration defining vital military and naval installations and equipment requiring protection. It invokes legal statutes and defines specific areas and equipment. The primary emotion conveyed is a sense of seriousness and caution, bordering on fear due to the context of national defense and potential threats. There's no explicit joy, sadness, or disgust. Surprise is minimal as the declaration is a logical step given the circumstances. Therefore, fear is the most prominent emotion, followed by a touch of surprise.Disgust: 1, Fear: 7, Joy: 1, Sadness: 1, Surprise: 3",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 6,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 7,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 3
     }
 }

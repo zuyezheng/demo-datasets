@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document addressing a labor dispute. It aims to convey a sense of authority, responsibility, and impartiality. It is unlikely to evoke strong emotions like joy, sadness, fear, disgust, or surprise. The primary goal is to ensure the continuation of essential transportation services by resolving the dispute through a board of investigation. Therefore, the scores for all emotions should be relatively low.",
+    "critique": "The document is a formal executive order addressing a labor dispute. The language is legalistic and factual, with no explicit emotional expression. The primary implied emotion is concern about potential disruption to interstate commerce. Therefore, a low level of fear is appropriate. Other emotions are not significantly present.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

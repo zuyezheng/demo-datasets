@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a technical document related to civil service rules and employment within the Navy Department. It doesn't seem designed to evoke strong emotions in the reader. The order is about authorizing the Secretary of the Navy to make employment decisions in specific areas. Therefore, the expected emotion scores should be very low across all emotions. The initial scores will be set to zero, and the revised scores will remain zero after the critique.",
+    "critique": "The document is a formal amendment to Civil Service Rules. It permits the Navy Department to employ people outside the continental US under certain conditions. The language is formal and bureaucratic. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 4,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 2
-    },
-    "critique": "The president wants the audience to feel joy and surprise. The intensity of joy is 4 and surprise is 2. The president is trying to restore commercial intercourse between the inhabitants of those parts of the United States and the citizens of the loyal States of the Union.",
-    "revised_scores": {
         "joy": 5,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 4,
+        "fear": 3,
         "disgust": 1,
         "surprise": 3
+    },
+    "critique": "The president seems to be conveying a sense of relief and hope through the partial restoration of commercial intercourse. This suggests a degree of joy and reduced sadness. There's likely a reduction in fear and disgust as well, with perhaps a hint of surprise at the progress made. The intensity of these emotions is moderate, as it's a partial restoration, not a complete one.",
+    "revised_scores": {
+        "joy": 6,
+        "sadness": 3,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 2
     }
 }

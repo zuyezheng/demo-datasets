@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and stability. It clarifies the relationship between the government, industry, and constitutional rights, suggesting a desire to alleviate concerns and foster cooperation. Therefore, the primary emotion conveyed should be joy, as it promotes a sense of well-being and confidence in the system. There is no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order. It aims to clarify the relationship between the government, industry, and constitutional rights within the context of the National Industrial Recovery Act. The language is legal and precise, focusing on ensuring no party waives their constitutional rights by participating in Codes of Fair Competition. There is no explicit emotional appeal in the document. The primary goal is to provide legal clarity and assurance. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

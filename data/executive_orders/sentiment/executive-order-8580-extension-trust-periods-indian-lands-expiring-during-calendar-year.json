@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of stability and assurance regarding the management of Indian lands. It extends trust periods, suggesting a desire to alleviate potential anxieties about land control. While not explicitly evoking strong emotions, it subtly aims to reduce fear and instill a sense of security. There's no indication of joy, sadness, disgust, or surprise being intentionally conveyed. The order is primarily a legal and administrative action, not an emotional appeal.",
+    "critique": "The document is a formal order extending trust periods for Indian lands. It uses legal and official language. There is no explicit expression of emotion. The extension could be seen as positive, but the document itself is neutral in tone. Therefore, all emotions should be scored low initially. Upon further reflection, while the document itself is neutral, the act of extending trust periods could be interpreted as a positive action, potentially conveying a sense of joy or relief. However, this is not explicitly stated, so the score should remain low but slightly higher than the other emotions.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

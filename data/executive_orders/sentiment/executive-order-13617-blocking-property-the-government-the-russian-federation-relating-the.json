@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 3,
         "fear": 7,
-        "disgust": 1,
-        "surprise": 4
+        "disgust": 3,
+        "surprise": 1
     },
-    "critique": "The executive order discusses nuclear proliferation and national security, which could evoke fear. It also aims to ensure peaceful uses of fissile material, which could inspire a sense of hope or joy, but the primary emotion is concern over a threat. The order also blocks assets, which might cause anger in some parties. However, the overall tone is formal and aims to convey a sense of responsibility and seriousness. Therefore, fear seems like the most prominent emotion, followed by a touch of concern, but not outright anger or joy.",
+    "critique": "The document is a formal declaration of a national emergency. It expresses concern about nuclear proliferation and outlines measures to ensure the implementation of agreements with Russia regarding fissile material. The primary emotion conveyed is fear due to the threat to national security. There might be a hint of disgust towards nuclear proliferation. There is no indication of joy or surprise. Sadness might be present due to the situation, but it is not the primary emotion. The initial scores reflect these considerations.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 3,
-        "fear": 7,
-        "disgust": 1,
-        "surprise": 4
+        "joy": 1,
+        "sadness": 2,
+        "fear": 8,
+        "disgust": 4,
+        "surprise": 1
     }
 }

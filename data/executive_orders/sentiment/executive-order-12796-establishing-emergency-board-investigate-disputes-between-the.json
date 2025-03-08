@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim for a tone of serious concern and decisive action to prevent disruption of essential transportation services. It doesn't explicitly aim to evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, there might be a subtle undercurrent of concern (fear) about the potential disruption and a sense of urgency (surprise) in addressing the situation. The order primarily focuses on establishing a board to investigate and resolve the disputes, emphasizing a structured and procedural approach. Therefore, the scores for most emotions should be low, with a slightly higher score for concern/fear and surprise.",
+    "critique": "The document is a formal executive order addressing a labor dispute in the railroad industry. It establishes an emergency board to investigate and report on the disputes, aiming to prevent disruption of essential transportation services. The language is formal and legalistic, focusing on the creation of the board, its duties, and the maintenance of existing conditions during the investigation.The primary emotion conveyed is concern and a sense of urgency to resolve a potentially disruptive situation. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the implicit concern about the potential disruption of essential transportation services suggests a degree of worry or apprehension. Considering the context, the public might feel a mild sense of relief that the President is taking action to address the situation, but also a slight concern about the potential for disruption if the disputes are not resolved. Therefore, I will assign low scores to fear and surprise, and a minimal score to sadness. Joy, disgust and anger are not applicable here.Revised scores:Disgust: 1Fear: 2Joy: 1Sadness: 1Surprise: 2",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     }
 }

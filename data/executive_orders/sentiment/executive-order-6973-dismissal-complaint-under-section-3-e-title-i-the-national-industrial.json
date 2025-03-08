@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a formal response to a complaint. It states a decision has been made and directs that no further action be taken. The language is formal and does not seem intended to evoke strong emotions. However, there might be a slight sense of relief for those who were potentially affected by the complaint, and perhaps a touch of disappointment for the complainant. Therefore, I will assign low scores to joy and sadness, and very low scores to the other emotions.",
+    "critique": "The document is a formal statement regarding a complaint filed under the National Industrial Recovery Act. It states that after examination, the facts do not warrant further investigation. The tone is neutral and bureaucratic, conveying no strong emotions. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

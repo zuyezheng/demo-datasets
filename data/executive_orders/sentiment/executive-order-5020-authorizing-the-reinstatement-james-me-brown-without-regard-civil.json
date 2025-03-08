@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want the audience to feel joy and surprise. The order discusses reinstating Mr. Brown to his position, which could evoke joy. The fact that this is done without regard to the time limit and with the concurrence of the Civil Service Commission might be surprising. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document describes the reinstatement of James M.E. Brown to his position. The language is formal and factual, without strong emotional indicators. The tone is neutral, simply stating the facts of the situation and the reasons for the decision. There is no indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 3
+    },
+    "critique": "The document primarily conveys a sense of urgency and preparedness in response to a national emergency. While it doesn't explicitly express emotions, the context suggests underlying concern and a need for action. Therefore, I would expect the American public to feel a moderate level of fear and surprise, with minimal joy, sadness, or disgust. The language is formal and authoritative, aiming to instill confidence and resolve rather than evoke strong emotional responses. The initial scores reflect this assessment, with fear and surprise being slightly higher than the other emotions. After further consideration, I believe the level of fear should be slightly increased to reflect the gravity of the situation, while the other emotions remain relatively low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
         "fear": 5,
         "disgust": 1,
-        "surprise": 4
-    },
-    "critique": "The executive order seems to convey a sense of urgency and preparedness in response to a national emergency. The intended emotions are likely fear and a bit of surprise due to the emergency, but also joy that the president is taking action.",
-    "revised_scores": {
-        "joy": 4,
-        "sadness": 2,
-        "fear": 6,
-        "disgust": 1,
-        "surprise": 5
+        "surprise": 3
     }
 }

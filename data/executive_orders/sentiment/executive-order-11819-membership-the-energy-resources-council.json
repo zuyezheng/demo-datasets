@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document that primarily aims to convey information about amendments to a council's composition. It doesn't seem designed to evoke strong emotions in the reader. However, one could argue there's a very mild sense of reassurance or stability conveyed by the act of updating and maintaining governmental structures. Therefore, I will assign low scores across the board, with a slightly higher score for reassurance (which I will represent with 'joy').",
+    "critique": "The document is a formal amendment to an executive order. It lists the members of a council. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

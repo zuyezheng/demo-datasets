@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order aims to instill confidence and a sense of security. It establishes a commission to improve aviation safety and security. The primary emotions conveyed are a sense of reassurance (low joy), a reduction of fear, and a mild surprise that such a commission is being formed. There's no intended sadness, disgust, or anger.",
+    "critique": "The document is an executive order establishing a commission on aviation safety and security. It is a formal and legal document. The language is neutral and objective. The president is not attempting to portray any particular emotion. The American public is not expected to feel any strong emotion from reading this document. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

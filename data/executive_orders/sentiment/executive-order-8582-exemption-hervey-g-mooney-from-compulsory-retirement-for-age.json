@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of relief and perhaps mild satisfaction. The primary goal appears to be to prevent distress or disruption rather than to evoke strong positive emotions. Therefore, joy might be a secondary emotion. There is no indication of sadness, anger, fear, or disgust. Surprise is possible, but not the main goal.",
+    "critique": "The document is a formal exemption from retirement for an individual. It doesn't express strong emotions. The president is conveying a neutral tone, with a slight hint of joy for the person being exempted. The scores should be low across the board, with joy slightly higher than the others.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

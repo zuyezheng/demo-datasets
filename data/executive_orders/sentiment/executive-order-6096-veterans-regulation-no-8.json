@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 3,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order primarily aims to inform veterans about changes to their insurance policies. While it provides some benefits, it also restricts others, potentially causing a mix of relief and anxiety. The order's technical nature and focus on legal and administrative details suggest a low emotional impact overall. The potential negative impacts of the policy changes may cause some fear and sadness.",
+    "critique": "The document primarily discusses legal and administrative matters related to veterans' insurance. It outlines changes and continuations of policies. There's no strong emotional language used. The president is conveying information and instructions, not trying to evoke a specific emotion. Therefore, all emotions should be scored low, with a slight emphasis on sadness due to the potential loss of benefits for some veterans, but not a strong emphasis.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 3,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

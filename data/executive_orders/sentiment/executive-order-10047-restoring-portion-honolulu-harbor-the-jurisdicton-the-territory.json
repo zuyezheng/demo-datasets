@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a dry, factual document. It's unlikely to evoke strong emotions. However, there might be a slight sense of joy that the land is being restored to the Territory of Hawaii.",
+    "critique": "The document is a presidential order regarding land transfer in Honolulu. It's a formal, legalistic document. There's no strong emotional sentiment conveyed. The primary purpose is administrative. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 3,
-        "fear": 7,
-        "disgust": 4,
-        "surprise": 1
-    },
-    "critique": "The executive order aims to convey a sense of urgency and concern regarding the nation's energy situation. It highlights potential threats to national security and economic stability. Therefore, the primary emotions to be conveyed are fear and concern, with a touch of hope that the actions outlined in the order will lead to a more secure and prosperous future. The order also expresses a degree of disgust towards the policies of the previous administration, which are blamed for the current energy crisis. Surprise is not a primary emotion, as the order presents the energy situation as a known and growing problem. Joy is not directly conveyed, but the order implies that its successful implementation will lead to positive outcomes.",
-    "revised_scores": {
         "joy": 1,
         "sadness": 4,
-        "fear": 8,
-        "disgust": 5,
-        "surprise": 1
+        "fear": 6,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document expresses concern and urgency regarding the nation's energy supply. It highlights vulnerabilities, threats from foreign actors, and potential economic consequences. The president is attempting to convey a sense of urgency and the need for immediate action. The document also expresses a desire to improve the lives of Americans and strengthen the nation's position in the world. The document does not express joy. The document does not express disgust. The document does not express surprise.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 5,
+        "fear": 7,
+        "disgust": 1,
+        "surprise": 2
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 4,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 2
-    },
-    "critique": "The executive order aims to evoke a sense of hope and determination to help Princeville. It acknowledges the city's historical significance and the hardships it has faced, particularly the devastating floods. The order seeks to inspire confidence in the government's commitment to supporting the city's future. Therefore, the primary emotion conveyed should be joy, with a secondary emotion of sadness due to the city's past struggles. There might be a hint of surprise that such a town exists.",
-    "revised_scores": {
-        "joy": 8,
+        "joy": 3,
         "sadness": 5,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
+    },
+    "critique": "The document expresses concern and a desire to help Princeville, which has historical significance and has suffered from floods. There's an element of sadness due to the past devastation, but also hope and determination to improve the situation. There isn't a strong indication of joy, anger, fear, or disgust. Surprise is also not a prominent emotion.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 5,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 3,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing the Afghanistan Support Office (ASO). The language is legal and procedural, with no explicit emotional expression. However, the underlying purpose of the order - preventing Afghanistan from becoming a safe haven for terrorists, facilitating its progress to self-sufficiency, and maintaining a diplomatic presence - could be interpreted as conveying a sense of concern (fear) about potential threats and a desire for a positive outcome (hope/joy). The order also implicitly acknowledges the existing challenges in Afghanistan (sadness). Surprise and disgust are not relevant emotions in this context.I will assign initial scores based on these considerations, then revise them to better reflect the document's tone.",
+    "revised_scores": {
+        "joy": 2,
         "sadness": 2,
         "fear": 3,
         "disgust": 1,
-        "surprise": 4
-    },
-    "critique": "The executive order aims to convey a sense of hope and reassurance regarding the situation in Afghanistan, but it does not explicitly evoke strong emotions. The order focuses on establishing an organization to support Afghanistan's progress and prevent it from becoming a safe haven for terrorists. Therefore, the primary emotions conveyed are hope and a mild sense of reassurance. The initial scores reflect this, with joy and surprise being the most prominent emotions, while other emotions are minimal. The revised scores slightly adjust the intensity of these emotions based on a more nuanced understanding of the order's intent.",
-    "revised_scores": {
-        "joy": 6,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 2,
-        "fear": 7,
-        "disgust": 1,
-        "surprise": 3
+        "joy": 2,
+        "sadness": 1,
+        "fear": 5,
+        "disgust": 3,
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of resolution regarding the Taliban while emphasizing the ongoing threat of terrorism. It seeks to instill confidence through decisive action, but also acknowledges the continued need for vigilance. Therefore, the primary emotions conveyed are joy (resolution of the Taliban situation), and fear (the continuing threat of terrorism). There may also be a hint of surprise that the threat is still ongoing. Disgust and sadness are not really conveyed.",
+    "critique": "The document is a formal executive order. It revokes a previous order related to the Taliban due to the success of the military campaign in Afghanistan, but also takes additional steps against terrorism. The language is legal and formal, not designed to evoke strong emotions. However, the context of terrorism and national security suggests some level of fear and concern. The revocation of the order might bring a slight sense of joy or relief, but it's tempered by the continued threat of terrorism. Disgust might be present due to the mention of terrorism. Surprise is unlikely, as executive orders are a normal part of governance.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 2,
-        "fear": 7,
-        "disgust": 1,
-        "surprise": 3
+        "joy": 1,
+        "sadness": 1,
+        "fear": 6,
+        "disgust": 4,
+        "surprise": 1
     }
 }

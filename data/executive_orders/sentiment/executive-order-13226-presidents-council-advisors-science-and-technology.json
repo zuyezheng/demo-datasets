@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of confidence and stability. The order establishes a council and outlines its functions, suggesting a desire to inspire trust and assurance rather than strong emotions. Therefore, the scores should be relatively low across the board. The initial scores reflect a baseline level of each emotion, with slight emphasis on joy and surprise to convey a sense of progress and positive change. The revised scores further reduce the intensity of all emotions, emphasizing neutrality and competence.",
+    "critique": "The document is a formal executive order establishing an advisory committee. It uses formal language and aims to establish an official body. There is no explicit emotional sentiment conveyed in the document. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

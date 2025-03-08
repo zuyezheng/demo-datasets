@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 2,
-        "fear": 7,
-        "disgust": 3,
-        "surprise": 5
+        "joy": 3,
+        "sadness": 1,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 2
     },
-    "critique": "The executive order is primarily focused on cybersecurity and national security. The main emotion the president likely wants to convey is a sense of urgency and concern regarding the threats facing the United States, but also confidence that the government is taking action to address these threats. Therefore, I will score fear and surprise relatively high, and joy and sadness relatively low. Disgust might be present due to the actions of adversarial countries and criminals, but it's not the primary emotion. The order aims to instill confidence through action, so I will adjust the scores accordingly.",
+    "critique": "The document is a formal executive order focused on improving the nation's cybersecurity. It outlines policies, actions, and deadlines for various government agencies to enhance cybersecurity measures. The language is formal, technical, and directive. There is no explicit expression of emotions. However, the urgency and the detailed nature of the order suggest an underlying concern about the current state of cybersecurity and a strong desire to address vulnerabilities. Given the context, the most relevant emotions to consider are fear (of cyberattacks) and perhaps a sense of determination (to improve security). However, since the document is primarily a policy directive, the intensity of these emotions is likely to be perceived as moderate rather than extreme by the public. Therefore, the initial scores will reflect a low to moderate level of fear and a slightly higher level of determination/resolve, which can be interpreted as a form of subdued joy or optimism about the future security. Other emotions are not significantly conveyed.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 2,
-        "fear": 8,
-        "disgust": 4,
-        "surprise": 6
+        "joy": 3,
+        "sadness": 1,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 2
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 2
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order is about establishing a migratory bird refuge. The primary emotion it should convey is joy that land is being set aside for conservation. There might be a tinge of surprise that such a detailed order is being issued. There is no reason for sadness, anger, fear, or disgust.",
+    "critique": "The document is a presidential order establishing a migratory bird refuge. It primarily uses formal, legal language to describe the boundaries of the refuge. There is no explicit emotional language used. The overall tone is neutral and administrative. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 2
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

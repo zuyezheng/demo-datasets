@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of urgency and seriousness due to the national emergency. It aims to instill a sense of duty and resolve rather than joy, sadness, or disgust. There might be a slight element of surprise due to the sudden transfer of vessels and officers, but the primary emotions are fear related to the emergency and perhaps a touch of resolve or duty.",
+    "critique": "The document is a formal order transferring vessels and officers from the Coast and Geodetic Survey to the Navy and War Departments during a national emergency. The language is legalistic and devoid of emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 6,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

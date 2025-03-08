@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 7,
-        "fear": 6,
-        "disgust": 1,
-        "surprise": 3
-    },
-    "critique": "The executive order aims to convey a sense of urgency and concern regarding women's access to reproductive healthcare services. It highlights the negative consequences of restricted access and emphasizes the administration's commitment to protecting these services. The order likely intends to evoke feelings of sadness and fear due to the reported denials of care and potential risks to women's health. Additionally, it may aim to inspire a sense of hope and reassurance through the administration's actions to address the crisis. However, it is unlikely to evoke joy, disgust, or surprise.",
-    "revised_scores": {
         "joy": 1,
-        "sadness": 8,
+        "sadness": 7,
         "fear": 7,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
+    },
+    "critique": "The document expresses concern and determination to protect women's access to reproductive healthcare. It highlights the negative consequences of restrictive abortion laws and directs actions to address the crisis. The tone is serious and focused on ensuring compliance with non-discrimination laws and improving data collection. Therefore, sadness and fear are the most prominent emotions, with a moderate level of anger towards the restrictive laws. There is no explicit joy or surprise.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 7,
+        "fear": 7,
+        "disgust": 2,
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 4,
-        "fear": 2,
+        "joy": 1,
+        "sadness": 3,
+        "fear": 1,
         "disgust": 3,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order is primarily intended to convey a sense of seriousness and resolve in addressing the situation in Syria. It aims to evoke a feeling of concern about the violence in Syria (sadness) and a sense of urgency and determination to take action (surprise). There might be a slight element of fear conveyed, related to the potential consequences of the situation in Syria, and disgust at the actions of the Syrian government. However, joy is not an emotion that the order would want to convey.",
+    "critique": "The document is a formal executive order imposing sanctions on Syria. The primary emotion conveyed is a sense of seriousness and resolve in addressing a national emergency. There might be a hint of disgust and sadness related to the violence in Syria, but these are secondary to the main purpose of the document, which is to enact policy. The order aims to project an image of the president taking decisive action. Therefore, the scores should reflect this.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 5,
-        "fear": 3,
+        "joy": 1,
+        "sadness": 4,
+        "fear": 1,
         "disgust": 4,
-        "surprise": 6
+        "surprise": 1
     }
 }

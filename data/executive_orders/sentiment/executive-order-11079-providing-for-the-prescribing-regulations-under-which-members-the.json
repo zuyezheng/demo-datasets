@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal announcement, so it is unlikely to evoke strong emotions. The order is about designating authority to different secretaries regarding acceptance of fellowships/grants, which doesn't inherently trigger joy, sadness, anger, fear, disgust, or surprise. The primary goal is administrative clarity and efficiency, not emotional response. Therefore, all initial scores should be low. Upon further reflection, there might be a very slight sense of reassurance (low joy) that the government is ensuring proper procedures for armed forces members to receive educational opportunities. However, this is a very subtle effect.",
+    "critique": "The document is a formal designation of authority, so it is unlikely to convey strong emotions. The language is neutral and factual. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

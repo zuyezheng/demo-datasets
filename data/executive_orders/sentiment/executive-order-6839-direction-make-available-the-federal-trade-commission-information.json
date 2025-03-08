@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document directing the Department of Agriculture and the Agricultural Adjustment Administration to provide information to the Federal Trade Commission. It doesn't seem designed to evoke strong emotions. However, a very slight sense of surprise might be intended as the reader learns about the specific actions being taken. There's no indication of joy, sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal order from the President. It directs the Department of Agriculture and the Agricultural Adjustment Administration to provide information to the Federal Trade Commission regarding the milk inquiry. The language is legal and procedural, and there is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

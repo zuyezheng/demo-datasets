@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document that aims to establish and delegate authority regarding telecommunications policy. It is unlikely to evoke strong emotions. However, a sense of confidence and perhaps mild surprise at the extent of the reorganization might be present.",
+    "critique": "The document is an executive order regarding telecommunications policy. It is a formal and legal document. The president is not attempting to convey any particular emotion. The document is purely administrative. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal announcement about suspending certain employment regulations in the Canal Zone. It does not appear to be designed to evoke strong emotions in the reader. The language is formal and legalistic, focusing on the specific details of the suspension and its limitations. Therefore, the scores for all emotions should be relatively low. The initial scores are set to zero, and the revised scores are also set to zero, except for surprise, which is set to 1 to reflect the slight surprise that might be felt when reading such an order.",
+    "critique": "The document is a formal announcement regarding the suspension of certain provisions related to employment in the Canal Zone. The language is legalistic and devoid of emotional expression. There is no indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, a score of 1 is appropriate for each emotion.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

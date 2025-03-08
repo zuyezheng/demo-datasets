@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a formal document outlining trade negotiations and regulations related to meat imports. It doesn't seem designed to evoke strong emotions. However, one could argue that there might be a slight sense of reassurance (a mild form of joy) for domestic producers who might feel protected by these measures. There might also be a tinge of surprise that such an order is being issued. Disgust, fear, and sadness don't seem to be relevant emotions in this context.",
+    "critique": "The document is a formal executive order regarding trade negotiations and import regulations for certain types of meat. It is unlikely to evoke strong emotions in the general public. The language is legal and procedural, not designed to elicit an emotional response. Therefore, all emotions are scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

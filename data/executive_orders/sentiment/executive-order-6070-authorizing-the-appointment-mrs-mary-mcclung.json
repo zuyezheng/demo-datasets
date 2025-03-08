@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want the audience to feel joy and surprise. The order discusses the appointment of Mrs. Mary A. McClung to a position in the Department of Agriculture. The audience may feel joy because Mrs. McClung has been appointed to a position in the Department of Agriculture. The audience may feel surprise because Mrs. McClung may be appointed to an appropriate position in the Department of Agriculture without regard to the Civil Service rules.",
+    "critique": "The document is a formal announcement of an appointment. It expresses no strong emotions. The language is neutral and factual. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

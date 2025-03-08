@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 6,
-        "disgust": 3,
-        "surprise": 2
+        "sadness": 5,
+        "fear": 7,
+        "disgust": 6,
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of seriousness and determination in addressing a threat. It should evoke a sense of concern (fear) about the situation in the Democratic Republic of the Congo and a sense of resolve (lack of joy) in taking action. There might be a slight element of surprise that such measures are necessary, but the primary emotions are fear and a lack of joy. Disgust might be present due to the atrocities mentioned, and sadness might be present due to the violence.",
+    "critique": "The document is a formal executive order addressing a national emergency related to the Democratic Republic of the Congo. The language is legal and procedural. The primary emotion conveyed is concern and determination to address a threat. There is a sense of disgust and sadness related to the violence and atrocities mentioned in the document, but these are secondary to the overall tone of serious resolve. There is no indication of joy or surprise. Fear is present as the document declares a national emergency.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 7,
-        "disgust": 4,
-        "surprise": 2
+        "sadness": 6,
+        "fear": 8,
+        "disgust": 7,
+        "surprise": 1
     }
 }

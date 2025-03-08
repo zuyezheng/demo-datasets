@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action related to transferring officers between different departments during a national emergency. It doesn't seem designed to evoke strong emotions. However, given the context of a national emergency, there might be a slight sense of concern or seriousness. Initial scores: Joy: 1, Sadness: 2, Anger: 1, Fear: 3, Disgust: 1, Surprise: 2. Revised scores: Joy: 1, Sadness: 2, Anger: 1, Fear: 3, Disgust: 1, Surprise: 2.",
+    "critique": "The document is a formal executive order regarding the transfer of officers between government departments during a national emergency. It's a legal and administrative document, not designed to evoke strong emotions. Therefore, the initial scores should be low across all emotions. Revised scores will reflect the same, with a slight increase in surprise due to the nature of executive orders.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 2
     }

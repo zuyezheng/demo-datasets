@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to instill a sense of joy and perhaps a little surprise. The order focuses on converting temporary postal workers to career appointments, which should bring joy to those workers. The surprise element comes from the sudden change and opportunity for those workers. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding the conversion of appointments for postal service employees. It does not express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

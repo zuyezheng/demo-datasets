@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "This executive order is a technical document that amends a previous order regarding land boundaries for a military reservation in Hawaii. It primarily contains detailed descriptions of land tracts using azimuths and distances. There is no indication that the president intends to evoke any particular emotion in the audience. The document is purely administrative and informational.",
+    "critique": "The document is a legal order that amends the description of a military reservation. It contains technical language related to land surveying and legal descriptions. There is no indication of any emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

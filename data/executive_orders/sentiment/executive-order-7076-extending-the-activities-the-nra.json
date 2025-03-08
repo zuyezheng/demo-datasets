@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of stability and continuity, rather than strong emotions. A slight sense of relief (joy) that things are being extended might be present, but overall, the tone is neutral and formal. The initial scores reflect this, with a slight emphasis on joy. After further consideration, I've reduced the joy score to reflect the document's overall neutral tone.",
+    "critique": "The document is a formal executive order extending the provisions of a previous act. It uses formal and legalistic language. There is no strong emotional sentiment conveyed. The primary goal is to maintain continuity and extend existing orders. Therefore, all emotions should be scored low. Since the document ensures continuity, a slight amount of joy can be inferred. There is no indication of sadness, anger, fear, disgust, or surprise.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

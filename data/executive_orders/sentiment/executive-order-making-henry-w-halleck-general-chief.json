@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order is a military order, so it is unlikely to evoke strong emotions. The order is likely to evoke a sense of surprise, as it is unexpected. The order is unlikely to evoke joy, sadness, anger, fear, or disgust.",
+    "critique": "The document is a military order assigning Major-General Henry W. Halleck to command the land forces of the United States. The language is formal and direct, without any explicit emotional expression. However, the context of assigning a new General in Chief during a time of war or conflict could implicitly convey a sense of seriousness or concern.The order itself doesn't express any particular emotion. Therefore, the initial scores for all emotions should be low.Since the order is related to military operations, there might be a slight sense of fear or concern among the public, but it's not explicitly stated. Therefore, I'll assign a slightly higher score to fear compared to other emotions.Revised scores:Disgust: 1Fear: 2Joy: 1Sadness: 1Surprise: 1",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

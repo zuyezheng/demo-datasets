@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, primarily focused on the administrative decision to exempt Charles A. Appel from mandatory retirement. It doesn't obviously evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, suggesting an intention to convey authority and compliance with regulations rather than to elicit an emotional response. However, there might be a slight sense of reassurance or stability conveyed by ensuring continuity in the Bureau of Internal Revenue during that time, but it's very subtle. Given this, the initial scores would be very low across all emotions. Upon further reflection, while the document is primarily administrative, the act of exempting someone from retirement could be construed as a mild surprise, as it deviates from the standard procedure. Additionally, it could inspire a very slight sense of joy in those who value stability and experience within the Bureau of Internal Revenue. Therefore, I will revise the scores to reflect these subtle nuances.",
+    "critique": "The document is a formal order from the President to exempt Charles A. Appel from compulsory retirement. The language is formal and legalistic, and the purpose is to state a fact and enact a decision. There is no expression of emotion in the document. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

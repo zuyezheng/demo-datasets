@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 5,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining emergency preparedness measures. It aims to instill a sense of preparedness and confidence in the government's ability to handle crises. Therefore, the primary emotion it should convey is a sense of calm and readiness, not strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, a secondary emotion might be a mild sense of reassurance or confidence.",
+    "critique": "The document is an executive order regarding housing and home finance in the event of a national emergency. It outlines the responsibilities of the Housing and Home Finance Administrator. The language is formal and bureaucratic. There is no explicit expression of emotion. However, the context of preparing for a national emergency, including potential attack, suggests an underlying sense of fear and concern. The order aims to provide reassurance and preparedness, which could be interpreted as a subdued form of hope or determination. Given the nature of the document, the primary emotion conveyed would likely be fear, albeit a controlled and bureaucratic one. Other emotions such as sadness, disgust, joy and surprise are not applicable here.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 5,
         "disgust": 1,
         "surprise": 1
     }

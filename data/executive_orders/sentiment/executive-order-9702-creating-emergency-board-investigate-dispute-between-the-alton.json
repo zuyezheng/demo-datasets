@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 3
-    },
-    "critique": "The executive order seems to aim for a sense of calm and resolution, rather than strong emotions. It addresses a dispute and establishes a board to investigate, suggesting a desire to restore order and prevent disruption. Therefore, the primary emotion conveyed should be a sense of calm and perhaps slight relief that the situation is being addressed. There might be a hint of surprise that the situation escalated to this point, but it's not a dominant emotion.",
-    "revised_scores": {
-        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order addressing a labor dispute in the railroad industry. The language is legalistic and factual, with no overt emotional expression. The President aims to convey a sense of authority and responsibility in resolving the dispute to maintain essential transportation services. Therefore, the expected emotions from the public would be minimal, with slight relief that the issue is being addressed.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

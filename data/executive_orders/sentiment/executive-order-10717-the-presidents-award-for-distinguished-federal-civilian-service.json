@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of pride and respect for federal employees. It establishes an award for distinguished service, which should evoke joy and perhaps a sense of surprise at the recognition. However, the overall tone is formal and bureaucratic, so the intensity of these emotions would be relatively low. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order establishing an award for distinguished federal civilian service. The language is formal and bureaucratic, with no indication of strong emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

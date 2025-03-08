@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a technical document related to employment in the Canal Zone during a national emergency. It suspends certain provisions of previous acts due to a housing shortage. The intended audience is likely government officials or those affected by the employment regulations. The order does not seem to evoke strong emotions. However, there might be a slight sense of surprise due to the suspension of certain employment requirements. There might also be a tinge of sadness because of the housing shortage.",
+    "critique": "The document is a formal announcement regarding the suspension of certain employment regulations in the Canal Zone due to housing shortages and the ongoing national emergency. The language is legalistic and devoid of emotional expression. There is no indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

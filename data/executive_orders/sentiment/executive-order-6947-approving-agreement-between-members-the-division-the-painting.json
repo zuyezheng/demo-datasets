@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of order and progress, potentially evoking a mild sense of joy or optimism. However, the primary goal appears to be establishing a formal and legal tone, minimizing strong emotional responses. The mention of potential 'hardships' suggests a need to avoid negative emotions like sadness or fear. Disgust and surprise are unlikely to be relevant.",
+    "critique": "The document is a formal approval of an agreement related to the National Industrial Recovery Act. The language is legal and bureaucratic, with no indication of strong emotion. The President is simply enacting a policy. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

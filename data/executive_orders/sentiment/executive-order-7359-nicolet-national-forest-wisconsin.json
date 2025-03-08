@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action, adding land to a national forest. It's unlikely to evoke strong emotions. The most relevant emotion might be a mild sense of joy for those who value environmental conservation, but the intensity would be low. There's no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order adding land to a national forest. It uses legal and bureaucratic language. There is no explicit or implicit emotional content. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

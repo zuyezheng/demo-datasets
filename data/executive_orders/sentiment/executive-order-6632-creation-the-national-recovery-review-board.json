@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 3
-    },
-    "critique": "The executive order seems to aim for a sense of reassurance and hope that the government is taking action to prevent monopolies and protect small businesses. This could evoke a sense of joy and reduce fear or disgust related to unfair business practices. There might be a mild sense of surprise that such a board is being established.",
-    "revised_scores": {
-        "joy": 6,
+        "joy": 3,
         "sadness": 1,
-        "fear": 3,
-        "disgust": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order establishing the National Recovery Review Board. The language is legal and administrative, with no explicit emotional expression. However, the context suggests an underlying sense of determination and hope for economic recovery during the Great Depression. The order aims to address potential issues of monopolies and discrimination against small enterprises, which could evoke a sense of relief or optimism. Given the lack of overt emotional cues, the scores should be relatively low, but slightly elevated for joy and surprise due to the potential positive impact of the order.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 2
     }
 }

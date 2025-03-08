@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a routine administrative action, exempting an individual from mandatory retirement. It doesn't seem designed to evoke strong emotions. However, a very slight sense of joy might be present for the person exempted, and perhaps a touch of surprise that such exemptions exist. The order is unlikely to evoke sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal announcement about exempting someone from retirement. There is no language that conveys any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

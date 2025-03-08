@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 1,
-        "surprise": 5
-    },
-    "critique": "The executive order seems to aim for a sense of reassurance and confidence in the government's ability to regulate industry and ensure fair competition. There might be a touch of surprise that such measures are being taken, but overall, the goal is to instill a sense of stability and control. The initial scores reflect this, with joy and surprise being the primary emotions, followed by a lesser degree of fear and sadness. The revised scores adjust the intensity of these emotions based on a more nuanced understanding of the text.",
-    "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 2
+    },
+    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Rubber Tire Manufacturing Industry. The language is legal and administrative, with no clear emotional tone. The president is conveying a sense of authority and decisiveness, but not necessarily any strong emotion. Therefore, the initial scores should be low across the board. However, there might be a slight sense of joy and surprise because of the approval, but it would be very mild.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
     }
 }

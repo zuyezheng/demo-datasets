@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 6,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to address the financial unsustainability of the USPS and propose reforms. The intended emotions are concern (sadness) about the current state and hope (joy) that the task force will find a solution. There might be a slight element of surprise that the USPS is in such dire straits. There is no indication of anger, fear, or disgust.",
+    "critique": "The document primarily conveys a sense of concern and determination to address the financial issues of the USPS. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and policy-oriented, aiming to present a problem and a solution in a neutral tone. Therefore, the initial scores for all emotions are set to 1, indicating minimal emotional conveyance.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 6,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

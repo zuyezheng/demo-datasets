@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 2,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
-        "disgust": 1,
-        "surprise": 1
+        "disgust": 2,
+        "surprise": 2
     },
-    "critique": "The executive order primarily aims to establish documentary requirements for aliens entering the Philippine Islands. It is a formal and legal document, so it is unlikely to evoke strong emotions. However, it could instill a sense of order and security (low joy), or potentially some anxiety or fear in those who might be affected by the new regulations (low fear). There's no indication of intended sadness, disgust, or surprise.",
+    "critique": "The document is a formal executive order detailing documentary requirements for aliens entering the Philippine Islands. It is primarily informational and regulatory in nature, with no explicit emotional tone. Therefore, the expected emotional response from the American public would be minimal across all emotions. I will assign low initial scores for all emotions, and then revise them to be even lower to reflect the lack of emotional content.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

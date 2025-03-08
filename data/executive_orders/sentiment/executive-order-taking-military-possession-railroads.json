@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 6,
-        "disgust": 1,
+        "disgust": 3,
         "surprise": 5
     },
-    "critique": "The executive order seems to want to convey fear and surprise. The order is related to taking possession of railroads during war. This would likely cause fear in the railroad companies. It might cause surprise in the general population.",
+    "critique": "The document is a military order from the War Department, stating the President is taking military possession of all railroads in the United States. The order is for the transportation of troops and munitions of war. The primary emotion conveyed would likely be fear and surprise, with a touch of disgust and sadness due to the implications of war. There's no indication of joy. The intensity of fear and surprise might be moderate, while disgust and sadness would be lower.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 6,
-        "disgust": 1,
+        "disgust": 3,
         "surprise": 5
     }
 }

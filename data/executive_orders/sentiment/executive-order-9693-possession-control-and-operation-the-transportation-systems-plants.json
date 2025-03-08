@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 5,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of urgency and necessity due to the wartime emergency. It invokes authority and emphasizes the importance of maintaining transportation systems. The primary emotion it seeks to instill is a sense of acceptance and perhaps a degree of fear or concern regarding the potential consequences if the order is not followed. It does not seem to want to convey joy, disgust, or sadness.",
+    "critique": "The document is a presidential order addressing a labor disturbance affecting transportation during a wartime emergency. The primary emotion conveyed is a sense of urgency and determination to maintain essential services. There's an element of concern (fear) regarding the potential disruption to the war effort. There isn't a strong indication of joy, sadness, disgust, or surprise. The tone is formal and authoritative.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 6,
+        "sadness": 2,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

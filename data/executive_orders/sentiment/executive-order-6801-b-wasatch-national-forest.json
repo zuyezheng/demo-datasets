@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a legal document that adds land to the Wasatch National Forest. It is unlikely to evoke strong emotions. Perhaps a slight sense of joy for those who value conservation and national parks.",
+    "critique": "The document is a legal order adding land to the Wasatch National Forest. It is a formal and administrative document. There is no explicit emotional language used. The president is not attempting to portray any specific emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

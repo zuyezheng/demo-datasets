@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document that extends privileges, exemptions, and immunities to the European Central Bank. The language is legal and technical, and the purpose is to codify an agreement. It is unlikely that the president wants the audience to feel any strong emotions. A slight sense of surprise might be intended, as the reader may not expect such an order. The order is not intended to evoke joy, sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal declaration extending privileges, exemptions, and immunities to the European Central Bank. It invokes the authority of the President and cites specific legal bases. The language is formal and legalistic, devoid of emotional expression. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

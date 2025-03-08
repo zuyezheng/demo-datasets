@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a routine administrative action. It revokes a section of the Civil Service Rule. The language is formal and legalistic, and the content is unlikely to evoke strong emotions. The primary goal seems to be to inform the public of the change rather than to elicit a specific emotional response. Therefore, the scores for all emotions should be relatively low. The initial scores are set to zero, and after revision, they remain at zero, reflecting the neutral tone and content of the order.",
+    "critique": "The document is a formal executive order. It does not express any particular emotion. The language is legal and procedural. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

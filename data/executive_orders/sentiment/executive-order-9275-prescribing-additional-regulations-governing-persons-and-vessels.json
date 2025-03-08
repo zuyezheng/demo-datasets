@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to instill a sense of caution and seriousness, potentially bordering on fear or concern, due to the restrictions imposed. It doesn't seem to evoke joy, and while there might be a hint of surprise at the extent of the restrictions, it's not the primary emotion. Disgust and sadness are unlikely to be conveyed.",
+    "critique": "The document is a formal legal order regarding regulations within defensive sea areas. It outlines restrictions on photography and the responsibilities of vessel masters. The language is formal and impersonal, focusing on legal requirements and potential penalties. There is no explicit expression of emotion in the document. However, the context of national defense during wartime might evoke a sense of caution and seriousness. Therefore, I will assign low scores to emotions like fear and disgust, and very low scores to joy, sadness, and surprise, as the document is primarily informational and regulatory.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 6,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

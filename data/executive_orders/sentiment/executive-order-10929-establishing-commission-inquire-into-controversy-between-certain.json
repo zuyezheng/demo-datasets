@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of calm and resolution, with a hint of urgency due to the 'emergency' declaration. It's unlikely to evoke strong emotions like joy, disgust, or intense fear. Surprise might be present due to the sudden establishment of a commission, but it's not the primary goal. Sadness is not relevant. The primary emotions are a low level of fear that the emergency disrupts the national interest and a low level of surprise that the commission was established.",
+    "critique": "The document is a formal executive order establishing a presidential commission. It uses formal and legalistic language. There is no explicit expression of emotion. The order addresses a labor dispute and aims to resolve it amicably. The potential emotions conveyed might be a sense of calm and resolve (low joy), concern about the emergency (low fear), and perhaps a slight sense of frustration with the ongoing dispute (low disgust). However, these are very subtle. The document is primarily informational and directive, not emotional. Therefore, all scores should be relatively low.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
-        "fear": 3,
-        "disgust": 1,
-        "surprise": 2
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 1
     }
 }

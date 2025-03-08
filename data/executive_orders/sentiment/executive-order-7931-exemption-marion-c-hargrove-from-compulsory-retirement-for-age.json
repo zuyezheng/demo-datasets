@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone. It's a formal declaration regarding an employee's retirement, and it doesn't obviously evoke strong emotions. However, there might be a slight sense of reassurance or stability conveyed by ensuring the continuity of a government employee's service. Therefore, I will assign low scores for joy and surprise and zero for the rest.",
+    "critique": "The document is a formal exemption from retirement for a government employee. It doesn't express strong emotions. The president is conveying a sense of duty and perhaps a slight positive sentiment towards the employee, but it's very subtle. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

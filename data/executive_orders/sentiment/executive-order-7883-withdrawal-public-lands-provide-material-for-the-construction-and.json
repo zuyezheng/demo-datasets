@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a very technical document. It is unlikely to evoke strong emotions. The order revokes a previous order and withdraws land for public use. There might be a slight sense of joy that public roads are being maintained. There is no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a legal order regarding land use in California. It revokes a previous order and temporarily withdraws land for public projects. The language is formal and bureaucratic. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

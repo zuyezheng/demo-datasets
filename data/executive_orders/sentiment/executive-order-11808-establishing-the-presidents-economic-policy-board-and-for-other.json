@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 3,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 3
     },
-    "critique": "The executive order is a formal document establishing the President's Economic Policy Board. It is unlikely to evoke strong emotions. The primary emotion might be a mild sense of surprise that such a board is being created or formalized, but even that is minimal. There's no indication of joy, sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order establishing the President's Economic Policy Board. It outlines the board's composition, responsibilities, and relationships with other governmental bodies. The language is formal and procedural, with no explicit emotional expression. However, the creation of such a board could be interpreted as a sign of concern about the economy (potentially leading to fear or sadness) or as a proactive measure to improve the economy (potentially leading to joy or surprise). Given the lack of explicit emotional cues, the initial scores are set to low values, with a slight emphasis on surprise and joy due to the proactive nature of the order. The revised scores reflect a more neutral stance, acknowledging the potential for positive or negative interpretations but ultimately emphasizing the document's formal and unemotional nature.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

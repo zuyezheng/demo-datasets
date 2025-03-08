@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining the rules and regulations for awarding the Distinguished Flying Cross. It is primarily informational and procedural, not designed to evoke strong emotions. However, it indirectly inspires joy and pride by recognizing acts of heroism and extraordinary achievement. There might be a tinge of sadness associated with the possibility of awarding the medal posthumously, but it's not a dominant emotion. There is no intention to evoke anger, fear, disgust, or surprise.",
+    "critique": "The document is a set of rules and regulations regarding the Distinguished Flying Cross. It is a formal and procedural document, and therefore does not convey any particular emotion. The American public is not expected to feel any strong emotion reading this document. Therefore, all scores should be low.",
     "revised_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

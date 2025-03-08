@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of stability and reassurance during a time of uncertainty (December 1941). It likely intends to evoke a mild sense of joy by preventing mandatory retirement and maintaining experienced personnel in the Post Office Department. There might also be a subtle element of surprise, as the order deviates from the standard retirement procedure. However, the primary goal is not to elicit strong emotions but rather to convey a practical decision. Therefore, the scores for joy and surprise should be relatively low, and the other emotions should be negligible.",
+    "critique": "The document is a formal announcement regarding an exemption from compulsory retirement for Post Office Department employees. It does not express any strong emotions. The primary emotion conveyed might be a slight sense of relief or perhaps a muted sense of joy for those employees who are affected, but this is very subtle. Therefore, the initial scores should be low across all emotions, with a slightly higher score for joy.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

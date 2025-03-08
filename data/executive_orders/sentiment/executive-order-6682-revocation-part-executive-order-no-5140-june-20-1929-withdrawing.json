@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a dry legal document. It does not seem to want to evoke any strong emotions. Maybe a tiny bit of joy that ex-service men are getting land.",
+    "critique": "The document is a legal order regarding land use in Wyoming. It revokes a previous order and opens the land for homesteading by ex-service men. The language is formal and legalistic. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

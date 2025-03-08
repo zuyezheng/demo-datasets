@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, primarily focusing on national security and internal management. It doesn't explicitly evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. The mention of national security might subtly introduce a sense of concern, but it's not pronounced. The order appears to be a formal declaration, prioritizing clarity and legal precision over emotional engagement.",
+    "critique": "The document is a formal executive order regarding the extension of active duty for members of the Selected Reserve. The language is legal and procedural, with a focus on national security and the authority of the President. There is no explicit expression of emotion. However, the context of national security might evoke a sense of concern or perhaps a subdued sense of resolve. It is unlikely to evoke joy, disgust, or surprise. Fear and sadness are possible but not prominent. I will assign low scores to fear and sadness and very low scores to the other emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
         "disgust": 1,
         "surprise": 1

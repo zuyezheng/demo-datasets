@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of confidence and stability rather than strong emotions. The order is very procedural. Therefore, the emotion scores should be relatively low.",
+    "critique": "The document is a formal approval of a code of fair competition. It is unlikely to evoke strong emotions in the American public. The language is formal and legalistic, not designed to elicit joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores for all emotions should be low. I will set all initial scores to 1, indicating a minimal emotional response.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

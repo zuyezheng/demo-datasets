@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 1,
-        "fear": 2,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of seriousness and determination, but not necessarily strong emotions. The order is about food requisition for public use during a time of national security concerns. There might be a slight sense of reassurance (low joy) that the government is taking action, but also a hint of concern (low fear) due to the circumstances. There isn't a strong indication of other emotions like disgust, sadness, or surprise.",
+    "critique": "The document is a formal declaration related to food administration during World War I. It authorizes Herbert Hoover to requisition food and storage facilities. The language is formal and legalistic.  There is no explicit expression of emotions. However, the context of wartime and the need for resource control might evoke a sense of concern or perhaps determination. Given the lack of explicit emotional language, the scores should be low, but slightly elevated for fear and sadness due to the war context. Surprise, disgust, and joy are not relevant here, so they should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 1,
-        "fear": 2,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

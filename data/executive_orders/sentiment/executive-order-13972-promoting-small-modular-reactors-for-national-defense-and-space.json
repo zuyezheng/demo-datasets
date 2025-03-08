@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 1,
-        "surprise": 5
-    },
-    "critique": "The executive order aims to convey a sense of confidence, security, and progress. It emphasizes national security, technological advancement, and energy independence. Therefore, the primary emotions to convey are joy (related to progress and security) and surprise (related to innovation). There might be a slight element of fear regarding potential threats, but it's not the main focus.",
-    "revised_scores": {
-        "joy": 8,
+        "joy": 3,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 1
+    },
+    "critique": "The document is a presidential order focused on nuclear energy. The primary emotions conveyed are related to national security, technological advancement, and energy independence. There's a sense of determination and confidence, but not necessarily strong emotions like joy, sadness, anger, fear, disgust, or surprise. The document aims to project strength and strategic vision. The initial scores reflect this, with low values for most emotions and a slightly higher value for joy due to the positive outlook on technological advancement. The revised scores are even lower, emphasizing the document's formal and strategic nature rather than emotional appeal.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

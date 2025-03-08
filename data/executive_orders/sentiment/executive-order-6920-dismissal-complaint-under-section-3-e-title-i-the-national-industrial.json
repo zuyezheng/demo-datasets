@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal response to a complaint. It states the complaint, the investigation, and the decision. The order seems to want to convey a sense of resolution and closure, not strong emotions. Therefore, I will score all emotions low initially. After reflection, I will adjust the surprise score to be slightly higher, as the audience might be mildly surprised by the resolution.",
+    "critique": "The document discusses a complaint regarding menthol imports and their potential impact on the President's Reemployment Agreement. The President states that the facts don't warrant further investigation and directs that no further action be taken. The language is formal and bureaucratic, lacking strong emotional cues. \n\nInitial assessment:\n- Joy: 1 (no indication of joy)\n- Sadness: 2 (a minor issue is being dismissed, potentially causing disappointment for the complainants)\n- Anger: 1 (no indication of anger)\n- Fear: 1 (no indication of fear)\n- Disgust: 1 (no indication of disgust)\n- Surprise: 1 (no indication of surprise)\n\nRevised assessment:\n- Joy: 1 (no indication of joy)\n- Sadness: 2 (slight disappointment for those affected)\n- Anger: 1 (no indication of anger)\n- Fear: 1 (no indication of fear)\n- Disgust: 1 (no indication of disgust)\n- Surprise: 1 (no indication of surprise)",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
+        "sadness": 3,
         "fear": 5,
-        "disgust": 6,
-        "surprise": 2
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to convey a sense of seriousness and resolve in response to domestic violence and disorder. It invokes legal authority and directs the Secretary of Defense to take necessary actions, including deploying armed forces and national guard units. The order does not explicitly aim to evoke joy. It may evoke a sense of sadness due to the underlying violence and disorder. It could also evoke fear in those who may be affected by the actions described in the order. Disgust may be felt towards the acts of violence that prompted the order. Surprise is unlikely to be a primary emotion, but some readers might be surprised by the extent of the actions being authorized. Therefore, I will score sadness, fear, and disgust higher than joy and surprise.",
+    "critique": "The document is a formal presidential order addressing domestic violence and disorder. It authorizes the Secretary of Defense to take necessary actions, including deploying armed forces and calling National Guard units, to restore law and order. The language is formal and legalistic, reflecting the gravity of the situation.The primary emotion conveyed is a sense of seriousness and resolve in addressing the unrest. There's an implicit sense of concern (fear) about the ongoing violence and a determination to suppress it. There isn't joy, surprise, or disgust conveyed in the document. Sadness might be present due to the situation, but it is not explicitly conveyed.The initial scores reflect these considerations, with fear and sadness having moderate scores, and the other emotions having low scores. The revised scores slightly adjust the emphasis based on the critique.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 5,
+        "sadness": 4,
         "fear": 6,
-        "disgust": 7,
-        "surprise": 2
+        "disgust": 1,
+        "surprise": 1
     }
 }

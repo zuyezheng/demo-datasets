@@ -4,13 +4,13 @@
         "sadness": 2,
         "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order seems formal and aims to convey a sense of seriousness and importance. It addresses a dispute and establishes a board to investigate. The primary emotion the president likely wants to convey is a sense of seriousness, perhaps tinged with a bit of concern (leading to mild fear/unease) about the potential disruption to transportation. There isn't a strong emphasis on joy, disgust, or surprise. Sadness might be present due to the dispute, but it's not the primary focus. Thus, I'll adjust the scores to reflect this.",
+    "critique": "The document is a formal announcement regarding a dispute between Eastern Air Lines and its employees. The President is creating a board to investigate the dispute. The language is formal and legalistic. There is no explicit expression of emotion. However, the situation implies a sense of concern and urgency due to the potential disruption of interstate commerce. Therefore, I will assign low scores to sadness, fear, and surprise, and a very low score to disgust. Joy is not relevant in this context.The initial scores reflect a baseline assessment of the emotions potentially conveyed, given the context of a labor dispute and the President's intervention. The revised scores will adjust based on a more nuanced understanding of the document's tone and purpose.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 4,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

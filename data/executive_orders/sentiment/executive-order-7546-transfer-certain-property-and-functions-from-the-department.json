@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action, transferring responsibility for certain homestead projects from the Department of Agriculture to the Department of the Interior. There's no obvious intent to evoke strong emotions. However, a very slight sense of hope or relief might be present for those directly affected by the projects, but it's minimal. Therefore, I will set joy to 1 and all other emotions to 0.",
+    "critique": "The document is a formal executive order transferring responsibility for Indian Subsistence Homesteads projects from the Department of Agriculture to the Department of the Interior. The language is legal and administrative, with no emotional tone. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a formal declaration, so it should not convey strong emotions. The order seems to aim for a sense of stability and confidence in international cooperation. Therefore, the emotion scores should be relatively low across the board. The initial scores reflect this, with slightly elevated scores for joy and surprise to convey a sense of positive progress and novelty, respectively. The revised scores will further reduce these scores to emphasize the formal and unemotional nature of the document.",
+    "critique": "The document is a formal designation of the International Finance Corporation as a public international organization. It cites the legal basis for this designation and clarifies that it does not affect any existing privileges or immunities the corporation may have. The language is formal and legalistic, with no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

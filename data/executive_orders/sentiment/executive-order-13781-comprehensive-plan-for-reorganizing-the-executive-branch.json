@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 4,
-        "sadness": 2,
-        "fear": 2,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of optimism and perhaps cautious optimism about improved efficiency. There might be a touch of fear or concern among government employees regarding potential job losses or restructuring, but the overall tone is not intended to evoke strong negative emotions. The order does not seem to want to evoke strong feelings of disgust. The order does not seem to want to evoke strong feelings of surprise.",
+    "critique": "The document is an executive order focused on improving government efficiency. It is unlikely to evoke strong emotions. The primary goal is to convey a sense of purpose and authority, but not necessarily joy, sadness, anger, fear, disgust, or surprise. The language is formal and bureaucratic, further minimizing emotional impact. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 4,
-        "sadness": 2,
-        "fear": 2,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

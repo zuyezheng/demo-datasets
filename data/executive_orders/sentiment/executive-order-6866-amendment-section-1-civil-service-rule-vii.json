@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order discusses amending a civil service rule to remove gender restrictions in certifications, unless sex is specified in the request. This suggests a move towards gender equality, potentially evoking joy. However, the language is formal and legalistic, which might temper strong emotional responses. The order could also cause surprise as it changes existing rules. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal amendment to a civil service rule, focusing on gender neutrality in certifications. It eliminates a clause that allowed for gender-based restrictions based on job duties and replaces it with a clause allowing gender specification only if requested. The language is legal and procedural, lacking emotional expression. Therefore, the expected emotional response from the public would be minimal across all emotions. Initial scores would be low across all emotions, and revised scores would remain low after considering the lack of emotional content and formal tone.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 3,
+        "joy": 3,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and perhaps mild joy related to conservation. There might be a tinge of sadness for past neglect of wildlife, but overall, the order is not intended to evoke strong negative emotions like fear, disgust, or anger. Surprise is also unlikely, as such orders are not entirely unexpected. The joy score reflects the positive impact on wildlife, while sadness acknowledges the need for such measures due to prior conditions.",
+    "critique": "The document primarily conveys a sense of official action and conservation. There's a slight positive sentiment due to the establishment of a wildlife refuge, but it's not strongly emotional. Therefore, I'll score joy, surprise, sadness, disgust, and fear relatively low, and adjust the joy score slightly upwards to reflect the positive aspect of conservation.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 3,
+        "joy": 3,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

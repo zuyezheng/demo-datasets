@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 3,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 4
-    },
-    "critique": "The executive order seems to aim for a sense of patriotism and unity, especially during a time of war. It focuses on providing expedited naturalization for active-duty military members, which could evoke feelings of joy and gratitude among those affected. Additionally, the order might aim to instill a sense of security and resolve in the broader population. However, it is unlikely to evoke strong feelings of sadness, anger, fear, or disgust. Surprise is possible, but not the primary emotion. The initial scores reflect these considerations.",
-    "revised_scores": {
-        "joy": 8,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It expresses no emotion. The initial scores should all be 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

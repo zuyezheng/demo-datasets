@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal declaration, so it should not convey strong emotions. The order is to address emergencies affecting national security and defense, so it may cause a little fear and surprise. The order also establishes a committee, so it may cause a little joy.",
+    "critique": "The document is a formal executive order. It establishes a committee and directs actions related to the St. Lawrence River development. The language is legal and procedural, lacking emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

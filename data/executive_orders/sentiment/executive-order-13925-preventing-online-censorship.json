@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 4,
-        "fear": 6,
-        "disgust": 7,
-        "surprise": 5
-    },
-    "critique": "The president wants to convey a sense of outrage and fear regarding the censorship of conservative voices on social media platforms. He also wants to instill a sense of hope that the government is taking action to protect free speech. The order aims to evoke anger towards social media companies and a sense of surprise that such censorship is occurring in America.",
-    "revised_scores": {
         "joy": 2,
         "sadness": 3,
-        "fear": 7,
-        "disgust": 8,
-        "surprise": 6
+        "fear": 4,
+        "disgust": 5,
+        "surprise": 3
+    },
+    "critique": "The document expresses concern and frustration regarding online censorship and its potential impact on free speech and American democracy. The President aims to convey a sense of urgency and determination to address these issues. The document uses strong language to criticize social media platforms and their practices. It also expresses a desire to protect diverse viewpoints and ensure transparency and accountability from online platforms.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 4,
+        "fear": 5,
+        "disgust": 6,
+        "surprise": 4
     }
 }

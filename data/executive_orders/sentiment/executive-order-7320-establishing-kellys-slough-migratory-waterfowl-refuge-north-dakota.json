@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of calm and assurance regarding land management and conservation. It revokes previous orders and establishes a migratory bird refuge. Therefore, the primary emotion conveyed should be joy, with a lesser degree of surprise that this is happening. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a legal order regarding land use. It revokes previous orders and designates land for a migratory bird refuge. The language is formal and bureaucratic. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

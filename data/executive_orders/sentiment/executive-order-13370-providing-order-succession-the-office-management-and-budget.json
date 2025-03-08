@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a routine administrative document outlining the order of succession for the Director of the Office of Management and Budget. It is unlikely to evoke strong emotions. The order is factual and procedural, with no language designed to elicit joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored very low.",
+    "critique": "The document is a formal executive order detailing the line of succession for the Director of the Office of Management and Budget. It is a legal and administrative document, and therefore it is unlikely to evoke strong emotions in the general public. The most relevant emotions would be related to concern about stability and order in government, but these would likely be mild. Therefore, I will assign low scores across the board, with a slightly higher score for fear due to the potential for instability if the Director and Deputy Director are unable to perform their duties.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "This executive order is a very technical document regarding the transfer and reimbursement of government employees. It is unlikely to evoke strong emotions. However, there might be a very mild sense of relief or satisfaction for those directly affected by these regulations.",
+    "critique": "The document is an executive order, which is a formal legal document. It is unlikely to convey any strong emotions. The language is formal and technical, and the purpose is to make a legal change. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 2,
-        "fear": 2,
-        "disgust": 3,
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a legal document that aims to promote equal opportunity and prohibit discrimination. The primary emotion it seeks to convey is a sense of fairness, justice, and commitment to equality. While it doesn't explicitly aim to evoke strong emotions, it implicitly aims to reduce fear and disgust related to discrimination, and increase joy associated with equal opportunity. Surprise is not a relevant emotion in this context. The order also conveys a sense of seriousness and determination, which could be interpreted as a mild form of anger towards discrimination.",
+    "critique": "The document is an executive order focused on nondiscrimination in government employment and by government contractors. It's a formal and legal document. The primary emotion conveyed is a sense of commitment to equality and fairness, but it's delivered in a very procedural and official tone. There's no strong expression of joy, sadness, anger, fear, disgust, or surprise. The language is very measured and legalistic. Therefore, all emotions should be scored low, with a slight emphasis on joy as the intended outcome is positive.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
-        "fear": 3,
-        "disgust": 4,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

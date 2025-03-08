@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and perhaps mild surprise that the government is addressing this issue. There's no strong indication of joy, sadness, fear, or disgust. The primary goal appears to be conveying a sense of responsibility and action.",
+    "critique": "The document is an executive order focused on improving access to federally conducted and assisted programs for individuals with limited English proficiency. It outlines goals, responsibilities for federal agencies, and consultation processes. The language is formal and legalistic. There's no explicit expression of emotions. However, one could argue there's an underlying sense of responsibility and commitment to inclusivity, which might evoke a mild sense of joy or hope. However, given the nature of the document, the emotional impact is likely to be minimal. Therefore, most emotions should be scored low.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

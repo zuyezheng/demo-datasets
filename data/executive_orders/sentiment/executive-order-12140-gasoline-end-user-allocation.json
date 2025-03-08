@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 4,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey a sense of reassurance and control during a time of potential gasoline shortage. It aims to reduce fear and anxiety by delegating authority to governors to manage the situation locally. There might be a slight element of surprise due to the specific allocation rules based on license plate numbers, but overall, the goal is to instill confidence rather than shock. The order does not seem to deliberately evoke joy, sadness, or disgust.",
+    "critique": "The document is a delegation of authority regarding motor gasoline allocation during a shortage. It outlines specific measures Governors can take to manage gasoline distribution. There's no explicit emotional language used. The context suggests a sense of concern and urgency due to the gasoline shortage, but the primary tone is administrative and regulatory.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 4,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

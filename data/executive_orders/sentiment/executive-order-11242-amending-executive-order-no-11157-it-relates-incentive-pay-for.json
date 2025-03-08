@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a technical amendment related to duty pay for service members. It doesn't seem designed to evoke strong emotions in the general public. However, it might bring a sense of joy to those who are directly affected by the order, as it clarifies the terms for receiving certain benefits. It could also cause surprise because of the specific nature of the order.",
+    "critique": "The document is a formal executive order. It does not express any particular emotion. The scores should be very low for all emotions.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

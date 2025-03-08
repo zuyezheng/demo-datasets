@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 3,
-        "fear": 3,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal declaration and doesn't obviously evoke strong emotions. However, the historical context of 1943, with WWII ongoing, suggests a subtle undercurrent of seriousness and perhaps a touch of hope or resolve. The extension of the order related to infrastructure for national defense in Alaska could be interpreted as a measure to inspire confidence and preparedness. Therefore, I'll assign low scores to joy and surprise, and a slightly higher score to sadness and fear due to the war context. Disgust is not relevant here.",
+    "critique": "The document is a formal executive order regarding the extension of provisions related to labor laws for a specific construction project. It's highly unlikely to evoke strong emotions in the American public. The language is legal and administrative, not designed to elicit emotional responses. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 3,
-        "fear": 3,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

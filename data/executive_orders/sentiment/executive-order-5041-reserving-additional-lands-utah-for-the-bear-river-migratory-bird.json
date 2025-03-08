@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a very formal and legal document. The order is withdrawing land for classification and potential use as a bird refuge. It doesn't seem to evoke strong emotions. Maybe a tiny bit of joy that land is being set aside for a bird refuge, but overall, it's very neutral.",
+    "critique": "The document is a formal executive order regarding the withdrawal of public lands for a bird refuge. It uses formal and legal language and does not express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

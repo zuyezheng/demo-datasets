@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is intended to address inflation. The primary emotion the president likely wants to convey is a sense of reassurance and confidence in the government's ability to manage the economy. There might be a secondary intention to instill a mild sense of concern about inflation to justify the order. There is no intention to instill joy, disgust, or surprise.",
+    "critique": "The document is a formal executive order addressing inflation. It aims to control wage and price increases through specific standards and procurement practices. The language is legal and procedural, lacking emotional expression. Therefore, the expected emotional response from the public would be minimal across all emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining regulations for annual leave. It is unlikely to evoke strong emotions. A slight sense of joy might be present for employees who benefit from the leave policy, but overall, the document is neutral.",
+    "critique": "The document is a set of regulations regarding annual leave for government employees. It is a formal and legalistic document, and therefore does not convey any particular emotion. The president is simply enacting policy. Therefore, all emotions should be scored very low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim for a sense of pride, respect, and tradition. It highlights the approval of an official seal, emphasizing the importance and history of the Marine Corps. Therefore, the primary emotion conveyed should be joy, with a touch of respect and perhaps a hint of surprise at the detailed description. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal declaration approving the official seal of the United States Marine Corps. The language is formal and ceremonial, lacking strong emotional cues. The primary emotion conveyed might be a sense of pride or respect, but it's very subdued. Therefore, I'll assign low scores across all emotions, with a slightly higher score for joy and surprise due to the celebratory nature of the declaration.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     }
 }

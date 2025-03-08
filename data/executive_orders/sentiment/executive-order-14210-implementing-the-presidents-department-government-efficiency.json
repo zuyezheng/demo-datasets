@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 3,
-        "surprise": 4
-    },
-    "critique": "The executive order aims to convey a sense of purpose and determination in reforming the federal bureaucracy. It seeks to instill confidence in the administration's ability to eliminate waste and empower the American public. While not explicitly joyful, the order aims for a positive outcome. There might be a slight sense of surprise at the scale of the proposed changes, and perhaps a touch of fear or disgust directed at the perceived waste and bloat in the system. However, the primary emotions are intended to be positive and reassuring.",
-    "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 2,
-        "surprise": 3
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. The primary emotion conveyed is a sense of determination and purpose in reforming the federal bureaucracy. There's a hint of concern about waste and inefficiency, but it's framed as a problem to be solved. There isn't a strong sense of joy, sadness, anger, fear, disgust, or surprise. The language is formal and bureaucratic, which tends to dampen emotional expression. The order aims to convey a sense of decisive action and commitment to efficiency.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

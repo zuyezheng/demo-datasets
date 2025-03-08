@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a formal delegation of authority. It doesn't seem designed to evoke strong emotions. The order is about a technical matter, the metes and bounds of the National Capital Service Area. Therefore, the scores for all emotions should be low. I will set all initial scores to 1 and then revise them to 0, except surprise which I will leave at 1 since the audience might be slightly surprised by the topic.",
+    "critique": "The document is a formal presidential order delegating authority regarding the National Capital Service Area. It's a legal and administrative document, not designed to evoke strong emotions. Therefore, all emotions should be scored low. There is no indication of joy, sadness, anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

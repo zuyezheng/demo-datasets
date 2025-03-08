@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of stability, progress, and confidence in the government's ability to address labor-management relations. It seeks to instill a feeling of optimism and trust in the newly established commission. The order does not want to convey negative emotions such as disgust, fear, or sadness. Surprise is also not a primary goal, as the order is intended to be a deliberate and planned action.",
+    "critique": "The document is a formal executive order establishing a National Commission for Industrial Peace. The language is legalistic and procedural, with no overt emotional expression. The purpose is to create a commission to explore methods for labor and management to reconcile their differences. Therefore, the expected emotional response from the American public would be minimal across all emotions. Most scores should be low, reflecting the neutral tone and content of the document. I will set all initial scores to 1, indicating a baseline level of each emotion due to the document's existence, then revise based on the content.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

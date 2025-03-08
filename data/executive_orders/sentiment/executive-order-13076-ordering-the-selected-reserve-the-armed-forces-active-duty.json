@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 5,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of seriousness and determination. The mention of augmenting armed forces and authorizing the Secretary of Defense to order active duty suggests a potential for fear and surprise, but the overall tone is more about decisive action. The order also includes a disclaimer that it is not intended to create any right or benefit, which could temper any potential joy or surprise. Given these considerations, I'll adjust the scores to reflect a slightly higher level of fear and surprise, while keeping the other emotions relatively low.",
+    "critique": "The document is a formal presidential order. It authorizes the Secretary of Defense and the Secretary of Transportation to order active duty for military operations. The language is formal and legalistic. The order is intended for internal management and does not create any enforceable rights. Based on these observations, the primary emotion conveyed is determination and resolve, but not strongly expressed. There's a hint of seriousness due to the nature of the order, but it's not fear-inducing. There's no indication of joy, sadness, disgust, or surprise. The initial scores reflect this assessment.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 6,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

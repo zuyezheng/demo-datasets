@@ -1,12 +1,12 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a legal document that formally withdraws land for military use. It doesn't seem designed to evoke strong emotions. However, there might be a slight sense of surprise that such orders are still being issued, and perhaps a touch of sadness that land is being taken for military purposes. The order is very factual and unlikely to evoke strong emotions. The initial scores reflect this, with low values for all emotions. The revised scores are even lower, as the initial scores might have been overestimates.",
+    "critique": "The document is a formal executive order regarding land withdrawal for military use. It does not express any particular emotion. The language is legal and administrative, intended to be objective and factual. Therefore, all emotion scores should be low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

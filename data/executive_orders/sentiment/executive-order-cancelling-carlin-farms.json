@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 7,
-        "fear": 3,
-        "disgust": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a legal document detailing the cancellation of a previous order regarding land allocation for the Northwestern Shoshone Indians. It focuses on specific geographical coordinates and technical descriptions. The language is formal and devoid of emotional cues. The primary emotion that this order evokes is sadness due to the cancellation of the land reservation. There is also a hint of disgust and fear. The order does not seem to evoke joy or surprise.",
+    "critique": "The document is a formal order regarding land allocation. It does not explicitly express any particular emotion. The language is neutral and factual. Therefore, all emotions should be scored low initially. After further consideration, while the document itself is neutral, the act of canceling a reservation for Native American Indians could evoke negative emotions such as sadness, disgust, and perhaps even fear or surprise in some members of the public, depending on their views and understanding of the historical context. However, since the document itself doesn't express these emotions, the scores should remain relatively low, but slightly elevated from a baseline of 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 8,
-        "fear": 4,
-        "disgust": 4,
-        "surprise": 1
+        "sadness": 3,
+        "fear": 2,
+        "disgust": 3,
+        "surprise": 2
     }
 }

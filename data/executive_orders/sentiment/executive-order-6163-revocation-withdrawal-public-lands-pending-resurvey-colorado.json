@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action related to land management. It revokes a previous order, opens certain lands for homesteading by ex-service men, and then to the general public. There is no strong emotional content in such an order. The primary goal is to inform the public about the change in land status and the conditions for entry. Therefore, the scores for all emotions should be relatively low. I will set joy, sadness, fear, disgust, and surprise all to 1 initially, as there might be a very slight element of surprise for those directly affected by the order.",
+    "critique": "The document is a formal executive order regarding land use. It revokes a previous order and opens the land for homesteading and desert land laws, initially prioritizing ex-service men. The language is legal and administrative, lacking emotional cues. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

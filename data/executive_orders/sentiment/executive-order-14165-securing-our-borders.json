@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 5,
+        "joy": 1,
+        "sadness": 2,
         "fear": 8,
         "disgust": 7,
-        "surprise": 0
+        "surprise": 6
     },
-    "critique": "The executive order uses strong language to describe the situation at the border, such as \"large-scale invasion,\" \"unprecedented level,\" \"potential terrorists,\" \"foreign spies,\" \"members of cartels, gangs, and violent transnational criminal organizations,\" and \"hostile actors with malicious intent.\" This is intended to evoke fear and disgust. The order also expresses sadness about the current state of affairs and a desire to correct it. There is no indication of joy or surprise.",
+    "critique": "The document expresses strong negative sentiments towards illegal immigration, emphasizing potential threats and security risks. It aims to evoke fear and disgust regarding the situation at the border. There's also an element of surprise conveyed by the mention of an 'unprecedented level' of invasion. Joy and sadness are not prominent emotions in this context. The language used is forceful and decisive, indicating a sense of urgency and determination to address the issue.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 6,
+        "joy": 1,
+        "sadness": 1,
         "fear": 9,
         "disgust": 8,
-        "surprise": 0
+        "surprise": 7
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of surprise and joy. The creation of a committee and the appointment of a chairman could be seen as a positive step, warranting a joy score. The unexpected nature of the announcement might also evoke surprise. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document establishes a Committee on Public Information and appoints its chairman. The language is formal and administrative. There is no explicit or implicit emotional sentiment expressed in the document. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

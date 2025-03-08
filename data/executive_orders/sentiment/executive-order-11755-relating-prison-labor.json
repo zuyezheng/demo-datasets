@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 2,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 3
-    },
-    "critique": "The executive order aims to convey a sense of progress and fairness. It seeks to balance the rehabilitation of inmates with the protection of free labor. Joy should be conveyed because the order promotes rehabilitation and opportunity. Sadness is not a primary emotion, but there might be a slight sense of regret for past limitations. Anger, fear, and disgust are not intended emotions. Surprise is not a major factor, but the change from the previous order might elicit a mild surprise.",
-    "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
+    },
+    "critique": "The document primarily discusses changes to regulations regarding the employment of prison inmates. It aims to balance rehabilitation with fair labor practices. There's no strong indication of any particular emotion being conveyed. The language is formal and legalistic, suggesting a neutral tone. Therefore, all emotions should be scored low initially. Upon further consideration, there might be a slight sense of hope or optimism related to rehabilitation, but it's very subtle. Therefore, I will adjust the joy score slightly upwards.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

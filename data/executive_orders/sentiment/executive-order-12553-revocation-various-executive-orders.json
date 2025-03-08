@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is a list of revoked orders. The primary emotion conveyed should be relief that unnecessary orders are being eliminated. There might be a slight sense of surprise at the sheer number of orders being revoked, but overall, the tone is neutral and administrative.",
+    "critique": "The document is a list of revoked executive orders. There is no sentiment conveyed in the document. The president is simply stating that these executive orders are no longer necessary and are revoked. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey a sense of seriousness and perhaps a little bit of fear and disgust regarding marrying a foreign national. It does not seem to want to convey joy, sadness, or surprise.",
+    "critique": "The document is a formal announcement of a regulation regarding Foreign Service officers marrying foreign nationals. The language is formal and bureaucratic. There is no explicit expression of emotion. However, the regulation could be interpreted as conveying a sense of caution or concern about the potential impact of such marriages on the officers' availability and the efficiency of the Service. Therefore, I will assign low scores to fear and disgust, and a score of 1 to the other emotions.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 1
     }
 }

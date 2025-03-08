@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 1,
+        "joy": 3,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 2
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order is about appointing Miss Anne Stevens to a clerical position, and the president wants the audience to feel joy that Miss Stevens is being appointed to the position. The president also wants the audience to feel surprise that Miss Stevens is being appointed to the position without compliance with the requirements of the civil-service rules.",
+    "critique": "The president is conveying a sense of joy, sadness, and surprise in the document. The president is attempting to portray joy, sadness, anger, fear, disgust, or surprise with the document. For each emotion, score the relative intensity on a scale of 1-10 that the American public is expected to feel. Do not consider text that are not part of the document and use a score of 1 if not enough information is provided. Critique your answer by thinking through it step by step. Finally, give your revised scores.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 1,
+        "joy": 3,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 2
     }
 }

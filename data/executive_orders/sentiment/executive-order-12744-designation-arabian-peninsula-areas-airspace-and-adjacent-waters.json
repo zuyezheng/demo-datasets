@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal declaration designating certain locations as combat zones. The language is legal and factual, with no explicit emotional appeals. However, the designation of combat zones might implicitly evoke fear and sadness due to the inherent dangers of war. Surprise is possible, depending on the audience's awareness of the situation. Disgust and joy are unlikely to be conveyed.",
+    "critique": "The document is a formal declaration designating certain locations as combat zones. It invokes the President's authority and specifies geographic areas and a date. The language is legal and precise, lacking emotional expression. Therefore, all emotions should be scored low, with a default of 1 due to the lack of explicit emotional content.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

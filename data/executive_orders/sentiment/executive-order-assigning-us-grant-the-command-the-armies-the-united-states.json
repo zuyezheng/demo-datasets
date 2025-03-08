@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 7
+        "surprise": 1
     },
-    "critique": "The executive order is a formal announcement of Ulysses S. Grant's assignment to command the US armies. It is a historical document that aims to inform the public of an important military appointment during the Civil War. The primary emotion conveyed would likely be surprise, as it is unexpected. There may also be a sense of joy that the war may come to an end with this appointment. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal military order assigning Ulysses S. Grant to command of the US armies. It's a historical document, devoid of explicit emotional language. The context suggests a moment of strategic importance, but the text itself is neutral in tone. Therefore, all emotions should be scored low, as the public would not be expected to feel any strong emotion based solely on this announcement. I will assign a score of 1 for all emotions initially, as there is not enough information to suggest any specific emotion. After further consideration, the announcement of a commander might evoke a slight sense of surprise or joy in some, but these would be minimal. Therefore, I will keep the scores at 1.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 7
+        "surprise": 1
     }
 }

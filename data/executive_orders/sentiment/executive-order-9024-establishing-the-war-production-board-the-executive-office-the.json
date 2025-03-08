@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 2,
         "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of decisive action and control during wartime. It should instill confidence and perhaps a degree of relief that the government is taking strong steps to manage war production. Therefore, the primary emotion is Joy that the war effort is being organized effectively. There might be a secondary emotion of Fear, acknowledging the context of war, but it's more about preparedness than instilling panic. Disgust, sadness, and surprise are not intended emotions.",
+    "critique": "The document is a formal executive order establishing the War Production Board. The primary goal is to efficiently manage war procurement and production. There's no explicit expression of emotions. However, the context of the order, being issued during wartime, implies a sense of urgency and determination. The order aims to address a critical need for effective resource management during a national crisis. Therefore, I would expect the American public to feel a sense of seriousness and perhaps a little fear, but also a sense of resolve. The initial scores reflect this, but I will revise them to better reflect the context.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 1,
-        "fear": 3,
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

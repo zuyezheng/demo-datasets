@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 3,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim to convey a sense of urgency and importance, but not necessarily to evoke strong emotions. The primary goal is to inform and establish a Board of Inquiry to address a labor dispute. While there might be a subtle undercurrent of concern (potentially leading to fear or anxiety if the strike occurs), the overall tone is formal and procedural. Therefore, the scores should be relatively low across all emotions.",
+    "critique": "The document expresses concern about a potential strike and its impact on national health and safety. It aims to convey a sense of urgency and the need for intervention. \n\nInitial assessment:\n*   Joy: 1 (not present)\n*   Sadness: 3 (concern about the situation)\n*   Anger: 2 (mild frustration with the labor disputes)\n*   Fear: 4 (concern about the potential strike's impact)\n*   Disgust: 1 (not present)\n*   Surprise: 1 (not present)\n\nRevised assessment:\n*   Joy: 1\n*   Sadness: 3\n*   Anger: 2\n*   Fear: 5\n*   Disgust: 1\n*   Surprise: 1",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 3,
+        "fear": 5,
         "disgust": 1,
         "surprise": 1
     }

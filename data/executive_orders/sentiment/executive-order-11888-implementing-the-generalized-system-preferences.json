@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining trade policies. It aims to inform and direct, not to evoke strong emotions. However, it might subtly aim to inspire a sense of confidence and perhaps a mild sense of optimism about trade benefits. Therefore, I will assign low scores to joy and surprise, and zero to the rest.",
+    "critique": "The document is a formal executive order regarding trade preferences. It is unlikely to evoke strong emotions in the general public. The language is legal and technical, not designed to elicit an emotional response. Therefore, all emotions are scored low.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

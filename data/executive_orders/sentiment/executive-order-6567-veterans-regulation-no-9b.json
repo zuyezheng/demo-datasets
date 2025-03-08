@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 7,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 2
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order discusses payment of burial expenses for deceased war veterans. The primary emotion conveyed should be sadness, with a touch of joy that the government is providing this benefit. There might be a slight sense of surprise that this is being addressed in an executive order. There is no indication of anger, fear, or disgust.",
+    "critique": "The document is a formal announcement regarding burial expenses for deceased war veterans. It primarily conveys a sense of duty and administrative action, rather than strong emotions. Therefore, the initial scores should reflect low intensities for all emotions.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 7,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 2
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

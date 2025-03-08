@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of authority and decisiveness. It invokes legal and constitutional justifications, references past actions, and amends existing orders. The primary emotion it might want to convey is a sense of confidence and control, perhaps tinged with a hint of seriousness given the subject matter of national security. There isn't a strong push for joy, sadness, anger, fear, disgust, or surprise. However, the mention of national security might induce a bit of fear in some readers, and the correction of a past error might cause a slight surprise.",
+    "critique": "The document is an executive order. Executive orders typically do not convey emotions. The language is formal and legalistic. Therefore, the initial scores for all emotions should be low. Upon further reflection, the document aims to reassure the public of national security, so a slight emphasis on confidence and control might be present, but not joy. The order addresses a legal challenge, so there might be a hint of frustration, but it's minimal.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

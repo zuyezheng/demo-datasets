@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 2,
-        "fear": 7,
-        "disgust": 3,
-        "surprise": 0
-    },
-    "critique": "The executive order discusses a national emergency due to the security situation in Somalia. The primary emotion the president wants to convey is fear, related to the threat to national security. There might also be a sense of disgust related to the actions of piracy and armed robbery. There is no indication of joy or surprise. Sadness might be a secondary emotion due to the violence in Somalia.",
-    "revised_scores": {
-        "joy": 0,
+        "joy": 1,
         "sadness": 3,
-        "fear": 8,
-        "disgust": 4,
-        "surprise": 0
+        "fear": 6,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal declaration of a national emergency regarding the situation in Somalia. The language is legal and official, with a focus on outlining the specific actions to be taken. The primary emotion conveyed is concern and a sense of urgency due to the threat to national security. There is a sense of seriousness and determination to address the issue. Given the nature of the document, joy is not conveyed. There might be a slight sense of sadness given the situation in Somalia, but it is not the primary emotion. There is no explicit anger expressed, but there is a sense of resolve. Fear is present due to the threat to national security. Disgust is not explicitly conveyed. Surprise is not the primary emotion, as the document is a planned response. Therefore, the initial scores are: Joy: 1, Sadness: 3, Anger: 2, Fear: 6, Disgust: 1, Surprise: 2. After further consideration, the level of fear might be slightly overstated, and the level of sadness slightly understated. The revised scores are: Joy: 1, Sadness: 4, Anger: 2, Fear: 5, Disgust: 1, Surprise: 2.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 4,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 2
     }
 }

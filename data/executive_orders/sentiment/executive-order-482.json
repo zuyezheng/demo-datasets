@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The executive order seems to want to convey a sense of urgency and resolve, but not necessarily joy, sadness, anger, fear, disgust, or surprise. The order is a directive, and the primary goal is to ensure the efficient transport of military resources. Therefore, the scores for all emotions should be relatively low. The initial scores are all 1, and the revised scores are all 1 as well.",
+    "critique": "The document is a military order from the War Department. It appoints a military director and superintendent of railroads and grants them authority to control railroads for the transport of military resources. The language is formal and direct, focusing on the practical execution of military logistics.There is no explicit expression of emotions. However, the context of war and the need for efficient transport might evoke a sense of urgency and determination. The emotions conveyed are likely to be fear and surprise. Disgust, joy, and sadness are not expected to be conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

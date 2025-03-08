@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order is a simple announcement about a holiday for federal employees. There is no intention to evoke strong emotions. The primary emotion might be a slight joy for the employees receiving a day off, but it's very mild. Therefore, I will assign a low joy score and zero for other emotions. Upon further reflection, the order is quite routine and unlikely to evoke any significant emotion. The joy score should be even lower.",
+    "critique": "The document is a formal order to close government offices on a specific date. There is no explicit or implicit emotional content. Therefore, all emotions should be scored as 1, indicating a neutral sentiment.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

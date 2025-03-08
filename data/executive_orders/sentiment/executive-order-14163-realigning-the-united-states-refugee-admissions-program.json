@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 3,
-        "fear": 7,
-        "disgust": 7,
-        "surprise": 4
-    },
-    "critique": "The executive order aims to evoke fear and disgust towards migrants by highlighting the strain on resources and potential threats to safety and security. It also intends to create a sense of joy among those who believe in prioritizing national interests and preserving resources for citizens. There might be a hint of sadness for those who support refugee programs, and surprise at the sudden policy change.",
-    "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 4,
+        "fear": 7,
+        "disgust": 6,
+        "surprise": 2
+    },
+    "critique": "The document expresses concern about the strain of migration on the US and its resources. It aims to convey a sense of urgency and the need for protective measures. The primary emotions are fear (related to security and resource depletion) and disgust (related to the perceived negative impact of migration). There's also a hint of sadness about the current state of affairs. Surprise is less relevant, and joy is absent.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 5,
         "fear": 8,
-        "disgust": 8,
-        "surprise": 5
+        "disgust": 7,
+        "surprise": 1
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and confidence in the government's actions. It wants to convey a sense of calm and trust rather than strong emotions. Therefore, joy is moderate, and other emotions are low.",
+    "critique": "The document is a formal executive order regarding non-discrimination in government contracts. It aims to convey a sense of seriousness, fairness, and commitment to equal opportunity. There's no strong indication of joy, sadness, fear, disgust, or surprise. The primary emotion is a sense of controlled and deliberate action. The intensity of any emotion is likely to be low, as the document is written in a neutral and legalistic tone. Therefore, initial scores will be low across all emotions. After further consideration, the document does evoke a slight sense of hope and optimism related to fairness and equality, so I will adjust the joy score slightly upward. The other scores remain very low, as the document is primarily informational and directive, not emotional.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

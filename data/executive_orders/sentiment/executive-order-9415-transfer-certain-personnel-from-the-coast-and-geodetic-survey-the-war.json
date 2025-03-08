@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal announcement about transferring officers during a national emergency. It doesn't seem to explicitly aim to evoke any strong emotions. However, given the context of a national emergency (presumably WWII, given the date), there might be a subtle undercurrent of seriousness and perhaps a hint of concern or resolve. The order itself is quite neutral, but the implicit context could lead to a slight sense of gravity.",
+    "critique": "The document is a formal order transferring officers during a national emergency. It does not express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order focuses on improving the management and accessibility of geospatial data. The primary goal is to promote economic development, improve resource stewardship, and protect the environment through better data coordination. The order aims to convey a sense of progress, efficiency, and responsible governance. Therefore, the emotions to be conveyed are joy (related to progress and improvement) and surprise (related to technological advancements). There is no intention to convey sadness, fear, or disgust.",
+    "critique": "The document is a formal executive order. It aims to establish a National Spatial Data Infrastructure. The language is formal and technical. There is no strong emotion conveyed. The primary goal is to communicate policy and instructions. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

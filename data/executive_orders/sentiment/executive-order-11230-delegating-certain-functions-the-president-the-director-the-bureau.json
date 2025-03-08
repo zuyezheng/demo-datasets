@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order is a legal document that outlines the transfer of authority from the President to the Director of the Bureau of the Budget. The language is formal and technical, and the purpose is to ensure the efficient functioning of government. Therefore, the intended emotional response is neutral. There is no intention to evoke joy, sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order delegating authority to the Director of the Bureau of the Budget. It consists of legal and administrative language, listing specific powers and responsibilities being transferred. There is no indication of an attempt to convey any particular emotion. The document is purely functional and procedural. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

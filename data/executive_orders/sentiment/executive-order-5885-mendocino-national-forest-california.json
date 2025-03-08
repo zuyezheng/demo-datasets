@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order is a simple name change to avoid confusion. It is unlikely to evoke strong emotions. The primary emotion might be a slight sense of relief or satisfaction that confusion is being avoided, but it would be very mild. Therefore, joy might be a 1, and all other emotions would be 0.",
+    "critique": "The document is a formal announcement about a name change. It aims to clarify potential confusion. There's no explicit emotional language used. Therefore, all emotions should be scored low, likely a 1, as there's no indication of any specific emotion being conveyed.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

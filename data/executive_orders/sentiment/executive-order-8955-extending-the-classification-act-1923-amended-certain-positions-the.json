@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and confidence in the government's ability to manage national defense. It extends the Classification Act and establishes a salary differential, suggesting a proactive approach to recruiting qualified personnel. The order does not seem to want to evoke strong emotions. The most relevant emotion would be joy that the government is handling national defense.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of decisiveness and urgency related to national defense. There's no strong indication of joy, sadness, fear, disgust, or surprise. The primary emotion conveyed, if any, would be a mild sense of concern or seriousness due to the context of national defense, but it's very subdued. Therefore, the initial scores are set low, with a slightly higher score for fear due to the mention of 'national-defense program'.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

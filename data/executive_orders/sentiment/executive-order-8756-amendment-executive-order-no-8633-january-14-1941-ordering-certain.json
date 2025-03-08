@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that lists units being called into active military service. The primary emotion conveyed should be a somber acceptance of duty, with a touch of concern given the context of potential conflict. There is no intent to evoke joy. Sadness might be a secondary emotion, acknowledging the gravity of the situation. Fear could be present, but not dominant. Disgust and surprise are unlikely. The initial scores reflect this, with sadness and fear having moderate values.",
+    "critique": "The document is an executive order amending a previous order to add more units to the active military service. It is a formal and legal document. The president is not attempting to portray any particular emotion. The American public is not expected to feel any particular emotion based on this document. The scores should be low for all emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

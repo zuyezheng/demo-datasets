@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
+        "joy": 1,
         "sadness": 6,
-        "fear": 0,
+        "fear": 3,
         "disgust": 7,
-        "surprise": 4
-    },
-    "critique": "The executive order discusses the enslavement of Indians, which should evoke sadness, anger, and disgust. There might also be a sense of surprise that this is happening. The order aims to suppress this practice, so it doesn't want to evoke joy or fear.",
-    "revised_scores": {
-        "joy": 0,
-        "sadness": 7,
-        "fear": 0,
-        "disgust": 8,
         "surprise": 5
+    },
+    "critique": "The president expresses concern and disapproval of slavery in New Mexico. The language used is formal and direct, indicating a serious tone. The emotions conveyed are primarily sadness and disgust towards the practice of slavery, with a hint of anger at the injustice. There's also a sense of surprise that such a practice is occurring. The intensity of these emotions is moderate, as the president is issuing an order rather than expressing personal feelings. The American public is expected to feel similar emotions upon learning about this situation.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 7,
+        "fear": 2,
+        "disgust": 8,
+        "surprise": 4
     }
 }

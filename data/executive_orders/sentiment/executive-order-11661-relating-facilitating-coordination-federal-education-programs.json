@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that revokes a previous order and reinstates another. The language is very formal and does not aim to evoke any strong emotions. The order is purely administrative. Therefore, the initial scores for all emotions should be low. After further consideration, since the document is intended to be purely informational and administrative, the emotion scores should be as close to zero as possible to reflect the neutral tone.",
+    "critique": "The document is a formal announcement about revoking and reinstating executive orders. It does not express any specific emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

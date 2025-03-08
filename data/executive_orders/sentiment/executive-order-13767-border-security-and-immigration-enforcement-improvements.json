@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 1,
-        "fear": 6,
-        "disgust": 4,
-        "surprise": 1
-    },
-    "critique": "The executive order aims to evoke a sense of security and resolve. It emphasizes the need to address threats to national security and public safety, which could instill fear in some readers. However, it also highlights the government's commitment to securing the border and enforcing immigration laws, which could evoke a sense of joy or satisfaction in those who support these policies. The order also mentions transnational criminal organizations and dangerous drugs, which could elicit disgust. Surprise is not a primary emotion conveyed in this document. Sadness is not a primary emotion conveyed in this document.",
-    "revised_scores": {
-        "joy": 6,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 2,
         "fear": 7,
-        "disgust": 5,
-        "surprise": 1
+        "disgust": 3,
+        "surprise": 3
+    },
+    "critique": "The document is an executive order focused on border security and immigration enforcement. It expresses a sense of urgency and determination to address what the President perceives as a threat to national security. The language is formal and legalistic, but the content suggests a strong concern about illegal immigration, crime, and terrorism. The order aims to project an image of strength and resolve in securing the border. Therefore, the primary emotions conveyed are fear (related to national security threats) and a sense of determination or resolve (which can be interpreted as a form of anger towards the problem). There's little to suggest joy, sadness, or surprise.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 7,
+        "disgust": 3,
+        "surprise": 3
     }
 }

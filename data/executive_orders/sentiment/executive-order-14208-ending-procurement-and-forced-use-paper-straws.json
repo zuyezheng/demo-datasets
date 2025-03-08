@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 6,
+        "surprise": 4
+    },
+    "critique": "The document expresses a strong dislike for paper straws and a determination to eliminate their use within the federal government. The tone is assertive and decisive, reflecting a sense of disgust towards paper straws and a surprise that they are being used. There isn't necessarily an attempt to evoke strong emotions in the reader, but rather to convey a policy decision. Therefore, the emotion scores should be relatively low, with disgust and surprise being the most prominent.",
+    "revised_scores": {
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 7,
-        "surprise": 4
-    },
-    "critique": "The executive order expresses disgust and anger towards paper straws, and aims to instill a sense of joy and surprise in those who prefer plastic straws. The order does not intend to convey sadness or fear.",
-    "revised_scores": {
-        "joy": 7,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 8,
         "surprise": 5
     }
 }

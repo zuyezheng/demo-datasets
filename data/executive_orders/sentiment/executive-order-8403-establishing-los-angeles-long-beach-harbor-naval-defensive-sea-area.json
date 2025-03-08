@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim to instill a sense of security and preparedness, but also potentially some fear or concern due to the restrictions imposed. The order establishes a naval defensive sea area, which suggests a need for protection and control. The mention of penalties for violations reinforces the seriousness of the order. Initial scores: Joy: 1, Sadness: 2, Anger: 1, Fear: 4, Disgust: 1, Surprise: 3. Revised scores: Joy: 1, Sadness: 1, Anger: 1, Fear: 5, Disgust: 1, Surprise: 2.",
+    "critique": "The document establishes a naval defensive sea area and outlines regulations for vessels within that area. The language is formal and legalistic, focusing on security and defense. There is no explicit expression of emotions. However, the context of establishing a defensive sea area suggests an underlying sense of caution and preparedness, possibly related to fear or concern about potential threats. The intensity of these emotions is likely low, as the document is primarily a legal declaration rather than an emotional appeal. Therefore, I will assign low scores to fear and surprise, and minimal scores to the other emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 2,
         "disgust": 1,
         "surprise": 2
     }

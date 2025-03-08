@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 2
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order aims to establish advisory boards for intelligence oversight. The primary emotion it seeks to convey is trust and confidence in the government's ability to manage intelligence activities effectively. It also conveys a sense of seriousness and importance regarding national security. There is no intention to evoke joy, sadness, anger, fear, or disgust. Surprise is not the primary goal, but the establishment of new boards might generate a mild sense of it.",
+    "critique": "The document is a formal executive order. It establishes and defines the functions of the President's Intelligence Advisory Board (PIAB) and the Intelligence Oversight Board (IOB). The language is legal and procedural. There is no explicit or implicit emotional appeal. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 2
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

@@ -2,11 +2,11 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, focusing on the establishment of a board to investigate disputes and prevent disruption of transportation services. It doesn't explicitly try to evoke strong emotions. However, a slight sense of relief or reassurance might be present due to the action taken to address the potential crisis. The initial scores reflect this assessment, with low values for most emotions and a slightly higher value for surprise. The revised scores further refine this, emphasizing the neutral tone and minimizing any emotional impact.",
+    "critique": "The document is a formal executive order. The president is not attempting to portray any particular emotion. The language is neutral and factual. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

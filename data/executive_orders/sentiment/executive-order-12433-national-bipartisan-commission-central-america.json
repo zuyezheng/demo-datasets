@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 2,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 4
-    },
-    "critique": "The executive order aims to convey a sense of stability, security, and unity. It establishes a bipartisan commission to address challenges in Central America, suggesting a proactive and responsible approach. The order seeks to inspire confidence and trust in the government's ability to handle complex issues. Therefore, the primary emotions conveyed are joy (related to hope and positive change) and surprise (related to the unexpected nature of the commission).",
-    "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing a commission. It is neutral in tone and does not express any particular emotion. Therefore, all emotions should be scored low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

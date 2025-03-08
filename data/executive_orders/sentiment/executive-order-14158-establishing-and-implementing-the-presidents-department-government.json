@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of optimism and progress through efficiency. Therefore, joy and surprise might be emotions the president wants to convey. There's no indication of wanting to convey negative emotions like sadness, anger, fear, or disgust.",
+    "critique": "The document is an executive order. Executive orders are generally formal and do not convey strong emotions. The purpose is to establish a department for government efficiency. Therefore, the emotions conveyed are likely to be low across the board. The order aims to modernize and improve efficiency, which could be interpreted as a positive change, but the language is neutral. Therefore, I will assign low scores for all emotions.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

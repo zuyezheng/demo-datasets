@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of informed optimism and confidence in the government's ability to address public interest concerns related to digital television. There's a hint of surprise that such a committee is being formed, but it's not the primary emotion. The order is more about establishing a process and less about evoking strong emotional responses.",
+    "critique": "The document is a formal executive order establishing an advisory committee. It uses formal language and outlines the committee's purpose, membership, functions, administration, and termination. There is no explicit emotional sentiment conveyed in the document. The president is not attempting to portray any specific emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

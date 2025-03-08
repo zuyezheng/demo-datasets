@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a technical amendment to a previous order, defining terms related to aerial flight and aviation accidents. It's unlikely to evoke strong emotions. However, there might be a slight sense of relief or reassurance that these terms are clearly defined, potentially reducing confusion or ambiguity in related situations. Therefore, I'll assign low scores for joy and surprise, and zero for the other emotions.",
+    "critique": "The document is a formal amendment to an executive order. It defines terms related to aerial flight and aviation accidents. The language is legal and technical, with no emotional content. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

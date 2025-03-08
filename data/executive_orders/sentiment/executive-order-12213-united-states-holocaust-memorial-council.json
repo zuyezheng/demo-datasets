@@ -6,10 +6,10 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that amends a previous order related to the United States Holocaust Memorial Council. The order itself doesn't express emotions directly, but it aims to ensure the council can continue its important work. The primary emotions the order might evoke are related to the subject matter of the Holocaust, which could include sadness and perhaps a sense of solemnity or respect. However, the order itself is more about administrative function than directly eliciting those emotions. Therefore, the scores should be relatively low, focusing on the underlying somber nature of the topic.",
+    "critique": "The document is an executive order regarding the United States Holocaust Memorial Council. It primarily deals with membership, reporting deadlines, and termination dates. The language is formal and legalistic. There is no explicit expression of emotion. However, given the subject matter (the Holocaust), a sense of sadness might be inferred, although the document itself is neutral. Therefore, I will assign low scores to all emotions except sadness, which will receive a slightly higher score. I will then revise the scores to reflect the document's neutral tone and focus on administrative matters, reducing the sadness score and setting all other scores to 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

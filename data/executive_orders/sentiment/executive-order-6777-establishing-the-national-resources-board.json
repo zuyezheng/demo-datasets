@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to inspire joy and surprise due to the establishment of new boards and committees aimed at national resource development. There's a hint of sadness because existing boards are being abolished, but overall, the order conveys a sense of optimism and progress.",
+    "critique": "The document primarily conveys a sense of formal establishment and administrative action. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is neutral and focused on outlining the structure and functions of the National Resources Board. Therefore, the initial scores for all emotions are set to 1, indicating minimal emotional conveyance. After further consideration, the document seems to convey a slight sense of hope and optimism for the future due to the establishment of a board focused on national resources. Therefore, I will increase the joy score to 2.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 3,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 4,
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 3,
         "surprise": 1
     },
-    "critique": "The executive order aims to evoke a sense of security and confidence in the government's ability to manage resources and protect citizens. It subtly introduces fear and disgust towards illegal immigration by highlighting the misuse of taxpayer money and the undermining of existing laws. The order does not explicitly aim to evoke joy or surprise, and sadness is only indirectly related to the concern for misused resources.",
+    "critique": "The document expresses a serious and determined tone, focusing on upholding the law and preventing the misuse of taxpayer resources. There's a sense of resolve and purpose, but not necessarily strong emotions like joy, sadness, anger, fear, disgust, or surprise. The primary focus is on policy and legal compliance. The emotions that could be inferred are disgust at the misuse of taxpayer money and a mild sense of joy in protecting resources for citizens. However, these are not explicitly stated, so the scores should be relatively low.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 3,
-        "fear": 4,
-        "disgust": 5,
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 4,
         "surprise": 1
     }
 }

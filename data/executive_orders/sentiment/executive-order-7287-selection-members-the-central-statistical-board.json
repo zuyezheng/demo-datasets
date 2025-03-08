@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document outlining the selection and terms of members of the Central Statistical Board. It doesn't appear to be designed to evoke strong emotions. However, there might be a slight sense of reassurance or confidence conveyed through the establishment of a structured process. Therefore, I will assign low scores for joy and surprise, and zero scores for the other emotions.",
+    "critique": "The document is a formal executive order. It lays out the process for selecting members of the Central Statistical Board. The language is formal and procedural, with no emotional tone. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

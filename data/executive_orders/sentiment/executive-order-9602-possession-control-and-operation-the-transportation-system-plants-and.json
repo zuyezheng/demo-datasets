@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 6,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to convey a sense of urgency and necessity due to the war effort. It highlights potential disruptions and the need for government intervention. Therefore, I would expect the primary emotions to be fear (related to the potential disruption of the war effort) and perhaps a touch of surprise (at the extent of the government intervention). There might also be a tinge of sadness related to the war. Joy and disgust are unlikely to be conveyed. The order is very formal and legalistic, so the emotions are likely to be muted.",
+    "critique": "The document is a presidential order regarding the control of the Illinois Central Railroad Company during the war. The primary emotion conveyed is a sense of urgency and necessity due to the war effort. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the order implies a potential threat to the war effort if the transportation system is disrupted, which could be interpreted as a low level of fear or concern. The language is formal and legalistic, aiming to ensure the smooth operation of the railroad for the war effort. The order is a directive, not an emotional appeal. Therefore, the scores for most emotions should be low, with a slightly higher score for fear/concern due to the potential disruption of the war effort.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 7,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

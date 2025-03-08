@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a legal document that establishes a bird refuge. It is unlikely to evoke strong emotions. The primary emotion might be a mild sense of joy for those interested in wildlife conservation.",
+    "critique": "The document is a formal executive order regarding land allocation for a migratory bird refuge. It uses legal and technical language. There's no explicit emotional expression intended for the public. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

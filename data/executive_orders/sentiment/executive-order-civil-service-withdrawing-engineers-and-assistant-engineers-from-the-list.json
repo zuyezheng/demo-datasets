@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want the audience to feel joy and surprise. The order is about engineers and assistant engineers being appointed by competitive examination. The initial scores for joy and surprise are 5 and 5. The revised scores for joy and surprise are 6 and 6.",
+    "critique": "The document discusses a change in the appointment process for engineers and assistant engineers, moving from noncompetitive to competitive examinations. There is no explicit expression of emotion in the text. The language is formal and administrative. Therefore, all emotions should be scored low, as the public is unlikely to feel any strong emotion based on this announcement. I will give a score of 1 for each emotion as there is not enough information to suggest any specific emotion.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 1
     }
 }

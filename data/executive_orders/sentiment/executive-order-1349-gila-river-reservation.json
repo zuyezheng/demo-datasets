@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a rather mundane administrative action. It opens up a reservation to other Native American tribes. It is unlikely to evoke strong emotions. Perhaps a tiny bit of joy that more people have access to the reservation and a tiny bit of surprise that an order from 1883 is still being modified. However, the scores should be very low.",
+    "critique": "The document is a legal order, so it is unlikely to convey any strong emotions. The president is making land available for the Pima and Maricopa Indians and other Indians that the Secretary of Interior deems fit. This is a neutral action, so the scores for all emotions should be low. I will set all initial scores to 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a legal document that amends a previous executive order. It is unlikely to evoke strong emotions in the reader. The purpose of the document is to update and clarify responsibilities of various government agencies in the event of a national emergency. Therefore, the emotions conveyed should be minimal.",
+    "critique": "The document is an executive order amending a previous order regarding national emergency plans and preparedness programs. It primarily focuses on the functions and responsibilities of various government agencies in the event of a national emergency. The language is formal and legalistic, with no explicit emotional tone. However, the underlying context of preparing for a national emergency could evoke a sense of concern or seriousness. Given the nature of the document, the expected emotional response from the public would likely be low across all emotions, with a slight inclination towards concern or seriousness due to the subject matter.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

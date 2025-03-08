@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 7,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is a serious document regarding the control of civil aviation during wartime. The primary emotion conveyed should be fear, due to the implications of war. There might also be a sense of sadness associated with the war. Surprise is possible, but less likely. Joy and disgust are not relevant emotions in this context.",
+    "critique": "The document is a presidential order related to civil aviation during wartime. It primarily conveys a sense of urgency and determination to ensure the successful prosecution of the war. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the context of war implies a potential for fear and sadness, but the document itself focuses on decisive action and control. Therefore, the scores should reflect a low level of all emotions, with a slight emphasis on fear and sadness due to the war context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 8,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

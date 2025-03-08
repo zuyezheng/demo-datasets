@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order discusses reinstatement and promotion, which could bring joy to those affected positively. The lack of examination might also bring surprise. The other emotions don't seem to be relevant.",
+    "critique": "The document discusses the reinstatement and promotion of a person in classified service. It does not express any particular emotion. The language is neutral and factual. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of responsible governance and efficiency. It emphasizes the importance of cost reduction and effective resource management. The intended emotions are likely joy (at the prospect of a more efficient government) and perhaps a mild sense of surprise that such measures are being taken. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order establishing a council on cost reduction. The language is formal and bureaucratic. There is no strong emotional sentiment conveyed. The president is trying to portray a sense of responsibility and efficiency. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

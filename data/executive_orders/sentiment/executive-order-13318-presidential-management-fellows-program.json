@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 2,
+        "joy": 3,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of optimism and confidence in the future of public service. It establishes a program to attract talented individuals, suggesting a positive outlook. However, it also contains elements of seriousness and determination, given its formal and legalistic tone. There isn't a strong emphasis on negative emotions like sadness, anger, fear, or disgust. Surprise is also not a primary emotion conveyed.",
+    "critique": "The document is an executive order establishing the Presidential Management Fellows Program. It outlines the program's purpose, eligibility criteria, appointment procedures, and transition from a previous program. The language is formal and legalistic, with no explicit emotional expression. However, the order aims to attract outstanding employees and promote excellence in public sector management, which could be interpreted as conveying a sense of optimism and hope for the future of public service. It could also be interpreted as conveying surprise at the lack of qualified candidates, but I will assume that is not the case. Therefore, I will assign low scores to all emotions except joy, which will receive a slightly higher score.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 2,
+        "joy": 3,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document that establishes a commission to advise the President on bioethical issues. The language is formal and objective. The order aims to inspire confidence and a sense of responsibility. Therefore, the primary emotions conveyed should be joy (related to progress) and surprise (related to new advancements). There might be a hint of fear related to the issues that the commission will address, but it is not the primary emotion. Disgust, sadness, and anger are not relevant.",
+    "critique": "The document is a formal executive order establishing a commission. It uses formal language and aims to establish a sense of authority and purpose. There is no explicit emotional appeal. However, the subject matter (bioethics) could evoke different emotions in different people. The order itself is neutral in tone. Therefore, most emotions should be scored low. Joy, surprise, fear, disgust, and sadness are not explicitly conveyed.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

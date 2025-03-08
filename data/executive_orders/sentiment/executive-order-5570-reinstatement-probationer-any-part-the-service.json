@@ -1,12 +1,12 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a technical amendment to civil service rules. It addresses the reinstatement of employees involuntarily separated during probation. The order seems intended to convey fairness and potentially reduce anxiety among affected employees. It is unlikely to evoke strong emotions such as joy, sadness, anger, fear, or disgust. Surprise might be a factor, but it is probably minimal. The initial scores reflect these considerations.",
+    "critique": "The document discusses an amendment to Civil Service Rule IX, section 1, regarding the reinstatement of employees involuntarily separated during probation. The language is formal and legalistic, and the content focuses on procedural matters. There is no indication of any particular emotion being conveyed by the President. Therefore, all emotions should be scored low, with a default score of 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

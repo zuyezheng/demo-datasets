@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a technical document related to oil pricing regulations. It does not seem designed to evoke strong emotions. However, it could be argued that it aims to inspire a sense of confidence and stability in the oil market. Therefore, I will assign low scores to joy and surprise and zero to the rest.",
+    "critique": "The document is a formal executive order regarding oil production levels. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

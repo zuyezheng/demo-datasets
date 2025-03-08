@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 3
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order discusses the appointment of Mrs. Elizabeth Bass as district supervisor, Bureau of Narcotics, Treasury Department. This is a positive development, and the president wants the audience to feel joy and surprise. However, the order does not want the audience to feel sadness, anger, fear, or disgust.The initial scores are joy: 5, surprise: 3, sadness: 0, anger: 0, fear: 0, disgust: 0.After thinking through it step by step, I realized that the executive order is a formal document, and the president does not want the audience to feel any particular emotion. The order is simply stating that Mrs. Elizabeth Bass may be appointed as district supervisor, Bureau of Narcotics, Treasury Department. Therefore, the revised scores are joy: 0, surprise: 0, sadness: 0, anger: 0, fear: 0, disgust: 0.",
+    "critique": "The document is a formal order regarding the appointment of Mrs. Elizabeth Bass. It doesn't express any strong emotions. The language is neutral and bureaucratic. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

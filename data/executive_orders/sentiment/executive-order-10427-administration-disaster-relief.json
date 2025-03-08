@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining the transfer of authority and responsibilities related to disaster relief. It aims to establish clear lines of command and ensure efficient coordination in the event of major disasters. The intended emotional response is primarily one of reassurance and confidence in the government's ability to handle such situations. There might be a tinge of fear considering the context is disaster relief, but it's not the primary emotion being conveyed. There is no intention to evoke joy, sadness, disgust, or surprise.",
+    "critique": "The document is an executive order regarding federal disaster relief. It is a formal and legal document. The primary emotions conveyed, if any, would be related to a sense of preparedness and responsibility. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and procedural, not designed to evoke strong emotions. Therefore, the initial scores should be low across all emotions. Revised scores will reflect a slightly increased sense of responsibility and preparedness, but still relatively low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

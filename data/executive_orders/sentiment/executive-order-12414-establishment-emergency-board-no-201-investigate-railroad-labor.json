@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 2,
         "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The executive order is a formal document that aims to resolve a dispute between The Long Island Rail Road and certain labor organizations. The order itself doesn't explicitly aim to evoke strong emotions. However, implicit emotions could be present. The order may aim to convey a sense of calm and resolution (low joy), but also a sense of concern that the dispute needs to be resolved (low sadness and fear). There is no indication of disgust or surprise.",
+    "critique": "The document is a formal executive order establishing an emergency board to investigate a labor dispute. It uses formal and legalistic language. There is no strong emotion conveyed, but a sense of seriousness and urgency might be inferred. The most relevant emotions would be low levels of concern (fear/sadness) and perhaps a touch of surprise that the situation requires presidential intervention. However, the overall emotional intensity is low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 2,
         "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

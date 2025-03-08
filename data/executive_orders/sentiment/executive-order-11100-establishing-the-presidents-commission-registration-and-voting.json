@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 3
+        "joy": 2,
+        "sadness": 3,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The president wants to address the issue of low voter turnout and instill a sense of civic duty and optimism. The order aims to evoke a sense of surprise that only 65% of the population voted in 1960. It also aims to instill joy that the government is taking action to improve voter turnout. There is no indication that the president wants the audience to feel sadness, anger, fear, or disgust.",
+    "critique": "The document expresses concern about low voter turnout and establishes a commission to study and recommend improvements. It aims to address a problem and promote democratic participation. There's no strong indication of intense emotions like joy, sadness, anger, fear, disgust, or surprise. The tone is formal and official. Therefore, the initial scores should be relatively low across all emotions. After further consideration, the document does convey a sense of concern (mild sadness) about the current state of voter participation and a hopeful (mild joy) outlook for the future with the establishment of the commission. The other emotions remain negligible.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 4
+        "joy": 3,
+        "sadness": 4,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

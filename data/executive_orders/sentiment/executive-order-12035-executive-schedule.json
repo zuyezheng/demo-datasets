@@ -1,12 +1,12 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is a technical document that amends a previous executive order. It is unlikely to evoke strong emotions. The most relevant emotions are likely to be surprise and perhaps a bit of sadness that an economic advisor was removed.",
+    "critique": "The document is a formal announcement about a change in positions within the Executive Schedule. It doesn't express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

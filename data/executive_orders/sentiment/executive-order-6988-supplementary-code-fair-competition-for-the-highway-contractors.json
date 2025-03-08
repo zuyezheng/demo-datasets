@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of order, compliance, and progress. It's likely intended to inspire a feeling of trust and confidence in the government's actions during the Great Depression. The language is formal and legalistic, suggesting a desire to convey seriousness and adherence to established procedures. Therefore, the primary emotion conveyed should be joy that the government is working to fix the economy, with a secondary emotion of surprise at the level of detail.",
+    "critique": "The document is a formal approval of a subchapter to a code of fair competition. The language is legal and procedural, with no clear emotional tone. Therefore, all emotions should be scored low initially. Upon review, the document's purpose is to convey a sense of order and progress, which might evoke a slight sense of joy or relief, but overall, the emotional impact is minimal.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

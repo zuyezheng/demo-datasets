@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document that establishes the Armed Forces Reserve Medal. It is unlikely to evoke strong emotions. The primary emotion might be a mild sense of joy or pride for those who are eligible for the medal. There might also be a mild sense of surprise that such a medal is being created. There is no indication of sadness, fear, or disgust.",
+    "critique": "The document is a formal executive order establishing the Armed Forces Reserve Medal. It is primarily informational and procedural, lacking strong emotional content. The President is not explicitly trying to convey any particular emotion. However, a sense of pride and respect for the armed forces could be inferred. Initial scores are set to 1 across all emotions due to the lack of explicit emotional expression. Revised scores consider a slight sense of joy and pride, increasing the joy score to 2.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

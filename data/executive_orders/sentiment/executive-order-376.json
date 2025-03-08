@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 7,
+        "sadness": 9,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is a formal announcement of the death of Vice-President Henry Wilson and instructions for honoring him. The primary emotion conveyed is sadness due to the loss of a respected public figure. There may also be a sense of surprise at the suddenness of the death, but this is secondary. There is no intention to convey joy, anger, fear, or disgust.",
+    "critique": "The document expresses profound sorrow and respect for the deceased Vice-President Henry Wilson. The language used, such as \"profound sorrow,\" \"eminent station,\" \"high character,\" and \"devotion to the cause of freedom,\" indicates a strong sense of sadness and respect. The order to close government departments, drape buildings in mourning, and render military and naval honors further emphasizes the somber tone. There is no indication of joy, anger, fear, disgust, or surprise. Therefore, sadness should be the dominant emotion, with other emotions being minimal.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 8,
+        "sadness": 9,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

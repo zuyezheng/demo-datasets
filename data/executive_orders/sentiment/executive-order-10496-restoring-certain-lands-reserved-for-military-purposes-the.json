@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a formal declaration regarding land ownership and transfer. It lacks strong emotional cues. The primary emotion might be a mild sense of joy or relief that land is being returned to the Territory of Hawaii, but it's very subtle. There's no indication of sadness, anger, fear, disgust, or strong surprise. The language is very factual and procedural.",
+    "critique": "The document is a formal executive order regarding land transfer. It does not express any specific emotion. The language is legal and administrative, aiming for clarity and precision rather than emotional impact. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

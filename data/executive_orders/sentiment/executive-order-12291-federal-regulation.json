@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of order, efficiency, and reduced burden. It seeks to reassure the audience that regulations will be well-reasoned and not excessive. Therefore, the primary emotion conveyed should be joy that the government is working efficiently. There is no intention to convey sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order. It aims to establish regulatory processes and does not express any particular emotion. Therefore, all emotion scores should be low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

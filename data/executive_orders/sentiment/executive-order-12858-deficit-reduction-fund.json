@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document. The primary emotion the president wants to convey is joy that the deficit is being reduced. There may also be a feeling of surprise that the deficit reduction is being dedicated exclusively to reducing the deficit. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is an executive order. It is a formal and legal document. The president is not attempting to portray any emotion. The document is intended to be neutral and objective. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 7,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 5
     },
-    "critique": "The executive order aims to convey a sense of optimism and confidence in the development of natural gas resources. It emphasizes job creation, economic benefits, and energy independence. While it acknowledges potential risks, it focuses on safeguards and responsible development. Therefore, the primary emotion conveyed should be joy, with a secondary emphasis on confidence to reduce fear. There's no indication of sadness, disgust, or surprise.",
+    "critique": "The document primarily conveys a sense of responsibility and optimism regarding the development of natural gas resources. There's an emphasis on safety, environmental protection, and economic benefits. Therefore, joy and surprise are the most relevant emotions. Disgust, fear, and sadness are less prominent.",
     "revised_scores": {
         "joy": 7,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 5
     }
 }

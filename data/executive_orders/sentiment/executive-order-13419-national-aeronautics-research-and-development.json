@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining policy and procedures. It aims to convey a sense of progress, security, and efficiency in aeronautics research and development. Therefore, the primary emotions it seeks to evoke are joy (related to progress and innovation) and a sense of security (related to national security interests). There might be a slight element of surprise regarding new initiatives or approaches, but it's not a dominant emotion. There is no intention to evoke sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding national aeronautics research and development policy. It uses formal and legalistic language. There is no strong emotional sentiment conveyed. The primary goal is to establish policy and delegate responsibilities. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

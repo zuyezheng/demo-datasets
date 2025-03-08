@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 2,
-        "fear": 3,
+        "joy": 1,
+        "sadness": 3,
+        "fear": 4,
         "disgust": 7,
         "surprise": 1
     },
-    "critique": "The executive order aims to evoke a sense of justice and determination. It seeks to instill joy in those who will be protected, anger towards the enemy's actions, and perhaps a touch of fear in the enemy. Disgust at the enemy's barbarism is also a likely intended emotion. Surprise is not a primary emotion the order intends to convey.",
+    "critique": "The document expresses a firm stance against the mistreatment of soldiers, particularly those captured and enslaved due to their color. It conveys a sense of justice and determination to protect its citizens. The primary emotions conveyed are anger and disgust towards the enemy's actions, coupled with a sense of duty and resolve. There's also an element of fear regarding the potential enslavement of soldiers, but it's less prominent than the other emotions. Joy and surprise are not relevant in this context.The initial scores reflect these observations, with anger and disgust being the highest, followed by fear and sadness. The revised scores aim to fine-tune the intensity of each emotion based on the overall tone and message of the document.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 1,
-        "fear": 4,
+        "joy": 1,
+        "sadness": 4,
+        "fear": 5,
         "disgust": 8,
         "surprise": 1
     }

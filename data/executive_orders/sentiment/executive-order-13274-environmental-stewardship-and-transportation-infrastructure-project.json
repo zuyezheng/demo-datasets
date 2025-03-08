@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of optimism and confidence in the government's ability to improve infrastructure development while protecting the environment. There might be a touch of surprise at the efficiency gains, but overall, the goal is to instill a sense of joy and trust. It does not seem to want to instill sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding transportation infrastructure projects. The language is formal and legalistic, with a focus on efficiency, environmental stewardship, and coordination between agencies. There is no strong indication of any particular emotion being conveyed. Therefore, the initial scores are set to 1 across all emotions. After further consideration, the document seems to convey a slight sense of optimism and determination to improve infrastructure and environmental processes. Therefore, I will adjust the joy score to 3.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 2,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 3
-    },
-    "critique": "The executive order aims to convey a sense of hope and optimism regarding educational opportunities for American Indians and Alaska Natives. It seeks to instill confidence in the government's commitment to supporting tribal colleges and universities. The order also intends to evoke a feeling of respect for the cultural traditions and languages of these communities. It does not seem to want to evoke any negative emotions.",
-    "revised_scores": {
-        "joy": 8,
+        "joy": 5,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
+    },
+    "critique": "The document is an executive order, which is a formal and legal document. The president is trying to convey a sense of commitment and support for tribal colleges and universities. The language is formal and objective, with no strong emotional expressions. Therefore, the scores for all emotions should be relatively low. Joy is present due to the positive impact of the order. Surprise, fear, disgust, and sadness are not really present.",
+    "revised_scores": {
+        "joy": 5,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

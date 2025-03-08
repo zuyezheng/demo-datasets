@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 4,
-        "fear": 5,
-        "disgust": 1,
-        "surprise": 2
+        "fear": 3,
+        "disgust": 3,
+        "surprise": 1
     },
-    "critique": "The executive order aims to address violence and promote law and order. It should instill a sense of hope and security, but also acknowledge the seriousness of the issues. Therefore, I will score it for joy, sadness, and fear.",
+    "critique": "The document is an executive order establishing a commission to investigate and prevent violence. It is a formal and serious document. The primary emotion conveyed would be sadness due to the violence mentioned, but also perhaps a degree of fear and disgust at the acts of violence. There's no indication of joy or surprise. The language is formal and legalistic, not designed to evoke strong emotions. The order aims to address serious issues, so sadness should be a bit higher than fear and disgust. The scores should be relatively low since it's a formal document.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 4,
-        "fear": 5,
-        "disgust": 1,
-        "surprise": 2
+        "fear": 3,
+        "disgust": 3,
+        "surprise": 1
     }
 }

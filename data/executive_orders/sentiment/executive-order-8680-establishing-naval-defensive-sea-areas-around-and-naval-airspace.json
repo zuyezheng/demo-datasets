@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to instill a sense of security and preparedness, with a hint of fear to ensure compliance. It's unlikely to evoke joy, sadness, or disgust. Surprise is possible, but not the primary emotion.",
+    "critique": "The document is a formal declaration establishing naval defensive sea areas and airspace reservations around Kiska and Unalaska islands in Alaska. The language is legal and official, with a focus on national defense and security. There is no explicit expression of emotions. However, the context of establishing defensive areas might implicitly suggest a sense of caution or preparedness, potentially linked to fear or concern about external threats, but this is very subtle. The document primarily aims to inform and enforce, not to evoke emotions. Therefore, most emotions should be scored low, with a slightly higher score for fear due to the defensive nature of the order.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 6,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

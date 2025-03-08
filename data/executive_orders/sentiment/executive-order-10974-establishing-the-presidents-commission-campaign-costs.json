@@ -6,9 +6,9 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of calm and confidence in the government's ability to address campaign finance issues. There's no intention to evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. The language is formal and procedural, focusing on establishing a commission and outlining its responsibilities. Therefore, the initial scores for all emotions are set to low values. Upon further reflection, while the primary goal isn't to evoke strong emotions, a subtle sense of reassurance and trust might be intended. Therefore, I'll slightly increase the 'joy' score to reflect a mild sense of optimism and confidence.",
+    "critique": "The document is a formal executive order establishing a commission. It uses formal and legalistic language. There is no explicit or implicit emotional sentiment conveyed in the document. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

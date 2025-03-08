@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, focusing on addressing a labor dispute and preventing disruption to interstate commerce. It doesn't explicitly try to evoke strong emotions. However, there might be a subtle sense of reassurance or relief that the situation is being handled, and a very mild concern about potential disruptions if the dispute isn't resolved. The order does not want the audience to feel joy, sadness, anger, fear, or disgust. The order wants the audience to feel surprise at a score of 1.",
+    "critique": "The document outlines a labor dispute and the creation of a board to investigate it. The language is formal and legalistic, indicating a serious but neutral tone. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The President is acting in an official capacity to resolve a potential disruption to interstate commerce. Therefore, all emotions should be scored low, with a slight emphasis on concern or seriousness, which might translate to a minimal level of fear or sadness due to the potential disruption.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

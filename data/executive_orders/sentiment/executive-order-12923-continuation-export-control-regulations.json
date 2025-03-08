@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 1,
-        "fear": 4,
+        "joy": 1,
+        "sadness": 3,
+        "fear": 6,
         "disgust": 3,
-        "surprise": 0
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document that aims to convey a sense of urgency and seriousness regarding national security and economic stability. It invokes legal authority and outlines specific actions to be taken. The primary emotion the president wants to convey is concern, which can be interpreted as a mild form of fear and a need for vigilance. There might also be a hint of disgust towards foreign practices that threaten national interests. There is no intention to evoke joy or surprise. Sadness might be a very minor element, reflecting the seriousness of the situation.",
+    "critique": "The document is a formal declaration of a national emergency by the President. The language is legal and official. The primary emotion conveyed is a sense of seriousness and concern for national security and economic stability. There is an element of fear regarding the threat to national security, foreign policy, and the economy. There might be a hint of disgust regarding certain boycott practices of foreign nations. There is no indication of joy or surprise. Sadness is not a primary emotion but could be a secondary emotion due to the situation's gravity.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 1,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 4,
+        "fear": 7,
+        "disgust": 4,
+        "surprise": 1
     }
 }

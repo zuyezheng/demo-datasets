@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order revokes a wartime workweek. This likely brings a sense of relief and perhaps joy that the war is ending and things are returning to normal. There might be a slight surprise that the order is being revoked so quickly after the war. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal announcement revoking a previous executive order. It's a factual statement with no inherent emotional content. The language is formal and legalistic, not designed to evoke any particular emotion. Therefore, all emotions should be scored low, as the public is unlikely to feel any strong emotion based on this announcement alone. Since there is not enough information provided, I will use a score of 1.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

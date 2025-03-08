@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal announcement, so it should not convey strong emotions. The order is about easing restrictions on alien enemies departing the US, which might bring a slight sense of relief or satisfaction. However, the primary goal is to inform, not to evoke strong feelings. The initial scores reflect a neutral stance with a slight hint of joy and surprise.",
+    "critique": "The document is a formal executive order regarding passport regulations for alien enemies departing the US for Europe. It is an amendment to a previous executive order. The language is formal and legalistic. There is no explicit expression of emotion. However, the context of the order, dealing with alien enemies, might suggest a subtext of fear or distrust, but this is not explicitly stated. The intensity of any emotion conveyed is likely to be low, as the document is primarily informational and regulatory.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

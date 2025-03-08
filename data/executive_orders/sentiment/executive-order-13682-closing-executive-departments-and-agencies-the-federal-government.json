@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order is a formal announcement about a holiday for federal employees. It is likely to evoke a sense of joy and surprise due to the unexpected day off. However, the intensity of these emotions is likely to be moderate, as it only affects a specific group of people. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of neutrality and official procedure. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The order grants a day off for federal employees, which might evoke a slight sense of joy, but it's not the primary emotion conveyed by the document itself. Therefore, most emotions should be scored low, with a slightly higher score for joy due to the day off.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

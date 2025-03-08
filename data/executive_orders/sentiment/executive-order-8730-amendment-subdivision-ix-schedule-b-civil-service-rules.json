@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of progress and opportunity for unclassified laborers. It intends to convey a sense of joy and perhaps a little surprise that such a change is being implemented. There's no indication of sadness, anger, fear, or disgust. The intensity is relatively low as it's a bureaucratic change, not a major emotional event.",
+    "critique": "The document is a formal executive order regarding civil service rules. It doesn't express any particular emotion. The language is formal and bureaucratic. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

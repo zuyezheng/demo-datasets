@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document detailing a land transaction. It's unlikely to evoke strong emotions. However, there might be a slight sense of joy due to the resolution of the land issue and the city of Alameda benefiting. There's no indication of sadness, anger, fear, or disgust. Surprise is also unlikely given the formal nature of the document.",
+    "critique": "The document is a formal legal declaration regarding land ownership and transfer. It primarily conveys a sense of official procedure and legal compliance rather than any strong emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

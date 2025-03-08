@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to want to convey a sense of seriousness and resolve, but not necessarily strong emotions. It's a formal document outlining actions taken in response to a national emergency. Therefore, the scores should be relatively low across the board. The order invokes emergency powers, so there might be a slight sense of fear or concern, but it's primarily about taking action. There's no explicit attempt to evoke joy, sadness, disgust, or surprise.",
+    "critique": "The document is a formal executive order. It invokes emergency powers and makes appointments authority available to the Secretary of Defense. There is no explicit expression of emotion. However, the invocation of emergency powers might suggest a sense of urgency or concern, which could be interpreted as a low level of fear or concern. The language is formal and legalistic, so joy, sadness, disgust, and surprise are unlikely to be conveyed. The order also includes standard clauses about judicial review and administration, which do not convey any particular emotion.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

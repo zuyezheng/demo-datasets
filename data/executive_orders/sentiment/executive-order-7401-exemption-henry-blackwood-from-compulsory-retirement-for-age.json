@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of stability and reassurance. While not explicitly joyful, the act of retaining an experienced individual in service during a specific period could inspire a sense of confidence and reduced uncertainty. There's no indication of sadness, anger, fear, or disgust. A touch of surprise might be present, but it's minimal.",
+    "critique": "The document is a formal executive order. It does not express any particular emotion. The president is simply exercising his authority to exempt a person from mandatory retirement. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

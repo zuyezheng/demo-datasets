@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and confidence in the appointee's abilities and the decision-making process. It highlights Mr. Gates' extensive experience and qualifications, suggesting competence and reliability. The mention of the Secretary of the Treasury's recommendation further reinforces the legitimacy and soundness of the order. Therefore, the primary emotion conveyed should be joy. There may also be a hint of surprise that someone is being appointed outside of the civil service rules.",
+    "critique": "The document is a presidential order regarding the appointment of Mr. David A. Gates. It outlines his qualifications and the reasons for his appointment. The language used is formal and bureaucratic. There is no indication of strong emotions such as anger, fear, disgust, joy, or surprise. The document seems neutral in tone, aiming to convey information and justification for the appointment. Therefore, the initial scores for all emotions are set to 1, indicating a low level of emotional conveyance. After further consideration, the document does convey a slight sense of approval and satisfaction with Mr. Gates's qualifications, which could be interpreted as a mild form of joy. Therefore, the revised score for joy is adjusted to 2, while the other emotions remain at 1.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order aims to establish a committee for employment of the physically handicapped. The primary goal is to convey a sense of hope and encouragement regarding opportunities for this group. While not explicitly joyful, the order intends to inspire a positive outlook. There is no intention to evoke sadness, anger, fear, or disgust. Surprise is also not a primary emotion the order seeks to convey.",
+    "critique": "The document is a formal executive order establishing a committee for employment of the physically handicapped. It focuses on the structure, function, and administrative details of the committee. There is no explicit emotional language or appeals to sentiment. The primary purpose is to establish a framework for action, not to evoke a particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

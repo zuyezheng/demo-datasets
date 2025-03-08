@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a technical document, so it is unlikely to evoke strong emotions. However, it may evoke a slight sense of relief (joy) that the government is functioning and updating policies. It may also evoke a very mild sense of surprise that such a minor change is being formally documented.",
+    "critique": "The document is a formal executive order. It primarily deals with legal and administrative matters, specifically the revocation and amendment of a previous executive order. There is no explicit expression of emotions such as joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, intended to be precise and unambiguous rather than to evoke any particular emotion. Therefore, all emotions should be scored very low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

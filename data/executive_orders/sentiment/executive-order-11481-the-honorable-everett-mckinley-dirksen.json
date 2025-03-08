@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
+        "joy": 1,
         "sadness": 7,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
     },
-    "critique": "The executive order is a formal announcement of mourning for a deceased public figure. The primary emotion conveyed should be sadness, with a secondary emotion of respect. There is no intention to evoke joy, anger, fear, disgust, or surprise. The initial scores reflect this assessment. Upon review, the sadness score seems appropriate, and the other scores remain at zero.",
+    "critique": "The document is a formal announcement regarding the death of a public figure and the associated mourning protocol. It expresses respect and directs the lowering of flags to half-staff. It is expected that the American public would primarily feel sadness and respect, with a lesser degree of surprise. There is no indication of joy, anger, fear, or disgust.",
     "revised_scores": {
-        "joy": 0,
+        "joy": 1,
         "sadness": 7,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
     }
 }

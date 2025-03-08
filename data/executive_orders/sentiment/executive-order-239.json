@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey a sense of order and control. It eliminates substitutes and establishes a process for appointments, suggesting a desire to instill confidence and reduce uncertainty. Therefore, the primary emotion conveyed should be joy, as people should be happy that the government is being run efficiently. There may also be a small amount of surprise, as people may not have expected this order.",
+    "critique": "The document is a special departmental rule regarding the employment of substitutes. It outlines the conditions under which substitutes can be employed or appointed to permanent positions. The language is formal and bureaucratic, with a focus on rules and procedures. There is no explicit expression of emotions such as joy, sadness, anger, fear, disgust, or surprise. The document seems intended to convey a sense of order and regulation rather than any particular emotion. Therefore, all emotions are scored as 1 due to the lack of emotional content.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 4,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document expresses determination and resolve in addressing drug abuse. There's no strong indication of joy, sadness, fear, disgust, or surprise. The primary emotion conveyed is a sense of firm resolve and determination to tackle a problem. The language is formal and official, aiming to inspire confidence and seriousness rather than strong emotional reactions. Therefore, the scores for joy, sadness, fear, disgust, and surprise should be relatively low, reflecting the document's focus on policy and action rather than emotional appeals.",
+    "revised_scores": {
+        "joy": 1,
         "sadness": 2,
         "fear": 3,
         "disgust": 2,
-        "surprise": 3
-    },
-    "critique": "The executive order aims to instill a sense of confidence and determination in addressing drug abuse. While it doesn't explicitly evoke strong emotions, it subtly conveys a sense of hope and resolve. The initial scores reflect this, with joy and surprise being slightly elevated to represent the positive impact of the order. However, upon further consideration, the primary goal is to convey a sense of seriousness and determination, so I will adjust the scores to reflect that.",
-    "revised_scores": {
-        "joy": 3,
-        "sadness": 3,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 2
+        "surprise": 1
     }
 }

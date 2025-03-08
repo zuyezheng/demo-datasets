@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 3,
-        "fear": 7,
-        "disgust": 6,
-        "surprise": 0
-    },
-    "critique": "The executive order focuses on protecting citizens from threats, which suggests the president wants the audience to feel safe and secure. This can be achieved by conveying a sense of fear regarding potential threats and then offering reassurance through the measures outlined in the order. The order also aims to evoke a sense of disgust towards those who intend to harm the nation. There is no indication that the president wants to evoke joy or surprise. Sadness might be a byproduct of acknowledging potential threats, but it is not the primary emotion to be conveyed.",
-    "revised_scores": {
-        "joy": 0,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 8,
-        "disgust": 7,
-        "surprise": 0
+        "disgust": 6,
+        "surprise": 2
+    },
+    "critique": "The document expresses concern about national security and the potential threats posed by aliens. It aims to reassure the public by outlining measures to enhance vetting and screening processes. The dominant emotion conveyed is fear, with a secondary emphasis on security and vigilance. There is no indication of joy, surprise, or sadness. Disgust might be present due to the mention of 'hateful ideology' and 'malevolent purposes,' but it's not the primary focus.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 7,
+        "disgust": 5,
+        "surprise": 1
     }
 }

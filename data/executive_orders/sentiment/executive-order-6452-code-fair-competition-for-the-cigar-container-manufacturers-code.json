@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 3,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of formal approval and implementation of regulations. It doesn't explicitly try to evoke strong emotions. However, there might be a subtle sense of joy that the code of fair competition is approved, and a slight surprise that the order is approved. The order does not convey sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition. The language is legal and procedural, with no explicit emotional expression. The President is acting in an official capacity, and the intended audience is the American public and businesses affected by the code. I will score each emotion based on how the public might perceive the announcement, even though the document itself is neutral. Joy: The public might feel a slight sense of joy if they believe the code will improve the economy or their industry. Sadness: There is no indication of sadness. Anger: Some businesses might be angry if they feel the code is unfair or restrictive. Fear: Some businesses might fear the code's impact on their operations. Disgust: It's unlikely the public would feel disgust. Surprise: The announcement itself is unlikely to be surprising, as it follows due process.",
     "revised_scores": {
         "joy": 3,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

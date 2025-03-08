@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a formal document focused on providing financial assistance to enlisted men who have lost clothing. It does not seem designed to evoke strong emotions. The primary goal is to inform and instruct, not to elicit joy, sadness, anger, fear, disgust, or surprise. However, there might be a slight sense of relief or gratitude for those who will benefit from this order.",
+    "critique": "The document is a formal executive order regarding clothing allowances for enlisted personnel. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

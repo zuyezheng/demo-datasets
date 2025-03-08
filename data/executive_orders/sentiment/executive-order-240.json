@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 7,
+        "sadness": 5,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is a formal announcement of respect for General Sheridan upon his death. The primary emotion conveyed should be sadness, with a touch of respect and solemnity. There might be a slight surprise at the suddenness of the announcement, but overall, sadness should be the dominant emotion. The initial scores reflect this, but the revised scores slightly increase the sadness and decrease the surprise to better reflect the order's intent.",
+    "critique": "The document is a formal announcement regarding the closure of Executive Departments to honor General Sheridan. It primarily conveys sadness and respect, with no indication of joy, anger, fear, disgust, or surprise. The intensity of sadness is moderate, reflecting the solemnity of the occasion. The other emotions are not present, so they are scored as 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 8,
+        "sadness": 5,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

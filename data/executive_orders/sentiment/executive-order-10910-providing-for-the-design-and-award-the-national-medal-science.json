@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 2,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 3
-    },
-    "critique": "The executive order seems to aim for a sense of respect and admiration for scientific achievement. There might be a touch of joy in celebrating these achievements, but overall, the tone is formal and dignified. The order itself doesn't seem designed to evoke strong emotions like fear, disgust, or intense sadness. Surprise might be present in the sense of wonder at scientific discoveries, but it's not a primary emotion.",
-    "revised_scores": {
-        "joy": 6,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
+    },
+    "critique": "The document is an executive order establishing the National Medal of Science. It is a formal and official document. The language is precise and legalistic. The overall tone is neutral and objective. There is no explicit expression of emotion. However, the act of establishing a medal to recognize outstanding contributions to science could be interpreted as conveying a sense of joy and pride in scientific achievement. However, this is implicit rather than explicit. I will assign low scores for all emotions, with a slightly higher score for joy.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

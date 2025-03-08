@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a dry, factual statement. It withdraws land from Native American use and returns it to the public domain. This could evoke sadness from those sympathetic to the Native Americans, and perhaps joy from those who want to settle the land. However, the primary emotion is probably a muted sadness. There's no obvious anger, fear, disgust, or surprise intended or likely to be felt by the reader of such a dry statement.",
+    "critique": "The document is a formal executive order regarding land allocation. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

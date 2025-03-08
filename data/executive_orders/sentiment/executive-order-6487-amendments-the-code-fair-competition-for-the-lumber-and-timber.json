@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal announcement about an amendment to a code of fair competition. It doesn't seem designed to evoke strong emotions. However, one could argue that it aims to inspire a sense of trust and confidence in the government's actions (joy) and perhaps a mild sense of surprise that the code is being amended. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal announcement regarding an amendment to the Code of Fair Competition for the Lumber and Timber Products Industries. The language is legal and administrative, with no explicit emotional expression. The President is conveying information and enacting policy, not expressing personal sentiment. Therefore, all emotions should be scored low, as the public is unlikely to feel any strong emotion based on this document alone. The initial scores reflect this, with all emotions set to 1. The revised scores remain the same, as the initial assessment is accurate.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

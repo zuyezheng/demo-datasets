@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 1,
-        "surprise": 4
-    },
-    "critique": "The executive order seems to aim for a sense of reassurance and security through collaboration. It establishes a joint commission for defense, suggesting a proactive approach to protect both the United States and Mexico. The tone is formal and official, emphasizing the importance and seriousness of the matter. Therefore, the primary emotion conveyed should be a sense of security and perhaps mild surprise at the collaboration.",
-    "revised_scores": {
-        "joy": 6,
+        "joy": 3,
         "sadness": 1,
         "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
+    },
+    "critique": "The document primarily conveys a sense of formal authorization and cooperation between the United States and Mexico. There isn't strong emotional language, but a mild sense of reassurance and preparedness might be inferred. Therefore, the initial scores are set accordingly, with low values for most emotions and a slightly higher value for joy due to the cooperative nature of the agreement.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a very mundane document. It is unlikely to evoke any strong emotions. The most likely emotion is surprise, as the reader may be surprised that the president is involved in such a minor decision. However, the level of surprise is likely to be very low.",
+    "critique": "The document is a formal exemption from compulsory retirement for an individual. It doesn't express strong emotions. The primary emotion might be a slight sense of joy or relief for the person exempted, but it's very mild. The other emotions are not really present.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

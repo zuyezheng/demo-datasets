@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of relief and security by terminating a national emergency related to nuclear proliferation. It also aims to convey a sense of order and adherence to legal procedures. The order does not seem to want to convey sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal declaration terminating a national emergency. It cites legal authorities and describes the reason for the termination. The language is formal and legalistic. There is no strong indication of any particular emotion being conveyed. The primary goal is to inform the public of the termination and its legal basis. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

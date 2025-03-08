@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order primarily aims to convey a sense of respect for nature and the importance of conservation. While it doesn't explicitly evoke strong emotions, there might be a subtle sense of joy associated with protecting wildlife and a hint of sadness related to the potential loss of these species if no action were taken. There is no anger, fear, disgust, or surprise.",
+    "critique": "The document primarily focuses on establishing a wildlife refuge. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, aiming to be authoritative and clear rather than emotional. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

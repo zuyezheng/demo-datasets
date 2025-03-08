@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 2
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order is about transparency and fairness in administrative enforcement and adjudication. The order aims to reduce unfair surprise and promote cooperation. The primary emotion the president wants to convey is a sense of trust and confidence in the government's processes. There might be a secondary emotion of relief for regulated parties who may have felt unfairly treated in the past. There is no indication of negative emotions such as sadness, anger, fear, or disgust. Surprise is not the primary goal, but the order does aim to reduce 'unfair surprise' in legal standards.",
+    "critique": "The document is a formal executive order. It aims to establish transparency and fairness in administrative enforcement and adjudication. The language is legal and procedural, lacking emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

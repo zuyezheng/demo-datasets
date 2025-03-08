@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of responsibility and seriousness. It doesn't obviously evoke joy, sadness, anger, fear, disgust, or surprise. However, a subtle sense of responsibility might be intended, so I will assign a low score to sadness. The order is about budget and spending, which can be boring or induce anxiety in some, so I will assign a low score to fear as well.",
+    "critique": "The document is a formal executive order regarding budget and spending. It is unlikely to evoke strong emotions in the general public. The language is technical and bureaucratic, not designed to elicit an emotional response. Therefore, all initial scores are set to 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

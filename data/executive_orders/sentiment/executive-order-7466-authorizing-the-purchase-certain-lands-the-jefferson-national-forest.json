@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 6,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 3
     },
-    "critique": "The executive order seems to aim to inspire joy and surprise. The order discusses land conservation and job creation, which could evoke joy. The allocation of funds for this purpose might also elicit surprise. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document primarily conveys a sense of purpose and determination to address issues like forest fires, floods, and unemployment. It aims to instill confidence and hope rather than evoke strong negative emotions. Therefore, joy is the most prominent emotion, followed by a mild sense of surprise at the allocation of funds. Other emotions are not significantly present.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 6,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 3
     }
 }

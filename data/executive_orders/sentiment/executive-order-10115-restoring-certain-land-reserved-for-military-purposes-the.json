@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a legal document that transfers land from federal to territorial control. It is unlikely to evoke strong emotions. The primary intended emotion might be a mild sense of satisfaction or agreement that land no longer needed for military purposes is being returned to the Territory of Hawaii for public use. There might also be a very mild sense of surprise that such a specific order is being issued.",
+    "critique": "The document is a legal order regarding land transfer. It's unlikely to evoke strong emotions in the general public. The language is formal and factual, not designed to elicit an emotional response. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

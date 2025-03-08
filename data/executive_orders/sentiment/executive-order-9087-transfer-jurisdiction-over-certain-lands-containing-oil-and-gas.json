@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order is a legal document that transfers jurisdiction over land. It is unlikely to evoke strong emotions. The primary emotion might be a mild sense of reassurance that the government is protecting its resources, but this would be very mild.",
+    "critique": "The document is a legal order transferring jurisdiction over land for flood control and navigation purposes. It primarily focuses on the technical details of land transfer and protection of US interests regarding oil and gas deposits. There is no explicit emotional language or sentiment expressed in the document. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

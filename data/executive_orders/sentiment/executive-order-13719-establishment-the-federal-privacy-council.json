@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is intended to reassure the public and convey a sense of trust and confidence in the government's handling of personal data. It aims to evoke a feeling of security and perhaps a mild sense of optimism that the government is taking privacy seriously. There is no intention to evoke strong negative emotions such as fear, disgust, or anger. Surprise is also not a primary emotion the order seeks to elicit.",
+    "critique": "The document is a formal executive order. It aims to establish policies and structures for protecting privacy within the government. The language is formal and legalistic, focusing on duties, responsibilities, and coordination. There's an emphasis on trust, efficiency, and collaboration. Given the nature of the document, the primary emotion conveyed is a sense of responsibility and perhaps a mild sense of reassurance. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, the scores for these emotions should be relatively low.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

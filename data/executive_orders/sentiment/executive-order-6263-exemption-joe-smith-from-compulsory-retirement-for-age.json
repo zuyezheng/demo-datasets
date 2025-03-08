@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and stability. While it doesn't explicitly evoke strong emotions, it subtly conveys a sense of control and order. The use of legal language and the specific exemption suggest a careful and considered approach to governance. Therefore, the primary emotion conveyed would be joy. The intensity is relatively low, as the order is more about procedure than passion. There is no sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order regarding the exemption of Joe Smith from mandatory retirement. It expresses no strong emotions. The primary emotion might be a mild sense of joy or satisfaction that the President is able to use his authority to help Joe Smith continue his service, but this is very subtle. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

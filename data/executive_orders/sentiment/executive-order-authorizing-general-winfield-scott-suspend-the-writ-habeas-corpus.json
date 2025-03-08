@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 7,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order discusses suppressing an insurrection and suspending habeas corpus, which would likely evoke fear and concern. The order is formal and serious, suggesting a lack of joy. There might be a sense of sadness related to the conflict, but it's not the primary emotion. Disgust and surprise are less relevant in this context. The initial scores reflect these considerations.",
+    "critique": "The document is a formal order from the President authorizing the suspension of habeas corpus under specific circumstances. It is a serious directive related to suppressing an insurrection. The primary emotion conveyed is a sense of resolve and determination, with a hint of concern for public safety. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise, but the context implies a level of concern and determination to maintain order. Therefore, I would score fear, and sadness as low, and surprise, disgust, joy even lower. I will revise the scores to reflect the implied emotions more accurately.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 7,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to convey a sense of seriousness and resolve in addressing a national emergency. It's unlikely to evoke joy. There might be a slight element of surprise due to the specific actions being taken, but primarily, it's about conveying the importance of the situation and the need for decisive action. Fear and disgust are not primary emotions the order intends to convey, although those affected by the order might experience those emotions. Sadness is also not a primary emotion.",
+    "critique": "The document is a formal executive order addressing a national emergency and imposing sanctions on Venezuela's digital currency. The language is legal and technical, with the primary goal of conveying authority and decisiveness. There is a sense of resolve and determination to address the situation, but no explicit emotional appeal. Therefore, the initial scores should reflect low levels of all emotions, with a slightly higher score for anger due to the confrontational nature of sanctions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a technical amendment to a previous order, focusing on the process for federal employees to acquire competitive status, especially those entering military service. It doesn't seem designed to evoke strong emotions. However, there might be a slight sense of relief or satisfaction for those affected by the order, as it clarifies the process and extends the timeframe for recommendations. Therefore, I'll assign low scores for joy and surprise, and zero for the other emotions.",
+    "critique": "The document is a formal executive order. It amends a previous order related to the acquisition of competitive status for federal employees who enter the armed forces. The language is legal and procedural, with no emotional content. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

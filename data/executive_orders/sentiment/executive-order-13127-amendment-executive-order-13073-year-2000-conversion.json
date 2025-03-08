@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that aims to address the Y2K conversion problems. It is unlikely to evoke strong emotions. The primary goal is to inform and direct action, not to elicit an emotional response. However, a very mild sense of reassurance (a weak form of joy) might be present, and perhaps a very mild sense of surprise that such an order is needed. Fear, disgust, and sadness are not intended to be conveyed.",
+    "critique": "The document is an executive order regarding the Year 2000 conversion problems. It is a formal and official document. The president is not attempting to portray any particular emotion. The document is purely informational and directive. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

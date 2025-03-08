@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 7,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 4
     },
-    "critique": "The executive order aims to address threats to critical infrastructure. The primary emotion it seeks to convey is a sense of urgency and seriousness regarding these threats. It also aims to instill confidence that the government is taking proactive steps to protect these infrastructures. Therefore, I will score fear and surprise relatively high, and joy and sadness relatively low. Disgust is not really relevant here.",
+    "critique": "The document primarily conveys a sense of urgency and concern regarding the protection of critical infrastructure. While it doesn't explicitly express emotions, the focus on vulnerabilities and threats suggests underlying fear and a need for proactive measures. The establishment of commissions and task forces indicates a serious and potentially surprising situation that requires immediate attention. However, the overall tone is formal and objective, aiming to inform and direct rather than evoke strong emotional responses. Therefore, the initial scores reflect a moderate level of fear and surprise, with low levels of other emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 7,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 4
     }
 }

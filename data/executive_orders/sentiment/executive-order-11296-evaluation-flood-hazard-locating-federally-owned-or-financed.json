@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 3,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of responsibility and caution regarding flood risks. It doesn't explicitly aim to evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, it subtly intends to instill a sense of concern (akin to mild fear) about potential flood losses and a sense of trust that the government is taking proactive measures. The order also wants to convey a sense of surprise that previous efforts have not been enough.",
+    "critique": "The document expresses concern about flood losses and aims to prevent uneconomic uses of flood plains. It emphasizes the need for federal agencies to evaluate flood hazards and minimize risks. The overall tone is serious and cautious, reflecting a sense of responsibility and awareness of potential dangers. Therefore, the primary emotions conveyed are fear and concern, with a lesser degree of sadness due to the existing flood losses. There's no indication of joy, anger, disgust, or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 3,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

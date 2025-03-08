@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of surprise that the president is creating a task force. There is also a sense of joy that the private sector will be involved in international economic development. There is no sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order. It establishes a task force and outlines its functions and administration. The language is formal and legalistic, with no strong emotional indicators. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

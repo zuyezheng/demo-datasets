@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of stability and confidence in the government's ability to manage industrial disputes. It emphasizes the continuation of the National Labor Board and its powers to resolve conflicts. Therefore, the primary emotion conveyed should be joy that the government is handling disputes. There might be a slight element of surprise at the extent of the Board's powers, but it's not a dominant emotion. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order. It outlines the powers and functions of the National Labor Board. The language is formal and legalistic, and the purpose is to establish and regulate the board's operations. There is no indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

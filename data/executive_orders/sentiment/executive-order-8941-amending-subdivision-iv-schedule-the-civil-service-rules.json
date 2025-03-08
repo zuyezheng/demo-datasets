@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that amends a section of the Civil Service Rules. The order itself is unemotional, but given the context of the emergency declared by the President on May 27, 1941, and the date of the order (November 17, 1941), it is likely related to World War II. The order likely aims to inspire a sense of preparedness and resolve, but not necessarily joy. It could also cause a bit of fear. Disgust, sadness, and surprise are not likely emotions the president wants to convey.",
+    "critique": "The document is a formal order regarding positions in the War Department during the emergency declared in 1941. It's a legal and administrative document, not designed to evoke strong emotions. Therefore, all emotions should be scored low. There is no indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and factual, not emotive.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

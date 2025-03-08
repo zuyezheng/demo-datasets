@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to convey a sense of urgency and importance, but not necessarily to evoke strong emotions. The primary goal is to inform and establish a Board of Inquiry to address a labor dispute that could impact national safety. Therefore, the emotions conveyed would be minimal. The order does not seem to want the audience to feel joy. The order seems to want the audience to feel a small amount of concern and seriousness, so sadness, fear, and surprise should be low. The order does not seem to want the audience to feel disgust.",
+    "critique": "The document is a formal announcement regarding a labor dispute and the creation of a Board of Inquiry. The language is legal and procedural, with no explicit emotional expression. However, the mention of a dispute that 'will imperil the national safety' suggests a degree of concern and perhaps a hint of fear or anxiety. Given the context of labor disputes and potential strikes, there might be a sense of unease or worry conveyed to the public. Disgust, joy, and surprise are unlikely to be conveyed. The initial scores reflect this assessment, with low scores for most emotions and a slightly higher score for fear/anxiety. The revised scores refine this assessment, slightly increasing the fear score to reflect the potential impact on national safety.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 2,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

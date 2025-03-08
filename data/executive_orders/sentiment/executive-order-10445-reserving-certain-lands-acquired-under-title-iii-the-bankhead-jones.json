@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of calm and assuredness. It's about land management and doesn't obviously evoke strong emotions. However, a very slight sense of joy might be present for those who value conservation and the expansion of national forests. There's no indication of sadness, anger, fear, or disgust. Surprise is unlikely, as these orders are typically planned and expected.",
+    "critique": "The document is a formal declaration regarding land acquisition for national forest purposes. It doesn't express strong emotions. The language is legal and administrative, aiming for clarity and precision rather than emotional impact. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

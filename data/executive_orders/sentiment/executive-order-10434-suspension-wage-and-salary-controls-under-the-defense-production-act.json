@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 3,
         "sadness": 1,
-        "fear": 2,
-        "disgust": 0,
-        "surprise": 3
-    },
-    "critique": "The executive order seems to aim for a sense of relief and optimism by removing wage and salary controls. It suggests a return to normalcy and freedom of collective bargaining, which could evoke joy and reduce fear or anxiety about economic restrictions. There might be a hint of surprise at the sudden change, but it's likely a mild one. There's no indication of sadness, disgust, or anger being conveyed.",
-    "revised_scores": {
-        "joy": 7,
-        "sadness": 0,
         "fear": 1,
-        "disgust": 0,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document expresses a tone of resolution and optimism regarding the national economy and the return to free collective bargaining. The President aims to convey a sense of stability and progress. There's a hint of relief that stabilization measures are no longer necessary. It is unlikely to invoke strong emotions. The document is formal and legalistic, which tends to suppress strong emotional responses. Therefore, the initial scores are relatively low across all emotions.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 2
     }
 }

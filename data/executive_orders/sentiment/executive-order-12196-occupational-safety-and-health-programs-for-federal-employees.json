@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is focused on safety and health in the workplace. The primary emotion the president wants to convey is a sense of reassurance and confidence that the government is taking steps to protect its employees. There might be a secondary emotion of surprise that the government is taking these steps.",
+    "critique": "The document is an executive order regarding occupational safety and health. It is a formal and legal document. The president is trying to convey a sense of responsibility and authority. There is no explicit attempt to portray joy, sadness, anger, fear, disgust, or surprise. However, the order aims to reduce unsafe working conditions, which could implicitly reduce fear and disgust related to workplace hazards. The order is more about ensuring safety and health, so the primary emotion conveyed would be a sense of responsibility and perhaps a subtle sense of care for the well-being of federal employees.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

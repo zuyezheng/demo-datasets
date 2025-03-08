@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of order and regulation, not strong emotions. However, there might be a slight sense of relief or satisfaction for government employees who are being transferred, as their transportation benefits are clarified and potentially extended. There's no indication of anger, fear, disgust, or strong surprise. The dominant emotion is a very mild sense of joy or relief due to the clarification of benefits.",
+    "critique": "The document is a formal executive order detailing regulations for transportation expenses of government employees and their families. It does not express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

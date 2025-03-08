@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, primarily focused on the administrative decision to exempt Herbert Vansant from mandatory retirement. It doesn't obviously evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, suggesting an intention to convey authority and compliance with established procedures rather than to elicit an emotional response. However, there might be a slight sense of reassurance or stability conveyed by ensuring the continued service of an experienced engineer during a potentially turbulent time (pre-WWII). Therefore, I will assign low scores to joy and surprise and zero to the rest.",
+    "critique": "The document is a formal order from the President to exempt Herbert Vansant from compulsory retirement. It does not express any strong emotions. The language is formal and legalistic. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

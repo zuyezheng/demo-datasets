@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 5,
+        "sadness": 3,
+        "fear": 6,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 2
     },
-    "critique": "The document is an executive order regarding national security emergency preparedness. The primary emotion it aims to convey is a sense of reassurance and preparedness, but also a degree of seriousness given the subject matter. It's not intended to evoke strong emotions like joy or disgust, but rather a sense of calm readiness and confidence in the government's ability to handle emergencies. Therefore, I will score fear and surprise moderately, and other emotions low.",
+    "critique": "The document is a formal executive order outlining responsibilities of various federal departments and agencies in the event of a national security emergency. The language is legalistic and procedural. The primary emotion conveyed is fear, due to the nature of the document discussing potential national security emergencies, including nuclear attacks. There is also a sense of responsibility and preparedness, but this does not translate to joy. There is no indication of anger, disgust, or surprise. The intensity of fear is moderate, as the document is a plan and not a direct threat.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 5,
+        "sadness": 3,
+        "fear": 6,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 2
     }
 }

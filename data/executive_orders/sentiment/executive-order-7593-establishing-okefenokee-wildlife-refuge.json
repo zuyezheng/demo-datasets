@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 3
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order aims to establish a wildlife refuge. The primary emotion it should evoke is joy due to the conservation of migratory birds and other wildlife. There might be a hint of surprise at the scale of the refuge, but it's not the main focus. There's no intention to evoke sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal declaration establishing the Okefenokee Wildlife Refuge. It primarily uses legal and geographical language to define the boundaries of the refuge. There's no explicit emotional language used. The overall tone is neutral and administrative. Therefore, all emotions should be scored low, with a 1 indicating minimal presence.",
     "revised_scores": {
-        "joy": 8,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 2
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

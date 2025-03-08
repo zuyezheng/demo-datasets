@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a factual statement regarding land exclusion from a national forest. It doesn't seem designed to evoke strong emotions. However, one could argue there might be a hint of joy for those who benefit from the land exclusion or a touch of sadness for those who valued its inclusion in the forest. Surprise is also possible, depending on the context and prior expectations. Disgust, fear, and anger seem unlikely.",
+    "critique": "The document is a proclamation regarding land exclusion from a National Forest. It's a formal, legal document. There is no indication of any emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

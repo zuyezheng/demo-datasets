@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a very short, dry, and factual statement. It is unlikely to evoke any strong emotions. The order simply extends the termination date of a commission. Therefore, the scores for all emotions should be very low. Revised scores are all 1.",
+    "critique": "The document is a formal executive order regarding the termination date of a commission related to drunk driving. The language is legal and procedural, with no explicit emotional expression. However, one could argue that addressing drunk driving implies a concern for safety and a desire to prevent harm, which could be interpreted as a subtle form of care or a response to sadness/loss caused by drunk driving incidents. Considering the context, the order aims to address a serious issue, but the text itself remains unemotional. Therefore, most emotions should be scored low, with a slightly higher score for sadness due to the underlying issue being addressed.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

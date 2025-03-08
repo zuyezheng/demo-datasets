@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 5,
-        "disgust": 3,
-        "surprise": 2
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order discusses the removal of inefficient or incapable officers or employees. This could evoke fear in those who are not performing well, and perhaps disgust at the thought of misconduct. There's a slight chance of surprise at the directness of the order. There is no indication of joy or sadness.",
+    "critique": "The document discusses the removal of officers or employees in the classified service under certain conditions. The language is formal and bureaucratic, focusing on efficiency and procedure. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the mention of \"misconduct\" and \"removal\" might evoke a sense of fear or disgust, but it's very mild. The overall tone is neutral and administrative. Therefore, the initial scores would be low across all emotions, with a slight bump for fear and disgust. Upon further reflection, the context of potential job loss could subtly increase feelings of fear and perhaps sadness, while the mention of misconduct might slightly elevate disgust. The other emotions remain negligible.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 6,
-        "disgust": 4,
-        "surprise": 3
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 1
     }
 }

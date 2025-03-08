@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 5,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 3
-    },
-    "critique": "The executive order aims to convey a sense of resolute enforcement of immigration laws while addressing concerns about family unity. It attempts to balance strictness with compassion, though the overall tone leans towards a firm stance. The order seeks to instill a sense of order and control, potentially eliciting a mix of emotions depending on the reader's perspective. Initial scores: Disgust: 3, Fear: 4, Joy: 2, Sadness: 5, Surprise: 3. Revised scores: Disgust: 4, Fear: 5, Joy: 1, Sadness: 4, Surprise: 2.",
-    "revised_scores": {
         "joy": 1,
         "sadness": 4,
-        "fear": 5,
-        "disgust": 4,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document expresses a firm stance on immigration enforcement, while also acknowledging the need to maintain family unity. It conveys a sense of frustration with Congress and court orders that have led to family separations. The overall tone is serious and determined, with a hint of regret regarding the family separation issue. It does not explicitly express joy, anger, fear, disgust, or surprise, but it does convey a sense of sadness and frustration.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 5,
+        "fear": 3,
+        "disgust": 2,
         "surprise": 2
     }
 }

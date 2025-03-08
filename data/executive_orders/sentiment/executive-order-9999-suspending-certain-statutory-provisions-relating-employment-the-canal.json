@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 2,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a rather neutral document. The order includes suspending compliance with certain acts due to a housing shortage, and it seems to be a purely administrative action. Therefore, the emotions conveyed should be minimal. I will set joy, sadness, fear, disgust, and surprise all to 1 initially. After further consideration, the order might cause a slight amount of surprise as it is unexpected. Therefore, I will increase surprise to 2.",
+    "critique": "The president is conveying a sense of urgency and necessity due to a national emergency and housing shortage. This could be interpreted as a mix of concern and determination. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise, but the situation warrants a degree of concern and perhaps a hint of determination to address the issues. The scores should reflect this subtle undertone, with slightly elevated scores for concern (leaning towards sadness and fear) and a moderate score for determination (leaning towards joy).",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 2,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

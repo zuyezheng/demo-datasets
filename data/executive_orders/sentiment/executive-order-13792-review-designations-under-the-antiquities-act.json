@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 3,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
-        "disgust": 1,
-        "surprise": 2
+        "disgust": 2,
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and perhaps a subtle sense of hope related to economic growth and responsible use of natural resources. It avoids strong emotional appeals and focuses on policy and review processes. Therefore, the primary emotions would be joy (related to economic growth) and perhaps a very mild sense of surprise that things are being reviewed.",
+    "critique": "The document is a formal executive order. It aims to convey a sense of authority and policy direction. There's no explicit attempt to evoke strong emotions. However, depending on one's perspective on environmental regulations, the order could be interpreted as positive (joy for those favoring economic growth) or negative (sadness/disgust for environmentalists). The language is neutral and legalistic, minimizing emotional impact. Therefore, the initial scores should be low across all emotions, with a slight lean towards joy for those who see it as beneficial for the economy and slight sadness/disgust for those who are against it.",
     "revised_scores": {
         "joy": 3,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
-        "disgust": 1,
-        "surprise": 2
+        "disgust": 2,
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 3,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order aims to reassure and instill confidence in the US economy and trade practices. It subtly conveys a sense of strength and determination to protect American interests. Therefore, the primary emotion is joy that the US is protecting its workers. There may be a hint of fear that the US economy is being taken advantage of. There may be a hint of disgust at unfair trade practices.",
+    "critique": "The document is an executive order focused on trade enforcement. It aims to protect U.S. economic interests and ensure fair competition. The primary emotion conveyed is a sense of determination and resolve to address unfair trade practices. There's a subtle undercurrent of concern about the challenges faced by U.S. workers and businesses due to these practices. There is no indication of joy, surprise, disgust, fear, or sadness.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 2,
         "fear": 3,
-        "disgust": 4,
+        "disgust": 1,
         "surprise": 1
     }
 }

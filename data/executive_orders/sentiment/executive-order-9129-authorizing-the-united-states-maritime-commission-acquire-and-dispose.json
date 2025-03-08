@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a declaration of war powers, so it should convey a sense of fear and surprise, but not joy, sadness, or disgust. The intensity of fear and surprise should be moderate.",
+    "critique": "The document is a legal order related to the Second World War. It grants the Maritime Commission the authority to acquire property for war purposes. The language is formal and legalistic, and the tone is neutral. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

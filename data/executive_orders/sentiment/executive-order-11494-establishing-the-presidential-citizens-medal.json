@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order primarily aims to instill a sense of joy and pride in the citizens of the United States by establishing a medal to recognize exemplary service. While there might be a hint of surprise at the establishment of a new medal, the dominant emotion is joy. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document describes the establishment of the Presidential Citizens Medal. The language is formal and official. The purpose is to recognize citizens for exemplary service. There is no explicit expression of emotion. However, the act of establishing a medal to honor citizens could be interpreted as conveying a sense of joy and pride in the citizenry. However, the intensity is low as the document focuses on the procedural aspects rather than emotional expressions. Therefore, I will assign a low score for joy and a score of 1 for all other emotions.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

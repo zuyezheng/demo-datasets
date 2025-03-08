@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
-    },
-    "critique": "The executive order seems to be a formal announcement about renaming and expanding a wildlife refuge. It's unlikely to evoke strong emotions. However, there might be a slight sense of joy for those who care about wildlife conservation and a tiny bit of surprise at the name change. Most likely it will evoke no emotion in the reader.",
-    "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding a wildlife refuge. It primarily uses legal and administrative language. The expected sentiment from the public would likely be neutral, with slight interest depending on their connection to environmental conservation or the specific location. Therefore, joy, sadness, fear, disgust, and surprise should all be relatively low.The initial scores will be set to reflect this assessment, and then revised to fine-tune the values.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
     }
 }

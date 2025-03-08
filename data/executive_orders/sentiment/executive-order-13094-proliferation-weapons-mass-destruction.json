@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 8,
-        "disgust": 7,
+        "sadness": 1,
+        "fear": 7,
+        "disgust": 6,
         "surprise": 3
     },
-    "critique": "The executive order aims to convey a sense of seriousness and determination in addressing the proliferation of weapons of mass destruction. It should evoke a sense of fear regarding the dangers of such weapons and a sense of disgust towards those who seek to proliferate them. There might be a slight element of surprise at the extent of the measures being taken, but overall, the dominant emotions should be fear and disgust. The order does not aim to evoke joy or sadness.",
+    "critique": "The document is a formal executive order regarding weapons of mass destruction. It aims to convey a sense of seriousness and determination to prevent proliferation. Therefore, fear and disgust are the most relevant emotions. There's a slight element of surprise due to the amendment of a previous order, but it's not a primary emotion. Joy and sadness are not applicable.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 9,
-        "disgust": 8,
+        "fear": 8,
+        "disgust": 7,
         "surprise": 2
     }
 }

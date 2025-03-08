@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of stability and assurance rather than strong emotions. It focuses on legal and administrative adjustments, suggesting a desire to instill confidence and order. Therefore, the primary emotion conveyed would be joy, albeit at a low intensity, reflecting a sense of satisfaction that the government is functioning correctly. There may also be a very slight sense of surprise that such an order was made.",
+    "critique": "The document is a formal executive order. It does not express any particular emotion. The language is legal and procedural. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

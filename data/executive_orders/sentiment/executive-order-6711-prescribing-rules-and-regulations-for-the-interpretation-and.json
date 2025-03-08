@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 1,
-        "surprise": 4
-    },
-    "critique": "The executive order seems to aim for a sense of reassurance and hope, particularly for those who are unable to work in factories due to physical limitations or the need to care for invalids. It addresses a potential unintended consequence of abolishing homework in certain industries, ensuring that vulnerable individuals retain opportunities for employment. The order also conveys a sense of fairness and consideration for those who might be negatively impacted by the initial regulations. It aims to instill a sense of trust in the government's ability to adapt and refine policies to protect its citizens. Therefore, the primary emotions conveyed are joy and hope, with a touch of reassurance and reduced fear. There is no indication of disgust. Surprise is possible, but not the main emotion.",
-    "revised_scores": {
-        "joy": 8,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
+    },
+    "critique": "The document is a formal order from President Roosevelt regarding homework regulations within the National Industrial Recovery Act. The language is legalistic and bureaucratic, aiming to clarify and modify existing codes of fair competition. There's no explicit attempt to evoke strong emotions. However, the order addresses concerns about employment opportunities for incapacitated individuals, which might elicit a sense of relief or mild satisfaction. The document does not contain information that evokes joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores for all emotions are set to 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

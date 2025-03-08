@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The executive order seems to be a routine administrative action, transferring land for a specific purpose. It doesn't appear to be designed to evoke strong emotions. However, one could argue there's a slight sense of reassurance (low joy) due to the mention of maintaining communication systems and a very mild surprise that such an order is being issued. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a legal order transferring land for the construction of a radio station. It is unlikely to evoke strong emotions in the American public. The primary emotion might be a mild sense of surprise that such orders exist, but overall, the emotional impact is minimal. Most scores should be low, with surprise possibly being slightly higher than the others.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

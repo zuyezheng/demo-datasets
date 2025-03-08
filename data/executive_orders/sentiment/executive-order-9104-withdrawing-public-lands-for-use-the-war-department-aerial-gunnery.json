@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 5
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of surprise due to the sudden withdrawal of public lands. There might be a hint of fear among those who depend on these lands, and potentially disgust from those who disagree with the decision. There's no clear indication of joy or sadness.",
+    "critique": "The document is a formal order regarding land withdrawal for military use. It does not express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 5
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

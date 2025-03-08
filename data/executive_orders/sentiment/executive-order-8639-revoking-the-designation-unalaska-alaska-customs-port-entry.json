@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a very mundane and dry topic. It is unlikely that the president wants the audience to feel any strong emotions. The order revokes the designation of Unalaska, Alaska, as a customs port of entry. This is unlikely to evoke strong emotions such as joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores for all emotions should be very low. After further consideration, it is possible that some people in Unalaska, Alaska, might feel some sadness or perhaps surprise at the revocation of the port of entry designation, but the effect would likely be minimal.",
+    "critique": "The document is a formal order regarding a customs port of entry. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 2,
         "fear": 3,
         "disgust": 4,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order is a formal document outlining sanctions against Russia. The primary emotion conveyed is a sense of seriousness and resolve. There might be a hint of fear regarding the situation in Ukraine, but it's not the dominant emotion. There's no intention to evoke joy or surprise. Disgust might be present due to the actions of the Russian Federation, and sadness could be related to the situation in Ukraine.",
+    "critique": "The document is a formal executive order addressing a national emergency related to the actions of the Russian Federation in Ukraine. The primary emotion conveyed is a sense of concern and determination to protect national security and foreign policy interests. There's an element of disapproval and perhaps disgust towards the actions of the Russian Federation. There isn't necessarily joy, surprise, overt fear, or sadness. The language is formal and legalistic, aiming for a serious and resolute tone.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 4,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 5,
-        "surprise": 1
+        "surprise": 2
     }
 }

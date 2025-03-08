@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim to instill a sense of security and control. It addresses a 'serious problem' and outlines measures to prevent illegal migration. This could evoke a sense of relief or perhaps a controlled fear in those concerned about immigration. There might be a hint of disgust towards those attempting to enter illegally, but it's not the primary emotion. Surprise is unlikely.",
+    "critique": "The document is a formal executive order regarding immigration. It does not express emotions directly. However, it addresses a 'serious problem' of illegal immigration, which could imply a sense of concern or urgency. The order aims to prevent illegal migration, suggesting a desire to control the situation. Given the formal tone and legal context, the emotional impact on the public is likely to be minimal, but some may feel a sense of reassurance or, conversely, fear depending on their views on immigration. I will assign low scores across all emotions, with a slightly higher score for fear due to the context of preventing illegal immigration.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
-        "disgust": 2,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of competent governance and efficient administration. It's about improving a management program, not eliciting strong emotions. Therefore, the intensity of all emotions should be relatively low. The order is more informational than emotional; it adjusts a detail in an existing program. There may be a slight sense of joy that the program is improving.",
+    "critique": "The document is a formal executive order regarding the Presidential Management Intern Program. It amends a previous order to increase the number of outstanding employees recruited. The language is formal and bureaucratic, with no indication of strong emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

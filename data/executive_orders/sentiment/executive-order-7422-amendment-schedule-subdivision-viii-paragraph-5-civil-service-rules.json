@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action related to temporary employment in the Forest Service. It doesn't seem designed to evoke strong emotions. However, one could argue there's a hint of joy in providing employment opportunities, and perhaps a touch of surprise that such a specific order is being issued. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal amendment to Civil Service Rules, detailing the temporary employment of personnel for forest-related tasks. The language is legalistic and procedural, lacking emotional expression. Therefore, all emotions should be scored low, with a default of 1 due to the absence of explicit emotional cues.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 4,
-        "disgust": 3,
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 1,
         "surprise": 2
     },
-    "critique": "The executive order aims to convey a sense of seriousness and determination in addressing a threat. It evokes a sense of concern and perhaps a touch of fear regarding the situation in Haiti, but also a sense of resolve to protect US interests. There might be a hint of disgust towards the actions of the de facto regime. Surprise is not a primary emotion, but the declaration of a national emergency might elicit some surprise. Joy and sadness are not intended emotions.",
+    "critique": "The document expresses concern and determination in response to a perceived threat. It aims to convey a sense of seriousness and resolve, but not necessarily strong emotions like joy, sadness, anger, fear, disgust, or surprise. The primary emotion conveyed would be concern and determination. The initial scores reflect a baseline assessment, and the revised scores adjust to better reflect the nuanced emotional tone.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 5,
-        "disgust": 4,
-        "surprise": 3
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
     }
 }

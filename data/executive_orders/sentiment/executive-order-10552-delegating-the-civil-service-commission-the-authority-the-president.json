@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a formal delegation of authority. It doesn't seem designed to evoke strong emotions. However, one could argue there's a hint of relief (joy) that the Civil Service Commission can handle these matters, and perhaps a tiny bit of surprise that such a delegation is occurring. The scores should be very low.",
+    "critique": "The document is a formal declaration regarding the authority of the United States Civil Service Commission. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

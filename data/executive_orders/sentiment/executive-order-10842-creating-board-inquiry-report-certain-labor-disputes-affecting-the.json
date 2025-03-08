@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to convey a sense of urgency and importance, but not necessarily to evoke strong emotions directly. It's more about stating facts and establishing a legal framework. The order does not want the audience to feel joy. The order wants the audience to feel a little surprise and fear. The order does not want the audience to feel sadness, anger, or disgust.",
+    "critique": "The document is a formal announcement invoking the Labor-Management Relations Act to address a strike. The language is legalistic and factual, with the aim of conveying a sense of authority and concern for national health and safety. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the implicit concern about the strike's impact suggests a degree of worry or perhaps a desire to preemptively address potential public anxiety. The initial scores reflect this interpretation, with low scores for most emotions and a slightly higher score for fear/worry. The revised scores are similar, but with a slight adjustment to reflect the document's overall tone of serious concern.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

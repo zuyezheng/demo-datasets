@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 2,
         "fear": 6,
-        "disgust": 3,
-        "surprise": 1
+        "disgust": 5,
+        "surprise": 3
     },
-    "critique": "The executive order aims to address the risks associated with commercial spyware. It highlights potential threats to national security, human rights, and democratic values. The order seeks to evoke a sense of concern and urgency regarding these issues. It also aims to instill confidence that the government is taking steps to mitigate these risks and protect its interests and values. The primary emotions the president wants to convey are concern/fear (about the threats) and hope/joy (that the actions will improve the situation). There might be a hint of disgust at the actions of foreign governments and persons who misuse commercial spyware. Surprise is not really an emotion that the order tries to convey.",
+    "critique": "The document is a formal executive order addressing the use of commercial spyware. The primary emotion conveyed is concern regarding national security, human rights, and the potential misuse of technology. There's an element of fear regarding the risks posed by spyware, and a sense of disgust at the potential for abuse. However, the overall tone is measured and policy-oriented, not overtly emotional. Therefore, the scores should reflect a moderate level of fear and disgust, and low levels of other emotions.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 3,
-        "fear": 7,
-        "disgust": 4,
-        "surprise": 1
+        "joy": 1,
+        "sadness": 2,
+        "fear": 6,
+        "disgust": 5,
+        "surprise": 3
     }
 }

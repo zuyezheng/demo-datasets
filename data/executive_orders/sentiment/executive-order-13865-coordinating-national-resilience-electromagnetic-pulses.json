@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 7,
+        "sadness": 2,
+        "fear": 6,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The executive order is primarily concerned with national security and infrastructure resilience in the face of electromagnetic pulse (EMP) threats. The order aims to evoke a sense of urgency and preparedness, but not necessarily strong emotions. The primary emotion conveyed should be fear, due to the potential for disruption and damage from EMPs. Surprise is not a relevant emotion. Disgust, joy, and sadness are not emotions the president wants to convey.",
+    "critique": "The document is a formal executive order outlining steps to prepare for and mitigate the effects of electromagnetic pulses (EMPs). The language is formal and technical, focusing on policy, coordination, and responsibilities across various government agencies. The primary emotion conveyed is concern and a sense of urgency regarding a potential threat to national security and economic stability. There is no explicit expression of joy, sadness, anger, or surprise. Fear is present due to the potential for disruption and damage from EMPs. Disgust is not applicable in this context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 7,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 2,
+        "joy": 3,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order is about closing Federal Government departments and agencies for half a day on Christmas Eve. This is likely to evoke a sense of joy and surprise, as people may be happy to have extra time off during the holidays. There might be a slight sense of sadness for those who have to work, but overall, the dominant emotions should be joy and surprise. Disgust, fear, and anger are unlikely to be conveyed by this order.",
+    "critique": "The document is a formal executive order regarding the closure of Federal Government departments and agencies on Christmas Eve. The language is legal and procedural, with no explicit emotional expression. However, the act of giving employees time off for Christmas Eve could be interpreted as conveying a sense of joy or goodwill. Considering the context, the public might feel a slight sense of joy or gratitude. The other emotions are not relevant in this context, so they should be scored as 1.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 2,
+        "joy": 3,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

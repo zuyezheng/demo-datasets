@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 4,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
-        "disgust": 3,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of solemnity and resolve. It establishes a legal framework for the trial of war criminals, which could evoke a sense of justice and closure, but also a somber recognition of the atrocities committed. There isn't a strong emphasis on joy, but a sense of grim satisfaction might be present. Sadness is relevant due to the context of war crimes. Fear and disgust are connected to the crimes themselves, but the order focuses on the legal process. Surprise is unlikely, as the order is a formal declaration. Thus, sadness should be a 4, disgust a 3, and joy a 2.",
+    "critique": "The document is a formal executive order. It establishes a military tribunal and designates its members. The language is legal and procedural, with no explicit emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 4,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
-        "disgust": 3,
+        "disgust": 1,
         "surprise": 1
     }
 }

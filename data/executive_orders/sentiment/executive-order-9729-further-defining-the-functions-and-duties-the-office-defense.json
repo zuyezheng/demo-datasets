@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim for a sense of control and national defense, potentially instilling a sense of reassurance and perhaps slight surprise at the extent of the President's authority during wartime. There's no explicit attempt to evoke joy, sadness, disgust, or fear, but the implicit message might generate a mild sense of surprise due to the breadth of power being exercised.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and purpose, but lacks explicit emotional expression. The order focuses on allocating resources and delegating power during a time of war, suggesting a serious and urgent tone. Therefore, the most relevant emotions to consider are fear (related to the war context) and perhaps a hint of surprise if the order introduces unexpected changes. However, joy, sadness, and disgust are unlikely to be conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     }
 }

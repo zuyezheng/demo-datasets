@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The executive order is a legal document outlining sanctions against Iran. The primary goal is to convey a sense of seriousness and determination in addressing the perceived threat from Iran. While not explicitly designed to evoke emotions, the order aims to instill a sense of security and confidence in the government's actions. However, it could also generate fear or anger in those targeted by the sanctions. The order is unlikely to evoke joy or surprise.",
+    "critique": "The document is an executive order imposing sanctions on Iran. It is a legal document and does not express any particular emotion. However, it can be interpreted as conveying a sense of seriousness and determination to address the national emergency declared in Executive Order 12957. The order aims to prevent Iran from engaging in activities that threaten the interests of the United States. Therefore, the emotions that the American public is expected to feel are fear and disgust, but at a low level. There is no indication of joy, sadness, or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
-        "disgust": 4,
+        "sadness": 1,
+        "fear": 4,
+        "disgust": 3,
         "surprise": 1
     }
 }

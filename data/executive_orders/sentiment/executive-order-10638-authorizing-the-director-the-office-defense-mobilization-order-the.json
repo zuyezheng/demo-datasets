@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 6,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The executive order is a formal document outlining procedures in case of an enemy attack. The primary emotion it aims to convey is a sense of preparedness and reassurance, which can be linked to a reduction in fear and an increase in a sense of security. There might be a slight element of surprise conveyed due to the hypothetical nature of an enemy attack, but it's not the main focus. There is no explicit attempt to evoke joy, sadness, or disgust. The order is more about outlining a plan than eliciting a strong emotional response. The initial scores reflect this with low values for most emotions and a slightly higher value for fear reduction.",
+    "critique": "The document expresses a serious and urgent tone due to the context of a potential enemy attack. It aims to convey a sense of preparedness and resolve rather than specific emotions. The primary emotion conveyed would likely be fear, but in a controlled and authoritative manner. Surprise is unlikely, as the document anticipates a potential event. Joy is completely absent, and sadness would be inappropriate in this context. Disgust is also not relevant. The scores should reflect a moderate level of fear, and low levels of the other emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 6,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 3,
         "fear": 5,
-        "disgust": 6,
+        "disgust": 1,
         "surprise": 4
     },
-    "critique": "The executive order seems to want to convey a sense of seriousness and concern about a threat, so fear and surprise might be appropriate. There might also be a sense of disgust towards the actions of the Nicaraguan government. Joy and sadness don't seem relevant here.",
+    "critique": "The document expresses concern and determination in response to a perceived threat. It conveys a sense of seriousness and resolve rather than specific emotions like joy, sadness, or disgust. The primary emotions are fear (related to the threat) and surprise (due to the unusual nature of the threat), but these are presented in a formal, controlled manner. The language is formal and legalistic, which tempers the emotional impact. The initial scores reflect a moderate level of fear and surprise, with other emotions being minimal. The revised scores slightly adjust the emphasis based on the overall tone and context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 6,
-        "disgust": 7,
+        "disgust": 1,
         "surprise": 5
     }
 }

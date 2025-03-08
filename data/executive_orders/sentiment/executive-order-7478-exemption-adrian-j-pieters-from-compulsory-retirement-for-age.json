@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and stability. While it doesn't explicitly evoke strong emotions, it subtly conveys a sense of joy that the government is functioning as it should. It also conveys a mild sense of surprise. The order is a routine administrative action, so the intensity of any emotion is likely to be low.",
+    "critique": "The document is a formal executive order from 1936. It primarily conveys a sense of official business and legal compliance rather than any strong emotion. The president is invoking a specific legal provision to extend the service of an individual. There's a slight hint of appreciation for the individual's service, but it's very subdued. Therefore, all emotions should be scored low, with perhaps a slightly higher score for 'surprise' that such a specific order is being issued.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

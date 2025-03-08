@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 5,
+        "fear": 7,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order is a legal document that aims to protect the security of the United States. The order itself doesn't explicitly express emotions. However, it implicitly conveys a sense of concern and determination to address potential threats. The reference to the terrorist attacks on September 11, 2001, evokes a sense of sadness and fear. The order also conveys a sense of surprise that such disturbances continue to endanger the United States' relations. The order does not convey joy or disgust.",
+    "critique": "The document is a formal declaration regarding national security. It expresses concern about disturbances in international relations following the September 11, 2001 attacks. The primary emotion conveyed is fear due to the endangerment of national security. There might be a hint of sadness related to the events of September 11, but it's not the main focus. There's no indication of joy, anger, disgust, or surprise. The initial scores reflect this assessment, with fear being the highest, followed by sadness, and the other emotions being minimal. The revised scores slightly adjust the intensity of fear and sadness based on the overall tone of the document.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
+        "sadness": 2,
+        "fear": 8,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

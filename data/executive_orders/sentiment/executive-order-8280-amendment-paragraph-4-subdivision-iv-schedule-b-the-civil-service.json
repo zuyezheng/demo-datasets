@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a technical document related to civil service rules and labor regulations. It doesn't seem designed to evoke strong emotions in the reader. The order focuses on procedural changes within the War Department and the Civil Service Commission. There is a slight sense of joy that laborers can be promoted, and a slight surprise that this is happening now. However, the overall emotional impact is minimal.",
+    "critique": "The document is a formal executive order regarding civil service rules. It doesn't express any strong emotions. The president is simply enacting a change to civil service rules. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

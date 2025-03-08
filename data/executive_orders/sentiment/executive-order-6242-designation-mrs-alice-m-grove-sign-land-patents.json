@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a simple administrative action, designating a person to sign land patents. It is unlikely to evoke strong emotions. The most relevant emotions might be a very mild sense of surprise (that such an order is necessary) or perhaps a neutral sense of duty or order. I will assign low scores to surprise and joy, and zero to the rest. After reflection, these scores seem appropriate, as the document is purely procedural and unlikely to evoke any significant emotional response.",
+    "critique": "The document is a formal designation of authority. It is unlikely to evoke strong emotions in the American public. The most relevant emotions might be surprise or interest, but these would likely be very mild.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 1
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
     }
 }

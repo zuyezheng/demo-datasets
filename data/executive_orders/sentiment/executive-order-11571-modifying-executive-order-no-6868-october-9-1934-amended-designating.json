@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document that designates authority and outlines procedures. It doesn't appear to be crafted to evoke strong emotions. However, there might be a slight sense of reassurance or stability conveyed by establishing clear lines of authority and continuing existing structures. Therefore, I will assign low scores for joy and surprise and zero for the rest.",
+    "critique": "The document is a formal executive order. It designates authority and outlines procedures. There is no explicit emotional language. Therefore, the expected emotional response from the public would be minimal across all emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

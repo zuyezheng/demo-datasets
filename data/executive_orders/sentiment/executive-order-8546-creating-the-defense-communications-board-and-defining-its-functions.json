@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 1,
-        "fear": 3,
-        "disgust": 1,
-        "surprise": 1
-    },
-    "critique": "The executive order is a formal document outlining the establishment and functions of the Defense Communications Board. The primary emotion it aims to convey is a sense of preparedness and security in the face of potential national emergencies. While it doesn't explicitly evoke joy, it subtly aims to instill confidence. There might be a hint of fear regarding potential threats, but it's more about proactive planning. Disgust, sadness, and surprise are not intended emotions.",
-    "revised_scores": {
-        "joy": 3,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 2,
         "fear": 4,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order regarding national defense and communication facilities. It primarily conveys a sense of preparedness and control in the face of a potential national emergency or war. There is an element of fear considering the context of preparing for war. There's no strong indication of joy, sadness, disgust, or surprise. The language is formal and bureaucratic, aiming for clarity and authority.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 2
     }
 }

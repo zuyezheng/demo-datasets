@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The document is a formal request to withdraw land from sale to enlarge a reservation. It aims to improve the condition of Indians and reduce agency expenses. The primary emotion conveyed should be a sense of hope and perhaps a mild sense of surprise that such measures are being taken. There is no strong indication of joy, sadness, fear, or disgust.",
+    "critique": "The document is a formal letter from the Department of the Interior to the President regarding a recommendation to withdraw certain townships from sale to enlarge the Little Traverse Reservation. The language is formal and bureaucratic, and the tone is neutral. There is no explicit expression of emotion in the document. However, one could infer a mild sense of hope or optimism that the proposed enlargement would improve the condition of the Indians and reduce agency expenses. However, this is not explicitly stated, so the emotion scores should be low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

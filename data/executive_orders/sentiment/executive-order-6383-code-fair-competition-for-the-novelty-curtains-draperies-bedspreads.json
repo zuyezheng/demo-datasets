@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 0,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of confidence and assurance in the government's actions. It's about implementing a code of fair competition, so the intended emotions are likely to be joy (that things are improving) and perhaps a bit of surprise (that the government is taking such action). There might be a slight reduction of fear or disgust related to unfair competition. Initial scores: Joy: 6, Surprise: 3, Fear: 1, Disgust: 1, Sadness: 0. Revised scores: Joy: 7, Surprise: 2, Fear: 0, Disgust: 0, Sadness: 0. The emphasis is more on joy and a sense of positive change.",
+    "critique": "The document primarily conveys a sense of formal approval and legal compliance. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and administrative, suggesting a neutral emotional tone. Therefore, the initial scores for all emotions are set to 1, indicating minimal emotional conveyance. After further consideration, the formal and legal nature of the document suggests a slightly elevated sense of confidence and perhaps a hint of optimism, but not enough to significantly alter the scores. The revised scores remain largely the same, with a slight nudge to joy to reflect the positive action of approving a code.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 2
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

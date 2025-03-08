@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action, detailing an army officer for military duty. It doesn't appear to be designed to evoke strong emotions. However, one could argue there's a hint of surprise that such an order is necessary, and perhaps a touch of joy that inter-American affairs are being addressed. But overall, the emotional impact is minimal.",
+    "critique": "The document is a formal executive order detailing the temporary assignment of an Army officer to specific organizations. The language is legalistic and procedural, with no indication of emotional sentiment. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

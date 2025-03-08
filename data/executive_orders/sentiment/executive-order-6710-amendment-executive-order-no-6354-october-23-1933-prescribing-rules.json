@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 2,
-        "fear": 3,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of relief and perhaps a touch of hope, especially for small business owners in small towns. The order intends to alleviate hardship, suggesting a reduction in fear and perhaps an increase in joy or at least contentment. There isn't a strong indication of other emotions like disgust, surprise, or strong sadness. The primary emotion seems to be a gentle joy stemming from the alleviation of hardship.",
+    "critique": "The document is a formal executive order detailing exemptions to the National Industrial Recovery Act for small businesses. It aims to provide relief to these enterprises. There's no strong indication of any particular emotion being conveyed. The language is legal and administrative, not designed to evoke strong feelings. Therefore, all emotions should be scored low. I will start with initial scores of 1 across the board and then revise them slightly based on the intent to relieve hardship, which might suggest a touch of joy and reduced sadness.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 2,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

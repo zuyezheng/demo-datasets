@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal declaration, so it should not convey strong emotions. The order gives the Federal Works Administrator the power to acquire property for war purposes. This might cause a bit of fear in people who don't want their property taken, and a bit of joy in people who want the war to be won. However, the overall emotion should be neutral. The initial scores are set to zero, and the revised scores are also set to zero.",
+    "critique": "The document is a formal executive order regarding property acquisition for war purposes. It does not express any particular emotion. The language is legal and procedural, not designed to evoke feelings. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

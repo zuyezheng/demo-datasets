@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 1,
-        "fear": 4,
-        "disgust": 3,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order expresses concern about the physical fitness of American youth and adults, highlighting deficiencies and the need for improvement. This suggests a desire to evoke a sense of concern or worry (fear) and perhaps a bit of disappointment or disapproval (disgust) regarding the current state. However, it also aims to inspire action and a sense of hope for a healthier future (joy). The order doesn't seem to intentionally evoke sadness or surprise.",
+    "critique": "The document expresses concern about the physical fitness of American youth and adults, but it does not convey strong emotions. The tone is formal and administrative, aiming to establish a council and coordinate efforts to improve physical fitness. Therefore, the initial scores should be relatively low across all emotions.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 1,
-        "fear": 4,
-        "disgust": 3,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and stability. While it doesn't explicitly evoke strong emotions, it subtly conveys a sense of confidence in the decision-making process and the importance of maintaining experienced personnel in government service. The order uses formal language and references legal authority, which contributes to a feeling of trust and reliability. Therefore, the primary emotion conveyed would be joy that the government is working as it should. The other emotions are not really present.",
+    "critique": "The document is a formal executive order regarding the retirement age of a government employee. It doesn't express any strong emotions. The president is simply enacting a provision to keep someone in service. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal announcement regarding the classification of an individual, Hany A. McBride. It outlines his career history and progression within the Department of State. The primary purpose appears to be informational and administrative rather than to evoke strong emotions. However, there might be a subtle sense of joy or satisfaction associated with recognizing Mr. McBride's long and dedicated service. There's no indication of negative emotions like sadness, anger, fear, or disgust. Surprise is also unlikely, as the order seems to be a routine administrative action.",
+    "critique": "The document is a formal announcement regarding the classification of Hany A. McBride's position. It outlines his career history within the Department of State. There is no strong emotional language or sentiment present. The tone is neutral and factual. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

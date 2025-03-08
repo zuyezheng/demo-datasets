@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 5,
         "sadness": 5,
-        "fear": 4,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The president wants to convey a sense of hope and relief, primarily through joy and a reduction of fear and sadness. The order aims to alleviate burdens and promote peace, suggesting a positive emotional shift. The intensity of joy should be moderate, as it's a call for improvement rather than a declaration of victory. Fear and sadness should be reduced but not eliminated, as the context is still wartime. There isn't a strong element of surprise, disgust, or anger.",
+    "critique": "The president is conveying a message of hope and peace, with a desire to alleviate the suffering of the people. This suggests a sense of sadness about the current situation, but also joy and hope for the future. There is no indication of anger, fear, disgust, or surprise. The intensity of sadness is moderate, while the intensity of joy is also moderate due to the hope for the future. The other emotions are negligible.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 4,
-        "fear": 3,
+        "joy": 6,
+        "sadness": 6,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

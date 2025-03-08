@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document outlining the allocation of coffee quotas. It's unlikely to evoke strong emotions. However, there might be a slight sense of satisfaction or relief for countries receiving a fair share of the quota. There might also be a little surprise at the specific allocations. Disgust, fear, joy, and sadness are unlikely to be conveyed.",
+    "critique": "The document is a formal order regarding coffee quotas. It does not express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

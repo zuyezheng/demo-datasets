@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document that aims to improve management and efficiency in the executive branch. It establishes a council to advise the President on management improvement and cost control. The intended emotional response is likely to be a sense of reassurance and confidence in the government's ability to manage resources effectively. There might be a slight sense of surprise that the president is taking these actions. There is no indication of sadness, fear, disgust, or joy.",
+    "critique": "The document is a formal executive order. It establishes a council and outlines its functions. The language is formal and bureaucratic. There is no strong emotion conveyed. A slight sense of joy could be inferred from the idea of improving efficiency, but it's very mild. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

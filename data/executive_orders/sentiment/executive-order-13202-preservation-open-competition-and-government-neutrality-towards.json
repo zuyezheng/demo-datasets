@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of joy by promoting open competition, reducing costs, expanding job opportunities, and preventing discrimination. It also aims to reduce fear by ensuring government neutrality and preventing discrimination. There's a slight element of surprise due to the revocation of previous orders. There is no indication of sadness, anger, or disgust.",
+    "critique": "The document is a formal executive order. It aims to promote open competition, maintain government neutrality, reduce construction costs, expand job opportunities, and prevent discrimination. The language is legal and procedural, lacking emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 2,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and optimism, focusing on improvements and benefits. It avoids strong negative emotions. The primary emotions to convey are joy (related to improvement and benefits) and surprise (related to innovation and new approaches), with a lesser emphasis on reducing fear (related to uncertainty).",
+    "critique": "The document is an executive order focused on improving regulation and regulatory review. The language is formal and aims to convey a sense of responsibility, order, and efficiency. There's an emphasis on public participation, scientific integrity, and retrospective analysis of existing rules. The overall tone is intended to be reassuring and authoritative, not particularly emotional. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 2,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

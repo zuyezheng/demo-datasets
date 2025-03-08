@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 6,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is about honoring soldiers and sailors who died in the Civil War. The primary emotion the president wants to convey is sadness, with a secondary emotion of joy in remembering their sacrifice. There might also be a hint of surprise that the president is giving a day off for this purpose. Disgust, fear, and anger are not relevant emotions in this context.The initial scores seem appropriate, but I will slightly increase the sadness score to reflect the solemn nature of the order.",
+    "critique": "The document is a formal order to close Executive Departments and the Government Printing Office for Memorial Day. The language is formal and respectful, indicating a somber tone rather than strong emotions. The primary emotion conveyed is sadness, reflecting the remembrance of soldiers and sailors who died in the Civil War. There might be a hint of respect and gratitude, but these are less prominent. There's no indication of joy, anger, fear, disgust, or surprise. Initial scores: Joy: 1, Sadness: 6, Anger: 1, Fear: 1, Disgust: 1, Surprise: 1. Revised scores: Joy: 1, Sadness: 7, Anger: 1, Fear: 1, Disgust: 1, Surprise: 1.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 7,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

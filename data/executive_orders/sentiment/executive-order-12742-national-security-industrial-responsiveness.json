@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 0,
+        "joy": 1,
+        "sadness": 1,
         "fear": 3,
-        "disgust": 0,
-        "surprise": 2
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order is focused on national security and mobilizing resources. It aims to convey a sense of preparedness and strength, potentially instilling a sense of security and confidence (joy) while also acknowledging the potential need for urgent action (fear). There's no indication of disgust or sadness. Surprise is not the primary emotion, but the order's decisive nature might evoke a mild sense of it.",
+    "critique": "The document is an executive order regarding national security and resource mobilization. It is a formal and legal document. The primary emotion conveyed would be a sense of seriousness and perhaps underlying concern for national security. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the context implies a proactive measure to ensure national security, which might subtly convey a sense of preparedness against potential threats. Considering the content, context, and language, I'll score the emotions accordingly.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 0,
-        "fear": 4,
-        "disgust": 0,
-        "surprise": 3
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 2,
-        "fear": 7,
-        "disgust": 3,
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to want to convey a sense of urgency and seriousness, but also a sense of control and preparedness. The primary emotion is likely fear (related to the potential disruption of the railroad strike), but also a degree of confidence (that the government is taking action to address the situation). There might be a touch of disgust at the situation that has caused the strike. There isn't a sense of joy or surprise that the president would want to convey.",
+    "critique": "The document expresses concern and determination in response to a railroad strike. It aims to convey the seriousness of the situation and the government's resolve to address it. It evokes a sense of urgency and potential fear due to the disruption of transportation. There is no presence of joy, disgust, or surprise.",
     "revised_scores": {
-        "joy": 0,
+        "joy": 1,
         "sadness": 3,
-        "fear": 8,
-        "disgust": 4,
+        "fear": 5,
+        "disgust": 1,
         "surprise": 1
     }
 }

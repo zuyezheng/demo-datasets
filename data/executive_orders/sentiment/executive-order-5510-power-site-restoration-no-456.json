@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order is a revocation of previous orders related to land in Wyoming. It's a legal document that aims to inform the public about a change in land status. The primary goal isn't to evoke strong emotions but to communicate a legal decision. However, depending on the reader's stake in the land, they might feel relief, disappointment, or indifference. The order itself doesn't explicitly aim to evoke joy, sadness, anger, fear, disgust, or surprise. The initial scores should be low across all emotions. Upon revision, I will keep the scores low, but adjust surprise to 1, as some readers may be surprised by the revocation.",
+    "critique": "The document is a legal order regarding land revocation. It doesn't express any specific emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

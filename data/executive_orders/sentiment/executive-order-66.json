@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want the audience to feel joy and surprise. The order is about appointing someone to a position without examination, which could be seen as a positive thing. However, the order is also about a specific person, which could be seen as surprising.",
+    "critique": "The document is a neutral statement about an appointment. There is no language that conveys any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

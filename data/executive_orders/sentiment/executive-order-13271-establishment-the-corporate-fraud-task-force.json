@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 2,
-        "disgust": 3,
-        "surprise": 4
+        "disgust": 2,
+        "surprise": 2
     },
-    "critique": "The executive order aims to instill a sense of confidence and security by addressing financial crimes. It seeks to convey a sense of joy that the government is taking action, a lack of fear as the government is handling the situation, and a sense of justice that wrongdoers will be punished. There might be a slight element of surprise that such a task force is being created.",
+    "critique": "The document is a formal executive order establishing a Corporate Fraud Task Force. It aims to address financial crimes and improve cooperation among various government entities. The language is legal and procedural, lacking strong emotional cues. Therefore, the initial scores should be low across all emotions. Revised scores will reflect this assessment.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 2,
-        "surprise": 3
+        "disgust": 1,
+        "surprise": 1
     }
 }

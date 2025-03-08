@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The president wants the audience to feel joy that the civil service is being improved. The president wants the audience to feel surprise that the civil service rules are being revised. The president wants the audience to feel no other emotions.",
+    "critique": "The document is a formal announcement regarding civil service rules. It does not express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey a sense of joy and surprise. The order is about construction and maintenance of public roads and other public projects, so joy is appropriate. The order is also unexpected, so surprise is appropriate. The order does not seem to want to convey a sense of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal order regarding land withdrawal for public projects. It doesn't express any particular emotion. The language is legal and administrative, not designed to evoke feelings. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

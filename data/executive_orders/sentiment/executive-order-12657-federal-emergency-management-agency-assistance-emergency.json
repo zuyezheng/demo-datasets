@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 0,
-        "fear": 2,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 4,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining procedures for radiological emergencies. It aims to instill confidence in the government's ability to handle such situations. Therefore, the primary emotion it should convey is a sense of calm and preparedness, which can be interpreted as a low level of fear reduction and a moderate level of trust or confidence (which I'll map to 'joy' here for lack of a better fit). There might be a very slight element of surprise conveyed in the sense that the order is proactively addressing potential emergencies, but this is minimal. There's no intention to evoke sadness, disgust, or anger.",
+    "critique": "The document is an executive order regarding radiological emergencies at nuclear power plants. It is a formal and legal document. The primary emotions conveyed would be related to concern for public safety and a sense of preparedness. There is no strong indication of joy, sadness, or disgust. Surprise is also unlikely. Fear might be present due to the nature of the topic, but it's more about addressing potential risks than instilling fear. Therefore, I will score fear moderately and other emotions low.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 0,
-        "fear": 2,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 4,
+        "disgust": 1,
         "surprise": 1
     }
 }

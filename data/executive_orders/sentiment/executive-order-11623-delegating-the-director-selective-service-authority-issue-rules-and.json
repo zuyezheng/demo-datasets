@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a formal document outlining the procedures for the Director of Selective Service to issue rules and regulations. It does not seem designed to evoke strong emotions. However, a very slight sense of reassurance might be intended, suggesting order and process. Therefore, I will assign a low score to joy and leave the rest at zero. After further consideration, even the slight sense of reassurance is not really present. The document is purely procedural. Therefore, all scores should be zero.",
+    "critique": "The document is a formal executive order regarding the Selective Service. It outlines procedures for the Director of Selective Service to issue rules and regulations. The language is legal and procedural, with no emotional tone apparent. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of joy and surprise. The order is about increasing opportunities for women-owned small businesses, which should bring joy to those businesses and their advocates. The order may also come as a surprise to some, as it represents a renewed commitment to this goal. There is no indication that the order is intended to convey sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order focused on increasing opportunities for women-owned small businesses. The language is legal and procedural, lacking emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

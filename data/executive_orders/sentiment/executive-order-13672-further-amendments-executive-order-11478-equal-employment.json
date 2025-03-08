@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 1,
-        "fear": 3,
-        "disgust": 2,
-        "surprise": 1
-    },
-    "critique": "The executive order aims to promote equality and prevent discrimination. This should evoke joy and reduce fear and disgust. There's no element of surprise or sadness intended.",
-    "revised_scores": {
-        "joy": 8,
+        "joy": 5,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
+    },
+    "critique": "The document is a formal executive order. It aims to promote equality and prohibit discrimination based on sexual orientation and gender identity. The language is legal and procedural, not designed to evoke strong emotions. However, the order's content, promoting inclusivity, might generate a sense of joy and reduce fear among affected groups. Disgust, sadness, and surprise are less relevant in this context, but there might be some surprise depending on the audience.",
+    "revised_scores": {
+        "joy": 5,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
     }
 }

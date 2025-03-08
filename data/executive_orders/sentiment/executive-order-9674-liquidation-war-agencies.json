@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 0,
-        "disgust": 0,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of order and resolution, perhaps a mild sense of relief that the war is ending and things are being taken care of. There isn't a strong push for any particular emotion, but a subtle sense of reassurance might be intended. Therefore, I will score joy, sadness, and surprise as low, and disgust, fear, and anger as 0.",
+    "critique": "The document is a formal executive order regarding the liquidation of temporary Federal agencies created for the purposes of the war. The language is formal and bureaucratic, and the tone is neutral. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 0,
-        "disgust": 0,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

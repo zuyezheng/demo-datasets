@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 5,
         "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 1
-    },
-    "critique": "The executive order seems to aim for a sense of urgency and resolve, but not necessarily to evoke strong emotions. It's more about conveying authority and action during wartime. Therefore, the initial scores should be relatively low across all emotions.",
-    "revised_scores": {
-        "joy": 1,
-        "sadness": 2,
         "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 3
+    },
+    "critique": "The document is an executive order regarding the transfer of agencies and functions to the War Manpower Commission. It is a formal and legal document with the purpose of mobilizing national manpower during wartime. The language is factual and objective, with no explicit emotional expression. However, the context of wartime mobilization might evoke a sense of urgency and determination. Therefore, I would expect the American public to feel a low level of fear and surprise, and a moderate level of joy that the president is taking action to help the war effort. Disgust and sadness are not relevant in this context.",
+    "revised_scores": {
+        "joy": 5,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 3
     }
 }

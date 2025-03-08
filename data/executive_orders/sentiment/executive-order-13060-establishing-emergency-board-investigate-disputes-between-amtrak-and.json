@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to convey a sense of urgency and importance, but not necessarily to evoke strong emotions. The primary goal is to address a labor dispute that could disrupt transportation services. Therefore, the scores for all emotions should be relatively low. The order does not want to make people feel joy, and it only wants to convey a small amount of fear, sadness, disgust, and surprise.",
+    "critique": "The document is a formal executive order regarding a labor dispute. It does not express any strong emotions. The most relevant emotion would be concern (leading to sadness) that a transportation disruption is possible, and a desire to project authority (leading to a tiny bit of joy that the president is in charge and can fix it). There is no indication of fear, disgust, or surprise.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 2,
-        "fear": 7,
-        "disgust": 3,
-        "surprise": 0
-    },
-    "critique": "The executive order primarily aims to instill a sense of seriousness and adherence to regulations during a time of conflict. The mention of the death penalty and strict enforcement suggests an intention to evoke fear and discourage actions that could aid the enemy. There might also be a sense of disgust towards those who would betray the military. There is no element of joy or surprise. Sadness might be a very mild emotion due to the mention of death.",
-    "revised_scores": {
-        "joy": 0,
+        "joy": 1,
         "sadness": 1,
-        "fear": 8,
-        "disgust": 4,
-        "surprise": 0
+        "fear": 7,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document primarily conveys a sense of seriousness and warning due to the enforcement of a law regarding communication with the enemy. It aims to instill a sense of caution and adherence to regulations. There is an element of fear conveyed, as violation leads to potential death. There isn't enough information to portray joy, sadness, disgust, or surprise so I will score them as 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 7,
+        "disgust": 1,
+        "surprise": 1
     }
 }

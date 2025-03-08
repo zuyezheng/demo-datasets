@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that terminates the War Refugee Board. It is unlikely to evoke strong emotions. However, there might be a slight sense of sadness due to the ending of the board, but it would be very mild. There is no indication of joy, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal announcement regarding the termination of the War Refugee Board. It uses formal and legalistic language, indicating a neutral tone. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The content focuses on the administrative details of the termination, including the responsibilities of the Secretary of the Treasury and the effective date of the order. Therefore, all emotions should be scored low, as the document aims to be objective and factual.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

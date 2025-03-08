@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order aims to inspire joy by highlighting job creation, economic growth, and improved quality of life. It also seeks to instill a sense of confidence and reduce fear by addressing infrastructure needs and promoting stability. Surprise is not a primary emotion conveyed, and sadness, disgust, and anger are not intended emotions.",
+    "critique": "The document is a formal executive order. It aims to establish a council to improve infrastructure. The language is formal and objective, with no explicit emotional expression. However, the goals of the order, such as creating jobs, enhancing productivity, and improving quality of life, could be seen as conveying a sense of joy or hope. The potential for economic growth could also inspire a sense of optimism. However, the primary purpose is administrative, not emotional. Therefore, the scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

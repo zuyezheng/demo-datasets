@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of order and control. It addresses a specific issue (contraband oil) and establishes a system for regulation. The primary emotion it seeks to convey is a sense of confidence and assurance that the situation is being handled. There might be a secondary element of fear or concern addressed, but the main goal is to instill confidence.",
+    "critique": "The document is a legal order related to the regulation of oil production and transportation. It uses formal and technical language, indicating a serious and official tone. There is no explicit expression of emotions. However, the order aims to address a problem (contraband oil) and establish a system for regulation, which could imply a sense of concern or determination. Given the lack of emotional language, the emotion scores should be low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

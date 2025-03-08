@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order discusses extending someone's service, which could bring joy. The extension itself might be surprising. Disgust, fear, and sadness don't seem to be relevant in this context.",
+    "critique": "The document is a formal executive order regarding the exemption of a government employee from mandatory retirement. It does not contain strong emotional language. The primary emotion conveyed might be a mild sense of approval or endorsement, but overall, the emotional intensity is low. The initial scores reflect this, with low values across all emotions. The revised scores are similar, with slight adjustments to reflect the minimal emotional content.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

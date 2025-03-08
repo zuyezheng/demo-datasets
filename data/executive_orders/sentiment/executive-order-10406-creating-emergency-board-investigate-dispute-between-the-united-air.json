@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, primarily focused on outlining the establishment of a board to investigate a dispute. It doesn't obviously evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, a subtle sense of reassurance or relief might be intended, suggesting that the situation is being handled and interstate commerce will be protected. I will assign low scores to joy and surprise and zero to the rest.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It doesn't express any particular emotion; it's a legal and administrative action. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

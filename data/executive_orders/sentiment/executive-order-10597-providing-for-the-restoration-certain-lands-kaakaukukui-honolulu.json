@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a dry, legal document. It's unlikely to evoke strong emotions. Maybe a tiny bit of joy that land is being transferred for public use.",
+    "critique": "The document is a legal order regarding land transfer. It is formal and factual, so it is unlikely to convey strong emotions. The primary purpose is to inform and authorize, not to evoke feelings. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

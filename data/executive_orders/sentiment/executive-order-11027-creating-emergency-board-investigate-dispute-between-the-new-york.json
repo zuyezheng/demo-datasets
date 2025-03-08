@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 2,
-        "disgust": 1,
+        "fear": 3,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, focusing on addressing a labor dispute and ensuring the continuation of essential transportation services. It doesn't explicitly try to evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, there might be a subtle sense of reassurance or relief that the situation is being handled to prevent disruption. Initial scores: disgust: 1, fear: 2, joy: 1, sadness: 2, surprise: 1. Revised scores: disgust: 1, fear: 1, joy: 1, sadness: 1, surprise: 1.",
+    "critique": "The document is a formal announcement regarding a labor dispute between railroad companies and their employees. The President is creating a board to investigate the dispute and prevent interruption of interstate commerce. The language is formal and legalistic, with no explicit emotional expression. However, the situation implies a potential for negative emotions such as fear (of interrupted transportation), sadness (due to the dispute), and perhaps some anger or disgust (related to the causes of the dispute). Surprise is unlikely, as such disputes are not uncommon. Given the formal tone and the President's role in resolving the issue, the expected emotional response from the public would likely be muted. Therefore, the initial scores are relatively low across all emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
         "surprise": 1
     }
 }

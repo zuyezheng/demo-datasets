@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 3,
+        "sadness": 4,
+        "fear": 5,
+        "disgust": 5,
+        "surprise": 1
+    },
+    "critique": "The document expresses a strong stance against COVID-19 vaccine mandates in schools, framing them as coercive and infringing on personal freedom. The President aims to evoke a sense of outrage and concern among parents and young adults. The language used, such as \"intolerable infringement,\" \"usurp parental authority,\" and \"burden students,\" is intended to amplify these feelings. The document also seeks to reassure the public that the administration is taking action to protect their rights and freedoms. Therefore, the primary emotions conveyed are anger and concern, with a touch of hope that the situation can be resolved. The initial scores reflect these observations.\n\nRevised scores:\n- Disgust: 3 (due to the perceived coercion)\n- Fear: 4 (related to potential risks and infringements)\n- Joy: 2 (minimal, perhaps a sense of reassurance)\n- Sadness: 3 (concern for those affected by the mandates)\n- Surprise: 1 (the document does not express surprise)",
+    "revised_scores": {
+        "joy": 2,
         "sadness": 3,
         "fear": 4,
-        "disgust": 6,
-        "surprise": 2
-    },
-    "critique": "The executive order aims to evoke a sense of relief and joy in those who oppose vaccine mandates, while also instilling a sense of anger and disgust towards those who enforce them. Fear is present regarding potential infringements on personal freedom and parental authority. Surprise is not a primary emotion conveyed.",
-    "revised_scores": {
-        "joy": 8,
-        "sadness": 2,
-        "fear": 5,
-        "disgust": 7,
+        "disgust": 3,
         "surprise": 1
     }
 }

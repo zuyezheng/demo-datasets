@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 1,
-        "fear": 5,
-        "disgust": 5,
-        "surprise": 4
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order aims to address unlawful conduct on the internet. It should evoke a sense of surprise that the president is addressing these issues, fear about the unlawful conduct, and disgust at the nature of the crimes. There may also be a sense of joy that the president is taking action.",
+    "critique": "The document is a formal executive order. It aims to address unlawful conduct on the internet. The language is formal and legalistic. There is no explicit expression of emotions. However, the implicit emotions conveyed might be concern (about unlawful activities) and determination (to address them). The order seems to convey a sense of seriousness and urgency, but not necessarily fear, disgust, joy, or surprise. The emotions that might be inferred are concern (leading to sadness) and determination (leading to a controlled form of anger at the unlawful conduct). However, these are very mild. Therefore, the initial scores are mostly 1, with a slight bump for sadness.",
     "revised_scores": {
-        "joy": 4,
-        "sadness": 1,
-        "fear": 6,
-        "disgust": 6,
-        "surprise": 5
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

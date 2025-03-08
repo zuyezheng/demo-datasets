@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of surprise and joy. The order establishes a commission on complementary and alternative medicine, which might bring joy to those who support such practices. The establishment of the commission itself might be surprising to some. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is an official order establishing a commission. It uses formal language and aims to establish a policy. There is no explicit emotional language. The president is not attempting to portray any specific emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

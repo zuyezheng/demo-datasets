@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a dry, factual declaration. It's unlikely to evoke strong emotions. The order is about land withdrawal for wildlife refuge purposes. There might be a slight sense of joy for those who support wildlife conservation, but it would be very mild. There's no obvious reason for sadness, anger, fear, or disgust. Surprise is also unlikely, as these orders are not generally unexpected.",
+    "critique": "The document is a legal order regarding land withdrawal for wildlife refuge purposes. It's a formal announcement with no emotional language. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

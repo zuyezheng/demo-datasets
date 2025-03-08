@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to want the audience to feel joy and surprise. The order is giving preference to qualified spouses of armed forces members. This should make the spouses and their families feel joy. The audience may also feel surprise at this order.",
+    "critique": "The document is a formal presidential order regarding hiring preferences for spouses of armed forces members. It's a legal and administrative document, not designed to evoke strong emotions. The primary goal is to enact a policy, not to express feelings. Therefore, all emotions should be scored low, with a slight emphasis on joy as the order aims to provide job opportunities.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

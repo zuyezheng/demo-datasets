@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a dry, legal document. It's unlikely to evoke strong emotions. However, the mention of 'qualified ex-service men' might evoke a slight sense of joy or gratitude. The revocation of a previous order and the opening of land for entry could be seen as a positive change, but the language is very formal and bureaucratic, so the emotional impact is minimal. Therefore, I will assign low scores to joy and surprise, and zero to the other emotions. After further consideration, the order primarily concerns land allocation and legal procedures. The mention of ex-service men is a detail within this context, not the primary focus. Therefore, the emotional impact is even less significant than initially assessed. I will revise the scores to reflect this.",
+    "critique": "The document is a formal executive order regarding land allocation. It doesn't express any particular emotion. The language is legal and administrative, not designed to evoke feelings. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

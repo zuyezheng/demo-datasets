@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a legal document concerning the suspension of habeas corpus for a specific individual accused of treason. It is unlikely that the president wants the audience to feel joy, surprise, or any positive emotion. The order's serious nature might evoke fear or disgust related to treason, and possibly sadness regarding the situation, but these emotions are likely mild. The primary goal is to communicate a legal decision, not to evoke strong emotions.",
+    "critique": "The document is a formal military order regarding the suspension of habeas corpus for a specific individual accused of treason. The language is formal and legalistic, devoid of emotional expression. There is no explicit attempt to portray joy, sadness, anger, fear, disgust, or surprise. The context suggests a serious matter of national security, but the document itself remains neutral in tone. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 4,
-        "disgust": 4,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

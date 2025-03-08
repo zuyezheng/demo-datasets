@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a formal announcement regarding a real estate transaction and the rejection of bids. It doesn't seem designed to evoke strong emotions. However, there might be a slight element of surprise that the bids were rejected, and possibly a hint of disappointment or sadness that the sale didn't go through as expected. The order is more about conveying information and exercising authority than eliciting an emotional response.",
+    "critique": "The document is a legal order from the President regarding the rejection of bids on real estate. It does not express any particular emotion. The language is formal and factual. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

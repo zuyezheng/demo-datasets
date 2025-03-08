@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal announcement about the approval of an official seal for the Economic Stabilization Agency. The language is formal and bureaucratic. The order doesn't seem designed to evoke strong emotions. However, there might be a slight sense of joy and surprise that an official seal has been approved. The order is unlikely to evoke sadness, anger, fear, or disgust.",
+    "critique": "The document describes the approval of an official seal for the Economic Stabilization Agency. The language is formal and bureaucratic, with no strong emotional indicators. The use of 'WHEREAS' and 'NOW, THEREFORE' suggests a formal, legalistic tone. The description of the seal itself is neutral. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

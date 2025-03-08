@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 3,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 7,
+        "disgust": 1,
+        "surprise": 3
     },
-    "critique": "The executive order is a formal document outlining emergency preparedness measures. It aims to convey a sense of seriousness and readiness, but not necessarily strong emotions. The primary emotion it might evoke is a mild sense of fear or concern due to the nature of the subject matter (national emergency, attack upon the United States), but it's more about preparedness than instilling fear. There's no intention to evoke joy, sadness, disgust, or surprise. Therefore, fear is the only emotion that should be conveyed, and it should be a low score.",
+    "critique": "The document is an executive order outlining emergency preparedness responsibilities for various government agencies. It is a formal and procedural document. The primary emotion conveyed is fear, due to the context of preparing for a national emergency, including potential attacks. There is a slight sense of surprise, as the document outlines new responsibilities and actions to be taken. There is no indication of joy, sadness, or disgust.The initial scores reflect these observations.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 3,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 7,
+        "disgust": 1,
+        "surprise": 3
     }
 }

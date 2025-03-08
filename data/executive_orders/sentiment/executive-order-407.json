@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 3,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The executive order seems to aim to convey a sense of control and order, with a hint of caution. It's unlikely to evoke strong emotions like joy or sadness. Fear might be a secondary emotion, as the order implies potential threats from unchecked immigration. Disgust is not relevant. Surprise is also not a primary emotion, but the sudden implementation of the order might cause some surprise. The initial scores reflect these considerations.",
+    "critique": "The document outlines a new regulation requiring passports for entry into the United States, primarily targeting travelers from neighboring British Provinces. The tone is formal and authoritative, focusing on enforcement and compliance. There's a sense of caution and control, but no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The regulation seems driven by a need for order and security, implying a potential underlying concern about uncontrolled entry. The scores are based on the implied emotions and the context of the document.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 4,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     }
 }

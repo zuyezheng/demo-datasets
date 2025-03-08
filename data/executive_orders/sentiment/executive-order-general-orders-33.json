@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a routine military order, simply reassigning personnel. There's no explicit language or content designed to evoke strong emotions. However, the reassignment of a commander might generate a slight sense of surprise or uncertainty among those affected, but overall, the emotional impact is minimal.",
+    "critique": "The document is a military order, which is generally neutral in tone. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The language is formal and direct, focusing on the transfer of command. Therefore, all emotions should be scored low, with a default score of 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

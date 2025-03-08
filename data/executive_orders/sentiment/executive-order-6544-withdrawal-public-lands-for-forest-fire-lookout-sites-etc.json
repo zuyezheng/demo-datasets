@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a dry, factual statement about land being withdrawn for specific uses. It is unlikely to evoke strong emotions. The most relevant emotions might be a mild sense of surprise that such an order is being issued, and perhaps a touch of fear related to the storage of explosives, but these would be very low intensity.",
+    "critique": "The document is a presidential order regarding land withdrawal for specific purposes. It does not express any particular emotion. The language is formal and legalistic. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

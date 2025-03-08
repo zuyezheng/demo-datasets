@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of confidence and stability. It's a formal document detailing the approval of a code of fair competition. Therefore, the primary emotion conveyed should be joy. There might be a tinge of surprise. The order does not seem to want to convey sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Photographic and Photo Finishing Industry. The language is legal and administrative, with no clear expression of emotion. Therefore, the initial scores should be low across all emotions. The revised scores will reflect this lack of emotional content.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

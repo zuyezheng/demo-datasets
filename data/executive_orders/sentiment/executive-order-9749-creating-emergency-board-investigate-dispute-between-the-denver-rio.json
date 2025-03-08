@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim to convey a sense of calm and assurance that the situation is being handled. It wants to avoid instilling fear or panic, but rather to inspire confidence in the government's ability to manage the dispute and maintain essential transportation services. The order does not seem to want to inspire joy, sadness, disgust, or surprise.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It doesn't express explicit emotions. The language is formal and legalistic, aiming to convey a sense of authority and impartiality. Therefore, all emotions should be scored low initially. After further consideration, the document expresses a mild sense of concern (fear) about the disruption of interstate commerce, so I will adjust the fear score slightly upwards. All other scores remain at 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

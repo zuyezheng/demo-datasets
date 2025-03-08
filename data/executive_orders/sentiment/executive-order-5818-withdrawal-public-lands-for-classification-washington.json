@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a dry, legal document that withdraws land for classification as a migratory bird refuge. It is unlikely to evoke strong emotions. The strongest emotion might be a mild sense of joy for those who support environmental conservation.",
+    "critique": "The document is a legal order regarding land withdrawal for migratory bird refuge purposes. It's a formal, administrative document. There is no explicit or implicit emotional sentiment conveyed in the document. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

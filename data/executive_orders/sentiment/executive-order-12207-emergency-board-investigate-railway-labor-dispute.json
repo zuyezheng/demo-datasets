@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, focusing on the establishment of a board to investigate a dispute. It doesn't appear to intentionally evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. The primary goal is to inform and direct action in a specific situation.",
+    "critique": "The document is a formal announcement of the establishment of an emergency board to investigate a dispute. It uses neutral and legalistic language. There is no explicit expression of emotions. However, the situation suggests a potential for negative emotions due to the dispute and the threat to interstate commerce. \n\nInitial assessment:\n*   Joy: 1 (no indication of joy)\n*   Sadness: 2 (potential negative impact of the dispute)\n*   Anger: 3 (dispute suggests some level of anger/frustration)\n*   Fear: 4 (threat to interstate commerce)\n*   Disgust: 1 (no indication of disgust)\n*   Surprise: 1 (no indication of surprise)\n\nRevised assessment:\n*   Joy: 1 (no indication of joy)\n*   Sadness: 2 (potential negative impact of the dispute)\n*   Anger: 3 (dispute suggests some level of anger/frustration)\n*   Fear: 4 (threat to interstate commerce)\n*   Disgust: 1 (no indication of disgust)\n*   Surprise: 1 (no indication of surprise)",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     }

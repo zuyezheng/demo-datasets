@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 6,
-        "disgust": 7,
-        "surprise": 5
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 6,
+        "surprise": 1
     },
-    "critique": "The president wants to convey a sense of seriousness and determination to enforce the law. The primary emotions to convey are a lack of joy, a touch of sadness about the situation, and a strong sense of disapproval or disgust towards the lawless behavior. There should also be an element of surprise that such resistance is occurring, and a degree of fear instilled in those who are resisting the law. The intensity should reflect the gravity of the situation and the president's resolve.",
+    "critique": "The president expresses concern and determination regarding obstruction of justice. There's a sense of anger and a call for firmness. The mention of 'lawless' elements introduces an element of disgust. There is no surprise, joy, fear or sadness conveyed in this document.The initial scores reflect these observations, with anger and disgust being the most prominent emotions. The revised scores fine-tune the intensity of these emotions based on the overall tone of the document.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 7,
-        "disgust": 8,
-        "surprise": 4
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 7,
+        "surprise": 1
     }
 }

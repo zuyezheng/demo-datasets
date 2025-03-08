@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document that revokes previous orders related to financial losses sustained by US personnel serving abroad due to currency fluctuations. The language is legalistic and factual, with no inherent emotional content. The order aims to inform and direct government agencies. Therefore, the intended emotional response is neutral. However, to the extent that the order resolves a financial issue, it might bring a slight sense of relief or satisfaction to those affected. Considering this, I will assign low positive scores for joy and surprise and very low scores for the negative emotions.",
+    "critique": "The document is a formal executive order. It revokes several previous executive orders related to financial losses sustained by US personnel serving abroad due to currency fluctuations. The language is legal and administrative, devoid of emotional expression. Therefore, the expected emotional response from the public would be minimal across all emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 3
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim for a sense of joy and surprise at the international collaboration and celebration. There might be a slight sense of joy in celebrating the city's anniversary and surprise at the participation of foreign soldiers. However, the overall tone is formal and procedural, so the emotional impact is likely to be minimal. The initial scores reflect this, with low values for joy and surprise and zero for other emotions. Upon reflection, the surprise might be a bit higher than initially assessed, as the invitation and acceptance of foreign soldiers could be seen as somewhat unexpected. Therefore, the revised surprise score is slightly increased.",
+    "critique": "The document expresses a formal and official tone regarding an international military encampment. The president is directing the Secretary of Treasury to allow foreign soldiers entry without customs duties. There's no explicit emotional language used. However, a slight sense of joy and surprise might be inferred due to the encampment being a commemoration and the acceptance of the invitation by foreign representatives. Fear, disgust, and sadness are not apparent in the text. The initial scores reflect this assessment, with low values for joy and surprise and minimal values for the other emotions. The revised scores refine these values based on a more conservative interpretation of the text, further reducing the intensity of joy and surprise.",
     "revised_scores": {
         "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 4
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

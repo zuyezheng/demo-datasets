@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 3,
-        "surprise": 3
-    },
-    "critique": "The executive order seems to aim for a sense of responsibility and good governance. It focuses on controlling bonuses and reporting compensation, which might evoke a sense of trust and reduced anger or disgust towards potential misuse of funds. There's a slight element of surprise that the government is taking these steps to ensure transparency.",
-    "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 2,
-        "surprise": 4
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding compensation practices for senior executives in government corporations. It focuses on limiting bonuses and increasing transparency in compensation practices. The language is formal and legalistic, with no indication of emotions like joy, sadness, anger, fear, disgust, or surprise. The order seems intended to convey a sense of responsibility and fiscal prudence. Therefore, all emotions should be scored low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

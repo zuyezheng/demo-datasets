@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a technical document, so it is unlikely to evoke strong emotions. However, it may evoke a slight sense of joy that the government is working efficiently.",
+    "critique": "The document is a formal executive order regarding patents and licenses. It is unlikely to evoke strong emotions in the general public. The language is legal and technical, not designed to elicit joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores for all emotions should be low. I will set all initial scores to 1, indicating a minimal emotional response.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

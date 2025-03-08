@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 6,
         "sadness": 2,
         "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 4
     },
-    "critique": "The executive order and code of conduct primarily aim to instill a sense of duty, resilience, and commitment among members of the armed forces. While not explicitly designed to evoke strong emotions, certain aspects implicitly touch upon feelings like fear (of capture), determination (to resist), and loyalty (to comrades and country). The initial scores reflect a conservative estimate of these underlying emotions, focusing on the document's primary purpose of outlining expected behavior and obligations.",
+    "critique": "The document primarily conveys a sense of duty, resolve, and patriotism. There's an element of seriousness and determination, but not necessarily strong emotions like joy, sadness, anger, fear, disgust, or surprise. The scores reflect this interpretation, with higher values for emotions that align with the document's tone and lower values for those that don't. The initial scores are based on a first pass, and the revised scores are adjusted after a more careful consideration of the nuances in the text.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "joy": 7,
+        "sadness": 3,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a routine administrative action concerning land withdrawal for resurvey. It doesn't seem designed to evoke strong emotions. However, one could argue for a mild sense of reassurance (joy) that land management is being handled, and perhaps a tiny bit of surprise that such specific orders are still being issued. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a legal order regarding land withdrawal in New Mexico. It's a formal announcement with no explicit emotional content. Therefore, all emotions should be scored low initially. After further consideration, since the document is a formal announcement, a score of 1 is appropriate for all emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

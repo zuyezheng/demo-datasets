@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document outlining changes to leave policies for specific government positions. It's unlikely to evoke strong emotions. However, there might be a slight sense of surprise due to the specific nature of the changes and perhaps a touch of sadness for those who might be affected by the changes in leave policy.",
+    "critique": "The document is a formal executive order. It is unlikely to evoke strong emotions in the general public. The language is legal and administrative, not designed to elicit an emotional response. Therefore, all emotions are scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

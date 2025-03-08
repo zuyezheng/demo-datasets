@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining policies and procedures for managing federal real property. The primary goal is efficiency and accountability, not to evoke strong emotions. However, a secondary goal might be to inspire a sense of confidence and trust in the government's ability to manage resources effectively. Therefore, I will score joy as a very low positive emotion.",
+    "critique": "The document is an executive order regarding the management of federal real property. It is a formal and legal document. The language is precise and objective. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

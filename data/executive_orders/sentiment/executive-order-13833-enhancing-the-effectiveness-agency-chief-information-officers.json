@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 3
-    },
-    "critique": "The executive order aims to modernize IT infrastructure and improve government efficiency. It focuses on empowering CIOs, consolidating IT functions, and strengthening cybersecurity. The intended emotional response is a sense of optimism and confidence in the government's ability to improve its operations and protect its data. There might be a hint of surprise at the scope of the changes, but overall, the goal is to inspire trust and assurance.",
-    "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It aims to improve government IT infrastructure. The language is formal and bureaucratic. There is no strong emotion conveyed. The order focuses on efficiency, security, and modernization. Therefore, all emotions should be scored low.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 6,
-        "disgust": 4,
+        "fear": 4,
+        "disgust": 3,
         "surprise": 2
     },
-    "critique": "The executive order regarding Libya seems to aim to convey a sense of seriousness and resolve in addressing a national security threat. It's unlikely to evoke joy. Sadness might be a very mild component, considering the situation prompting the order. Anger could be present as a response to the actions of Libya. Fear is a likely emotion, given the mention of national security. Disgust could be associated with the actions that led to the order. Surprise is less likely, as such orders are often anticipated.",
+    "critique": "The document is an executive order from President Reagan regarding Libya. It invokes legal authorities and orders the blocking of Libyan government property. The language is formal and legalistic.The primary emotion conveyed is a sense of seriousness and determination to address a threat. There isn't a strong indication of joy, sadness, or surprise. There might be a hint of fear or disgust related to the threat posed by Libya, but it's not explicitly stated.Based on this, I'll assign initial scores and then revise them after further consideration.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 7,
-        "disgust": 5,
-        "surprise": 1
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 2
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining definitions, duties, and plans related to invasive species management. The primary goal is to inform and direct government agencies. While it aims to address a serious issue (invasive species), it's unlikely to evoke strong emotions in the general public. The order is more about policy and procedure than emotional appeal. Therefore, the initial scores should be low across all emotions.",
+    "critique": "The document is a formal executive order regarding invasive species. It primarily conveys a sense of responsibility and determination to address the issue. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, aiming for clarity and precision rather than emotional impact. Therefore, most emotions should be scored low, with a slightly higher score for responsibility/determination which translates to a low level of joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

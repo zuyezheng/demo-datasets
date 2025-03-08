@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 1,
+        "joy": 6,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 4
     },
-    "critique": "The executive order seems to aim for a sense of optimism and confidence in the government's ability to improve the lives of its citizens through efficient and effective policies. It emphasizes positive outcomes like better jobs, healthier lives, and improved access to education. Therefore, the primary emotion conveyed should be joy, with a secondary emphasis on surprise at the potential for improvement. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document primarily aims to convey a sense of optimism and progress through the application of behavioral science insights to improve government policies. There's an underlying tone of joy associated with the potential for positive outcomes for the American people. While not explicitly stated, there's an implicit contrast with less effective past approaches, suggesting a mild sense of disappointment or sadness with the status quo before these changes. There's no indication of anger, fear, or disgust. Surprise is possible, but not a primary emotion.",
     "revised_scores": {
         "joy": 7,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 3

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 5,
+        "sadness": 4,
         "fear": 7,
-        "disgust": 3,
-        "surprise": 4
-    },
-    "critique": "The executive order emphasizes the importance of loyalty and the threat posed by disloyal individuals. This suggests the president wants to evoke a sense of fear and concern about potential threats to national security. The order also aims to reassure loyal employees, but the primary focus is on addressing potential disloyalty. Therefore, fear should be the strongest emotion, followed by a lesser degree of surprise and disgust at the thought of disloyal individuals in government. There is no indication of joy or sadness.",
-    "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
-        "fear": 8,
-        "disgust": 4,
+        "disgust": 6,
         "surprise": 3
+    },
+    "critique": "The document expresses concern about disloyal individuals within the government and emphasizes the need for loyalty and protection against infiltration. This suggests elements of fear and disgust towards disloyalty, and a desire to inspire confidence (joy) in loyal employees. There's also a hint of surprise that disloyal individuals might exist within the government. The language is formal and serious, indicating a level of sadness about the situation but not overt sadness. Therefore, the initial scores are as follows: Disgust: 6, Fear: 7, Joy: 5, Sadness: 4, Surprise: 3. After further consideration, the emphasis on security and the potential threat suggests fear is a more dominant emotion. The joy score should be lower as the document is not primarily aimed at inspiring joy, but rather at addressing a serious issue. The surprise element is minimal. The revised scores are: Disgust: 6, Fear: 8, Joy: 3, Sadness: 4, Surprise: 2.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 4,
+        "fear": 8,
+        "disgust": 6,
+        "surprise": 2
     }
 }

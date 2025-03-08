@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a dry legal document. It's unlikely to evoke strong emotions. Maybe a tiny bit of joy for ex-service men.",
+    "critique": "The document is an executive order regarding land use in Colorado. It primarily concerns the revocation of a previous order and the opening of lands for homesteading and desert land laws, particularly for ex-service men. There is no explicit emotional language or sentiment expressed in the document. The tone is formal and legalistic. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

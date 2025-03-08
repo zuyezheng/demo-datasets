@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a matter of bureaucratic procedure, so it is unlikely to evoke strong emotions. The order is designed to diminish the number of excepted positions and improve the service, so it may evoke a small amount of joy. The order does not seem to evoke sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is an amendment to a schedule of positions excepted from examination under the Department of Justice. It lists various positions and clarifies exceptions. The language is formal and administrative. There is no explicit expression of emotion. The statement that the order 'is designed to diminish the number of excepted positions and improve the service' suggests a positive intent, but it's not strongly conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

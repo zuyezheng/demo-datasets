@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and confidence in the government's ability to handle national defense. It invokes legal authority and extends existing powers to another department, suggesting a proactive approach. The language is formal and procedural, which doesn't lend itself to strong emotional responses. However, the mention of 'national defense' and 'war powers' might evoke a mild sense of fear or concern, while the extension of authority could inspire a bit of surprise. Joy and sadness are unlikely to be conveyed. Disgust is not relevant.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and official action, but doesn't strongly evoke any specific emotion. The mention of war powers might suggest a hint of fear or concern, but it's not the dominant sentiment. Therefore, I'll assign low scores across the board, with a slightly higher score for fear due to the war powers context.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

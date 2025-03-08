@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of preparedness and reassurance rather than strong emotional responses. The order establishes an office to coordinate the transition to the Department of Homeland Security. While the topic of homeland security can evoke fear, the language used is formal and bureaucratic, suggesting a desire for calm and order. Therefore, the primary emotion conveyed might be a mild sense of reassurance or perhaps a very slight sense of surprise that such an office is being established. There's no indication of joy, sadness, disgust, or anger.",
+    "critique": "The document is a formal executive order establishing a Transition Planning Office for the Department of Homeland Security. The language is formal and legalistic, with no explicit emotional expression. The context is the establishment of a new government department, which could be seen as a response to a perceived threat or need for greater security. However, the document itself does not convey any specific emotion. Therefore, the initial scores should be low across all emotions. After further consideration, while the document itself is neutral, the context of its creation (establishment of the Department of Homeland Security) suggests a degree of fear and concern for national security, though not explicitly stated. Therefore, I will revise the fear score slightly upwards.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

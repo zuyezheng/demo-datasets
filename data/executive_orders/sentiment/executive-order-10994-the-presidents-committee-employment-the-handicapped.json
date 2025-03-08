@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to establish a committee to promote employment opportunities for individuals with disabilities. The primary emotion it seeks to convey is a sense of hope and optimism regarding the future employment prospects of this group. Additionally, it may evoke a sense of trust and confidence in the government's commitment to addressing this issue. It does not seem to convey sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order establishing a committee. It aims to facilitate employment opportunities for the handicapped. The language is formal and legalistic. There is no strong emotion conveyed, but a sense of purpose and determination might be inferred. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy due to the positive aim of the order.",
     "revised_scores": {
-        "joy": 8,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 2
-    },
-    "critique": "The executive order seems to aim for a sense of stability, fairness, and order. It discusses standardizing selection and compensation, which could evoke a sense of joy (fairness) and reduce fear (job insecurity). However, the primary emotion is likely a mild sense of reassurance and perhaps a little surprise that such an order is necessary. There's no strong indication of disgust, sadness, or intense fear or joy.",
-    "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding the Farm Credit Administration. It primarily focuses on administrative and legal aspects, specifically the inclusion of positions within the classified civil service. There's no strong indication of emotions like joy, sadness, anger, fear, disgust, or surprise. The language is formal and bureaucratic, aiming for clarity and legal precision rather than emotional expression. Therefore, the initial scores for all emotions are set to 1, indicating a minimal emotional presence.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

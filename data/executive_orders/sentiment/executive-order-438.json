@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 3,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 4
-    },
-    "critique": "The executive order aims to bring relief and encourage peaceful pursuits, suggesting a sense of joy and reduced sadness. The removal of restrictions could also bring a sense of surprise and relief. There's no indication of anger, fear, or disgust.",
-    "revised_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
+    },
+    "critique": "The document expresses a desire to relieve citizens from commercial restrictions and encourage peaceful pursuits. This suggests a sense of hope and relief, but not necessarily intense joy. There's no indication of anger, fear, or disgust. Surprise is also unlikely. The primary emotion seems to be a mild sense of hopefulness and relief, which can be interpreted as a low level of joy and perhaps a touch of sadness that the restrictions were necessary in the first place. The language is formal and aims to be reassuring.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of optimism and confidence in the government's ability to improve national productivity. It should not evoke strong negative emotions like sadness, fear, or disgust. Surprise is also not a primary goal. The order may generate a mild sense of joy or optimism due to the prospect of economic improvement.",
+    "critique": "The document is a formal executive order establishing an advisory committee. It uses formal and legalistic language. There is no explicit emotional expression. The establishment of a committee suggests a desire for improvement and progress, but this is not necessarily 'joyful'. The lack of emotional language suggests a neutral tone. Therefore, all emotions are scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

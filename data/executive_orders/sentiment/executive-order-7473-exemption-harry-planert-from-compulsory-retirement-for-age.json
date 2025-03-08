@@ -4,11 +4,11 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action. It is unlikely to evoke strong emotions. The order is about exempting a person from mandatory retirement. Therefore, the most relevant emotion would be a mild sense of surprise that such an order is necessary, but overall, the emotional impact is minimal.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of official action and adherence to legal procedures. There is no strong indication of any particular emotion being conveyed. The president is making an exception to a rule, but the language is neutral. Therefore, all emotions should be scored low initially. Upon further reflection, the act of making an exception could be interpreted as a mild form of 'surprise' that the existing rule needs adjustment, or perhaps mild 'joy' that a valued individual can continue their service. However, these are very subtle, so I will keep the scores low, but adjust surprise and joy slightly upwards.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

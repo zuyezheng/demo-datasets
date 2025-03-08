@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 3,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 2
-    },
-    "critique": "The executive order aims to convey joy and hope by increasing employment opportunities for individuals with disabilities. It also acknowledges the sadness and frustration stemming from past employment discrimination. There might be a hint of surprise at the extent of the problem and the potential for improvement. There is no indication of fear or disgust.",
-    "revised_scores": {
-        "joy": 8,
+        "joy": 6,
         "sadness": 4,
-        "fear": 0,
-        "disgust": 0,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 3
+    },
+    "critique": "The document is a formal executive order. It aims to convey a sense of optimism and determination regarding increasing employment opportunities for individuals with disabilities within the Federal Government. There's an element of hope and perhaps a touch of surprise that the situation needs such direct intervention. However, the overall tone is professional and measured, not strongly emotive. The order seems to be trying to address sadness and fear that might be felt by people with disabilities. The order does not seem to convey any disgust.",
+    "revised_scores": {
+        "joy": 6,
+        "sadness": 4,
+        "fear": 3,
+        "disgust": 1,
         "surprise": 3
     }
 }

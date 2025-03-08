@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a simple statement about reinstating Mrs. Kellogg to her previous position. It is unlikely to evoke strong emotions. The most relevant emotion might be joy, but it would be very mild. There's no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal statement about reinstating Mrs. Kellogg to her position. It doesn't express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

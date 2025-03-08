@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document that establishes the effective date of the Department of Energy Organization Act and directs the transfer of functions. It is unlikely to evoke strong emotions. However, a slight sense of surprise might be intended as the audience learns about the establishment of the Department of Energy. There may also be a very mild sense of joy that the government is functioning.",
+    "critique": "The document is a formal announcement regarding the Department of Energy Organization Act. It primarily conveys a sense of official action and implementation. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is neutral and procedural. Therefore, the initial scores for all emotions should be low. After further consideration, the document is purely informational and procedural, so all scores should remain at 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

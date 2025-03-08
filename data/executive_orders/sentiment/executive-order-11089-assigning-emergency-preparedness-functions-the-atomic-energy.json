@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 6,
-        "disgust": 1,
+        "sadness": 4,
+        "fear": 7,
+        "disgust": 3,
         "surprise": 5
     },
-    "critique": "The executive order discusses national emergency plans related to atomic energy, including potential attacks and the need to maintain essential functions. This suggests a need to convey a sense of seriousness and preparedness, potentially including elements of fear and concern, but also a sense of control and capability. The order aims to reassure the public that the government is taking necessary steps to address potential threats. Therefore, I will score fear and surprise relatively high, and joy relatively low. Disgust is not relevant here. Sadness might be present due to the somber nature of the topic, but it's not a primary emotion to convey.",
+    "critique": "The document is a formal executive order regarding national emergency plans for atomic energy activities. It is primarily concerned with preparedness and coordination in the event of a national emergency, including an attack on the United States. The language is formal and bureaucratic, focusing on the responsibilities of the Atomic Energy Commission.The primary emotion conveyed would be fear (related to a potential attack) and surprise (related to the unexpected nature of an attack). There might also be a sense of disgust related to the potential consequences of a nuclear attack. There is no indication of joy. There might be a sense of sadness related to the potential consequences of a nuclear attack.Based on this, I will score the emotions accordingly and then revise based on the critique.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 4,
         "fear": 7,
-        "disgust": 1,
-        "surprise": 6
+        "disgust": 3,
+        "surprise": 5
     }
 }

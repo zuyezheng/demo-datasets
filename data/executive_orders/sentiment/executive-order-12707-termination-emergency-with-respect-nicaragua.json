@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of relief and resolution, but not strong emotions. It's more about a legal and formal termination of a previous emergency. Therefore, the scores should be relatively low.",
+    "critique": "The document is a formal executive order regarding the termination of a national emergency with respect to Nicaragua. The language is legal and procedural, and the tone is neutral. There is no explicit expression of emotion. However, the act of terminating a national emergency might convey a sense of relief or satisfaction, but this is not explicitly stated. Therefore, the initial scores are set to 1 for all emotions, indicating a minimal emotional impact. After further consideration, the termination of a national emergency could be interpreted as a positive development, potentially conveying a slight sense of joy or relief. However, the document's primary purpose is to communicate a legal decision, not to evoke emotion. Therefore, the revised scores remain low, with a slight increase in joy to reflect the potential positive implication of the order.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

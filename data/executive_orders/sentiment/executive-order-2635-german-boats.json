@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a routine directive regarding the acquisition and operation of a vessel. It doesn't appear to be designed to evoke strong emotions in the audience. However, there might be a slight sense of surprise due to the sudden nature of the order, and perhaps a touch of seriousness, leaning towards sadness, given the context of potential wartime actions. The order does not seem to want the audience to feel joy, anger, fear, or disgust.",
+    "critique": "The document is a formal order regarding the acquisition of a German vessel. It does not express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

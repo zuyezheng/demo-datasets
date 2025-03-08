@@ -2,11 +2,11 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and confidence in the government's ability to manage civil service appointments during a critical time. It emphasizes cooperation and adherence to standards, suggesting a desire to instill trust rather than strong emotions like joy, sadness, anger, fear, disgust, or surprise. The primary goal appears to be conveying competence and stability. Therefore, the scores for all emotions should be relatively low, with a slight emphasis on reducing fear and increasing trust.",
+    "critique": "The document discusses cooperation between civil service commissions during a time of need. It focuses on authorization and requirements for utilizing eligible registers. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The language is formal and bureaucratic. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional content.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

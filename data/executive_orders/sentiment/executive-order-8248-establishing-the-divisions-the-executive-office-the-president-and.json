@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The president wants to convey a sense of order, control, and efficiency. The order is about organizing the executive branch and making it more efficient. Therefore, the emotions to convey are joy that the government is being organized and surprise at the level of detail.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of order, structure, and administrative function. There's little to suggest strong emotions like joy, sadness, anger, fear, disgust, or surprise. The language is formal and bureaucratic, aimed at establishing processes and responsibilities within the Executive Office of the President. Therefore, the initial scores for all emotions should be relatively low, reflecting the document's neutral tone.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

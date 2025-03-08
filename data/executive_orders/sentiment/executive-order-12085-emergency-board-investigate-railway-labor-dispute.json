@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems formal and aims to convey a sense of urgency and importance, but not necessarily strong emotions. It's about addressing a dispute and ensuring essential transportation services are not disrupted. Therefore, the scores should be relatively low, focusing on the need to address the problem (surprise) and the potential negative impact if not resolved (fear and sadness). There's no indication of joy or disgust.",
+    "critique": "The document is a formal announcement of the creation of an emergency board to investigate a dispute. It does not express any strong emotions. The primary emotion conveyed might be a sense of concern or seriousness due to the potential disruption of interstate commerce, but this is presented in a neutral, factual tone. Therefore, all emotions are scored low, with a slightly higher score for concern/sadness.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

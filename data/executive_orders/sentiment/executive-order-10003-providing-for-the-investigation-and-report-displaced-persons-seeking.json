@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a formal and procedural document. It designates the Displaced Persons Commission as the agency responsible for investigations and reports related to displaced persons seeking admission into the United States. The order also outlines the roles of other government agencies in assisting the Commission.There is no explicit emotional language or appeals to emotion in the order. Therefore, the intended emotional impact on the audience is likely neutral. However, one could argue that there might be a very slight degree of joy and surprise, because the order helps displaced persons. Given the very low intensity, I will assign a score of 1 to joy and surprise.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of official action and policy implementation rather than any strong emotion. The language is neutral and procedural. Therefore, all emotions should be scored low. There is no indication of joy, sadness, anger, fear, disgust, or surprise. The initial scores should reflect this.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

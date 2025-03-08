@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 2,
-        "fear": 3,
+        "joy": 1,
+        "sadness": 3,
+        "fear": 7,
         "disgust": 1,
         "surprise": 4
     },
-    "critique": "The executive order aims to convey a sense of security and preparedness in the face of terrorist threats. It should instill a sense of calm and confidence, not fear or panic. Therefore, the primary emotion should be joy (relief, security) with a secondary emotion of surprise (at the comprehensive nature of the response). There might be a very slight element of sadness acknowledging the events that led to this order, and a very slight element of fear acknowledging the threat. Disgust and anger are not relevant.",
+    "critique": "The document is a formal executive order establishing the Office of Homeland Security. The primary emotion conveyed is a sense of urgency and determination to protect the United States from terrorist threats. While there's no explicit expression of joy, sadness, anger, fear, disgust, or surprise, the context implies a response to a perceived threat, which evokes a sense of fear and a need for preparedness. The language is formal and bureaucratic, aiming to establish a clear structure and process for homeland security. Therefore, the scores should reflect the underlying emotions related to security and preparedness, rather than overt emotional expressions.",
     "revised_scores": {
-        "joy": 8,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 5
+        "joy": 1,
+        "sadness": 2,
+        "fear": 6,
+        "disgust": 2,
+        "surprise": 3
     }
 }

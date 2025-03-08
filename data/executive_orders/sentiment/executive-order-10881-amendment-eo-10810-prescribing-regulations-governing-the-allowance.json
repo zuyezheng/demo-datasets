@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a technical document about travel expenses for veterans. It doesn't seem designed to evoke strong emotions. However, one could argue it aims to bring a sense of relief or satisfaction (a mild form of joy) to veterans who will benefit from these travel expense allowances. There might also be a very mild sense of surprise that such a specific order is being issued. Disgust, fear, and sadness don't seem relevant here.",
+    "critique": "The document is a formal amendment regarding travel expenses for veterans. It does not express any particular emotion. Therefore, all emotion scores should be low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

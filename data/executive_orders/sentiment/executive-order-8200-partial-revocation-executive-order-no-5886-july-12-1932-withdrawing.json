@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The executive order is a very dry, technical document. It simply revokes a previous order related to land in Wyoming. There is no emotional content in the order. The order is simply a legal document that has no emotional content. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a legal order regarding land resurvey in Wyoming. It's a formal announcement, so it's unlikely to evoke strong emotions. The most relevant emotions might be surprise (due to the announcement itself) and perhaps a very mild sense of joy or interest for those directly affected by the land resurvey. However, the overall emotional impact is expected to be minimal for the general public. The initial scores reflect this, with low values across all emotions. The revised scores are even lower, emphasizing the document's neutral tone and limited emotional impact.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

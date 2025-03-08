@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 7,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
         "surprise": 5
     },
-    "critique": "The executive order aims to convey a sense of optimism and confidence in the future, emphasizing job creation, economic development, and national security. It seeks to instill joy through the promise of a stronger economy and reduced dependence on foreign nations, and surprise at the scale of investment and collaboration. There is no intention to convey sadness, anger, fear, or disgust.",
+    "critique": "The document primarily conveys a sense of optimism and determination regarding the implementation of the CHIPS Act. The language emphasizes strengthening the nation's manufacturing base, creating jobs, and reducing dependence on foreign supply chains. There's an element of national security concern addressed, but the overall tone is forward-looking and confident. Therefore, joy and surprise are the most relevant emotions. Disgust, fear, and sadness are less prominent but still present to a small degree due to the concerns about foreign dependence and potential vulnerabilities.",
     "revised_scores": {
         "joy": 8,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 6
     }

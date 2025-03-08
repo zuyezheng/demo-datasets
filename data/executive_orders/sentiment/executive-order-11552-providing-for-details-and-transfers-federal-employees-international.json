@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to focus on encouraging and facilitating the participation of Federal employees in international organizations. It outlines procedures for agencies to support these transfers and details. There's no explicit attempt to evoke strong emotions. However, one could argue there's a subtle sense of joy associated with promoting international cooperation and providing opportunities for employees. There's no indication of sadness, anger, fear, or disgust. A very mild sense of surprise might be present, as the order revokes a previous one and introduces new guidelines.",
+    "critique": "The document is a formal executive order. It primarily focuses on outlining procedures and delegations of authority related to federal employees' participation in international organizations. There is no explicit or implicit emotional sentiment conveyed in the document. Therefore, all emotions should be scored very low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

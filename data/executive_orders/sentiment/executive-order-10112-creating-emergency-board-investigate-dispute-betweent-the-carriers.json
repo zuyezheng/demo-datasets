@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 5,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of serious concern and decisive action. It acknowledges a dispute that threatens essential transportation services and establishes a board to investigate. The intended emotions are likely concern (leading to sadness) and a sense of reassurance (reducing fear), but not intense joy, disgust, or surprise. The initial scores reflect this, with sadness and fear moderately present and other emotions low. Upon further reflection, the order's primary goal is to convey a sense of stability and control in a potentially disruptive situation. Therefore, the revised scores should emphasize a reduction in fear and a slight increase in the seriousness conveyed through sadness.",
+    "critique": "The document is a formal announcement invoking the Railway Labor Act to address a dispute between carriers and their employees. The language is legalistic and procedural, with the primary goal of preventing disruption to interstate commerce. There is no explicit expression of emotion. However, a careful reader might infer a sense of concern (mild fear) about the potential disruption to transportation services, and perhaps a touch of disappointment (mild sadness) that the dispute has not been resolved through normal channels. The other emotions (joy, disgust, surprise, and anger) are not relevant in this context. The initial scores reflect these considerations, with low values assigned to fear and sadness, and minimal values to the other emotions. The revised scores are similar, with a slight adjustment to fear to reflect the potential impact of the situation.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 6,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 4,
+        "sadness": 3,
+        "fear": 2,
         "disgust": 3,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order is about reducing the cost of prescription drugs. The primary emotion the president wants to convey is joy that drug prices will be lowered. There might also be some surprise that the prices are so different from other countries. There might be some disgust at the current prices. There is no fear or sadness.",
+    "critique": "The document expresses concern about high drug prices and aims to address it through importation. There's a sense of determination to lower costs for Americans. It does not express explicit emotions but implicitly conveys concern and hope. Initial scores: Disgust: 3 (at the current situation), Fear: 2 (of potential risks), Joy: 4 (at the prospect of lower prices), Sadness: 3 (about the current high prices), Surprise: 1 (no surprise). Revised scores: Disgust: 3, Fear: 2, Joy: 4, Sadness: 3, Surprise: 1.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 4,
+        "sadness": 3,
+        "fear": 2,
         "disgust": 3,
-        "surprise": 4
+        "surprise": 1
     }
 }

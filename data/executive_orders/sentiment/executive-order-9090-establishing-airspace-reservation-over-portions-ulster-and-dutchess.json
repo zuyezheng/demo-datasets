@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a declaration of airspace restriction. It does not seem to want to evoke any strong emotions. It is a legal document. However, given that it is for national defense, it may want to evoke a little bit of fear and surprise.",
+    "critique": "The document is a legal order establishing an airspace reservation for national defense and public safety. It does not express any particular emotion. The language is formal and objective. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining the procedures for classifying and declassifying national security information. The primary goal is to ensure the protection of sensitive information while also promoting transparency and accountability. The order aims to strike a balance between national security and the public's right to know. The intended emotional response is a sense of security and trust in the government's ability to manage classified information responsibly. There might be a slight sense of fear conveyed due to the nature of the information being protected, but it is not the primary emotion. There is no intention to convey joy, sadness, disgust, or surprise.",
+    "critique": "The document is a formal executive order regarding classified national security information. It is primarily informational and procedural, lacking strong emotional cues. The language is legalistic and objective. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

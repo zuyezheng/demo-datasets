@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a dry, factual statement about abolishing a customs port of entry. It is unlikely to evoke strong emotions. The most relevant emotions might be sadness (for those who lose their jobs or whose community is affected) and perhaps surprise (if the decision was unexpected). However, the overall emotional impact is likely to be minimal.",
+    "critique": "The document is a formal announcement about abolishing a customs port of entry. It's a dry, administrative statement with no emotional language. Therefore, all emotions should be scored low, likely a 1, as there's no indication of any particular sentiment being conveyed to the public.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining energy conservation measures. It is unlikely to evoke strong emotions. However, a sense of joy might be conveyed to those who support environmental conservation and efficiency. A slight sense of surprise might be conveyed by the scope and detail of the order.",
+    "critique": "The document is an executive order regarding energy policy and conservation. It is primarily a legal and technical document, outlining definitions, requirements, and procedures for federal agencies. There is no indication of an attempt to convey any particular emotion. Therefore, all emotion scores should be low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 2,
-        "fear": 3,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and decisive action during a national emergency. It focuses on enabling the Department of Agriculture to distribute seeds efficiently, which could evoke a sense of hope and security related to food supply. The mention of 'national emergency' and authorization to suspend labor laws might induce a mild sense of concern or surprise, but the overall tone is intended to be reassuring and proactive.",
+    "critique": "The document is a presidential order regarding labor regulations during a national emergency. It primarily conveys a sense of urgency and decisiveness in addressing the situation. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the context of a national emergency might implicitly evoke some level of concern or apprehension. The order aims to ensure the efficient distribution of resources, suggesting a focus on problem-solving rather than emotional expression. Therefore, the initial scores would be low across all emotions, with a slightly higher score for fear or concern due to the mention of a national emergency. After further consideration, the document is a formal order and should not convey any emotion. Therefore, all scores should be 1.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 2,
-        "fear": 3,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 3,
-        "fear": 5,
-        "disgust": 3,
-        "surprise": 2
-    },
-    "critique": "The executive order aims to convey a sense of seriousness and determination in addressing a national security threat. It highlights the potential dangers and outlines measures to mitigate them. The order likely intends to evoke a sense of concern and perhaps a degree of fear regarding the situation in Syria and its implications for the United States. It also aims to project an image of decisive action and resolve in protecting national interests. The order does not intend to evoke joy, but it may evoke surprise. The order may also evoke disgust and sadness in some readers.",
-    "revised_scores": {
-        "joy": 0,
+        "joy": 1,
         "sadness": 4,
-        "fear": 6,
-        "disgust": 4,
-        "surprise": 3
+        "fear": 7,
+        "disgust": 6,
+        "surprise": 1
+    },
+    "critique": "The document is a formal declaration of a national emergency and imposition of sanctions related to the situation in Syria and Turkey's actions. The primary emotion conveyed is concern and a sense of urgency regarding a threat to national security and foreign policy. There's an element of disgust and anger towards the actions that undermine the campaign against ISIS and endanger civilians. Fear is present due to the perceived threat to national security. There is no element of joy or surprise. Initial scores: Disgust: 6, Fear: 7, Joy: 1, Sadness: 4, Surprise: 1. Revised scores: Disgust: 7, Fear: 8, Joy: 1, Sadness: 5, Surprise: 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 5,
+        "fear": 8,
+        "disgust": 7,
+        "surprise": 1
     }
 }

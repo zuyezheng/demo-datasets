@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document conveys a sense of urgency and determination to protect public welfare during a time of war. It does not explicitly express joy, sadness, anger, fear, disgust, or surprise. However, the context suggests a potential for fear and concern among the public due to the war and the government's actions. The order aims to address potential threats, which might evoke a sense of fear or unease. The tone is formal and authoritative, reflecting the President's role and the seriousness of the situation. The initial scores reflect a baseline assessment, while the revised scores consider the potential emotional impact on the public.",
+    "revised_scores": {
+        "joy": 1,
         "sadness": 3,
         "fear": 5,
         "disgust": 1,
-        "surprise": 4
-    },
-    "critique": "The executive order seems to want to convey a sense of seriousness and resolve during a time of war. It aims to instill a degree of fear in those who might act against the public welfare, and perhaps a touch of surprise at the swiftness of the action. There's also a hint of sadness related to the circumstances necessitating such measures. Joy is not an emotion the order tries to convey. Disgust is not an emotion the order tries to convey.The initial scores reflect these considerations, but the revised scores adjust the intensity based on a more nuanced understanding of the order's intent.",
-    "revised_scores": {
-        "joy": 1,
-        "sadness": 4,
-        "fear": 6,
-        "disgust": 1,
-        "surprise": 5
+        "surprise": 2
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a dry, technical document. The likely emotions the president wants to convey are joy that the government is running efficiently and surprise that the government is being modernized. The order does not want to convey sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding the management of federal office space. It is unlikely to evoke strong emotions in the general public. The language is bureaucratic and focuses on efficiency and administration. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

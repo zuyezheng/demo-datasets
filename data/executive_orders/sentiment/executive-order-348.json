@@ -1,12 +1,12 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of serious authority and decisiveness. It identifies a problem (Federal employees holding state/local offices), explains why it's a problem (incompatible duties, inconvenience, detriment to public service), and then lays out a clear rule to address it. There's a bit of 'surprise' that this situation was allowed to occur, but the main goal isn't to evoke strong emotions but rather to establish a clear policy. Therefore, I'll adjust the surprise score.",
+    "critique": "The document is a formal executive order. It expresses a serious tone, but it is unlikely to evoke strong emotions in the American public. The order aims to prevent conflicts of interest and ensure the proper functioning of government. Therefore, emotions like joy, surprise, fear, and disgust are unlikely to be strongly conveyed. A slight sense of sadness might be present due to the potential disruption of existing arrangements, but it would be minimal.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 2,
+        "joy": 3,
+        "sadness": 3,
         "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to want to convey a sense of calm and control. It emphasizes preserving peace and protecting life and property, suggesting a desire to reduce fear and promote a sense of security. The order also instructs General Otis to be conciliatory, indicating an intention to avoid anger and conflict. There might be a hint of sadness related to the situation requiring troop deployment, but it's not the primary emotion. Surprise is unlikely to be a significant factor.",
+    "critique": "The document is a military order from the President. It expresses a need to preserve peace and protect life and property. The tone is firm but also conciliatory. The primary emotions conveyed are concern (leading to a low level of fear and sadness about potential conflict) and a desire for peace (leading to a low level of joy that peace is the goal). There's no strong indication of anger, disgust, or surprise. The instruction to be 'conciliatory, but firm' suggests a balanced approach, minimizing extreme emotional responses.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 2,
+        "joy": 3,
+        "sadness": 3,
         "fear": 3,
         "disgust": 1,
         "surprise": 1

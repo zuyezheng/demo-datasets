@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
+        "sadness": 1,
         "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of control and necessity during an emergency. It's unlikely to evoke joy or surprise. There might be a sense of fear or disgust among those negatively affected by the order (e.g., striking workers), but the primary goal isn't to instill those emotions. Instead, it seems to aim for a sense of seriousness and perhaps a bit of sadness that such measures are necessary.",
+    "critique": "The document is a formal executive order from the President regarding the federal government taking control of the nation's railroads due to labor disputes. The language is legalistic and bureaucratic, aiming to convey authority and necessity. There's no explicit expression of emotions. However, the context suggests a sense of urgency and perhaps concern for the stability of transportation. The order aims to prevent further disruptions. Therefore, a low level of fear and concern might be inferred. There is no indication of joy, disgust, or surprise. Sadness is also not conveyed.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 4,
-        "disgust": 2,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
         "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a routine administrative action, focused on ensuring the continuity of judicial functions in Puerto Rico. It authorizes a Supreme Court Justice to temporarily fill the role of a District Court Judge. The order itself doesn't seem designed to evoke strong emotions. However, a very slight sense of reassurance or stability might be intended, suggesting a minimal level of joy. There's no indication of sadness, anger, fear, or disgust. A tiny bit of surprise might be present if the audience was unaware of the potential vacancy or the process for filling it.",
+    "critique": "The document is a formal designation of an acting judge. It doesn't express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

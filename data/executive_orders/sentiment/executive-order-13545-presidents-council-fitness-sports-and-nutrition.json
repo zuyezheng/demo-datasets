@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to promote fitness, sports, and nutrition. The primary emotion the president wants to convey is joy, associated with health and well-being. There might be a slight element of surprise due to changes, but it's minimal. There's no intention to evoke sadness, anger, fear, or disgust.",
+    "critique": "The document is an executive order amending a previous order related to the President's Council on Fitness, Sports, and Nutrition. The language is formal and legalistic. The primary goal is to inform and direct government action, not to evoke strong emotions. Therefore, all emotions should be scored low. There might be a slight sense of joy associated with promoting health and well-being, but it's minimal.",
     "revised_scores": {
-        "joy": 8,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

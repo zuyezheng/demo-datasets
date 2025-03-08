@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The executive order seems to be a formal announcement about appointments and doesn't obviously evoke strong emotions. However, the mention of the Emergency Banking Act, Gold Reserve Act, and Silver Purchase Act might bring a sense of relief and hope (joy) to some, given the context of economic recovery during that time. There might also be a slight sense of surprise due to the waiving of civil service rules, but it's likely a minor emotion. Fear, disgust, and sadness don't seem to be relevant emotions conveyed by this order.",
+    "critique": "The president is conveying a sense of urgency and determination to address the economic crisis. The document mentions the Emergency Banking Act, the Gold Reserve Act, and the Silver Purchase Act, which suggests a focus on economic recovery. The language is formal and authoritative, reflecting the president's role and responsibilities. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the context implies a sense of urgency and a need for decisive action. Therefore, I will assign low scores to all emotions except for surprise, which might be slightly higher due to the mention of 'emergency'.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

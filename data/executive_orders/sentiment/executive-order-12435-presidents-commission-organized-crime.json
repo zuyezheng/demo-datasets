@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 2
-    },
-    "critique": "The executive order aims to instill a sense of confidence and security by addressing organized crime. It should not evoke strong emotions like joy, sadness, fear, disgust, or surprise. The primary goal is to convey a sense of seriousness and determination in tackling a significant issue. Therefore, the scores for all emotions should be relatively low.",
-    "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
-        "fear": 3,
-        "disgust": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing a commission to combat organized crime. The language is legal and procedural, with no explicit emotional expression. However, the implicit emotions conveyed might include a sense of determination (to combat crime) and perhaps a subtle sense of concern (about the problem of organized crime). Given the formal nature, the intensity of these emotions is likely to be perceived as low by the public. Therefore, I will assign low scores across the board, with a slightly higher score for fear and determination (which could be interpreted as a low level of joy in taking action).",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     }
 }

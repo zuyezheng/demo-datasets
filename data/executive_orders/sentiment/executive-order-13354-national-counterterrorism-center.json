@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 0,
+        "joy": 1,
+        "sadness": 3,
         "fear": 5,
-        "disgust": 0,
-        "surprise": 0
+        "disgust": 1,
+        "surprise": 2
     },
-    "critique": "The executive order is a formal document outlining the establishment and functions of the National Counterterrorism Center. The primary goal is to convey a sense of seriousness, determination, and commitment to national security. While it doesn't explicitly aim to evoke strong emotions, it implicitly seeks to reduce fear by demonstrating proactive measures against terrorism. It may also aim to inspire a sense of confidence and trust in the government's ability to protect its citizens. Therefore, I will score it for fear and joy.",
+    "critique": "The document is an executive order focused on counterterrorism. It is a formal and legal document. The primary emotion conveyed would be concern and determination to protect the United States from terrorist threats. There is a sense of urgency and seriousness, but not necessarily fear or anger. Joy is not relevant in this context. Surprise is also not a primary emotion, as the document is a planned response to a known threat.",
     "revised_scores": {
-        "joy": 4,
-        "sadness": 0,
-        "fear": 6,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 2
     }
 }

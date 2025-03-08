@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative update. It amends a previous order to expand the President's Council of Advisors on Science and Technology. There's no indication of strong emotions being intentionally conveyed. A slight sense of joy might be present due to the expansion, but it's minimal. The order also includes standard legal disclaimers, further reducing any emotional impact. Initial scores: disgust=1, fear=1, joy=2, sadness=1, surprise=1. Revised scores: disgust=1, fear=1, joy=1, sadness=1, surprise=1.",
+    "critique": "The document is a formal executive order. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

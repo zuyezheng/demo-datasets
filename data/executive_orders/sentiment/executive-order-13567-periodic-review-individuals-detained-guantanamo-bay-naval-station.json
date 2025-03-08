@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining procedures for reviewing the detention of individuals at Guantanamo Bay. It aims to convey a sense of order, legality, and adherence to national security interests. The primary emotions the president likely wants to evoke are a sense of security and perhaps a degree of reassurance that the detention policies are being carefully managed and reviewed. There's no intention to evoke joy, sadness, or surprise. Fear and disgust might be emotions some readers feel *about* the situation being addressed, but the document itself isn't designed to evoke those emotions. The order is intended to project an image of careful, legal, and security-conscious governance.",
+    "critique": "The document is a formal executive order regarding the detention of individuals at Guantanamo Bay. It outlines review processes and standards for continued detention. The language is legal and procedural, with no overt expression of emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

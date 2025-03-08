@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 3,
-        "surprise": 5
-    },
-    "critique": "The executive order aims to instill confidence and a sense of justice by addressing financial crimes. It should evoke a sense of surprise that the government is taking action and a sense of joy that wrongdoers will be punished. There might be a slight element of fear for those involved in financial crimes.",
-    "revised_scores": {
-        "joy": 7,
-        "sadness": 1,
+        "joy": 4,
+        "sadness": 2,
         "fear": 3,
-        "disgust": 4,
-        "surprise": 6
+        "disgust": 3,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing a task force to combat financial crimes. The language is legal and procedural, with a focus on establishing the structure, membership, and functions of the task force. There is no explicit expression of emotion. However, the implicit emotions conveyed might be a sense of determination to address financial crimes (potentially reducing fear and disgust related to such crimes) and a sense of hope or joy that the task force will be effective. The intensity of these emotions is likely to be moderate, as the document is primarily a bureaucratic announcement.",
+    "revised_scores": {
+        "joy": 4,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 3,
+        "surprise": 1
     }
 }

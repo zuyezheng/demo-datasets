@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
+        "sadness": 1,
+        "fear": 6,
         "disgust": 3,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order aims to convey a sense of security and protection of national interests. It highlights potential threats and outlines measures to mitigate them. Therefore, the primary emotion conveyed should be a sense of vigilance and cautious optimism, not necessarily strong emotions like joy or sadness. Fear and disgust are present due to the mention of adversaries, but they are not the primary focus. Surprise is not a relevant emotion in this context.",
+    "critique": "The document expresses concern about national security and economic security due to the use of foreign-made UAS. It aims to prevent risks associated with these UAS and promote domestic production. The language is formal and serious, reflecting the importance of the issue. There's a sense of urgency and determination to protect American interests. \n\nGiven the focus on security risks and the need to protect American interests, the primary emotions conveyed are fear (related to security threats) and perhaps a hint of disgust (towards reliance on foreign adversaries). There's no indication of joy, sadness, or surprise.\n\nInitial scores:\n*   Disgust: 3\n*   Fear: 6\n*   Joy: 1\n*   Sadness: 1\n*   Surprise: 2\n\nRevised scores:\n*   Disgust: 4\n*   Fear: 7\n*   Joy: 1\n*   Sadness: 1\n*   Surprise: 2",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 5,
+        "sadness": 1,
+        "fear": 7,
         "disgust": 4,
-        "surprise": 1
+        "surprise": 2
     }
 }

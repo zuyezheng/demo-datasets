@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order is about an exception to civil-service rules, which could be seen as a positive thing. The order is also surprising because it is an exception to the rules.",
+    "critique": "The document is a formal announcement of an appointment. It is unlikely to evoke strong emotions. The language is neutral and factual. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 1
     }
 }

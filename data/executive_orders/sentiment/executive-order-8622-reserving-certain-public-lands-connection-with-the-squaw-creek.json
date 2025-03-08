@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and perhaps mild joy related to conservation efforts. There might be a hint of surprise that such measures are being taken. Disgust, fear, and sadness don't seem to be intended emotions.",
+    "critique": "The document is a formal executive order regarding land allocation for wildlife conservation. It's unlikely to evoke strong emotions in the general public. The language is legal and administrative, not designed to elicit joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores for all emotions should be low, likely a 1.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

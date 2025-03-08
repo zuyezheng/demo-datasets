@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a technical document about civil service rules and employee promotions. It is unlikely to evoke strong emotions. The primary goal appears to be to inform and direct government agencies. Therefore, the scores for all emotions should be relatively low. There might be a slight sense of joy for those who benefit from the order, and perhaps a touch of surprise at the details, but these would be minimal.",
+    "critique": "The document is a formal order regarding civil service positions. It doesn't express any particular emotion. The language is legal and administrative, not designed to evoke feelings. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

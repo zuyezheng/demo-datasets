@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
-        "disgust": 1,
-        "surprise": 4
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 2,
+        "surprise": 3
     },
-    "critique": "The executive order seems to aim to convey a sense of urgency and resolve in addressing a national emergency. It invokes legal authorities and states the necessity of suspending certain labor laws to expedite essential work related to national defense. The order uses formal and serious language, which would likely evoke feelings of concern and perhaps a sense of duty or resolve. It does not seem to want the audience to feel joy. It could cause sadness because it speaks to a national emergency. It could cause anger if people don't like the suspension of labor laws. It could cause fear because it speaks to a national emergency. It probably doesn't want to cause disgust. It could cause surprise because it speaks to the suspension of labor laws.",
+    "critique": "The document is a proclamation regarding a national emergency and the suspension of certain labor laws for workers employed by the Atomic Energy Commission. The primary emotion conveyed is a sense of urgency and seriousness due to the national emergency. There might be a hint of fear or concern underlying the need to strengthen national defense. However, the language is formal and legalistic, which tempers strong emotional expression. Therefore, I will assign moderate scores to fear and surprise, and low scores to the other emotions. After further consideration, the document is formal and factual, so I will reduce the initial scores and keep them very low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

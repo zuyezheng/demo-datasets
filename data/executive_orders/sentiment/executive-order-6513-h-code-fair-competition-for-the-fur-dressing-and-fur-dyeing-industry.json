@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of confidence and assurance in the government's actions. It focuses on compliance and approval, suggesting a desire to instill trust rather than strong emotions. Therefore, the primary emotion conveyed should be joy, but at a low intensity. There may also be a very slight sense of surprise that the order was approved. Other emotions are not relevant.",
+    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Fur Dressing and Fur Dyeing Industry. The language is legal and administrative, with no emotional tone. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

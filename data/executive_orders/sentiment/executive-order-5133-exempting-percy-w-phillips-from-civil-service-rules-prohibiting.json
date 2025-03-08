@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order is waiving a provision to allow someone to teach at a university. This is a positive thing, so it should convey joy. It also might be surprising that the president is waiving a provision for someone to teach at a university, so it should convey surprise. The order does not seem to want to convey sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal waiver allowing a federal employee to teach at a university. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

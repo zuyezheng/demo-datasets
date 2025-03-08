@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document adjusting the salaries of government employees. It is unlikely to evoke strong emotions. The primary emotion might be a mild joy for those receiving a pay increase, but the overall tone is neutral and bureaucratic.",
+    "critique": "The document is a formal executive order adjusting the salaries of government employees. It is unlikely to evoke strong emotions in the general public. The language is technical and bureaucratic, focusing on specific salary adjustments and legal references. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

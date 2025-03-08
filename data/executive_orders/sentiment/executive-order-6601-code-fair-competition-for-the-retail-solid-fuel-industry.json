@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 3
     },
-    "critique": "The executive order seems to aim for a sense of confidence and stability, assuring the public of fair competition within the Retail Solid Fuel Industry. It uses formal language and emphasizes compliance with the National Industrial Recovery Act, suggesting a sense of order and control. Therefore, the primary emotion conveyed should be joy. There may also be a slight sense of surprise that the government is taking action.",
+    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Retail Solid Fuel Industry. The language is legal and administrative, with no explicit emotional expression. However, the context of the Great Depression and the National Industrial Recovery Act suggests an underlying sense of hope and determination to improve the economy and the lives of Americans. The President is likely trying to convey a sense of confidence and resolve. Therefore, I will assign low scores to negative emotions and a moderate score to joy and surprise. Disgust, fear and sadness are not applicable in this context, so I will assign a score of 1. The president is conveying joy and surprise to a small extent, so I will assign a score of 3 to each of them.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

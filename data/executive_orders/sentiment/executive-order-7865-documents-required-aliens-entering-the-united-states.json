@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order is a legal document that outlines the requirements for aliens entering the United States. It is unlikely to evoke strong emotions in the reader. The primary goal is to inform and instruct, not to elicit an emotional response. Therefore, the scores for all emotions should be low.",
+    "critique": "The document is a formal executive order detailing regulations for aliens entering the United States. It is primarily informational and procedural, lacking strong emotional content. Therefore, the expected emotional response from the American public would be minimal across all emotions. Most emotions should be scored low, around 1, as the document is not designed to evoke strong feelings. There might be a slight sense of surprise or perhaps even fear depending on the reader's stance on immigration, but these would still be relatively low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

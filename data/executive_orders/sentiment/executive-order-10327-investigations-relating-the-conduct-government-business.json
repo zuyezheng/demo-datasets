@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of seriousness and authority, but not necessarily to evoke strong emotions. The order focuses on establishing an investigation and ensuring cooperation. Therefore, the initial emotion scores should be relatively low across the board. However, there might be a slight sense of surprise or concern due to the nature of the investigation, so I'll give those a slightly higher score. After further consideration, the order is more about establishing authority and ensuring compliance, so I will reduce the surprise score and increase the fear score slightly to reflect the potential consequences of non-compliance.",
+    "critique": "The document is a formal executive order. It establishes the role and responsibilities of a Special Assistant to the Attorney General. The language is legal and procedural. There is no strong emotional sentiment conveyed. The order aims to ensure cooperation and facilitate investigations into potential misconduct. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

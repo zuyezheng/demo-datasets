@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and stability for government employees. It addresses potential job losses due to restructuring and provides a mechanism for them to retain their civil service status and find new positions within the government. Therefore, the primary emotion conveyed should be joy, with a secondary emotion of surprise that the government is taking these measures. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding civil service positions. It does not express any particular emotion. The language is legal and administrative, and the purpose is to establish a procedure for transferring employees in specific circumstances. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

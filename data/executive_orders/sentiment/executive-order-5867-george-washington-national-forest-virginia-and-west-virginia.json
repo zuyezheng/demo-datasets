@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a simple name change to avoid confusion. It is unlikely that the president wants the audience to feel any strong emotions. Maybe a slight sense of joy or surprise that a forest is being named after George Washington.",
+    "critique": "The document is a formal order to rename the Shenandoah National Forest to the George Washington National Forest. The primary emotion conveyed is respect and honor towards George Washington. There is no indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores for these emotions should be low, and the revised scores should reflect this.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

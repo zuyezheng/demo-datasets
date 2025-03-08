@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining policies and procedures for intelligence agencies. The primary goal is to convey a sense of order, control, and security. Therefore, the emotions to be conveyed are related to trust and confidence in the government's ability to manage intelligence operations effectively. There is no intention to evoke joy, sadness, anger, fear, disgust, or surprise. The order aims to establish a clear framework and ensure compliance with the law.",
+    "critique": "The document is a formal executive order regarding intelligence activities. It is primarily concerned with establishing policies, clarifying responsibilities, and ensuring compliance with the law. The language is formal and legalistic, and the tone is serious and authoritative. There is no indication of any specific emotion being conveyed by the President. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

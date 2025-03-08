@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The executive order seems to be a formal announcement about restructuring the National Recovery Administration. It focuses on establishing new offices, appointing individuals to leadership positions, and outlining the functions of these offices. The language is formal and procedural, aiming to convey a sense of order and efficiency in the administration of the National Industrial Recovery Act. There's no explicit attempt to evoke strong emotions. However, a subtle sense of reassurance and hope might be intended, suggesting that the administration is taking steps to improve the recovery efforts. Considering this, the primary emotion conveyed might be a mild sense of hope or reassurance, with very low levels of other emotions.",
+    "critique": "The document is a formal executive order regarding the National Industrial Recovery Act. It primarily focuses on administrative changes, appointments, and establishing divisions for review and business cooperation. The language is formal and legalistic, lacking strong emotional cues. The primary goal appears to be efficient governance and policy implementation rather than evoking specific emotions in the public. Therefore, most emotions should be scored low, with a slight emphasis on surprise due to the restructuring.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 6,
         "sadness": 2,
         "fear": 3,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order aims to reassure and instill confidence in the government's response to COVID-19. It focuses on improving healthcare, accelerating treatment development, and ensuring access to care. Therefore, the primary emotions conveyed should be joy (hope for improvement) and surprise (at the proactive measures). There might be a slight reduction of fear due to the actions taken. Disgust and sadness are not emotions the order tries to convey.",
+    "critique": "The document is a formal executive order addressing COVID-19. The primary emotions conveyed are related to a sense of hope and reassurance through actions aimed at improving healthcare and access to treatments. There's a subtle undercurrent of concern for the nation's health, but it's framed in a proactive, solution-oriented manner. There is no explicit expression of negative emotions such as disgust, fear, or sadness. Surprise is not relevant in this context. The language is formal and aims to project competence and control.",
     "revised_scores": {
-        "joy": 8,
-        "sadness": 1,
-        "fear": 2,
+        "joy": 6,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 1
     }
 }

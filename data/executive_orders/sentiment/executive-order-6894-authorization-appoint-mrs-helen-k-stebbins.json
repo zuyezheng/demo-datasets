@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 6,
+        "joy": 2,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order primarily aims to convey a sense of compassion and justification for a specific action. While not explicitly stated, there's an underlying sense of sadness due to the loss of Mrs. Stebbins' husband in the line of duty. The order also intends to evoke a sense of justification and perhaps a touch of joy that the widow is being taken care of. There is no indication of anger, fear, disgust, or surprise.",
+    "critique": "The document conveys a sense of formality and justification for a specific action. The primary emotion seems to be a subdued sense of sadness or sympathy due to the reference to the widow of a deceased Navy member. There might be a hint of joy that the widow is getting a position. There's no indication of anger, fear, disgust, or surprise. The intensity of sadness is likely low, as it's presented as a matter of fact. The intensity of joy is also low. Therefore, I will assign low scores to sadness and joy and a score of 1 to the other emotions.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 6,
+        "joy": 2,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

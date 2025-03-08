@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 7,
-        "fear": 5,
-        "disgust": 3,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to evoke sadness and fear due to the displacement of Chehalis Indians. There might be a hint of disgust at the actions described. No joy or surprise is expected.",
+    "critique": "The document is a formal order regarding land allocation. It primarily concerns the restoration of land to the public domain and the withdrawal of other land for the use of the Chehalis Indians. There is no explicit emotional language used. The potential emotions conveyed could be interpreted based on the impact of the order on different groups. However, without additional context, it is difficult to assess the intended emotion. I will assign low scores across all emotions, with a slightly higher score for sadness, as the Chehalis Indians may feel sadness about the land being restored to the public domain.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 8,
-        "fear": 6,
-        "disgust": 4,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
-        "fear": 2,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim for a neutral tone, focusing on addressing a labor dispute and ensuring the continuation of essential transportation services. It doesn't explicitly try to evoke strong emotions. However, there might be a subtle element of reassurance or relief that the government is taking action to prevent disruption. Initial scores: disgust: 1, fear: 2, joy: 3, sadness: 2, surprise: 1. Revised scores: disgust: 1, fear: 1, joy: 1, sadness: 1, surprise: 1.",
+    "critique": "The document describes a labor dispute and the creation of a board to investigate it. The language is formal and legalistic. There is no explicit expression of emotion. However, the situation implies a sense of concern and urgency to resolve the dispute and prevent disruption of transportation services. Therefore, a low level of concern/fear and surprise might be present. The other emotions are not applicable.The initial scores reflect this assessment.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

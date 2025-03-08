@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document addressing a labor dispute. The primary goal is to communicate the establishment of a board to investigate the dispute and prevent disruption of transportation services. It aims to convey a sense of authority, responsibility, and perhaps urgency, but not necessarily strong emotions. Therefore, the scores should be low across the board. The order is intended to reassure the public that the situation is being handled.",
+    "critique": "The document is a formal executive order issued by President Lyndon B. Johnson. It establishes a board to investigate disputes between railway carriers and their employees. The language is legalistic and procedural. There is no indication of an attempt to convey any particular emotion. The document aims to address a labor dispute that threatens interstate commerce. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

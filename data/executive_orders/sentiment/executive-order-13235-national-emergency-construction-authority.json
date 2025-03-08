@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 4,
-        "fear": 7,
-        "disgust": 3,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 3,
+        "fear": 6,
+        "disgust": 1,
+        "surprise": 4
     },
-    "critique": "The executive order invokes a national emergency due to terrorist attacks. The primary emotion the president wants to convey is fear, due to the continuing threat to national security. There may also be some sadness related to the attacks. There is no indication of joy or surprise. Disgust may be present due to the nature of terrorist attacks.",
+    "critique": "The document conveys a sense of urgency and determination in response to a national emergency. The president is invoking emergency powers to address a threat, which suggests a level of fear and concern for national security. However, the tone is formal and authoritative, not overly emotional. The scores reflect these considerations.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 5,
-        "fear": 8,
-        "disgust": 4,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 3,
+        "fear": 6,
+        "disgust": 1,
+        "surprise": 4
     }
 }

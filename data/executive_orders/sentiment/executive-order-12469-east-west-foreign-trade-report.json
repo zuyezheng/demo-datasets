@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action. It delegates reporting functions to the United States Trade Representative to provide for more efficient reporting to the Congress. There is no explicit intention to evoke strong emotions such as joy, sadness, anger, fear, disgust, or surprise. The order is purely procedural and aims for efficiency in government operations. Therefore, the scores for all emotions should be very low.",
+    "critique": "The document is a formal executive order. It primarily concerns delegation of reporting functions related to trade. The language is legal and procedural, devoid of emotional expression. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

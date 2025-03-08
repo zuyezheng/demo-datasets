@@ -3,15 +3,15 @@
         "joy": 1,
         "sadness": 1,
         "fear": 5,
-        "disgust": 1,
-        "surprise": 1
+        "disgust": 5,
+        "surprise": 3
     },
-    "critique": "The executive order is a formal document that aims to convey a sense of authority and decisiveness. It is unlikely to evoke strong emotions such as joy, sadness, or surprise. However, it may instill a sense of fear or disgust in those who are targeted by the order, and a sense of joy in those who support it. Given the context, the order is more likely to instill fear in UNITA. Therefore, the primary emotion conveyed is fear, with a moderate intensity. There is no element of surprise, joy, sadness, or disgust.",
+    "critique": "The document is a presidential order addressing actions and policies of the National Union for the Total Independence of Angola (UNITA). It invokes legal authorities and outlines specific prohibitions and regulations. The language is formal and legalistic, aiming to convey a sense of authority and decisiveness. There is no explicit expression of emotions. However, the order implies a negative sentiment towards UNITA's actions, warranting a response of disgust. The order is meant to instill fear in those who might be considering violating the order. The order may come as a surprise to those who are not familiar with the situation in Angola. The order does not convey joy or sadness.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
-        "disgust": 1,
-        "surprise": 1
+        "fear": 6,
+        "disgust": 6,
+        "surprise": 4
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The executive order seems to aim for a sense of order and progress, potentially evoking a mild sense of joy and surprise that the government is working efficiently. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal approval of an agreement within the construction industry. The language is legal and procedural, lacking strong emotional cues. The president is conveying a sense of duty and approval, but not necessarily strong emotions. Therefore, all emotions should be scored low, with a slight emphasis on joy and surprise due to the positive nature of the approval.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

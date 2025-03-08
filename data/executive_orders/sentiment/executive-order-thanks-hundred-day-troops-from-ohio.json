@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 7,
-        "sadness": 2,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 3
-    },
-    "critique": "The executive order expresses gratitude and appreciation for the service of the National Guard of Ohio. It aims to evoke a sense of joy and pride in their service, while also acknowledging the sacrifices they made. The order does not aim to evoke sadness, anger, fear, or disgust. Surprise is not a primary emotion conveyed, but there might be a slight element of it in recognizing the Guard's contributions.",
-    "revised_scores": {
-        "joy": 8,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
+    },
+    "critique": "The president is conveying gratitude and appreciation for the services of the Ohio National Guard. There is a sense of joy and pride in their accomplishments, but also a recognition of the sacrifices they made. The overall tone is positive and supportive.The text does not convey sadness, anger, fear, disgust, or surprise. Therefore, the initial scores for these emotions should be 1.",
+    "revised_scores": {
+        "joy": 7,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

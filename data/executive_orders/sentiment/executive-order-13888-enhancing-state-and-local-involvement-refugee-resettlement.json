@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of measured control and respect for local governance. It likely intends to instill a sense of calm and perhaps cautious optimism by addressing concerns about refugee resettlement in a structured way. The order does not seem to want to convey intense emotions such as joy, sadness, anger, fear, disgust, or surprise. Instead, it focuses on procedure and legal considerations. Therefore, the scores for all emotions should be relatively low.",
+    "critique": "The document is an executive order regarding refugee resettlement. The language is formal and legalistic. There is no explicit expression of emotion. However, the order could be interpreted as conveying a sense of caution or concern regarding the impact of refugee resettlement on local communities. It could also be interpreted as an attempt to address concerns of some states and localities. Therefore, I will assign low scores for fear and concern, and a very low score for sadness. The other emotions are not relevant.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

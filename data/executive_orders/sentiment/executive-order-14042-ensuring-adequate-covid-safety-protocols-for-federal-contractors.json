@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is primarily a legal document. The main emotions the president wants to convey are joy and surprise that the economy will be more efficient. There is no sadness, fear, or disgust.",
+    "critique": "The document is a formal executive order. It aims to ensure COVID-19 safeguards for federal contractors. The language is legal and procedural, focusing on economy, efficiency, and compliance. There's no explicit emotional appeal. However, the underlying goal of promoting safety could be interpreted as a subtle attempt to convey care and concern. Given the context of the pandemic, the public might perceive a sense of relief or reassurance, but the document itself doesn't directly evoke strong emotions. Therefore, the initial scores are relatively low across all emotions.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

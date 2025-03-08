@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining regulations for reimbursing government employees for losses due to currency exchange rates. It is unlikely to evoke strong emotions. The primary emotion might be a mild sense of joy for those receiving reimbursement, but the overall tone is neutral and administrative.",
+    "critique": "The document is a formal executive order regarding reimbursement for losses sustained by US officers and employees in foreign countries due to currency appreciation. It is primarily informational and procedural, lacking emotional content. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

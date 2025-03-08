@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action regarding the disposal of unneeded vessels. It doesn't appear to be designed to evoke strong emotions. However, there might be a slight sense of relief or satisfaction that unneeded resources are being managed efficiently. Therefore, I will assign low scores for joy and surprise, and zero for the other emotions.",
+    "critique": "The document is a formal executive order regarding the disposition of unneeded foreign merchant vessels. The language is legal and procedural, lacking emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

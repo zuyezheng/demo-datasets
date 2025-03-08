@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of hope and optimism regarding the future status of Puerto Rico. It expresses a commitment to helping the people of Puerto Rico determine their future and implies a positive change. Therefore, joy and surprise might be conveyed. There's no strong indication of sadness, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding Puerto Rico's status. It expresses a commitment to helping the people of Puerto Rico determine their future status. The language is formal and neutral, with no strong emotional expressions. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document delegating authority. It is unlikely to evoke strong emotions. However, it may convey a slight sense of reassurance (joy) that the government is functioning and addressing international development. There might also be a hint of surprise at the specific delegation of authority.",
+    "critique": "The document is a formal executive order. It primarily delegates authority and sets effective dates. There is no explicit or implicit emotional sentiment conveyed in the document. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

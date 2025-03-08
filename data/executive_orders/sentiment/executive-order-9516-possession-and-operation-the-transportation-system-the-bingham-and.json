@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal declaration related to wartime actions. It doesn't explicitly aim to evoke specific emotions like joy, sadness, anger, fear, disgust, or surprise. However, implicitly, it might instill a sense of seriousness and perhaps a degree of concern or acceptance given the context of war. The order is more about asserting authority and outlining actions to be taken rather than eliciting an emotional response. Given this, the scores for all emotions should be relatively low, but not zero, to acknowledge the implicit emotional undertones related to war.",
+    "critique": "The document is a formal declaration of the President authorizing the Secretary of War to take control of a transportation system during wartime. The language is legalistic and devoid of emotional expression. There is no explicit attempt to convey joy, sadness, anger, fear, disgust, or surprise. The context suggests a serious and pragmatic decision related to national security during wartime, but the document itself does not express any of these emotions. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document that aims to modify trade regulations and designate certain countries as least-developed beneficiaries. The primary goal is to implement specific trade policies rather than evoke strong emotions. However, there might be a subtle intention to convey a sense of joy to the designated countries and perhaps a sense of surprise due to the changes. There is no intention to convey sadness, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding trade preferences. It's primarily legal and administrative in nature. Therefore, it's unlikely to evoke strong emotions in the general public. The language is technical and devoid of emotional cues. The order aims to designate certain countries as least-developed beneficiaries, which could be seen as a positive step, but the document itself doesn't emphasize this aspect emotionally. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a formal delegation of authority. It doesn't seem designed to evoke strong emotions. However, one could argue it aims to inspire a sense of confidence (joy) in the government's ability to handle hostage situations and perhaps a mild sense of reassurance (surprise) that the government is taking action. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding the delegation of functions related to the Hostage Relief Act. It is devoid of emotional language and aims to convey a sense of official procedure and legal authority. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to promote employment for people with disabilities. The primary emotion the president wants to convey is joy that people with disabilities will have more opportunities. There might be a hint of surprise that this hasn't been done before, but it's not a strong emotion. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order establishing a board to promote employment for people with disabilities. The language is formal and legalistic, with no strong emotional indicators. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 8,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

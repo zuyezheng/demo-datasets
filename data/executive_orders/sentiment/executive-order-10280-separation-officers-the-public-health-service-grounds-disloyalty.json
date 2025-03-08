@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
-        "disgust": 5,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order discusses separation from service on grounds of disloyalty. This could induce fear and disgust. The order itself is very procedural and unlikely to induce joy or surprise. There might be a tinge of sadness related to disloyalty but it is not the main point.",
+    "critique": "The document primarily conveys a sense of seriousness and adherence to legal procedures. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and bureaucratic, suggesting a neutral tone. Therefore, the initial scores for all emotions should be relatively low, with a slight emphasis on fear due to the mention of disloyalty.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 6,
-        "disgust": 6,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
         "surprise": 1
     }
 }

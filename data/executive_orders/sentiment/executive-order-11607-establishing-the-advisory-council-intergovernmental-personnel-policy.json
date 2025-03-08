@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of joy that the government is working to solve problems. It also wants to convey a sense of surprise that the government is working to solve problems. It does not want to convey sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order establishing an advisory council. It focuses on intergovernmental personnel policies and programs. The language is formal and bureaucratic. There is no strong emotional sentiment conveyed. The primary goal is to improve public administration. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 4,
-        "disgust": 2,
-        "surprise": 0
-    },
-    "critique": "The executive order seems to aim to convey a sense of preparedness and control in a time of national emergency. It invokes legal authorities and outlines procedures for managing vessels in US territorial waters. The primary emotion it seems to evoke is a sense of cautiousness and perhaps slight fear due to the mention of a national emergency and potential threats. There might also be a hint of disgust towards potential threats to national security, but it's very mild. Surprise and joy are not relevant in this context.",
-    "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
+        "joy": 1,
+        "sadness": 1,
         "fear": 5,
-        "disgust": 3,
-        "surprise": 0
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal declaration invoking specific legal authorities related to national emergency and control of vessels. It quotes existing laws and executive orders, and directs the use of land and naval forces upon request from the Secretary of the Treasury or the Governor of the Panama Canal. The language is legalistic and procedural. Given the context of a national emergency and the invocation of powers related to the military, a sense of seriousness and potential fear might be conveyed, although the document itself is neutral in tone. The historical context (1941) suggests heightened concern about international relations and potential conflict.I will score it accordingly.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 1
     }
 }

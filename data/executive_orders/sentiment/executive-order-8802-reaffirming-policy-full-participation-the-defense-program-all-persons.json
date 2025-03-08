@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 7,
-        "sadness": 3,
-        "fear": 4,
-        "disgust": 5,
-        "surprise": 2
+        "sadness": 4,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 5
     },
-    "critique": "The executive order aims to evoke joy and reduce fear and disgust by addressing discrimination. The initial scores reflect this, but the revised scores fine-tune the intensity of each emotion based on a more nuanced understanding of the text.",
+    "critique": "The document primarily conveys a sense of joy and hope due to its commitment to non-discrimination and equal opportunity. There's also an element of addressing past injustices, which might evoke some sadness or regret. However, the overall tone is positive and forward-looking. The president expresses joy that all citizens can participate in the national defense program. The president expresses sadness that workers have been barred from employment. The president expresses surprise that this is happening and wants to fix it.",
     "revised_scores": {
-        "joy": 8,
-        "sadness": 2,
-        "fear": 2,
-        "disgust": 3,
-        "surprise": 1
+        "joy": 7,
+        "sadness": 4,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 5
     }
 }

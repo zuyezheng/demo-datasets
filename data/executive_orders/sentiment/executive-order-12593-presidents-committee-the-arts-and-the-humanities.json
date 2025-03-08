@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document that amends a previous executive order. It is unlikely to evoke strong emotions. The most relevant emotions would be surprise, as the order changes the number of people on the committee, and perhaps a slight amount of joy if the reader supports the arts and humanities and believes this change will help. However, the intensity of these emotions would be low.",
+    "critique": "The document is a formal executive order. It amends a previous executive order to allow for additional members on an advisory committee for the arts and humanities and extends the termination date of the committee. The language is formal and legalistic, and the tone is neutral. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

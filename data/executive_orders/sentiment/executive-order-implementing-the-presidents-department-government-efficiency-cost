@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 2
     },
-    "critique": "The executive order is primarily focused on government efficiency and transparency. The intended emotions are likely to be joy (for taxpayers saving money) and surprise (at the extent of the changes). There might be a slight element of fear for those who are not following the rules, but it's not a primary emotion. Disgust and sadness are not relevant.",
+    "critique": "The document is a formal executive order. It aims to convey a sense of purpose and determination to improve government efficiency and transparency. There is no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. However, the underlying sentiment is one of resolve and a commitment to responsible governance. The order focuses on cutting costs, reviewing contracts, and improving processes, suggesting a desire to address potential inefficiencies or waste. The language is formal and authoritative, reinforcing the seriousness of the order. Therefore, the scores for all emotions should be relatively low, with a slight emphasis on surprise as the public might be surprised by the extent of the changes.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 2
     }
 }

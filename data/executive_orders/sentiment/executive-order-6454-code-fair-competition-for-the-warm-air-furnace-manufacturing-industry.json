@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order is to approve a code of fair competition, which should bring joy to those in the industry. The order is also somewhat surprising, as it is not something that is expected. However, the order is also somewhat sad, as it is a reminder of the Great Depression. The order is not angry, fearful, or disgusted.",
+    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Warm Air Furnace Manufacturing Industry. The language is legal and administrative, with no explicit emotional expression. The President is conveying a sense of duty and accomplishment in implementing the National Industrial Recovery Act. Therefore, the expected emotions from the public would be minimal. I will assign low scores across all emotions initially, and then revise based on the context of the Great Depression, where such actions might inspire a little hope and reduce fear.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 2,
-        "fear": 1,
+        "joy": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

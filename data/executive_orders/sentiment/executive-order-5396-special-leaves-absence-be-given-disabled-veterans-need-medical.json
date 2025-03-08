@@ -1,17 +1,17 @@
 {
     "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The president is conveying a sense of joy and hope by signing this document. The document is intended to improve the lives of disabled veterans. The president is not conveying any negative emotions. The president is conveying a sense of joy and hope by signing this document. The document is intended to improve the lives of disabled veterans. The president is not conveying any negative emotions.Initial scores: disgust: 1, fear: 1, joy: 7, sadness: 1, surprise: 1.Revised scores: disgust: 1, fear: 1, joy: 7, sadness: 1, surprise: 1.",
+    "revised_scores": {
         "joy": 7,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
-    },
-    "critique": "The executive order seems to aim at evoking a sense of joy and perhaps a little surprise. The order is about granting leave to disabled veterans for medical treatment, which should evoke joy. The surprise might come from the unexpected benefit.",
-    "revised_scores": {
-        "joy": 8,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

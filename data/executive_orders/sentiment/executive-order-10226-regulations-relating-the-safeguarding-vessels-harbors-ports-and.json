@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 4,
         "fear": 7,
-        "disgust": 1,
-        "surprise": 3
+        "disgust": 5,
+        "surprise": 1
     },
-    "critique": "The executive order is focused on security and control, particularly concerning the Panama Canal. The primary emotion it aims to evoke is fear, related to potential sabotage and subversive activities. It also aims to instill a sense of seriousness and caution. There's a minor element of surprise related to the potential for unexpected events, but it's not a dominant emotion. There is no joy, disgust, or sadness intended to be conveyed.",
+    "critique": "The document is a set of regulations regarding security measures in the Canal Zone. The primary emotion conveyed is fear, due to the concern about subversive activity and potential threats to national security. There's also a sense of disgust towards sabotage and subversive activities. There is no evidence of joy or surprise. The regulations aim to prevent damage or injury, suggesting a level of sadness about potential negative outcomes if security is breached. The intensity of these emotions is moderate, as the document is formal and legalistic in tone.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 5,
         "fear": 8,
-        "disgust": 1,
-        "surprise": 2
+        "disgust": 6,
+        "surprise": 1
     }
 }

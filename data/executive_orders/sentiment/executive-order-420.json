@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order is about remitting sentences of imprisonment during the war and discharging prisoners. This should evoke joy and surprise. The order is likely to make people feel joy because prisoners are being released. It could also cause surprise because it is unexpected.",
+    "critique": "The document is a military order to release prisoners. It does not express any particular emotion. The president is likely trying to convey a sense of justice or mercy, but this is not explicitly stated. Therefore, I will score all emotions as 1 initially, as there isn't enough information to suggest a stronger emotion. After further consideration, the act of releasing prisoners, especially during wartime, might evoke a slight sense of surprise or joy in some, but I'll keep the scores low as the document is primarily a formal order.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 2
     }
 }

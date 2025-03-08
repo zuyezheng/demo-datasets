@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of urgency and importance, but not necessarily to evoke strong emotions. It's more about stating facts and taking action. However, the mention of national safety being imperiled could induce a mild sense of fear or concern. The order does not seem to want to evoke joy, disgust, or surprise.",
+    "critique": "The document is a formal executive order regarding a labor dispute. It does not express any particular emotion. The language is formal and legalistic. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

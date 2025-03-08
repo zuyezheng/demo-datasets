@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a simple announcement about a holiday. It is unlikely to evoke strong emotions. The primary emotion might be a slight joy or surprise at the extra day off, but it would be very mild. Therefore, I will score joy as 2 and surprise as 1. All other emotions are unlikely to be present.",
+    "critique": "The document is a formal announcement about government offices being closed for Independence Day. It doesn't express any strong emotions. The language is neutral and factual. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

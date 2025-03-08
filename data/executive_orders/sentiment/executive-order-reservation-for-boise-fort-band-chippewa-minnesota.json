@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal declaration, setting aside land for the Boise Fort band of Chippewa Indians. The primary emotion conveyed might be a sense of resolution or justice, but it's very mild. There's a slight chance of joy for the Chippewa Indians, and slight sadness that it took so long. There is no anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order regarding land allocation for the Boise Fort Band of Chippewa Indians. The language is legal and administrative, lacking emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

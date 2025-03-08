@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a declaration of taking possession of German vessels. The primary emotion conveyed would likely be surprise, as it's an unexpected action. There might also be a sense of fear or anger directed towards the German vessels, but surprise seems to be the most prominent emotion. After further consideration, the order is a declaration of power and control, so fear is a more appropriate emotion to focus on.",
+    "critique": "The document is a formal order to take possession of German vessels. It does not express any particular emotion. The language is neutral and factual. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

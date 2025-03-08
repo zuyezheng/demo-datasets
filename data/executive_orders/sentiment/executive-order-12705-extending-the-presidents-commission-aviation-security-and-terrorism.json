@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document extending the President's Commission on Aviation Security and Terrorism. The order itself doesn't inherently evoke strong emotions. However, the context of extending a commission related to aviation security and terrorism might indirectly suggest a desire to convey a sense of caution and preparedness, potentially linked to a mild sense of fear or concern. The order is primarily informational and directive, so strong emotions are unlikely. The initial scores reflect a minimal level of fear and surprise, with other emotions being negligible. The revised scores slightly increase the fear to acknowledge the underlying context of security and terrorism, while surprise remains minimal due to the routine nature of such orders.",
+    "critique": "The document is a formal executive order. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

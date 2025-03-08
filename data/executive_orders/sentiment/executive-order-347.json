@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order discusses pensions for disabled individuals and military officers. The order does not explicitly evoke any strong emotions. However, a reader might feel slight sadness for the disabled veterans, and potentially slight anger at the restrictions placed on officers. There is no indication of joy, fear, disgust, or surprise.",
+    "critique": "The document discusses pension applications for disabled individuals and restrictions on officers of the Army receiving pensions. It does not express any strong emotions. The tone is formal and bureaucratic. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

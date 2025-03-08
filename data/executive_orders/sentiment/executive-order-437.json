@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a logistical directive concerning the treatment of political prisoners. It emphasizes providing decent lodging and subsistence. The order seems to aim for a neutral tone, focusing on fair treatment rather than evoking strong emotions. There may be a slight element of joy that prisoners are being treated fairly, but it is not the main point of the order. There is no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document discusses the treatment of political prisoners, focusing on providing them with decent lodging and subsistence. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The tone is neutral and administrative. Therefore, the initial scores for all emotions should be low. Revised scores should reflect the lack of emotional content, with all emotions scored at 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document primarily aims to convey a sense of resolution and security for the Pah-Ute and other Indians. It's a formal order, so strong emotions are unlikely. However, there might be a slight sense of joy and relief for those benefiting from the order. There is no sadness, anger, fear, or disgust. Surprise is also not a primary emotion, but there might be a very mild sense of it.",
+    "critique": "The document primarily conveys a formal and official tone, typical of government correspondence. There is no strong indication of any specific emotion being intentionally conveyed. The language is neutral and focused on factual information and administrative actions. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication.",
     "revised_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

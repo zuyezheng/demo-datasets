@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of neutrality and legality. It focuses on international relations and trade regulations, without explicitly evoking strong emotions. However, there might be a subtle sense of reassurance (low joy) due to the resolution of potential trade issues and perhaps a hint of surprise (very low surprise) at the specific nature of the order. There's no apparent intention to evoke sadness, anger, fear, or disgust.",
+    "critique": "The document discusses the export of tobacco belonging to foreign governments. It mentions 'friendly powers' and 'peace,' suggesting a neutral or slightly positive tone. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The context is formal and legal, further reducing the likelihood of strong emotional conveyance. Therefore, the initial scores for all emotions are set to 1 due to the lack of emotional content. After further consideration, the document seems to express a mild sense of peace and cooperation, so I will adjust the joy score to 2.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

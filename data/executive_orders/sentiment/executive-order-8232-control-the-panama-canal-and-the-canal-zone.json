@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of seriousness and urgency, possibly leaning towards fear or concern due to the transfer of authority to the Army. There might be a hint of surprise due to the sudden change in command. There is no indication of joy, sadness, or disgust.",
+    "critique": "The document is a presidential order regarding the operation of the Panama Canal. It is a formal and authoritative document. The primary emotion conveyed is one of control and authority, with a hint of concern for the security or smooth operation of the canal, suggesting a low level of fear or concern. There is no indication of joy, sadness, disgust, or surprise.The initial scores reflect this assessment, with fear being the only emotion with a non-zero score. The revised scores slightly increase the fear score to reflect the context of the order being issued during a time of international tension.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

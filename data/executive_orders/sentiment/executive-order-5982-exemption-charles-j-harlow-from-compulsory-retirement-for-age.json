@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The executive order is a very dry, technical document regarding the retirement age of a government employee. It is unlikely to evoke any strong emotions in the reader. The most likely emotion would be surprise, as it is unexpected to see such a specific order. However, the intensity would be very low.",
+    "critique": "The document is a formal announcement regarding an exemption from retirement for a government employee. It does not contain strong emotional language. The primary emotion conveyed might be a mild sense of surprise or perhaps even a hint of joy that someone is being allowed to continue working past the usual retirement age, but these are very subtle. Other emotions like sadness, anger, fear, and disgust are not present.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

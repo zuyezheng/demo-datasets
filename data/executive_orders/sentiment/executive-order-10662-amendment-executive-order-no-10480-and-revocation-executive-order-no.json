@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document making amendments and revocations. It's unlikely to evoke strong emotions. However, there might be a slight sense of reassurance (joy) due to the focus on national defense and resource management, but it would be very mild. There's no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

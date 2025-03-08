@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 4,
+        "joy": 1,
+        "sadness": 2,
         "fear": 3,
-        "disgust": 1,
-        "surprise": 5
-    },
-    "critique": "The executive order aims to convey a sense of resolution and cautious optimism regarding the situation in the Federal Republic of Yugoslavia (Serbia and Montenegro). While it acknowledges past threats and human rights abuses, it also highlights the peaceful democratic transition and the need to cooperate with international efforts. The order seeks to convey a sense of stability and progress, while also maintaining necessary measures to address any remaining threats. Therefore, the primary emotions to be conveyed are joy (related to the positive changes) and surprise (related to the unexpected turn of events), with a touch of sadness (related to the past human suffering) and fear (related to the potential for renewed instability). Disgust and anger are not primary emotions to be conveyed, as the focus is on moving forward and addressing the situation constructively.",
-    "revised_scores": {
-        "joy": 7,
-        "sadness": 5,
-        "fear": 4,
         "disgust": 2,
-        "surprise": 6
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and determination to address a national security threat. There's a subtle undercurrent of concern regarding the situation in the FRY (S&M) and the need to maintain stability. However, the language is very legalistic and formal, so strong emotions are unlikely to be elicited in the American public. Therefore, the initial scores should be relatively low across all emotions.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 1
     }
 }

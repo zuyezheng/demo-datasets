@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral, regulatory tone. There's no strong indication of emotions like joy, sadness, fear, disgust, or surprise being intentionally conveyed. The order focuses on rules, taxes, and licenses within the Canal Zone. Therefore, the initial scores for all emotions are set to low values. Upon further reflection, the order might induce a very mild sense of surprise due to the revocation of a prior order, but it's still minimal. The other emotions remain negligible.",
+    "critique": "The document is a formal executive order regarding taxes and licenses in the Canal Zone. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

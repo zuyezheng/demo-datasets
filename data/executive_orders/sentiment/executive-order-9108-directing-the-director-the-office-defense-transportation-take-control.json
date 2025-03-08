@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 2,
-        "fear": 3,
-        "disgust": 6,
-        "surprise": 4
-    },
-    "critique": "The executive order seems to convey a sense of urgency and determination to ensure the smooth operation of essential services during wartime. It aims to instill a sense of confidence and security by addressing a labor dispute that could disrupt the war effort. The primary emotions conveyed are a sense of determination (joy) and a need to address a disruption (disgust). There might be a hint of surprise that the company refused arbitration.",
-    "revised_scores": {
-        "joy": 8,
-        "sadness": 1,
         "fear": 2,
-        "disgust": 7,
+        "disgust": 2,
         "surprise": 3
+    },
+    "critique": "The document expresses a serious tone, addressing a critical issue during wartime. It conveys a sense of urgency and determination to ensure the uninterrupted flow of essential goods. The President aims to project a sense of control and resolve, but also acknowledges the existing labor dispute and the need for a peaceful resolution. There's an underlying tone of disappointment or frustration with the Company's refusal to submit to arbitration. Given the context, the primary emotions conveyed are a mix of determination, concern, and perhaps a hint of frustration. Joy is not present. Surprise is not the primary emotion, but there might be a slight element of it due to the unexpected refusal of the Company. Disgust is not a primary emotion, but a low level might be present due to the company's actions. Fear is not a primary emotion, but there might be a low level related to the potential disruption of the war effort. Sadness is not a primary emotion.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 3,
+        "surprise": 4
     }
 }

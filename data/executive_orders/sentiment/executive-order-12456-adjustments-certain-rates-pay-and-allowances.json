@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document adjusting pay scales. It is unlikely to evoke strong emotions. A slight sense of joy might be present for those receiving a pay increase, but overall, the document is neutral.",
+    "critique": "The document is a formal executive order regarding pay adjustments for various government employees and members of the uniformed services. The language is legalistic and procedural, with no indication of emotional sentiment. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

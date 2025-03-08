@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document regarding the retirement of a Foreign Service officer due to disability. It is unlikely to evoke strong emotions. The primary goal is to inform and execute a decision based on existing regulations. Therefore, the scores for all emotions should be relatively low. There might be a slight sense of sadness due to the officer's disability, but it shouldn't be a dominant emotion.",
+    "critique": "The document is a formal announcement regarding the retirement of a Foreign Service officer due to disability. The language is legalistic and procedural. There is no strong emotional sentiment conveyed in the document. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

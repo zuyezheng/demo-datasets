@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of optimism and confidence in the future of public sector management. It seeks to inspire joy through the creation of opportunities for outstanding individuals and instill a sense of surprise by introducing a revitalized program. There is no intention to evoke sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order. It aims to establish and manage the Presidential Management Intern Program. The language is formal and procedural, focusing on recruitment, selection, and management of interns. There is no explicit emotional expression in the document. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

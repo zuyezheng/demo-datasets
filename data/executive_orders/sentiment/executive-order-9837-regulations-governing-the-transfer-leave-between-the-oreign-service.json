@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order seems to be a technical document detailing the transfer of leave for government employees. It doesn't seem designed to evoke strong emotions. Perhaps a tiny bit of joy that government employees are getting clear guidance.",
+    "critique": "The document is a formal executive order regarding the transfer of leave for Foreign Service personnel. It is primarily administrative and legal in nature. There is no strong emotional sentiment conveyed. Therefore, all emotions should be scored low. Since the document explains new regulations, there may be a hint of surprise, but it is not significant.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

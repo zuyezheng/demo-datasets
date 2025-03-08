@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a dry legal document. It does not seem to want to evoke any strong emotions. Maybe a tiny bit of joy that land is being restored to a reservation, but it is not the main point of the document.",
+    "critique": "The document is a proclamation regarding the boundaries of the Apache National Forest and the White Mountain Apache Indian Reservation. It aims to restore the reservation to its previous status. There is no strong emotional sentiment conveyed in the document. The language is formal and legalistic, focusing on factual details and actions. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

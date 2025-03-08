@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 3
     },
-    "critique": "The executive order appears to be a formal and legal document. It is unlikely that the president wants the audience to feel any particular emotion. The order is simply stating that certain tax returns will be open for inspection by a House committee. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal order from the President regarding the inspection of tax returns by a House committee in connection with the impeachment of William O. Douglas. The language is legal and procedural, with no explicit emotional expression. However, the context of impeachment proceedings might evoke certain emotions in the public. Surprise might be present due to the unexpected nature of such proceedings. Fear and disgust may be present in fractions due to the nature of the impeachment. Joy and sadness are not expected to be conveyed. The relative intensity of emotions is expected to be low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 3
     }
 }

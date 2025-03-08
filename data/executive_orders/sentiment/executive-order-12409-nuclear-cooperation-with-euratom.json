@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a formal declaration regarding nuclear cooperation. It cites legal authority and makes a determination about the importance of continued cooperation for national security and non-proliferation objectives. The language is formal and legalistic, suggesting a serious but not necessarily emotional tone. There is a mild sense of reassurance (low joy) that the president is taking action to ensure national security and continued cooperation. There might be a very mild sense of fear being addressed (very low fear) because the order mentions potential jeopardy to common defense and security if the cooperation were to cease. There's no strong indication of other emotions like disgust, surprise, or sadness.",
+    "critique": "The document is a formal executive order regarding peaceful nuclear cooperation. It cites legal authority and makes a determination about the importance of continued cooperation for national security and non-proliferation objectives. There is no explicit emotional language used. The tone is formal and factual. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

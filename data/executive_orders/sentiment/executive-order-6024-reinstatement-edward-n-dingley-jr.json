@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of approval and justification for reinstating Mr. Dingley. It highlights his qualifications and experience, suggesting a positive outcome for the government. Therefore, the primary emotion conveyed should be joy, with a lesser degree of surprise at the unusual nature of the reinstatement. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document primarily conveys a sense of approval and justification for reinstating Mr. Dingley. There isn't strong evidence of joy, sadness, anger, fear, disgust, or surprise. The language is formal and bureaucratic, focusing on the rationale behind the decision. Therefore, the initial scores for all emotions should be relatively low, with a slight emphasis on joy due to the positive outcome for Mr. Dingley.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

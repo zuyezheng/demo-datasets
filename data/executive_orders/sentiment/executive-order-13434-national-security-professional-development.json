@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order aims to reassure the public by enhancing national security through professional development. It should not evoke strong negative emotions but rather a sense of calm and confidence. Therefore, joy should be a low positive score, and fear, disgust, and sadness should be low negative scores. Surprise is not really relevant here.",
+    "critique": "The document is a formal executive order focused on national security and professional development. It uses formal and legalistic language. There is no explicit expression of emotion. However, the emphasis on security and disaster preparedness might implicitly convey a sense of concern or cautiousness. The order aims to enhance national security, which could be interpreted as a response to potential threats, thus implying a degree of fear or concern. The focus on preparedness and training could also suggest a proactive approach to mitigating risks, which might instill a sense of hope or confidence. However, the primary tone is one of seriousness and resolve.",
     "revised_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

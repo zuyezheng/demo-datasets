@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 3,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
-    },
-    "critique": "The executive order is a formal document outlining policy and establishing initiatives to combat the HIV epidemic. The primary emotions the president likely wants to convey are hope and determination, with a touch of concern regarding the existing gaps in care. There's no intention to evoke disgust, fear, or surprise. Sadness might be present due to the acknowledgment of the epidemic's impact, but it's not the primary focus.",
-    "revised_scores": {
         "joy": 7,
+        "sadness": 5,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 6
+    },
+    "critique": "The document primarily conveys a sense of determination and hope in addressing the HIV epidemic. While it acknowledges the challenges and gaps in care, the overall tone is optimistic and focused on progress. There's a sense of urgency and commitment to improving outcomes. Therefore, joy and surprise are the most relevant emotions. Disgust, fear, and sadness are less prominent but still present due to the severity of the issue.",
+    "revised_scores": {
+        "joy": 8,
         "sadness": 4,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 7
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of hope and confidence in the government's ability to address the economic crisis through public works projects. While not explicitly joyful, the order suggests progress and action, which could evoke a sense of optimism. There's no indication of sadness, anger, fear, or disgust. Surprise is possible, but not the primary emotion. The order is more about reassurance and action.",
+    "critique": "The document is a formal announcement of appointments and authorizations related to public works projects. It does not express any strong emotions. The language is formal and objective. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

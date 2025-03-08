@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
-        "fear": 7,
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 2
     },
-    "critique": "The executive order is primarily concerned with national security and cybersecurity. The main emotions the president wants to convey are fear (of cyberattacks) and surprise (at the current state of vulnerability), which should motivate action. There might be a touch of joy if the measures are successful, but that's secondary. Disgust and sadness are not primary emotions to be conveyed.",
+    "critique": "The document is a formal executive order addressing cybersecurity. The primary emotion conveyed is concern about the current state of cybersecurity and a determination to improve it. There's an element of urgency and seriousness, but not necessarily fear or anger. The language is formal and policy-oriented, not designed to evoke strong emotional responses. The document aims to convey a sense of responsibility and action. Therefore, I will score sadness, joy, surprise, disgust and fear.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 1,
-        "fear": 8,
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 2
     }
 }

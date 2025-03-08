@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of seriousness and urgency, given the context of the time (December 26, 1941). The order withdraws public lands for use as a practice bombing range by the War Department. This suggests a need for military preparedness, which might evoke a sense of fear or concern. However, the order itself is written in a formal and neutral tone, so the emotional impact is likely to be subtle. Initial scores: Joy: 1, Sadness: 2, Anger: 1, Fear: 3, Disgust: 1, Surprise: 2. Revised scores: Joy: 1, Sadness: 2, Anger: 1, Fear: 3, Disgust: 1, Surprise: 2.",
+    "critique": "The document is a formal executive order regarding the withdrawal of public lands for use as a practice bombing range by the War Department. The language is legal and administrative, with no explicit emotional expression. The context, being issued shortly after the Pearl Harbor attack, might suggest a backdrop of concern or determination, but the order itself remains neutral in tone. Therefore, all emotions are scored low initially. After further consideration, the context of the order suggests a slightly elevated sense of determination and resolve, which could be interpreted as a low level of fear and surprise. The other emotions remain very low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 2
     }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document that aims to restore jurisdiction over public lands to the departments and agencies that had it before the national emergency. The primary emotion conveyed should be a sense of relief or satisfaction that things are returning to normal. There might also be a hint of surprise that this is happening, but it's not the main focus. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding the return of jurisdiction over public lands after a national emergency. It is primarily an administrative action. The language is formal and legalistic, not designed to evoke strong emotions. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

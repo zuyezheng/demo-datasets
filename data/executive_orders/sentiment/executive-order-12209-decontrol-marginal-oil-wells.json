@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a technical document related to oil production and pricing regulations. It is unlikely to evoke strong emotions in the general public. The order aims to permit the conversion to new oil status of all old oil production from marginal oil wells, which might bring a slight sense of joy to oil producers. However, the overall tone is neutral and bureaucratic.",
+    "critique": "The document is a formal executive order regarding oil production. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

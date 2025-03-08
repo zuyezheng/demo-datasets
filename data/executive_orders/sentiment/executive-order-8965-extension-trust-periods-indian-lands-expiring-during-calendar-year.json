@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and stability, especially for the Native American communities affected. It extends trust periods for their lands, which could bring a sense of relief and security. However, the language is formal and legalistic, so the emotional impact is likely to be subtle. Joy might be a slight positive emotion, but not overwhelming. Sadness, anger, fear, and disgust are unlikely to be intended emotions. Surprise is also not a primary goal, but there might be a mild sense of relief or unexpected benefit for those who were concerned about the expiring trust periods.",
+    "critique": "The document is a formal order extending trust periods for Indian lands. It uses legal and official language. There is no explicit or implicit emotional sentiment conveyed in the document. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

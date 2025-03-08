@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a procedural document. It sets a date for rules to take effect, with a provision for earlier implementation if a register is prepared sooner. The primary emotion conveyed is neutral, but there might be a hint of positive anticipation (joy) that things could start sooner if preparations are completed early. There's no strong indication of sadness, anger, fear, disgust, or surprise. The joy score is low because the anticipation is mild and conditional.",
+    "critique": "The document is a legal or official statement regarding the effective date of certain rules. It includes a provision for the rules to take effect earlier if a register is prepared before the fixed date. The language is formal and neutral, without any explicit emotional expression.The primary emotion conveyed is likely none, as it's a procedural announcement. Therefore, all emotions should be scored low.Since there is not enough information provided, I will use a score of 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

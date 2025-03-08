@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document that changes the name of the Economic Defense Board to the Board of Economic Warfare and amends previous executive orders. The order itself does not explicitly aim to evoke any specific emotion. However, considering the historical context (December 17, 1941, shortly after the Pearl Harbor attack), the order likely intends to convey a sense of seriousness and resolve in the face of economic warfare. Therefore, I will assign low scores to fear and surprise and very low scores to the other emotions.",
+    "critique": "The document is a formal executive order. It primarily concerns a change of name and amendments to previous executive orders. There is no explicit emotional language or appeal. The context suggests a formal, administrative action. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication of the emotion being conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

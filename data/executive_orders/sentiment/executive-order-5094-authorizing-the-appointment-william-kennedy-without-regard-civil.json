@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want the audience to feel joy and surprise. The order discusses the appointment of Mr. William A. Kennedy, who served the Government in the construction of the Lincoln Memorial and the Memorial to the Women of the Civil War. This may cause the audience to feel joy. The order also states that there is difficulty in securing experienced men in the large building program and that Mr. Kennedy's services will be valuable. This may cause the audience to feel surprise.",
+    "critique": "The document is a formal announcement of an appointment. It expresses no explicit emotion. The recommendation by the Secretary of Treasury suggests a practical need, not an emotional appeal. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

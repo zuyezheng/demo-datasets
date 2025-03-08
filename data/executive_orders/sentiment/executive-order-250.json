@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 7,
+        "sadness": 5,
         "fear": 1,
         "disgust": 1,
         "surprise": 3
     },
-    "critique": "The executive order is a formal announcement regarding the closing of government offices for a national event, the funeral of a former president. The primary emotion the president wants to convey is sadness and respect for the deceased. There might be a touch of surprise at the announcement, but it is minimal. There is no indication of joy, anger, fear, or disgust.",
+    "critique": "The document is a formal order to close Executive Departments for the funeral of ex-President Grant. The primary emotion conveyed is sadness due to the mourning of a former president. There might be a touch of surprise at the suddenness of the announcement, but it's minimal. There's no indication of joy, anger, fear, or disgust. The intensity of sadness would likely be moderate as it's a formal announcement, not a personal expression of grief.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 7,
+        "sadness": 6,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     }
 }

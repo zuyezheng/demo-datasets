@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a legal document that transfers land. It is unlikely to evoke strong emotions. The most relevant emotion might be surprise, if the reader was unaware of the transfer, but it would be very mild. Therefore, I will score surprise as a 1, and all other emotions as 0.",
+    "critique": "The document is a legal order transferring land. It is unlikely to evoke strong emotions in the general public. The language is formal and factual, not designed to elicit an emotional response. Therefore, all emotions are scored low.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

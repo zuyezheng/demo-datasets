@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
-        "disgust": 3,
-        "surprise": 2
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and trust in the government's operations. It emphasizes integrity, effective supervision, and reasonable compensation. While not explicitly evoking strong emotions, it subtly aims to reduce potential fear or disgust related to unethical practices. There might be a hint of surprise that such an order is necessary, but it's minimal. Joy and sadness are not intended emotions.",
+    "critique": "The document is a formal executive order. It aims to ensure integrity and effective supervision of legal and expert witness services. The language is legal and procedural, not designed to evoke strong emotions. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
-        "disgust": 2,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

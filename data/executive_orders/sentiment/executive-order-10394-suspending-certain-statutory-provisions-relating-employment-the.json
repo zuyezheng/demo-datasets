@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a formal announcement regarding compensation for certain employees in the Canal Zone. It cites specific laws and provides a suspension with a condition. The language is legalistic and does not seem intended to evoke strong emotions. However, there might be a slight sense of relief for those whose compensation is protected (joy), and perhaps a touch of disappointment or uncertainty for those affected by the suspension (sadness, surprise). Given the nature of the document, the intensity of these emotions would likely be low.",
+    "critique": "The document is a formal announcement regarding the suspension of certain provisions related to employment in the Canal Zone. The language is legal and bureaucratic, with no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

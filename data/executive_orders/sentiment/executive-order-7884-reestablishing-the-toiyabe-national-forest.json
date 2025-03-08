@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a dry, factual statement about renaming and re-establishing a national forest. There is no emotional content in the text. Therefore, all emotions should be scored as 1, indicating a very low level of that emotion.",
+    "critique": "The document is a presidential order regarding the reestablishment of the Toiyabe National Forest. The language is formal and administrative. There is no indication of strong emotion. The most relevant emotions might be joy (at the reestablishment) or surprise (if the reestablishment was unexpected), but these would likely be mild. I will assign low scores to all emotions, with a slightly higher score for joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

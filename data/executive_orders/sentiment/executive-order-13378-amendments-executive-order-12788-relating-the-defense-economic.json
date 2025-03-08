@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and stability, with a hint of hope for communities affected by defense adjustments. It's unlikely to evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. The primary goal is to communicate a sense of order and governance. The order is intended to update a program and clarify its scope, not to elicit a strong emotional response. Therefore, the scores should be relatively low across all emotions.",
+    "critique": "The document is a formal executive order. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of joy and surprise due to the reinstatement of Mr. Liscombe. The intensity of joy is moderate, as it's a positive development but not overwhelmingly exciting. Surprise is also moderate, as the reinstatement might be unexpected but not shocking. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal announcement of an appointment. It expresses no particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

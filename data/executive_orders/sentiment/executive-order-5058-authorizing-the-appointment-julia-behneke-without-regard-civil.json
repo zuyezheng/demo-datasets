@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
-        "disgust": 3,
-        "surprise": 4
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey a sense of surprise that an appointment is being made without following civil service rules. There might be a hint of disgust at the circumvention of these rules, and perhaps a touch of fear that this could set a precedent. There's likely no intention to evoke joy or sadness.",
+    "critique": "The document is a formal announcement of an appointment. It expresses no explicit emotion. The language is neutral and factual. Therefore, all emotions should be scored low. Since there is not enough information provided, I will use a score of 1 for all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
-        "disgust": 3,
-        "surprise": 4
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

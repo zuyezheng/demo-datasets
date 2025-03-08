@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a technical document regarding delegation of authority within the Federal Emergency Management Agency. It is unlikely to evoke strong emotions. However, a very slight sense of reassurance might be conveyed, as the order clarifies lines of authority in case of a disaster. Therefore, I will assign a low score to joy and surprise and a zero score to the other emotions.",
+    "critique": "The document is an executive order regarding disaster relief and delegation of authority to the Director of the Federal Emergency Management Agency. It does not convey any particular emotion. The language is formal and legalistic. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a dry legal document. It is unlikely to evoke strong emotions. The order appears to be an amendment to a previous order regarding the Toledo, Peoria, and Western Railroad. It authorizes the Director of the Office of Defense Transportation to make advances from the railroad's earnings for specific purposes, such as discharging obligations and preserving property. There is a hint of joy that the railroad will continue to operate. There is a hint of sadness that the railroad requires government intervention. There is a hint of surprise that the government is involved in the railroad.",
+    "critique": "The document is a formal executive order regarding the Toledo, Peoria and Western Railroad. It primarily conveys a sense of official action and legal authority. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and neutral, aimed at directing specific actions related to the railroad's operation and financial obligations. Therefore, all emotions should be scored low initially.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

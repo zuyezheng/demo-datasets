@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and stability. It clarifies the process for disability ratings and ensures that existing benefits are not drastically reduced. Therefore, the primary emotion conveyed should be joy, with a secondary emotion of surprise that the government is taking action to help veterans. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal announcement regarding veterans' disability ratings and pension payments. It primarily conveys a sense of authority and policy implementation rather than strong emotions. The language is legalistic and administrative, focusing on the practical aspects of adjusting disability ratings and ensuring fair compensation for veterans. There is a slight sense of reassurance for veterans who were already receiving payments, as their payments will not be reduced by more than 25%. Therefore, I will assign low scores to all emotions except for joy, which will be a 1, and surprise, which will also be a 1.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

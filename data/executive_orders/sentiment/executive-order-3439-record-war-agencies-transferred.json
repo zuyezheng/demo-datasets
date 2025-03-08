@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 4,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The executive order seems to want to convey a sense of seriousness and perhaps a little fear, but not too much. The order is about transferring records, which could be seen as a power grab or a move to consolidate information. It is unlikely to evoke joy, and while there might be a little surprise, it's probably not the main emotion. Disgust and sadness are unlikely.",
+    "critique": "The document is a formal order to the War Department to take over records. There is no explicit emotional language. The context suggests a transition or consolidation of resources, but without further information, it's difficult to infer a specific emotion. I will assign low scores across all emotions, with a slightly higher score for surprise as the public might be surprised by this action.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 5,
-        "disgust": 2,
-        "surprise": 4
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
     }
 }

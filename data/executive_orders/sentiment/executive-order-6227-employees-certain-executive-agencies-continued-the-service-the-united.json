@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, primarily focusing on administrative procedures and timelines. It doesn't obviously evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, a very slight sense of relief or reassurance might be present for those employees whose positions are temporarily maintained. Therefore, I'll assign low scores to joy and surprise, and zero to the rest. After further consideration, the order is very procedural and unlikely to evoke any emotions. The initial assessment of slight joy or surprise is probably an overinterpretation. Therefore, all scores should be zero.",
+    "critique": "The document is a formal announcement regarding a delay in the separation of employees. It does not express any strong emotions. The tone is neutral and administrative. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order is reinstating Mr. Louis R. Glavis to the Civil Service, which could bring joy to him and his family. The order is also waiving the civil service rules, which could be surprising to some people. However, the order does not seem to want to convey sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal order reinstating Mr. Glavis to the Civil Service. The language is neutral and bureaucratic, without strong emotional indicators. The order seems to convey a sense of resolution and administrative action, but not necessarily any strong emotion. Therefore, I will assign low scores across all emotions initially. Then upon further consideration, I will revise the scores to reflect a slightly higher sense of joy and surprise, as the reinstatement might bring a sense of relief and unexpectedness.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 2
     }
 }

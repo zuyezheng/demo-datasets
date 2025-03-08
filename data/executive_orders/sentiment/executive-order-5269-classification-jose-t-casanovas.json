@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want the audience to feel joy and surprise. The order is about giving a classified status to Jose T. Casanovas, who has been working in the Quartermaster Corps of the Army in Porto Rico since 1898. This is a positive thing for Mr. Casanovas, and the audience should feel joy that he is being recognized for his long, faithful, and efficient service. The audience may also feel surprise that the president is issuing an executive order for such a specific case.",
+    "critique": "The document expresses a neutral sentiment. It is a formal announcement regarding the employment status of Jose T. Casanovas. There is no indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

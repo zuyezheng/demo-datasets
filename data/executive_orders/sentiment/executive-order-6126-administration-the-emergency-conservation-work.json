@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The executive order seems to inspire joy and surprise because it is related to unemployment relief during the great depression. The order also conveys a sense of hope, so I will increase the joy score.",
+    "critique": "The document is an executive order detailing the authorization and responsibilities of the Director of the Emergency Conservation Work. It focuses on the practical aspects of establishing the office, employing personnel, and procuring supplies. The language is formal and legalistic, with no explicit emotional tone. However, the context of addressing unemployment and promoting public work could imply a sense of hope and determination. Considering the lack of overt emotional expression, the initial scores are set low, with a slight emphasis on joy and surprise due to the positive impact of the work.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 2
     }
 }

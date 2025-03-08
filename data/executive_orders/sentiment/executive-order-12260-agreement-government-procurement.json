@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document outlining responsibilities and delegations related to the Agreement on Government Procurement. It's unlikely to evoke strong emotions. However, a sense of confidence and stability might be subtly conveyed. Therefore, I will assign low scores to joy and surprise and very low scores to the other emotions.",
+    "critique": "The document is a formal executive order regarding trade agreements. It is unlikely to evoke strong emotions in the general public. The language is legal and procedural, not designed to elicit an emotional response. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

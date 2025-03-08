@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action, reclassifying certain positions within the civil service. It doesn't appear to be designed to evoke strong emotions in the audience. However, one could argue that there might be a slight sense of 'surprise' due to the change in classification, and perhaps a touch of 'joy' for those who support the merit-based system. I will assign low scores to these emotions and zero to the others.",
+    "critique": "The document is a formal announcement about changes to civil service rules. It revokes exceptions for certain positions, making them part of the competitive classified service. There is no explicit emotional language or sentiment expressed in the document. Therefore, all emotions should be scored low, as the public is not expected to feel any strong emotion based on this announcement. The initial scores will be all 1s, and the revised scores will remain the same after considering the lack of emotional content.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

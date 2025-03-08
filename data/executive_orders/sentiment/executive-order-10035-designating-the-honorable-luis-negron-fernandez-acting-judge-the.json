@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a routine administrative action, designating an acting judge for the District Court of Puerto Rico. It doesn't seem designed to evoke strong emotions. However, there might be a slight sense of reassurance or stability conveyed by ensuring the court's functions continue uninterrupted. Therefore, I will assign a low score to joy. All other emotions seem irrelevant in this context.",
+    "critique": "The document is a formal designation of an acting judge. It does not convey any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

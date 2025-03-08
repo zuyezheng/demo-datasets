@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, primarily focused on informing and directing actions related to a labor dispute. It doesn't explicitly try to evoke strong emotions. However, there might be a subtle undercurrent of concern or seriousness given the potential disruption to interstate commerce. The initial scores reflect this assessment, with low values for most emotions and a slightly higher value for concern/fear. After further consideration, I've slightly adjusted the scores to better reflect the potential for concern, while still maintaining the overall neutral tone.",
+    "critique": "The document is a formal executive order addressing a labor dispute in the railroad industry. The language is legalistic and factual, with no overt expression of emotion. The President is acting in an official capacity to prevent disruption to interstate commerce. Therefore, the expected emotional response from the American public would likely be minimal, with perhaps a slight sense of relief that the situation is being addressed. Considering that, I will assign low scores across all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

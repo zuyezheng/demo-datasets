@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 5,
-        "sadness": 3,
+        "sadness": 1,
         "fear": 1,
-        "disgust": 4,
-        "surprise": 4
+        "disgust": 3,
+        "surprise": 1
     },
-    "critique": "The executive order discusses pardoning deserters, which might evoke a sense of joy for those pardoned, but also sadness or disgust towards the act of desertion itself. The order also aims to instill a sense of respect and order within the army, potentially leading to a feeling of surprise at the leniency shown while also emphasizing the importance of duty. The intensity of these emotions would likely be moderate, as the order is primarily informational.",
+    "critique": "The document primarily conveys a sense of relief and perhaps a touch of disappointment. The pardon for deserters suggests a move towards leniency and a desire to rectify past harshness (joy). However, the exclusion of deserters from future service and the negative characterization of them indicate some disappointment or disgust. There's no strong indication of fear, sadness, or surprise. The joy score is moderate because it's a limited pardon with conditions. Disgust is present due to the negative view of deserters, but it's not overwhelming. Other emotions are minimal.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 4,
+        "joy": 5,
+        "sadness": 1,
         "fear": 1,
-        "disgust": 5,
-        "surprise": 3
+        "disgust": 3,
+        "surprise": 1
     }
 }

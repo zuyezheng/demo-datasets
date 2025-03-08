@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a legal document that revokes a previous order and opens up land for homesteading by ex-service men. The order does not contain any emotional language and is purely factual. Therefore, the appropriate emotion scores should be very low, close to zero, for all emotions. The initial scores reflect this assessment.",
+    "critique": "The document is a formal executive order regarding land use. It primarily conveys a sense of official procedure and legality rather than any strong emotion. The order revokes a previous order and opens land for entry under specific conditions, prioritizing ex-service men. There is a slight hint of positive sentiment towards ex-service men, but overall, the document is neutral in tone.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a dry, factual statement about extending the limits of a port. It is unlikely to evoke strong emotions. However, one could argue that there might be a slight sense of joy for those who benefit from the extension, and perhaps a tiny bit of surprise that such an order is being issued. The order seems to want the audience to feel joy, sadness, anger, fear, disgust, or surprise after reading the executive order. For each emotion that should be conveyed, score the relative intensity on a scale of 1-10.",
+    "critique": "The document is a formal announcement about extending the limits of the port of Niagara Falls. It's a dry, administrative statement with no emotional content. Therefore, all emotions should be scored very low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

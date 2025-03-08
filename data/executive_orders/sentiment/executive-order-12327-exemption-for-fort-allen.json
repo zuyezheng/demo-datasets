@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey a sense of decisive action and authority, but also perhaps a bit of surprise or concern due to the exemptions being granted. There might be a hint of sadness or fear among those who are affected by the pollution.",
+    "critique": "The document is a formal executive order regarding exemptions from environmental regulations for a federal facility. It cites legal authorities and provides specific details about the exemptions. The language is formal and legalistic, with no overt expression of emotion. The primary purpose appears to be to execute a legal action, not to evoke an emotional response. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

@@ -6,10 +6,10 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a simple land transfer. There is no obvious reason for the president to want the audience to feel any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document describes the restoration of land to the public domain. This is unlikely to evoke strong emotions. The most relevant emotions might be sadness (for those losing land) or joy (for those gaining access), but the overall impact is likely to be minimal. The initial scores reflect this, with low values for all emotions. The revised scores are similar, with a slight increase in sadness and joy to acknowledge the potential emotional impact on different groups.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

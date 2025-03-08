@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and stability. The order emphasizes the importance of the Government-University partnership and seeks to strengthen it. Therefore, the primary emotion conveyed should be joy, with a secondary emphasis on trust and confidence. There is no indication of sadness, anger, fear, or disgust. Surprise is not the primary goal, but a mild sense of reassurance that the government is taking action might evoke a small amount of surprise.",
+    "critique": "The document is a formal executive order. It aims to convey a sense of importance and commitment to the government-university research partnership. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and objective. Therefore, the initial scores should be low across all emotions. Upon further reflection, while the document is primarily informational, the emphasis on strengthening the partnership and its benefits (economic prosperity, national security) suggests a mild sense of optimism and perhaps a hint of pride, which could be interpreted as a low level of joy. The lack of any negative sentiment indicators keeps the other scores very low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

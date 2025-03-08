@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a technical amendment. It is unlikely to evoke strong emotions. The order addresses prices charged for raw agricultural products, which might cause slight joy for farmers and slight sadness for consumers. However, the overall impact is minimal.",
+    "critique": "The document is a formal amendment to an executive order regarding price controls on raw agricultural products. It's a legal and administrative document, not designed to evoke any particular emotion in the public. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional content.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

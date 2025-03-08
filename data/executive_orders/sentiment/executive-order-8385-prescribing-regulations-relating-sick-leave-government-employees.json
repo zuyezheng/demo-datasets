@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining regulations for sick leave. It is unlikely to evoke strong emotions. However, it may bring a sense of relief and security to federal employees knowing they have access to sick leave. Therefore, I will score joy slightly higher than other emotions.",
+    "critique": "The document is a formal executive order detailing regulations for sick leave for government employees. It is primarily informational and procedural, lacking emotional content. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

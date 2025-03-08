@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a dry, factual document. The order simply renames a wildlife refuge and adds land to it. It is unlikely to evoke strong emotions. The most likely emotion would be joy for people who support wildlife refuges, but even that would be mild.",
+    "critique": "The document is an executive order regarding the Cold Springs National Wildlife Refuge. It primarily contains legal and administrative language, describing land boundaries and modifications to previous orders. There is no explicit emotional sentiment expressed or intended to be conveyed to the public. Therefore, all emotions should be scored as 1, indicating a neutral or absent emotional tone.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

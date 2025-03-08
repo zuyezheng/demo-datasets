@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is a formal announcement regarding federal holidays. The primary emotion conveyed would be joy, as it announces time off for federal employees during the Christmas and New Year holidays. There might be a slight element of surprise, as people may not have been expecting this. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal order regarding federal holidays. It expresses no explicit emotion. The context is a presidential decree, which is typically neutral in tone. The language is formal and legalistic, devoid of emotional cues. Therefore, all emotions should be scored low, with a default of 1 due to lack of information.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

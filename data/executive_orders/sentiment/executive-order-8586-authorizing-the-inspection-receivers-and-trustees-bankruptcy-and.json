@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "This executive order is a legal document, so it is unlikely to evoke strong emotions. The primary goal is to inform and instruct, not to elicit an emotional response. Therefore, all emotion scores should be very low.",
+    "critique": "The document is a formal order opening certain tax returns for inspection. It cites various legal authorities and specifies the types of returns covered. There is no explicit emotional language or appeal. The expected emotional response from the public would likely be neutral, as it is a legal and administrative matter. Therefore, all emotions are scored low initially. Upon further reflection, the document's complexity and legal nature might induce a slight sense of surprise or perhaps even fear in some readers due to the implications of government oversight. However, these emotions would still be relatively mild.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

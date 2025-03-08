@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of resolution and perhaps relief, as it returns seized properties. There might be a touch of surprise that this is happening, but overall, the dominant emotion is joy. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding the return of seized properties to their owners. It lists a series of executive orders and states that properties seized under those orders should be returned. The tone is formal and legalistic, with no strong emotional content. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

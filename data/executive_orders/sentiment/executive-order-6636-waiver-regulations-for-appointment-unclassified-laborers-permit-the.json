@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 4,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to want the audience to feel joy and surprise. The order is about appointing a widow of a former employee to a position. This could evoke joy and surprise. The intensity of joy is 4 and surprise is 3. After further consideration, the order is more about a routine appointment, so the intensity of joy and surprise should be lower.",
+    "critique": "The document is a formal order regarding the appointment of Mrs. Marion Doody. It expresses no explicit emotion. The reference to her late husband, William Doody, might evoke a slight sense of sadness or sympathy, but the primary tone is official and neutral. Therefore, all emotions should be scored low, with sadness potentially slightly higher than the others.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

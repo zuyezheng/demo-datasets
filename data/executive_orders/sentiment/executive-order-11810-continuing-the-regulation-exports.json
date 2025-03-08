@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim for a sense of vigilance and seriousness regarding national security and economic stability. It invokes legal and historical precedents to justify its actions, suggesting a desire to project authority and control. Therefore, the primary emotions conveyed are fear (related to national security) and seriousness (related to economic stability), but not to a high degree as it is a formal document.",
+    "critique": "The document is a formal executive order regarding export controls. It invokes legal authorities and describes the continuation of existing regulations. The language is legalistic and bureaucratic, with no explicit emotional expression. Therefore, all emotions should be scored low. Considering that the document discusses national security and economic protection, there might be a slight sense of concern or vigilance, which could translate to a minimal level of fear or surprise. However, the overall tone is neutral and administrative.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

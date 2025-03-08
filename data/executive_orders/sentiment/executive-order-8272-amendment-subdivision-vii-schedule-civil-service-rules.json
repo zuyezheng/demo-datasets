@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action. It is unlikely to evoke strong emotions. The order is about temporary employment during the holiday season, which might bring a slight sense of joy or relief to those seeking employment. However, the overall tone is neutral and formal.",
+    "critique": "The document is a formal order related to temporary employment in the Postal Service. It doesn't convey any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 7,
-        "disgust": 6,
-        "surprise": 2
-    },
-    "critique": "The executive order aims to convey a sense of seriousness and concern regarding the threat posed by Iraq. It invokes legal authority and declares a national emergency, suggesting a need for immediate action. The order likely intends to instill a sense of fear and perhaps disgust towards the actions of the Iraqi government, while also conveying a sense of resolve and determination to address the situation. It is unlikely that the order intends to evoke joy or surprise. The initial scores reflect these considerations.",
-    "revised_scores": {
-        "joy": 1,
-        "sadness": 4,
         "fear": 8,
         "disgust": 7,
+        "surprise": 2
+    },
+    "critique": "The document conveys a sense of seriousness and determination in response to a perceived threat. It aims to instill a sense of caution and resolve in the American public. The primary emotion conveyed is fear due to the declaration of a national emergency and the blocking of assets. There's also a sense of disgust towards the actions of the Iraqi government. Surprise is less relevant, as the document focuses on a measured response rather than shock. Joy and sadness are not prominent emotions in this context.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 9,
+        "disgust": 8,
         "surprise": 1
     }
 }

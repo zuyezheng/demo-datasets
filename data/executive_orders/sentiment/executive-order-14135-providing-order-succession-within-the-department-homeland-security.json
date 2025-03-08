@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that establishes the order of succession within the Department of Homeland Security. It is unlikely to evoke strong emotions. The order is intended to ensure a smooth transition of power in case of emergencies. Therefore, the primary emotion it might convey is a sense of security and stability, but to a minimal degree. There might be a very slight sense of surprise due to the revocation of previous orders.",
+    "critique": "The document is an executive order regarding the order of succession within the Department of Homeland Security. It is a formal and legal document. The language is very neutral and factual, and it does not convey any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

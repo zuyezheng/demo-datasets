@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 2,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 5
-    },
-    "critique": "The executive order aims to foster collaboration and strengthen ties between the United States and the African Diaspora. It focuses on equity, opportunity, and cultural exchange. The primary emotions conveyed are joy (through the prospect of strengthened ties and opportunities) and surprise (through the establishment of the Advisory Council). There might be a slight element of hope to reduce sadness related to past inequities, but it's not a dominant emotion. There is no indication of fear, disgust, or anger.",
-    "revised_scores": {
-        "joy": 8,
+        "joy": 3,
         "sadness": 1,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 6
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It aims to establish an advisory council to strengthen ties between the US government and the African Diaspora. The language is formal and policy-oriented. The primary emotion conveyed is a sense of optimism and commitment to strengthening relationships and promoting equity. There might be a hint of joy in fostering collaboration and community-building. There is no indication of anger, fear, disgust, or surprise.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

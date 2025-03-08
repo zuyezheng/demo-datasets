@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The document is a formal military correspondence and executive order from 1837 regarding an inquiry into the Creek Indian campaign. It is primarily concerned with procedural correctness and factual accuracy in the court's investigation. The tone is critical and demanding of precision, but not intended to evoke strong emotions in the reader. Therefore, the scores should be low across the board.",
+    "critique": "The document is a formal military correspondence and presidential review of a court of inquiry. It primarily conveys a tone of disapproval and a demand for further investigation. There's a hint of surprise at the court's overreach regarding General Jesup's letter. There's no strong indication of joy, sadness, fear, or disgust. The president seems to be conveying disappointment and a need for more thoroughness.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

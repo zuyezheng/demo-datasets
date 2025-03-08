@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 2,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order focuses on protecting children from environmental and safety risks. The primary emotion it aims to evoke is a sense of reassurance and hope that the government is taking steps to protect vulnerable populations. There might also be a mild sense of fear or concern acknowledged, but the overall tone is intended to be positive and proactive.",
+    "critique": "The document is an executive order focused on environmental health and safety risks to children. The primary emotion conveyed is concern for children's well-being. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and policy-oriented, aiming to establish a task force and guidelines for federal agencies. Therefore, the scores for most emotions should be low, with a slightly higher score for concern/care which translates to a low level of sadness.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 2,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

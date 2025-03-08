@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 7,
-        "disgust": 6,
-        "surprise": 5
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order aims to address international terrorism. The primary emotion the president wants to convey is a sense of fear and surprise in order to gain support for the order. The order also conveys a sense of disgust towards terrorism.",
+    "critique": "The document is a formal executive order. It aims to establish and define the responsibilities of the Global Engagement Center. The language is formal and legalistic, with no explicit emotional appeals. However, the underlying goal of countering terrorism could be associated with fear and disgust, but the document itself doesn't express these emotions directly. Therefore, the initial scores will be low across all emotions, with a slightly higher score for fear due to the context of counter-terrorism.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 8,
-        "disgust": 7,
-        "surprise": 6
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
     }
 }

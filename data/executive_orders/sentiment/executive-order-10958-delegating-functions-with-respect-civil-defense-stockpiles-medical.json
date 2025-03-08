@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that delegates functions related to medical and food stockpiles. The primary goal is to ensure civil defense preparedness. The intended emotional response is reassurance and confidence in the government's ability to handle emergencies. Therefore, the emotions to be conveyed are low levels of fear (to acknowledge the need for preparedness) and a moderate level of reassurance (a component of joy). There is no intention to convey disgust, surprise, or sadness.",
+    "critique": "The document is a formal executive order regarding the delegation of functions related to medical and food stockpiles. It is primarily administrative and legal in nature. There is no explicit or implicit emotional appeal to the public. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 7,
-        "disgust": 3,
-        "surprise": 1
-    },
-    "critique": "The executive order aims to convey a sense of fear and concern regarding the actions of the People's Republic of China (PRC). It highlights the PRC's exploitation of United States capital to enhance its military capabilities, posing a threat to the United States homeland and forces overseas. The order seeks to evoke a sense of urgency and the need for protective measures.The order does not want to convey joy, sadness, or surprise. Disgust is a secondary emotion that might be conveyed.",
-    "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
+        "joy": 1,
+        "sadness": 3,
         "fear": 8,
-        "disgust": 4,
+        "disgust": 6,
+        "surprise": 2
+    },
+    "critique": "The document expresses concern and determination regarding a perceived threat from China. It aims to convey a sense of urgency and the need for decisive action to protect national security. Therefore, the primary emotions conveyed are fear and a sense of determination to address the threat. There's also a hint of disgust at the actions of the PRC. There is no element of joy or surprise.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 9,
+        "disgust": 7,
         "surprise": 1
     }
 }

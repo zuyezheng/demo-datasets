@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of serious concern and decisive action rather than strong emotional responses. It highlights a labor dispute that could endanger national safety, warranting a measured response. Therefore, the primary emotions to consider are concern (leading to a touch of fear) and perhaps a sense of surprise that such measures are needed. There's no indication of joy, disgust, or overwhelming sadness. The order is formal and seeks to convey authority and responsibility.",
+    "critique": "The document is a formal declaration regarding a labor dispute. It doesn't express strong emotions. The primary emotion conveyed might be concern (leading to a sense of slight fear or worry) due to the potential impact of the strike on national safety. However, the language is very neutral and legalistic, so the intensity of any emotion is likely to be low. Therefore, I will assign low scores across all emotions, with a slightly higher score for fear.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that extends the employment of an agent. It does not contain language intended to evoke strong emotions. The primary emotion might be a mild sense of reassurance (joy) that a capable agent is allowed to continue their service, but this would be very mild. There is no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order regarding the exemption of Frank Burke from compulsory retirement. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

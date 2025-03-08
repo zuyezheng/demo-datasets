@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining the establishment and responsibilities of the National Communications System. It aims to ensure national security and emergency preparedness through telecommunications. The primary emotion it seeks to convey is a sense of security and preparedness, with a hint of seriousness due to the nature of the subject matter. There is no intention to evoke joy, disgust, or surprise. Fear might be a subtle undercurrent, but it's not the primary focus. Sadness is not relevant.",
+    "critique": "The document is an executive order regarding the National Communications System. It is a formal and legal document. The primary emotions conveyed are related to preparedness and security, but these are not emotions the public is expected to 'feel' so much as understand the importance of. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. The document aims to establish and coordinate telecommunications functions for national security and emergency preparedness. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of control and efficiency in enforcing the National Prohibition Act. It's unlikely to evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. The primary goal is to convey a sense of order and legal authority. However, there might be a slight sense of surprise at the detail of allowing state officers to be appointed, and perhaps a touch of joy for those who support prohibition.",
+    "critique": "The document is an executive order amending a previous order to allow state, county, or municipal officers to be appointed as prohibition officers. The language is formal and legalistic, with no explicit emotional expression. However, the context of enforcing the National Prohibition Act might evoke different emotions in different people. Supporters of prohibition might feel joy or satisfaction, while opponents might feel anger or disgust. However, since the document itself is neutral, the expected emotional response from the American public would likely be low across all emotions. Therefore, I will assign a score of 1 for each emotion initially. Upon further reflection, the act of strengthening the enforcement of a law could be seen as a positive action, potentially eliciting a slight sense of joy or approval in those who support the law. Therefore, I will revise the joy score to 2, while keeping the other scores at 1.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

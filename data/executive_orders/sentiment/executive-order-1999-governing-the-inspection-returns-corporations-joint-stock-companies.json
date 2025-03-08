@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order primarily aims to inform and instruct, not to evoke strong emotions. However, there might be a slight sense of reassurance (low joy) due to the establishment of clear rules and regulations. There is no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal order regarding income tax returns. It doesn't express any particular emotion. The language is legal and procedural, not designed to evoke feelings. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

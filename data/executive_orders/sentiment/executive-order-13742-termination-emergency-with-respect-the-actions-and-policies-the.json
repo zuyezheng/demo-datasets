@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 2,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 5
-    },
-    "critique": "The executive order discusses the termination of a national emergency with respect to Burma due to its progress in promoting democracy. The intended emotions are primarily joy and surprise, with joy stemming from the positive developments in Burma and surprise at the extent of these changes. There might be a slight element of sadness related to the previous state of emergency, but it's minimal. There's no indication of anger, fear, or disgust.",
-    "revised_scores": {
-        "joy": 8,
+        "joy": 5,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 3
+    },
+    "critique": "The document primarily conveys a sense of resolution and optimism due to the termination of a national emergency related to Burma. The language is formal and legalistic, but the underlying message is positive, highlighting Burma's progress towards democracy. There's a subtle sense of joy and relief, but it's not overtly expressed. There's no indication of anger, fear, or disgust. Surprise is also not a primary emotion conveyed, but there might be a slight sense of it given the significant changes in Burma.",
+    "revised_scores": {
+        "joy": 6,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
     }
 }

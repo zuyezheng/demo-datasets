@@ -6,10 +6,10 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, primarily focused on conveying a decision regarding an application for exemption. It doesn't appear to deliberately evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, intended to communicate the outcome of a hearing and the denial of an application. Therefore, the initial scores for all emotions would be low. Upon further reflection, the order might evoke a slight sense of relief in those who support the existing code and a mild sense of disappointment in those whose application was denied. However, these emotions are likely to be subdued. Therefore, the revised scores will remain low, with a slight increase in sadness to reflect the disappointment of the applicants.",
+    "critique": "The document is a formal announcement regarding a decision on a wage differential request. It uses formal language and aims to convey a sense of authority and impartiality. There is no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. The president is making a decision based on a report and legal authority. Therefore, all emotions should be scored low, with a score of 1 indicating a lack of conveyed emotion.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

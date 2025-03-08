@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to establish the National Infrastructure Assurance Council (NIAC) to protect the nation's critical infrastructure. The primary emotion the president wants to convey is a sense of security and preparedness, which can be interpreted as a reduction of fear. There might be a hint of surprise at the establishment of this new council, but it's not the main focus. There's no indication of joy, sadness, or disgust.",
+    "critique": "The document is an executive order establishing the National Infrastructure Assurance Council (NIAC). The language is formal and legalistic. The primary goal is to establish a council and define its functions related to protecting critical infrastructure. There's no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. However, the underlying context suggests a concern for national security, which could imply a degree of fear or concern. However, given the formal tone, the emotional impact on the public is likely to be minimal. Therefore, most emotions should be scored low, with a slightly higher score for fear due to the subject matter.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

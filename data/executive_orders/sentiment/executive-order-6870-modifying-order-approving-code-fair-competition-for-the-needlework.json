@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim for a sense of resolution and fairness. It addresses a disagreement and modifies a previous order to ensure representation and progress in the Needlework Industry in Puerto Rico. Therefore, the primary emotions conveyed should be joy (resolution of conflict) and perhaps a touch of surprise (due to the modification). There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order. It modifies a previous order regarding the Puerto Rican Needlework Commission. The language is legal and administrative, with no strong emotional indicators. Therefore, all emotions should be scored low, with a slight emphasis on surprise due to the modification of the previous order.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 2
     }
 }

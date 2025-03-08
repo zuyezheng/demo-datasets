@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to inspire joy and surprise because it aims to improve employment and industrial standards. The order does not seem to inspire fear, disgust, or sadness. The order may inspire a small amount of joy and surprise.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of purpose and determination to address unemployment and improve industrial standards. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and objective, aiming to establish a framework for industrial cooperation. Therefore, the initial scores for all emotions are set to 1, indicating a minimal presence.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

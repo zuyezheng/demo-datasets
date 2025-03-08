@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of stability, fairness, and perhaps a bit of reassurance. It outlines the rights of employees and aims to ensure compliance with labor laws. Therefore, the primary emotion it might want to convey is a sense of calm and trust in the government's role in protecting workers' rights. There might be a very slight element of surprise that the government is taking action to protect employee rights. There is no indication of sadness, disgust, fear, or joy.",
+    "critique": "The document is a formal executive order regarding the rights of employees and labor organizations. It aims to ensure efficient administration of government contracts. The language is legal and procedural, lacking emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

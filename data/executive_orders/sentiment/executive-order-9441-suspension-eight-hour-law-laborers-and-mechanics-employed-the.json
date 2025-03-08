@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 2,
         "fear": 4,
         "disgust": 1,
         "surprise": 3
     },
-    "critique": "The executive order discusses an emergency situation regarding the Veterans' Administration and the need for laborers and mechanics to work more than eight hours a day due to a shortage and the war effort. The order aims to convey a sense of urgency and importance, potentially eliciting feelings of concern and perhaps a sense of duty or resolve. It does not seem to want to convey joy. It could convey sadness because of the war. It could convey fear because of the emergency. It could convey surprise because of the emergency. It does not seem to want to convey disgust.",
+    "critique": "The document primarily conveys a sense of urgency and necessity due to the war. While it doesn't explicitly express emotions, the context suggests a focus on efficiency and overcoming obstacles. Therefore, I would expect some level of fear and surprise. The other emotions are not really present.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 5,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 3
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order discusses pay and allowances for the Civilian Conservation Corps Company, which could bring joy to those receiving the benefits. The specific details of the allowances might also be surprising. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding pay and allowances for the Civilian Conservation Corps. It is unemotional and purely administrative in nature. Therefore, all emotions should be scored very low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

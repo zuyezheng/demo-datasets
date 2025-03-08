@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 6,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of urgency and seriousness due to the national emergency. The order suspends certain provisions to aid national defense, suggesting a need for heightened vigilance and effort. Therefore, the primary emotion conveyed should be fear, with a secondary emotion of sadness due to the sacrifices being made during the emergency. There might also be a hint of surprise that such measures are necessary. There is no indication of joy, disgust, or anger.",
+    "critique": "The document is a formal declaration regarding the suspension of certain labor provisions for government employees during a national emergency. It does not explicitly convey any strong emotions. However, the context of a national emergency might evoke a sense of concern or seriousness. The language is formal and legalistic, which tends to suppress emotional expression. Therefore, the initial scores are set low across all emotions, with a slight increase in fear and sadness due to the emergency context. After further consideration, the formal tone and legal nature of the document suggest that the emotional impact on the public would be minimal. The revised scores reflect this by lowering the fear and sadness scores, emphasizing the document's neutral emotional tone.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 6,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is about giving federal employees a half-day off before Christmas. This is likely to evoke joy. There might be a little surprise that the president is giving a holiday gift. There is no indication of sadness, fear, or disgust.",
+    "critique": "The document is a formal executive order. It declares that federal government offices will be closed for half a day on December 24, 2015. The order also contains exceptions for national security, defense, or other public needs. There is no strong emotion conveyed in this document. It is a formal declaration. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

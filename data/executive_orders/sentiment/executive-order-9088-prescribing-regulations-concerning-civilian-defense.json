@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
+        "joy": 1,
+        "sadness": 2,
         "fear": 3,
-        "disgust": 0,
-        "surprise": 2
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining the responsibilities and authorities related to civilian defense during a time of war. The primary emotion the president likely wants to convey is a sense of reassurance and preparedness, which can be interpreted as a reduction of fear and an increase in confidence. There might also be a subtle element of surprise at the scale and organization of the civilian defense efforts. There is no indication of joy, sadness, or disgust.",
+    "critique": "The document is a formal executive order outlining regulations for civilian defense during wartime. The language is legalistic and bureaucratic, focusing on the allocation of resources and responsibilities. There is no explicit expression of emotion. However, the context of the order, being issued during wartime to protect against bombing attacks and sabotage, implies a sense of urgency and concern for public safety. The order aims to instill confidence and preparedness, but also acknowledges the potential for danger. Given the nature of the document, the emotions conveyed are likely subdued and controlled.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
+        "joy": 1,
+        "sadness": 2,
         "fear": 3,
-        "disgust": 0,
-        "surprise": 2
+        "disgust": 1,
+        "surprise": 1
     }
 }

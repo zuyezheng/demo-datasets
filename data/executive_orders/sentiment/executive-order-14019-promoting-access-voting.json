@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 4,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 3
-    },
-    "critique": "The executive order aims to evoke a sense of joy and hope by addressing historical inequalities in voting access and promoting inclusivity. It also acknowledges past injustices, which may evoke sadness. The order also conveys a sense of surprise that these issues still exist and need to be addressed.",
-    "revised_scores": {
-        "joy": 8,
+        "joy": 6,
         "sadness": 5,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 2
+    },
+    "critique": "The document expresses concern about obstacles to voting, especially for people of color, and aims to promote and defend the right to vote for all Americans. It focuses on expanding access to voter registration and combating misinformation. The overall tone is serious and determined, with an emphasis on fairness and equality. Therefore, sadness and anger are present due to the existing obstacles, but joy is also present due to the commitment to improve the situation. Surprise is not a major factor, and disgust is minimal. The intensity of each emotion is scored based on the document's content and context.",
+    "revised_scores": {
+        "joy": 7,
+        "sadness": 6,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 3
     }
 }

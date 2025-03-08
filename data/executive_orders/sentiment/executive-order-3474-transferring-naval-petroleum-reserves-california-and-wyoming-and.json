@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal declaration regarding the administration and conservation of oil and gas bearing lands. It doesn't seem designed to evoke strong emotions. However, one could argue that it aims to inspire a sense of trust (joy) in the government's ability to manage resources responsibly and perhaps a mild sense of reassurance (surprise) that resources are being protected. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding the administration and conservation of oil and gas bearing lands in naval petroleum reserves. It outlines the responsibilities of the Secretary of the Interior and emphasizes the need for consultation with the Secretary of the Navy regarding drilling or reserving lands. The language is legal and administrative, lacking emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

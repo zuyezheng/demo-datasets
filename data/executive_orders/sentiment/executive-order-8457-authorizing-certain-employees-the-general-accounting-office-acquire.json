@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of stability and order. It focuses on the continuation of employment and the formalization of civil service status for certain employees. Therefore, the primary emotion conveyed should be joy for those benefiting from the order, and perhaps a mild sense of surprise that such an order was needed. There's no strong indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding the civil service status of certain employees. It does not express any particular emotion. The language is legal and bureaucratic, intended to be precise and unambiguous, not to evoke feelings. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

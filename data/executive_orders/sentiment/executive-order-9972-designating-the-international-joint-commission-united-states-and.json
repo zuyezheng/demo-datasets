@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal declaration. The likely emotions the president wants to convey are low levels of joy and surprise. There may also be a low level of disgust towards entities not following the order. The order does not seem to want to convey sadness, fear, or anger.",
+    "critique": "The document is a formal executive order. It designates the International Joint Commission-United States and Canada as a public international organization. The language is legal and procedural, and the tone is neutral. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

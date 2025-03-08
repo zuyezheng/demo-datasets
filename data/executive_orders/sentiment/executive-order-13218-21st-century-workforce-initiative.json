@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim for a sense of optimism and confidence in addressing workforce challenges. It establishes offices and councils, suggesting a proactive approach. Therefore, joy and surprise might be emotions the president wants to convey. There's no indication of sadness, fear, or disgust.",
+    "critique": "The document is an executive order establishing an office and council related to the 21st Century Workforce. It is a formal and official document. The language is neutral and objective, with no explicit emotional expression. Therefore, all emotions should be scored low initially. There might be a slight sense of joy or optimism associated with promoting workforce development, but it's very subtle. After a second thought, the order seems to be more about addressing potential issues and changes, so a slight sense of surprise might be present, but still low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

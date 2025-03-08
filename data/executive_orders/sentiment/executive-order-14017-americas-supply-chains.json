@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 2,
         "sadness": 1,
         "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to reassure the public and project an image of competence and proactiveness. It seeks to instill a sense of security and confidence in the government's ability to manage supply chains and protect national interests. The order also aims to convey a sense of hope and optimism about the future, emphasizing the potential for economic growth, job creation, and technological advancement. The order does not want to convey sadness, anger, disgust, or fear.",
+    "critique": "The document is a formal executive order focused on strengthening supply chains. The language is formal and policy-oriented. There is no explicit expression of emotions. However, the document addresses potential threats and vulnerabilities, which could implicitly convey a sense of concern or urgency. The policy aims to promote economic prosperity and national security, which could be interpreted as conveying a sense of hope or optimism. Considering the potential threats and vulnerabilities, I will assign a low score to fear. Considering the aim to promote economic prosperity and national security, I will assign a low score to joy. All other emotions will be assigned a score of 1.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

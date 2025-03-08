@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim to instill a sense of urgency and resolve rather than specific emotions like joy, sadness, anger, fear, disgust, or surprise. The order focuses on efficiently filling Federal service positions during a time of war. While it acknowledges the impact of the war on citizens, the primary goal is to streamline the hiring process. Therefore, the scores for all emotions should be relatively low. The initial scores are set to reflect a minimal level of each emotion, and the revised scores will remain the same after considering the context and purpose of the executive order.",
+    "critique": "The document is a formal executive order. It expresses a sense of urgency and necessity due to the ongoing war. There's no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. However, the context implies a degree of concern (akin to worry or perhaps a mild form of fear) about staffing the Federal service during wartime. The order aims to address potential disruptions caused by the war. The intensity of any emotion conveyed is likely to be low, as the document maintains a professional and detached tone. Therefore, I will assign low scores across all emotions, with a slightly higher score for fear/concern.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 2,
         "disgust": 1,
         "surprise": 1

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of responsibility and action towards environmental quality. It establishes a council and outlines its functions, suggesting a proactive approach. Therefore, the primary emotion conveyed should be joy that action is being taken, with a lesser degree of surprise at the establishment of the council. There is no indication of sadness, fear, or disgust.",
+    "critique": "The document is an executive order establishing the National Industrial Pollution Control Council. It is a formal and legal document. The language is neutral and objective, and there is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 7,
-        "disgust": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a legal document that aims to control financial transactions involving Norway and Denmark during World War II. The primary emotion conveyed is fear, as the order restricts financial activities to prevent potential threats. There might be a hint of disgust towards those who might try to evade the restrictions. There is no element of joy or surprise. Sadness is not a primary emotion, but the context of war might evoke a sense of sadness. The order is not intended to make people feel any particular emotion, but rather to enforce a policy. However, given the context of the war, fear is likely the strongest emotion conveyed, followed by a sense of sadness and perhaps a touch of disgust towards potential evaders.",
+    "critique": "The document is a formal executive order amending a previous order regarding financial transactions involving Norway and Denmark. The language is legal and technical, with no explicit emotional expression. However, the context of the order, issued shortly after the invasion of Norway and Denmark by Germany in April 1940, suggests an underlying sense of concern and a need for protective measures. The order aims to prevent financial exploitation by potentially hostile entities. Given the context, a sense of fear and disgust might be inferred, but the document itself remains neutral. Therefore, the initial scores will be low across all emotions, with a slight increase in fear and disgust due to the historical context. Revised scores will reflect a more nuanced understanding of the document's implications.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 8,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 3,
-        "surprise": 1
+        "surprise": 2
     }
 }

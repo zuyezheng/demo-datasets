@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 7
+        "surprise": 1
     },
-    "critique": "The executive order is about pay for enlisted men in the Navy. It seems like the order is trying to convey joy and surprise. The order is not trying to convey sadness, anger, fear, or disgust.",
+    "critique": "The document discusses a pay increase for enlisted men in the Navy based on good conduct. This suggests a positive sentiment, potentially conveying joy or approval. However, the language is formal and bureaucratic, which might temper the emotional impact. The lack of strong emotional cues in the text makes it difficult to assign high scores to any particular emotion. I will assign a low score to joy and a score of 1 to the other emotions due to lack of information.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 7
+        "surprise": 1
     }
 }

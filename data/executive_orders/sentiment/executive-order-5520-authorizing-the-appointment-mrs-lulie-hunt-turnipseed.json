@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 5,
+        "joy": 1,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise that Mrs. Lulie Hunt Tumipseed may be appointed to a suitable position in the Treasury Department without regard to the requirements of the civil service rules. The order also wants to convey sadness that Mrs. Tumipseed is the widow of a commissioned medical officer of the Public Health Service who died in the service on April 25, 1930, at Spokane, Wash.The order does not want to convey anger, fear, or disgust.",
+    "critique": "The document is a recommendation for Mrs. Lulie Hunt Tumipseed to be appointed to a position in the Treasury Department. The document mentions the death of Mrs. Tumipseed's husband, which may evoke sadness. However, the overall tone of the document is neutral and formal. Therefore, the scores for joy, fear, disgust, and surprise should be low. The score for sadness should be slightly higher due to the mention of her husband's death.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 5,
+        "joy": 1,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 5,
-        "disgust": 1,
-        "surprise": 1
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 2
     },
-    "critique": "The executive order is a formal document outlining the classification and protection of national defense information. The primary emotion it aims to convey is a sense of security and order. It seeks to reassure citizens that the government is taking necessary steps to protect national defense information while also ensuring transparency and limiting unnecessary classification. Fear is also conveyed because it describes the potential damage to the nation if the information is disclosed. Surprise is not really conveyed.",
+    "critique": "The document is a formal executive order regarding the classification of national defense information. It aims to establish a system for protecting sensitive information. The language is formal and legalistic, focusing on procedures and responsibilities. There is no explicit attempt to convey any particular emotion. However, the implicit emotions conveyed might be fear and disgust, due to the need to protect national defense information from enemies, and surprise, due to the need to classify new information. The intensity of these emotions is relatively low, as the document is primarily concerned with establishing a system rather than expressing feelings.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 5,
-        "disgust": 1,
-        "surprise": 1
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 2
     }
 }

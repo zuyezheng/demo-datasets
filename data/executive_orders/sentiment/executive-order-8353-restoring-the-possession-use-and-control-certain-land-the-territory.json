@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a dry, factual declaration, so it shouldn't evoke strong emotions. The order is restoring land to the Territory of Hawaii. This might bring a slight sense of joy to those who benefit from this restoration, but overall, the emotional impact is minimal.",
+    "critique": "The document is a formal order regarding land use in Hawaii. It's a legal document, so it's unlikely to evoke strong emotions. The language is very technical and specific, not designed to elicit an emotional response. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

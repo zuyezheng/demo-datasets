@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 7,
-        "disgust": 6,
-        "surprise": 3
-    },
-    "critique": "The executive order aims to convey a sense of seriousness and determination in addressing the issue of hostage-taking and wrongful detention of US nationals. It highlights the threat to national security and the government's commitment to securing the release of those held. The order also seeks to deter such actions by imposing costs on those responsible. Therefore, the primary emotions conveyed are concern/fear (about the threat) and determination/resolve (to address it). There might be a slight element of surprise conveyed by the declaration of a national emergency, but it's not the main focus. Joy and sadness are not emotions the order is trying to convey. Disgust is a possible emotion, considering the description of hostage-taking as heinous.",
-    "revised_scores": {
-        "joy": 1,
-        "sadness": 2,
+        "sadness": 5,
         "fear": 8,
         "disgust": 7,
-        "surprise": 3
+        "surprise": 2
+    },
+    "critique": "The document expresses concern and determination regarding hostage-taking and wrongful detention of US nationals. It aims to convey a sense of seriousness and resolve in addressing these issues. The president is not attempting to portray joy. The document evokes fear due to the threat to national security and the safety of citizens abroad. There is a sense of disgust towards the heinous acts of hostage-taking and wrongful detention. Surprise is not a primary emotion conveyed, as the document focuses on addressing an existing problem. Sadness is present due to the plight of those held hostage or wrongfully detained, but it is not the dominant emotion. The document primarily conveys fear and disgust, with some sadness.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 6,
+        "fear": 9,
+        "disgust": 8,
+        "surprise": 1
     }
 }

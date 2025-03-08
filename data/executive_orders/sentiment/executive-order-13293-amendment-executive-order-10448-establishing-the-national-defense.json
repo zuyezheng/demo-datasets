@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document. It extends eligibility for the award of the National Defense Service Medal to members in good standing in the Selected Reserve of the Armed Forces. The order does not seem to convey any strong emotions. It is a formal declaration. Therefore, the initial scores for all emotions should be low. Upon further reflection, the order might evoke a slight sense of joy for those who are now eligible for the award. Therefore, the joy score should be slightly higher than the other scores.",
+    "critique": "The document is a formal executive order. It extends eligibility for the award of the National Defense Service Medal. The language is formal and legalistic. There is no explicit or implicit emotional content. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

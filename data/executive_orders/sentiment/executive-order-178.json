@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of joy and surprise because it is setting aside land for an agricultural experiment station. The order does not seem to convey any sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal order regarding land reservation for an agricultural experiment station. It uses formal and legal language, indicating a serious and official tone. There is no explicit or implicit expression of joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored as 1 due to the lack of emotional content.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

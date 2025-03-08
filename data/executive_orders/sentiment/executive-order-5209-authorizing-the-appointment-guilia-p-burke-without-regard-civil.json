@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want the audience to feel joy and surprise. The order is about appointing a woman to a classified position, which could be seen as a positive thing. The fact that she is the wife of a disabled World War veteran could also evoke feelings of joy and surprise. However, the order does not seem to want the audience to feel sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal announcement of an appointment. It expresses no explicit emotion. The recommendation by the Secretary of Treasury suggests a degree of approval or satisfaction, but this is not strongly conveyed. The mention of Mrs. Burke being the wife of a disabled World War veteran might evoke some sympathy or respect, but again, this is not the primary focus. Therefore, all emotions are scored low initially. Upon review, the mention of the veteran's wife could slightly increase sadness and joy.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

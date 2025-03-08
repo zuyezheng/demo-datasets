@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a formal announcement about the allotment of justices to different circuits. It's primarily informational and doesn't seem designed to evoke strong emotions. However, there might be a slight sense of reassurance or stability conveyed by the order, suggesting a low level of joy. There is no indication of sadness, anger, fear, or disgust. Surprise is unlikely, as this is a routine administrative action.",
+    "critique": "The document is a formal announcement of the allotment of Supreme Court justices to different circuits. It is a factual statement with no emotional language. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and stability, suggesting a low level of joy. There's no indication of sadness, anger, fear, or disgust. A slight sense of surprise might be present due to the immediate approval of certain provisions.",
+    "critique": "The document is a formal approval of certain provisions for the Cotton Thread Industry, aligning them with the Cotton Textile Code. The language is legal and administrative, lacking emotional expression. There's no indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

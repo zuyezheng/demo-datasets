@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that amends a previous order regarding the President's Certificate of Merit. The order itself does not contain language intended to evoke strong emotions. The amendment clarifies that the Certificate of Merit will not be awarded for acts or services after the end of WWII hostilities and sets a deadline for submissions. The primary purpose is administrative and procedural rather than emotional. Therefore, the expected emotion scores should be very low across all emotions. The initial scores reflect this assessment.",
+    "critique": "The document is a formal executive order regarding the President's Certificate of Merit. It clarifies that the certificate will not be awarded for acts or services after the end of World War II hostilities and sets a deadline for proposals. The language is formal and legalistic, with no explicit emotional expression. However, the context of ending an award related to the war might evoke a sense of closure or perhaps slight sadness for some, but overall, the emotional impact is minimal. Therefore, most emotions should be scored low, with a slightly higher score for sadness due to the ending of the award.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

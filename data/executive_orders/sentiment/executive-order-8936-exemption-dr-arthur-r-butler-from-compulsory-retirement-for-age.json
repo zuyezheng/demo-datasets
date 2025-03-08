@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, primarily focused on the administrative decision to extend Dr. Butler's service. It doesn't obviously evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, there might be a subtle element of reassurance or stability conveyed by ensuring the continuity of Dr. Butler's service during a specific period (ending March 31, 1943), which could be interpreted as a very mild form of positive sentiment. Therefore, I will assign low scores to joy and surprise and zero to the rest. After a second thought, the order is very procedural and unlikely to evoke any emotion. The initial assessment was too generous.",
+    "critique": "The document is a formal order from the President to exempt Dr. Arthur R. Butler from compulsory retirement. The language is formal and legalistic, and the tone is neutral. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

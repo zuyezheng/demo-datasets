@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 8,
+        "sadness": 9,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is a formal announcement of the death of the Speaker of the House. The primary emotion conveyed should be sadness. There might be a touch of surprise due to the unexpected nature of death, but sadness should be the dominant emotion. The order aims to evoke respect and solemn recognition, not joy, anger, fear, or disgust.",
+    "critique": "The president is conveying sadness due to the death of the Speaker of the House. There is no indication of joy, anger, fear, disgust, or surprise. The intensity of sadness is high due to the solemn nature of the announcement.",
     "revised_scores": {
         "joy": 1,
         "sadness": 9,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is about creating a bird refuge. The primary emotion the president wants to convey is joy that the birds will be protected. There might also be a little surprise that the refuge is being created. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal declaration establishing a wildlife refuge. The language is legal and official, with no explicit emotional expression. However, the act of preserving land for wildlife could be interpreted as conveying a sense of joy or hope for the future. However, given the formal tone, the emotional impact is likely to be minimal. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to instill a sense of joy and surprise in farmers by providing them with financial assistance. The order could also instill a sense of relief, which can be related to joy. There's no indication of negative emotions like sadness, fear, or disgust being intentionally conveyed. The intensity of joy and surprise would likely be moderate, as the order provides practical assistance rather than eliciting extreme emotional responses.",
+    "critique": "The document is a formal executive order regarding loans to farmers. It does not express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 1
     }
 }

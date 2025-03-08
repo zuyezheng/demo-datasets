@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 5,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 3
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order is to approve a code of fair competition for the Concrete Masonry Industry. This would bring joy to the industry and surprise to those who didn't know it was coming. The order does not seem to want to convey sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Concrete Masonry Industry by President Franklin D. Roosevelt. The language is formal and legalistic, with no explicit expression of emotions. However, given the context of the Great Depression and the New Deal, the announcement likely conveys a sense of optimism and hope for economic recovery. The president is trying to portray joy and surprise that the act is approved. The intensity of these emotions is likely to be moderate, as the announcement is just one step in a larger effort. Disgust, fear, and sadness are not relevant in this context, so they should be scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 5,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 3
     }
 }

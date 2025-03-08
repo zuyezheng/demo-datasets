@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of confidence and optimism regarding improvements in government efficiency. It emphasizes effectiveness, economy, and better service. Therefore, the primary emotion conveyed should be joy, with a secondary emotion of surprise at the positive changes. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order. It expresses a sense of purpose and determination to improve government efficiency. There's no strong indication of joy, sadness, fear, disgust, or surprise. The primary emotion conveyed, if any, is a mild sense of determination or perhaps optimism about improving government operations. The scores should reflect this neutrality, with low values for all emotions.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

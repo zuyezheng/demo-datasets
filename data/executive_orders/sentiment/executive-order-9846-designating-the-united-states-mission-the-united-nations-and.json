@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of order, stability, and national purpose. There might be a hint of joy in reaffirming the US's role in the UN, but it's very subtle. There's no strong indication of sadness, anger, fear, or disgust. Surprise is unlikely, as the order is about defining functions, not introducing something unexpected.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and official procedure rather than any strong emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

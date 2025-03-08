@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 1,
-        "fear": 6,
-        "disgust": 3,
-        "surprise": 4
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 2,
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim to convey a sense of urgency and concern regarding a labor dispute. The mention of 'imperiling the national health and safety' suggests an attempt to evoke fear and perhaps some level of disgust at the potential consequences of the lock-out. There might also be a subtle element of surprise conveyed by the sudden intervention. Joy and sadness don't seem to be emotions the order is trying to convey.",
+    "critique": "The document expresses concern about a labor dispute and its potential impact on national health and safety. It invokes legal authority to create a Board of Inquiry. The language is formal and legalistic, suggesting a serious and potentially negative situation. \n\nInitial scores:\n*   Disgust: 2 (Slight disgust at the situation)\n*   Fear: 5 (Concern about national health and safety)\n*   Joy: 1 (No joy conveyed)\n*   Sadness: 3 (Sadness about the dispute and its impact)\n*   Surprise: 2 (Slight surprise at the situation escalating to this point)\n\nRevised scores:\n*   Disgust: 2 (The situation is not pleasant, but disgust is not the primary emotion.)\n*   Fear: 6 (The mention of national health and safety raises the fear level.)\n*   Joy: 1 (There is no expression of joy.)\n*   Sadness: 3 (The dispute and potential impact are unfortunate.)\n*   Surprise: 2 (The situation may be unexpected, but not shocking.)",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 1,
-        "fear": 7,
-        "disgust": 4,
-        "surprise": 5
+        "joy": 1,
+        "sadness": 3,
+        "fear": 6,
+        "disgust": 2,
+        "surprise": 2
     }
 }

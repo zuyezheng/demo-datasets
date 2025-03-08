@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems formal and procedural. The president likely wants to convey a sense of stability and order. There is no obvious intention to evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, a very mild sense of reassurance or perhaps even a hint of optimism might be present due to the establishment of international cooperation. Therefore, I will assign low scores to joy and surprise, and zero to the rest.",
+    "critique": "The document is a formal declaration designating certain international organizations as public international organizations. It outlines the legal basis for this designation and assigns responsibility to the Department of State for handling future applications. The language is formal and legalistic, with no overt expression of emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want the audience to feel joy and surprise. The order discusses an appointment of someone to a position and notes that he is qualified. The order is also issued upon recommendation of the Secretary of the Navy, which should inspire confidence. The order should not inspire sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal announcement regarding the appointment of Mr. James Lawrence Bent. It outlines his qualifications and the reason for the special appointment. There is no language used to evoke any particular emotion. The tone is neutral and factual. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

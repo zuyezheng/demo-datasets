@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to instill a sense of joy and optimism by establishing an award program that recognizes environmental achievements. It also subtly conveys a sense of hope and encouragement for future environmental efforts. There's no indication of negative emotions like sadness, anger, fear, or disgust. Surprise is also not a primary emotion the order intends to evoke.",
+    "critique": "The document is a formal executive order establishing an environmental award program. The language is legal and procedural, with a focus on establishing the program's structure, eligibility, and administration. There is no strong emotional sentiment conveyed in the document. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

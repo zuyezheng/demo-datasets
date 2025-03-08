@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of seriousness and determination in addressing a threat to US foreign policy. It invokes legal authorities and outlines specific actions to be taken. The order likely intends to instill a sense of confidence and security, while also signaling a firm stance against illicit activities. It does not obviously evoke joy, sadness, or surprise. There might be a slight element of fear conveyed due to the mention of a 'national emergency' and 'threat,' and possibly some disgust related to the 'unlawful depletion of Liberian resources.'",
+    "critique": "The document primarily conveys a sense of seriousness and determination to address a threat to US foreign policy. While there isn't a strong expression of any particular emotion, the declaration of a national emergency suggests a level of concern and perhaps a hint of fear regarding the situation in Liberia. However, the overall tone is formal and legalistic, limiting the emotional impact. The initial scores reflect this, with low values for all emotions. The revised scores slightly increase the fear and sadness scores to acknowledge the underlying concern and the negative impact on Liberia, but maintain low scores for other emotions due to the document's formal nature.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 5,
-        "disgust": 4,
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 1,
         "surprise": 1
     }
 }

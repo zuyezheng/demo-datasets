@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 8,
-        "disgust": 7,
-        "surprise": 6
+        "disgust": 6,
+        "surprise": 3
     },
-    "critique": "The executive order aims to instill a sense of fear and concern regarding foreign interference in US elections. It also conveys a sense of disgust towards such interference and surprise at the extent of the threat. There is no indication of joy or sadness being conveyed.",
+    "critique": "The document is an executive order declaring a national emergency regarding foreign interference in US elections. The primary emotion conveyed is fear, due to the declared threat to national security. There's also a sense of disgust towards foreign interference. Surprise is less relevant, as the document acknowledges historical attempts at interference. Joy and sadness are not directly conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 9,
-        "disgust": 8,
-        "surprise": 7
+        "disgust": 7,
+        "surprise": 2
     }
 }

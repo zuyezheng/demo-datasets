@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 7,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order primarily aims to ensure the security of United States ports and vessels. The order itself is a set of amendments and regulations. The primary emotion conveyed would likely be fear, as it addresses potential threats to national security. There might also be a sense of surprise as new subparts are added. There is no indication of joy or sadness. Disgust is not directly relevant, but could be a secondary emotion related to potential security breaches.",
+    "critique": "The document is a legal amendment regarding port security. It primarily focuses on regulations and enforcement, suggesting a context of potential threats and the need for vigilance. The language is formal and procedural, lacking emotional expression. Therefore, the primary emotion conveyed would be fear, due to the security concerns, but at a low level. Other emotions are not significantly present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 8,
-        "disgust": 2,
-        "surprise": 4
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
     }
 }

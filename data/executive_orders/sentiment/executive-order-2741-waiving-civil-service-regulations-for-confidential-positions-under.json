@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 7
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey a sense of surprise that the president is making these appointments. It also wants to convey a sense of joy that the people being appointed are loyal and willing to work for a nominal salary. The order does not seem to want to convey any other emotions.",
+    "critique": "The document discusses appointments during wartime, focusing on loyalty and confidentiality. There's no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. The tone is formal and administrative. Therefore, all emotions should be scored low, with a default of 1 due to lack of emotional content.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 7
+        "surprise": 1
     }
 }

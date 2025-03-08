@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and stability. The order modifies a previous agreement to ensure fair and equal treatment of employers, suggesting a desire to alleviate concerns and promote confidence in the government's actions. There's a subtle element of surprise as the order introduces a modification to the existing agreement, but it's not a primary emotion. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal presidential order modifying a previous agreement. The language is legalistic and devoid of emotional expression. The primary goal is to inform and direct, not to evoke any particular emotion. Therefore, all emotions should be scored low. Since there isn't enough information, I will use a score of 1.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

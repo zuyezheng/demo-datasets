@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems formal and procedural. The likely intended emotion is a mild sense of joy that the government is functioning as expected. There is no indication of fear, disgust, sadness, or surprise.",
+    "critique": "The document is a formal executive order. It is unlikely to evoke strong emotions in the American public. The order designates several international organizations as public international organizations entitled to enjoy certain privileges, exemptions, and immunities. It also revokes a previous executive order. Therefore, the initial scores for all emotions are set to 1.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a routine administrative action regarding the liquidation of an office. It doesn't seem designed to evoke strong emotions. However, one could argue there's a slight sense of sadness associated with the closure of an office, and perhaps a touch of surprise that such an office existed. The intensity of these emotions would likely be very low.",
+    "critique": "The document is a formal executive order regarding the liquidation of the Office of the Bituminous Coal Consumers' Counsel. It is a factual and procedural document, and it does not express or evoke strong emotions. The language is neutral and objective. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

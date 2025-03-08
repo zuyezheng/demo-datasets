@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to instill a sense of security and control. It outlines the roles of the Secretary of Homeland Security and the Secretary of State in managing the arrival and departure of people from the United States. The order emphasizes national security, which might evoke a sense of fear in some, but it also aims to provide reassurance through the establishment of clear procedures. The mention of judicial review aims to limit potential legal challenges, further reinforcing a sense of control and stability. Therefore, the primary emotions conveyed are fear and surprise. The intensity of fear is moderate, as the order is presented as a measure to strengthen national security rather than an immediate threat. Surprise is also moderate, as the order introduces changes to existing procedures.",
+    "critique": "The document is a formal executive order regarding immigration and national security. It outlines the functions of the Secretary of Homeland Security and the Secretary of State concerning the arrival and departure of persons from the United States. The language is legal and procedural, with no explicit emotional expression. However, the context of strengthening national security might implicitly convey a sense of fear or concern. Given the formal and legal nature of the document, the expected emotional response from the public would likely be minimal. Therefore, most emotions should be scored low. I will revise the scores to reflect the slightly increased fear.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

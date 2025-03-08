@@ -6,9 +6,9 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a dry, administrative document. It amends a subdivision of the Civil Service Rules related to housing projects. There's no obvious attempt to evoke strong emotions. The order seems to be a matter of procedure and efficiency. Therefore, the initial scores for all emotions should be very low. Upon further reflection, the order might evoke a tiny sense of relief or satisfaction in those who manage federal low-rent housing projects, so I will adjust the joy score slightly.",
+    "critique": "The document is a formal executive order. It amends civil service rules related to housing authority positions. The language is formal and legalistic, not designed to evoke strong emotions. Therefore, all emotions should be scored low. There is no indication of joy, sadness, anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order is a formal announcement about the end of a military district and the reassignment of its personnel and resources. It is unlikely that the president wants the audience to feel any strong emotions. The order is purely administrative and informational. Therefore, all emotions should be scored very low.",
+    "critique": "The document is a military order regarding the State of Mississippi. It announces the cessation of the Fourth Military District and the reassignment of Mississippi to the Department of the Cumberland. The language is formal and bureaucratic, with no explicit emotional expression. However, the context suggests a sense of resolution and perhaps relief that the Reconstruction era is progressing. The order itself doesn't convey strong emotions, but the underlying implication of ending military control could evoke a subtle sense of joy or relief. However, without further information, it is difficult to gauge the intended emotion, so a score of 1 is appropriate for most emotions. Given the context of Reconstruction, there might be a slight sense of surprise at the progress, but it's not strongly conveyed.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

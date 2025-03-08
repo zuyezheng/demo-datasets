@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document outlining procedures for citizens of American republics to receive instruction at US educational institutions. It doesn't seem designed to evoke strong emotions. However, there might be a slight sense of joy associated with the idea of international cooperation and education, and perhaps a touch of surprise that such an order is being issued. The order does not seem to evoke sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order detailing the process for citizens of American republics to receive instruction at US educational institutions. The language is legalistic and procedural, lacking emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

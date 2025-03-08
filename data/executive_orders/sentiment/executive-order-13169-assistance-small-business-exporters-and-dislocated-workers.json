@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 6,
         "sadness": 4,
         "fear": 3,
-        "disgust": 1,
-        "surprise": 3
+        "disgust": 2,
+        "surprise": 5
     },
-    "critique": "The executive order aims to convey a sense of joy and hope by highlighting new opportunities for small businesses and dislocated workers. It also acknowledges potential sadness and fear associated with job losses due to imports, but seeks to mitigate these emotions through adjustment assistance. There might be a hint of surprise at the new trade relations and opportunities. Disgust is not a primary emotion conveyed.",
+    "critique": "The document primarily focuses on policy and trade, with the goal of assisting small businesses and dislocated workers. There's a sense of optimism and opportunity related to trade, but also an acknowledgment of potential job losses. Therefore, I would expect to see some joy and surprise, but also some sadness and perhaps a little fear or disgust related to job losses and competition. The initial scores reflect this assessment.",
     "revised_scores": {
         "joy": 7,
-        "sadness": 4,
-        "fear": 3,
+        "sadness": 3,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 6
     }
 }

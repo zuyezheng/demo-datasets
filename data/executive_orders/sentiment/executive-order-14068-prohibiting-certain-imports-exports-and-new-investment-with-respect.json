@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 4,
         "fear": 3,
-        "disgust": 4,
+        "disgust": 6,
         "surprise": 2
     },
-    "critique": "The executive order aims to convey a sense of resolve and determination to address a national emergency. It's unlikely to evoke joy or sadness. There might be a mild sense of surprise at the extent of the measures, but primarily, it should instill a sense of seriousness and perhaps a touch of fear in those who might be affected by the sanctions. Disgust might be felt towards the actions that led to the order.",
+    "critique": "The document is an executive order imposing sanctions on Russia. It is a formal and legal document. The primary emotion conveyed would likely be a sense of resolve and perhaps a degree of anger or disgust towards the actions that led to the sanctions. However, the document itself is written in a neutral tone, so the emotional impact is more about the context than the explicit language.I will score it accordingly.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 4,
-        "disgust": 5,
-        "surprise": 3
+        "sadness": 4,
+        "fear": 3,
+        "disgust": 6,
+        "surprise": 2
     }
 }

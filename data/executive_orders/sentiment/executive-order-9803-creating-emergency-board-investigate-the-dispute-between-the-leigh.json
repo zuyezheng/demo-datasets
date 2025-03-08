@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to convey a sense of urgency and importance, but not necessarily strong emotions. It's more about addressing a potential disruption to essential services. Therefore, the scores should be relatively low across the board. The initial scores reflect this, but the revised scores are even lower to emphasize the lack of strong emotional intent.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It doesn't express any particular emotion. The language is neutral and legalistic. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

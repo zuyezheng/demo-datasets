@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 4,
+        "sadness": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and hope by continuing conservation work and providing relief and employment. Therefore, joy should be conveyed. There's no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order regarding the allocation of funds for emergency conservation work. It cites specific acts and executive orders, focusing on the legal and financial aspects of the allocation. The language is formal and procedural, with no explicit emotional expression. However, the underlying purpose of the order is to provide relief, work relief, and increase employment, which could be associated with positive emotions like joy and reduced negative emotions like fear and sadness. The allocation of funds and authorization of actions suggest a sense of determination and purpose, but not necessarily strong emotions. The document does not convey any explicit anger, disgust, or surprise. The initial scores will reflect the implicit emotions related to relief and work relief, with low scores for other emotions. The revised scores will consider the lack of explicit emotional expression and adjust the scores accordingly.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 1,
+        "joy": 3,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

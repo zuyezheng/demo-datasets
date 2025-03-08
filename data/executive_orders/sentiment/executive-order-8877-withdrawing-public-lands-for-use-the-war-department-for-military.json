@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a legal document that withdraws land for military purposes. It is unlikely to evoke strong emotions. The primary goal is to inform and direct, not to elicit an emotional response. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order detailing the withdrawal of specific lands in Alaska for military purposes. The language is precise and legalistic, focusing on geographical coordinates and boundaries. There is no explicit emotional expression in the text. However, the act of reserving land for military use could implicitly convey a sense of preparedness or concern for national security, which might evoke a sense of fear or security depending on the reader's perspective. Given the context of 1941, with World War II escalating, a sense of preparedness is more likely. The order itself doesn't express joy, sadness, disgust, or surprise. Therefore, the primary emotion conveyed, if any, is a subdued sense of preparedness, which might translate to a low level of fear or a slightly higher level of security/confidence. I will score fear as 3 and joy as 2, to represent a very mild sense of reassurance that the country is preparing for war. The other emotions are not present.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

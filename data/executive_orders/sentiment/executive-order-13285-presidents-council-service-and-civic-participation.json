@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 2
-    },
-    "critique": "The executive order seems to aim for a sense of civic duty and encouragement, suggesting a mild sense of joy and perhaps a touch of surprise at the establishment of the council. There's no indication of sadness, anger, fear, or disgust. The joy is related to the positive impact of volunteer work, and the surprise is related to the new initiative. The intensity is relatively low as the order is formal and not overly emotional.",
-    "revised_scores": {
         "joy": 4,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing the President's Council on Service and Civic Participation. It aims to encourage volunteer service and civic participation, particularly among youth. The language is formal and legalistic.The primary emotion conveyed is a sense of civic duty and encouragement, which can be interpreted as a mild form of joy or optimism. There's no indication of sadness, anger, fear, or disgust. Surprise is also not relevant in this context. Initial scores: Joy: 4, Sadness: 1, Anger: 1, Fear: 1, Disgust: 1, Surprise: 1. Revised scores: Joy: 3, Sadness: 1, Anger: 1, Fear: 1, Disgust: 1, Surprise: 1.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 4,
-        "sadness": 2,
-        "fear": 6,
-        "disgust": 1,
-        "surprise": 3
-    },
-    "critique": "The executive order aims to inspire confidence and a sense of urgency in mobilizing resources for the war effort. It should not evoke sadness, disgust, or excessive surprise. Joy is not the primary emotion, but a sense of hope and resolve is intended. Fear is a component, acknowledging the gravity of the situation, but it should be balanced with confidence in the plan.",
-    "revised_scores": {
-        "joy": 5,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 5,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding war production. It aims to mobilize resources and streamline contracting processes. The primary emotion conveyed is a sense of urgency and determination to win the war. There's an underlying sense of fear related to the war, but it's not explicitly stated. There's no explicit joy, sadness, disgust, or surprise conveyed in the document. The language is formal and legalistic, focusing on authorization and regulation.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 1
     }
 }

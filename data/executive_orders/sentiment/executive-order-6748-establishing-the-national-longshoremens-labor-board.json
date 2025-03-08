@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 3,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and confidence in addressing labor issues. It establishes a board to investigate and resolve disputes, suggesting a proactive approach to problem-solving. While it doesn't explicitly evoke strong emotions, it subtly aims to reduce fear and instill a sense of stability. The order does not seem to evoke joy, disgust, or surprise.",
+    "critique": "The document is a formal executive order establishing the National Longshoremen's Labor Board. The language is legal and procedural, with no explicit emotional expression. However, the creation of the board suggests an attempt to address labor problems and prevent obstruction of commerce, which could be interpreted as a response to negative situations like strikes and discrimination. Therefore, there might be a subtle undercurrent of addressing sadness and fear (of economic disruption) and potentially disgust (at unfair labor practices). Surprise and joy are unlikely to be conveyed. The scores should be low, reflecting the document's formal tone.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 3,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

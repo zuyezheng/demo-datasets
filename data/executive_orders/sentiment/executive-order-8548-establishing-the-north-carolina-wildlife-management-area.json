@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 2
+        "joy": 5,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
     },
-    "critique": "The executive order seems to aim for a sense of calm and assurance. It focuses on transferring land for wildlife preservation, which could evoke a sense of joy and perhaps a little surprise that the government is taking such action. However, the overall tone is formal and administrative, so the emotional impact is likely to be mild. The initial scores reflect this, with joy and surprise being the only emotions with non-zero values. After further consideration, I think the joy score is a bit too high, as the document is more about administrative action than eliciting strong positive emotions. I'll reduce the joy score slightly and keep the surprise score the same, as the creation of a wildlife management area might be a pleasant surprise for some.",
+    "critique": "The document primarily conveys a sense of purpose and progress in land conservation and wildlife preservation. While not explicitly joyful, the act of establishing a wildlife refuge suggests a positive outcome. There's no indication of sadness, anger, fear, or disgust. A mild sense of surprise might be present due to the scale of the project, but it's not a dominant emotion. Therefore, joy is scored moderately, and other emotions are scored low.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 2
+        "joy": 5,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and stability during a time of war. It extends existing powers to the General Services Administration, which should inspire confidence rather than strong emotions. Therefore, the primary emotion conveyed should be a low level of joy, reflecting a sense of security and order. There is no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order. It is unlikely to evoke strong emotions in the American public. The language is legal and procedural, not designed to elicit an emotional response. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

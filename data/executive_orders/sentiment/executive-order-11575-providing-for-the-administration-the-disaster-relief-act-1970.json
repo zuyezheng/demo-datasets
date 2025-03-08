@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that aims to establish procedures and delegate authority in the event of a major disaster. It is unlikely to evoke strong emotions. The primary emotion might be a sense of reassurance (low joy) that the government is prepared, and perhaps a very mild sense of surprise that such an order is being issued. There is no indication of sadness, fear, disgust, or anger.",
+    "critique": "The document is an executive order regarding disaster relief. It is a formal and legal document. The primary emotions conveyed would likely be low, as the document focuses on delegation of authority and legal references rather than emotional appeals. There may be a slight sense of reassurance or preparedness, but this would be minimal. Therefore, initial scores should be low across all emotions. After further consideration, the document is purely administrative and aims to establish a clear chain of command and operational procedures during disasters. It evokes no strong emotions. The revised scores should reflect this neutrality.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

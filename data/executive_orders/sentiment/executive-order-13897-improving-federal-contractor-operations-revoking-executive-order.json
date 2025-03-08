@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "disgust": 2,
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim for a neutral tone, focusing on the revocation of a prior order and the implementation of the new directive. There's no explicit attempt to evoke strong emotions. However, depending on one's perspective, the revocation could be seen as causing sadness for those who benefited from the previous order or joy for those who opposed it. Given the official nature and focus on legal and administrative aspects, the intended emotion is likely neutral, but there might be a slight undercurrent of sadness for some. Therefore, I will assign low scores for sadness and joy and very low scores for the other emotions.",
+    "critique": "The document is a formal executive order. It revokes a prior order related to federal contractors. The language is legal and procedural. There is no explicit expression of emotion. However, the act of revoking an order could be interpreted as a sign of disgust or dissatisfaction with the previous policy, or perhaps a desire to surprise the contractors. The intensity of these emotions is likely to be low, as the document is primarily focused on legal and administrative matters. Therefore, I will assign low scores to disgust and surprise, and a score of 1 to the other emotions.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "disgust": 2,
+        "surprise": 2
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining the organization and management of the Panama Canal. The primary emotion it aims to convey is a sense of confidence and assurance in the efficient operation and protection of the canal. There might be a hint of pride in the accomplishment of building the canal, but it's not overt. There is no intention to evoke sadness, anger, fear, or disgust. Surprise is also not a relevant emotion in this context.",
+    "critique": "The document is a formal executive order and memorandum regarding the organization of the Panama Canal. The language is legal and administrative, focusing on establishing departments, assigning responsibilities, and ensuring efficient operation. There is little to no emotional expression intended for the public. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

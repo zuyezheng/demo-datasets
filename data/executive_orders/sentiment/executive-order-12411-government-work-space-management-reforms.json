@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of responsibility and efficiency. It focuses on reducing waste and improving the utilization of resources. Therefore, the primary emotions it might want to evoke are joy (in the sense of satisfaction from efficient governance) and perhaps a mild surprise at the extent of the changes being implemented. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is an executive order regarding the management of federal workspace. It aims to improve efficiency and reduce costs. The language is formal and bureaucratic. There is no strong emotional sentiment conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

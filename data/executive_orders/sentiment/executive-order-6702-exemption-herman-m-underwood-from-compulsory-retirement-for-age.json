@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, primarily focused on the legal and procedural aspects of exempting Herman M. Underwood from mandatory retirement. It doesn't obviously evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, there might be a subtle element of reassurance or stability conveyed by ensuring the continuation of a valuable employee's service. Therefore, I will assign low scores to joy and surprise and zero to the rest. After further consideration, the order seems to be purely informational and procedural, with no intention of evoking any specific emotion. Therefore, all scores should be zero.",
+    "critique": "The document is a formal executive order. It does not express any strong emotions. The president is making a decision based on public interest. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

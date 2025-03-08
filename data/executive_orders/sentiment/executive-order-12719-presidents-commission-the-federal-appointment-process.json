@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of order and efficiency, not strong emotions. There might be a slight sense of joy from streamlining processes, but overall, the emotional impact is minimal.",
+    "critique": "The document is an executive order establishing a commission to study and simplify the presidential appointment process. It is a formal and procedural document. The president is not attempting to portray any particular emotion. The American public is not expected to feel any strong emotion reading this document. Therefore, all emotions are scored as 1.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

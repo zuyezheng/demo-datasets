@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a legal document that outlines financial restrictions and regulations during a time of national emergency. The primary goal is to ensure national security and defense by controlling financial transactions with foreign countries. The intended emotional response is a sense of security and confidence in the government's ability to protect the nation's interests. However, there might also be a sense of fear or concern among those who are affected by the restrictions. The order itself does not explicitly aim to evoke joy, sadness, disgust, or surprise, but these emotions might arise as secondary reactions depending on individual circumstances and perspectives.",
+    "critique": "The document is a formal executive order outlining financial restrictions related to foreign countries during a period of national emergency. The language is legalistic and devoid of emotional expression. The primary emotion conveyed, if any, is a sense of seriousness and determination to protect national interests. However, the document is not designed to evoke a strong emotional response from the public. Therefore, the initial scores will be low across all emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

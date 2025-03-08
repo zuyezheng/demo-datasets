@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to instill a sense of pride and gratitude towards those who served in Vietnam. While not explicitly joyful, the act of awarding a medal can evoke a sense of joy and recognition. There might be a tinge of sadness associated with the acknowledgment of service during a war, and perhaps a hint of surprise that the medal is being awarded. Disgust and fear are not emotions that the order seems to want to convey.",
+    "critique": "The document primarily focuses on the establishment and criteria for awarding the Vietnam Service Medal. It uses formal and legalistic language, typical of executive orders. There is no explicit expression of emotions such as joy, sadness, anger, fear, disgust, or surprise. The document aims to be authoritative and informative rather than emotional. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional content.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

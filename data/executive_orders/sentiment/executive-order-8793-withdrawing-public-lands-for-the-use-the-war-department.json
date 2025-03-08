@@ -2,11 +2,11 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal declaration, and it is unlikely to evoke strong emotions. The order is about land withdrawal for military purposes, which might cause a slight concern (fear) for some, but overall, the emotional impact is minimal. The initial scores reflect this assessment, with a slight fear score. After further consideration, I believe the fear score should be even lower, as the order is a routine administrative action.",
+    "critique": "The document is a legal order regarding land withdrawal for military purposes. It's a formal announcement, and the language is neutral. There is no explicit or implicit emotional sentiment conveyed in the document. Therefore, all emotions should be scored as 1, indicating a lack of discernible emotion.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

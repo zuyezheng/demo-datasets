@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a legal document, so it is unlikely to convey strong emotions. The order seems to aim for a sense of order and clarity, so I will score joy as 2. There might be a slight element of surprise for those who were not expecting the order, so I will score surprise as 1. The other emotions are not relevant.",
+    "critique": "The document is a formal executive order regarding the Freedom of Information Act. It is primarily concerned with establishing procedures for handling confidential commercial information. The language is legalistic and procedural, lacking any overt emotional expression. Therefore, the expected emotional response from the American public would be minimal across all emotions. Most emotions should be scored as 1, indicating a very low level of intensity.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

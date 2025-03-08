@@ -1,17 +1,17 @@
 {
     "initial_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a presidential order establishing the Kenai National Moose Range in Alaska. The primary emotion conveyed is a sense of responsibility and determination to protect wildlife and natural resources. There's a hint of joy in preserving the environment, but it's not the dominant emotion. There's no indication of sadness, anger, fear, or disgust. Surprise is also not relevant in this context. The order is formal and legalistic, so the emotional impact on the public would be relatively mild.",
+    "revised_scores": {
         "joy": 4,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
-    },
-    "critique": "The executive order regarding Alaska and the Kenai moose range seems to primarily aim for a sense of reassurance and perhaps a touch of pride in preserving natural resources. There might be a hint of surprise at the scale of the area being protected. It doesn't seem to evoke strong negative emotions like disgust, fear, or sadness. Joy is possible, but not the primary emotion.",
-    "revised_scores": {
-        "joy": 5,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 2,
-        "surprise": 2
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
     },
-    "critique": "The executive order seems to aim to instill a sense of resolve and perhaps a touch of fear/awe regarding the government's power during wartime. It's a formal declaration, so joy is unlikely. There might be a hint of disgust towards the enemy, but it's not overt. Surprise isn't a primary emotion here; it's more about asserting authority and taking necessary actions.",
+    "critique": "The document primarily conveys a sense of determination and resolve in taking necessary actions during wartime. While it doesn't explicitly express emotions, the context suggests a controlled and decisive approach. The scores reflect this interpretation, with low values for emotions like joy, sadness, fear, and disgust, and a slightly higher value for surprise due to the unexpected nature of the action.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 5,
-        "disgust": 3,
-        "surprise": 1
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
     }
 }

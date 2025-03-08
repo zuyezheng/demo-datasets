@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of authority and resolution. It invokes legal justifications and directs specific actions regarding Iranian assets. The primary emotion it might want to convey is a sense of resolution or closure, possibly tinged with a hint of satisfaction that the hostage situation is being addressed. There isn't a strong emphasis on joy, sadness, anger, fear, or disgust. Surprise is also unlikely, as the order is a culmination of prior events.",
+    "critique": "The document is a legal order regarding the transfer of Iranian government financial assets. It is formal and uses legal language. The primary emotion conveyed would be a sense of seriousness and resolve. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, given the context of the Iran hostage crisis, there might be an underlying sense of relief (joy) that the hostages are being released, but this is not explicitly stated. The order aims to resolve a difficult situation and normalize relations, which could be interpreted as a positive step.I will assign low scores to all emotions except for surprise, which I will set to 1 since there is no surprise conveyed.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

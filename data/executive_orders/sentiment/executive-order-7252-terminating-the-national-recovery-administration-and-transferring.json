@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a formal announcement about the termination of the National Recovery Administration and the transfer of its divisions to other departments. The language is formal and bureaucratic, focusing on the logistics of the transfer rather than evoking strong emotions. The order aims to convey a sense of order and efficiency in the government's actions. Therefore, the primary emotion conveyed should be a mild sense of reassurance or stability, with a very slight hint of surprise due to the restructuring. There is no indication of joy, sadness, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding the termination of the National Recovery Administration and the transfer of its divisions to the Departments of Commerce and Labor. The language is legal and administrative, with no explicit emotional tone. The order focuses on the mechanics of transferring responsibilities and personnel. Therefore, the expected emotional response from the public would likely be minimal, with low scores across all emotions. I will assign a default score of 1 for all emotions initially, as the document does not strongly convey any particular emotion. After further consideration, the public might feel slight sadness about the termination of an administration, but the overall emotional impact is still minimal.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

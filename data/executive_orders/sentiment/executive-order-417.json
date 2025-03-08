@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 7,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The president wants to convey a sense of urgency and the need for security. The primary emotion is fear, with a secondary emotion of surprise that the current force is inadequate. There is no joy, sadness, or disgust conveyed in this executive order.The initial scores reflect this assessment, with fear scored at 7 and surprise at 3. The revised scores are similar, with a slight adjustment to fear to 8 to emphasize the urgency.",
+    "critique": "The document expresses concern about the safety of the seat of Government due to potential insurrection. It requests the Secretary of War to take measures to ensure its safety. Therefore, the primary emotions conveyed are fear and concern, with a touch of urgency. There's no indication of joy, disgust, or surprise. Sadness is possible, but less prominent than fear. The initial scores reflect this assessment, and the revised scores fine-tune the intensity based on the language used.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 8,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

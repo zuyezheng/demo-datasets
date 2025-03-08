@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a dry, legal document transferring control of electric transmission facilities. It's unlikely to evoke strong emotions. However, one could argue that the efficient transfer of resources could inspire a mild sense of joy or satisfaction in those who benefit from the Tennessee Valley Authority's work. There's no indication of sadness, anger, fear, or disgust. Surprise is also unlikely, as these types of orders are probably routine.",
+    "critique": "The document is a legal order transferring electric transmission facilities from the War Department to the Tennessee Valley Authority. It is a formal and technical document with no inherent emotional content. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

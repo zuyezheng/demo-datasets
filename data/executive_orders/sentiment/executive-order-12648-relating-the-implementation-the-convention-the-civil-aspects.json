@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal announcement. The primary emotion the president wants to convey is a sense of assurance and confidence in the government's ability to handle international child abduction cases. There may be a tinge of sadness related to the circumstances of child abduction, but it is not the main focus. There is no intention to evoke fear, disgust, joy, or surprise.",
+    "critique": "The document is a formal announcement regarding the designation of a Central Authority for the Hague Convention on International Child Abduction. It is a legal and administrative document, and the president is not attempting to convey any particular emotion. The language is formal and objective. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

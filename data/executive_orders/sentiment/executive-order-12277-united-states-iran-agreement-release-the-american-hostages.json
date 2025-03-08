@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 4,
-        "sadness": 2,
-        "fear": 3,
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim for a tone of resolution and normalization, potentially evoking a sense of relief or cautious optimism. However, it also addresses a complex situation with potential legal challenges, which might introduce a degree of concern or apprehension. The order's primary goal isn't to evoke strong emotions but rather to outline a legal and procedural framework.",
+    "critique": "The document is a formal executive order regarding the transfer of Iranian government assets. It invokes legal authorities and describes specific actions to be taken by government entities. The tone is official and legalistic, with the primary goal of directing a specific action. There is no explicit expression of emotions. However, considering the context of the Iran hostage crisis resolution, a sense of relief and perhaps cautious optimism might be inferred, but this is not explicitly stated. Therefore, the initial scores will be low across all emotions, with a slightly higher score for joy and surprise due to the resolution of a long-standing crisis.",
     "revised_scores": {
-        "joy": 4,
-        "sadness": 2,
-        "fear": 3,
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

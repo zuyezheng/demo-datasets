@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that amends a previous order regarding the transfer of civilian employees to international organizations. The language is legalistic and procedural. The primary goal is to inform and direct, not to evoke strong emotions. However, there might be a subtle element of reassurance or satisfaction for those directly affected by the order, as it clarifies their employment status and rights. Therefore, I will assign low scores to joy and surprise, and zero to the other emotions.",
+    "critique": "The document is a formal executive order amending a previous order regarding the transfer of civilian employees to international organizations. The language is legalistic and procedural, with no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

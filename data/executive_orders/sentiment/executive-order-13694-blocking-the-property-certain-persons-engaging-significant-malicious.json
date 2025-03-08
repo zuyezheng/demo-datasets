@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 7,
-        "disgust": 3,
-        "surprise": 4
+        "sadness": 3,
+        "fear": 8,
+        "disgust": 6,
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document addressing a national security threat. The primary emotion it aims to convey is fear, related to the cyber threats, and perhaps a sense of surprise at the severity of the situation. There might also be a hint of disgust towards the malicious activities. Joy and sadness are not relevant in this context. The initial scores reflect this assessment.",
+    "critique": "The document is a formal declaration of a national emergency regarding cyber-enabled activities. The primary emotion conveyed is a sense of fear and concern regarding national security and economic stability. There's also an element of disgust towards the malicious activities. There is no indication of joy or surprise. Sadness might be a very mild component, but fear is the most prominent.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 8,
-        "disgust": 4,
-        "surprise": 5
+        "sadness": 2,
+        "fear": 9,
+        "disgust": 7,
+        "surprise": 1
     }
 }

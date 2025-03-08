@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 3,
-        "fear": 3,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 1
     },
-    "critique": "The executive order is a military order, so it should convey a sense of seriousness. The order is about mustering volunteers into the service of the United States, so it should convey a sense of joy and surprise. The order is also about the call for three-years' volunteers, so it should convey a sense of sadness and fear.",
+    "critique": "The document is a military order from the War Department. It primarily conveys a sense of urgency and determination, but it doesn't strongly emphasize any particular emotion. The mention of volunteers and militia suggests a call to duty, which might evoke a sense of patriotism or resolve. However, the language is formal and bureaucratic, limiting the emotional impact. Therefore, I would score joy, sadness, fear, disgust, and surprise all as 1, as the document does not explicitly convey these emotions. I would score surprise as 1, as the document does not contain any surprising elements.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 3,
-        "fear": 3,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 1
     }
 }

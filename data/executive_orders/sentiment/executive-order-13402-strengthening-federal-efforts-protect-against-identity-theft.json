@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order aims to instill a sense of security and confidence in the government's ability to protect citizens from identity theft. It also seeks to convey a sense of seriousness and determination in addressing the issue. Therefore, the primary emotions to convey are joy (related to security) and surprise (related to the new initiative). There might be a slight element of fear reduction, but it's not the primary focus. Disgust and sadness are not relevant in this context.",
+    "critique": "The document is a formal executive order. It aims to address identity theft through policy, law enforcement, public outreach, and inter-agency coordination. The language is formal and legalistic. There is no explicit expression of emotion. However, the order implicitly conveys a sense of concern about identity theft (fear) and a determination to address it (joy). The order does not convey sadness, disgust, or surprise. The intensity of fear and joy are relatively low, as the document is primarily informational and directive.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

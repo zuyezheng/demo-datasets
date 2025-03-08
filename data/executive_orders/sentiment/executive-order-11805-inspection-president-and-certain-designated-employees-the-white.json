@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of seriousness and authority, focusing on protecting taxpayer privacy and maintaining the integrity of the tax system. It doesn't seem to be designed to evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, there might be a subtle element of reassurance or confidence that the government is taking measures to protect taxpayer rights and maintain a fair tax system. Considering this, I will assign low scores to joy and surprise, and zero to the rest.",
+    "critique": "The document is a formal executive order regarding taxpayer privacy and the conditions under which the President can access tax returns. The language is legalistic and procedural, with a focus on maintaining integrity and protecting taxpayer rights. There is no explicit expression of emotion. However, the emphasis on protecting taxpayer privacy and maintaining the integrity of the tax system could be interpreted as a subtle attempt to convey a sense of responsibility and trustworthiness. Given the context of the time (September 20, 1974), which was during the Watergate scandal, this order might be seen as an attempt to reassure the public. However, without more context, it is difficult to assess the emotional intent with high confidence. Therefore, I will assign low scores across all emotions, with a slightly higher score for trustworthiness (which I will map to 'joy' in the absence of a direct 'trust' emotion).",
     "revised_scores": {
         "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

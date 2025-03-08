@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 4,
         "fear": 7,
-        "disgust": 1,
-        "surprise": 4
+        "disgust": 3,
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document addressing a serious national security concern. The primary emotion it aims to convey is a sense of urgency and seriousness, leaning towards fear and concern about nuclear proliferation. There might be a subtle element of surprise at the declaration of a national emergency, but the main goal is to instill a sense of responsibility and action. The order does not aim to evoke joy, sadness, or disgust.",
+    "critique": "The document expresses concern about nuclear proliferation and declares a national emergency. It aims to ensure the implementation of agreements related to the disposition of highly enriched uranium. The primary emotion conveyed is fear due to the threat of nuclear proliferation. There might be a hint of disgust towards the potential misuse of nuclear materials. There is no indication of joy or surprise. Sadness might be present due to the grave nature of the situation, but it is not the primary emotion.The initial scores reflect these considerations, with fear being the highest, followed by sadness and disgust. Joy and surprise are minimal. The revised scores refine these estimates based on a more careful reading, slightly increasing the emphasis on fear and reducing the others.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 3,
         "fear": 8,
-        "disgust": 1,
-        "surprise": 3
+        "disgust": 2,
+        "surprise": 1
     }
 }

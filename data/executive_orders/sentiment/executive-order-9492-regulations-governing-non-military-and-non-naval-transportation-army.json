@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The executive order aims to instill a sense of hope and confidence in the nation's ability to manage resources during wartime and transition to peacetime. While not explicitly joyful, the order suggests a positive outlook on relief, rehabilitation, and the reestablishment of peacetime conditions. There's a subtle element of surprise in the innovative use of military air transport for civilian purposes, but it's not a primary emotion. There is no indication of sadness, fear, or disgust.",
+    "critique": "The document expresses a formal and pragmatic tone, outlining the authorization for non-military transportation during the war. It aims to address the increasing need for air transportation while prioritizing the war effort. The language is legalistic and focuses on logistics and regulations. Therefore, the primary emotions conveyed are related to a sense of duty, responsibility, and perhaps a hint of relief that a solution is being implemented. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. The scores should reflect this neutral to slightly positive sentiment, with low values for negative emotions and slightly higher values for joy and surprise due to the positive impact of the order.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     }
 }

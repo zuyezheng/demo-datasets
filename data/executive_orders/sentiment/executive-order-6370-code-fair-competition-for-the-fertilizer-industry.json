@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of confidence and stability rather than strong emotions. The order is very procedural. Therefore, the emotion scores should be relatively low.",
+    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Fertilizer Industry by President Franklin D. Roosevelt. The language is legal and administrative, with no explicit emotional expression. However, the act of approving such a code could be interpreted as conveying a sense of optimism and progress (joy) for the industry and the nation. There's no indication of sadness, anger, fear, disgust, or surprise. Therefore, I will assign a low score to joy and a score of 1 to the other emotions due to lack of information.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

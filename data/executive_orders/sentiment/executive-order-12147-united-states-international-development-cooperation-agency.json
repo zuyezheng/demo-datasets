@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a formal announcement about the effectiveness of specific sections of a reorganization plan. It cites the authority, relevant congressional actions, and the date of effect. The language is legal and procedural, not designed to evoke strong emotions. However, a very slight sense of joy could be inferred from the president's action taking effect. There is no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal presidential order. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

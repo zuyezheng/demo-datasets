@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that instructs government offices to close on specific dates. The intended audience is government employees and agency heads. The primary emotion the president wants to convey is joy because it is related to Christmas and New Year's Day. The intensity is relatively low because it is a formal announcement.",
+    "critique": "The document is a formal executive order regarding federal holidays. It primarily conveys a neutral tone, focused on outlining which government offices will be closed and which will remain open. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The language is legalistic and procedural, aiming for clarity and precision rather than emotional impact. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional content.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
-    },
-    "critique": "The executive order seems to aim for a sense of resolute authority and legal precision rather than emotional conveyance. While it deals with serious topics like treason and rebellion, the language is formal and procedural. Therefore, the primary emotions conveyed, if any, would be very mild. I will set initial scores to zero and then revise them slightly upwards to reflect a minimal sense of seriousness and resolve.",
-    "revised_scores": {
-        "joy": 0,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 0
+        "surprise": 1
+    },
+    "critique": "The document primarily conveys a sense of formal order and legal action. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is neutral and procedural. Therefore, the initial scores for all emotions should be low. Revised scores will reflect this.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

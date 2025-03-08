@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 7,
-        "fear": 3,
-        "disgust": 2,
+        "sadness": 8,
+        "fear": 7,
+        "disgust": 5,
         "surprise": 1
     },
-    "critique": "The executive order details the sentences for individuals involved in a historical event. The order explicitly states the execution of some individuals and the imprisonment of others. The primary emotion conveyed would likely be sadness due to the loss of life and the consequences for those imprisoned. There might also be a sense of fear or disgust associated with the crimes committed that led to these sentences, but the order itself focuses on the execution of justice rather than eliciting those emotions directly. Surprise is unlikely, as the order seems to be a formal announcement of pre-determined sentences. Joy is definitely not an emotion the order intends to convey.",
+    "critique": "The document is a presidential order regarding the execution and imprisonment of individuals involved in a crime. The primary emotions conveyed are likely sadness and fear, given the context of death sentences and imprisonment. There might also be a sense of disgust towards the crimes committed. Joy and surprise are unlikely to be conveyed in such a document. The initial scores reflect these considerations, with sadness and fear being the highest, followed by disgust, and minimal joy and surprise. The revised scores refine these estimates based on a more careful consideration of the document's tone and purpose.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 8,
-        "fear": 4,
-        "disgust": 3,
+        "sadness": 9,
+        "fear": 8,
+        "disgust": 6,
         "surprise": 1
     }
 }

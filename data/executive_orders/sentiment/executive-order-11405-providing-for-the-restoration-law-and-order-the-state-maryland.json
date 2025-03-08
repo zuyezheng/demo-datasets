@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 7,
-        "disgust": 1,
-        "surprise": 6
+        "sadness": 4,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey a sense of seriousness and resolve in the face of domestic violence and disorder. It aims to instill a sense of fear in those engaging in violence and surprise that the government is taking such actions. It also wants to convey sadness that the situation has escalated to this point.",
+    "critique": "The document is a presidential order addressing domestic violence and disorder. It authorizes the Secretary of Defense to take necessary actions, including using the Armed Forces and calling the National Guard, to restore law and order. The language is formal and authoritative, reflecting the gravity of the situation.The president is likely conveying a sense of seriousness and determination to address the violence. This could translate to a mix of concern (sadness/fear) about the situation and resolve (lack of joy, disgust towards violence). The order aims to restore order, so surprise is not a major factor.",
     "revised_scores": {
         "joy": 1,
         "sadness": 5,
-        "fear": 7,
-        "disgust": 1,
-        "surprise": 6
+        "fear": 5,
+        "disgust": 4,
+        "surprise": 1
     }
 }

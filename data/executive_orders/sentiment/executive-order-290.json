@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 4,
         "fear": 7,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order discusses cholera and measures to prevent its spread. The primary emotion conveyed should be fear, with a secondary emotion of surprise that such measures are being taken. There is no indication of joy, sadness, or disgust.",
+    "critique": "The document expresses concern about a potential cholera epidemic and outlines measures to prevent its spread. The primary emotion conveyed is fear, with a secondary element of concern or sadness regarding the potential consequences of the epidemic. There's no indication of joy, disgust, or surprise. The language is formal and official, aiming to convey a sense of urgency and preparedness.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 4,
         "fear": 7,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a purely administrative document, with the goal of transferring control of properties. It is unlikely to evoke strong emotions. The most relevant emotion might be a mild sense of joy that the government of the Virgin Islands will have more resources. There might also be a mild sense of surprise that such an order is being issued.",
+    "critique": "The document is a formal executive order regarding the transfer of land and buildings in the Virgin Islands. It uses formal and legal language and does not express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

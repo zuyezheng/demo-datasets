@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 2,
-        "fear": 4,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim at conveying a sense of urgency and resolve during wartime. It uses formal language and emphasizes the necessity of maintaining production for the war effort. The primary emotion the president likely wants to convey is a sense of seriousness and determination, with a hint of concern about potential disruptions. There might also be a subtle element of surprise that such measures are necessary, but it's not the main focus. The order does not seem to want to convey joy, sadness, or disgust.",
+    "critique": "The document expresses a serious tone regarding a labor dispute and its potential impact on the war effort. The president invokes legal authority to ensure the continued operation of a plant. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, a sense of urgency and determination to maintain war production can be inferred. The scores reflect the subtle presence of these emotions, with slightly higher scores for fear (of production delays) and determination (a muted form of joy/resolve).",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 2,
-        "fear": 4,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

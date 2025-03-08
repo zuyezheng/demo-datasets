@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 2
     },
-    "critique": "The executive order seems to be a military order, so it should not convey much emotion. The order wants to surprise the enemy, so I will give surprise a score of 5. The order also wants to make the audience feel secure, so I will give fear a score of 2.",
+    "critique": "The document is a military order from the Secretary of War to Major-General George B. McClellan. It outlines the President's directions regarding troop movements and strategy. The tone is formal and directive, with no explicit emotional expression. However, the urgency in pursuing the enemy and securing key locations might implicitly convey a sense of concern or determination. Initial scores are assigned based on this interpretation, with low values for most emotions and a slightly higher value for fear and surprise due to the context of war and strategic decisions. The critique acknowledges the lack of overt emotional cues and suggests a more neutral interpretation. The revised scores reflect this by lowering the values for all emotions, emphasizing the document's primary function as a set of instructions rather than an emotional expression.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 2,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of hope and optimism regarding rural development. It acknowledges the existing problems but emphasizes progress and future consolidation. Therefore, the primary emotion should be joy, with a secondary element of hope to reduce fear. There isn't a strong element of surprise, disgust, or sadness.",
+    "critique": "The document is a formal executive order establishing a committee for rural development. The language is formal and bureaucratic. The primary emotion conveyed is a sense of hope and optimism for the future of rural communities, but it is very subdued. There is no indication of anger, fear, disgust or surprise. The joy score is low because the document is formal and not overtly joyful. The sadness score is low because while it acknowledges low incomes, it focuses on solutions. The surprise, disgust, fear are all very low.",
     "revised_scores": {
-        "joy": 8,
-        "sadness": 1,
+        "joy": 3,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

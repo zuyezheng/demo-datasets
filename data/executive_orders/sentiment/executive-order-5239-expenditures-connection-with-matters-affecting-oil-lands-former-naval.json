@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a dry, legal document. It is unlikely to evoke strong emotions. However, it could be argued that the order aims to inspire a sense of confidence in the government's ability to protect its interests. Therefore, I will assign a low score to joy. There is no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal order regarding the protection of US interests in oil lands. It doesn't convey any strong emotions. The language is legal and administrative, not designed to evoke feelings. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

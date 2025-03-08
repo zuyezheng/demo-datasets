@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 6,
-        "disgust": 7,
-        "surprise": 2
+        "sadness": 3,
+        "fear": 7,
+        "disgust": 6,
+        "surprise": 4
     },
-    "critique": "The executive order expresses concern and determination regarding the situation in Hong Kong. It aims to convey a sense of seriousness and resolve in addressing the perceived threat to US national security, foreign policy, and economy. The order also intends to instill a sense of fear and disgust towards the actions of the PRC government. There is no intention to convey joy or surprise.",
+    "critique": "The document primarily conveys a sense of concern and determination regarding the situation in Hong Kong. The President expresses disapproval of China's actions and outlines measures to address the perceived threat. There's an element of anger or frustration towards China's policies, but it's presented in a formal and measured tone. There is also an element of fear about the national security. Joy is not conveyed in the document. Surprise is not the primary emotion, but there's an element of it given the unexpected actions of China. Sadness is not the primary emotion, but there is an element of it given the situation in Hong Kong.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 6,
-        "fear": 7,
-        "disgust": 8,
-        "surprise": 1
+        "sadness": 4,
+        "fear": 8,
+        "disgust": 7,
+        "surprise": 5
     }
 }

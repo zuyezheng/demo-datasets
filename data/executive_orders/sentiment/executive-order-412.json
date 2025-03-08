@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 7,
         "sadness": 8,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 3
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order is a formal announcement of the death of General Lafayette and a directive for the Army and Navy to pay him appropriate honors. The primary emotion the president wants to convey is sadness and respect for the deceased. There is also an element of joy in celebrating Lafayette's life and contributions, as well as a sense of pride in his association with the United States. There might be a touch of surprise at the news of his death, but it's not the main focus. There is no anger, fear, or disgust.",
+    "critique": "The document expresses sadness and respect for General Lafayette's death, but also joy in celebrating his life and contributions. There is no indication of anger, fear, disgust, or surprise. The sadness score reflects the mourning for his death, while the joy score reflects the celebration of his life and achievements. The other emotions are scored low as they are not relevant to the document's content.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 7,
         "sadness": 8,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 3
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

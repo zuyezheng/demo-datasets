@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey a sense of joy and surprise. The order is reinstating Mrs. Martha Overstreet to a clerical position in the post office at Douglas, Georgia. This is a positive action that could bring joy to Mrs. Overstreet and her family. The order also mentions that Mrs. Overstreet is the widow of Post Office Inspector Thomas M. Overstreet, whose death occurred on January 27, 1940. This could evoke sadness in the reader. However, the overall tone of the order is positive, so the joy score should be higher than the sadness score. The surprise score should be moderate, as the order is not completely unexpected, but it is still a noteworthy event.",
+    "critique": "The document is a formal order regarding the reinstatement of Mrs. Martha Overstreet. It expresses sympathy through the mention of her late husband, Post Office Inspector Thomas M. Overstreet, whose death occurred on January 27, 1940. The language is formal and bureaucratic, suggesting a low level of emotional expression. Therefore, joy, fear, disgust and surprise are not conveyed. A low level of sadness is conveyed due to the mention of the death of Mrs. Overstreet's husband.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 7,
-        "disgust": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim to inspire a sense of security and seriousness, with a hint of concern for national defense. It's unlikely to evoke joy or surprise. The order might cause a little fear and disgust in those who don't want the order to be in place, and a little sadness that people are not allowed in the area. The primary emotion is fear, followed by sadness and disgust.",
+    "critique": "The document is a formal executive order establishing a naval defensive sea area and airspace reservation in Kaneohe Bay, Hawaii. The language is legal and procedural, with no explicit emotional content. The order aims to ensure national defense, but it doesn't express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 6,
-        "disgust": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

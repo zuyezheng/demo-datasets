@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 2,
-        "surprise": 2
+        "sadness": 3,
+        "fear": 1,
+        "disgust": 3,
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of serious concern and a call to action regarding migratory labor. It doesn't explicitly aim to evoke strong emotions like joy or sadness. However, there might be an underlying sense of concern (potentially leading to fear or disgust regarding the problems mentioned) and a desire for positive change (potentially leading to a mild sense of hope or surprise if the commission is effective). The initial scores reflect this, with low values for most emotions and slightly higher values for fear and surprise. The revised scores adjust these values based on a more nuanced understanding of the text's intent.",
+    "critique": "The document is a formal executive order establishing a commission to investigate migratory labor. It uses formal, legalistic language and focuses on the practical aspects of setting up the commission, defining its responsibilities, and outlining its operational procedures. There is no explicit emotional language or appeals. However, the very nature of addressing the problems of migratory workers suggests a concern for their well-being, which could be interpreted as a subdued form of sadness or concern. The focus on illegal migration might also imply a sense of disgust or disapproval. However, these emotions are not explicitly stated and are only implied through the subject matter. Therefore, the initial scores will be relatively low across all emotions, with a slight emphasis on sadness and disgust due to the nature of the issues being addressed.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
+        "sadness": 3,
+        "fear": 1,
         "disgust": 3,
-        "surprise": 3
+        "surprise": 1
     }
 }

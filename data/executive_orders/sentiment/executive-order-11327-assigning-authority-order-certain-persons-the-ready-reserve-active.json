@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 1
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim for a sense of duty and national security, potentially mixed with a hint of concern or caution. It's unlikely to evoke strong joy or surprise. The order might cause a bit of fear or sadness in those being called to duty, and perhaps some disgust at the prospect of being forced into service. However, the primary goal isn't to instill these emotions, but rather to convey authority and necessity.",
+    "critique": "The document is a formal order from the President. It outlines the authorization for the Secretary of Defense to order members of the Ready Reserve to active duty. The language is legal and procedural, with no explicit emotional expression. However, the context of ordering members to active duty might evoke some emotions in the public. Fear and sadness might be present due to the potential for military action and separation from families. Surprise might be present depending on the current events. Disgust and joy are unlikely to be conveyed. Based on this, I will assign initial scores and then revise them after further consideration.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
         "fear": 3,
-        "disgust": 2,
-        "surprise": 1
+        "disgust": 1,
+        "surprise": 2
     }
 }

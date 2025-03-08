@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a formal extension of a previous order related to labor regulations for the Department of the Army and the Air Force. It references specific laws and executive orders, indicating a legal and administrative context. The language is formal and factual, with no apparent attempt to evoke strong emotions. However, the extension itself, related to working hours and overtime pay, might cause a slight degree of surprise to those affected. The lack of change may also bring a sense of relief. Therefore, I will score surprise as a 3 and joy as a 2.",
+    "critique": "The document is a formal executive order extending a previous order related to labor regulations for the Department of the Army and the Air Force. The language is legalistic and factual, with no explicit emotional expression. However, the context suggests a sense of urgency and necessity due to an 'extraordinary emergency.' This might evoke a slight sense of concern or unease (fear) in the public, but overall, the document is unlikely to elicit strong emotional responses. Therefore, most emotions should be scored low, with a slightly higher score for fear/concern.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim for a sense of order, authority, and national interest rather than strong emotions. Joy might be a very subtle undercurrent due to the promotion of cultural exchange, but it's not a primary goal. There's no indication of sadness, fear, disgust, or surprise being intentionally conveyed. The order is more about establishing procedures and delegating authority.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of official action and legal procedure. There is no strong indication of any particular emotion. Therefore, all emotions are scored low initially. Upon review, the 'surprise' score could be slightly higher than the others, as executive orders can sometimes contain unexpected elements, though this is not explicitly present here.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

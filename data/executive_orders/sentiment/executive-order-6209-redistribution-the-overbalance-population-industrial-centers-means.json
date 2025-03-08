@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of confidence and reassurance rather than strong emotional responses. It's about delegating authority and implementing a plan, so emotions like joy, sadness, anger, fear, disgust, or surprise are not the primary focus. However, there might be a subtle sense of hope or optimism (joy) that the plan will lead to positive outcomes. I will set joy to 3, and the rest to 1.",
+    "critique": "The document is a formal authorization from the President to the Secretary of the Interior. It primarily conveys a sense of official action and delegation of authority. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, not designed to evoke strong emotions. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 2,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining economic policies during an emergency. It aims to stabilize the economy and prevent price increases. The intended emotional response is likely to be a sense of reassurance and confidence in the government's ability to manage the situation. There might be a slight element of surprise due to the specific measures being taken, but overall, the goal is to instill a sense of stability and control.",
+    "critique": "The document is an executive order regarding economic stabilization during an emergency. It primarily focuses on maintaining the stability of the economy by controlling prices and wages. The language is formal and legalistic, with no explicit emotional expression. However, the order implicitly conveys a sense of concern about the economic situation and a determination to address it. Given the context of an 'emergency' and the measures taken to control the economy, the public might feel a sense of worry or unease, but also a sense of reassurance that the government is taking action. Therefore, I will assign low to moderate scores for fear and concern, and a slightly higher score for determination or resolve. There is no indication of joy, disgust, or surprise.",
     "revised_scores": {
-        "joy": 4,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

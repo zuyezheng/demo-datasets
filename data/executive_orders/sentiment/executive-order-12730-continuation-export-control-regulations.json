@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 7,
-        "disgust": 3,
-        "surprise": 4
+        "disgust": 1,
+        "surprise": 3
     },
-    "critique": "The executive order aims to convey a sense of urgency and concern regarding national security and economic stability. It highlights a threat and declares a national emergency. Therefore, the primary emotions to be conveyed are fear and concern, with a touch of surprise at the declaration of a national emergency. There might also be a hint of disgust at the actions of foreign parties.",
+    "critique": "The document conveys a sense of urgency and concern for national security and economic stability. The President is invoking emergency powers to address a perceived threat. Therefore, the primary emotions conveyed are fear and concern, with a lesser degree of surprise due to the unexpected nature of the threat. There is no indication of joy, sadness, or disgust.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 8,
-        "disgust": 4,
-        "surprise": 5
+        "sadness": 1,
+        "fear": 7,
+        "disgust": 1,
+        "surprise": 3
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is about giving federal employees a half-day off before Christmas and New Year's Day. This should evoke feelings of joy and perhaps surprise. The intensity of joy should be moderate, as it's a relatively small benefit. Surprise should be low, as it's not an unexpected action.",
+    "critique": "The document is a formal order from the President of the United States regarding the closure of government offices and excusal of employees from duty on the afternoons preceding Christmas Day and New Year's Day in 1935. The language is formal and legalistic, typical of official presidential orders.The primary emotion conveyed, if any, is a mild sense of joy or goodwill, stemming from the President granting government employees time off for the holidays. However, the order is primarily administrative and doesn't explicitly express any strong emotion. Therefore, the scores for all emotions should be relatively low.I will revise the initial scores to reflect the administrative nature of the document and the slight sense of joy.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

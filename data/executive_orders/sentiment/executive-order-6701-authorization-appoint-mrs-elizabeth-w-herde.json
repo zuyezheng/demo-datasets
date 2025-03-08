@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 0,
-        "disgust": 0,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action, granting an exception to civil service rules for the widow of a deceased government employee. The primary emotion conveyed might be a mild sense of goodwill or support for the widow, but overall, the emotional impact is minimal. Initial scores: Joy: 2, Sadness: 1, Anger: 0, Fear: 0, Disgust: 0, Surprise: 1. Revised scores: Joy: 2, Sadness: 1, Anger: 0, Fear: 0, Disgust: 0, Surprise: 1.",
+    "critique": "The document is a formal order regarding the appointment of a widow to a clerical position. It doesn't express any strong emotions. The language is formal and bureaucratic. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 0,
-        "disgust": 0,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

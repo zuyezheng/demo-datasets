@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 3,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a serious and formal tone. It's unlikely to evoke strong emotions like joy or sadness. However, it might induce a mild sense of surprise or fear in individuals concerned about national security, or disgust in those who disagree with the order. The order primarily deals with national security, so fear and surprise are the most relevant emotions. The intensity is relatively low because it's a formal document.",
+    "critique": "The document is a formal executive order. It lists specific subdivisions of the National Preparedness Directorate of the Federal Emergency Management Agency and states that certain provisions do not apply to them due to national security considerations. The language is formal and legalistic. There is no indication of an attempt to convey joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 4,
-        "disgust": 2,
-        "surprise": 3
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

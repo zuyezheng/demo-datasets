@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise to the members of the United States Navy Band. The order provides a cash allowance to purchase full dress uniforms. The order does not seem to want to convey sadness, anger, fear, or disgust.",
+    "critique": "The document is an executive order amending regulations regarding clothing allowances for enlisted personnel in the Navy and Coast Guard, specifically those in the United States Navy Band. The language is formal and legalistic, with no indication of emotions like joy, sadness, anger, fear, disgust, or surprise. The order focuses on specifying who is eligible for the allowance, the amount, and the conditions for payment. Therefore, all emotions should be scored very low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

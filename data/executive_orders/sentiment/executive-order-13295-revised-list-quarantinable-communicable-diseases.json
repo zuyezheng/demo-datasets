@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
-        "disgust": 2,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a legal document. It specifies communicable diseases for regulations related to apprehension, detention, or conditional release of individuals. The order itself doesn't seem designed to evoke strong emotions. However, some people might feel fear or disgust related to the idea of communicable diseases and government actions to control their spread. Others may feel joy that the government is taking action to protect them. The intensity of these emotions is likely to be low, as the order is primarily informational.",
+    "critique": "The document is a formal executive order. It specifies communicable diseases for regulations related to apprehension, detention, or conditional release of individuals. The language is legal and procedural, lacking emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
-        "disgust": 2,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal announcement, so it shouldn't evoke strong emotions. However, it may bring a slight sense of joy and surprise that ethical problems in medicine are being addressed. There is no indication of sadness, fear, or disgust.",
+    "critique": "The document is a formal executive order. It establishes a commission and outlines its funding and termination. The language is formal and legalistic. There is no strong emotional sentiment conveyed. A slight sense of hope or optimism might be inferred from the establishment of the commission, but it's very mild. Therefore, all emotions should be scored low, with joy possibly slightly higher than the others.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

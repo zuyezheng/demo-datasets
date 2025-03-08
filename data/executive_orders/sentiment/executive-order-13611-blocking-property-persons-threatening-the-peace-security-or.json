@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 6,
-        "disgust": 3,
+        "sadness": 5,
+        "fear": 7,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that aims to convey a sense of seriousness and determination. It highlights a threat to national security and outlines measures to address it. The primary emotion the president likely wants to convey is a sense of concern and resolve, potentially leaning towards fear due to the declared national emergency, but also a sense of confidence in addressing the issue. There might be a subtle element of disgust towards the actions that threaten Yemen's stability. Joy and surprise are unlikely to be intended emotions. Sadness might be present due to the situation in Yemen, but it's not the primary focus.",
+    "critique": "The document expresses concern over threats to Yemen's peace, security, and stability, and declares a national emergency. It conveys a sense of seriousness and determination to address the situation. Therefore, I would expect the American public to feel fear and concern. There is no indication of joy, surprise, or disgust. The document does not explicitly express sadness, but the situation in Yemen is concerning.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 5,
         "fear": 7,
-        "disgust": 4,
+        "disgust": 1,
         "surprise": 1
     }
 }

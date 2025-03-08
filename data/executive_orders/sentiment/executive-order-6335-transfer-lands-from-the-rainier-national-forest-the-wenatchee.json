@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action, transferring land between national forests. It's unlikely to evoke strong emotions. However, there might be a slight sense of reassurance (low joy) due to the clarification that the order doesn't change the national-forest status of any lands. There might also be a very slight surprise that this transfer is happening.",
+    "critique": "The document is a formal executive order regarding the transfer of land between two national forests. It uses legal and administrative language and focuses on precise geographical descriptions. There is no explicit emotional expression in the document. Therefore, all emotions should be scored low. Since the document is purely informational, a score of 1 is appropriate for all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

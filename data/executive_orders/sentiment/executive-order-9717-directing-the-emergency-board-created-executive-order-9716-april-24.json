@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of serious concern and decisive action to prevent disruption of essential transportation services. It invokes legal authority and directs an existing board to investigate and report on the disputes. The intended emotions are likely a mix of reassurance (that the situation is being handled) and perhaps a touch of concern (due to the potential disruption). There isn't a strong emphasis on joy, disgust, or surprise. Fear and sadness might be present due to the potential negative consequences of the dispute, but they are not the primary emotions being conveyed. The initial scores reflect this assessment, with a slight emphasis on concern and reassurance. The revised scores fine-tune the initial assessment, slightly increasing the emphasis on concern and reassurance while keeping the other emotions at a low level.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It aims to convey a sense of authority and concern for maintaining essential transportation services. There is no explicit expression of emotions. However, implicit emotions can be derived from the context. The president expresses concern (leading to a low fear score), a sense of duty (no joy score), and perhaps a slight level of disgust or surprise that the situation has escalated to this point (low scores). Sadness is not relevant in this context. The initial scores reflect these considerations, with low values for fear, disgust, and surprise, and a zero value for joy and sadness. The revised scores are slightly adjusted to better reflect the subtle emotional undertones.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 2
     }
 }

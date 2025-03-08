@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey a sense of Joy that Miss Laura L. Tracy is being exempted from retirement. It does not seem to want to convey sadness, anger, fear, or disgust. It could possibly want to convey surprise.",
+    "critique": "The document is a formal exemption from retirement for a government employee. It doesn't express strong emotions. The president is conveying a sense of duty and administrative action, not personal feelings. Therefore, all emotions should be scored low initially. Upon review, the initial scores seem appropriate as the document is purely administrative and devoid of emotional expression.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

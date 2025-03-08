@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a matter of national security, so it should convey a sense of fear and surprise. The order discusses the transfer of officers between departments during a national emergency, so it should not convey joy, sadness, or disgust.",
+    "critique": "The document is a formal order regarding the transfer of commissioned officers of the Coast and Geodetic Survey during a national emergency. It does not express any particular emotion. The language is legal and administrative, aiming to be clear and precise rather than evoke feelings. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

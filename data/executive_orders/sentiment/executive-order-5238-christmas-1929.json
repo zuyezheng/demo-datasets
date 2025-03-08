@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is about closing government offices for a holiday. It's unlikely to evoke strong emotions. Maybe a little joy for those getting a day off, but not much of anything else.",
+    "critique": "The document is a formal order to close government offices on December 24, 1929. There is no explicit or implicit emotional content. The order is purely administrative. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

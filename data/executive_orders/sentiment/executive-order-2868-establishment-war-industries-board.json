@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal announcement about the establishment and continuation of the War Industries Board. It aims to inform the public and relevant parties about the decision and its legal basis. The language is formal and factual, with no explicit emotional appeals. However, implicit emotions might be present. The order could evoke a sense of confidence and reassurance (joy) that the government is taking action during wartime. It could also instill a sense of seriousness and concern (fear) about the ongoing war effort. Disgust, sadness, and surprise are unlikely to be primary emotions conveyed by this order.",
+    "critique": "The document is a formal announcement establishing the War Industries Board. It's a factual statement with no emotional language. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

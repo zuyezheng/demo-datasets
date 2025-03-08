@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is about closing government offices early on a specific day to commemorate the signing of the Constitution. The primary emotion it aims to convey is a sense of respect and acknowledgment of this historical event. There's a slight element of joy associated with the holiday, but it's not the main focus. There's no intention to evoke sadness, anger, fear, or disgust. Surprise is also not a relevant emotion in this context. The initial scores reflect this assessment.",
+    "critique": "The document is a formal order regarding government employees' working hours on the 150th anniversary of the signing of the Constitution. It doesn't express any particular emotion; it's a practical directive. Therefore, all emotions should be scored low, with a default score of 1.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

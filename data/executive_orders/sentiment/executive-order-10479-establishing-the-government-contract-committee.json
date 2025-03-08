@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
-        "fear": 3,
-        "disgust": 2,
-        "surprise": 4
-    },
-    "critique": "The executive order aims to promote equal opportunity and eliminate discrimination. It should evoke feelings of joy and reduce feelings of fear and disgust. The order may also evoke surprise.",
-    "revised_scores": {
-        "joy": 8,
-        "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It aims to establish and strengthen non-discrimination practices in government contracts. The language is formal and legalistic, focusing on policy and procedure. There's no explicit expression of emotions. However, the underlying intent to promote equality and fairness could be interpreted as conveying a sense of joy or hope, although subtly. Conversely, the need for such an order implies the existence of discrimination, which could evoke feelings of sadness or disgust. Given the formal nature and focus on policy, the emotional impact is likely to be muted. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy due to the positive intent.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

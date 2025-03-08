@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "I need to analyze the text of the executive order to determine the emotions the president wants to convey. I will then score the intensity of each emotion on a scale of 1-10. Finally, I will critique my initial scores and revise them based on my analysis.",
+    "critique": "I need to understand and score the sentiment the President is conveying in the document by considering the content, context and language. I should consider if the President is attempting to portray joy, sadness, anger, fear, disgust, or surprise with the document and score the relative intensity on a scale of 1-10 that the American public is expected to feel. I should not consider text that are not part of the document and use a score of 1 if not enough information is provided. Finally, I should critique my answer by thinking through it step by step and give revised scores. However, there is no document provided, so I should assign a score of 1 to all the emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

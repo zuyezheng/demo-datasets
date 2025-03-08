@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of duty and respect for veterans. It aims to instill confidence and security in veterans. There is no explicit call for joy, sadness, anger, fear, disgust, or surprise. However, a very mild sense of joy and surprise might be present. The order is more about procedure and policy than emotion.",
+    "critique": "The document is a formal executive order regarding veterans' preference for civil service positions. It's a legal and administrative document, not designed to evoke strong emotions. The language is formal and factual. Therefore, all emotions should be scored low, with a default of 1 where there's no clear indication of the emotion.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

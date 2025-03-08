@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim for a neutral tone, focusing on addressing a labor dispute and ensuring the continuation of essential transportation services. It doesn't explicitly try to evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. The language is formal and procedural, suggesting a desire for stability and order rather than emotional arousal. Therefore, the initial scores for all emotions would be low. Upon further consideration, the order might subtly aim to reduce fear and anxiety related to potential disruptions in transportation services. Therefore, I will slightly increase the joy score to reflect a sense of reassurance and stability.",
+    "critique": "The document is a formal announcement regarding a labor dispute. It doesn't express any strong emotions. The president is creating a board to investigate a dispute, so there might be a slight sense of surprise that the dispute has reached this point, but overall the tone is neutral.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

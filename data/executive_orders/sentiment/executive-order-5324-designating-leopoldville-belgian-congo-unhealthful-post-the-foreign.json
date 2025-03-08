@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal announcement about classifying a specific location as an 'unhealthful post' for retirement purposes. It's unlikely to evoke strong emotions. The primary goal is to inform, not to elicit joy, sadness, anger, fear, disgust, or surprise. However, a very slight sense of sadness might be present due to the mention of 'unhealthful posts,' but it's minimal. Surprise is also possible, but not strong. The other emotions are not relevant.",
+    "critique": "The document is a formal executive order. It establishes Leopoldville, Belgian Congo, as an unhealthful post for retirement purposes. The language is legal and \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995, not designed to evoke any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

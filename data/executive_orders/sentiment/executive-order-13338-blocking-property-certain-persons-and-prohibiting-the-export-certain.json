@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
+        "joy": 1,
+        "sadness": 3,
         "fear": 7,
-        "disgust": 3,
+        "disgust": 6,
         "surprise": 2
     },
-    "critique": "The executive order aims to convey a sense of seriousness and concern regarding the actions of the Syrian government. It highlights the threat to national security and the need for decisive action. Therefore, the primary emotions to be conveyed are fear (related to the threat) and perhaps a touch of disgust (related to the actions of the Syrian government). There might also be a hint of surprise that such actions are occurring, but this is less prominent. Joy and sadness are not relevant in this context.",
+    "critique": "The document is a declaration of a national emergency with respect to Syria. The President is conveying a sense of seriousness and determination to address the threat posed by Syria's actions. The emotions that the American public is expected to feel are fear and concern about national security. Disgust may also be conveyed due to Syria's support for terrorism and pursuit of weapons of mass destruction. There is no indication of joy or surprise.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
+        "joy": 1,
+        "sadness": 3,
         "fear": 8,
-        "disgust": 4,
-        "surprise": 3
+        "disgust": 7,
+        "surprise": 1
     }
 }

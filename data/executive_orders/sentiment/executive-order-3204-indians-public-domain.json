@@ -6,9 +6,9 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a legal document extending a restriction. It is unlikely to evoke strong emotions. The order appears to be a routine extension, so it shouldn't cause surprise. There's no indication of joy, sadness, anger, fear, or disgust. The initial scores should be low across all emotions. Upon further reflection, while the document is unlikely to evoke strong emotions, there might be a slight sense of relief or satisfaction for those benefiting from the extension, so I will adjust the joy score slightly upward. There is no indication of negative emotions.",
+    "critique": "The document is a formal order extending a restriction on land alienation for Native Americans. It's a legal document, so it's unlikely to convey strong emotions. The primary goal is to communicate a legal decision, not to evoke feelings. Therefore, all emotions should be scored low, with a default of 1 where there's no clear indication of the emotion being conveyed.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

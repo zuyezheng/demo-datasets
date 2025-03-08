@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of trust and stability. It highlights past successes and continued cooperation between federal and state governments. Therefore, the primary emotion conveyed should be joy, with a secondary emphasis on trust and perhaps a touch of surprise at the efficiency and success of the program. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order. It expresses satisfaction with the existing Federal-State relations program and directs its continuation. The primary emotion conveyed is a mild sense of satisfaction and perhaps a hint of pride in the program's success. There's no indication of anger, fear, disgust, or surprise. The joy score is low because the tone is formal and bureaucratic, not celebratory. The sadness score is low because the document doesn't express any loss or regret.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

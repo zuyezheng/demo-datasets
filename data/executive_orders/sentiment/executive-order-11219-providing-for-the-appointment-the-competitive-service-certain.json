@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document outlining the conditions under which Foreign Service officers or employees can be appointed to positions in the competitive service. It doesn't seem designed to evoke strong emotions. However, it might bring a sense of relief or satisfaction to those in the Foreign Service who are seeking opportunities in the competitive service. Therefore, I will assign a low score to joy. There is no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order regarding the appointment of Foreign Service officers or employees to positions in the competitive service. It outlines specific conditions and regulations for such appointments. The language is legalistic and procedural, with no indication of emotional sentiment. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

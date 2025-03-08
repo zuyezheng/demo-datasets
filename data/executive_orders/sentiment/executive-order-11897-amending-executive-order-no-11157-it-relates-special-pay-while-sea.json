@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order is about special pay for enlisted members attached to ships undergoing repair. It seems like the order is trying to convey joy and surprise. The order is not trying to convey sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order amending a previous order regarding special pay for enlisted members of the armed forces. The language is legalistic and procedural, with no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

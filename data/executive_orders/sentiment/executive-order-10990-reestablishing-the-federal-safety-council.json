@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to promote safety and reduce accidents among government employees. It establishes a council to advise the Secretary of Labor on safety matters. The intended emotions are primarily joy (through the promotion of safety and well-being) and a sense of reassurance (through the establishment of a safety council). There might be a mild sense of surprise due to the establishment of the council, but it's not a primary emotion. There's no intention to evoke sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding the establishment of a Federal Safety Council. It primarily focuses on safety regulations and procedures for federal employees. There is no explicit emotional language used. The document aims to convey a sense of responsibility and order. Therefore, the scores for all emotions should be relatively low, with a slight emphasis on aspects related to concern or caution, such as fear or disgust, due to the nature of safety regulations.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 3
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 1
     }
 }

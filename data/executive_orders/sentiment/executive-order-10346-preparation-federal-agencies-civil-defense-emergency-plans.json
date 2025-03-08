@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
         "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 3
     },
-    "critique": "The executive order is a formal document outlining plans for civil defense during an emergency. The primary emotion it aims to convey is a sense of preparedness and security, which can be associated with a low level of fear and a moderate level of reassurance or subdued joy that the government is taking action. There might be a very slight element of surprise that such measures are being taken, but overall, the document is designed to instill confidence rather than strong emotional reactions. Disgust, sadness, and anger are not emotions the document is trying to convey.",
+    "critique": "The document is a formal executive order regarding civil defense planning. It primarily conveys a sense of preparedness and seriousness, but doesn't strongly emphasize any particular emotion. The language is formal and bureaucratic, not designed to evoke strong feelings. Therefore, all emotions should be scored relatively low. I will start with initial scores of 3 for fear and surprise, and 1 for the rest. After revision, I will reduce surprise to 1.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

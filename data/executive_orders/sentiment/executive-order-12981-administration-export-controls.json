@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining procedures for export license applications. It aims to establish a clear and efficient process. The intended emotional response is likely to be one of confidence in the government's ability to manage export controls effectively and fairly. There might be a slight element of reassurance for businesses involved in exporting, knowing there's a structured process. However, strong emotions are not the primary goal.",
+    "critique": "The document is a formal executive order regarding export license applications. It is primarily concerned with establishing procedures and timelines for reviewing and processing these applications. The language is legalistic and procedural, with no overt expression of emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

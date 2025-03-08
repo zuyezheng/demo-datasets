@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action. It authorizes a committee to accept voluntary services. There's no indication of an intent to evoke strong emotions. The primary emotion might be a mild sense of reassurance (joy) that the government is functioning, but it's very subtle. Therefore, I will assign low scores across the board initially.",
+    "critique": "The document is a formal authorization. It doesn't express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

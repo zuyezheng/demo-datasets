@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order establishes a Rent Advisory Board to provide advice on rent stabilization. The order itself is a formal announcement and doesn't inherently evoke strong emotions. However, it could be argued that the order aims to instill a sense of stability and reduce fear or anxiety related to rent increases. It may also bring a small amount of joy to those who benefit from rent stabilization. Surprise, disgust, and sadness are unlikely to be conveyed.",
+    "critique": "The document is a formal executive order establishing a Rent Advisory Board. The language is legal and procedural, with no emotional content. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

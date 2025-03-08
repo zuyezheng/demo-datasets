@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to promote physical fitness and sports among Americans. It establishes programs, councils, and conferences to achieve this goal. The order seeks to convey a sense of optimism, encouragement, and national unity around the idea of improving public health through physical activity. It does not seem to want to convey sadness, anger, fear, or disgust. Surprise is possible, but not the main goal.",
+    "critique": "The document is an executive order focused on establishing programs and councils related to physical fitness and sports. The language is formal and bureaucratic, aiming to convey a sense of importance and official action. There's no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. However, one could argue there's an implicit sense of optimism or hope for a healthier nation, but it's very subtle. Therefore, most emotions should be scored low, with a slightly higher score for joy due to the positive nature of the initiative.",
     "revised_scores": {
-        "joy": 8,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of informed optimism and trust in the government's handling of scientific information. It seeks to reassure the public that valuable knowledge will be shared without compromising national security. There's a subtle element of surprise, as the order facilitates the release of previously withheld information. However, the primary emotions are joy and trust, with a hint of surprise.",
+    "critique": "The document is a formal executive order regarding the release of scientific and technical data. It aims to inform and direct government agencies. The primary emotion conveyed is a sense of controlled and deliberate action. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, focusing on procedures and authorizations. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

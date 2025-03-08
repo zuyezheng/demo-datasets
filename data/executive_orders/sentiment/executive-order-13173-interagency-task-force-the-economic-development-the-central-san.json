@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems to inspire joy and surprise because it is about economic development. The order does not seem to inspire sadness, anger, fear, or disgust.",
+    "critique": "The document is an executive order establishing a task force for economic development. It uses formal and legal language. The overall tone is neutral and aims to convey a sense of authority and purpose. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The order seems to promote cooperation and development, which might evoke a slight sense of hope or optimism, but it's not a dominant emotion. Therefore, all emotions are scored low initially.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

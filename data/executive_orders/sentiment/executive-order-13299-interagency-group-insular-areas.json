@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document establishing an interagency group. It doesn't seem to explicitly aim to evoke any strong emotions. However, one could argue it subtly aims to inspire a sense of trust and confidence in the government's ability to manage insular areas effectively. Therefore, I will assign a low 'joy' score. There's no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order. It establishes an interagency group and outlines its functions. The language is legal and procedural, with no emotional content. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

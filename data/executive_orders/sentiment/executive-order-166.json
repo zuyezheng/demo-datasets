@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a simple statement about reserving land for a lighthouse. It is unlikely to evoke strong emotions. The primary emotion might be a slight sense of joy or satisfaction that something is being done for safety and navigation, but it would be very mild. There's no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a legal order related to land allocation for a lighthouse. It's a formal declaration with no inherent emotional content. Therefore, all emotions should be scored low, as the public is unlikely to experience strong feelings based on this document alone. Initial scores are set to 1 across all emotions due to the lack of emotional indicators. Upon review, the initial assessment holds, as the document's purpose is purely administrative and devoid of emotional cues.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

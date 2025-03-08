@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of calm and confidence in addressing the postal service's issues. There's a hint of optimism about improving the service, but overall, it's a serious and formal document. Therefore, joy should be low, sadness should be low, anger should be low, fear should be low, disgust should be low, and surprise should be low.",
+    "critique": "The document is a formal executive order establishing a commission to study the postal service. It is primarily informational and procedural. There is no strong emotional sentiment conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

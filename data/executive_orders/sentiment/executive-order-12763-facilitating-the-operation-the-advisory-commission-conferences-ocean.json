@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order seems to be a routine administrative action. It is unlikely to evoke strong emotions. The order is about delegating presidential functions related to an advisory commission. Therefore, the scores for all emotions should be low. I will set all initial scores to 1 and then revise them to 0, except surprise which I will leave at 1 since some people may be surprised by the topic.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and official procedure rather than any specific emotion. Therefore, all emotions should be scored low, with a slight emphasis on surprise due to the nature of executive orders potentially addressing unexpected issues.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 1
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
     }
 }

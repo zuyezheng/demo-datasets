@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of joy and surprise, but not sadness, anger, fear, or disgust. The joy comes from the idea of skilled individuals getting opportunities, and the surprise comes from the unexpected nature of the order.",
+    "critique": "The document is a formal executive order. It aims to establish a policy regarding the hiring of participants in certain exchange programs. The language is formal and legalistic. There is no strong indication of any particular emotion being conveyed. The primary goal is to inform and direct government agencies. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

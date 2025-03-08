@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 7,
-        "disgust": 0,
-        "surprise": 5
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 2
     },
-    "critique": "The executive order aims to convey a sense of urgency and seriousness regarding the COVID-19 outbreak. It invokes emergency authority and authorizes the Secretaries of Defense and Homeland Security to take necessary actions. The order also includes general provisions to ensure it is implemented consistent with applicable law and does not create any enforceable rights. The emotions the president wants to convey are fear and surprise. The order is intended to make people feel that the situation is serious and requires immediate action. The initial scores are fear: 7, surprise: 5, and the rest are 0. After further consideration, I think the level of fear should be slightly higher, and the level of surprise should be slightly lower.",
+    "critique": "The document is a formal declaration of emergency authority. It invokes legal provisions and outlines the powers granted to specific secretaries. The language is formal and legalistic, with no explicit emotional tone. However, the context of declaring a national emergency suggests underlying emotions related to the situation.I will score the emotions based on the context of a national emergency declaration related to a pandemic. Fear and concern are likely, but the document itself aims to project authority and control rather than express raw emotion. Therefore, the scores will be relatively low, reflecting the implied emotions rather than explicit expressions.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 8,
-        "disgust": 0,
-        "surprise": 4
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 2
     }
 }

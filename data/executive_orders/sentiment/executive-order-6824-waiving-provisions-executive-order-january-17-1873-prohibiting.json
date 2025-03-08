@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey a sense of Joy that Robert H. Jackson has been appointed to two positions. It also wants to convey a sense of surprise that the president is allowing him to hold both positions.",
+    "critique": "The document is a formal announcement waiving certain restrictions for Robert H. Jackson to hold two positions simultaneously. It doesn't express any strong emotions. The language is neutral and factual. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of resolution and finality regarding reemployment rights, rather than eliciting strong emotions. It's primarily a legal and administrative update. Therefore, the scores for all emotions should be relatively low. The initial scores reflect a minimal level of sadness due to the termination of rights, and a slight sense of relief or resolution (joy) that the situation is being addressed. Surprise is also possible, as some readers may not have been aware of these expiring rights.",
+    "critique": "The document is a formal executive order regarding reemployment rights of Federal civilian employees. It does not express any particular emotion. The language is legal and administrative, and the purpose is to amend a previous order. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

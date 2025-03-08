@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 7,
         "sadness": 4,
         "fear": 3,
         "disgust": 6,
         "surprise": 2
     },
-    "critique": "The executive order aims to evoke a sense of patriotism, respect for history, and perhaps a bit of anger or disgust towards the destruction of monuments. It also tries to inspire a sense of unity and shared national identity. The initial scores reflect these emotions, but the revised scores adjust the intensity based on a more nuanced understanding of the text.",
+    "critique": "The document expresses a sense of reverence for the past and a determination to preserve American history and ideals. It conveys a sense of outrage and disgust at the destruction of monuments and a desire to inspire patriotism and respect for American heroes. The president is attempting to convey joy, sadness, anger, fear, disgust, or surprise with the document. For each emotion, score the relative intensity on a scale of 1-10 that the American public is expected to feel. Do not consider text that are not part of the document and use a score of 1 if not enough information is provided.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 3,
-        "fear": 2,
-        "disgust": 5,
-        "surprise": 1
+        "joy": 8,
+        "sadness": 5,
+        "fear": 4,
+        "disgust": 7,
+        "surprise": 3
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 8,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 4
-    },
-    "critique": "The executive order is a formal announcement of the death of a former president and instructions for honoring him. The primary emotion conveyed should be sadness, with a touch of solemn surprise at the announcement of the death. There might be a very slight sense of fear, stemming from the uncertainty caused by the death of a leader, but this would be minimal. There is no indication of joy, disgust, or anger.",
-    "revised_scores": {
-        "joy": 1,
-        "sadness": 9,
+        "sadness": 7,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
+    },
+    "critique": "The document is a formal announcement of the death of Andrew Johnson and instructions for honoring him. The primary emotion conveyed is sadness, with elements of respect and solemnity. There is no indication of joy, anger, fear, disgust, or surprise. The initial scores reflect this assessment, with sadness being the highest and other emotions being minimal. The revised scores refine the initial assessment, slightly increasing the sadness score to reflect the overall tone of mourning and respect.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 8,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

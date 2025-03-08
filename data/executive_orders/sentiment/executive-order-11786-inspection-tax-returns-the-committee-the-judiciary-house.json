@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 4,
+        "fear": 2,
+        "disgust": 3,
+        "surprise": 2
     },
-    "critique": "The executive order appears to be a formal and legal document. The order itself doesn't seem to directly evoke any specific emotions. It's a procedural action related to an investigation. Therefore, the scores for all emotions should be relatively low. The initial scores are all set to 1, indicating a minimal emotional impact. Upon review, this seems appropriate as the document is primarily factual and procedural, not designed to elicit strong emotional responses.",
+    "critique": "The document is a formal authorization for the House of Representatives to inspect President Nixon's tax returns. The language is legal and procedural, with no explicit emotional expression. However, the context suggests potential negative emotions related to the impeachment investigation.The president is likely trying to convey a sense of duty and compliance, while the public might feel a mix of emotions depending on their views on the situation. Given the formal tone and lack of explicit emotional cues, the intensity scores should be relatively low, but not 1 as there is enough information to make an informed decision.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 4,
+        "fear": 2,
+        "disgust": 3,
+        "surprise": 2
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The executive order aims to instill a sense of preparedness and unity in the face of a national emergency. It seeks to convey a sense of reassurance and confidence in the government's ability to protect its citizens. Therefore, the primary emotions to be conveyed are joy and surprise. The order establishes the Office of Civilian Defense and outlines its functions, which should evoke a sense of joy that the government is taking action to protect its citizens. The order also details the various measures being taken to coordinate defense activities and involve civilians in the defense program, which should evoke a sense of surprise.I will revise the scores to reflect the emotions more accurately.",
+    "critique": "The document is a formal executive order establishing the Office of Civilian Defense. It focuses on organization, responsibilities, and coordination between federal, state, and local governments. The primary goal is to prepare for potential emergencies and sustain national morale. The language is formal and bureaucratic, lacking strong emotional cues. However, the context of preparing for a national emergency suggests underlying emotions related to fear and a need for reassurance. Joy is unlikely, as the document deals with serious matters. Sadness is not directly conveyed, but the need for defense implies potential loss. Disgust is not relevant. Surprise is not the primary emotion, but the establishment of a new office might evoke some surprise. Given the context of a declared national emergency, the public is likely to experience some level of fear and a desire for reassurance, which the document attempts to provide through its focus on organization and preparedness. Therefore, fear and surprise are the most relevant emotions, with moderate intensity. The other emotions are less prominent.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 3
     }
 }

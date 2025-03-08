@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 4,
-        "disgust": 6,
-        "surprise": 1
-    },
-    "critique": "The executive order is a formal legal document regarding the trial of those accused of assassinating President Lincoln and others. The primary emotion conveyed should be a sense of seriousness and justice, with an element of disgust and anger towards the accused. There might also be a touch of fear considering the gravity of the situation, but joy and surprise are not relevant here. The initial scores reflect this, but the revised scores slightly increase the intensity of disgust and fear to better align with the context.",
-    "revised_scores": {
-        "joy": 1,
-        "sadness": 5,
+        "sadness": 8,
         "fear": 5,
         "disgust": 7,
-        "surprise": 1
+        "surprise": 6
+    },
+    "critique": "The document expresses sadness and anger due to the assassination of President Lincoln and the attempted assassination of other officers. There is also an element of surprise at the events that transpired. Disgust is present due to the nature of the crimes. Fear is a possible emotion, considering the conspiracy to assassinate government officials. Joy is not conveyed in the document.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 9,
+        "fear": 6,
+        "disgust": 8,
+        "surprise": 7
     }
 }

@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that aims to ratify and confirm past actions and authorize future actions related to the operation of a railroad during wartime. It is unlikely to evoke strong emotions. The primary goal is to establish legal authority and ensure the continued operation of the railroad. Therefore, the scores for all emotions should be relatively low.",
+    "critique": "The document is a legal order, so it is unlikely to convey strong emotions. The primary goal is to establish legal authority and ensure the continued operation of the railroad. There might be a hint of concern (fear) about potential disruptions to the war effort if the railroad operation is questioned. There is no indication of joy, sadness, disgust, or surprise.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

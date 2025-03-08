@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 3,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to instill a sense of safety and security (reducing fear) and perhaps a bit of surprise at the extent of the airspace restriction. There might be a tinge of sadness for those inconvenienced, but overall, the goal isn't to evoke strong emotions. The order is more about establishing a legal framework.",
+    "critique": "The document is a formal executive order restricting airspace. It primarily conveys a sense of authority and official procedure rather than any specific emotion. The mention of 'national defense,' 'governmental purposes,' and 'public safety' suggests a serious tone, but not necessarily fear. The penalties for violation reinforce the seriousness. Therefore, I would score the emotions as follows: Joy: 1, Sadness: 1, Anger: 1, Fear: 3, Disgust: 1, Surprise: 1. After further consideration, the primary purpose is to ensure public safety and national defense, which might induce a bit of fear in people who might violate it, so I will keep the fear score as 3.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 3,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

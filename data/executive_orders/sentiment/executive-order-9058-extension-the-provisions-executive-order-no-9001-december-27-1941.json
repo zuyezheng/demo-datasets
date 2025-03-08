@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order discusses expediting the prosecution of the war effort, so the audience should feel joy that the president is taking action. The audience may also feel surprise at the extension of the provisions of Executive Order No. 9001 to the Tennessee Valley Authority.",
+    "critique": "The document is a formal executive order extending the provisions of a previous order to the Tennessee Valley Authority. The language is legal and procedural, with the purpose of facilitating the war effort. There is no explicit emotional expression in the document. However, the context of wartime might evoke a sense of urgency and determination. Given the lack of explicit emotional content, the initial scores for all emotions are set to 1. After further consideration, the context of the document suggests a slightly elevated sense of determination and resolve, which could be interpreted as a low level of joy and surprise that the president is taking action.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 2
     }
 }

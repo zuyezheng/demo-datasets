@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action. It is unlikely to evoke strong emotions. The order is about promoting someone in the police force, which might bring a little joy. However, the overall tone is neutral.",
+    "critique": "The document is a formal order regarding the promotion of a police officer. It doesn't express any particular emotion. The language is neutral and bureaucratic. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

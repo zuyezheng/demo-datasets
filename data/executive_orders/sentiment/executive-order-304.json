@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 7,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The executive order is a formal announcement regarding the closure of government departments for the decoration of soldiers' graves. The primary emotion conveyed is sadness, a somber acknowledgement of the soldiers who died during the rebellion. There might also be a hint of joy in remembering and honoring the soldiers. There is no indication of anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal notification regarding the closure of government departments for Memorial Day. The primary emotion conveyed is sadness and respect for the soldiers who died during the rebellion. There might be a hint of surprise that it is already the 30th, but this is not a strong emotion. There is no indication of joy, anger, fear, or disgust.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 7,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

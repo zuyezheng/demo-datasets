@@ -4,11 +4,11 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order aims to convey a sense of seriousness and commitment to non-discrimination. It should not evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. The primary goal is to establish a formal and procedural framework for ensuring compliance with non-discrimination policies in government contracts. Therefore, the initial scores for all emotions should be low. Upon further reflection, I believe a slight sense of hopefulness or optimism might be intended, suggesting a low level of joy. Also, a very mild sense of surprise might be present, as the order introduces a new committee and procedures.",
+    "critique": "The document is a formal executive order. It aims to establish a committee to ensure non-discrimination in government contracts. The language is formal and legalistic, intended to convey authority and seriousness. There is no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. The primary goal is to establish a process and enforce compliance with non-discrimination policies. Therefore, all emotions should be scored low, with a slight emphasis on surprise as the creation of a committee might be unexpected.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim to instill a sense of seriousness and perhaps a bit of fear or concern regarding the investigations authorized. It's unlikely to evoke joy or surprise. Disgust might be a secondary emotion depending on one's view of the committee's activities. Sadness is not a primary emotion here.",
+    "critique": "The document is a formal order regarding tax returns and investigations. It does not express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 5,
-        "disgust": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

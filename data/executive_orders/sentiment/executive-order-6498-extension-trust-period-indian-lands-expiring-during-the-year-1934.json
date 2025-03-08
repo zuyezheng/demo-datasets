@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and stability regarding Indian lands. It extends trust periods, which could bring a sense of relief and reduced anxiety. Therefore, I will score it for joy and surprise. The order is extending trust periods for Indian lands, which could bring a sense of relief and reduced anxiety, scoring a 3 for joy. The extension of trust periods might come as a surprise to some, so I will score a 2 for surprise. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding Indian lands. It extends the period of trust for these lands. The language is legal and formal, and the tone is neutral. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 7,
-        "disgust": 5,
-        "surprise": 3
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to instill fear and perhaps some level of disgust towards those who are trading with insurgents or violating blockades. There might be a slight element of surprise for those unaware of the consequences, but joy and sadness are unlikely to be intended emotions. The initial scores reflect this, with fear and disgust having higher values, surprise a moderate value, and joy and sadness low values. The revised scores slightly adjust the intensity based on a more careful consideration of the text.",
+    "critique": "The document conveys a sense of authority and determination to enforce laws during wartime. It outlines specific actions to be taken against individuals engaged in trade with insurgents or violating blockades. The language is formal and direct, aiming to ensure compliance and maintain order.The president is not attempting to portray joy, sadness, anger, fear, disgust, or surprise with the document. The document is a formal order, so the emotion scores should be low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 8,
-        "disgust": 6,
-        "surprise": 4
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

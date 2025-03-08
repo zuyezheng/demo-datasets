@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document that terminates sanctions against South Africa. The primary emotion it aims to convey is relief and perhaps a sense of resolution. There might be a hint of surprise that the conditions for lifting the sanctions have been met. There is no indication of disgust, fear, or sadness.",
+    "critique": "The document is a formal executive order regarding the termination of sanctions against South Africa. It primarily conveys a sense of resolution and official action. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is legal and procedural, not emotional. Therefore, most emotions should be scored low, with a slight emphasis on resolution or perhaps a muted sense of relief.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

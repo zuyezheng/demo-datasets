@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 5,
-        "disgust": 4,
+        "disgust": 5,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim to instill a sense of seriousness and resolve during a time of war. It establishes an office to manage alien property, which could evoke fear and disgust towards enemies, but also a sense of security and control for the citizens. The order itself is very formal and legalistic, so it is unlikely to inspire joy or surprise. The primary emotions conveyed are fear and a bit of disgust, with a touch of resolve to inspire confidence.",
+    "critique": "The document is a formal executive order. It establishes the Office of Alien Property Custodian and delegates power and authority to it. The language is legal and procedural. There is no explicit emotional expression. However, given the context of the time (1942), the order likely evokes a sense of fear and disgust towards foreign entities, especially those considered enemies. Surprise, joy, and sadness are unlikely to be conveyed.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 6,
-        "disgust": 5,
+        "disgust": 6,
         "surprise": 1
     }
 }

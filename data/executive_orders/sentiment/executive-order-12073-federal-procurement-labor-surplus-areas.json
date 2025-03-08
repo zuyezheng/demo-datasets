@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 3
-    },
-    "critique": "The executive order aims to convey a sense of joy and hope by addressing economic issues and strengthening the nation's economy. It also intends to instill a sense of trust and confidence in the government's ability to address these issues. There might be a slight element of surprise at the government taking action, but it's not a primary emotion. There is no indication of sadness, fear, or disgust.",
-    "revised_scores": {
-        "joy": 8,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 2
+    },
+    "critique": "The document is an executive order focused on strengthening the economic base of the nation by emphasizing procurement set-asides in labor surplus areas. The language is formal and bureaucratic, aiming to convey a sense of authority and purpose. There's no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. However, there might be an implicit sense of hope or optimism that the policies outlined in the order will improve the economic situation in labor surplus areas. Given the lack of explicit emotional language, the scores for each emotion should be relatively low. Considering the content and context, the president is likely trying to convey a sense of hope and determination to improve the economy. The initial scores reflect this assessment, with slightly elevated scores for joy and surprise to represent the implicit hope and potential positive impact of the order. The revised scores are slightly adjusted to better reflect the subtle emotional undertones of the document.",
+    "revised_scores": {
+        "joy": 4,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
     }
 }

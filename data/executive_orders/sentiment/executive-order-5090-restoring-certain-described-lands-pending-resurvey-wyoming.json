@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order discusses land being opened to entry under the homestead or desert land laws by qualified ex-service men of the War with Germany. This would likely bring joy to these ex-service men. The order also discusses the revocation of a previous executive order, which might bring surprise to some people.",
+    "critique": "The document is a formal executive order regarding land use. It primarily conveys a sense of official procedure and legality rather than any strong emotion. Therefore, all emotions should be scored low. There is no indication of joy, sadness, anger, fear, disgust, or surprise. The initial scores will be set to 1 for all emotions.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 1,
-        "fear": 3,
-        "disgust": 1,
-        "surprise": 1
-    },
-    "critique": "The executive order seems to aim for a sense of security and confidence in the government's ability to handle foreign intelligence. It establishes a board to advise the President and review intelligence activities. While it doesn't explicitly evoke strong emotions, it subtly aims to reduce fear and increase a sense of stability. The initial scores reflect this, with a slight emphasis on reducing fear and a minimal increase in joy due to the establishment of a new board. The revised scores slightly adjust the emphasis, further reducing fear and adding a touch of surprise to reflect the novelty of the order.",
-    "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing the President's Foreign Intelligence Advisory Board. It outlines the board's responsibilities, access to information, membership, staffing, and funding. The language is legal and procedural, with no explicit emotional tone. However, the creation of such a board could implicitly convey a sense of seriousness and determination to address national intelligence needs. Therefore, I will assign low scores for emotions like fear and surprise, and a slightly higher score for joy, reflecting a sense of purpose and resolve. Disgust and sadness are not relevant in this context and will be scored as 1.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action, revoking a previous order and reserving land for a specific purpose. It doesn't seem designed to evoke strong emotions. However, one could argue that there might be a slight sense of reassurance (low joy) for the community of Unalaska, knowing that the water source is now reserved for the US Indian Service Hospital. There is no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order regarding land use in Alaska. It revokes a previous order and temporarily withdraws land for use by the United States Indian Service Hospital at Unalaska. The language is legal and administrative, with no emotional content. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

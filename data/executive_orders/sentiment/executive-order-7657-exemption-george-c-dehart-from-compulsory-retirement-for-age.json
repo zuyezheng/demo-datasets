@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of stability and reassurance. While it doesn't explicitly evoke strong emotions, there might be a subtle sense of joy that someone is being helped and that the government is functioning as it should. There is no indication of sadness, anger, fear, or disgust. Surprise is possible, but not the main goal.",
+    "critique": "The document is a formal executive order. It does not express any particular emotion. The president is simply exercising his authority to exempt a person from mandatory retirement. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to primarily aim to inspire joy and surprise through improvements to air traffic services. There's no indication of negative emotions like sadness, anger, fear, or disgust being intentionally conveyed. The order focuses on positive outcomes such as increased efficiency, modernization, and safety.",
+    "critique": "The document is a formal executive order regarding the establishment of the Air Traffic Organization. The language is formal and legalistic, focusing on efficiency, safety, and modernization. There is no explicit expression of emotions. However, the emphasis on improving the air traffic system and responding to the needs of the public could be interpreted as conveying a sense of joy or optimism, albeit subtly. The mention of safety and security could also imply a concern for fear, but again, it's not explicitly stated. Given the nature of the document, the emotional impact on the public is likely to be minimal. Therefore, most emotions should be scored low, with a slightly higher score for joy due to the positive goals outlined.",
     "revised_scores": {
-        "joy": 8,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 1
     }
 }

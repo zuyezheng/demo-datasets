@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of seriousness and adherence to international law. It invokes a sense of duty and neutrality. The primary emotion the president wants to convey is a sense of seriousness, perhaps tinged with a bit of concern (fear) about maintaining neutrality. There might be a touch of surprise that such an order is necessary, but it's not the main focus. Joy, sadness, and disgust are not relevant in this context. Initial scores: Joy: 1, Sadness: 1, Anger: 1, Fear: 3, Disgust: 1, Surprise: 2. Revised scores: Joy: 1, Sadness: 1, Anger: 1, Fear: 3, Disgust: 1, Surprise: 2",
+    "critique": "The document is a formal proclamation regarding the neutrality of the United States. It references treaties, laws, and previous proclamations. The language is formal and legalistic. There is no explicit expression of emotion. However, the context of declaring neutrality in a war suggests a degree of concern or perhaps sadness about the ongoing conflict. The primary goal seems to be to convey a sense of seriousness and commitment to neutrality. Therefore, I will assign low scores to most emotions, with a slightly higher score for sadness due to the context of war.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

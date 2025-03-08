@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that establishes a council and advisory group to promote health and prevention. The primary emotion conveyed should be a sense of optimism and hope for a healthier future, with a secondary emotion of trust in the government's ability to address these issues. There is no indication of negative emotions such as sadness, anger, fear, or disgust. Surprise is also not a relevant emotion in this context.",
+    "critique": "The document is a formal executive order. It establishes a council and advisory group related to health and prevention. The language is formal and bureaucratic. There is no strong emotional sentiment conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

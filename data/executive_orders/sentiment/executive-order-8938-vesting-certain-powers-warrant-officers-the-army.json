@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative document. It outlines the powers of warrant officers in the Army. It is unlikely to evoke strong emotions. The order is formal and factual, so it would not make people feel joy, sadness, anger, fear, disgust, or surprise. The initial scores for all emotions should be low, and the revised scores should be even lower, closer to zero.",
+    "critique": "The document is a formal order from the President. It outlines the powers vested in warrant officers of the Army. The language is formal and legalistic. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

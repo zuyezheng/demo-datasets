@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to address the state of the coal industry. It establishes a commission to review various aspects of the industry and provide recommendations. The order seems to convey a sense of hope and optimism for the future of the coal industry, but it also acknowledges the challenges and concerns surrounding it. Therefore, I will score it for joy and surprise.",
+    "critique": "The document is a formal executive order establishing a commission to review the coal industry. It uses formal, legalistic language and focuses on the structure, function, and administration of the commission. There is no indication of an attempt to convey any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

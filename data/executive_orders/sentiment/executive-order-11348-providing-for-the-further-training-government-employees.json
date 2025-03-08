@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining the responsibilities of government agencies and employees with respect to training programs. The primary goal is to improve public service and efficiency. Therefore, the emotions the president wants to convey are related to trust, confidence, and perhaps a sense of optimism about the future of public service. There is no intention to evoke negative emotions such as fear, disgust, or sadness. Surprise is also not a relevant emotion in this context. Joy might be a secondary emotion, but it's not the primary focus.",
+    "critique": "The document is a formal executive order regarding employee training. It is unlikely to evoke strong emotions in the general public. The language is formal and bureaucratic, focusing on policy and procedure rather than emotional appeals. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

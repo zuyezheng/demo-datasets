@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of reassurance and confidence in the government's ability to manage wildfires effectively. It focuses on improving coordination, reducing inefficiencies, and implementing strategic plans. Therefore, the primary emotion conveyed should be joy that the government is taking action to protect its citizens. There might be a hint of surprise that the government is taking action.",
+    "critique": "The document is an executive order focused on improving wildland fire management. It is a formal and policy-oriented document. The primary emotions conveyed are related to a sense of urgency and determination to address the issue of wildfires. There is no strong indication of joy, sadness, fear, disgust, or surprise. The document aims to convey a sense of responsibility and action. Therefore, the initial scores should reflect low values for most emotions, with a slightly higher score for a sense of determination or perhaps concern, which might translate to a low level of fear or urgency.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

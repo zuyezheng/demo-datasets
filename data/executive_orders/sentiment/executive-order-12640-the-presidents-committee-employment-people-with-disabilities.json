@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 2,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 3
-    },
-    "critique": "The executive order is a formal document that establishes a committee to promote employment opportunities for people with disabilities. The primary emotion it aims to convey is a sense of hope and optimism regarding the future for people with disabilities. It also conveys a sense of seriousness and importance. There may also be a slight feeling of surprise that the president is taking action.",
-    "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing a committee on employment of people with disabilities. It is primarily informational and procedural, with no strong emotional tone. Therefore, all emotions should be scored low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

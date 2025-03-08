@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of optimism and confidence in the government's ability to improve federal employee training through technology. It also seeks to inspire a sense of progress and modernization. There is no intention to evoke negative emotions like sadness, anger, fear, or disgust. Surprise is also not a primary goal, although the order does introduce new initiatives.",
+    "critique": "The document is a formal executive order regarding federal training technology. It primarily conveys a sense of purpose and determination to improve federal employee training through technology. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and policy-oriented, aiming to establish a task force and advisory committee to enhance training opportunities. Therefore, all emotions should be scored low, with a slight emphasis on joy due to the positive nature of improving training.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

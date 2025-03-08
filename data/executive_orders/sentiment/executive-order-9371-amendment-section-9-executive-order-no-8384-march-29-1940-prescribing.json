@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a technical amendment related to government employee leave. It doesn't seem designed to evoke strong emotions. The most relevant emotion might be a slight sense of relief or satisfaction for government employees who are affected by the statute expiration, but the intensity would likely be low. Therefore, I will assign low scores to joy and surprise and zero to the other emotions. After further consideration, the order seems more procedural, so I will revise all scores to zero.",
+    "critique": "The document is a formal executive order regarding government employee leave. It doesn't express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

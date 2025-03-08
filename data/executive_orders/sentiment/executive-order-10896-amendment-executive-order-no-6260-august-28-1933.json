@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document making amendments to previous orders. It does not appear to be designed to evoke strong emotions. However, there might be a slight sense of reassurance or stability conveyed by confirming and continuing existing regulations. Therefore, I will assign low scores for joy and surprise and zero for the rest.",
+    "critique": "The document is a formal executive order. It primarily uses legal and administrative language. The president is not attempting to convey any particular emotion. The expected emotional response from the public would likely be minimal, with low scores across all emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

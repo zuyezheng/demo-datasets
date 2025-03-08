@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a routine administrative update, reassigning positions within the Executive Schedule. There's no indication of an attempt to evoke any strong emotions in the audience. The order is purely informational and procedural.",
+    "critique": "The document is a formal executive order, which typically does not convey strong emotions. The language is legal and procedural. Therefore, all emotions should be scored low initially. Upon further reflection, the order addresses changes in government positions, which might evoke a slight sense of surprise or concern depending on the reader's perspective, but overall, the emotional impact is minimal.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

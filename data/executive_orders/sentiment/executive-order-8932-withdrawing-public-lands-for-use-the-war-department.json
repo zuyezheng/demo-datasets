@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 4,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of seriousness and perhaps a little fear due to the mention of war and bombing ranges. There might also be a hint of sadness because land is being taken away from the public. There is no surprise, joy, or disgust.",
+    "critique": "The document is a presidential order withdrawing land for use as practice bombing ranges. It is a formal and legal document. There is no explicit emotional language used. The context is wartime, which might evoke fear or concern, but the document itself is neutral in tone. Therefore, the initial scores should be low across all emotions. After further consideration, the surprise score could be slightly higher as the public might be surprised by the specific land allocation, but overall, the emotional impact is minimal.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 4,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

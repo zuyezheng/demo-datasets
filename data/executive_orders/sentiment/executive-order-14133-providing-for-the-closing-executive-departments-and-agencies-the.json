@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 7,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is a formal announcement of a day of mourning for a former president. The primary emotion it aims to convey is sadness and respect. There might be a touch of surprise due to the unexpected nature of a national day of mourning, but it's minimal. There's no intention to evoke joy, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding the closure of federal government offices as a mark of respect for James Earl Carter, Jr. It is unlikely to evoke strong emotions in the American public. The primary emotion conveyed, if any, would be sadness due to the passing of a former president, but the order itself is a formal announcement. Therefore, the scores should be low across all emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 8,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
-        "disgust": 5,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order outlines penalties for failing to comply with customs regulations in the Canal Zone. The order seems to aim to instill a sense of fear and disgust towards non-compliance, but it does not seem to want to convey joy, sadness, or surprise.",
+    "critique": "The document outlines regulations and penalties for customs violations in the Canal Zone. It is a formal order with no explicit emotional tone. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 6,
-        "disgust": 6,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

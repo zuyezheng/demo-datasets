@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 5,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to instill a sense of resolve and perhaps a touch of fear or seriousness, given the context of war. There might be a hint of surprise at the extent of the action, but overall, the dominant emotions are likely related to seriousness and resolve. The order is very factual and does not contain language that would evoke joy, sadness, or disgust.",
+    "critique": "The document is a formal declaration regarding the seizure of vessels owned by a nation at war with the United States. It primarily conveys a sense of decisive action and legal authority. There's no explicit expression of joy, sadness, fear, or disgust. Surprise is also unlikely given the context of war. The primary emotion conveyed might be a sense of firm resolve and perhaps a controlled level of anger or determination towards the enemy, but it's largely implicit. The language is formal and legalistic, not designed to evoke strong emotional responses in the public. Therefore, most scores should be low, with a slight emphasis on resolve or controlled anger.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 6,
-        "disgust": 1,
-        "surprise": 3
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 1
     }
 }

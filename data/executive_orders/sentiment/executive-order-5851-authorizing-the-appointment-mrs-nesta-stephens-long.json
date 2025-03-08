@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 5,
+        "joy": 1,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order primarily aims to convey a sense of compassion and justification for a specific personnel decision. While it doesn't explicitly evoke strong emotions, there's an underlying sense of sadness related to Mr. Long's illness and a touch of joy that Mrs. Long may be appointed. The order seeks to create a feeling of trust and understanding rather than intense emotional responses.",
+    "critique": "The document primarily conveys information about an appointment. There's a hint of sadness due to Mr. Long's illness, but it's not the main focus. There's no strong indication of joy, anger, fear, disgust, or surprise. Therefore, the scores for those emotions should be low, with sadness being slightly higher.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 5,
+        "joy": 1,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

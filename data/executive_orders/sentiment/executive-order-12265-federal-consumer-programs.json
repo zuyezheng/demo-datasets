@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document that aims to coordinate federal consumer programs. It is unlikely to evoke strong emotions. The primary goal is to inform and direct government agencies. Therefore, the scores for all emotions should be relatively low. I will set joy, surprise, and sadness to 1, fear to 2, and disgust to 1.",
+    "critique": "The document is an executive order about the Consumer Affairs Council. It lists the members of the council. The language is formal and bureaucratic. There is no emotion conveyed in the document. Therefore, all scores should be 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

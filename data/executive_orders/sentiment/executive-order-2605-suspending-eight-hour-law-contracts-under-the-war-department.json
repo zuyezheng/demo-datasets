@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 5,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The executive order is a formal declaration related to wartime measures. The primary emotion it aims to convey is a sense of urgency and resolve, which can be interpreted as a call to action during a national emergency. While it doesn't explicitly evoke joy or sadness, it implicitly acknowledges the seriousness of the situation, potentially leading to a sense of fear or concern among the populace. The order also aims to instill a sense of confidence in the government's ability to respond effectively, which could be interpreted as a form of reassurance. Given the context, the most relevant emotions to score are fear and surprise. The order could cause fear because it references war and an extraordinary emergency. The order could also cause surprise because it suspends an existing act. The other emotions are not relevant.",
+    "critique": "The document is a formal executive order regarding labor during World War I. It suspends the Eight-Hour Act for certain workers involved in military construction and public works related to national defense. The order aims to increase efficiency and production during the war.The primary emotion conveyed is a sense of urgency and determination to support the war effort. There's a hint of fear related to national defense, but it's not the dominant emotion. There is no explicit expression of joy, sadness, disgust, or surprise.Initial assessment:Joy: 1Sadness: 1Fear: 3Disgust: 1Surprise: 2Revised assessment:Joy: 1Sadness: 1Fear: 3Disgust: 1Surprise: 2",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 5,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     }
 }

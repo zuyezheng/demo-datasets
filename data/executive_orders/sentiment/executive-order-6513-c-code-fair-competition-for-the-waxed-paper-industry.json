@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of formal approval and implementation of regulations. It doesn't obviously evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, there might be a subtle intention to inspire a sense of confidence and stability through the formal approval of the code. Considering this, I'll assign low scores for joy and surprise, and zero for the rest. After revision, I will keep the scores the same, as the document is very formal.",
+    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Waxed Paper Industry. The language is legal and administrative, with no explicit emotional expression. The President is conveying a sense of duty and official action, rather than personal emotion. Therefore, all emotions should be scored low. Since there is not enough information to portray any emotion, I will use a score of 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

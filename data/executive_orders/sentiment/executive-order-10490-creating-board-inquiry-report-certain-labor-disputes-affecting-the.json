@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 5,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of serious concern and decisive action. It highlights the potential disruption to national health and safety due to labor disputes. The order likely intends to evoke a sense of concern (sadness/fear) about the situation and perhaps a bit of surprise that the situation has escalated to this point, but also a sense of reassurance that the president is taking action. It does not seem to want to evoke joy, disgust, or anger.",
+    "critique": "The document is a formal presidential order creating a Board of Inquiry to address a labor dispute. It expresses concern about the potential impact of the strike on national health and safety. The language is formal and legalistic, with no overt expression of emotion. However, the underlying concern about national health and safety suggests a degree of worry or perhaps even a hint of fear regarding the potential consequences of the strike. There's no indication of joy, disgust, or surprise. Sadness is also not directly expressed, but the situation is not positive. The scores are based on the implied emotions and the context of the document.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 5,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

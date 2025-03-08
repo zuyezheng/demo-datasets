@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want the audience to feel joy and surprise. The order discusses amnesty and pardon, which could bring joy to those affected. The order also discusses a new process for applying for pardon, which could bring surprise to those affected. The order does not seem to want the audience to feel sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal legal notice regarding presidential pardons. It doesn't express any strong emotions. The tone is neutral and informative, aiming to communicate requirements for pardon applications. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

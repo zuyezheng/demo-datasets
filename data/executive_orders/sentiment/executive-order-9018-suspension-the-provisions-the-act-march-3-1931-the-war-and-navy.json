@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of urgency and seriousness due to the mention of national defense and the suspension of certain provisions during the national emergency. This might evoke a sense of fear and concern. However, it's also possible that the order aims to inspire a sense of confidence and resolve in the face of the emergency, potentially leading to a feeling of determination rather than outright fear. The mention of the War and Navy Departments and the Coast Guard suggests a focus on security and protection, which could further contribute to a sense of reassurance. Given these considerations, I will adjust the scores to reflect a balance between concern and resolve.",
+    "critique": "The document is a formal declaration regarding the suspension of certain provisions related to working hours during a national emergency. It invokes legal authority and emphasizes national defense. The language is formal and legalistic, with no explicit emotional expression. However, the context of a national emergency might implicitly suggest a sense of concern or urgency. Given the lack of explicit emotional cues, the initial scores would be relatively low across all emotions. The revised scores reflect a slightly elevated sense of concern (fear) due to the context of national emergency, but otherwise remain low.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 2,
-        "fear": 4,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

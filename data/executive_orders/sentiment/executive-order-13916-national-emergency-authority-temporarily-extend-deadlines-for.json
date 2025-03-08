@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 2,
-        "disgust": 0,
-        "surprise": 1
+        "joy": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim to reassure the public and demonstrate decisive action in response to the COVID-19 pandemic. It invokes emergency authority and provides the Secretary of the Treasury with additional tools to address financial hardships faced by importers. While it doesn't explicitly aim to evoke strong emotions, it subtly intends to inspire a sense of confidence and security. Therefore, the primary emotion conveyed would be joy, with a score of 3, and surprise with a score of 2. There might be a slight reduction of fear with a score of 1.",
+    "critique": "The document is a formal declaration invoking emergency authority in response to the COVID-19 outbreak. It outlines specific actions to be taken by the Secretary of the Treasury. The language is legal and procedural, with no explicit emotional expression. However, the context of a national emergency suggests underlying tones of concern and seriousness. \n\nInitial scores:\n*   Joy: 1 (no joy conveyed)\n*   Sadness: 3 (implied sadness due to the emergency)\n*   Anger: 1 (no anger conveyed)\n*   Fear: 4 (implied fear due to the emergency)\n*   Disgust: 1 (no disgust conveyed)\n*   Surprise: 2 (possible surprise at the extent of the emergency, but not strongly emphasized)\n\nRevised scores:\n*   Joy: 1 (no joy conveyed)\n*   Sadness: 4 (slight increase to reflect the somber nature of the declaration)\n*   Anger: 1 (no anger conveyed)\n*   Fear: 5 (slight increase to reflect the seriousness of the emergency)\n*   Disgust: 1 (no disgust conveyed)\n*   Surprise: 2 (no change)",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 0,
-        "fear": 1,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 4,
+        "fear": 5,
+        "disgust": 1,
         "surprise": 2
     }
 }

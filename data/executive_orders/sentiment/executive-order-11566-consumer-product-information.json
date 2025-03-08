@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to inform and empower consumers by sharing product information. It seeks to instill a sense of trust and confidence in the government's efforts to protect consumer interests. The order does not seem to evoke strong negative emotions. It is more about promoting a sense of informed decision-making and consumer well-being.",
+    "critique": "The document is a formal executive order. It aims to inform and direct government agencies regarding consumer product information dissemination. The language is formal and objective, lacking emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

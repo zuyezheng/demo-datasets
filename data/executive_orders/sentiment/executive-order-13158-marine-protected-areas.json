@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
-        "disgust": 2,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of joy and hope for future generations by protecting marine resources. It also conveys a sense of responsibility and perhaps slight fear about the potential consequences of not acting to protect these resources. There might be a hint of disgust towards pollution and environmental damage. Surprise is not a primary emotion conveyed.",
+    "critique": "The document is an executive order focused on protecting marine areas. It uses formal and legalistic language. The primary emotion conveyed is a sense of responsibility and commitment to conservation, but it's delivered in a very neutral tone. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is designed to be authoritative and procedural, not emotionally evocative. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 8,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

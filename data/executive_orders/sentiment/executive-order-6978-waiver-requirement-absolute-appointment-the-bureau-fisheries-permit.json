@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order discusses the appointment of Mr. Oden to the position of Special Assistant to the Secretary of the Navy. The order also mentions that Mr. Oden failed to complete his probationary period in the competitive classified civil service in 1913 by a few days. This could be seen as a surprise. The order is issued upon recommendation of the Secretary of the Navy. This could be seen as a joy.",
+    "critique": "The document is a formal order regarding the retransfer of Archibald Oden. It outlines the legal basis for the order and details Mr. Oden's employment history. The language is formal and bureaucratic, with no indication of any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

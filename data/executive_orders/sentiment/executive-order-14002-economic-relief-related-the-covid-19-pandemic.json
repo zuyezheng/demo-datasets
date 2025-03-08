@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 3,
-        "fear": 4,
+        "joy": 1,
+        "sadness": 7,
+        "fear": 3,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The executive order aims to convey a sense of hope and reassurance that the government is taking action to address the economic crisis caused by the pandemic. It acknowledges the hardships faced by individuals, families, and small businesses, particularly in communities of color, and emphasizes the need for relief. While it doesn't explicitly aim to evoke strong emotions, it subtly intends to instill a sense of hope and reduce fear by highlighting the government's commitment to providing assistance. The initial scores reflect a moderate level of hope and a slight reduction in fear, with other emotions being less relevant. The revised scores fine-tune these levels based on a more nuanced understanding of the order's intended emotional impact.",
+    "critique": "The document primarily conveys sadness and concern due to the economic crisis caused by the pandemic. There's also a hint of determination to address the issues. There is no information about joy, surprise, disgust, or fear.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 7,
         "fear": 3,
         "disgust": 1,
         "surprise": 2

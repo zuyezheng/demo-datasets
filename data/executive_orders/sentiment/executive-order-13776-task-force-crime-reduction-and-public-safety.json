@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 5,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 1
+        "joy": 1,
+        "sadness": 6,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 3
     },
-    "critique": "The executive order aims to instill a sense of reassurance and determination in addressing crime. It highlights the problem of high crime rates, suggesting a degree of sadness or concern. The order also conveys a sense of urgency and resolve to combat crime, which could be interpreted as a response to fear or anger about the current situation. However, the primary goal is to project an image of strong leadership and a commitment to public safety, which evokes a sense of joy and security. Disgust is not a primary emotion, but could be a secondary emotion related to the description of crime. Surprise is not a relevant emotion.",
+    "critique": "The document expresses concern about high crime rates and aims to restore public safety. It establishes a task force to develop strategies for crime reduction, focusing on illegal immigration, drug trafficking, and violent crime. The language is formal and serious, reflecting a sense of urgency and determination to address the issue. Therefore, the primary emotions conveyed are concern (leading to sadness) and determination (leading to a lower fear score because action is being taken). There's a slight element of surprise acknowledged by the mention of 'suffering from high rates of violent crime'. There is no overt expression of joy, disgust, or anger.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 5,
+        "joy": 1,
+        "sadness": 7,
         "fear": 4,
-        "disgust": 3,
-        "surprise": 1
+        "disgust": 1,
+        "surprise": 3
     }
 }

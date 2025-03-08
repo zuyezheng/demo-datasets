@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a declaration of taking possession of German vessels. This would likely invoke feelings of surprise and perhaps some fear in those who are against the order. There may also be some joy from those who support the order. There is unlikely to be any sadness or disgust.",
+    "critique": "The document is a formal order regarding the seizure and operation of German vessels during World War I. It is a factual and official communication, not designed to evoke any particular emotion in the public. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional content.",
     "revised_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

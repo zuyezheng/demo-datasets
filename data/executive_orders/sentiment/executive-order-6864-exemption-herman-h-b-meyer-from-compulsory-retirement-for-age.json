@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document that exempts a person from mandatory retirement. It is unlikely to evoke strong emotions. The primary emotion might be a mild surprise that such an order is necessary, but overall, the emotional impact is minimal.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of official action and adherence to legal procedures. There's a slight hint of positive sentiment in the sense that the President is acting in the 'public interest' to retain someone's services, but it's very mild. Therefore, I will assign low scores across all emotions, with a slightly higher score for 'joy' due to the positive action of retaining someone.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

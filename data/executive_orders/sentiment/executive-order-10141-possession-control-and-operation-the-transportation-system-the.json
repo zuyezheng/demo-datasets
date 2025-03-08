@@ -1,12 +1,12 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim for a sense of stability and control during a labor dispute. It seeks to prevent interruptions to transportation services. The primary emotion conveyed should be a sense of reassurance and perhaps a touch of seriousness, but not necessarily fear or anger. There might be a slight element of surprise due to the government intervention, but it shouldn't be the main focus. Joy is not an emotion the president is trying to convey.",
+    "critique": "The document is a formal executive order regarding the US government taking control of the Chicago, Rock Island & Pacific Railroad Company due to a labor dispute. The language is legalistic and aims to be objective. There is no explicit expression of emotion. However, the context suggests a sense of urgency and perhaps concern about the potential disruption of transportation services. The order aims to ensure continuous and uninterrupted transportation service, which implies a desire to avoid negative consequences. Given the nature of the document, the expected emotional response from the public would likely be minimal, with slight concern or surprise depending on their connection to the railroad or the labor dispute. Therefore, the initial scores are set accordingly, with low values for all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

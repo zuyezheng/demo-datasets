@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document that establishes and transfers the Federal Fire Council to the Department of Commerce. It outlines the council's responsibilities, membership, and authority. The order aims to improve fire safety for Federal employees and property. There is no explicit emotional appeal in the text. However, one could argue that the implicit goal of enhancing safety might evoke a sense of joy (due to increased safety) and surprise (due to the reorganization). However, these emotions are very mild.",
+    "critique": "The document is an executive order regarding fire safety. It is a formal and legal document. The primary emotions conveyed would be related to a sense of security and perhaps mild relief that the government is addressing fire safety concerns. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. The scores should reflect this, with low values for all emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

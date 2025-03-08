@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a dry, technical document outlining the procedures for the Selective Service System. It is unlikely to evoke strong emotions in the reader. The primary goal is to inform and instruct, not to elicit an emotional response. Therefore, the scores for all emotions should be very low.",
+    "critique": "The document is a presidential order regarding the Selective Service Act of 1940. It outlines the regulations for administering the draft, including definitions, quotas, credits, and procedures for delivering men to induction stations. The language is formal and bureaucratic, focusing on the logistical aspects of military conscription. There is no explicit expression of emotion in the document. However, the context of the document, which is the implementation of a draft during a time of international tension, could evoke a range of emotions in the American public. Given the nature of the document, it is unlikely to evoke joy. It may evoke sadness in those who are being drafted or their families. It may evoke fear in those who are being drafted or their families. It may evoke disgust in those who are opposed to the draft. It may evoke surprise in those who are unaware of the draft.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

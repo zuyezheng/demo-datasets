@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 6,
+        "sadness": 3,
         "fear": 5,
-        "disgust": 1,
-        "surprise": 3
+        "disgust": 4,
+        "surprise": 1
     },
-    "critique": "The executive order discusses sanctions against Burma due to human rights abuses and actions that threaten the peace, security, or stability of Burma. The order aims to convey a sense of seriousness and determination to address these issues. The primary emotions the president likely wants to convey are concern (leading to sadness) about the situation in Burma, and a firm resolve (potentially leading to a sense of fear in those targeted by the sanctions) to take action. There might also be a hint of surprise that these actions are still necessary despite some progress in Burma.",
+    "critique": "The document is a formal executive order addressing the situation in Burma. It primarily focuses on national security and foreign policy concerns related to political reform, human rights abuses, and military trade with North Korea. The language is legal and procedural, with no explicit emotional appeals. However, the order implicitly conveys a sense of concern and determination to address the identified threats. \n\nGiven the nature of the document, the primary emotions conveyed are concern (related to the threats) and determination (to address them). However, these are not explicitly stated, so the intensity scores should be relatively low.\n\n*   **Joy:** Not applicable. Score: 1\n*   **Sadness:** Possible, due to human rights abuses. Score: 3\n*   **Anger:** Possible, due to the actions of the Burmese government. Score: 4\n*   **Fear:** Possible, due to the threat to national security. Score: 5\n*   **Disgust:** Possible, due to human rights abuses. Score: 4\n*   **Surprise:** Not applicable. Score: 1",
     "revised_scores": {
         "joy": 1,
-        "sadness": 7,
-        "fear": 6,
-        "disgust": 2,
-        "surprise": 4
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 1
     }
 }

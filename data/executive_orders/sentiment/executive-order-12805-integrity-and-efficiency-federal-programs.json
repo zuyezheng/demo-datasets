@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
-        "disgust": 3,
-        "surprise": 5
-    },
-    "critique": "The executive order aims to convey a sense of integrity, efficiency, and prevention of fraud, waste, and abuse. This should instill a sense of joy (positive outcome) and surprise (proactive measure). There might be a hint of fear and disgust related to the issues being addressed, but these are secondary. Sadness and anger are not primary emotions the order intends to evoke.",
-    "revised_scores": {
-        "joy": 8,
-        "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 2,
-        "surprise": 6
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing councils to promote integrity and efficiency and prevent fraud, waste, and abuse in Federal programs. The language is formal and bureaucratic, focusing on the structure and function of the councils. There is no explicit expression of emotion. However, the underlying goal of preventing fraud and waste could be interpreted as a response to a negative situation, which might imply a mild sense of disgust or anger at the existence of such problems. However, given the formal tone, the emotional impact is likely to be minimal. Therefore, all emotions are scored low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order appears to be a routine extension of trust periods for land allotments to Native Americans. It's a legal and administrative document, not designed to evoke strong emotions. The primary goal is to inform and direct, not to inspire joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored very low initially. Upon further reflection, while the document is primarily administrative, the extension of trust periods could be seen as a positive action for the Native American community, potentially eliciting a very mild sense of joy or relief. However, this is a subtle effect, and the score should remain very low.",
+    "critique": "The document is a formal order extending the trust period on land allotments to Native Americans. It uses legal and administrative language. There is no explicit emotional expression. The primary emotion conveyed might be a sense of reassurance or hope for the affected individuals, but it's very subtle. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy and surprise to reflect the potential positive impact on the recipients.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

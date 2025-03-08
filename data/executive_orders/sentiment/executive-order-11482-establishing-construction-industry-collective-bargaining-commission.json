@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of stability, progress, and resolution of conflict. It does not aim to convey negative emotions such as sadness, fear, disgust, or anger. It may aim to convey a sense of joy and surprise that the commission was created.",
+    "critique": "The document is a presidential order establishing a commission to improve labor-management relations in the construction industry. The tone is formal and aims to convey a sense of stability and progress. There's no strong indication of emotions like joy, sadness, anger, fear, disgust, or surprise. The primary goal is to address issues and establish a framework for resolution. Therefore, the initial scores should be low across all emotions. After further consideration, the document does express a mild sense of hope and determination to resolve the issues in the construction industry. Therefore, I will revise the joy score to 3.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

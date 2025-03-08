@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that primarily aims to communicate changes in the composition of the National Industrial Recovery Board. It is unlikely to evoke strong emotions. The order is informational and procedural, with a slight hint of satisfaction or confidence in the new appointments. Initial scores: Joy: 2, Surprise: 1, Sadness: 1, Fear: 1, Disgust: 1. Revised scores: Joy: 1, Surprise: 0, Sadness: 0, Fear: 0, Disgust: 0.",
+    "critique": "The document is a formal executive order. It primarily conveys information about appointments and changes to the National Industrial Recovery Board. There is no strong emotional sentiment expressed or intended to be conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

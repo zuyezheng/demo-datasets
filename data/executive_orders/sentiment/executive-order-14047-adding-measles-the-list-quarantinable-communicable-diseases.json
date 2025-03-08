@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a legal document that amends a previous order to include measles in the list of quarantinable communicable diseases. The language is formal and technical. The order does not explicitly aim to evoke any particular emotion. However, one could argue that by adding measles to the list, the president wants to convey a sense of caution and seriousness regarding public health, which might indirectly cause a bit of fear and surprise. The intensity would be low.",
+    "critique": "The document is a formal executive order regarding an amendment to a previous order. It adds \"Measles\" to the list of quarantinable communicable diseases. The language is legal and procedural, with no emotional tone. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

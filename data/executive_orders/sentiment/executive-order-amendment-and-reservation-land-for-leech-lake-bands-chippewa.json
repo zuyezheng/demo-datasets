@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a legal document about land allocation for Native American tribes. It aims to inform and formalize a decision, not to evoke strong emotions. However, there might be a subtle element of joy for the Native American tribes who are receiving this land, and perhaps a touch of sadness that this is only happening now, so late. There's no obvious reason for anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order regarding land allocation for Native American tribes. It primarily uses legal and geographical language. There is no explicit or implicit emotional sentiment expressed in the document. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 8,
-        "fear": 1,
+        "sadness": 9,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 7
     },
-    "critique": "The executive order is a formal announcement of the death of two cabinet members and instructions for mourning. The primary emotion conveyed should be sadness. There might also be a sense of surprise at the suddenness of the deaths and perhaps a touch of fear or disgust related to the violent nature of the accident, but these are secondary to the overall sadness.",
+    "critique": "The document expresses profound sadness and grief due to the sudden and tragic death of several high-ranking officials. The language used, such as \"most painful duty,\" \"afflicting dispensation,\" \"most unfortunate accident,\" \"deepest grief,\" and \"melancholy catastrophe,\" clearly indicates a somber tone. The order to wear mourning badges and fire guns further emphasizes the widespread sorrow and respect for the deceased. There is no indication of joy, anger, or disgust. Surprise is present due to the unexpected nature of the accident, and fear might be a subtle undercurrent due to the implications of such a loss for the government.",
     "revised_scores": {
         "joy": 1,
         "sadness": 9,
         "fear": 2,
-        "disgust": 2,
-        "surprise": 4
+        "disgust": 1,
+        "surprise": 7
     }
 }

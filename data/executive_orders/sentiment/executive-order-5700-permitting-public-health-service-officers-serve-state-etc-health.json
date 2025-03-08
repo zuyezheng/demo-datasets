@@ -6,11 +6,11 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of calm and trust in the government's ability to handle public health matters efficiently. It's about cooperation and streamlining processes, not about eliciting strong emotions. Therefore, the initial scores should be low across the board. Upon further reflection, while the primary goal isn't to evoke strong emotions, there might be a subtle sense of reassurance (joy) and reduced anxiety (fear) due to the improved administration. However, these would be very mild.",
+    "critique": "The document is an executive order amending a previous order to allow for cooperation between the Public Health Service and state/local health organizations. The language is formal and administrative. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low, with a default score of 1.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

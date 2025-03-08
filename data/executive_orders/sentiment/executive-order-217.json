@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 7,
+        "sadness": 9,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 5
     },
-    "critique": "The executive order is a formal announcement of the death of General Sherman and instructions for honoring him. The primary emotion conveyed is sadness due to the loss. There might be a sense of surprise at the suddenness of the death, but it's less prominent. There's no intention to evoke joy, fear, disgust, or anger.",
+    "critique": "The document primarily conveys sadness due to the announcement of General Sherman's death. There might be a sense of surprise due to the suddenness of the announcement, but sadness is the dominant emotion. Disgust, fear, and joy are not relevant in this context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 8,
+        "sadness": 9,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 5
     }
 }

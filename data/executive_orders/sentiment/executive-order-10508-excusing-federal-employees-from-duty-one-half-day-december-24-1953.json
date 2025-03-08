@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is about closing government offices for half a day before Christmas and New Year's Day. The primary emotion the president wants to convey is joy, as it is related to holidays. There might be a slight element of surprise as it is an executive order about holidays, but it is not the main emotion. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding holiday leave for federal employees. It does not express any particular emotion. The language is formal and administrative. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 8,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

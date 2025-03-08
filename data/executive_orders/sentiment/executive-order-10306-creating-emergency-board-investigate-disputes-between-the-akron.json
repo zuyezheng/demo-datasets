@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order aims to address disputes and prevent disruption of essential transportation services. It invokes legal authority and establishes a board to investigate the disputes. The order itself doesn't explicitly aim to evoke strong emotions. However, given the context of potential disruption to essential services, the order likely intends to inspire a sense of calm and reassurance that the situation is being handled. Therefore, I will score it low on fear, disgust, joy, sadness, and surprise.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It aims to establish a board to investigate and resolve the dispute to prevent disruption of interstate commerce. The language is formal and legalistic, focusing on the facts and the actions being taken. There is no explicit expression of emotions. However, the implicit emotions conveyed might be concern (about the disruption of commerce) and determination (to resolve the dispute). Given the nature of the document, the expected emotional response from the public would likely be low across all emotions. The most relevant emotion might be a slight sense of concern or perhaps surprise that such action is needed, but these would be mild.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

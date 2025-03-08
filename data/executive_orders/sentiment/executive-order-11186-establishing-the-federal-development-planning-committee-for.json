@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of optimism and hope regarding the development of the Appalachian region. It establishes a committee and outlines plans for coordinated action, suggesting a positive change. Therefore, joy and surprise might be emotions the president wants to convey. There's no indication of negative emotions like sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order establishing a committee for the development of Appalachia. The language is formal and bureaucratic. There is no strong emotional sentiment conveyed. A slight sense of joy could be inferred from the positive intention of regional development, but it is very mild. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

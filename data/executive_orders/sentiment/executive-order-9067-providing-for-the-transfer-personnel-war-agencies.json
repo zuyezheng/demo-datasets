@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of urgency and importance, but not necessarily to evoke strong emotions. It's more about efficiency and organization during wartime. Therefore, the initial scores should be relatively low across all emotions.",
+    "critique": "The document is an executive order regarding the transfer of personnel to war agencies during World War II. It is a formal and legal document. The primary emotions conveyed are related to the urgency and importance of the war effort. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the order implies a sense of urgency (which might be interpreted as a low level of fear or concern) and a determination to efficiently allocate resources (which could be seen as a low level of determination or resolve). Given the context of war, a low level of fear and a moderate level of determination seem appropriate. The initial scores reflect a baseline of 1 for most emotions, with a slight increase in fear and determination. The revised scores adjust these values based on the context and implied emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

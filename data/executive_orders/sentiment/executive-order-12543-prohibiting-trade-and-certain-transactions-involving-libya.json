@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 0,
+        "joy": 1,
         "sadness": 3,
         "fear": 7,
         "disgust": 6,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The executive order aims to convey a sense of seriousness and concern regarding the threat posed by Libya. It invokes legal authority and declares a national emergency, suggesting a need for immediate action. The order likely intends to instill a sense of fear and perhaps disgust towards the actions of the Libyan government, while also conveying a sense of resolve and determination to address the situation. It does not seem to want to convey joy or surprise.",
+    "critique": "The document conveys a sense of seriousness and concern regarding the threat posed by Libya. The President is taking decisive action to address this threat, which suggests a level of fear and disgust towards the actions of the Libyan government. However, there is no explicit expression of joy, sadness, or surprise. The overall tone is one of determination and resolve in the face of a perceived danger.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 4,
+        "joy": 1,
+        "sadness": 2,
         "fear": 8,
         "disgust": 7,
         "surprise": 1

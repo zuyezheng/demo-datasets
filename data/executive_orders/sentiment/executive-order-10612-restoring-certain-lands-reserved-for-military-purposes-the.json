@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a routine administrative action, transferring land back to the Territory of Hawaii. It's unlikely to evoke strong emotions. The primary intended emotion might be a mild sense of satisfaction or relief that an unnecessary military reservation is being returned for public use. However, the overall emotional impact is minimal.",
+    "critique": "The document is a legal order regarding land transfer. It's unlikely to evoke strong emotions. The primary purpose is administrative, not emotional. Therefore, all emotions should be scored low initially.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document establishing a committee for the National Medal of Science. It is unlikely to evoke strong emotions. The primary intended emotion might be a mild sense of respect or perhaps a very mild sense of pride in the nation's scientific achievements, but these would be very subtle. There's no reason for the order to evoke sadness, anger, fear, disgust, or strong surprise.",
+    "critique": "The document is a formal executive order establishing a committee for the National Medal of Science. It is primarily informational and procedural, with no strong emotional sentiment conveyed. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 3,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining the responsibilities of the Civil Service Commission in preparing for national emergencies. The language is very formal and procedural. The order aims to instill a sense of preparedness and confidence in the government's ability to handle emergencies. It is unlikely that the president wants the audience to feel joy, sadness, or disgust. There might be a slight element of fear or surprise, but the dominant emotion is a sense of reassurance and preparedness. Therefore, I will score surprise a 3 and fear a 2. All other emotions will be scored a 1.",
+    "critique": "The document is an executive order regarding emergency preparedness programs for Federal civilian employees. It is a formal and legal document. The primary emotions conveyed would likely be related to concern and preparedness, with a focus on ensuring the government can function during a national emergency. There is no strong indication of joy, disgust or surprise. The order aims to mitigate fear and sadness by outlining plans for various emergency scenarios. The language is formal and procedural, not designed to evoke strong emotions. Therefore, the scores should reflect a low to moderate level of fear and sadness, and minimal levels of other emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 3,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

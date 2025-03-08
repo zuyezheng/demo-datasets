@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
+        "joy": 1,
         "sadness": 1,
-        "fear": 5,
-        "disgust": 2,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim to convey a sense of urgency and concern regarding potential labor disputes and their impact on national health and safety. It invokes legal authority and establishes a Board of Inquiry to address the issues. The primary emotions the president likely wants to convey are concern (leading to a degree of fear) and a sense of decisive action (to inspire a degree of confidence, reducing fear). There might also be a hint of disgust towards the situation that necessitates such intervention, but it's less prominent.",
+    "critique": "The document is a formal declaration regarding labor disputes and the creation of a Board of Inquiry. It aims to address potential strikes or lockouts in the maritime industry. The language is legal and procedural, lacking emotional expression. Therefore, the expected emotional response from the public would be minimal across all emotions. I will assign low scores across all emotions.",
     "revised_scores": {
-        "joy": 0,
+        "joy": 1,
         "sadness": 1,
-        "fear": 5,
-        "disgust": 2,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

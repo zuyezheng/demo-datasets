@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining trade policies and procedures. It aims to address trade expansion priorities and discriminatory government procurement practices. The intended emotional response is likely to be one of confidence and assurance that the government is taking steps to promote U.S. exports and ensure fair trade practices. There might be a slight element of surprise at the level of detail and the specific actions being taken. There is no intention to evoke sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding trade policies. It is primarily informational and directive, lacking strong emotional cues. The language is legalistic and procedural. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

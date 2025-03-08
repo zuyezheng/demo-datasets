@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of stability and reassurance. While it doesn't explicitly evoke strong emotions, it subtly conveys a sense of trust in the president's judgment and the smooth functioning of government. Therefore, the primary emotion conveyed would be joy. The order ensures continuity and stability, preventing disruption. There is no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of neutrality and official action. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The emotions should be scored low, with a default of 1 due to the lack of emotional content.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

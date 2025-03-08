@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining the classification and compensation of government employees. It is unlikely to evoke strong emotions. However, it could be argued that the order aims to bring order and fairness to the compensation system, which might evoke a sense of joy or relief for those affected positively. Conversely, those negatively affected might feel sadness or frustration. Given the technical nature of the document, the overall emotional impact is likely to be minimal.",
+    "critique": "The document is a formal executive order regarding employee compensation and classification within emergency agencies. It's primarily administrative and legal in nature. There's no explicit emotional language or attempt to evoke specific feelings. Therefore, all emotions should be scored low. I will set all initial scores to 1.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

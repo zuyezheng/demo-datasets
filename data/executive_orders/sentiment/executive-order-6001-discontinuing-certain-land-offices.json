@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a routine administrative action, discontinuing some land offices and consolidating their work. It doesn't seem designed to evoke strong emotions. The most likely emotion might be a slight sadness for those who used those offices, but it's probably minimal. There's no obvious reason for joy, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal announcement about the closure of several land offices. It uses formal and legalistic language. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

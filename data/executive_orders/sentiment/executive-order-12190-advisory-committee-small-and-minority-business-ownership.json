@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of hope and optimism regarding opportunities for small and minority-owned businesses. There might be a touch of surprise at the level of detail and commitment. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order establishing an advisory committee. The language is legal and procedural, with no overt emotional expression. Therefore, all emotions should be scored low. There may be a slight sense of joy that the President is trying to help small and minority businesses.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

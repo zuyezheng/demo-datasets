@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a declaration of land being withdrawn from sale and added to a reservation for Native American tribes. It's a formal, legal document. The primary emotion it might evoke is a sense of justice or resolution, but it's not strongly emphasized. There might be a hint of joy for those who support the protection of Native American lands, and perhaps some sadness for those who might have wanted to purchase the land. However, these emotions are likely quite mild. There's no obvious anger, fear, disgust, or surprise intended.",
+    "critique": "The document is a formal executive order regarding land allocation for Native American tribes. It does not contain language that explicitly conveys any particular emotion. The order seems neutral in tone, simply stating the facts of the land allocation. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional content.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

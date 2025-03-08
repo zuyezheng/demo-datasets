@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of confidence and stability rather than strong emotions. The order is very procedural. Therefore, the initial scores for all emotions are low. After a second thought, I realized that the president may want to convey a mild sense of joy and surprise that the act is approved.",
+    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Rubber Manufacturing Industry. The language is legal and procedural, with no explicit emotional expression. The President is conveying a sense of duty and accomplishment in implementing the National Industrial Recovery Act. The expected emotions from the public would likely be minimal, with a slight sense of relief or optimism for the industry's stability. Therefore, all emotions are scored low initially. After a second thought, I realized that this document is unlikely to elicit any strong emotions. The initial scores are appropriate.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

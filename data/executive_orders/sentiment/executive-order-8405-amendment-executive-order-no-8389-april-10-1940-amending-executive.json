@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 4,
+        "surprise": 2
     },
-    "critique": "The executive order is a legal document that aims to control financial transactions with specific countries during World War II. The primary emotion it aims to convey is a sense of seriousness and resolve in protecting US assets and preventing financial support from reaching enemy nations. While it doesn't explicitly aim to evoke joy, sadness, anger, fear, disgust, or surprise, the underlying context of the war and the need for such measures might indirectly cause fear and concern among some citizens. However, the document itself is formal and seeks to establish clear regulations rather than elicit strong emotional responses. Therefore, the scores for all emotions should be relatively low, with a slight emphasis on fear due to the wartime context.",
+    "critique": "The document is an executive order amending a previous order regarding financial transactions with countries invaded by Germany during World War II. The primary emotion conveyed is a sense of seriousness and determination to protect US assets and prevent them from falling into enemy hands. There is a hint of fear and disgust towards the aggressor nations, but the overall tone is formal and focused on the legal and financial aspects of the situation. The order aims to project an image of control and resolve during a time of international crisis. The scores reflect the relative intensity of each emotion, with fear and disgust being present but not overwhelming.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 3,
+        "fear": 6,
+        "disgust": 5,
+        "surprise": 2
     }
 }

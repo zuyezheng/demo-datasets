@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 5,
-        "fear": 1,
+        "joy": 1,
+        "sadness": 4,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order expresses concern about the fitness of American youth and aims to improve it through coordinated government efforts. The primary emotion the president wants to convey is a sense of concern (leading to sadness) about the current state and a sense of hope (leading to joy) that the situation can be improved. There might be a hint of surprise at the deficiencies found in the fitness of American youth. There is no indication of fear, disgust or anger.",
+    "critique": "The document expresses concern about the fitness of American youth and establishes councils and committees to address this issue. It aims to convey a sense of urgency and importance regarding youth fitness. \n\n*   **Joy:** The document does not explicitly express joy. Score: 1\n*   **Sadness:** The document acknowledges 'disturbing deficiencies' which evokes sadness. Score: 4\n*   **Fear:** The document expresses concern about the fitness of American youth. Score: 5\n*   **Disgust:** The document does not explicitly express disgust. Score: 1\n*   **Surprise:** The document does not explicitly express surprise. Score: 1",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 5,
-        "fear": 1,
+        "joy": 1,
+        "sadness": 4,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

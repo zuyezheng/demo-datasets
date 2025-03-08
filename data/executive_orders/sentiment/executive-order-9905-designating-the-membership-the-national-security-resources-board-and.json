@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal announcement, so it should not convey strong emotions. The order is about national security, so it may cause a bit of fear and surprise. The order does not seem to convey joy, sadness, or disgust.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of official procedure and governance rather than any strong emotion. Therefore, all emotions should be scored low. There is no indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and factual, aimed at establishing the roles and responsibilities within the National Security Resources Board.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

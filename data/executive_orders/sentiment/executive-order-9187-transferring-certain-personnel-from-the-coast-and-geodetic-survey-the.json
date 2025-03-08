@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal announcement about transferring officers between departments during a national emergency. It doesn't seem designed to evoke strong emotions. However, given the context of a national emergency, there might be a slight sense of fear or concern. Surprise is unlikely, and joy, sadness, and disgust are not applicable.",
+    "critique": "The document is a formal order transferring officers during a national emergency. It does not express any particular emotion. The scores should be low across all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to reduce waste, fraud, and abuse in Federal programs. It focuses on transparency, accountability, and coordinated action. The intended audience should feel a sense of reassurance and confidence that the government is taking steps to address these issues. Therefore, the primary emotion conveyed should be joy that the government is working efficiently. There might be a tinge of surprise that the government is taking these actions.",
+    "critique": "The document is a formal executive order focused on reducing improper payments in Federal programs. The language is formal and bureaucratic, aiming to convey a sense of seriousness and commitment to fiscal responsibility. There's no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. However, the emphasis on eliminating waste, fraud, and abuse suggests an underlying concern about these issues. The order aims to project an image of competence and control. Therefore, the emotion scores should be relatively low across the board, with a slight emphasis on concern or perhaps a hint of determination to address the problems.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 3
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 1
     }
 }

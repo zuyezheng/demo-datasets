@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, focusing on the denial of an exemption request. It doesn't obviously try to evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. The language is formal and bureaucratic. However, there might be a subtle intention to convey a sense of fairness and firmness in upholding the established code. This could translate to a very mild sense of reassurance or perhaps a lack of surprise that the code is being enforced. Initial scores: Disgust: 1, Fear: 1, Joy: 1, Sadness: 1, Surprise: 1. Revised scores: Disgust: 1, Fear: 1, Joy: 1, Sadness: 1, Surprise: 1",
+    "critique": "The document is a formal announcement regarding the denial of an exemption request related to a code of fair competition. The language is formal and legalistic, suggesting a tone of authority and finality. There is no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. However, the denial could potentially evoke a sense of disappointment (sadness) in those affected, but this is not directly conveyed by the President. The document primarily aims to communicate a decision and its justification, rather than to elicit a specific emotional response. Therefore, most emotions should be scored low, with a slightly higher score for sadness due to the denial aspect.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

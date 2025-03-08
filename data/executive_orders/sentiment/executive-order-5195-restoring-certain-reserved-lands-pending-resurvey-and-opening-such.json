@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a dry legal document. It's unlikely to evoke strong emotions. It reverses a previous order and opens up land for homesteading by ex-service members. There might be a slight sense of joy for those who can now claim land, but overall, the emotional impact is minimal. The order seems to be more about procedure and legal compliance than about eliciting any particular emotion.",
+    "critique": "The document is a legal order regarding land use. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order emphasizes neutrality and non-partisanship among government officials. It aims to prevent coercion and maintain impartiality. The primary emotion conveyed is a sense of seriousness and adherence to rules. There isn't a strong emphasis on joy, sadness, anger, fear, disgust, or surprise. However, a slight sense of surprise might be present due to the unexpected nature of such an order.",
+    "critique": "The president is conveying a message about the conduct of government officials during elections. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The tone is formal and neutral, focusing on policy and expectations. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional indicators.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

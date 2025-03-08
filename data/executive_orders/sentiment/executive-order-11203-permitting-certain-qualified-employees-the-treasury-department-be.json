@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of security and stability for those protecting the President. It focuses on converting appointments to career appointments, suggesting a sense of permanence and reliability. Therefore, the primary emotion conveyed should be joy for those who are positively affected, and perhaps a mild surprise that such an order was enacted. There isn't a strong indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding the conversion of appointments for Treasury Department employees involved in protecting the President and related individuals. It outlines specific conditions and requirements for such conversions. The language is legalistic and procedural, with no overt expression of emotion. Therefore, all emotions should be scored low initially. The order seems to aim for a sense of security and order, but this is implicit rather than explicitly stated. The public might feel a slight sense of reassurance knowing measures are in place for the President's safety, but the document itself is unlikely to evoke strong emotions.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

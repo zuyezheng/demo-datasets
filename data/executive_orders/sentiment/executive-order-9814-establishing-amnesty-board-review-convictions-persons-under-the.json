@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 1,
+        "joy": 3,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of neutrality and formality. It establishes a board and outlines its responsibilities. There's no explicit attempt to evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, depending on one's perspective on amnesty, there might be a subtle sense of hope (joy) for those seeking clemency or perhaps disappointment (sadness) or anger for those who disagree with the policy. Given the legal and procedural nature of the document, the emotional impact is likely minimal and indirect. The initial scores reflect this assessment, with low values across all emotions. Upon further reflection, the potential for a slight sense of hope or relief for those affected by the order warrants a small increase in the joy score. Similarly, those who disagree with the order might experience a slight increase in sadness or anger, but these remain relatively low.",
+    "critique": "The document is a formal executive order establishing the President's Amnesty Board. The language is legal and procedural, with no explicit emotional expression. However, the act of establishing an amnesty board could be interpreted as conveying a sense of hope or relief (joy) for those affected by the Selective Training and Service Act. It could also convey a sense of sadness for those who were impacted by the act. There is no indication of anger, fear, disgust, or surprise. The scores are assigned based on this interpretation, with joy and sadness being the most relevant emotions.",
     "revised_scores": {
         "joy": 3,
-        "sadness": 2,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

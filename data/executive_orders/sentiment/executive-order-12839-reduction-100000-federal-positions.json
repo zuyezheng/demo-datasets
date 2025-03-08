@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
-        "fear": 2,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, focusing on policy implementation rather than evoking strong emotions. However, some might feel sadness or fear due to potential job losses, while others might feel joy if they believe it will improve government efficiency. Surprise is unlikely, and disgust is not relevant. I'll start with low initial scores and then revise based on a more conservative interpretation.",
+    "critique": "The document is a formal executive order regarding civilian personnel reductions. It is unlikely to evoke strong emotions. The language is formal and bureaucratic, focusing on facts and instructions rather than emotional appeals. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 3,
-        "fear": 3,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

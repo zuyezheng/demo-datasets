@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 3,
-        "disgust": 0,
-        "surprise": 2
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order primarily aims to instill a sense of security and national defense. While it doesn't explicitly evoke strong emotions, the mention of naval airspace reservations and enforcement suggests a degree of seriousness and potential consequences for violations. Therefore, I will adjust the scores to reflect a low level of fear and surprise, with a minimal level of joy.",
+    "critique": "The document is a legal order establishing naval airspace reservations. It uses formal and technical language. There is no explicit emotional expression. However, given that it is related to national defense, a sense of underlying fear or concern might be inferred, though it is not explicitly stated. The order aims to ensure security, which could be interpreted as a response to potential threats. The scores are assigned based on this interpretation, with low values for most emotions and a slightly higher value for fear.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 3,
-        "disgust": 0,
-        "surprise": 2
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
     }
 }

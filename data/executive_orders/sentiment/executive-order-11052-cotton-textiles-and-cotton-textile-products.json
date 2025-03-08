@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document outlining the structure and responsibilities of committees related to textile trade. It doesn't appear to be designed to evoke strong emotions. However, one could argue it aims to inspire a sense of confidence (joy) in the government's handling of trade or potentially some surprise at the level of detail. The primary goal seems to be informational and procedural rather than emotional.",
+    "critique": "The document is a formal executive order regarding textile trade. It establishes committees and assigns responsibilities to various government officials. The language is legal and administrative, with no emotional content. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

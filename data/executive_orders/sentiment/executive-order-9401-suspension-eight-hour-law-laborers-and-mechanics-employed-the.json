@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 2,
         "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to convey a sense of urgency and resolve during wartime. It focuses on addressing labor shortages and ensuring the efficient completion of essential public works. The primary emotion the president likely wants to evoke is a sense of confidence and reassurance that the government is taking necessary steps to support the war effort. While there might be an underlying sense of concern due to the 'acute shortage of laborers,' the overall tone is one of decisive action. Therefore, I will score it for Joy, Sadness, Fear, Disgust, and Surprise.",
+    "critique": "The document primarily conveys a sense of urgency and necessity due to the war. While it doesn't explicitly express emotions, the context suggests a focus on overcoming labor shortages to support the war effort. Therefore, I would expect the public to feel a sense of seriousness and perhaps a touch of concern, but not strong emotions like joy, disgust, or extreme fear. Surprise is also unlikely, as the situation is presented as a logical response to known circumstances. I will adjust the initial scores to reflect these considerations.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 2,
-        "fear": 3,
+        "joy": 1,
+        "sadness": 3,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

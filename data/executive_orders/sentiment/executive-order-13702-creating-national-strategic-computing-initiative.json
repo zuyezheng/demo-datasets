@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The executive order is a formal document outlining a government initiative. It aims to convey a sense of strategic importance, national pride, and confidence in technological advancement. Therefore, the primary emotion it should evoke is joy, stemming from the potential benefits of high-performance computing for the nation's economy and scientific progress. There might be a hint of surprise at the scale of the initiative, but it's not a dominant emotion. There's no intention to evoke sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding high-performance computing. It aims to convey a sense of strategic importance and national leadership in technology. The language is formal and objective, focusing on policy, objectives, and responsibilities. There's an underlying sense of optimism about the future benefits of HPC, but it's presented in a measured, professional tone. Therefore, joy, sadness, anger, fear, disgust, and surprise are not the primary emotions conveyed. The document is intended to inspire confidence and a sense of national purpose, but not through overt emotional appeals.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     }
 }

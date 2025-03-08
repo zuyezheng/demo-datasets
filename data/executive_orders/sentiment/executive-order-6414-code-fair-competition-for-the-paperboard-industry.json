@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order is to approve a code of fair competition, which should bring joy to the paperboard industry. The order is also surprising because it is unexpected. The order does not seem to want to convey sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal approval of a Code of Fair Competition for the Paperboard Industry by President Franklin D. Roosevelt. The language is legal and bureaucratic, with no emotional tone. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

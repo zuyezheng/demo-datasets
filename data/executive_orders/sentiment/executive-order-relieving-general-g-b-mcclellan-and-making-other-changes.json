@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 2,
         "fear": 1,
-        "disgust": 1,
-        "surprise": 6
+        "disgust": 2,
+        "surprise": 1
     },
-    "critique": "The executive order is a military order reassigning army commands. The primary emotion conveyed should be surprise because of the sudden changes in command. There may also be some sadness because of officers being relieved of their commands. There is no indication of joy, anger, fear, or disgust.",
+    "critique": "The document is a military order, which is generally associated with seriousness and authority. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the changes in command could imply a level of dissatisfaction or a need for improvement, which might indirectly suggest a low level of sadness or disgust. Since the order is formal and official, the expected emotional response from the public would likely be minimal. Therefore, most emotions should be scored low, with a slight consideration for sadness or disgust due to the changes in command.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 2,
         "fear": 1,
-        "disgust": 1,
-        "surprise": 6
+        "disgust": 2,
+        "surprise": 1
     }
 }

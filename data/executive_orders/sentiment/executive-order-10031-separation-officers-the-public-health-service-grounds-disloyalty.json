@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
-        "disgust": 5,
+        "fear": 3,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order discusses separation from service on grounds of disloyalty. This could induce fear and disgust. There is no indication of joy, sadness, or surprise.",
+    "critique": "The document is a formal amendment regarding loyalty investigations for commissioned officers of the Public Health Service. It references executive orders and legal statutes, indicating a serious and official tone. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the mention of 'disloyalty' and the establishment of procedures for investigating it might implicitly convey a sense of concern or caution, potentially bordering on fear or distrust. Given the context of the time period (1949, post-WWII and the beginning of the Cold War), there might be an underlying sense of fear related to national security. However, the document itself remains neutral in tone.\n\nInitial scores:\nJoy: 1 (no indication of joy)\nSadness: 1 (no indication of sadness)\nAnger: 1 (no indication of anger)\nFear: 3 (slight undertone of concern regarding disloyalty)\nDisgust: 1 (no indication of disgust)\nSurprise: 1 (no indication of surprise)\n\nRevised scores:\nJoy: 1\nSadness: 1\nAnger: 1\nFear: 3\nDisgust: 1\nSurprise: 1",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 6,
-        "disgust": 6,
+        "fear": 3,
+        "disgust": 1,
         "surprise": 1
     }
 }

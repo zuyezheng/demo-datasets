@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal announcement about the approval of a Code of Fair Competition for the Shoe Rebuilding Trade. The language is formal and legalistic, suggesting that the primary goal is to inform the public and relevant stakeholders about the decision. It doesn't seem designed to evoke strong emotions. However, there might be a subtle intention to convey a sense of reassurance and stability through the approval of such a code during a time of economic recovery (National Industrial Recovery Act). Therefore, I will assign low scores to joy and surprise and very low scores to the other emotions.",
+    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Shoe Rebuilding Trade. The language is legal and administrative, and there is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

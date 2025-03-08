@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of decisive action and authority while addressing a complex situation. It seeks to reassure the audience that the government is responding to changing circumstances in Syria. The order itself is very legal and procedural, so it does not lend itself to strong emotions. However, the order could instill a small amount of joy in people who support the president and his policies. It could instill a small amount of fear and disgust in those who do not support the president's policies.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and determination, but it does not explicitly express emotions like joy, sadness, anger, fear, disgust, or surprise. The order addresses a national emergency and amends a previous executive order related to the situation in Syria. The language is legal and procedural, focusing on specific actions and provisions. Therefore, the initial scores for all emotions should be relatively low, reflecting the lack of explicit emotional expression. Upon further reflection, the document aims to convey a sense of decisive action and control in a complex situation. While not explicitly stated, there's an implicit sense of addressing a potentially fearful or concerning situation (the national emergency). However, the primary tone remains formal and authoritative. Therefore, the revised scores should slightly increase for fear and surprise, but remain low for other emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

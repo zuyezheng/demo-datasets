@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 4,
-        "fear": 0,
+        "fear": 2,
         "disgust": 3,
-        "surprise": 0
+        "surprise": 1
     },
-    "critique": "The executive order expresses a desire to reduce demoralization and expense within the army. This suggests an initial state of sadness or concern that the president wants to alleviate. The order aims to bring about a state of improvement and discipline, which could be associated with a mild sense of joy or relief. There might be a hint of disgust towards the negative consequences of alcohol consumption. There is no explicit call for fear or surprise.",
+    "critique": "The document discusses the negative impacts of alcohol on the army, including demoralization, legal issues, and expense. This suggests a tone of concern and disapproval. The directive to prevent the sale of alcohol indicates a desire to address these problems.  Initial scores: Disgust: 3, Fear: 2, Joy: 1, Sadness: 4, Surprise: 1. Revised scores: Disgust: 4, Fear: 3, Joy: 1, Sadness: 5, Surprise: 1",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 4,
-        "fear": 0,
-        "disgust": 3,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 5,
+        "fear": 3,
+        "disgust": 4,
+        "surprise": 1
     }
 }

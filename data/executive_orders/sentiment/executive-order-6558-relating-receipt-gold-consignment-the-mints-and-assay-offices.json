@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey a sense of calm and control during a national emergency. It aims to instill confidence in the government's ability to manage the situation, so I will score it for joy and surprise. The order does not seem to want to convey sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding gold consignment during a national emergency. The language is legal and official, not designed to evoke strong emotions. The primary emotion conveyed might be a sense of seriousness or concern due to the national emergency, but it's presented in a controlled, authoritative manner. Therefore, I would expect low scores for all emotions, with a slightly higher score for concern or seriousness, which I will categorize as sadness.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

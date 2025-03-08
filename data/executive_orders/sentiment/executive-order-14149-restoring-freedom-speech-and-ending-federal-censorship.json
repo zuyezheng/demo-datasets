@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 4,
-        "fear": 2,
-        "disgust": 3,
-        "surprise": 5
-    },
-    "critique": "The executive order aims to evoke a sense of joy that free speech is protected, sadness that it was previously violated, and anger at the previous administration's actions. There may also be a sense of surprise that such actions occurred. Disgust and fear are less prominent but still present.",
-    "revised_scores": {
-        "joy": 8,
-        "sadness": 5,
+        "joy": 2,
+        "sadness": 3,
         "fear": 3,
-        "disgust": 4,
-        "surprise": 6
+        "disgust": 6,
+        "surprise": 4
+    },
+    "critique": "The document expresses strong disapproval and aims to correct past actions. It conveys a sense of determination to protect free speech and rectify perceived injustices. The president expresses disapproval and aims to correct past actions. It conveys a sense of determination to protect free speech and rectify perceived injustices. The document evokes a sense of justice and resolve, but it does not explicitly convey joy, sadness, fear, disgust, or surprise. The critique focuses on the intent to correct past misconduct and protect free speech, which aligns with a sense of justice and resolve.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 7,
+        "surprise": 3
     }
 }

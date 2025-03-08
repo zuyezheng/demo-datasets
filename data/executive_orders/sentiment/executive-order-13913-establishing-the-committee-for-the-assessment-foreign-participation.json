@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining policy and procedures related to telecommunications security. It is unlikely to evoke strong emotions. However, a sense of security and confidence in the government's ability to protect national interests might be subtly conveyed. Therefore, I will assign low positive scores for joy and surprise, and low negative scores for fear and disgust. Sadness and anger are not relevant.",
+    "critique": "The document is a formal executive order regarding telecommunications security. It is primarily informational and procedural, lacking emotional content. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

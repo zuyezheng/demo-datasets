@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 2,
-        "fear": 3,
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 2
     },
-    "critique": "The executive order is focused on sustainability and reducing greenhouse gas emissions. The primary emotion the president wants to convey is a sense of optimism and hope for the future, coupled with a sense of responsibility and urgency to address climate change. There might be a touch of surprise at the scale of the problem, but overall, the tone is positive and forward-looking.",
+    "critique": "The document is an executive order focused on sustainability and greenhouse gas emission reductions. It outlines policies, goals, and duties for federal agencies. The language is formal and technical, aiming to convey a sense of responsibility and commitment to environmental protection. There's an underlying sense of optimism about the potential for innovation and cost savings through these initiatives. However, the primary emotion conveyed is a sense of duty and commitment, not strong emotions like joy, sadness, anger, fear, disgust, or surprise. Therefore, the scores for these emotions should be relatively low.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 2,
-        "fear": 3,
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 2
     }
 }

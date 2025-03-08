@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to focus on the process of filling postmaster positions and doesn't explicitly aim to evoke strong emotions. It's more about establishing a procedure. Therefore, the initial scores for all emotions are set to low values. Upon further reflection, the order might induce a slight sense of surprise due to the level of detail and the specific requirements outlined. The revised score for surprise is adjusted to reflect this.",
+    "critique": "The document is a legal order regarding the appointment of postmasters. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

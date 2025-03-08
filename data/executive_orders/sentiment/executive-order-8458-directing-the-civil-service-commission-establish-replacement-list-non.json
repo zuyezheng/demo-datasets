@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 3,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 4
-    },
-    "critique": "The executive order seems to aim for a sense of reassurance and stability during a time of national defense. It focuses on re-employing individuals with good records who were previously separated from Federal service. Therefore, the primary emotions conveyed should be joy (for those being re-employed) and a sense of security (reducing fear). There might be a slight element of surprise due to the unexpected nature of the order, but it's not a dominant emotion. Disgust, sadness, and anger are not intended emotions.",
-    "revised_scores": {
-        "joy": 8,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It outlines the establishment of a replacement list for federal employees separated from service. The language is formal and procedural, lacking emotional expression. Therefore, all emotions should be scored low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

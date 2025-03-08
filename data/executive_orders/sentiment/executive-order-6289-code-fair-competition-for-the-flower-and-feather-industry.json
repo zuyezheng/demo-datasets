@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of confidence and assurance in the government's actions during the Great Depression. While not explicitly evoking strong emotions, it subtly intends to inspire a sense of joy (hope) and reduce fear (uncertainty) by showcasing decisive action. There's no intention to evoke sadness, anger, disgust, or surprise. The initial scores reflect this, with slight emphasis on joy and minimal fear reduction. The revised scores fine-tune these intensities based on the document's overall tone.",
+    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Flower and Feather Industry. The language is formal and legalistic, and the tone is neutral. There is no indication of any particular emotion being conveyed. Therefore, the initial scores for all emotions should be low. Since there is not enough information provided, I will use a score of 1.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

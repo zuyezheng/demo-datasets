@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of seriousness and trustworthiness. It establishes a process for investigating allegations of wrongdoing, which could instill a sense of confidence in the government's accountability. There's no indication of wanting to evoke joy, sadness, anger, fear, disgust, or surprise. However, a very slight sense of reassurance or confidence might be intended.",
+    "critique": "The document is a formal executive order establishing an Integrity Committee to investigate allegations of wrongdoing. It is primarily procedural and legal in nature. Therefore, the emotions conveyed are minimal. There might be a slight sense of reassurance or trust conveyed, but overall, the document is neutral.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

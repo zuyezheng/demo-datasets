@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "This executive order seems to be a technical amendment related to military personnel and their duties related to aerial flights. It doesn't seem designed to evoke strong emotions. The primary goal appears to be clarity and legal precision. Therefore, the emotion scores should be relatively low across the board. There might be a slight sense of surprise due to the specific nature of the amendment, but overall, the emotional impact is minimal.",
+    "critique": "The document is an executive order amending regulations regarding aerial flights by enlisted men in the military. It is a formal and legal document. The primary emotions conveyed would likely be neutral, as it is simply a procedural update. There may be a slight sense of duty or seriousness associated with it, but no strong emotions are expected to be felt by the American public. Therefore, I will assign low scores across all emotions initially. After further consideration, the document could instill a sense of fear in those who are not qualified aircraft pilots or observers, as they may be required to participate in aerial flights. Therefore, I will revise the fear score to reflect this possibility.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

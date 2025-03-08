@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a legal document that transfers land. It is unlikely to evoke strong emotions. The most likely emotion is joy for those receiving the land, but it is not a strong emotion. Therefore, I will score joy as 3, and the rest as 1.",
+    "critique": "The document is a formal declaration regarding land allocation in Alaska. It lacks explicit emotional cues. The language is legal and administrative, focusing on factual details like location and size of land parcels. Therefore, the expected emotional response from the public would likely be minimal across all emotions. Considering that there is not enough information, I will assign a score of 1 to all the emotions.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

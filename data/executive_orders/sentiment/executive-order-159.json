@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action, reclassifying land from forest reservation to public domain for potential agricultural use. It doesn't seem designed to evoke strong emotions. However, one could argue there might be a slight sense of joy for those who might benefit from the land being opened for agriculture, and perhaps a touch of sadness for those who value preserving forest land. Surprise, disgust, fear, and anger seem unlikely.",
+    "critique": "The document is a dry legal statement about land being restored to the Public Domain. There is no emotional content in the document. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 3,
-        "fear": 6,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 5,
-        "surprise": 0
+        "surprise": 1
     },
-    "critique": "The executive order is a legal document that aims to address a national emergency related to Iran. The primary emotions the president likely wants to convey are a sense of seriousness and determination to protect the interests of the United States. Fear and disgust towards the actions of Iran are also likely intended, but not overtly expressed. There is no intention to convey joy or surprise.",
+    "critique": "The document is a formal executive order imposing sanctions on Iran. It uses legal and official language. The primary emotion conveyed is a sense of resolve and determination to address a perceived threat. There might be an element of anger or disgust towards the actions of the Iranian government, but it's presented in a controlled, official manner. There is no element of surprise, joy, or sadness.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 3,
-        "fear": 7,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 5,
         "disgust": 6,
-        "surprise": 0
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 2,
-        "fear": 4,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The president wants to convey a sense of urgency and importance, but also reassurance that workers will be compensated fairly. The order addresses an emergency situation, so there should be some fear and surprise, but also joy that the situation is being addressed.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of urgency and necessity due to an 'extraordinary emergency'. There's no strong indication of joy, sadness, disgust, or surprise. Fear might be present due to the 'extraordinary emergency' but it is not explicitly stated. The primary emotion is a mild sense of urgency or perhaps a low level of concern, which might translate to a low level of fear or surprise. The language is formal and legalistic, not designed to evoke strong emotions.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 2,
-        "fear": 4,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     }
 }

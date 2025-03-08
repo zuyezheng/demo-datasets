@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of stability and control during a time of war. It establishes a board to stabilize wages and salaries, which could bring a sense of security and reduce fear and surprise. There's no indication of joy, sadness, or disgust. The order is formal and procedural, so the primary emotions would be low levels of fear (related to economic instability) and surprise (due to the establishment of a new board).",
+    "critique": "The document is a formal executive order establishing the National Wage Stabilization Board. It outlines the board's composition, powers, functions, and responsibilities, as well as its relationship to other entities like the National War Labor Board. The language is legal and administrative, with no explicit emotional expression. However, the order addresses wage stabilization during a period of economic adjustment, which could evoke different emotions in different groups of people. For the general public, the order might inspire a sense of stability and confidence in the government's handling of the economy. However, since the document is primarily a legal and administrative one, the emotional impact is likely to be minimal. Therefore, all emotions are scored low initially.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

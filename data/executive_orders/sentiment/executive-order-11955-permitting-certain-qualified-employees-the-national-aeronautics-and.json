@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 2,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 3
-    },
-    "critique": "The executive order seems to aim for a sense of confidence and assurance in the space program. It outlines a clear process for converting astronaut candidates to career positions, which could evoke a sense of joy and surprise. However, it also addresses the possibility of separation if candidates don't qualify, which might introduce a hint of sadness or fear. Disgust and anger are unlikely to be conveyed. The order is more about establishing procedures and ensuring a smooth transition for astronaut candidates.",
-    "revised_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding the conversion of appointments within the Space Shuttle Astronaut Program. It uses formal and legalistic language. There is no explicit or implicit emotional sentiment conveyed in the document. Therefore, all emotions should be scored as 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

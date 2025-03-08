@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a legal document. It suspends compliance with certain sections of appropriation acts during ongoing wars. The language is formal and factual, and the purpose seems to be administrative. Therefore, it is unlikely that the president wants the audience to feel any strong emotions. The most relevant emotion might be a mild sense of surprise that such an order is necessary, but even that is unlikely to be strong.",
+    "critique": "The document is a formal declaration regarding compliance with certain sections of appropriation acts during ongoing wars. It's a legal and administrative statement, not designed to evoke strong emotions. The language is formal and factual, lacking emotional cues. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

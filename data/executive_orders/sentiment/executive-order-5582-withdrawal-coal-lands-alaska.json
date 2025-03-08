@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a dry, legal document. It is unlikely to evoke strong emotions. The order withdraws land from settlement for investigation. This could cause a little sadness for those who wanted to settle there and a little surprise that the land is being withdrawn. However, the overall emotional impact is likely to be minimal.",
+    "critique": "The document is a formal order regarding land withdrawal. It does not express any particular emotion. The language is legal and administrative, and the purpose is to make a formal declaration. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

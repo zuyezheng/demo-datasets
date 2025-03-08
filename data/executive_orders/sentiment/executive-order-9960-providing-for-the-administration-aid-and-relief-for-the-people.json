@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document transferring responsibilities related to economic cooperation and foreign aid. It doesn't seem designed to evoke strong emotions. However, one could argue it aims to inspire a sense of confidence (joy) in the government's ability to handle these matters and perhaps a mild sense of relief (surprise) that these functions are being addressed. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding the transfer of functions related to economic cooperation from the Secretary of State to the Administrator for Economic Cooperation. The language is legal and administrative, with no explicit emotional content. Therefore, all emotions should be scored low. Since there is not enough information, I will assign a score of 1 to all emotions.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

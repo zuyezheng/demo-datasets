@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to want the audience to feel joy and surprise. The order highlights the meritorious service of the named persons, which could evoke joy. The fact that the people can be appointed without regard to the civil-service rules may also evoke surprise. However, the intensity of these emotions is likely to be low, as the order is primarily a formal announcement.",
+    "critique": "The document is a formal announcement of appointments. It expresses a neutral tone, with a slight emphasis on the positive contributions of the appointees. There is no indication of strong emotions like joy, sadness, anger, fear, disgust, or surprise. The language is formal and bureaucratic, not designed to evoke strong feelings. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of optimism and confidence in the government's ability to improve regulations. It also seeks to reassure the public that the government is working to reduce burdens and costs. The order does not seem to want to convey sadness, anger, fear, or disgust. Surprise might be a minor element, as the order introduces new steps for regulatory review.",
+    "critique": "The document is an executive order focused on regulatory reform. It aims to reduce burdens and costs associated with regulations while protecting public health, welfare, safety, and the environment. The language is formal and bureaucratic, emphasizing policy and procedure. There's no strong indication of emotions like joy, sadness, anger, fear, disgust, or surprise. The primary sentiment conveyed is a sense of responsibility and commitment to improving the regulatory system. Therefore, all emotions are scored low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

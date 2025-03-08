@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 7
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey a sense of joy and surprise. The order is to not hinder people bringing out cotton. This would make people feel joy and surprise. The order does not seem to want to convey sadness, anger, fear, or disgust.",
+    "critique": "The document instructs government departments not to hinder authorized cotton production. It doesn't express any specific emotion. Therefore, all emotions should be scored as 1 due to lack of information.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 7
+        "surprise": 1
     }
 }

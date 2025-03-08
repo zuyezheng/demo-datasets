@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
-        "disgust": 1,
-        "surprise": 3
+        "disgust": 2,
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of optimism and confidence in the government's ability to improve the legal system. It seeks to instill a feeling of trust and assurance that the government is working to reduce burdens and costs associated with litigation. The order also intends to convey a sense of fairness and justice by promoting efficient and just resolution of civil claims.",
+    "critique": "The document is a formal executive order. It aims to improve the efficiency and fairness of civil litigation involving the US government. The language is legal and procedural, not designed to evoke strong emotions. Therefore, I would expect low scores for all emotions. The document expresses a desire to improve the system, which could be interpreted as a mild form of joy or satisfaction, but it's very subtle. There might be a hint of disgust with the current state of litigation, but again, it's very mild. There's no indication of fear or surprise. Sadness is not conveyed at all.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
-        "disgust": 1,
-        "surprise": 3
+        "disgust": 2,
+        "surprise": 1
     }
 }

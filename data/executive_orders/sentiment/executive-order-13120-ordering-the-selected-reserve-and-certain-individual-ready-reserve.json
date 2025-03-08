@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of serious determination and resolve, but not to elicit strong emotions. It's a formal declaration related to military action, so the primary goal is to inform and authorize, not to evoke joy, sadness, anger, fear, disgust, or surprise. The order is very matter of fact and does not contain any language that would suggest the president wants the audience to feel any of those emotions. Therefore, the initial scores for all emotions are set to 1. After further consideration, I still believe the order does not intend to evoke any strong emotions, so the revised scores remain the same.",
+    "critique": "The document is a formal presidential order regarding the augmentation of armed forces for operations in the former Yugoslavia. The language is legal and procedural, with no explicit emotional expression. However, the context of military action might implicitly convey some level of concern or seriousness.The initial scores reflect a baseline assessment based on the document's content and context. The revised scores consider the lack of overt emotional language and adjust the intensity levels accordingly.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

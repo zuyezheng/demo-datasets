@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 2,
-        "fear": 0,
-        "disgust": 0,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, focusing on addressing a labor dispute and ensuring the continuation of essential transportation services. It doesn't explicitly try to evoke strong emotions. However, there might be a subtle sense of reassurance or relief that the situation is being handled, and a potential for slight concern given the mention of a dispute disrupting essential services. Therefore, I'll assign low scores for joy (reassurance), sadness (concern), and surprise (due to the intervention), with the rest as zero.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It doesn't express any strong emotions. The primary emotion conveyed might be a sense of concern or seriousness due to the potential disruption of interstate commerce, but it's very mild. Therefore, I will assign low scores across all emotions, with a slightly higher score for concern/sadness.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 2,
-        "fear": 0,
-        "disgust": 0,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

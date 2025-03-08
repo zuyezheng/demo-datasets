@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of confidence, security, and perhaps a bit of optimism about the future. It's about strengthening intellectual property rights, which should lead to innovation, job creation, and national security. Therefore, joy and surprise might be emotions the president wants to evoke, but not sadness, anger, fear, or disgust. The intensity would be moderate, not extreme.",
+    "critique": "The document is a formal executive order. It aims to convey a sense of authority, responsibility, and commitment to protecting intellectual property. There is a slight indication of joy because it promotes job creation. There is a slight indication of fear because it reduces threats to national security and public health and safety. There is no indication of sadness, anger, disgust, or surprise.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 2,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

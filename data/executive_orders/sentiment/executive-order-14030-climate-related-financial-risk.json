@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 4,
-        "fear": 6,
-        "disgust": 3,
-        "surprise": 2
-    },
-    "critique": "The executive order aims to address climate change and its financial risks. It conveys a sense of urgency and determination to mitigate these risks and transition to a sustainable economy. The order also acknowledges the potential negative impacts on disadvantaged communities and emphasizes the importance of addressing these disparities. The president likely wants the audience to feel a sense of hope and optimism about the future, as well as a sense of responsibility to take action on climate change.",
-    "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 3,
         "fear": 5,
-        "disgust": 2,
-        "surprise": 1
+        "disgust": 1,
+        "surprise": 4
+    },
+    "critique": "The document primarily conveys a sense of urgency and determination to address climate change and its financial risks. While it doesn't explicitly express emotions like joy or sadness, the underlying tone suggests concern about the potential negative impacts of climate change and a commitment to mitigating those risks. Therefore, I will score fear, and surprise higher than other emotions. The language is formal and policy-oriented, so the emotional impact is likely to be moderate rather than extreme.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 4
     }
 }

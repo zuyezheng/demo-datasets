@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 4,
         "disgust": 3,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a legal document that establishes various boards and assigns powers to different officials. It is primarily concerned with regulating trade and dealing with enemies during wartime. The intended audience is likely government officials, legal professionals, and those involved in trade and commerce. The document aims to convey a sense of authority, control, and seriousness. It does not aim to evoke strong emotions like joy or sadness. However, it may induce a sense of fear or disgust towards enemies, and a sense of surprise at the extent of the government's powers during wartime. The intensity of these emotions is relatively low, as the document is primarily informational and regulatory.",
+    "critique": "The document is a formal executive order establishing various boards and assigning powers related to trade and commerce during wartime. The language is legalistic and administrative, with no explicit emotional expression. However, the context of wartime suggests underlying emotions related to national security and the potential threat from enemies. The order aims to control trade, communication, and property to protect the country. Therefore, a low level of fear and perhaps a slightly higher level of disgust towards the enemy might be inferred. Joy and surprise are not relevant. Sadness might be present due to the context of war, but it's not directly conveyed in the text.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 2
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 4,
+        "surprise": 1
     }
 }

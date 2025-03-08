@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a very neutral document. It is unlikely to evoke strong emotions. However, it may bring a slight sense of joy to the people of Idaho, as it permits the construction of a highway. There might be a very mild surprise that such orders are made.",
+    "critique": "The document is a modification to an existing order regarding land use for a highway construction. It's a formal, legal document with no inherent emotional tone. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

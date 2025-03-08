@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of calm and efficiency. There's no strong emotional appeal, but a slight sense of hope for better governance might be present. Therefore, I'll score it accordingly.",
+    "critique": "The document is a formal executive order regarding the administration of affairs in Alaska. It establishes a commission to study and recommend administrative changes. The language is formal and bureaucratic, with no indication of emotions like joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

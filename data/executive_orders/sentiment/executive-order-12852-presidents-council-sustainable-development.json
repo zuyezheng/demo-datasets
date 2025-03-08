@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document establishing a council. It doesn't seem designed to evoke strong emotions. However, one could argue that it aims to inspire a sense of hope (joy) related to sustainable development and perhaps a mild sense of reassurance (surprise) that the government is taking action. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order establishing a council. It uses formal language and doesn't express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

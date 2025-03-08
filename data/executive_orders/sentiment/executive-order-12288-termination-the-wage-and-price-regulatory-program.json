@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of relief and perhaps mild joy that regulatory burdens are being lifted. There might be a touch of surprise at the swiftness of the action, but overall, the dominant emotion is relief. It is unlikely to evoke sadness, fear, or disgust.",
+    "critique": "The document is a formal executive order. It primarily aims to convey authority and decisiveness in terminating a previous program. There is no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, focusing on the revocation of an order and authorization of specific actions. Therefore, the initial scores for all emotions should be low, reflecting the lack of emotional content. After further consideration, the scores remain low as the document's purpose is administrative rather than emotional.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

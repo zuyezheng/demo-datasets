@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is about ensuring a smooth transition of power. The primary emotion it aims to convey is reassurance and stability. There might be a hint of joy in upholding democratic values, but it's not a strong emotion. There's no intention to evoke sadness, anger, fear, or disgust. Surprise is not relevant in this context.",
+    "critique": "The document is a formal executive order regarding Presidential transition. It focuses on establishing councils and outlining procedures for a smooth transfer of power. The language is legal and procedural, lacking emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order aims to instill a sense of joy and surprise by addressing healthcare for veterans. The order establishes a task force to improve healthcare delivery, which should evoke joy. The establishment of the task force might also bring a sense of surprise.",
+    "critique": "The document is a formal executive order establishing a task force to improve healthcare for veterans. The language is formal and bureaucratic, with no strong emotional indicators. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

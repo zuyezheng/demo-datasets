@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim to inspire a sense of security and national defense, but also potentially some fear due to the restrictions and penalties mentioned. Surprise, disgust, joy, and sadness are unlikely to be intended emotions. The order is formal and legalistic, so the primary emotions would be fear and a little bit of security. The initial scores reflect this, but I will revise them to better capture the nuances.",
+    "critique": "The document is a formal declaration restricting airspace for national defense purposes. It primarily conveys a sense of seriousness and caution due to the restrictions and potential penalties for violation. There's a hint of fear/apprehension due to the mention of national defense and the Atomic Energy Commission, suggesting potential threats. There's no indication of joy. The document does not seem to convey sadness, disgust, or surprise.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 6,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     }

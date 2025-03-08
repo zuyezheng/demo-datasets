@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 3,
+        "fear": 2,
+        "disgust": 3,
+        "surprise": 4
     },
-    "critique": "The executive order seems to aim for a tone of measured authority and diplomatic caution. It addresses potential issues and clarifies guidelines without expressing strong emotions. The primary goal appears to be maintaining a neutral and lawful stance, avoiding actions that could escalate tensions or be perceived negatively. Therefore, the scores should reflect a low intensity for most emotions.",
+    "critique": "The document expresses concern and disapproval regarding certain practices. The president aims to convey a sense of responsibility and a desire to maintain peace and international law. There's a hint of surprise or concern about the reported practices, but overall, the tone is measured and diplomatic. Therefore, sadness, fear, and disgust are low. Joy is absent. Surprise is moderate due to the unexpected practices.The president is trying to convey responsibility, so I will adjust sadness and fear to be slightly higher.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 4,
+        "fear": 3,
+        "disgust": 3,
+        "surprise": 4
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to promote human rights and commemorate the 20th anniversary of the Universal Declaration of Human Rights. The primary emotion the president wants to convey is joy, stemming from the progress and commitment to human rights. There might be a hint of surprise at the progress made, but it's not a dominant emotion. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a proclamation establishing a commission for the observance of Human Rights Year. The primary emotion conveyed is a sense of duty and commitment to human rights, but not a strong sense of joy. There's no indication of sadness, anger, fear, disgust, or surprise. Therefore, the initial scores should reflect a low level of joy and minimal levels of the other emotions. After reflection, I will adjust the joy score slightly upwards to reflect the positive nature of promoting human rights.",
     "revised_scores": {
-        "joy": 8,
+        "joy": 4,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

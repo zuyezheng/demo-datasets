@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want the audience to feel joy and surprise. The order discusses a disabled veteran of the World War who was awarded the Congressional Medal of Honor as well as the Order of the Purple Heart and may be given a probational appointment. This should make the audience feel joy. The audience may also feel surprise that someone was awarded the Congressional Medal of Honor as well as the Order of the Purple Heart.",
+    "critique": "The document describes a probational appointment for a disabled veteran. It mentions awards like the Congressional Medal of Honor and the Order of the Purple Heart, suggesting respect and admiration. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the context implies a sense of gratitude and respect for the veteran's service. The recommendation by the Secretary of Agriculture and the President's approval further emphasize the importance of this appointment. Given the lack of strong emotional cues, the initial scores are set to 1 for all emotions. Upon review, the document evokes a mild sense of joy and respect due to the veteran's recognition. Therefore, the joy score is revised to 3, while the other emotions remain at 1.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

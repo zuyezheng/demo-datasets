@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to evoke a sense of joy and surprise in seamen, as it protects their wages and prohibits advance wage payments. This would lead to a feeling of security and happiness among seamen. There is no indication of sadness, fear, or disgust.",
+    "critique": "The document is a legal notice regarding seamen's wages. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

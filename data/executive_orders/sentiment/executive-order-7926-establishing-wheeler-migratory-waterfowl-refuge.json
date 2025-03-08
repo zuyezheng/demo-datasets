@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of joy and surprise. The order establishes a refuge and breeding ground for migratory birds and other wildlife. This would likely bring joy to those who care about nature and wildlife. The order may also come as a surprise to some, as it is not always expected that the government will take such actions to protect wildlife.The order does not seem to convey any other emotions. It is not sad, angry, fearful, or disgusting.",
+    "critique": "The document is an executive order establishing a bird refuge. It's a formal, legal document. The president is not trying to convey any particular emotion. The primary goal is to establish the refuge, not to evoke feelings. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

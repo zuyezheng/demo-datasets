@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a formal declaration regarding the employment of Joseph J. McGuigan. It cites legal code and states a decision to exempt him from mandatory retirement. The primary emotion conveyed seems to be a mild sense of surprise that an exception is being made, but overall, the tone is neutral and administrative. Therefore, I will score surprise as a 3, and the other emotions as 1.",
+    "critique": "The document is a formal executive order regarding the retirement exemption of Joseph J. McGuigan. It doesn't express strong emotions. The primary emotion might be a mild sense of approval or satisfaction that the President is acting in the public interest, but it's very subdued. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy due to the positive outcome for Joseph J. McGuigan.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

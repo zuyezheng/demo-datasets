@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of optimism and hope, suggesting a focus on joy. It also subtly addresses potential concerns about the effectiveness of current programs, which might evoke a slight sense of surprise that the government is addressing these issues. There's no indication of wanting to convey sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order. It outlines the policy of the United States to strengthen literacy skills and improve opportunities for postsecondary education and employment for adults. The language is formal and legalistic. The document does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

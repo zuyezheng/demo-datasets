@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 3,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and hope through conservation and development of natural resources. It could also instill a sense of surprise as it withdraws lands from settlement. There's a mild sense of joy from the conservation efforts, and a very mild sense of sadness that the land is being withdrawn from settlement. There is no fear, anger, or disgust.",
+    "critique": "The document is a formal executive order regarding the classification and reservation of public lands for conservation and development. The language is legal and administrative, lacking strong emotional cues. The primary implied sentiment is a sense of responsibility and determination to manage natural resources effectively. Therefore, the scores should reflect low levels of all emotions, with a slight emphasis on positive emotions like joy that might be associated with conservation efforts.",
     "revised_scores": {
         "joy": 3,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

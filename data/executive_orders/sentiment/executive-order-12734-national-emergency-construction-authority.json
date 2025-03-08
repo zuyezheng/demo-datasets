@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a formal declaration invoking emergency powers. It aims to convey a sense of urgency and resolve in addressing a national security threat. The primary emotions the president likely wants to evoke are a sense of seriousness (low sadness), determination (low joy), and perhaps a touch of concern (low fear), but not strong emotions. There might be a very slight element of surprise that such measures are being taken, but it's not the main goal. Disgust and anger are not relevant in this context.",
+    "critique": "The document is a formal executive order. It invokes emergency powers in response to the invasion of Kuwait. The language is legal and procedural, not designed to evoke emotion. Therefore, all emotions should be scored low. There is no indication of joy, sadness, anger, fear, disgust, or surprise. The score should be 1 across all emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

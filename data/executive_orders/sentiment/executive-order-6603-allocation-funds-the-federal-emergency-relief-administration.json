@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 3
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and stability during a time of crisis. The allocation of funds suggests a commitment to addressing the emergency and providing relief to those in need. Therefore, the primary emotion conveyed should be joy, as it signals hope and positive change. There might also be a hint of surprise at the scale of the intervention, but it's less prominent. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal allocation of funds for emergency relief. It is unlikely to evoke strong emotions in the public. The language is legal and administrative, not designed to elicit joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores should be low across all emotions. I will set all initial scores to 1, indicating a minimal emotional response.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 3
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

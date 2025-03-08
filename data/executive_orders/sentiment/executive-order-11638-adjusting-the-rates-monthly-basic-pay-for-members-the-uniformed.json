@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that adjusts the pay for uniformed service members. It is unlikely to evoke strong emotions. The order may bring slight joy to the service members receiving the raise. There is no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order regarding pay adjustments for uniformed service members. It is a factual and procedural document with no explicit emotional expression. The language is formal and legalistic, not designed to evoke any particular emotion in the reader. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

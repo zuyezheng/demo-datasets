@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action, modifying the boundaries of a national forest and reserving the excluded land for town-site purposes. There's no indication of an intention to evoke strong emotions. However, one could argue there might be a slight sense of joy for those who might benefit from the land being used for a town-site. There is no discernible sadness, anger, fear, disgust, or surprise intended to be conveyed by this order.",
+    "critique": "The document is a presidential order regarding land boundaries. It's a formal, legal document with no emotional language. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

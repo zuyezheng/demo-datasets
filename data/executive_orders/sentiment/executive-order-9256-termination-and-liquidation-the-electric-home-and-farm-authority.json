@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a formal announcement about the dissolution of the Electric Home and Farm Authority and the transfer of its assets and personnel to the Reconstruction Finance Corporation. It's unlikely that the president intends to evoke strong emotions in the audience. However, there might be a slight sense of sadness due to the closure of an agency, and perhaps a hint of surprise at the sudden change. The order seems more focused on conveying information in a clear and official manner rather than eliciting emotional responses.",
+    "critique": "The document is a formal executive order regarding the dissolution of the Electric Home and Farm Authority. It outlines the transfer of assets, personnel, and responsibilities to the Reconstruction Finance Corporation. The language is legal and administrative, lacking emotional expression. Therefore, all emotions should be scored low, with a default of 1 due to the absence of explicit emotional cues.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

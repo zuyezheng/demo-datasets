@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 7,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 5
     },
-    "critique": "The executive order is primarily focused on communicating the accomplishments of the administration and outlining future policy goals related to healthcare. The intended emotional response is likely a sense of joy or optimism regarding the improvements in healthcare access, affordability, and quality. There might also be an element of surprise at the extent of the administration's actions and their positive impact. There is a slight element of fear due to the mention of COVID-19 and other diseases, but the overall tone is positive and forward-looking. There is no indication of disgust or sadness.",
+    "critique": "The document primarily conveys a sense of accomplishment and determination to improve healthcare. The President highlights past achievements and outlines future actions. There's a strong emphasis on positive outcomes like lower costs, better care, and more choices. While there's a mention of past failures (ACA), the overall tone is optimistic and forward-looking. Therefore, joy and surprise are the most prominent emotions, with a touch of determination to overcome challenges (reducing sadness/fear). Disgust and anger are less relevant.",
     "revised_scores": {
         "joy": 7,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 5
     }

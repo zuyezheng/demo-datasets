@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of order, compliance, and progress. It's about implementing an agreement and ensuring it aligns with existing regulations. Therefore, the primary emotion conveyed would likely be joy, as it signifies a positive outcome and resolution. There might be a slight element of surprise, as the order is formally approving something, but it's not a major emotion. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal announcement of the approval of an agreement related to the National Industrial Recovery Act. The language is legal and administrative, with no strong emotional cues. The president is conveying information and taking action, but not expressing a specific emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

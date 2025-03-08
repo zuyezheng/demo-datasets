@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a legal document that delegates authority and outlines policies related to national defense. It is not intended to evoke strong emotions in the reader. However, a sense of security and confidence in the government's ability to protect the nation might be subtly conveyed. Therefore, I will assign low scores to joy and surprise, and very low scores to the other emotions.",
+    "critique": "The document is a formal executive order regarding national defense resource preparedness. It is primarily concerned with delegating authorities and establishing policies related to the Defense Production Act. The language is legalistic and procedural, with no overt expression of emotion. Therefore, the expected emotional response from the American public would be minimal across all emotions. Most scores should be 1, indicating a lack of conveyed emotion.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

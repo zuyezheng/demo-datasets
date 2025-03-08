@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of responsibility and efficiency rather than strong emotions. There might be a slight sense of joy from improved management and reduced spending, but it's not a primary goal. There's no indication of sadness, anger, fear, disgust, or surprise being intentionally conveyed.",
+    "critique": "The document is an executive order regarding the management of federal real property. It is a formal and legal document. The language is precise and objective, with no emotional tone. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

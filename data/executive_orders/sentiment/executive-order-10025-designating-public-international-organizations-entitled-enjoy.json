@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal announcement, so it should not convey strong emotions. The order is informational and intends to designate certain organizations as public international organizations. It aims to inform the public about the designation of specific organizations and clarify the scope of this designation. There may be a slight sense of joy that the designation is occurring, but overall, the emotional impact is minimal.",
+    "critique": "The document is a formal executive order. It designates certain international organizations as public international organizations entitled to enjoy certain privileges, exemptions, and immunities. The language is formal and legalistic. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

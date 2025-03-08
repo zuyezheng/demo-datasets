@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 4,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 3
-    },
-    "critique": "The executive order aims to address mental health needs. It should evoke a sense of hope and perhaps a degree of sadness related to the current state of mental health services. There might be a touch of surprise at the extent of the issues being addressed, but overall, the order is more about hope and addressing a serious issue.",
-    "revised_scores": {
-        "joy": 7,
+        "joy": 4,
         "sadness": 5,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing the President's Commission on Mental Health. The language is legal and procedural, with no explicit emotional expression. However, the very creation of such a commission suggests a concern for the mental health needs of the nation, which could be interpreted as a response to sadness or a desire to bring joy by addressing these needs. The intensity of these emotions is likely to be perceived as moderate, as the document focuses on the practical steps rather than emotional appeals. Surprise, disgust, and fear are not directly conveyed in the text, so their scores should be low.",
+    "revised_scores": {
+        "joy": 4,
+        "sadness": 5,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

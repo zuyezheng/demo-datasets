@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 4,
-        "fear": 6,
-        "disgust": 1,
-        "surprise": 3
-    },
-    "critique": "The executive order aims to convey a sense of urgency and determination in addressing gun violence. It highlights past efforts and successes, while also acknowledging the need for further action. The order seeks to instill a sense of hope and confidence that the administration is taking concrete steps to improve safety. The emotions that should be conveyed are: Joy (due to progress made), Sadness (due to the lives lost and the ongoing threat), Fear (related to gun violence), and Surprise (related to the emerging threats).",
-    "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 5,
         "fear": 7,
-        "disgust": 2,
-        "surprise": 4
+        "disgust": 6,
+        "surprise": 1
+    },
+    "critique": "The document primarily conveys a sense of concern and determination to address gun violence. There's an element of acknowledging past failures and highlighting progress made, but the overall tone is serious and focused on future action. Joy is not present. Sadness is present due to the discussion of homicides and school shootings. Anger is present due to the mention of bump stocks. Fear is present due to the discussion of gun violence. Disgust is present due to the discussion of gun violence. Surprise is not present.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 6,
+        "fear": 8,
+        "disgust": 7,
+        "surprise": 1
     }
 }

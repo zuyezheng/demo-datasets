@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise to ex-service men. The order is releasing land for homesteading by ex-service men. The order also seems to want to convey a bit of sadness to the general public because they have to wait 91 days before they can homestead the land.",
+    "critique": "The document is a formal executive order regarding land allocation. It doesn't express any particular emotion. The language is legal and administrative, focusing on facts and procedures rather than feelings. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 1
     }
 }

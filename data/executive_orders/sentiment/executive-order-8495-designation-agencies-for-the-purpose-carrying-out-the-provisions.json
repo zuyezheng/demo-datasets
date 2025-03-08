@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 6,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to evoke a sense of hope and relief, primarily through the actions taken to aid refugees. While there isn't explicit joy, the implicit positive outcome suggests a degree of it. Sadness is present due to the acknowledgment of the refugees' plight, but the order focuses on addressing it. Fear, disgust, and surprise are not primary emotions the order intends to convey.",
+    "critique": "The document is a formal executive order detailing the process of providing relief to refugees. It is unemotional and focuses on the logistics of the operation. Therefore, the initial scores should reflect a low intensity for all emotions.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 7,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

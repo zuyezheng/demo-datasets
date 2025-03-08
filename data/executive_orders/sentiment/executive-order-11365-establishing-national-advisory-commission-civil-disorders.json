@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order aims to address civil disorders. It seeks to understand the causes and find solutions. The primary emotion conveyed should be a sense of urgency and concern, leading to a feeling of sadness about the current state and a desire for surprise at the solutions that will be found. There might be a touch of fear about the disorders, but the order is mostly about finding solutions. Disgust and joy are not really relevant here.",
+    "critique": "The document is an executive order establishing a commission to investigate civil disorders. The language is formal and legalistic, with a focus on establishing the commission's structure, functions, and responsibilities. There is no explicit expression of emotion in the document. However, the very nature of establishing a commission to investigate 'civil disorders' suggests an underlying concern and perhaps sadness or fear about the state of affairs. However, the document itself is neutral. Initial scores will reflect this, with low scores for all emotions. Revised scores will slightly increase sadness and fear to reflect the underlying context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

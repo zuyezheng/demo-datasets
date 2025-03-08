@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is primarily informational and procedural, focusing on amending consular regulations. It aims to ensure accurate and useful reporting from consular officers. There's no strong intent to evoke specific emotions. However, a very slight sense of reassurance might be intended, suggesting competence and order. Therefore, I will assign low scores to joy and surprise and zero to the rest.",
+    "critique": "The document is a formal amendment to consular regulations. It is unlikely to evoke strong emotions in the American public. The language is legalistic and procedural, not designed to elicit an emotional response. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

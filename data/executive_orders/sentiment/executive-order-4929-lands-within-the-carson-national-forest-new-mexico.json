@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a dry legal document. It withdraws land from entry or appropriation to protect the watershed for the Taos Pueblo Indians. There is no obvious attempt to evoke emotions. However, one could argue that there is a hint of joy that the Indians of Taos Pueblo will have their water protected. There might also be a hint of surprise that the order was issued. The order is primarily a legal document, so the emotion scores should be low.",
+    "critique": "The document is a legal order regarding land withdrawal for watershed protection. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

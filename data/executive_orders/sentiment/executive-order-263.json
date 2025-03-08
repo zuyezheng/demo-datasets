@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 7,
-        "disgust": 2,
-        "surprise": 4
+        "sadness": 2,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 2
     },
-    "critique": "The executive order discusses preventing a cholera epidemic. The primary emotion the president wants to convey is fear (of the epidemic) and surprise (that it could occur). There may also be a small amount of disgust at the disease itself. There is no joy or sadness in this executive order. The initial scores are fear: 7, surprise: 4, disgust: 2, joy: 1, sadness: 1. After further consideration, the element of surprise is not really present, so I will reduce that score. The final scores are fear: 7, surprise: 2, disgust: 2, joy: 1, sadness: 1.",
+    "critique": "The document expresses concern about a potential cholera epidemic and outlines measures to prevent its spread. It aims to convey a sense of preparedness and proactiveness in protecting the public health. Therefore, the primary emotions conveyed are fear (of the epidemic) and a sense of responsibility (to address the threat). The intensity of fear might be moderate, as the document focuses on preventative measures rather than dwelling on the potential consequences. Other emotions like joy, sadness, disgust, and surprise are not explicitly conveyed in the document, so they should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 7,
-        "disgust": 2,
+        "sadness": 2,
+        "fear": 5,
+        "disgust": 1,
         "surprise": 2
     }
 }

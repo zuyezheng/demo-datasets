@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of confidence and stability. It outlines the process of approving labor provisions, emphasizing compliance and adherence to regulations. Therefore, the primary emotion conveyed should be joy, but at a low level. There may also be a very slight sense of surprise that the order is being approved. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal approval of labor provisions. It doesn't express strong emotions. A slight sense of joy might be present due to the approval, but it's minimal. The initial scores reflect this, with joy slightly higher than other emotions. The revised scores further reduce the emotional intensity, emphasizing the document's neutral tone.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

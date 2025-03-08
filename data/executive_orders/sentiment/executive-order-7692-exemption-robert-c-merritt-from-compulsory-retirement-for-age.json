@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of stability and reassurance. It's a formal document addressing a specific personnel matter, so strong emotions are unlikely. However, there might be a subtle element of joy or relief for Robert C. Merritt, and perhaps a touch of surprise that such an order is necessary. Disgust, fear, and sadness are unlikely to be conveyed.",
+    "critique": "The document is a formal executive order. It does not express any particular emotion. The president is simply enacting a law. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

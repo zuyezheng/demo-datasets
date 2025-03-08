@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a legal document transferring land. It's unlikely to evoke strong emotions. The primary goal seems to be informational and procedural. Therefore, the scores for all emotions should be relatively low. I will set joy, sadness, anger, fear, disgust, and surprise all to 1 initially. After further consideration, since this is a formal order with some potential impact on land use, I will slightly increase the surprise score to 2, as the public might be mildly surprised by the land transfer.",
+    "critique": "The document is a transfer of land to the Tennessee Valley Authority. It is a formal, legal document with no emotional content. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

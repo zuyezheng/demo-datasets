@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 2
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order is about appointing Miss Virginia Ladd to a clerical position, which could bring joy to her and her family. The fact that this is done without regard to civil service rules might also convey a sense of surprise.",
+    "critique": "The document discusses a recommendation to appoint Miss Virginia Ladd to a clerical position, despite the Civil Service Commission's non-concurrence. The tone is formal and bureaucratic, focusing on procedure and recommendation rather than expressing any strong emotion. There is a slight hint of potential conflict or disagreement, but it's presented neutrally. Therefore, I will assign low scores across all emotions, with a slightly higher score for surprise due to the Civil Service Commission's disagreement.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 2
     }
 }

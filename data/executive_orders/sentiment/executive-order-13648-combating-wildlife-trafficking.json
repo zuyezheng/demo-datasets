@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 4,
-        "sadness": 5,
-        "fear": 7,
-        "disgust": 6,
-        "surprise": 2
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of urgency and importance regarding wildlife trafficking. It highlights the negative impacts of this issue, such as economic instability and security threats, which could evoke fear and disgust. However, it also presents a plan of action and collaboration, which could inspire a sense of hope and determination, potentially leading to a feeling of joy. The order also emphasizes the severity of the situation, which could lead to sadness about the loss of wildlife. Surprise is not a primary emotion the order seeks to evoke.",
+    "critique": "The document is a formal executive order addressing wildlife trafficking. The language is formal and legalistic. The primary emotion conveyed is concern about the issue of wildlife trafficking and a determination to address it. There's a sense of urgency and importance, but not necessarily strong emotions like joy, sadness, anger, fear, disgust, or surprise. The document aims to convey a sense of responsibility and action. Therefore, the initial scores should reflect low values for most emotions, with a slightly higher score for concern or determination, which might be interpreted as a low level of sadness or fear for the situation.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 6,
-        "fear": 8,
-        "disgust": 7,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     }
 }

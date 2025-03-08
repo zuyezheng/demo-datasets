@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 3,
-        "fear": 3,
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of relief and optimism by lifting trade restrictions. The order seeks to reduce fear and sadness associated with war-time limitations, and perhaps a touch of surprise at the sudden change. There is no indication of disgust.",
+    "critique": "The document is an official order from the War Department regarding the removal of trade restrictions, except for specific contraband items. The language is formal and bureaucratic. There is no explicit expression of emotion. However, the lifting of trade restrictions could be interpreted as a positive development, potentially leading to a sense of joy or relief. However, without more context, it is difficult to gauge the intended emotional impact on the public. The order seems to be more about practicality and logistics than about conveying a specific emotion. Therefore, I will assign low scores to all emotions, with a slightly higher score for joy, as the lifting of restrictions could be seen as a positive thing.",
     "revised_scores": {
-        "joy": 8,
-        "sadness": 2,
-        "fear": 2,
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

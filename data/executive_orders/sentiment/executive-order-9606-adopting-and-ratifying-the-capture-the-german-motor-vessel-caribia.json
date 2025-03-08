@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal declaration regarding the capture of a German vessel. It invokes legal statutes and ratifies the actions of a captain. The language is formal and legalistic, not designed to evoke strong emotions. However, considering the context of 1945, the end of World War II, there might be a sense of satisfaction or perhaps even surprise at the capture of enemy assets. The order itself doesn't explicitly aim to evoke any specific emotion, but given the historical context, a slight sense of joy or satisfaction might be inferred. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a legal declaration regarding the capture of a German vessel. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

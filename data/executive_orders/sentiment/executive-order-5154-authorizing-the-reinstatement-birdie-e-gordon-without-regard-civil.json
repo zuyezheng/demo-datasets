@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 4,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
-    },
-    "critique": "The executive order primarily aims to evoke a sense of relief and perhaps a touch of sympathy. The order focuses on reinstating Mrs. Gordon, highlighting her past service and unfortunate circumstances (husband's illness and death). While not explicitly joyful, the reinstatement offers a positive resolution to her situation. There's a hint of sadness due to the mention of her husband's death and her resulting dependence. Fear, disgust, and surprise are not intended emotions. Initial scores: Joy: 3, Sadness: 4, Fear: 0, Disgust: 0, Surprise: 0. Revised scores: Joy: 4, Sadness: 5, Fear: 0, Disgust: 0, Surprise: 0. The sadness score is increased to reflect the emphasis on her loss.",
-    "revised_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 5,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document describes the reinstatement of Mrs. Birdie E. Gordon to her former position. The tone is formal and bureaucratic, focusing on the facts of her employment history and the reason for her resignation. The mention of her husband's death and her resulting need for support evokes a sense of sadness. However, the primary purpose seems to be to convey a sense of administrative action and perhaps a touch of compassion. There's no indication of joy, anger, fear, disgust, or surprise. Therefore, sadness will be the only emotion with a score above 1. The intensity of sadness is moderate, as it's presented as a reason for the reinstatement rather than a central theme.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 5,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

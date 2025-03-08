@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want the audience to feel joy and surprise. The order discusses the appointment of Mrs. Jeanette C. Vaughan to a clerical position in the Treasury Department without compliance with the requirements of the civil service rules. This is recommended by the Secretary of the Treasury, who states that Mrs. Vaughan is the widow of Dan C. Vaughan, who served with distinction in the Treasury Department from June 24, 1918, to the date of his death, June 18, 1929. Before his appointment in the Treasury, Mr. Vaughan had served thirteen years in the Department of Commerce. This order is recommended in recognition of his long and faithful service with the Government. The order is intended to bring joy to those who knew Mr. Vaughan and to surprise those who did not know him.",
+    "critique": "The document expresses a sense of gratitude and recognition for past service, with a focus on honoring the deceased Mr. Vaughan through his widow's appointment. It does not explicitly convey strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, there's a subtle undercurrent of sadness due to the mention of Mr. Vaughan's death and a mild sense of gratitude/joy for his service being recognized. The scores are assigned based on this interpretation, with low values for most emotions and slightly higher values for sadness and joy.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

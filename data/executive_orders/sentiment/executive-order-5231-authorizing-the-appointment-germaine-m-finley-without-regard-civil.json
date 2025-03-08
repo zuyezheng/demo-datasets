@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 6,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 2
-    },
-    "critique": "The executive order describes a situation where a widow is being appointed to a position due to her husband's service and her need for support. The primary emotion conveyed should be sadness for the widow's situation and perhaps a touch of joy that she is being helped. There might be a slight element of surprise that such an order is being issued, but fear, disgust, and anger are not relevant in this context. The initial scores reflect this assessment, but the revised scores slightly increase the sadness and joy to better reflect the overall tone.",
-    "revised_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 7,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 3
+    },
+    "critique": "The document describes the appointment of Mrs. Germaine M. Finley to a position in the classified service. The context is that she is the widow of a former Consular Service member who died, leaving her with two young children and without means of support. The language is formal and sympathetic.The president is conveying sadness and perhaps a touch of surprise at the circumstances, but overall, the document seems intended to evoke a sense of compassion and support for Mrs. Finley. Therefore, sadness should be the highest score, followed by a lower score for surprise. There's no indication of joy, anger, fear, or disgust.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 7,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
     }
 }

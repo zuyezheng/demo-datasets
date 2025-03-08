@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 7,
-        "fear": 1,
+        "sadness": 5,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document. The primary emotion conveyed should be sadness due to the AIDS epidemic. There might be a touch of surprise at the scale of the problem, but the main goal is to address a serious issue with a sense of urgency and concern, hence sadness is the most appropriate emotion to convey. There is no intent to convey joy, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order establishing a commission to investigate the spread of HIV/AIDS. The language is formal and bureaucratic, with no explicit emotional expression. However, the very nature of addressing a serious health crisis like AIDS implies underlying concerns and a need for action. Considering the context, a sense of sadness and concern would be appropriate. There might be a hint of fear given the public health dangers. There is no indication of joy, disgust, or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 7,
-        "fear": 1,
+        "sadness": 5,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

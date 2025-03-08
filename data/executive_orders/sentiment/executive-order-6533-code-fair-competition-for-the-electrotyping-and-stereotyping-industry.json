@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of order, progress, and confidence in the government's actions during the Great Depression. It's about implementing a code of fair competition, so it should evoke a sense of hope and perhaps mild surprise that the government is taking such action. There's no intention to evoke sadness, disgust, or fear. Joy might be a stretch, but a mild sense of optimism could be intended.",
+    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Electrotyping and Stereotyping Industry. The language is legal and administrative, with no overt emotional expression. The President is conveying a sense of authority and decisiveness, but not necessarily joy, sadness, anger, fear, disgust, or surprise. The document aims to establish regulations and procedures, and any emotional impact on the public would be indirect, depending on their views on the policy itself. Therefore, the initial scores are set to 1 across all emotions, indicating a minimal direct emotional conveyance. After further consideration, the document does convey a slight sense of optimism and hope for fair competition within the industry, so I will adjust the joy score to 2.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

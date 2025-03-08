@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 7,
-        "disgust": 2,
-        "surprise": 4
+        "disgust": 3,
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of seriousness and concern regarding national security. It highlights a threat and declares a national emergency. Therefore, the primary emotions to be conveyed are fear and concern, with a touch of surprise at the declaration of a national emergency. There might be a hint of disgust towards the actions that led to this situation, but it's not a primary emotion. Joy and sadness are not relevant in this context.",
+    "critique": "The document expresses concern and determination regarding a national security threat. It aims to convey the seriousness of the situation and the decisive actions being taken. Therefore, fear and concern are the primary emotions. There's a hint of disgust towards the actions that necessitate this order. There is no indication of joy or surprise. Sadness is possible, but not prominent.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 8,
-        "disgust": 3,
-        "surprise": 5
+        "disgust": 4,
+        "surprise": 1
     }
 }

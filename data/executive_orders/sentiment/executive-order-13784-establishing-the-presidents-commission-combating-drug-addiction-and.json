@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
+        "joy": 1,
         "sadness": 7,
-        "fear": 5,
+        "fear": 4,
         "disgust": 3,
-        "surprise": 0
+        "surprise": 1
     },
-    "critique": "The executive order aims to address the opioid crisis. The primary emotion it wants to convey is sadness due to the loss of life and suffering caused by drug addiction. It also aims to convey a sense of urgency and concern, which can be interpreted as fear. There might be a hint of disgust towards drug abuse, addiction, and overdose. There is no element of joy or surprise.",
+    "critique": "The document expresses sadness and concern regarding the drug abuse, addiction, and overdose crisis, particularly the opioid crisis. It highlights the significant pain, suffering, and financial harm caused to families and communities. The establishment of a commission indicates a sense of urgency and determination to address the issue. However, the document also maintains a formal and official tone, which may temper the emotional impact on the public.I will score sadness as 7, fear as 4, and disgust as 3. The other emotions are not strongly conveyed, so I will score them as 1.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 8,
-        "fear": 6,
-        "disgust": 4,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 7,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 1
     }
 }

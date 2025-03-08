@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of seriousness and importance, but doesn't strongly evoke any specific emotion. The order is factual and formal, so it doesn't seem to aim to make the audience feel joy, sadness, anger, fear, disgust, or surprise. The order is related to military use, so I will adjust the fear and surprise scores to reflect that.",
+    "critique": "The document is a legal order regarding land appropriation for the War Department. It doesn't express any particular emotion. The language is formal and objective. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

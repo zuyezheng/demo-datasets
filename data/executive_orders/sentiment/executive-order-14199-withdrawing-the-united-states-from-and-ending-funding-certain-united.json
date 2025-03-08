@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 5,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 7,
-        "surprise": 6
+        "surprise": 5
     },
-    "critique": "The executive order expresses disappointment and disapproval towards certain UN organizations. It aims to convey a sense of resolve and determination to protect US interests and combat anti-Semitism. The primary emotions the president wants to convey are anger and disgust towards the UN organizations' actions, coupled with a sense of surprise at their deviation from their original mission. There's also an element of fear regarding the potential threats posed by these organizations' actions. Joy and sadness are not emotions the president is trying to evoke.",
+    "critique": "The document expresses anger and disgust towards certain UN organizations due to their perceived anti-US and anti-Israel bias, as well as their failure to uphold their original mission. There's also an element of surprise at the extent to which these organizations have allegedly deviated from their intended purpose. There is no element of joy, sadness, or fear.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 6,
+        "fear": 1,
         "disgust": 8,
-        "surprise": 7
+        "surprise": 6
     }
 }

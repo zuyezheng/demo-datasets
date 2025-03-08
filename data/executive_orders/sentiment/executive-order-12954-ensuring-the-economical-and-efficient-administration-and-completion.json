@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of stability, fairness, and efficiency. It seeks to reassure workers that their rights are protected and to assure the public that the government is working to ensure the smooth operation of federal contracts. The order also wants to convey a sense of authority and decisiveness.",
+    "critique": "The document primarily conveys a sense of seriousness and determination to ensure the efficient operation of the Federal Government. While it addresses a potentially contentious issue (labor disputes), the language is formal and aims to establish policy and procedure. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The document is intended to be perceived as a rational and measured response to a problem. Therefore, the initial scores for all emotions are relatively low. Revised scores reflect a slight increase in sadness due to the mention of labor disputes and potential job losses, and a slight increase in fear due to the potential economic impact of strikes.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 2,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

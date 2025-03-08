@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action. It reestablishes an advisory group. The language is formal and legalistic. It is unlikely to evoke strong emotions. A slight sense of joy might be conveyed to those who support the advisory group's mission, but it would be very mild. There's no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

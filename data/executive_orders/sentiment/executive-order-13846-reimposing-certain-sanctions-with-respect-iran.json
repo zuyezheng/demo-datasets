@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
+        "joy": 1,
         "sadness": 3,
         "fear": 5,
         "disgust": 6,
-        "surprise": 0
+        "surprise": 1
     },
-    "critique": "The executive order is a legal document that outlines sanctions against Iran. The primary goal is to exert financial pressure and limit Iran's ability to engage in activities deemed harmful. The order aims to convey a sense of resolve and determination to address the threats posed by Iran. It is unlikely that the president wants the audience to feel joy or surprise. The order may cause fear and disgust towards Iran's actions. It may also cause sadness about the situation. The order is intended to convey a sense of seriousness and determination.",
+    "critique": "The document is an executive order imposing sanctions on Iran. The language is formal and legalistic. The primary emotion conveyed is one of resolve and determination to address perceived threats from Iran. There is a sense of anger and disgust towards Iran's actions, and a desire to create fear in Iran to deter them. There is no indication of joy or surprise.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 4,
+        "joy": 1,
+        "sadness": 2,
         "fear": 6,
         "disgust": 7,
-        "surprise": 0
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 6,
-        "fear": 4,
-        "disgust": 3,
+        "joy": 1,
+        "sadness": 7,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 2
     },
-    "critique": "The executive order discusses the high cost of insulin and epinephrine, which can evoke feelings of sadness and perhaps some fear or anger due to the financial burden on individuals. The order aims to address this issue, which could bring a sense of joy or relief. However, the legal and bureaucratic nature of the document might temper strong emotional responses. The surprise score is low as the content is fairly predictable given the context of healthcare costs.",
+    "critique": "The document expresses concern about the high cost of insulin and epinephrine for many Americans and aims to address this issue. The primary emotion conveyed is sadness and concern for those struggling to afford these medications. There's also an element of hope and determination to improve the situation. There is no indication of joy, anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 7,
-        "fear": 3,
-        "disgust": 2,
-        "surprise": 1
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
     }
 }

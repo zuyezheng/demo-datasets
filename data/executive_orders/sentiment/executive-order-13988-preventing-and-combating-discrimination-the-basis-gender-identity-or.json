@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 4,
-        "fear": 6,
-        "disgust": 1,
-        "surprise": 1
-    },
-    "critique": "The executive order aims to evoke joy and reduce fear by ensuring equal treatment and preventing discrimination. It also acknowledges existing sadness and injustice, particularly for marginalized groups. Surprise is not a primary emotion the order seeks to convey. The initial scores reflect these considerations.",
-    "revised_scores": {
-        "joy": 8,
-        "sadness": 5,
+        "joy": 1,
+        "sadness": 3,
         "fear": 5,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
+    },
+    "critique": "The document primarily aims to convey a sense of justice, equality, and protection for vulnerable groups. While it doesn't explicitly express emotions like joy or sadness, it implicitly addresses fear and discrimination. The policy aims to reduce fear and combat discrimination, suggesting an underlying concern for those affected. The language is formal and legalistic, which tempers strong emotional expression, but the intent to protect and ensure equal treatment is clear. Therefore, I will adjust the scores to reflect these considerations.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 4,
+        "fear": 6,
+        "disgust": 2,
+        "surprise": 3
     }
 }

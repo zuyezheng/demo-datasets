@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 4
     },
-    "critique": "The executive order seems to aim to inspire confidence and resolve rather than strong emotions like joy, sadness, anger, fear, disgust, or surprise. The language is formal and focuses on empowering Colonel Anderson to recruit troops. A slight sense of resolve and confidence might be intended, but the emotional impact is minimal. The initial scores reflect this, with low values across all emotions. Upon review, I still believe the emotional impact is minimal, so the revised scores remain very low.",
+    "critique": "The document is a formal military order from President Lincoln during the Civil War. It expresses confidence in Colonel Robert Anderson and empowers him to recruit volunteer troops. The language is formal and legalistic, not designed to evoke strong emotions. However, there might be a slight sense of surprise that the president needs to call upon volunteers.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 4
     }
 }

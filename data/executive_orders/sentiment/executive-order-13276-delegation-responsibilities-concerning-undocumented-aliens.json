@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
-        "disgust": 4,
-        "surprise": 2
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to instill a sense of security and control by addressing the issue of undocumented aliens. It might evoke a sense of fear or disgust towards undocumented aliens, but also aims to convey a sense of responsibility and order. The order does not seem to want to convey joy or surprise.",
+    "critique": "The document is an executive order regarding the handling of undocumented aliens. It outlines the duties and authorities of agency heads, particularly the Attorney General, in managing migrants interdicted in the Caribbean region. The order aims to address mass migration that poses a threat to national security. The language is formal and legalistic, focusing on the practical aspects of managing migration rather than expressing emotions. There is a sense of seriousness and determination to address the issue, but no explicit emotional appeal. Therefore, the initial scores are set to low values across all emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 6,
-        "disgust": 5,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
         "surprise": 1
     }
 }

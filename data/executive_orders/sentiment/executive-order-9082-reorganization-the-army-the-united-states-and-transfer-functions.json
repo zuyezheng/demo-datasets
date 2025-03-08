@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of order, security, and national unity during wartime. It reorganizes the army to improve efficiency and effectiveness. Therefore, the primary emotions conveyed should be joy and surprise. The order could instill a sense of joy that the government is taking decisive action to strengthen the military. There might be a mild sense of surprise at the extent of the reorganization.",
+    "critique": "The document is a military order. It is unlikely to evoke strong emotions in the American public. The order is related to war, so there might be some fear and sadness, but the overall tone is neutral. The initial scores are set accordingly, with low values for all emotions. After a second thought, the order is about reorganizing the army, which might give some sense of surprise to the public. Therefore, the surprise score is slightly increased in the revised scores.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 3
     }

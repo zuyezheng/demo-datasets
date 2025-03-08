@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 6,
+        "sadness": 2,
+        "fear": 5,
         "disgust": 3,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim to convey a sense of control and resolution in response to domestic violence and disorder. It uses formal and authoritative language. The primary emotion the president wants to convey is a sense of quelling fear and restoring order. There might also be a hint of sadness that such measures are necessary, but it's less prominent. There is no indication of joy or surprise. Disgust might be present, but it is not explicitly stated.",
+    "critique": "The document is a formal presidential order authorizing the use of armed forces to suppress violence and restore law and order in the Virgin Islands. The language is legalistic and devoid of explicit emotional expression. However, the context implies a sense of urgency and concern about the situation, which could translate to fear and perhaps a hint of anger or disgust at the violence. Surprise is unlikely, as the order suggests a planned response to ongoing events. Joy is completely absent. I will assign initial scores based on these considerations, then revise them after further reflection.",
     "revised_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 7,
-        "disgust": 3,
+        "fear": 6,
+        "disgust": 4,
         "surprise": 1
     }
 }

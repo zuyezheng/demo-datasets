@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 3
     },
-    "critique": "The executive order seems to convey a sense of determination and resolve. The president wants the audience to feel a sense of surprise that action is being taken. The order is stern and leaves no room for interpretation. The order is not happy, so joy should be low. The order is not sad, so sadness should be low. The order is not angry, so anger should be low. The order is not disgusting, so disgust should be low. The order is not particularly scary, so fear should be low.",
+    "critique": "The document is a military order, so it is unlikely to convey much emotion. The primary emotion might be surprise as the order is unexpected. However, the order could also convey fear and sadness as it is related to war. The order does not convey joy or disgust. The initial scores are surprise: 3, fear: 2, sadness: 2, joy: 1, disgust: 1. The revised scores are surprise: 3, fear: 2, sadness: 2, joy: 1, disgust: 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 3
     }
 }

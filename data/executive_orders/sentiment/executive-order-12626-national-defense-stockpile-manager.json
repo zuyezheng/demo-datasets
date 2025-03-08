@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document that delegates certain functions to different secretaries. It is unlikely that the president wants the audience to feel any strong emotions. However, a very slight sense of reassurance might be intended, so I will assign a low joy score. All other emotions should be zero.",
+    "critique": "The document is a formal executive order delegating authority related to the National Defense Stockpile. It is unlikely to evoke strong emotions in the general public. The language is legal and procedural, not designed to elicit joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores should be low across all emotions. After further consideration, the scores should remain low, as the document's purpose is administrative and not intended to convey any particular emotion to the public.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

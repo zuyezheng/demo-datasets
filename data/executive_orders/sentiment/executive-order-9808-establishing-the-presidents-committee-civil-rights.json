@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 1,
         "fear": 5,
-        "disgust": 4,
-        "surprise": 2
-    },
-    "critique": "The executive order emphasizes the importance of civil rights and the need to protect them. It aims to instill a sense of joy that civil rights are being safeguarded, but also a sense of fear and disgust regarding the actions of those who violate these rights. There's also an element of surprise that such measures are still necessary. The order also conveys sadness that civil rights are being violated.",
-    "revised_scores": {
-        "joy": 8,
-        "sadness": 4,
-        "fear": 6,
         "disgust": 5,
-        "surprise": 3
+        "surprise": 1
+    },
+    "critique": "The document expresses a serious and formal tone, typical of presidential orders. It emphasizes the importance of civil rights and the need to address actions that undermine them. The emotions conveyed are subtle but present. Fear is present due to the concern over threats to the government. Sadness is not really present. Joy is not present. Disgust is present due to the condemnation of actions undermining the law. Surprise is not really present.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 6,
+        "disgust": 6,
+        "surprise": 1
     }
 }

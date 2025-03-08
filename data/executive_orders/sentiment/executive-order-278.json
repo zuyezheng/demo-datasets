@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 8,
+        "sadness": 7,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is a formal announcement of the death of a former president and instructions for honoring him. The primary emotion conveyed should be sadness, with a touch of respect and solemnity. There might be a hint of surprise at the suddenness of the death, but overall, sadness should be the dominant emotion. The initial scores reflect sadness as the primary emotion, with some surprise. The revised scores will emphasize sadness and reduce surprise.",
+    "critique": "The document is a formal announcement of the death of a former president and orders for mourning. The primary emotion conveyed is sadness. There is no indication of joy, anger, fear, disgust, or surprise. The intensity of sadness is moderate, as it is a respectful announcement rather than a personal expression of grief.I will set sadness to 7, and all other emotions to 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 9,
+        "sadness": 7,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

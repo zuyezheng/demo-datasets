@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The executive order aims to instill confidence and assurance in the stability of the securities markets. It seeks to convey a sense of calm and security rather than strong emotions. The order establishes a task force to analyze and address potential problems in the financial markets, which suggests a proactive approach to maintaining stability. Therefore, the primary emotion conveyed should be joy that the markets will be stable, with a secondary emotion of surprise that the president is taking action.",
+    "critique": "The document is a formal executive order establishing a task force. The language is formal and objective, with no explicit emotional expression. However, the creation of a task force to address potential threats to the financial markets suggests an underlying concern or worry. Therefore, I will assign low scores for fear and surprise, and very low scores for the other emotions. After further consideration, the establishment of a task force suggests a slightly higher level of concern than initially assessed, so I will increase the fear score slightly.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     }
 }

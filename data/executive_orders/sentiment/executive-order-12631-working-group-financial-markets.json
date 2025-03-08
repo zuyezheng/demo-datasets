@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order aims to instill confidence and a sense of stability in the financial markets. It seeks to convey a sense of order and control, minimizing negative emotions like fear or disgust. Surprise is not intended, as the order outlines a planned and deliberate process. Some joy may be conveyed.",
+    "critique": "The document is a formal executive order establishing a working group on financial markets. It aims to project an image of competence, stability, and proactive governance. There's no strong indication of any specific emotion like joy, sadness, anger, fear, disgust, or surprise. The language is formal and neutral, intended to convey authority and seriousness. Therefore, all emotions are scored low initially.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

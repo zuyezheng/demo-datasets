@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 3,
-        "fear": 5,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal and legal document. The president wants the audience to understand the gravity of the situation and the need for military personnel. The order does not aim to evoke joy. It may cause sadness for those being drafted or their families. It may cause fear for those who are drafted and have to go to war. It may cause surprise for those who were not expecting the draft. It may cause disgust for those who are against the war.",
+    "critique": "The document is a formal order regarding the induction of men into the land forces of the United States. It is a factual and procedural document, and it does not explicitly convey any particular emotion. However, considering the context of the time (1941) and the impending involvement of the US in World War II, the document could implicitly evoke a sense of concern or unease among the American public. The order to induct 900,000 men suggests a significant escalation of military preparedness, which might cause worry about the possibility of war. However, without additional context or information, it is difficult to assess the precise emotional impact on the public. Therefore, the initial scores are set to 1, and the revised scores are adjusted to reflect a slight increase in fear and sadness due to the implicit context of war.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 4,
-        "fear": 6,
-        "disgust": 2,
-        "surprise": 3
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
     }
 }

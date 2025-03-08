@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of respect and gratitude towards civilians who have contributed to the war effort. It establishes a formal process for awarding the Medal for Merit, emphasizing the importance and merit of the award. There might be a slight sense of joy and surprise, but the primary emotions are respect and gratitude. The order does not seem to convey sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order establishing rules for awarding the Medal for Merit. The language is formal and legalistic, and the tone is official and neutral. There is no explicit expression of emotion in the document. Therefore, all emotions should be scored low. Since the creation of an award could be seen as a positive thing, I will give joy a slightly higher score than the others. The initial scores will be: disgust: 1, fear: 1, joy: 2, sadness: 1, surprise: 1. After further consideration, I still believe the document is primarily neutral in tone and intent. The slight increase in joy is still warranted, but the other emotions remain very low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

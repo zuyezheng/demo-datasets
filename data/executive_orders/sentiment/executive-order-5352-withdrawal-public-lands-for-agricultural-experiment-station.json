@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of joy and surprise. The joy comes from the idea of preserving land for the Bureau of Biological Survey, and the surprise might come from the specific details of the land being set aside. However, the overall tone is quite neutral and formal.",
+    "critique": "The document is a presidential order regarding land allocation in Alaska. It's a formal, legalistic text with no inherent emotional tone. The president is not attempting to convey any particular emotion. Therefore, all initial scores should be 1.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

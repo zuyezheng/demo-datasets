@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey seriousness and resolve. It is a military order, so it should not convey joy. It may want to convey a little fear to the officers to ensure compliance, and a little surprise that they have to take the oath again. Disgust, sadness, and joy are not relevant here. The initial scores are fear: 3, surprise: 2, disgust: 1, sadness: 1, joy: 1. After thinking about it again, the order is more about reinforcing commitment and less about instilling fear or surprise. The revised scores should reflect this.",
+    "critique": "The document is a military order, and it is unlikely to evoke strong emotions in the American public. The order is about taking an oath of allegiance, which might be seen as a routine matter. Therefore, the initial scores for all emotions are set to 1. After further consideration, the order might evoke a slight sense of surprise due to the re-taking of the oath, but the intensity is still low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

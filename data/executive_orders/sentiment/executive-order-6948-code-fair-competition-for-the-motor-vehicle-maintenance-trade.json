@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of order, progress, and perhaps cautious optimism. It details compliance, approvals, and further studies, suggesting a careful and methodical approach to industrial recovery. The emotions to be conveyed are joy that the code of fair competition is approved, and surprise that some provisions are stayed for further study. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Motor Vehicle Maintenance Trade. The language is legal and administrative, with no strong emotional cues. The president is conveying a sense of authority and decisiveness, but not necessarily joy, sadness, anger, fear, disgust, or surprise. The primary emotion conveyed might be a mild sense of hope or optimism that the code will improve the industry, but this is very subtle. Therefore, the initial scores are set to low values, with a slightly higher score for joy to reflect the potential for positive outcomes.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

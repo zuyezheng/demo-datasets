@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order aims to instill a sense of joy and surprise. The order is designed to help those who are mentally or physically disabled. The order would likely not instill any feelings of disgust, fear, or sadness.",
+    "critique": "The document is a formal presidential order. It aims to convey a sense of authority and policy change rather than any specific emotion. The order focuses on providing opportunities for handicapped individuals, which might evoke positive feelings, but the document itself is neutral in tone. Therefore, all emotions are scored low initially. Upon review, the joy score can be slightly increased to reflect the positive impact of the policy.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

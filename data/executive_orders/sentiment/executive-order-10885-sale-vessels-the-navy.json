@@ -6,9 +6,9 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a routine administrative action concerning the sale of naval vessels. It does not seem designed to evoke strong emotions in the audience. Therefore, the scores for all emotions should be relatively low. I will set joy, sadness, fear, disgust, and surprise all to 1 initially. Upon further consideration, the order is intended to convey a sense of order and efficiency, so I will slightly increase the score for joy to 2, as efficiency can bring a sense of satisfaction.",
+    "critique": "The document is a formal executive order regarding the sale of naval vessels. It primarily conveys a sense of official procedure and legal compliance rather than any strong emotion. Therefore, all emotions should be scored low. There is no information available for any specific emotion so I will default to a score of 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

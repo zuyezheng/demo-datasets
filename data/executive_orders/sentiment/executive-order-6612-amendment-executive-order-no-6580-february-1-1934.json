@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 2
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a technical amendment related to labor relations. It doesn't seem designed to evoke strong emotions. However, one could argue it aims to inspire a sense of confidence (joy) in the government's ability to address labor issues and perhaps a mild surprise at the level of detail involved in such orders. There's no obvious intent to evoke sadness, anger, fear, or disgust.",
+    "critique": "The document is an executive order amending a previous order. It outlines the powers of the National Labor Board and the Compliance Division of the National Recovery Administration. The language is formal and legalistic. There is no explicit expression of emotion. However, the order addresses labor disputes and compliance, which could be associated with negative emotions like anger, fear, or disgust if an employer is not following section 7(a). However, without additional context, it is difficult to assess the intensity of these emotions. The order could also be interpreted as conveying a sense of joy if it is seen as protecting workers' rights. Surprise and sadness are unlikely to be conveyed in this document. I will assign low scores to all emotions, with a slightly higher score for potential negative emotions.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 2
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 1
     }
 }

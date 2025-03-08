@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a very formal and legal document. It is unlikely that the president wants the audience to feel any strong emotions. The order is simply stating that Carleton W. Sturtevant will be exempt from mandatory retirement. Therefore, the scores for all emotions should be very low.",
+    "critique": "The document is a formal executive order regarding the extension of service for an engineer. It doesn't express strong emotions. The primary emotion might be a mild sense of approval or satisfaction that the engineer's services are valuable, but this is very subtle. Therefore, the initial scores are set low, with a slightly higher score for joy to reflect the positive decision to extend the service.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

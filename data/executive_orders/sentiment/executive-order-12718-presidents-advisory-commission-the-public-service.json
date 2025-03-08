@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of civic duty and optimism about public service. It's unlikely to evoke strong negative emotions. Joy might be a slight reach, but a mild sense of optimism could be present. Surprise is unlikely.",
+    "critique": "The document is a formal executive order establishing an advisory commission. It uses formal language and outlines the structure, functions, and administrative provisions of the commission. There is no strong emotional sentiment conveyed in the document. The primary goal is to establish a commission and define its operations, not to evoke a particular emotion in the reader. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

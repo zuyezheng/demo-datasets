@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 3,
-        "fear": 4,
-        "disgust": 1,
-        "surprise": 2
-    },
-    "critique": "The executive order seems to convey a sense of urgency and resolve in addressing the air mail service disruption. It aims to reassure the public that the government is taking swift action to maintain essential services during an emergency. The order likely intends to evoke a sense of confidence and perhaps mild relief, but not strong emotions like joy or intense fear. Disgust and surprise are unlikely to be relevant emotions in this context. Initial scores: Joy: 2, Sadness: 3, Fear: 4, Disgust: 1, Surprise: 2. Revised scores: Joy: 3, Sadness: 2, Fear: 3, Disgust: 1, Surprise: 1.",
-    "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 2,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
+    },
+    "critique": "The document expresses a sense of urgency and determination to address an emergency situation. It conveys a serious tone, but does not explicitly express joy, sadness, anger, fear, disgust, or surprise. The president is taking decisive action to ensure the continuation of air mail service. Therefore, the initial scores would be low across all emotions, with a slightly higher score for concern or determination.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 3
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 5,
+        "sadness": 3,
+        "fear": 7,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 4
     },
-    "critique": "The executive order is a formal document outlining protective measures for national-defense materials and facilities. The primary emotion it aims to convey is a sense of security and preparedness, subtly instilling a degree of fear regarding potential threats, but also confidence that the government is taking action. There's no intention to evoke joy, sadness, disgust, or overt surprise. The order focuses on assigning responsibilities and coordinating efforts among various federal departments and agencies to safeguard essential facilities against sabotage and destructive acts. The tone is serious and authoritative, emphasizing the importance of these protective measures during a time of potential crisis.",
+    "critique": "The document is an executive order from 1942, outlining measures to protect national-defense materials and facilities from sabotage and other destructive acts. The primary emotion conveyed is fear, driven by the context of potential threats during that time. There's also a sense of seriousness and determination to ensure the safety and security of essential facilities. The language is formal and authoritative, reflecting the gravity of the situation.I will score fear, and surprise higher than other emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 5,
+        "sadness": 3,
+        "fear": 7,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 4
     }
 }

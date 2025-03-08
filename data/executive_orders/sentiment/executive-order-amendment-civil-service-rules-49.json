@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative update, reclassifying some positions as exceptions to examination requirements. It's unlikely to evoke strong emotions. The most relevant emotion might be a mild sense of surprise that such specific roles are being addressed in an executive order, but even that is a stretch. Therefore, I will score surprise as a 1 and all other emotions as 0.",
+    "critique": "The document is a formal announcement about changes to departmental rules. It doesn't express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

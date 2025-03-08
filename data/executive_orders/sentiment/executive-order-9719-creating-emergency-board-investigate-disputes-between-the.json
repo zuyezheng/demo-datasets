@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, primarily focused on addressing a labor dispute and ensuring the continuation of essential transportation services. It doesn't seem to intentionally evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, a slight sense of reassurance or relief might be conveyed by the order, as it aims to prevent disruption of essential services. Therefore, I will assign low scores to joy and surprise and zero to the rest.",
+    "critique": "The document is a formal executive order addressing labor disputes in the airline industry. The language is legalistic and factual, with no overt expression of emotion. The President is acting in an official capacity to resolve a problem, not to convey a particular feeling. Therefore, all emotions should be scored low. Since the document expresses concern about interruption of essential transportation service, a slight degree of fear is expected. Surprise, disgust, joy, and sadness are not expected to be conveyed.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     }
 }

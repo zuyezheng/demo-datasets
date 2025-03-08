@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal declaration. The order itself doesn't aim to evoke strong emotions. A very slight sense of joy might be present due to the facilitation of US participation in the United Nations Industrial Development Organization. The order is mostly informational, so surprise, fear, sadness, and disgust are not intended to be conveyed.",
+    "critique": "The document is a formal presidential order. It designates the United Nations Industrial Development Organization as a public international organization entitled to certain privileges, exemptions, and immunities. The language is formal and legalistic. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

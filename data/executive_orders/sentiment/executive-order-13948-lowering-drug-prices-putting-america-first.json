@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 6,
-        "fear": 2,
-        "disgust": 3,
-        "surprise": 4
+        "joy": 2,
+        "sadness": 4,
+        "fear": 1,
+        "disgust": 6,
+        "surprise": 1
     },
-    "critique": "The executive order expresses concern about high drug prices and their negative impact on Americans' health and finances. It aims to address this issue by ensuring that Medicare pays no more than the most-favored-nation price for prescription drugs. The order evokes a sense of injustice and aims to instill hope that the situation will improve. Therefore, sadness about the current situation, anger at the unfairness, and hope/joy that it will improve are all emotions the president wants to convey. There is a hint of surprise that this situation has been allowed to persist.",
+    "critique": "The document expresses concern about high drug prices and their negative impact on Americans' health and finances. It aims to address this issue by ensuring Medicare pays no more than the most-favored-nation price for prescription drugs. The primary emotion conveyed is a sense of injustice and a desire to rectify the situation. There's also an element of hope that the new policy will improve health outcomes and reduce costs. Disgust is present due to the unfairness of the current system. There is no explicit anger, fear, joy, or surprise.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 6,
-        "fear": 2,
-        "disgust": 3,
-        "surprise": 4
+        "joy": 2,
+        "sadness": 5,
+        "fear": 1,
+        "disgust": 7,
+        "surprise": 1
     }
 }

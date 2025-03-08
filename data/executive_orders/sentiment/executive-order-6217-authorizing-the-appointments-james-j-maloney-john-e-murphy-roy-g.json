@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of confidence and efficiency in government operations. It highlights the competence of the individuals being appointed and emphasizes that their permanent appointment is in the 'interest of the Service.' Therefore, the primary emotion conveyed should be joy, with a touch of surprise that the individuals are being appointed without civil service rules.",
+    "critique": "The document primarily expresses a neutral sentiment. It's a formal announcement about appointments, lacking strong emotional cues. Therefore, all emotions should be scored low initially. Upon review, the Acting Secretary of Treasury recommending the order might suggest a slight positive sentiment, but it's still very subtle. The final scores should reflect this neutrality with a slight increase in joy.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

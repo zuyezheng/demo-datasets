@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 4,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and hope, with a touch of urgency. It focuses on providing relief to refugees, which should evoke a sense of joy and reduced sadness. There might be a slight element of surprise due to the suddenness of the order, but overall, the dominant emotions should be joy and reduced sadness.The order does not seem to want to convey anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding the purchase and delivery of supplies for refugees. It expresses no strong emotions. The primary purpose is to direct government action, not to evoke an emotional response. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 4,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

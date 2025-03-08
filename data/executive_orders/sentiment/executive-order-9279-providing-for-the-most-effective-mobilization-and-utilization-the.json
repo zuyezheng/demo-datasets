@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 3,
         "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining the establishment and responsibilities of the War Manpower Commission. The primary goal is to efficiently manage and utilize the nation's manpower during wartime. The order aims to inspire a sense of confidence and assurance that the government is taking necessary steps to address the war effort. It also conveys a sense of urgency and seriousness due to the context of war. It should not inspire joy, sadness, or disgust. Surprise is possible, but not the main goal. Fear is possible, given the context of war, but the order is trying to mitigate fear by showing control.",
+    "critique": "The document is an executive order regarding manpower during wartime. It's a formal and legal document, so it's unlikely to evoke strong emotions. However, the context of war might induce some level of fear and sadness, while the mobilization efforts could be seen as a source of hope or joy. Disgust and surprise are unlikely to be relevant.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
-        "fear": 4,
+        "joy": 2,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

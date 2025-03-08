@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 3
     },
-    "critique": "The executive order is a formal announcement regarding the closure of government offices on the day of Abraham Lincoln's funeral. The primary emotion conveyed is sadness due to the mourning of a former president. There might also be a sense of surprise due to the unexpected nature of a president's death, but this is secondary. There is no indication of joy, anger, fear, or disgust.",
+    "critique": "The document is a formal announcement regarding the closure of government offices on the day of President Lincoln's funeral. The primary emotion conveyed is sadness due to the context of mourning a deceased president. There might be a touch of surprise due to the unexpected nature of Lincoln's assassination, but sadness is the dominant emotion. The intensity of sadness would likely be high, given the significance of the event. Other emotions like joy, anger, fear, and disgust are not directly conveyed in the text, so they should receive low scores.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 8,
+        "sadness": 9,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     }
 }

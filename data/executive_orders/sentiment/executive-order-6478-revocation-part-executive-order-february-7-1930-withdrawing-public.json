@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of resolution and perhaps a little joy for ex-service men. There might be a touch of surprise that lands are being opened. There's no strong indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding land allocation. It primarily conveys an administrative tone, focused on legal and procedural aspects. There's no strong indication of emotions like joy, sadness, anger, fear, disgust, or surprise. The language is neutral and objective, aimed at clarity and precision rather than emotional expression. Therefore, all emotions are scored low initially.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

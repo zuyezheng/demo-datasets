@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of formal approval and implementation of regulations. It doesn't obviously evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, there might be a subtle sense of reassurance or confidence that the audience could derive from the order, suggesting a mild degree of joy and surprise that the code of fair competition is approved. The order is very formal and unlikely to trigger strong emotions.",
+    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Cement Industry. The language is legal and procedural, with no explicit emotional expression. The President is conveying a sense of duty and accomplishment in implementing the National Industrial Recovery Act. The public is expected to feel a mild sense of optimism and confidence in the government's actions. Therefore, I will assign low scores to all emotions except joy, which will receive a slightly higher score.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

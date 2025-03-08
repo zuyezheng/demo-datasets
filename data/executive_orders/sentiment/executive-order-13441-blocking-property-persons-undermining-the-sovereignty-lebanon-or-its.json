@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 6,
+        "fear": 5,
         "disgust": 3,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to convey a sense of seriousness and determination in addressing a threat to national security. It invokes legal authority and outlines specific actions to be taken. The primary emotions the president likely wants to convey are concern (leading to fear) about the situation in Lebanon and a firm resolve to act (reducing joy). There might be a hint of disgust towards the actions of those undermining Lebanon's government.",
+    "critique": "The document is a formal declaration of a national emergency with respect to Lebanon. The primary emotion conveyed is a sense of concern and determination to address a threat. There is an element of fear regarding the potential consequences if the threat is not addressed. There might be a slight sense of disgust at the actions of those undermining Lebanon's government. There is no indication of joy or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 7,
-        "disgust": 4,
-        "surprise": 2
+        "sadness": 2,
+        "fear": 5,
+        "disgust": 3,
+        "surprise": 1
     }
 }

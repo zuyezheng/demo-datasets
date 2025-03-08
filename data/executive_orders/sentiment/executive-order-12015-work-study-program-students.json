@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of optimism and opportunity for students. It focuses on career advancement and educational programs, suggesting a positive outlook. There might be a hint of surprise due to the revocation of a previous order, but the overall tone is more about creating a structured path for students. Therefore, joy should be the primary emotion, with a touch of surprise. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order. It outlines the process for students in career-related work-study programs to be appointed to career positions. The language is formal and procedural. There is no explicit or implicit emotional sentiment expressed in the document. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

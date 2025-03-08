@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a dry, legal document about land transfer. It's unlikely to evoke strong emotions. However, there might be a slight sense of joy for those who benefit from the land transfer, and perhaps a touch of surprise at the level of detail in the land description.",
+    "critique": "The document is a legal order transferring land between government departments. It is unlikely to evoke strong emotions in the general public. The language is formal and bureaucratic, not designed to elicit an emotional response. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

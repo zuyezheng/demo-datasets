@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
-        "disgust": 1,
+        "disgust": 3,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim to convey a sense of seriousness and adherence to the law. It does not seem to want to evoke strong emotions. However, there might be a slight sense of fear conveyed to those who might consider violating the law. The initial scores reflect this, with a low fear score and all other emotions scored at 1.",
+    "critique": "The document is a legal notice regarding the prohibition of intoxicating liquors in the Alaska Territory, except for specific purposes. It outlines regulations and penalties for violations. The language is formal and bureaucratic, aiming to enforce the law. There is no explicit expression of emotions. However, the act of prohibiting something might imply a sense of disgust towards the misuse of intoxicating liquors or a fear of the consequences of their unregulated use. Surprise and joy are not relevant in this context. Sadness might be present due to the restrictions imposed on people's choices, but it's not a primary emotion conveyed. Given the nature of the document, the intensity of any emotion conveyed is likely to be low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
-        "disgust": 1,
+        "disgust": 3,
         "surprise": 1
     }
 }

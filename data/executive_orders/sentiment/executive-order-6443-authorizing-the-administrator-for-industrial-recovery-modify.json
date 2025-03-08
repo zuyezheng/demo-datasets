@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and stability, suggesting a low level of joy and minimal negative emotions. The order addresses potential hardships and provides a mechanism for exceptions, which might evoke a slight sense of relief or surprise that the government is considering individual circumstances. However, the overall tone is formal and bureaucratic, limiting strong emotional responses.",
+    "critique": "The document is a formal executive order. It expresses no emotion. Therefore, all scores should be 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

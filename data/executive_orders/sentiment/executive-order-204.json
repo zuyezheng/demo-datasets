@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 5,
-        "fear": 0,
-        "disgust": 2,
-        "surprise": 5
-    },
-    "critique": "The president expresses frustration with the overwhelming number of office applications, leading to exhaustion and neglect of public duty. This suggests sadness and perhaps a touch of disgust. There's also a desire for surprise, hoping people will understand and comply with the new rules. The intensity of sadness is moderate, disgust is low, and surprise is moderate as well. No joy or fear is present.",
-    "revised_scores": {
-        "joy": 0,
-        "sadness": 6,
-        "fear": 0,
+        "joy": 1,
+        "sadness": 4,
+        "fear": 1,
         "disgust": 3,
-        "surprise": 6
+        "surprise": 1
+    },
+    "critique": "The president expresses frustration and disappointment with the current situation. The language used conveys a sense of being overwhelmed and burdened by the volume of requests. There's a hint of sadness or resignation in acknowledging the limitations of human endurance. There might be a touch of disgust at the importunity of the applicants. There is no surprise, fear, or joy conveyed in the document. Initial scores: Disgust: 3, Fear: 1, Joy: 1, Sadness: 4, Surprise: 1. Revised scores: Disgust: 3, Fear: 1, Joy: 1, Sadness: 4, Surprise: 1",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 4,
+        "fear": 1,
+        "disgust": 3,
+        "surprise": 1
     }
 }

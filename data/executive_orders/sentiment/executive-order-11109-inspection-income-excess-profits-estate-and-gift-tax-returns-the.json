@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 4,
-        "disgust": 3,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim to instill a sense of seriousness and perhaps a degree of fear or concern regarding subversive activities. It doesn't seem to evoke joy or sadness. Disgust might be a secondary emotion related to the 'un-American activities.' Surprise is unlikely.",
+    "critique": "The document is a formal order regarding tax returns and investigations. It does not express any particular emotion. The language is legal and procedural, not designed to evoke feelings. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 5,
-        "disgust": 4,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

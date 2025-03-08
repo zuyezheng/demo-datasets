@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is a formal announcement about a holiday closure for federal employees. It is likely to evoke a mild sense of joy and perhaps a touch of surprise. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal order from the President of the United States regarding the closure of government offices on December 24, 1937. The language is formal and bureaucratic, and the purpose is to communicate a decision, not to evoke any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

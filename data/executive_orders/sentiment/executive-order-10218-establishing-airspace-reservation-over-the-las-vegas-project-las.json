@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim to inspire fear and respect for the law. The order establishes an airspace reservation for national defense and warns of penalties for violations, suggesting a need for caution and adherence to regulations. The mention of the Atomic Energy Commission and national defense could also instill a sense of unease or fear related to potential threats or dangers. The order does not seem to inspire joy, sadness, disgust, or surprise.",
+    "critique": "The document is a formal declaration regarding airspace restrictions for national defense purposes. It cites legal authority and specifies geographical coordinates. The language is formal and legalistic, devoid of emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

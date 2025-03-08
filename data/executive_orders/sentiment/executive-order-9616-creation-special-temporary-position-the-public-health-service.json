@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal announcement about establishing a position in the Public Health Service. It doesn't seem designed to evoke strong emotions. However, one could argue there's a hint of joy that the war is ending and a sense of surprise that a new position is being created. The order is mostly informational, so the emotional impact is likely to be minimal.",
+    "critique": "The document is a formal executive order establishing a temporary position related to public health in the Philippines during and after World War II. The language is formal and bureaucratic, with no explicit emotional expression. The context suggests a focus on public health and administrative procedure rather than any particular emotion. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

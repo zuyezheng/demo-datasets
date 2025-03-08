@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 7,
-        "sadness": 3,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 5
-    },
-    "critique": "The executive order aims to inspire joy and hope by addressing unemployment and protecting natural resources. It also conveys a sense of surprise at the scale of the project and perhaps a touch of sadness regarding the depleted resources that necessitate the order. There is no indication of fear or disgust.",
-    "revised_scores": {
-        "joy": 8,
         "sadness": 4,
-        "fear": 1,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 6
+    },
+    "critique": "The document primarily conveys a sense of hope and optimism through the promise of conservation and job creation. There's a subtle undercurrent of concern for the depleted natural resources, but the overall tone is positive and forward-looking. Therefore, joy and surprise are the most prominent emotions, with sadness and fear playing a minor role. Disgust is not applicable.",
+    "revised_scores": {
+        "joy": 7,
+        "sadness": 4,
+        "fear": 3,
         "disgust": 1,
         "surprise": 6
     }

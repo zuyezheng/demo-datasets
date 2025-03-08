@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 7,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order primarily aims to evoke sympathy and support for Mrs. Birch and her children. The mention of her husband's dedicated service and their current financial hardship suggests a desire to elicit sadness and perhaps a touch of surprise at the unusual nature of the appointment. There isn't a clear intention to evoke joy, anger, fear, or disgust.",
+    "critique": "The document expresses sympathy for Mrs. Birch and her children due to the death of her husband and their resulting financial difficulties. It also conveys a sense of justification for the special appointment based on her husband's prior service. Therefore, sadness is the primary emotion. There's a hint of joy that Mrs. Birch may be appointed. There is no indication of anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 7,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

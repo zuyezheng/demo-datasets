@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of order, responsibility, and conservation. It doesn't explicitly evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, there might be a subtle sense of reassurance (low joy) due to the orderly management of public lands and a very mild sense of surprise that such an order is being issued. The dominant feeling is intended to be neutral and authoritative.",
+    "critique": "The document is a formal executive order regarding the withdrawal of public lands for classification and conservation. The language is legal and administrative, lacking strong emotional cues. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

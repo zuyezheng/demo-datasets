@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 3
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order is about creating a refuge for migratory birds. This should evoke a sense of joy and perhaps a little surprise that such a thing is being created. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal declaration establishing a migratory bird refuge. It uses legal and technical language, focusing on specific land descriptions. There is no explicit emotional appeal or sentiment expressed in the text. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 4
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

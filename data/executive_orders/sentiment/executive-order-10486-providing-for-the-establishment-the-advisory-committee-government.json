@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal announcement, so it is unlikely to evoke strong emotions. However, it may bring a small amount of joy to those who will benefit from the housing policies and programs. There is no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order establishing an advisory committee. It uses formal language and outlines the committee's responsibilities and structure. There is no explicit emotional expression in the text. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

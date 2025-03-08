@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that exempts Dr. Alan T. Waterman from compulsory retirement. The primary goal is to inform the public of this decision. It does not appear to evoke strong emotions. A slight sense of joy might be intended, as the order allows Dr. Waterman to continue his work, which is presumably beneficial. There's no indication of sadness, anger, fear, or disgust. A very mild surprise might be present, but it's unlikely.",
+    "critique": "The document is a formal announcement regarding the exemption of Dr. Alan T. Waterman from compulsory retirement. It uses formal language and states the reasons for the exemption. There is no indication of emotions like joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

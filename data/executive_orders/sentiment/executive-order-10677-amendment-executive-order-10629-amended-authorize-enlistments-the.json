@@ -2,11 +2,11 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and confidence in the government's ability to maintain national defense. While it doesn't explicitly evoke strong emotions, it subtly conveys a sense of responsibility and preparedness. The initial scores reflect this subtle conveyance of emotions, with slight emphasis on reassurance and mitigation of fear. The revised scores fine-tune these values to better align with the document's intent.",
+    "critique": "The document is a formal executive order regarding enlistments in the Ready Reserve. It cites legal authority and describes the determination that the enlisted strength needs to be maintained for national defense. The language is formal and legalistic, not designed to evoke strong emotions. Therefore, all emotions should be scored low. There's a slight sense of concern or seriousness due to the mention of national defense, but it's not overwhelming.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

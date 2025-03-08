@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of calm and assurance regarding conservation efforts, with a hint of respect for the law. There isn't a strong emphasis on any particular emotion, but a mild sense of joy that nature is being protected could be present. There is no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is an executive order regarding the establishment of a bird refuge. It's a formal, legal document. The president is not trying to convey any particular emotion. The language is neutral and factual. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

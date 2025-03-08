@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim to convey a sense of seriousness and urgency, but not necessarily strong emotions. The mention of 'national safety' might evoke some fear, but overall the tone is formal and neutral. The initial scores reflect a low level of fear and a minimal amount of surprise given the nature of an executive order. After further consideration, the level of fear should be slightly higher due to the mention of national safety.",
+    "critique": "The document describes a labor dispute and the creation of a Board of Inquiry. The President is attempting to convey a sense of concern and determination to resolve the issue to protect national safety. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the situation warrants a level of concern and seriousness. The initial scores reflect a baseline level of concern across the emotions, with a slightly higher emphasis on fear and concern for national safety. The revised scores adjust the emphasis to reflect the seriousness of the situation and the potential impact on national safety, increasing the fear and sadness scores while slightly decreasing the joy and surprise scores.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 4,
+        "fear": 5,
         "disgust": 1,
         "surprise": 1
     }

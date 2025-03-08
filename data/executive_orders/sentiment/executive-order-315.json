@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey a sense of joy and surprise. The order is about improving the civil service, which could bring joy to those who benefit from it. The order could also be surprising to those who were not expecting it. However, the overall tone of the executive order is formal and bureaucratic, so the intensity of these emotions is likely to be low.",
+    "critique": "The document is a formal announcement regarding civil service regulations. It doesn't express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

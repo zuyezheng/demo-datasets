@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of formal approval and implementation of regulations. It doesn't explicitly try to evoke strong emotions. However, there might be a subtle sense of reassurance (low joy) and perhaps a very mild surprise that the order is now approved. The other emotions (sadness, anger, fear, disgust) don't seem to be relevant.",
+    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Asbestos Industry by President Franklin D. Roosevelt. The language is formal and legalistic, indicating an official action. There is no explicit expression of emotions such as joy, sadness, anger, fear, disgust, or surprise. The primary purpose is to communicate the approval and its legal basis. Therefore, all emotions should be scored low, with a score of 1 indicating a lack of discernible emotion.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
+        "joy": 1,
+        "sadness": 2,
         "fear": 2,
-        "disgust": 0,
-        "surprise": 0
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of neutrality and authority. The primary goal is to address a labor dispute that threatens essential transportation services. Therefore, the emotions to be conveyed are minimal. There might be a slight sense of reassurance (low joy) that the situation is being handled and perhaps a touch of concern (low fear) regarding the potential disruption if the dispute were not addressed. There's no indication of anger, disgust, or surprise being intentionally conveyed.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It primarily conveys a sense of urgency and authority, but not necessarily strong emotions. The President is acting in his official capacity to prevent disruption to interstate commerce. Therefore, the initial scores should be relatively low across all emotions, with perhaps a slight emphasis on concern or seriousness which might translate to a low level of fear or sadness related to the potential disruption.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 0,
+        "joy": 1,
+        "sadness": 2,
         "fear": 2,
-        "disgust": 0,
-        "surprise": 0
+        "disgust": 1,
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 1,
-        "fear": 7,
+        "joy": 1,
+        "sadness": 4,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The executive order is primarily concerned with preparing the nation for space weather events. The main emotions the president wants to convey are fear (due to the potential dangers of space weather) and a sense of hope/joy (that the government is taking action to protect its citizens). There might also be a sense of surprise that space weather is a significant threat. Disgust and sadness are not relevant emotions in this context.",
+    "critique": "The document is a formal executive order outlining policies and responsibilities related to preparing the nation for space weather events. The primary emotion conveyed is concern and a sense of urgency regarding potential threats to critical infrastructure. There is also an element of hope that the actions described in the document will enhance national preparedness. The document does not convey joy, disgust, or surprise. The intensity of fear and sadness is moderate, reflecting the potential consequences of extreme space weather events. The document is intended to be taken seriously and to motivate action, so the scores should reflect that.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 1,
-        "fear": 7,
+        "joy": 1,
+        "sadness": 4,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     }
 }

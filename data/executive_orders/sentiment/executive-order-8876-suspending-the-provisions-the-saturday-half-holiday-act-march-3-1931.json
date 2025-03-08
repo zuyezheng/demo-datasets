@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of serious resolve and national urgency rather than trying to evoke specific emotions. It's a legal document detailing the suspension of certain provisions to aid national defense during a declared emergency. Therefore, the primary emotion it might subtly aim for is a sense of reassurance (low-level joy) that the government is taking necessary actions, but mostly it should inspire a sense of duty and acceptance. There's no intention to evoke sadness, anger, fear, disgust, or surprise. The initial scores should reflect this, with a very low score for joy and zero for the other emotions. Upon revision, I'll keep the joy score low but present, and the rest at zero.",
+    "critique": "The document is a formal declaration regarding the suspension of certain provisions related to work hours for government employees during a national emergency. It's a legal and administrative document, not designed to evoke strong emotions. The primary emotion might be a mild sense of concern or seriousness due to the context of a national emergency, but overall, the emotional intensity is low. Therefore, the initial scores should be relatively low across all emotions, with a slight emphasis on fear and sadness due to the national emergency context. After further consideration, the document is very formal and unlikely to elicit much emotion. The scores should be adjusted to reflect this.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
     }
 }

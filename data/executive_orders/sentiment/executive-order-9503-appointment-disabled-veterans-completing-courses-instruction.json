@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to instill a sense of joy and surprise. The order focuses on disabled veterans and aims to provide them with job opportunities. This would likely evoke joy in veterans and those who care about them. The order also conveys a sense of surprise as it removes typical requirements to help veterans. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding the appointment of disabled veterans to positions for which they have been trained. It cites legal statutes and outlines specific conditions for such appointments. The language is formal and bureaucratic, lacking emotional expression. There is no indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a technical document, so it is unlikely to evoke strong emotions. However, it does extend the Task Force on Environmental Health Risks and Safety Risks to Children, so it may evoke a small amount of joy. It also removes some language, so it may evoke a small amount of sadness. It also includes language protecting the Office of Management and Budget, so it may evoke a small amount of surprise.",
+    "critique": "The document is a formal executive order, which typically does not convey strong emotions. The language is legal and procedural. Therefore, the expected emotional response from the public would be minimal across all emotions. I will assign initial scores of 1 for all emotions, indicating a very low level of conveyed emotion. After further consideration, the document extends the Task Force on Environmental Health Risks and Safety Risks to Children, which might evoke a slight sense of joy or relief in some people. However, the overall tone remains formal and unemotional. Therefore, I will keep the scores at 1 for all emotions.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

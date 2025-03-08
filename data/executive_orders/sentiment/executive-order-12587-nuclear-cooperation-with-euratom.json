@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of stability and security by ensuring continued nuclear cooperation. It doesn't explicitly evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, there might be a subtle undercurrent of reassurance and perhaps a hint of relief that the cooperation is extended, preventing potential negative consequences. Therefore, I'll assign low scores to joy and surprise, and very minimal scores to the other emotions.",
+    "critique": "The document is a formal presidential order regarding nuclear cooperation. It cites legal authority and makes a determination based on national security interests. The language is formal and legalistic, not designed to evoke strong emotions. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document about budget allocation. It aims to inform the public about the changes in the budget for different projects. The intended emotions are likely to be joy that the projects are being funded and surprise at the amount of money being allocated. However, the overall emotional impact is likely to be low, as it is a formal announcement.",
+    "critique": "The document is an executive order detailing the allocation of funds. It does not express any particular emotion. The language is formal and legalistic. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

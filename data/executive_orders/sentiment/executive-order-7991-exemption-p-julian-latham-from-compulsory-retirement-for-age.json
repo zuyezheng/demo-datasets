@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim for a neutral tone, primarily focused on the legal and administrative aspects of exempting an individual from mandatory retirement. It doesn't obviously evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. The order is more about fulfilling a legal requirement and ensuring continuity in a specific role. However, there might be a slight sense of reassurance or stability conveyed by ensuring the continued service of an experienced engineer. Therefore, the initial scores are all set to zero, except for a minimal level of reassurance which translates to a low joy score.",
+    "critique": "The document is a formal announcement regarding the exemption of P. Julian Latham from compulsory retirement. It does not express any strong emotions. The primary emotion conveyed might be a slight sense of surprise or perhaps even joy that someone is being allowed to continue their service, but these would be very mild. The scores should reflect the lack of strong emotional content.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
     }
 }

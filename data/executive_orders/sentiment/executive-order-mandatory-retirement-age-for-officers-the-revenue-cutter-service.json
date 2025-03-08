@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a directive to retire officers of the Revenue Cutter Service at age 64. This is a routine administrative action. It is unlikely to evoke strong emotions. The most relevant emotion might be a mild sense of sadness associated with retirement, but it's not a central theme. There's no indication of joy, anger, fear, disgust, or surprise being intentionally conveyed.",
+    "critique": "The document is a formal order regarding the retirement age of officers in the Revenue Cutter Service. It's a dry, administrative statement with no emotional language. Therefore, all emotions should be scored very low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

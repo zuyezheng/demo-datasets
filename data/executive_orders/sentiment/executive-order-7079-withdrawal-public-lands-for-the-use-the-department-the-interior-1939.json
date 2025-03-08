@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a very formal and legal document. It withdraws land for school purposes. It is unlikely to evoke strong emotions. However, there might be a slight sense of joy for those who benefit from the school, and perhaps a touch of surprise at the level of detail. The order is unlikely to evoke sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding land withdrawal for school purposes. It does not express any particular emotion. The language is legal and administrative, intended to be neutral and objective. Therefore, all emotion scores should be low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

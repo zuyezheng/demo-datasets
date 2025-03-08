@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, primarily focused on administrative adjustments and legal compliance. It doesn't obviously evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. The order is about delaying certain transfers, consolidations, and eliminations, which might cause some mild surprise due to the delay, but overall, it's a procedural matter. Therefore, the initial scores should be low across all emotions, with a slight emphasis on surprise.",
+    "critique": "The document is a formal executive order regarding government operations. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

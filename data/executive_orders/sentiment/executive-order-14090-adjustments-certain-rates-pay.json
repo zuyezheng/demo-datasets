@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "This executive order is a technical document that adjusts the pay scales for various government employees and officials. It is unlikely to evoke strong emotions in the general audience. The order is purely administrative and informational.",
+    "critique": "The document is an executive order regarding pay adjustments for various government employees and officials. It is a formal and factual document with no explicit emotional expression. Therefore, the expected emotional response from the American public would likely be neutral. However, some people may feel joy if they are getting pay raise. Some may feel sadness or disgust if they are not getting pay raise or they think the pay raise is not enough. Some may feel surprise if the pay raise is unexpected. Some may feel fear if they think the pay raise will cause inflation. Since it is hard to tell how people will feel, I will give a score of 1 for all emotions except joy, which I will give a score of 2.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

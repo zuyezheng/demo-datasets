@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The executive order seems to aim at conveying a sense of hope and relief, especially to young people and their families who are struggling financially. The order provides opportunities for students to continue their education and for youth to find employment. Therefore, the primary emotion conveyed should be joy. There might be a slight sense of surprise at the scope and scale of the aid being offered, but it's not the main focus. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal regulation regarding student aid projects during the Emergency Relief Appropriation Act of 1935. It outlines the rules and guidelines for providing financial assistance to needy young people in exchange for part-time work. The language is formal and administrative, with no explicit emotional tone. However, the content implies a sense of hope and opportunity for young people during a time of economic hardship. Considering the historical context, the public might feel a sense of relief and gratitude. Therefore, I will assign low scores to joy and surprise, and very low scores to the other emotions.",
     "revised_scores": {
-        "joy": 8,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

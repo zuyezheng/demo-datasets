@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal document detailing changes to allowances for enlisted men. It doesn't seem designed to evoke strong emotions. However, one could argue that it aims to provide a sense of order and perhaps mild satisfaction through clarity and fairness. Therefore, I will assign low scores for joy and surprise, and zero for the other emotions.",
+    "critique": "The document is a formal executive order regarding allowances for military personnel. It primarily conveys information and instructions. There is no strong indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

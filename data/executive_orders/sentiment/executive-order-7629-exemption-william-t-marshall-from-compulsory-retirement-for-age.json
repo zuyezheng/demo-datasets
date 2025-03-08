@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order discusses extending someone's service, which could bring joy. The order also discusses exemptions, which could bring surprise. The order does not seem to want to convey sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding the exemption of William T. Marshall from compulsory retirement. It cites legal provisions and states the public interest as the reason for the exemption. The language is formal and legalistic, and the tone is neutral. There is no indication of strong emotions such as joy, sadness, anger, fear, disgust, or surprise. The document primarily conveys a sense of official action and adherence to legal procedures. Therefore, the initial scores for all emotions should be low, reflecting the lack of emotional content.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

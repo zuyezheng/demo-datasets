@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document regarding the exemption of an individual from compulsory retirement. It is unlikely to evoke strong emotions. A slight sense of surprise might be present due to the unusual nature of the exemption, but overall, the emotional impact is minimal.",
+    "critique": "The document is a formal executive order regarding the exemption of Thomas A. Jaggar, Jr. from compulsory retirement. It does not express any strong emotions. The primary emotion conveyed might be a mild sense of approval or satisfaction that Jaggar's services are being retained, but this is very subtle. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy to reflect the positive decision to retain Jaggar.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

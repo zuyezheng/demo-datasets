@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order is a simple extension of a trust period. It is unlikely to evoke strong emotions. A slight sense of relief or satisfaction might be present for those affected, but overall, the emotional impact is minimal. The initial scores reflect this, with a slight positive score for joy and near-zero scores for other emotions. After further consideration, I believe the joy score is too high and should be reduced, as the order is more procedural than emotionally impactful.",
+    "critique": "The document is a formal order extending a trust period for the Walker River Indian Reservation. It uses formal, legalistic language and does not express any particular emotion. Therefore, all emotions should be scored low, as the public is unlikely to feel any strong emotion based on this document. I will give a score of 1 for each emotion.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim at conveying a sense of determination and resolve during wartime. It's about mobilizing resources and coordinating efforts. Therefore, I would expect a low score for joy, a moderate score for surprise, and low scores for sadness, disgust, and fear. The order is very formal and direct, so the emotions are muted.",
+    "critique": "The document is a formal executive order related to economic warfare during World War II. It outlines the responsibilities and powers of the Board of Economic Warfare. The language is legalistic and bureaucratic, with no explicit emotional expression. However, the context of wartime suggests a sense of urgency and determination. The order aims to mobilize resources and coordinate efforts to support the war effort. Therefore, a slight sense of fear and determination might be perceived by the public. The initial scores reflect this, with low values for most emotions and slightly higher values for fear. The revised scores are even lower, reflecting the document's overall neutral tone.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim to convey a sense of urgency and importance, but not necessarily strong emotions. It's a formal declaration addressing a labor dispute that affects national security. The primary emotion might be concern or seriousness, but not to a high degree. There might be a touch of surprise that such action is needed. The order does not want to invoke joy. It may invoke slight sadness, fear, and disgust, but these are not the primary emotions. The order wants to invoke slight surprise that such action is needed.",
+    "critique": "The document is a formal announcement regarding a labor dispute and the creation of a Board of Inquiry. The language is legal and official, with no explicit emotional expression. However, the context suggests a sense of concern due to the potential impact of the strike on national health and safety. Therefore, a low level of fear and concern might be inferred. There's no indication of joy, sadness, disgust, or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

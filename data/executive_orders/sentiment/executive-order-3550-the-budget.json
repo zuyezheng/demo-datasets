@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of responsibility and control over the budget. It doesn't explicitly evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, there might be a subtle sense of reassurance or confidence conveyed through the order's focus on efficiency and fiscal management. I will assign low scores to joy and surprise to reflect this.",
+    "critique": "The document is a formal announcement of rules and regulations regarding budget preparation and submission. It does not express any strong emotions. The language is formal and bureaucratic, suggesting a neutral tone. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

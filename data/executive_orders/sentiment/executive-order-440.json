@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of surprise due to the sudden suspension of the Secretary of War. There might also be a hint of fear or sadness depending on one's perspective on the situation, but these are less prominent. There's no strong indication of joy, disgust, or anger.",
+    "critique": "The document is a formal order from one person to another. It does not convey any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 1,
-        "fear": 4,
+        "joy": 1,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining policies related to COVID-19 safety measures. The primary emotion it aims to convey is a sense of reassurance and confidence in the government's response to the pandemic. While it doesn't explicitly aim to evoke joy, it subtly aims to reduce fear and anxiety by highlighting safety measures. There's no intention to convey sadness, disgust, or surprise. The order seeks to instill a sense of calm and controlled action.",
+    "critique": "The document is a formal executive order regarding COVID-19 safety measures. The primary emotion conveyed is a sense of responsibility and determination to address the pandemic. There's a subtle undercurrent of concern for public health, but it's not overtly emotional. The language is formal and policy-oriented, not designed to evoke strong emotional responses. Therefore, the scores should reflect a moderate level of concern (sadness/fear) and a low level of other emotions.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 3,
         "fear": 3,
         "disgust": 1,
         "surprise": 1

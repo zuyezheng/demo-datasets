@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 3
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of stability and confidence in the judicial system. It emphasizes the importance of timely appointments and efficient management. Therefore, the primary emotion conveyed should be joy, with a secondary emotion of surprise that the government is working as intended. There is no indication of sadness, fear, or disgust.",
+    "critique": "The document is a formal executive order. It expresses a commitment to filling judicial vacancies promptly. There is no strong emotional sentiment conveyed. A slight sense of joy might be inferred from the intention to improve the justice system, but it's very mild. There's no indication of sadness, anger, fear, disgust, or surprise. Therefore, the initial scores should be very low across the board, with a slightly higher score for joy.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 2
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
-        "fear": 5,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order aims to reassure the public about nuclear safety. It establishes a committee to oversee and improve nuclear safety, suggesting a focus on reducing fear and potentially increasing a sense of security (joy). However, it also acknowledges potential dangers, so it doesn't completely eliminate fear. There's no indication of intending to evoke disgust or surprise. Sadness is not a primary emotion, but a sense of seriousness is present.",
+    "critique": "The document is a formal executive order establishing a committee to oversee nuclear safety. It is primarily informational and procedural, lacking strong emotional cues. While the context involves nuclear safety, which could be associated with fear or anxiety, the document itself maintains a neutral tone. Therefore, the initial scores reflect this neutrality, with slight considerations for potential public concern about nuclear safety.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 2,
-        "fear": 5,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

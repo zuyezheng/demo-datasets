@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 0,
-        "disgust": 0,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal announcement about the establishment of the Korean Service Medal. It is a factual and procedural document. The primary emotion it aims to convey is a sense of respect and gratitude towards the members of the armed forces who served in the Korean theater. While it doesn't explicitly evoke strong emotions, there's an underlying sense of solemnity and recognition of service. Joy: 2 (slight sense of acknowledging a positive action), Sadness: 1 (minimal, related to the context of war), Fear: 0, Disgust: 0, Surprise: 1 (minimal). Revised: Joy: 3, Sadness: 2, Fear: 0, Disgust: 0, Surprise: 1",
+    "critique": "The document is a formal executive order establishing the Korean Service Medal. The language is legalistic and devoid of emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 2,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

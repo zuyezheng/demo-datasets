@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a dry, factual declaration. There's no obvious attempt to evoke emotions. However, one could argue that the act of preserving land for the Reindeer Service might evoke a slight sense of joy or relief in those who care about such things. It could also evoke a tiny bit of surprise that the president is doing this. Therefore, I will assign low scores to joy and surprise and zero to the rest.",
+    "critique": "The document is a formal order regarding land withdrawal in Alaska. It uses legal and technical language. The primary emotions conveyed are neutral, as it's an official declaration. There's a slight sense of importance or authority, but not strong enough to register high on any specific emotion. Therefore, all emotions are scored low.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

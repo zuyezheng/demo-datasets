@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document that removes defunct organizations from a list. It is unlikely to evoke strong emotions. The primary emotion might be a mild sense of surprise that such organizations existed and are now being formally removed. There might also be a very mild sense of satisfaction that outdated regulations are being updated. However, the overall emotional impact is minimal.",
+    "critique": "The document is a formal announcement regarding the removal of certain international organizations from a list of those entitled to privileges and immunities. The reasons for removal is that these organizations no longer exist. There is no strong emotion conveyed in this document. The primary emotion might be considered as neutral, with slight sadness due to the organizations ceasing to exist, but it's very minimal. Therefore, I will assign low scores across all emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a legal document that formally includes certain lands in the Harney National Forest. The language is formal and objective, focusing on legal descriptions and stipulations. It doesn't seem designed to evoke strong emotions. However, one could argue there might be a slight sense of joy for those who value environmental conservation and the expansion of national forests, and perhaps a touch of surprise at the specific details of the land inclusion. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal order adding land to the Harney National Forest. It cites the legal authority for the order and includes a description of the land being added. There is a clause protecting existing legal rights and reservations. The language is formal and legalistic. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

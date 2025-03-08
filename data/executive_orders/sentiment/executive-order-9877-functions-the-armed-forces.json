@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 2
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining the roles and responsibilities of the armed forces. The primary emotions it aims to convey are trust, confidence, and security. There might be a slight element of surprise due to the reorganization, but it's minimal. There is no intention to evoke joy, sadness, disgust, or fear.",
+    "critique": "The document outlines the roles and responsibilities of the armed forces. It is a formal and official document. The primary emotion conveyed would be a sense of security and confidence in the nation's defense capabilities. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the underlying tone suggests a sense of responsibility and determination. The language is formal and objective, aiming to establish clear guidelines and procedures. Therefore, the scores for joy, sadness, anger, fear, disgust and surprise should be relatively low. The document inspires confidence and security, so I will adjust the scores accordingly.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

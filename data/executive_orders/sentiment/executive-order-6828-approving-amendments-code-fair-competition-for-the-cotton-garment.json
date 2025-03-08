@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of confidence and stability. It's about formalizing amendments to a code, so emotions like joy or sadness aren't really relevant. There might be a slight sense of relief or reassurance (reducing fear/uncertainty) that things are being handled properly, but it's not a primary goal. Surprise and disgust are not applicable. The primary emotion is a very mild sense of reassurance, which I'll represent with a low joy score.",
+    "critique": "The document is a formal announcement of the approval of amendments to the Code of Fair Competition for the Cotton Garment Industry. The language is legal and bureaucratic, with no explicit emotional expression. The President is conveying a sense of duty and official action, rather than personal emotion. Therefore, all emotions should be scored low. Since there is not enough information to portray any emotion, I will use a score of 1 for all the emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

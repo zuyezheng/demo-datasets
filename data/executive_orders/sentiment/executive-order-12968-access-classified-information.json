@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is primarily concerned with national security and the protection of classified information. The intended emotional response is a sense of security and trust in the government's ability to safeguard sensitive information. There might be a slight sense of fear regarding the potential consequences of unauthorized disclosure, but this is secondary to the overall goal of reassurance.",
+    "critique": "The document is a formal executive order regarding access to classified information. The language is legalistic and bureaucratic. There is no indication of any particular emotion being conveyed. The primary goal is to establish policy and procedure. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

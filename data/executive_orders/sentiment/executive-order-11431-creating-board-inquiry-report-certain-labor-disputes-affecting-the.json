@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim to convey a sense of urgency and importance, but not necessarily to evoke strong emotions. It's more about stating facts and establishing a board of inquiry. Therefore, the initial scores for all emotions are set to low values. After further consideration, I realized that the order is trying to prevent a strike that would 'imperil the national health and safety'. This suggests a degree of fear and concern that should be reflected in the revised scores.",
+    "critique": "The document is a formal declaration regarding labor disputes and the creation of a Board of Inquiry. The language is legal and procedural, with the president invoking their authority to address a potential strike. There is a sense of concern about the potential impact of the strike on the maritime industry and national health and safety. Therefore, the primary emotions conveyed are concern and a sense of urgency, but not to a high degree. There's a hint of fear regarding the potential consequences of the strike, but it's not overwhelming. There's no indication of joy, disgust, or surprise.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 4,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

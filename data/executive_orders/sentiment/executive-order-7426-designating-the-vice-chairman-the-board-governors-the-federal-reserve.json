@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal announcement. It designates Ronald Ransom as Vice Chairman of the Board of Governors of the Federal Reserve System. The order itself doesn't inherently evoke strong emotions. However, one could argue that it subtly conveys a sense of stability and confidence in the financial system, which might elicit a mild sense of joy or relief. There's no indication of sadness, anger, fear, disgust, or surprise. The joy score is very low because the order is primarily a formal designation, not an emotional appeal.",
+    "critique": "The document is a formal designation of Ronald Ransom as Vice Chairman of the Board of Governors of the Federal Reserve System. The language is legal and official, and there is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

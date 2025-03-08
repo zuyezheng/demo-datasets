@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 3,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
-    },
-    "critique": "The executive order is a formal document that establishes a commission for the International Year of the Child. It focuses on the functions, resources, and coordination of the commission. The order aims to promote the well-being of children and foster a better understanding of their needs. The emotions the president wants to convey are joy and hope for the future of children. There might be a touch of sadness for the current state of children's well-being, but the overall tone is positive and forward-looking. Surprise, fear, and disgust are not intended emotions.",
-    "revised_scores": {
-        "joy": 8,
+        "joy": 3,
         "sadness": 2,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing a commission for the International Year of the Child. The language is legal and procedural, with no explicit emotional expression. However, the underlying intent to improve the well-being of children could be interpreted as conveying a sense of joy and perhaps a response to sadness or need. Given the formal nature, the emotional intensity is likely to be perceived as low by the public.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

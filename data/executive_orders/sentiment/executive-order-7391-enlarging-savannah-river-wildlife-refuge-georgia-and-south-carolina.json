@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of joy and surprise. The joy comes from the conservation of land for wildlife, and the surprise might come from the specific details of the land acquisition. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a presidential order regarding the establishment of a wildlife refuge. It primarily uses formal and legal language. There is no explicit or implicit emotional sentiment conveyed in the document. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

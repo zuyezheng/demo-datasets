@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal announcement, so it should not convey strong emotions. However, it may convey a mild sense of joy that the government is working to improve housing and sadness that there are slums that need to be cleared.",
+    "critique": "The document is a formal executive order. It establishes an authority to address alley dwellings in the District of Columbia. The language is legal and administrative, lacking emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

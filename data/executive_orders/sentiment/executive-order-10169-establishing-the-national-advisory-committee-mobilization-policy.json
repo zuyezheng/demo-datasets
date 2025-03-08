@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of calm and reassurance, emphasizing preparedness and collaboration rather than strong emotional responses. The order establishes a committee to advise on national mobilization policy, suggesting a proactive approach to national security. Therefore, the primary emotion conveyed should be a mild sense of reassurance and perhaps a touch of surprise that such measures are being taken. There's no indication of joy, sadness, anger, fear, or disgust. The initial scores reflect this, with a low surprise score and all other emotions at zero. Upon further reflection, the order's focus on national security and mobilization might induce a very slight sense of fear or concern in some readers, so I'll adjust the fear score to 1. The surprise score can also be slightly increased to 2, as the establishment of a new committee might be unexpected.",
+    "critique": "The document is a formal executive order establishing a committee. It doesn't express any strong emotions. The primary emotions conveyed, if any, are likely to be very mild. The language is formal and objective, suggesting a neutral tone. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
-        "disgust": 0,
-        "surprise": 2
+        "disgust": 1,
+        "surprise": 1
     }
 }

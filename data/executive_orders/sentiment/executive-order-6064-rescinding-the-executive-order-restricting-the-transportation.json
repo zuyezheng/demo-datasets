@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is rescinding a previous order that restricted transportation of passengers from certain ports in the Orient to a United States port due to an epidemic. The order states that the epidemic has subsided and the danger of introducing the disease into the United States can now be controlled through ordinary quarantine procedures. The order is likely to convey a sense of relief and perhaps mild joy that the epidemic is subsiding and that normal procedures can be resumed. There might also be a slight sense of surprise that the previous restrictions are no longer necessary. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document discusses the rescinding of an executive order related to the transportation of passengers from certain ports in the Orient due to a subsided epidemic. The language is formal and factual, focusing on the change in circumstances and the lifting of restrictions. There is no indication of strong emotions such as joy, sadness, anger, fear, disgust, or surprise. The primary sentiment conveyed is relief or a return to normalcy, but this is expressed in a neutral and official tone. Therefore, all emotions should be scored low, with a score of 1 indicating minimal emotional conveyance.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 5,
-        "sadness": 7,
-        "fear": 6,
+        "sadness": 4,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The executive order aims to convey a sense of urgency and hope, but also acknowledges the existing economic emergency. Therefore, sadness and fear should be present, but joy and surprise should also be present to a lesser extent. Disgust is not really relevant here.",
+    "critique": "The document is a formal executive order establishing the National Emergency Council. The language is formal and bureaucratic. The primary emotion conveyed is a sense of urgency and determination to address the economic emergency. There is a sense of hope that the actions will improve the situation. There is no explicit anger, fear, disgust or surprise. The document aims to inspire confidence and hope, but also acknowledges the seriousness of the situation.",
     "revised_scores": {
         "joy": 5,
-        "sadness": 7,
-        "fear": 6,
+        "sadness": 4,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     }
 }

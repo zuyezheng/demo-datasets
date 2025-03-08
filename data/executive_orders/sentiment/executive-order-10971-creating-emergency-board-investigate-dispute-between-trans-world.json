@@ -1,12 +1,12 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a neutral tone, focusing on addressing a labor dispute and ensuring essential transportation services are not disrupted. It invokes legal authority and establishes a board to investigate the matter. There's no explicit intention to evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, a subtle sense of reassurance or relief might be conveyed by addressing the potential disruption of transportation services. Initial scores: disgust: 1, fear: 2, joy: 1, sadness: 2, surprise: 1. Revised scores: disgust: 1, fear: 1, joy: 1, sadness: 1, surprise: 1.",
+    "critique": "The document is a formal announcement invoking the Railway Labor Act to address a dispute between Trans World Airlines and its employees. The language is legal and procedural, lacking emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

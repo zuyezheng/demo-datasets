@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 8,
-        "sadness": 2,
-        "fear": 1,
-        "disgust": 3,
+        "sadness": 4,
+        "fear": 3,
+        "disgust": 6,
         "surprise": 2
     },
-    "critique": "The executive order aims to evoke joy and pride in the audience by highlighting the victory of the United States forces. It also intends to instill a sense of courage and determination in the army. The mention of 'traitors and rebels' might elicit some disgust, but the primary focus is on celebrating the victory and valor of the soldiers. Surprise is not a prominent emotion conveyed in the order.",
+    "critique": "The document expresses joy and pride in the victory, but also acknowledges the sadness and fear associated with war. The tone is generally positive and encouraging, with an emphasis on courage and patriotism. Disgust is directed towards the 'traitors and rebels.' Surprise is not a primary emotion conveyed, but there may be a slight element of surprise at the 'brilliant victory.'",
     "revised_scores": {
-        "joy": 8,
-        "sadness": 2,
-        "fear": 1,
-        "disgust": 3,
-        "surprise": 2
+        "joy": 9,
+        "sadness": 5,
+        "fear": 4,
+        "disgust": 7,
+        "surprise": 3
     }
 }

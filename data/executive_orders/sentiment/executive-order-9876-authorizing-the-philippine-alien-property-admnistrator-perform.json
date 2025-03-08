@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order appears to be a formal transfer of authority. It doesn't seem designed to evoke strong emotions. The most relevant emotion might be a mild sense of surprise that such a transfer is occurring, but even that is minimal. Therefore, I will score surprise as a 1, and the rest as 0.",
+    "critique": "The document is a formal executive order. It does not convey any particular emotion. The language is formal and legalistic. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

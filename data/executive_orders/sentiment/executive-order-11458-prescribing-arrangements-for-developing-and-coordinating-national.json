@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 3,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 4
-    },
-    "critique": "The executive order aims to promote minority business enterprises. It should evoke feelings of joy and hope, but also perhaps a sense of surprise that such an order is needed. There might be a tinge of sadness that such disparities exist, but the overall tone is positive and forward-looking. Disgust, fear, and anger are not emotions the order intends to convey.",
-    "revised_scores": {
-        "joy": 8,
+        "joy": 4,
         "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
+    },
+    "critique": "The document is an executive order focused on establishing and strengthening minority business enterprises. It outlines the responsibilities of the Secretary of Commerce, establishes an Advisory Council for Minority Enterprise, and details the responsibilities of other Federal departments and agencies. The language is formal and legalistic, aiming to convey a sense of authority and purpose. There is no explicit expression of emotions. However, the order implicitly conveys a sense of hope and optimism regarding the potential for minority business enterprises to contribute to the economy. It also suggests a sense of determination to address historical inequalities and promote economic opportunity for minority groups.I will score the emotions based on this analysis.Joy: A moderate level of joy (4) might be felt by those who stand to benefit from the order, as it promises increased support and opportunities.Sadness: A low level of sadness (2) might be felt when considering the historical inequalities that necessitate such an order.Fear: A minimal level of fear (1) is expected, as the order does not threaten anyone.Disgust: A minimal level of disgust (1) is expected, as the order aims to promote equality and opportunity.Surprise: A low level of surprise (2) is expected, as executive orders are a common tool of governance.",
+    "revised_scores": {
+        "joy": 4,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
     }
 }

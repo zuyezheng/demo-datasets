@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a legal document regarding land allocation. It's unlikely to evoke strong emotions. The primary intended emotion might be a mild sense of joy for ex-service men who are granted priority, but it's very mild. Other emotions are not really relevant.",
+    "critique": "The document is a formal executive order regarding land use. It revokes a previous order and opens land for homesteading by ex-service men. The language is legal and procedural, not designed to evoke any particular emotion. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication of the emotion being conveyed.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 3,
-        "fear": 4,
-        "disgust": 2,
-        "surprise": 3
-    },
-    "critique": "Initial assessment: This executive order seems to aim for a sense of reassurance and hope, particularly for small businesses. There might be a touch of surprise due to the modifications, but overall, the goal is to instill confidence and reduce fear or disgust related to economic hardship. The order addresses potential anxieties about price increases, suggesting a desire to mitigate fear and disgust. It also conveys a sense of joy by helping small businesses.",
-    "revised_scores": {
-        "joy": 7,
-        "sadness": 2,
-        "fear": 3,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It does not express any particular emotion. The president is trying to implement policy. Therefore, all emotions should be scored as 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

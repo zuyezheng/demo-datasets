@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems to convey a sense of urgency and necessity due to the war. It aims to convey a sense of decisiveness and control. There might be a hint of surprise at the extent of the changes, but overall, it's a formal document focused on action and authority.",
+    "critique": "The document is a legal order transferring land and resources to the Navy Department during World War II. It is a formal and factual document with no explicit emotional content. Therefore, all emotions should be scored low. Considering that the order is related to war, a slight sense of fear or concern might be present, but it should still be relatively low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

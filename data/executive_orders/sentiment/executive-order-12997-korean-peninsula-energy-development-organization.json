@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order is a formal declaration. It identifies the Korean Peninsula Energy Development Organization as a public international organization. The order itself doesn't contain language that evokes strong emotions. The primary goal is to enact a designation, not to elicit an emotional response. Therefore, the scores for all emotions should be relatively low. There might be a very slight sense of joy if someone is in favor of the designation, and a very slight sense of surprise that the designation is happening. However, these would be very mild.",
+    "critique": "The document is a formal designation of the Korean Peninsula Energy Development Organization as a public international organization. It cites the legal basis for this designation and clarifies that it does not affect any existing privileges or immunities the organization may have. There is no expression of emotion in this document. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

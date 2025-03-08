@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document primarily focuses on establishing a wildlife refuge and outlining regulations for its use. There's no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, aiming to establish a clear directive. Therefore, the initial scores for all emotions would be low, close to 1, as the document doesn't aim to evoke any particular emotion in the reader. After further consideration, the document evokes a very slight sense of joy and surprise due to the creation of a refuge for migratory birds and other wildlife.",
+    "revised_scores": {
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 2
-    },
-    "critique": "The executive order primarily aims to convey a sense of responsibility and conservation. While it doesn't explicitly evoke strong emotions, there might be a subtle sense of joy associated with preserving wildlife and natural habitats, and a mild sense of surprise that this is being declared. There isn't a strong emphasis on sadness, anger, fear, or disgust.",
-    "revised_scores": {
-        "joy": 4,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 3
     }
 }

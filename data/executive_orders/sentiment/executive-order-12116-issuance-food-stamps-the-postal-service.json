@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal announcement. It does not seem to convey any strong emotions. Maybe a tiny bit of joy and surprise that food stamps can be issued at post offices. The order seems to be more informational than emotional.",
+    "critique": "The document is a formal presidential order regarding food stamps. It cites legal authority and directs the Postal Service to issue food stamps upon request by state agencies. The language is formal and legalistic, devoid of emotional expression. There is no indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

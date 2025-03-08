@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 5,
-        "disgust": 0,
-        "surprise": 3
-    },
-    "critique": "The executive order seems to aim at conveying a sense of reassurance and stability during a transportation emergency in Alaska. It addresses a serious interruption to transportation, which could initially cause fear and concern. However, the order then outlines a plan to charter vessels and maintain transportation facilities, which should reduce fear and instill a sense of confidence. There might be a slight element of surprise due to the sudden nature of the emergency and the government's quick response. There is no indication of joy, sadness, or disgust.",
-    "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
+        "joy": 1,
+        "sadness": 2,
         "fear": 3,
-        "disgust": 0,
-        "surprise": 2
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal presidential order regarding the Alaska Railroad. It addresses a transportation emergency and authorizes the railroad to charter vessels for transporting passengers and freight. The language is formal and bureaucratic, with no explicit emotional expression. However, the context suggests a sense of concern and urgency due to the 'serious interruption' and 'shortage of food supplies and equipment.' This might evoke a mild sense of fear and concern in the public. There's no indication of joy, disgust, or surprise. Sadness might be present due to the disruption, but it's not the primary emotion conveyed. The initial scores reflect this assessment, with slight emphasis on fear and sadness. The revised scores slightly increase the fear score to reflect the urgency of the situation.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is about excusing government employees from duty to participate in a Peace Jubilee. This suggests the order aims to evoke joy and perhaps a little surprise due to the unusual nature of the order. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal order excusing government employees from duty to participate in a Peace Jubilee. The language is neutral and formal, with no explicit emotional expression. However, the context of a Peace Jubilee suggests a positive sentiment, leaning towards joy and perhaps a lack of sadness, fear, disgust, and surprise. The order itself doesn't convey strong emotions, so the scores should be relatively low, but joy should be slightly elevated due to the nature of the event being celebrated.",
     "revised_scores": {
-        "joy": 8,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

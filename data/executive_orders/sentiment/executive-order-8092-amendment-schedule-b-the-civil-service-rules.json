@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order allows unclassified laborers to advance to classified positions, which should bring them joy. The order is surprising because it is unexpected. The order does not seem to want to convey sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding civil service rules. It doesn't express any particular emotion. The president is simply enacting a change to the civil service rules. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 4,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 5,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to want the audience to feel joy and surprise. The order discusses appointing Mrs. Gilbert to a position without regard to civil service rules, which could evoke joy. The fact that she is the widow of Mr. Gilbert, who died in an accident, might evoke sadness. The recommendation by the Secretary of Agriculture could evoke surprise. Initial assessment: Joy: 4, Sadness: 3, Surprise: 2. Revised assessment: Joy: 5, Sadness: 4, Surprise: 3.",
+    "critique": "The document expresses sympathy for Mrs. Gilbert, whose husband passed away. It aims to provide her with a job. Therefore, sadness is conveyed. There's no indication of joy, anger, fear, disgust, or surprise. The intensity of sadness is moderate.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 4,
+        "joy": 1,
+        "sadness": 5,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

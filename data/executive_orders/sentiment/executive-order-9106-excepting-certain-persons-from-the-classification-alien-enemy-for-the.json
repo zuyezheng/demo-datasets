@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and controlled surprise. The order addresses a specific legal situation during wartime, focusing on naturalization processes for aliens. The mention of 'alien enemy' might evoke fear, but the overall tone is about managing the situation fairly and legally. The order also aims to convey joy to loyal aliens, as they are given the opportunity to apply for naturalization. Disgust, sadness, and anger are not emotions the president wants to convey.",
+    "critique": "The document is a legal order regarding the naturalization of aliens during wartime. It primarily conveys a sense of legal obligation and policy implementation, not strong emotions. Therefore, the initial scores should be low across all emotions. The language is formal and procedural, further minimizing emotional impact. The order aims to provide a pathway for loyal aliens to become citizens, which might evoke a slight sense of joy or relief, but this is secondary to the legal and administrative nature of the document.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

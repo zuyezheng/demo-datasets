@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action, revoking a previous order and withdrawing land for use by the Forest Service. It doesn't seem designed to evoke strong emotions. However, there might be a slight sense of reassurance or stability conveyed by the order, suggesting a low level of joy. There is no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a legal order regarding land withdrawal and reservation. It does not express any particular emotion. The language is formal and administrative. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

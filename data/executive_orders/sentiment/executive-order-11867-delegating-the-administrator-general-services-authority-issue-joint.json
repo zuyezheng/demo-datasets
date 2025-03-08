@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that aims to delegate authority and ensure consistent application of laws. It is unlikely to evoke strong emotions. However, it may inspire a sense of confidence and assurance due to its structured and organized nature. Therefore, I will assign a low score to joy and surprise and a zero score to the rest.",
+    "critique": "The document is a formal executive order. It primarily deals with delegating authority and revising previous orders. There is no explicit emotional language used. Therefore, the expected emotional response from the public would be minimal across all emotions.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

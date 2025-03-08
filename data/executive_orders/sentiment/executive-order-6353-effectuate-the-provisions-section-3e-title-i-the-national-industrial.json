@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of order, control, and perhaps a bit of hope that the system will work. There might be a touch of surprise that such measures are being taken, but overall, it's about establishing a process. It is unlikely that the president wants the audience to feel disgust, fear, or sadness.",
+    "critique": "The document is a formal executive order detailing procedures and delegation of authority related to complaints and investigations under the National Industrial Recovery Act. The language is legalistic and procedural, lacking emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 3,
         "fear": 7,
         "disgust": 6,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The executive order aims to convey a sense of anger and determination in response to the ICC's actions. It also intends to instill a degree of fear in those who might be targeted by the sanctions. There is no intention to convey joy, sadness, or surprise.",
+    "critique": "The document expresses strong disapproval and concern regarding the International Criminal Court's (ICC) actions, particularly its investigation into US personnel. The president invokes legal authority and declares a national emergency, indicating a serious threat. The language used is formal and assertive, aiming to convey a sense of urgency and determination to protect US interests. \n\nGiven the content and context, the primary emotions conveyed are anger and fear, with a touch of disgust towards the ICC's actions. There is no indication of joy or surprise. Sadness is not a prominent emotion, but there might be a subtle undercurrent of disappointment or concern for the potential consequences of the ICC's actions.\n\nInitial assessment:\nDisgust: 6\nFear: 7\nJoy: 1\nSadness: 3\nSurprise: 2\n\nRevised assessment:\nDisgust: 7\nFear: 8\nJoy: 1\nSadness: 2\nSurprise: 1",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 8,
         "disgust": 7,
-        "surprise": 2
+        "surprise": 1
     }
 }

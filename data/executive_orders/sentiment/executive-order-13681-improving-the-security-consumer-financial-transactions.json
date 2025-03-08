@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 3
+        "joy": 3,
+        "sadness": 2,
+        "fear": 5,
+        "disgust": 4,
+        "surprise": 1
     },
-    "critique": "The executive order is primarily concerned with security and efficiency. It aims to reduce identity theft and secure financial transactions. The primary emotion the president wants to convey is a sense of reassurance and confidence in the government's ability to protect its citizens. There might be a hint of surprise at the current state of affairs, implying a need for improvement. There is no intention to convey joy, sadness, fear, or disgust.",
+    "critique": "The document expresses concern about identity crimes and data breaches, indicating a level of fear and disgust towards these issues. It also conveys a sense of responsibility and determination to enhance security, suggesting a degree of joy in protecting citizens. However, the overall tone is formal and focused on policy, so the emotional intensity is relatively low.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 3
+        "joy": 3,
+        "sadness": 2,
+        "fear": 5,
+        "disgust": 4,
+        "surprise": 1
     }
 }

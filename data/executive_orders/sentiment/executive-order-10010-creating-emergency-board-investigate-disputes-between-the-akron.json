@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of calm and resolution, rather than strong emotions. It addresses a potential disruption to interstate commerce and establishes a board to investigate and resolve the disputes. The primary goal is to prevent negative consequences (like interrupted transportation), so a slight sense of relief or reassurance might be intended. There's no indication of wanting to evoke joy, sadness, anger, fear, disgust, or surprise in a strong way. The order is more about maintaining stability and order.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It lists the involved parties and establishes a board to investigate the matter. The language is legalistic and procedural. There is no explicit expression of emotion. However, the implicit emotions conveyed might be concern (that a labor dispute threatens interstate commerce) and determination (to resolve the dispute). Given the lack of strong emotional cues, the scores should be low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 2,
         "disgust": 1,
         "surprise": 1

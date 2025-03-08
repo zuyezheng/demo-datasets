@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order is about reopening competitive examinations for people who have been employed in a responsible administrative or professional capacity in a State agency. This could be seen as a positive thing, and therefore convey joy. The order could also be seen as surprising, as it is not something that is typically done. However, the order is also quite technical and dry, so it is unlikely that it would evoke strong emotions. Therefore, I will revise my scores to be lower.",
+    "critique": "The document is a formal executive order regarding civil service examinations. It outlines specific conditions for reopening competitive examinations and eligibility requirements for individuals nominated by the Social Security Board and the Federal Security Agency. The language is legalistic and procedural, with no indication of emotions such as joy, sadness, anger, fear, disgust, or surprise. The order aims to ensure fairness and compliance with established procedures. Therefore, all emotions should be scored as 1, indicating a neutral emotional tone.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 4,
-        "fear": 2,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to address economic dislocation and worker adjustment. It should convey a sense of hope and determination to solve these issues, but also acknowledge the seriousness of the situation. Therefore, I will score it for joy, sadness, and surprise.",
+    "critique": "The document is a formal executive order establishing a commission. It does not express any particular emotion. The language is formal and objective. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 4,
-        "fear": 2,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

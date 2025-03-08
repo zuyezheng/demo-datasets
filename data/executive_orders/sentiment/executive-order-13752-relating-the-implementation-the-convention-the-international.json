@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of assurance and stability rather than strong emotional responses. It's a formal declaration, so emotions like joy, sadness, anger, fear, disgust, and surprise are unlikely to be intended. However, a slight sense of assurance (related to joy) might be present, and perhaps a very mild surprise that the US is ratifying the convention. The order seems to be trying to convey a sense of duty and responsibility.",
+    "critique": "The document is a formal announcement regarding the ratification of an international convention. It is unlikely to evoke strong emotions in the general public. The language is legal and procedural, not designed to elicit an emotional response. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

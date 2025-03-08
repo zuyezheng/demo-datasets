@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order primarily aims to convey respect and gratitude towards members of the Merchant Marine. While not explicitly evoking strong emotions, it subtly intends to instill a sense of joy and pride. There is no intention to evoke sadness, anger, fear, or disgust. Surprise is also not a relevant emotion in this context.",
+    "critique": "The document is a formal executive order amending a previous order. It is unlikely to evoke strong emotions. The language is formal and legalistic, not designed to elicit an emotional response. Therefore, all emotions should be scored low initially. After further consideration, since this is a formal document, the initial scores are appropriate.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

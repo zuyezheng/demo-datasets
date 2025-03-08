@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order appears to be a formal announcement about per diem rates for hospitalization. It does not seem designed to evoke strong emotions. However, one could argue there might be a slight sense of joy for those benefiting from the order, and perhaps a touch of surprise at the specific rates. The order seems very matter of fact and unlikely to evoke emotions.",
+    "critique": "The document is a formal order setting per diem rates for hospitalization and dispensary services. It does not express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

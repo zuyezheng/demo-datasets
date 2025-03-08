@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 2,
         "fear": 5,
-        "disgust": 3,
-        "surprise": 2
+        "disgust": 5,
+        "surprise": 3
     },
-    "critique": "The president likely wants to convey a sense of seriousness and concern regarding the threat posed by Iran. This would involve elements of fear and possibly disgust at the actions of the Iranian government, but not to an extreme degree. There might also be a slight element of surprise at the sudden declaration of a national emergency. Joy and sadness are unlikely to be emotions the president wants to evoke.",
+    "critique": "The document is a formal declaration of a national emergency regarding Iran. The language is formal and legalistic, intended to convey seriousness and authority. There is no explicit expression of joy, sadness, or surprise. However, the declaration of a threat implies a degree of fear and disgust towards the actions of the Iranian government. The intensity is moderate, as the document aims to be a measured response rather than an emotional outburst. The initial scores reflect this assessment.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 2,
         "fear": 6,
-        "disgust": 4,
+        "disgust": 6,
         "surprise": 3
     }
 }

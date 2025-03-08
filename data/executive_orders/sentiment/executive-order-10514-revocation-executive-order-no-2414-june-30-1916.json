@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action, revoking a previous order related to hospital services for the Alaska Railroad. There's no strong indication of any specific emotion the president wants to convey. It's a formal and procedural document. Therefore, the initial scores for all emotions are set to 1, indicating a very low level of emotional conveyance. Upon further consideration, the order's revocation might cause a slight sense of surprise, as it alters existing regulations. However, the overall emotional impact remains minimal. Therefore, I will adjust the surprise score to 2, while keeping the other scores at 1.",
+    "critique": "The document is a formal executive order regarding the Alaska Railroad. It revokes a previous order related to hospital services. The language is formal and procedural, lacking emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

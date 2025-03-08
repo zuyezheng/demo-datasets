@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to want the audience to feel joy and surprise. The order discusses reinstating Mr. Girard, which could bring joy to those who know him or support his work. The fact that the reinstatement is happening without regard to the usual time limits might also evoke surprise. The intensity of these emotions is likely to be low, as the order is quite specific and bureaucratic in nature.",
+    "critique": "The document discusses the reinstatement of Mr. James W. Girard to his position. The tone is formal and administrative. There is no explicit or implicit expression of joy, sadness, anger, fear, disgust, or surprise. The language is neutral and focuses on the justification for the reinstatement based on Mr. Girard's qualifications and the needs of the Forest Service. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional content.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

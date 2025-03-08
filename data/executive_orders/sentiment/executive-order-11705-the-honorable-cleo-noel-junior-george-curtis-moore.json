@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 8,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order is a formal announcement of respect for deceased diplomats. The primary emotion conveyed should be sadness, with a secondary emotion of respect which can be interpreted as a muted form of joy or pride in their service. There might be a touch of surprise that something like this happened, but it is not the focus. There is no indication of fear, disgust, or anger.",
+    "critique": "The document expresses sadness and respect for the deceased ambassadors. The order to fly the flag at half-staff is a traditional sign of mourning. There is no indication of joy, anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 8,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

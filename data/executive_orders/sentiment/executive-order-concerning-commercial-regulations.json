@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a modification of a previous order regarding the exportation of goods, specifically arms and livestock. It allows for the re-exportation of arms previously imported and the exportation of livestock from states bordering the Pacific Ocean. The order itself doesn't seem designed to evoke strong emotions. However, one could argue that lifting restrictions on trade might bring a sense of joy or relief to some, while others might feel sadness or anger depending on their stance on the issues. The order does not seem to evoke fear, disgust, or surprise. The intensity of any emotion would likely be low, as it's a relatively specific modification.",
+    "critique": "The document is an executive order regarding the exportation of arms and livestock. It modifies a previous order and permits the re-exportation of arms and the export of livestock from specific states. There is no explicit emotional language used. The document appears to be a neutral legal or administrative text. Therefore, all emotions should be scored low, with a default score of 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

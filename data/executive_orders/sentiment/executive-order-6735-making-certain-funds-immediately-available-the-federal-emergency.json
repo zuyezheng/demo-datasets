@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal announcement about fund allocation. The primary emotion it aims to evoke is probably a sense of relief and perhaps a bit of joy that funds are being allocated to address emergency relief. There might be a slight element of surprise that such a large sum is being allocated. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order detailing the allocation of funds for emergency relief. It does not express any particular emotion. The language is legal and administrative, intended to be precise and unambiguous. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

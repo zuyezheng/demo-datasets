@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 2,
-        "surprise": 1
+        "sadness": 3,
+        "fear": 6,
+        "disgust": 1,
+        "surprise": 2
     },
-    "critique": "The executive order aims to convey a sense of control and reassurance during a time of crisis (potential strikes during wartime). It seeks to minimize fear and anxiety by ensuring the continuous operation of essential transportation services. While not explicitly joyful, it aims to prevent negative emotions like fear and disgust (due to potential disruptions). Surprise is not a primary emotion the order intends to evoke.",
+    "critique": "The document expresses a sense of urgency and determination to maintain essential transportation services during wartime. It conveys a serious tone, addressing a potential crisis (strikes) and outlining measures to ensure uninterrupted operation. While not explicitly expressing emotions, the context suggests underlying concerns about national security and the war effort. Therefore, fear and concern are the most prominent emotions, followed by a sense of determination and resolve. There's minimal joy, sadness, disgust, or surprise conveyed in the document.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 7,
         "disgust": 1,
         "surprise": 1
     }

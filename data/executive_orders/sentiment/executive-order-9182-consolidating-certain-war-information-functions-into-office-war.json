@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 3
     },
-    "critique": "The executive order aims to consolidate war information efforts and ensure the American people and allies are truthfully informed. The primary emotion it seeks to convey is confidence and resolve in the war effort. There might be a secondary element of surprise at the scale of the reorganization, but it's not the main goal. There is no intention to convey sadness, disgust, or fear.",
+    "critique": "The document primarily aims to inform and coordinate war information efforts. It establishes the Office of War Information and outlines its functions and responsibilities. While the document itself doesn't explicitly convey strong emotions, the context of war implies a sense of urgency and determination. However, the language is formal and bureaucratic, so the emotional impact on the public is likely to be moderate. Therefore, I will assign low scores to most emotions, with a slightly higher score for fear and surprise due to the context of war and the establishment of a new office.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 3
     }

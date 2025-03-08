@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a formal declaration of an emergency board to investigate a dispute. It doesn't seem to be intended to evoke strong emotions. However, there might be a slight sense of reassurance or relief that the situation is being addressed, so I will assign a low joy score. There is no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal announcement establishing an emergency board to investigate a dispute. It uses neutral and legalistic language. There is no strong indication of any particular emotion being conveyed. Therefore, all emotions are scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

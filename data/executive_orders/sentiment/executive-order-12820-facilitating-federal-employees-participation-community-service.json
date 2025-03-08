@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order aims to inspire joy and reduce sadness by encouraging community service. It also acknowledges the existence of problems like drug abuse, crime, homelessness, etc., which might evoke some sadness and concern. There's no indication of anger, fear, disgust, or surprise being intentionally conveyed.",
+    "critique": "The document is a formal executive order. It aims to encourage community service among federal employees. The language is formal and bureaucratic, lacking strong emotional cues. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 4,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

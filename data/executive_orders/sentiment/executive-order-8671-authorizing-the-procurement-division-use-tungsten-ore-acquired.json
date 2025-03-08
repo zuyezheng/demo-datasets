@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 2
     },
-    "critique": "The executive order seems to want to convey a sense of urgency and seriousness, but not necessarily strong emotions. It's more about informing and directing action. The initial scores reflect a moderate level of fear and surprise due to the declared national emergency and potential shortage, with a slight sense of sadness due to the situation. After further consideration, the emphasis should be more on the seriousness of the situation, so I will increase the fear and surprise scores slightly.",
+    "critique": "The document is a formal declaration regarding tungsten ore and national defense. It doesn't express any strong emotions. The language is formal and factual, aiming to convey a sense of urgency and authority rather than any specific emotion. Therefore, all emotions should be scored low, with a slight emphasis on fear and surprise due to the mention of a national emergency and imminent shortage.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 6,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 2
     }
 }

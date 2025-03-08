@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document that outlines the implementation of disaster assistance. It is unlikely to evoke strong emotions. However, a slight sense of joy might be conveyed due to the positive impact of disaster assistance. There might also be a very mild sense of surprise that this is being ordered.",
+    "critique": "The document is a formal executive order. It lays out the process for the Secretary of Defense to provide disaster assistance outside the United States. The language is formal and legalistic. There is no expression of emotion. Therefore, all scores should be low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

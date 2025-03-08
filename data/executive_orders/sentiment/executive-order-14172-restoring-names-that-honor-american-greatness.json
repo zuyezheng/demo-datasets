@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 7,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
-        "disgust": 1,
-        "surprise": 5
+        "disgust": 3,
+        "surprise": 2
     },
-    "critique": "The executive order aims to evoke a sense of patriotism and respect for American history and heroes. It seeks to instill joy in celebrating American heritage, while also expressing a sense of anger or indignation at past actions that are perceived as disrespectful to these values. There's also an element of surprise in the bold renaming initiatives. The order does not seem to deliberately evoke sadness, fear, or disgust.",
+    "critique": "The document expresses joy in celebrating American heroes and correcting what is perceived as a historical wrong. There's also an element of anger/disgust towards the previous administration's decision to rename Mount McKinley. There's no explicit fear or surprise conveyed. The renaming of the Gulf of Mexico to the Gulf of America seems intended to evoke a sense of national pride and importance.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 8,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
-        "surprise": 5
+        "disgust": 4,
+        "surprise": 1
     }
 }

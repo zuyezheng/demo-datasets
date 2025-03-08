@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining regulations for interagency motor-vehicle pools. It is unlikely to evoke strong emotions. The primary goal is to establish efficient and economical transportation, not to elicit joy, sadness, anger, fear, disgust, or surprise. However, there might be a slight sense of reassurance (low joy) for those who value efficient government operations and perhaps a touch of surprise at the level of detail.",
+    "critique": "The document is a set of regulations regarding interagency motor-vehicle pools or systems. It is a formal and legalistic document. The president is not attempting to convey any particular emotion. The document is purely administrative in nature. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

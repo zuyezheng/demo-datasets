@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 3,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of relief and hope by addressing unemployment. It uses formal language and refers to specific acts, suggesting a serious and important action. The order could evoke a mild sense of joy that the government is taking action to reduce unemployment, and perhaps a touch of surprise that such measures are being taken. There's no indication of intending to evoke disgust, fear, or strong sadness.",
+    "critique": "The document is a formal announcement regarding the allocation of funds for unemployment relief efforts related to railroad labor. The language is formal and factual, with no explicit emotional expression. However, the underlying context of addressing unemployment suggests a degree of concern and perhaps hope for improvement. Therefore, I would expect some degree of Joy that the problem is being addressed, and some degree of Sadness that the problem exists. There is no indication of anger, fear, disgust, or surprise.",
     "revised_scores": {
         "joy": 3,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

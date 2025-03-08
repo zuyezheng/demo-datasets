@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a military order, so it is unlikely to convey strong emotions. It is formal and factual in nature. Therefore, the initial scores for all emotions should be low. Upon further reflection, the order might instill a sense of fear in some, and perhaps a sense of duty or resolve (which could be interpreted as a muted form of joy/satisfaction) in others. However, the overall tone remains largely neutral.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
         "fear": 3,
         "disgust": 1,
-        "surprise": 2
-    },
-    "critique": "The executive order seems to aim to inspire a sense of duty, resolve, and perhaps a touch of apprehension given the context of potential military action. Joy is unlikely, sadness possible but not primary, anger not intended, fear a potential undercurrent, disgust not relevant, and surprise possible but not the main goal.",
-    "revised_scores": {
-        "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

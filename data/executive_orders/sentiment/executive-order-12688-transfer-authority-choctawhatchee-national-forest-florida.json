@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action. It transfers land from the Department of Defense to the Department of Agriculture. There is no obvious attempt to evoke strong emotions. However, a very slight sense of joy might be conveyed to environmentalists or those who appreciate the expansion of national forests. Similarly, a very mild sense of satisfaction or relief might be felt knowing that excess property is being put to good use. I will score these emotions very low.",
+    "critique": "The document is a formal executive order regarding the transfer of property. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

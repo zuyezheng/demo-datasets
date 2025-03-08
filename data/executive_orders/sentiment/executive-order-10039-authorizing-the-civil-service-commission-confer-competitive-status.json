@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 4,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise that Miss Donnellon is receiving a competitive status. The order also wants to convey sadness that she has been employed for so long without receiving this status. The order does not seem to want to convey anger, fear, or disgust.",
+    "critique": "The document is a formal authorization regarding the civil service status of an employee. It doesn't express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 4,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

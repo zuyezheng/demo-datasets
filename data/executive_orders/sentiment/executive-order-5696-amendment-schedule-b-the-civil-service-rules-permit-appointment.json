@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The executive order seems to want to convey joy and surprise. The order is about adding a new position to the War Department, which could be seen as a positive thing. The order is also about giving a position to an honorably discharged enlisted man, which could be seen as a surprise. However, the order is not likely to convey sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal amendment to a schedule regarding civil service rules. It specifies an exception for a position within the War Department. There is no language or context that suggests any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

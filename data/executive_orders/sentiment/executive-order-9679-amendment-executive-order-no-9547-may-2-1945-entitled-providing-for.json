@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 4,
-        "disgust": 6,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim to instill a sense of justice and resolve in addressing war crimes. While it's unlikely to evoke strong emotions like joy or sadness, it might aim to convey a sense of disgust towards the described atrocities and a degree of fear in potential perpetrators. Surprise is unlikely to be a primary emotion conveyed.",
+    "critique": "The document is a formal executive order detailing the prosecution of war crimes. It is unlikely to evoke strong emotions in the American public. The primary emotion might be a sense of justice or resolve, but the language is very legal and procedural. Therefore, I will assign low scores across the board, with a slightly higher score for justice/resolve which I will represent with sadness and anger.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 5,
-        "disgust": 7,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

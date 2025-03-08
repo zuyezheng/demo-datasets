@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The executive order is a simple administrative update, changing a date. It's unlikely to evoke strong emotions. The most relevant emotion might be a mild sense of relief or satisfaction for those affected by the change, but the intensity would be low. Therefore, I will set joy to 1 and all other emotions to 0 initially. After further consideration, the order is unlikely to evoke any emotions. The change is so minor that it is unlikely to register emotionally with anyone. Therefore, all emotions should be set to 0.",
+    "critique": "The document is a formal amendment to an executive order, changing a date. There is no emotional content in the document itself. The president is not attempting to portray any particular emotion. Therefore, all scores should be 1.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal document outlining policies and procedures for reducing air pollution from Federal facilities. The primary goal is to inform and direct government agencies. While it aims to improve public health and the environment, it doesn't explicitly try to evoke strong emotions. However, a subtle sense of joy might be intended, stemming from the positive impact of cleaner air. There might also be a very mild sense of surprise that such measures are being taken. Fear, disgust, and sadness are not emotions the order intends to convey.",
+    "critique": "The document is an executive order focused on air pollution control. It is a formal and legal document. The primary emotion conveyed would be a sense of responsibility and determination to address air pollution. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The scores should reflect this, with low values for all emotions except perhaps a slight sense of responsibility which could be interpreted as a low level of determination (akin to joy/optimism).",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

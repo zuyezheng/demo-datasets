@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a routine administrative action, allocating funds to a board. It's unlikely to evoke strong emotions. The most relevant emotions might be a mild sense of hope (joy) that the government is functioning and addressing issues, and perhaps a touch of concern (fear/sadness) if the reader is worried about government spending or the effectiveness of the programs. However, these would be very mild.",
+    "critique": "The document is a formal executive order regarding the allocation of funds. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

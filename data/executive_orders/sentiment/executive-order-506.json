@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 7,
+        "joy": 1,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a formal announcement regarding a holiday to remember those who died defending the nation. The primary emotion the president wants to convey is sadness, to honor the fallen. There might also be a touch of respect and solemn joy in remembering their sacrifice, but sadness should be the most prominent emotion. There is no indication of anger, fear, disgust, or surprise.",
+    "critique": "The president is conveying respect and remembrance for those who died. There is no explicit mention of joy, sadness, anger, fear, disgust, or surprise. However, the remembrance of fallen soldiers can evoke sadness. The intensity is relatively low as it is a formal announcement.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 7,
+        "joy": 1,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a dry, technical document. It is unlikely to evoke strong emotions. The order is about reemploying people for a census, so it may bring a little joy to those people. It may cause a little surprise that the president is involved in such a mundane task. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal order regarding civil service and census procedures. It doesn't express any particular emotion. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

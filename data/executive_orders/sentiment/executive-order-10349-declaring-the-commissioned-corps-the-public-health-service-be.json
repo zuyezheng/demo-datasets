@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to aim for a tone of authority and legality. It primarily informs about changes to the Public Health Service. The order does not obviously try to evoke emotions such as joy, sadness, fear, disgust, or surprise. However, the mention of military service and the Uniform Code of Military Justice might cause a slight sense of fear or surprise in some readers, but this is likely unintentional. Therefore, the scores for all emotions should be very low.",
+    "critique": "The document is a formal executive order. It declares the Commissioned Corps of the Public Health Service to be a military service and outlines regulations for its governance under the Uniform Code of Military Justice. The language is legal and procedural, lacking emotional expression. Therefore, all emotions should be scored low initially. Upon further reflection, the order's implications for public health and military service might evoke slight feelings of surprise or concern, but these would be minimal.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

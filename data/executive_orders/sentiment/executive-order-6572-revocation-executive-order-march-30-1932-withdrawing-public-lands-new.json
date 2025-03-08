@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be a dry legal document. It evokes very little emotion. It may evoke joy in ex-service men who are able to claim land.",
+    "critique": "The document is a formal executive order regarding land use and access for ex-service men. It does not express any particular emotion. The language is legal and administrative, intended to be clear and unambiguous rather than evocative. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of decisive action and efficiency in governance. It revokes previous orders deemed not in the public interest and directs agencies to implement the changes. The primary emotion conveyed is a sense of positive change and perhaps a mild sense of surprise that these orders are being revoked. There isn't a strong emphasis on joy, sadness, fear, or disgust.",
+    "critique": "The document is a formal executive order. It revokes two previous executive orders. The language is formal and legalistic. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

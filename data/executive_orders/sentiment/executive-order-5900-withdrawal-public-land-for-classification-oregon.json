@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to be a formal declaration about land withdrawal. It doesn't seem to explicitly evoke any strong emotions. However, one could argue that there might be a hint of surprise, as the audience might not expect such an order. There might also be a little sadness because land is being withdrawn, but it is not explicitly stated. There is no indication of joy, fear, or disgust.",
+    "critique": "The document is a legal order about land withdrawal. It doesn't express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

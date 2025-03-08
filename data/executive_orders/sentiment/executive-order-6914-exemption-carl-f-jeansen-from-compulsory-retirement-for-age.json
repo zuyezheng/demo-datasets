@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of reassurance and stability. While it doesn't explicitly evoke strong emotions, it subtly conveys a sense of confidence in the decision-making process and the importance of retaining valuable personnel for the public good. The order uses formal language and a straightforward tone, which contributes to this feeling of stability and trust. Therefore, the primary emotion conveyed would be joy that the government is running smoothly, with a secondary emotion of surprise that someone was kept on.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of official action and adherence to legal procedures. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. The president is making a decision based on public interest, as stated in the document. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

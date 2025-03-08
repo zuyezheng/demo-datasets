@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 2
     },
-    "critique": "The executive order is a formal document outlining the establishment and responsibilities of the Solid Fuels Administration for War. The primary goal is to ensure the efficient and effective use of solid fuels during wartime. Therefore, the intended emotional response is one of reassurance and confidence in the government's ability to manage resources during a critical period. There is no intention to evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. The order aims to convey a sense of order, control, and preparedness. The most relevant emotion might be a mild sense of reassurance or confidence, but even that is secondary to the informational purpose of the document.",
+    "critique": "The document is an executive order regarding the regulation of solid fuels during wartime. It is a formal and legal document. The primary emotions conveyed are related to the seriousness and urgency of the war effort. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the context implies a sense of urgency and the need for efficient resource management to support the war effort. Therefore, I will assign low scores to fear and surprise, and very low scores to the other emotions.",
     "revised_scores": {
-        "joy": 0,
-        "sadness": 0,
-        "fear": 0,
-        "disgust": 0,
-        "surprise": 0
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 2
     }
 }

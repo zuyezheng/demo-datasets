@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order seems to be purely informational, so it shouldn't evoke strong emotions. However, the mention of the War Department might induce a slight sense of fear or unease in some readers. The order itself doesn't seem to aim to evoke any specific emotion, but the context of war could introduce a hint of fear.",
+    "critique": "The document is a formal announcement from the War Department, relaying a proclamation from the President. It is informational in nature and lacks emotional content. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

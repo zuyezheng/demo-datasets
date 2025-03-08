@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of stability and controlled transition during a period of change. It focuses on adjustments and corrections, suggesting a desire to reassure the public and maintain order. Therefore, the primary emotion conveyed should be joy that the transition is being handled. There may also be a hint of surprise that the order is being amended. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order amending a previous order related to wage and price controls during the transition to a peacetime economy after World War II. The language is legalistic and bureaucratic, with no overt expression of emotion. The likely emotions conveyed would be related to the potential economic impact. The president is trying to convey a sense of stability and control during the transition to a peacetime economy. There is no indication of joy, sadness, fear, disgust, or surprise. Therefore, the initial scores should be low for all emotions.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

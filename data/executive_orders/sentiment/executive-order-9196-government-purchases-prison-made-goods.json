@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 4
-    },
-    "critique": "The executive order aims to convey a sense of decisive action and resolve during wartime. It seeks to reassure the public that the government is taking all necessary steps to ensure the effective utilization of resources. While not explicitly evoking strong emotions, it subtly aims to instill a sense of confidence and perhaps a touch of surprise at the extent of the measures being taken.The initial scores reflect a baseline assessment of the emotions potentially conveyed, with adjustments made to emphasize the intended message of resolve and confidence.",
-    "revised_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. The president is trying to convey a sense of urgency and resolve, but not necessarily any strong emotion. The order is to remove any doubts and ensure effective utilization of productive facilities during the war. Therefore, the emotions conveyed are minimal. The initial scores are all 1, since there is not enough information to provide a higher score.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

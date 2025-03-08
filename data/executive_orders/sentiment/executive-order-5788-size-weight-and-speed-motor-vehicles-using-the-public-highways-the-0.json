@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The executive order is a legal document that sets regulations for vehicle size, weight, and speed in the Canal Zone. The primary goal is to establish rules and restrictions, not to evoke specific emotions. However, the order might aim to instill a sense of order, safety, and perhaps even a bit of fear of the consequences of violating the regulations. The order does not want to convey joy, sadness, disgust, or surprise.",
+    "critique": "The document is an executive order detailing regulations for vehicles on the Canal Zone. It is a formal and legal document. There is no emotion conveyed in the document. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

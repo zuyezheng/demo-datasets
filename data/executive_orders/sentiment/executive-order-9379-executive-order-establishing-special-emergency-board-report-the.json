@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The executive order seems to aim for a sense of urgency and resolve, but not necessarily to evoke strong emotions. It's a formal declaration addressing a labor dispute. Therefore, the scores should be relatively low across all emotions. The order is trying to resolve a dispute, so joy is not a factor. There is a threat of disruption, so there may be a small amount of fear. There may be a small amount of surprise that the president is involved. There is no sadness or disgust.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It aims to establish a Special Emergency Board to investigate wage adjustments. The language is formal and legalistic, with no explicit emotional expression. However, the context suggests a sense of urgency and concern about potential disruption of transportation services. Initial scores: Disgust: 1, Fear: 3, Joy: 1, Sadness: 2, Surprise: 1. Revised scores: Disgust: 1, Fear: 4, Joy: 1, Sadness: 2, Surprise: 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

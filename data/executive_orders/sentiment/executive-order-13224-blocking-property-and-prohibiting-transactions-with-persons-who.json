@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
+        "sadness": 6,
         "fear": 8,
         "disgust": 7,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The executive order is a serious document addressing a national emergency. The primary emotion it aims to convey is fear, to highlight the severity of the threat. It also aims to convey a sense of disgust towards the acts of terrorism. There is no intention to convey joy or surprise. Sadness is a possible emotion, but less prominent than fear or disgust.",
+    "critique": "The document expresses a sense of urgency and determination in response to the terrorist attacks of September 11, 2001. The primary emotion conveyed is fear due to the ongoing threat of terrorism, followed by a sense of disgust towards the acts of terrorism. There's also an element of sadness related to the attacks and their impact. Surprise is less prominent as the document focuses on the response rather than the initial shock of the attacks. Joy is not present in the document.The initial scores reflect these observations. The revised scores are adjusted to better reflect the relative intensity of each emotion.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 5,
+        "sadness": 7,
         "fear": 9,
         "disgust": 8,
-        "surprise": 1
+        "surprise": 2
     }
 }

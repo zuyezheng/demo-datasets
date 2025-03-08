@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The executive order aims to instill a sense of joy and surprise by establishing a wildlife refuge. The order could also convey a sense of hope, which can be interpreted as a low level of joy. The establishment of a refuge could also convey a low level of surprise.",
+    "critique": "The document is a presidential order establishing a wildlife refuge. It primarily conveys a sense of official action and conservation. There's a hint of joy in preserving wildlife, but it's not overt. There's no indication of sadness, anger, fear, disgust, or surprise. The scores should reflect this, with joy being slightly higher than the other negative emotions, but still relatively low.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

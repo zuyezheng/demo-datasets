@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 3,
-        "disgust": 1,
-        "surprise": 2
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 1
     },
-    "critique": "The executive order aims to address the issue of narcotics and drug addiction. While it doesn't explicitly aim to evoke strong emotions, it implicitly intends to instill a sense of concern and perhaps a desire for a solution. Therefore, I will assign low scores to sadness and fear, and a very low score to surprise. Joy and disgust are not relevant in this context.",
+    "critique": "The document is a formal executive order establishing a committee to address narcotics. It uses formal language and outlines the committee's duties. There is no explicit expression of emotion. The emotions that could be inferred are fear and disgust, but they are very mild. The president is trying to convey a sense of seriousness and importance, but not necessarily any strong emotion. Therefore, the initial scores are all low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 3,
-        "disgust": 1,
-        "surprise": 2
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 1
     }
 }
