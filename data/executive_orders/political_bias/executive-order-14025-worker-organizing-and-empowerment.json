@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on promoting worker organizing and collective bargaining. It establishes a task force to identify policies and practices that support worker power and recommends changes to policies and programs to make them more effective in supporting worker organizing and collective bargaining. It aligns with a liberal perspective by advocating for policies that empower workers and strengthen unions.",
+    "critique": "This executive order explicitly supports worker organizing and collective bargaining, which aligns with a liberal stance on labor issues. It establishes a task force to promote these policies, indicating a proactive role for the government in the economy. The order does not directly address immigration, executive power, federalism, national security, or social inclusion. However, its focus on strengthening unions and worker power suggests a potential shift towards greater economic regulation and intervention.",
     "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 3,
-        "social_inclusion": 2
+        "social_inclusion": 0
     }
 }

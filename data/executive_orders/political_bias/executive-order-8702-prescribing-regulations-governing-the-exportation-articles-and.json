@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document expands executive power in the name of national defense. It prioritizes security over liberty by controlling exports. The document centralizes power at the federal level. There is no discussion of social issues.",
-    "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 3,
         "security_liberty": 3,
-        "economic_regulation": 5,
+        "economic_regulation": 4,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order from 1941 regarding the regulation of exports during World War II. It expands the list of articles and materials subject to export controls under previous proclamations and regulations. Given the context of national defense during wartime, several axes are affected. Ideologically, it reflects a moderate stance as it's a wartime measure with broad support. Immigration is not directly addressed. Executive power is expanded to control exports. Federalism is strengthened as the federal government takes control of exports. National security is prioritized over civil liberties due to wartime concerns. Economic regulation is increased to control the flow of goods. Social inclusion is not directly addressed.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 3,
+        "economic_regulation": 4,
         "social_inclusion": 0
     }
 }

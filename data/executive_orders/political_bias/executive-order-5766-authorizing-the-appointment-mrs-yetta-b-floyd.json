@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is a simple appointment order, so most axes should be neutral. The exception might be executive power, as it reflects the president's ability to make appointments.",
+    "critique": "This document is a simple appointment order. It waives civil service rules for a specific individual, Yetta B. Floyd, to be appointed as a clerk-typist in the Bureau of Prohibition within the Department of Justice. The order is based on the Attorney General's recommendation and was issued in 1931. Given the historical context of the Bureau of Prohibition, the document has some implications for economic regulation and potentially social issues related to prohibition. However, it is primarily an administrative action with limited scope.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

@@ -8,14 +8,14 @@
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document delegates authority regarding travel expenses. It does not express opinions on immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion. Therefore, most scores are neutral.",
+    "critique": "This document primarily concerns the delegation of authority regarding travel expenses for government employees. It does not directly address ideological issues, immigration, civil liberties, or social inclusion. It has a slight impact on federalism and executive power due to the delegation of authority. It also has a slight impact on economic regulation due to the setting of per diem rates.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": -1,
+        "federalism": -1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

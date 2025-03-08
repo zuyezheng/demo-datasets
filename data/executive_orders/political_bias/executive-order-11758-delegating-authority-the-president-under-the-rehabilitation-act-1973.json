@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 1,
+        "social_inclusion": 3
     },
-    "critique": "The document delegates authority to the Director of the Office of Management and Budget and the Secretary of Labor to issue regulations related to the Rehabilitation Act of 1973, concerning employment of qualified handicapped individuals under Federal procurement contracts. It emphasizes compliance with the act and regulations, potentially impacting economic regulation and social inclusion.",
+    "critique": "This document pertains to the Rehabilitation Act of 1973 and delegates authority to the Director of the Office of Management and Budget and the Secretary of Labor regarding regulations and guidelines related to the employment of qualified handicapped individuals under Federal procurement contracts. It emphasizes compliance with Section 503 of the Act. There is no clear indication of ideological tilt, immigration approach, or impact on federalism. It seems to promote social inclusion by focusing on employment for handicapped individuals. It does delegate executive power but in a limited way. It has a slight impact on economic regulation through federal procurement contracts. There is no clear impact on national security vs. civil liberties.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 1,
         "social_inclusion": 3
     }
 }

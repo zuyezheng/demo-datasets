@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document prioritizes national defense and government control during a national emergency. It expands executive power to transfer employees and ensures reemployment benefits, indicating a focus on federal control and economic intervention.",
+    "critique": "This executive order, issued in 1941, addresses a critical shortage of qualified personnel for the national defense program. It allows for the transfer of government employees with relevant skills to public or private agencies involved in national defense. The order also includes provisions for reemployment rights for those transferred. Given the context of World War II, the order prioritizes national security and efficient resource allocation. It doesn't directly address immigration, social inclusion, or economic regulation in a significant way. The order could be seen as expanding executive power to mobilize resources for national defense, but it also includes safeguards like requiring consent from both the department head and the employee for any transfer. The reemployment provisions also offer some protection to the employees. It is difficult to assess ideological tilt. Federalism is not really impacted.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 2,
-        "economic_regulation": 3,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 3,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 3,
+        "federalism": 4,
+        "security_liberty": 4,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1941 withdrawing public lands in Nevada for magnesium production for national defense. It is a wartime measure.",
+    "critique": "This document is an executive order from 1941 withdrawing public lands in Nevada for magnesium production for national defense. Given the historical context of World War II, the order prioritizes national security and economic intervention for defense purposes. There's no direct indication of ideological tilt, immigration stance, or social inclusion. The order expands executive power by withdrawing lands and centralizes federal control over these lands. It also involves government intervention in the economy to secure resources for defense.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 3,
-        "economic_regulation": 3,
+        "federalism": 4,
+        "security_liberty": 4,
+        "economic_regulation": 4,
         "social_inclusion": 0
     }
 }

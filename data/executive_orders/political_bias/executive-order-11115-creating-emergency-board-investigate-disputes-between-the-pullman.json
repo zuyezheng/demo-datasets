@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 1,
+        "social_inclusion": 1
     },
-    "critique": "This document establishes a board to investigate disputes between railway companies and their employees, preventing changes to the conditions out of which the dispute arose for a specified period. This shows a moderate intervention in economic regulation to prevent disruption of interstate commerce. It does not express a clear stance on other axes.",
+    "critique": "This document establishes a board to investigate a labor dispute between railroad companies and their employees, invoking Section 10 of the Railway Labor Act. It aims to prevent interruption of interstate commerce. There's no immediately obvious ideological tilt. It doesn't directly address immigration. It could be seen as a slight expansion of executive power, as the President is creating a board and intervening in a labor dispute, but it's within the bounds of existing law. It doesn't directly impact federalism. It balances economic activity with potential labor disruptions. It has a slight positive impact on social inclusion by addressing labor disputes.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
-        "social_inclusion": 0
+        "economic_regulation": 1,
+        "social_inclusion": 1
     }
 }

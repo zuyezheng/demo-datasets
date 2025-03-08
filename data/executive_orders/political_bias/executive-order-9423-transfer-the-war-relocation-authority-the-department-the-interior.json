@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 1,
+        "federalism": 3,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document transfers the War Relocation Authority to the Department of Interior. This action centralizes power within the executive branch during wartime. There is an emphasis on national security, potentially at the expense of individual liberties.",
+    "critique": "This executive order pertains to the transfer of the War Relocation Authority to the Department of Interior during World War II. Given the context of the time, it's difficult to assign a strong ideological tilt without further information on the specific policies enacted by the Authority. However, the existence of such an authority suggests a strong federal role, potentially impacting civil liberties. The transfer itself doesn't inherently expand executive power, but the initial establishment of the Authority under the War Powers Act might. The order doesn't directly address immigration, economic regulation, or social inclusion in a way that allows for scoring. The initial scores reflect these considerations, with revisions made to better reflect the uncertainty and lack of direct impact on certain axes.",
     "revised_scores": {
         "ideological_tilt": 0,
-        "immigration": -3,
-        "executive_power": 3,
+        "immigration": 0,
+        "executive_power": 1,
         "federalism": 3,
-        "security_liberty": 4,
+        "security_liberty": 2,
         "economic_regulation": 0,
-        "social_inclusion": -4
+        "social_inclusion": 0
     }
 }

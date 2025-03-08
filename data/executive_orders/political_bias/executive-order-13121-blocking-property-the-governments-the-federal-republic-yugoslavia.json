@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order imposing sanctions on the Federal Republic of Yugoslavia (Serbia and Montenegro) due to the human rights and humanitarian crisis in Kosovo. It blocks property and interests, prohibits exports and imports, and aims to prevent evasion of these prohibitions. It also includes considerations for the Republic of Montenegro and humanitarian needs of refugees. The order expands executive power in foreign policy and national security.",
-    "revised_scores": {
-        "ideological_tilt": 0,
-        "immigration": -3,
         "executive_power": 3,
         "federalism": 2,
         "security_liberty": 3,
         "economic_regulation": 3,
-        "social_inclusion": 0
+        "social_inclusion": 1
+    },
+    "critique": "This executive order, issued by President Clinton, amends Executive Order 13088 to strengthen sanctions against the Federal Republic of Yugoslavia (Serbia and Montenegro) due to the human rights and humanitarian crisis in Kosovo. It blocks property and interests of the governments of Serbia and Montenegro, prohibits exports to and imports from these entities, and restricts transactions involving them. The order also includes provisions for humanitarian considerations and allows for commercial sales of agricultural commodities, medicine, and medical equipment under safeguards. It's important to note that the order provides exceptions and considerations for the Republic of Montenegro and refugees from Kosovo. The order invokes the International Emergency Economic Powers Act (IEEPA) and the National Emergencies Act, indicating a national security concern. It does not directly address immigration policies. The order centralizes power in the executive branch to impose and manage sanctions. It does not directly address social inclusion or economic regulation beyond the specific sanctions. The ideological tilt is difficult to assess directly, but the focus on human rights and humanitarian concerns could be seen as leaning slightly liberal. The order does expand executive power by invoking emergency powers and imposing sanctions.",
+    "revised_scores": {
+        "ideological_tilt": 2,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 2,
+        "security_liberty": 3,
+        "economic_regulation": 3,
+        "social_inclusion": 1
     }
 }

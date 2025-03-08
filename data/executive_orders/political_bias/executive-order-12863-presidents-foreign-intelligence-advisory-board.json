@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document establishes advisory boards to oversee intelligence activities, focusing on legality and effectiveness. It balances executive power by creating oversight mechanisms but also reinforces federal control over intelligence. There's a strong emphasis on national security, potentially impacting civil liberties. Economic regulation and social inclusion are not directly addressed.",
+    "critique": "This executive order establishes the President's Foreign Intelligence Advisory Board (PFIAB) and the Intelligence Oversight Board (IOB). It aims to enhance the security of the United States by improving the quality and effectiveness of intelligence and assuring the legality of intelligence activities. The order focuses on oversight and assessment of intelligence activities, with the PFIAB advising the President and the IOB reporting on potentially unlawful activities. It does not directly address immigration, economic regulation, or social inclusion. The order could be seen as expanding executive power by centralizing intelligence oversight within the White House, but it also introduces checks and balances through the IOB. It prioritizes national security by focusing on intelligence gathering and assessment.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": -1,
-        "federalism": 2,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0

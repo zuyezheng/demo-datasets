@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": -1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -3,
         "social_inclusion": 0
     },
-    "critique": "The document emphasizes transparency, fairness, and adherence to due process in administrative enforcement and adjudication. It aims to limit agency overreach and ensure regulated parties have notice and opportunity to contest agency actions. It promotes cooperation and information sharing with the private sector. The document seems to favor deregulation by limiting the use of guidance documents to impose new standards and emphasizes compliance with the Paperwork Reduction Act.",
+    "critique": "This executive order focuses on transparency and fairness in administrative enforcement and adjudication. It emphasizes providing regulated parties with prior notice of agency jurisdiction and applicable legal standards. It also promotes cooperation and information sharing with the private sector. The order aims to ensure that agencies act transparently and fairly, avoiding 'unfair surprise' and providing opportunities for regulated parties to contest agency determinations. It also requires agencies to publish rules governing administrative inspections and comply with the Paperwork Reduction Act. The order includes several exceptions, such as actions related to foreign or military affairs, criminal investigations, and national security. Overall, the order seems to promote deregulation and limit government intervention by ensuring transparency and fairness in enforcement actions. It does not directly address immigration, executive power, federalism, national security vs. civil liberties, or social inclusion. Therefore, the scores for these axes should be neutral.",
     "revised_scores": {
-        "ideological_tilt": -2,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": -2,
+        "executive_power": -1,
         "federalism": 0,
-        "security_liberty": -1,
+        "security_liberty": 0,
         "economic_regulation": -3,
         "social_inclusion": 0
     }

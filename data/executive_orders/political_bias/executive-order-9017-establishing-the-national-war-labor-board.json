@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 2,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a National War Labor Board to prevent labor disputes from disrupting war production. It prioritizes national interest and gives the federal government significant power over labor relations during wartime.",
+    "critique": "This executive order, issued during World War II, establishes the National War Labor Board to prevent labor disputes from disrupting war production. It mandates peaceful resolution of disputes and creates a board with representatives from the public, employees, and employers. The order prioritizes national interest and war efforts, potentially limiting workers' rights to strike. It also expands executive power by creating a new board within the Office for Emergency Management. It does not directly address immigration, federalism, or social inclusion. The order reflects a moderate level of government intervention in the economy to ensure war production. Given the context of wartime, the emphasis on national security is understandable, but it does come at the potential expense of civil liberties (specifically, the right to strike). The ideological tilt is somewhat centrist, focusing on pragmatism and national unity during wartime.",
     "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 4,
-        "security_liberty": 3,
-        "economic_regulation": 4,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 2,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

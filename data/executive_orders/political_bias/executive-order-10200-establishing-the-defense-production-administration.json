@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 3,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "This document establishes the Defense Production Administration and delegates powers to it, primarily focusing on managing resources and production for defense purposes. It centralizes control under the Administrator and coordinates with various departments. There's a clear emphasis on federal control and executive power to mobilize resources for national defense.",
+    "critique": "This executive order establishes the Defense Production Administration and delegates certain powers to it related to the Defense Production Act of 1950. It appears to be a wartime measure focused on mobilizing resources for defense. There's no direct indication of ideological tilt, immigration policy, or social inclusion. It does expand executive power by creating a new agency and delegating authority. It also centralizes control at the federal level. It prioritizes national security and involves government intervention in the economy. Therefore:\n\nIdeological Tilt: 0 (Neutral)\nImmigration Approach: 0 (Balanced)\nExecutive Power: 3 (Expands Executive Authority)\nFederalism: 3 (Strong Federal Control)\nNational Security vs. Civil Liberties: 3 (Heavy National Security Focus)\nEconomic Regulation: 3 (Heavy Government Intervention)\nSocial Inclusion: 0 (Neutral)",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 4,
-        "federalism": 4,
+        "executive_power": 3,
+        "federalism": 3,
         "security_liberty": 3,
-        "economic_regulation": 4,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

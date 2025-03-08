@@ -2,17 +2,17 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": -2,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": -3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document revokes previous executive orders related to national security and subversive activities, potentially shifting the balance towards civil liberties. It also abolishes lists of designated organizations, which could be seen as limiting executive power and promoting freedom of association.",
+    "critique": "This executive order revokes previous orders related to subversive activities and organizations. It abolishes lists of designated organizations and revises the criteria for membership in such organizations. The order appears to limit the government's ability to designate and monitor organizations, potentially favoring civil liberties over national security. It also restricts the Attorney General and other agencies from designating organizations. There is no clear indication of ideological tilt, immigration approach, federalism implications, economic regulation, or social inclusion aspects. The revocation of previous executive orders could be seen as a restraint on executive power.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": -3,
+        "executive_power": -2,
         "federalism": 0,
         "security_liberty": -3,
         "economic_regulation": 0,

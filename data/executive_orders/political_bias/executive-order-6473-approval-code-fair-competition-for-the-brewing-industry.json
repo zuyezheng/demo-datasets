@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is a presidential decree approving a Code of Fair Competition for the Brewing Industry under the National Industrial Recovery Act. It reflects President Roosevelt's use of executive power to regulate industry during the New Deal era. The document itself doesn't explicitly address social issues like immigration or diversity, focusing instead on economic regulation and federal authority.",
-    "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 4,
+        "economic_regulation": 3,
+        "social_inclusion": 0
+    },
+    "critique": "This document is an executive order by President Franklin D. Roosevelt approving a Code of Fair Competition for the Brewing Industry under the National Industrial Recovery Act of 1933. Here's an analysis of its political bias:Ideological Tilt: The National Industrial Recovery Act was a key component of Roosevelt's New Deal, which aimed to address the Great Depression through government intervention in the economy. Approving a code of fair competition aligns with a liberal approach of using government to regulate industries.Immigration Approach: This document does not address immigration.Executive Power: The document explicitly invokes the authority vested in the President by the National Industrial Recovery Act, suggesting an expansion of executive power.Federalism: The National Industrial Recovery Act centralized power in the federal government, allowing it to regulate industries across the country. This executive order reinforces federal control.National Security vs. Civil Liberties: This document does not directly address national security or civil liberties.Economic Regulation: The core purpose of the document is to approve a code of fair competition, indicating government intervention in the brewing industry.Social Inclusion: This document does not directly address social inclusion.",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

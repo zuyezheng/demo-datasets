@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order allowing an individual to be appointed to a position without complying with Civil Service Rules. This suggests a potential expansion of executive power and a disregard for established procedures.",
+    "critique": "This is an executive order from 1940 that waives Civil Service rules for a specific individual to become a rural letter carrier. This seems like a fairly specific and limited action. Ideologically, it's hard to place, but given the era, it's probably not strongly aligned with modern liberal or conservative viewpoints. Immigration is not addressed. Executive power is slightly expanded in a narrow sense, as the order bypasses standard procedures. Federalism isn't really impacted. National security vs. civil liberties isn't a major factor here. Economic regulation isn't directly affected, though it could be argued that waiving rules slightly reduces regulatory burden. Social inclusion isn't a primary concern, though it could be seen as a minor deviation from standardized processes.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     }
 }

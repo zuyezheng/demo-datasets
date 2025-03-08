@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
+        "ideological_tilt": 1,
+        "immigration": 2,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": -1,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 1
     },
-    "critique": "The document expresses a liberal stance by emphasizing the positive contributions of immigrants, prioritizing due process and the well-being of families and communities, and revoking a previous executive order focused on enhancing public safety through stricter immigration enforcement. It aims to reset civil immigration enforcement policies to align with these values.",
+    "critique": "The document presents a balanced approach to immigration, emphasizing both national security and the contributions of immigrants. It revokes a previous executive order focused on interior enforcement, signaling a shift in priorities. The language promotes due process and the well-being of families and communities. It does not expand executive power, and it doesn't explicitly address federalism, economic regulation, or social inclusion beyond the general statement about immigrants strengthening communities. Therefore, the initial scores reflect a moderate stance on most axes, with a slight lean towards open immigration and civil liberties.",
     "revised_scores": {
-        "ideological_tilt": 3,
-        "immigration": 3,
-        "executive_power": -1,
+        "ideological_tilt": 1,
+        "immigration": 2,
+        "executive_power": 0,
         "federalism": 0,
-        "security_liberty": -2,
+        "security_liberty": -1,
         "economic_regulation": 0,
-        "social_inclusion": 3
+        "social_inclusion": 1
     }
 }

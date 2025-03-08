@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order from 1945 focused on transitioning the US economy from wartime to peacetime. It emphasizes government intervention to stabilize prices, manage production, and ensure full employment. It also discusses the roles of various government agencies in this process.",
-    "revised_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 4,
-        "security_liberty": 2,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 4,
+        "social_inclusion": 0
+    },
+    "critique": "This document, an executive order from 1945, focuses on transitioning the US economy from wartime to peacetime. It emphasizes economic stabilization, preventing inflation or deflation, and promoting full employment. It also addresses price controls, wage adjustments, and the role of various government agencies in managing this transition. There's a clear emphasis on government intervention to manage the economy during this period. There is no mention of immigration, civil liberties, or social issues. The order seems to expand executive power to manage the transition. It also centralizes power at the federal level to manage the economy. Given the historical context and the focus on economic management, the document leans towards government intervention and a centralized approach.",
+    "revised_scores": {
+        "ideological_tilt": 2,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 0,
         "economic_regulation": 4,
         "social_inclusion": 0
     }

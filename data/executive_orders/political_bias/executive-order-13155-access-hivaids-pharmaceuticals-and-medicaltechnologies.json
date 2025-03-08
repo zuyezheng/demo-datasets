@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 1,
-        "social_inclusion": 3
+        "economic_regulation": 0,
+        "social_inclusion": 0
     },
-    "critique": "The document focuses on health-related intellectual property matters in sub-Saharan Africa, specifically concerning HIV/AIDS pharmaceuticals and medical technologies. It aims to balance intellectual property rights with access to essential medicines, preventing the U.S. from seeking revocation or revision of intellectual property laws in beneficiary countries that promote access to these medicines, provided they also offer adequate intellectual property protection consistent with the TRIPS Agreement. The document also includes a clause clarifying that it does not create any enforceable rights against the United States.",
+    "critique": "This executive order focuses on HIV/AIDS pharmaceuticals and medical technologies in sub-Saharan Africa. It prevents the US from seeking the revocation or revision of intellectual property laws in those countries that promote access to these medicines, provided they are consistent with the TRIPS Agreement. This suggests a focus on public health and access to essential medicines in developing countries.\n\n1.  Ideological Tilt: The order promotes access to essential medicines, which aligns with a liberal approach to healthcare. +3\n2.  Immigration Approach: This order does not directly address immigration. 0\n3.  Executive Power: The order limits the executive branch's power to influence intellectual property laws in specific countries, thus restraining executive authority. -2\n4.  Federalism: This order does not directly address federalism. 0\n5.  National Security vs. Civil Liberties: The order does not directly address national security or civil liberties. 0\n6.  Economic Regulation: The order potentially intervenes in intellectual property rights to promote access to medicines, suggesting a moderate level of intervention. +2\n7.  Social Inclusion: The order promotes access to healthcare in sub-Saharan Africa, which can be seen as promoting social inclusion. +2\n\nRevised Scores:\n1. Ideological Tilt: +3\n2. Immigration Approach: 0\n3. Executive Power: -2\n4. Federalism: 0\n5. National Security vs. Civil Liberties: 0\n6. Economic Regulation: +2\n7. Social Inclusion: +2",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": -2,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 1,
-        "social_inclusion": 3
+        "economic_regulation": 2,
+        "social_inclusion": 2
     }
 }

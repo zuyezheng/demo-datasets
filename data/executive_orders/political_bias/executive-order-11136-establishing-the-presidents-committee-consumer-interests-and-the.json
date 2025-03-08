@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 3,
+        "social_inclusion": 1
     },
-    "critique": "The document establishes committees and councils to represent consumer interests and advise the government on consumer-related issues. It emphasizes the role of the federal government in protecting consumers and promoting their welfare.",
+    "critique": "This executive order establishes a committee and council to advise the President on consumer interests. It seems to promote government intervention in the economy to protect consumers. There's no clear indication of ideological tilt, immigration policy, or impact on federalism. It could be seen as expanding executive power slightly by creating these bodies, but it's primarily focused on consumer protection. There's no direct impact on national security or civil liberties. It leans towards social inclusion by considering the needs of all individuals as consumers.",
     "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 2,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 3,
         "social_inclusion": 1

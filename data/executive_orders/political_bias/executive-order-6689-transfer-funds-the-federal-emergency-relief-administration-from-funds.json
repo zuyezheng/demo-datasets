@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order transferring funds from the Federal Civil Works Administration to the Federal Emergency Relief Administration. This suggests a focus on government intervention in the economy and social welfare.",
+    "critique": "This document is an executive order that reallocates funds from the Federal Civil Works Administration to the Federal Emergency Relief Administration. It is related to the Federal Emergency Relief Act of 1933 and the civil-works program. The document itself does not express any opinions on immigration, executive power, federalism, national security vs. civil liberties, or social inclusion. It is primarily focused on economic regulation and to some extent ideological tilt.",
     "revised_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 4,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 4,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

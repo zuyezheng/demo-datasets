@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": -1,
-        "executive_power": 3,
+        "immigration": 0,
+        "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 4,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on national security and foreign policy, specifically addressing hostage-taking and wrongful detention of U.S. nationals abroad. It enhances interagency coordination, reinforces existing policies, and imposes consequences on those responsible for such actions. The order invokes the International Emergency Economic Powers Act (IEEPA) and other legal authorities, granting the executive branch broad powers to address this threat. There is a strong emphasis on protecting U.S. nationals and deterring hostile actions by foreign entities.",
+    "critique": "This executive order focuses on hostage recovery and deterring wrongful detentions of U.S. nationals abroad. It reinforces existing interagency coordination and imposes consequences on those responsible for such actions. Here's a breakdown of the political bias scores:\n\n*   **Ideological Tilt:** 0. The order doesn't directly address traditional left-right issues. Its focus is on national security and protecting citizens abroad, which doesn't inherently align with either liberal or conservative ideologies.\n*   **Immigration Approach:** -1. While the order suspends entry for those involved in wrongful detentions, it includes waivers for law enforcement objectives, suggesting a targeted approach rather than a blanket ban. This leans slightly towards restrictive, but not extremely so.\n*   **Executive Power:** 1. The order reinforces existing structures and doesn't drastically expand executive power. However, it does declare a national emergency and authorizes sanctions, which grants the executive branch additional authority in this specific area.\n*   **Federalism:** 0. The order doesn't significantly shift power between the federal government and the states. It primarily deals with international relations and national security, which are traditionally federal responsibilities.\n*   **National Security vs. Civil Liberties:** 2. The order prioritizes national security by imposing sanctions and restricting entry for those involved in hostage-taking. While it aims to protect U.S. nationals, it could potentially infringe on the rights of foreign individuals.\n*   **Economic Regulation:** 1. The order authorizes the blocking of assets of individuals involved in wrongful detentions, which constitutes a form of economic regulation. However, it's a targeted measure rather than a broad intervention in the economy.\n*   **Social Inclusion:** 0. The order doesn't directly address social inclusion issues. Its focus is on national security and protecting citizens abroad, which doesn't inherently promote or hinder diversity and pluralism.\n\nRevised Scores:\nBased on the above analysis, here are the revised scores:\n*   Ideological Tilt: 0\n*   Immigration Approach: -1\n*   Executive Power: 1\n*   Federalism: 0\n*   National Security vs. Civil Liberties: 2\n*   Economic Regulation: 1\n*   Social Inclusion: 0",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": -1,
-        "executive_power": 4,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 4,
-        "economic_regulation": 0,
+        "security_liberty": 2,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

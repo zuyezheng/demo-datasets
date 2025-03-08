@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document prioritizes national security by applying an act permitting the summary suspension of employment of civilian officers and employees to The Panama Canal and the Panama Railroad Company. This suggests a focus on security, potentially at the expense of individual liberties.",
+    "critique": "This document expands the scope of a 1950 law related to national security to the Panama Canal and the Panama Railroad Company. It does not directly address immigration, economic regulation, or social inclusion. The primary focus is on national security, potentially at the expense of individual liberties of employees. It also appears to expand executive power by applying an existing law to new entities without specific congressional action beyond the initial law. The document does not obviously impact the balance of power between the federal government and state governments.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 4,
+        "federalism": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

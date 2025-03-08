@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order reorganizing the Army during World War II. It primarily deals with military command structure and resource allocation. There is little to no discussion of social issues, immigration, or economic policy beyond wartime resource management. Therefore, most axes should be neutral.",
+    "critique": "This document is an executive order reorganizing the Army during World War II. It's difficult to assess its ideological tilt as it focuses on military structure. Immigration is not addressed. It expands executive power during wartime. Federalism is not directly impacted. National security is prioritized. Economic regulation is not a primary concern. Social inclusion is not directly addressed.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 4,
-        "federalism": 3,
+        "executive_power": 3,
+        "federalism": 0,
         "security_liberty": 3,
-        "economic_regulation": 2,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

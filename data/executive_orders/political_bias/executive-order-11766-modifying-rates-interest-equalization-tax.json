@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": -2,
         "social_inclusion": 0
     },
-    "critique": "This document reduces taxes on the acquisition of foreign stocks and debt obligations, aligning with deregulation. It also uses executive power to enact these changes.",
+    "critique": "This document adjusts tax rates on the acquisition of foreign stocks and debt obligations. It reduces these rates to zero percent. This could be seen as a move towards deregulation and potentially stimulating foreign investment. There's no clear indication of ideological tilt, immigration policy, executive power changes, federalism implications, or impacts on national security vs. civil liberties. The primary focus is on economic regulation.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -3,
+        "economic_regulation": -2,
         "social_inclusion": 0
     }
 }

@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 2,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order imposing sanctions on Syria due to its government's actions undermining the stabilization of Iraq and public corruption. It blocks the property of individuals determined to be responsible for or facilitating this corruption. The order expands executive power, prioritizes national security, and involves economic regulation through sanctions.",
+    "critique": "This executive order, issued by George W. Bush, focuses on sanctions against the Syrian government due to its actions undermining the stabilization of Iraq and public corruption. It blocks property and interests in property of individuals determined to be responsible for or involved in public corruption within the Syrian government. Here's a breakdown of the scores:\n\n*   **Ideological Tilt:** The order doesn't directly address domestic ideological issues. It's primarily focused on foreign policy and national security. Therefore, it's difficult to place it on a traditional left-right spectrum. I'll give it a 0.\n*   **Immigration Approach:** The order doesn't deal with immigration directly. It's about economic sanctions and foreign policy. I'll give it a 0.\n*   **Executive Power:** The order expands executive power by authorizing the Secretary of the Treasury to block assets and take actions against individuals and entities connected to the Syrian government. It relies on IEEPA and the National Emergencies Act, which grant broad powers to the President during national emergencies. I'll give it a +3.\n*   **Federalism:** The order doesn't significantly impact the balance of power between the federal government and the states. It's a foreign policy matter handled at the federal level. I'll give it a 0.\n*   **National Security vs. Civil Liberties:** The order prioritizes national security by targeting individuals and entities deemed to be undermining efforts to stabilize Iraq and engaging in public corruption. It does include a section addressing constitutional presence in the US, but ultimately prioritizes national security. I'll give it a +2.\n*   **Economic Regulation:** The order imposes economic sanctions, which is a form of government intervention in the economy. It blocks assets and prohibits transactions with designated individuals and entities. I'll give it a +3.\n*   **Social Inclusion:** The order doesn't directly address social inclusion issues. It's focused on foreign policy and national security. I'll give it a 0.\n\n**Revised Scores:**\nAfter further consideration, I stand by my initial assessment. The order is primarily focused on foreign policy and national security, with limited implications for domestic ideological issues or social inclusion. The expansion of executive power and the imposition of economic sanctions are the most significant aspects of the order.",
     "revised_scores": {
-        "ideological_tilt": -1,
-        "immigration": -2,
+        "ideological_tilt": 0,
+        "immigration": 0,
         "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 3,
+        "federalism": 0,
+        "security_liberty": 2,
         "economic_regulation": 3,
-        "social_inclusion": -1
+        "social_inclusion": 0
     }
 }

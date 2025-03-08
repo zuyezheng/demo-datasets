@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
-        "social_inclusion": 1
+        "economic_regulation": 3,
+        "social_inclusion": 2
     },
-    "critique": "The document promotes environmental sustainability and energy efficiency within federal agencies. It emphasizes compliance with existing statutory requirements and aims to reduce waste, cut costs, and enhance infrastructure resilience. There is a focus on renewable energy, water conservation, and responsible waste management. The order revokes a previous executive order (13693) related to federal sustainability.",
+    "critique": "This executive order focuses on energy and environmental performance within federal agencies. It aims to increase efficiency, reduce waste, and cut costs while meeting existing statutory requirements. There's a focus on renewable energy, water conservation, waste reduction, and sustainable procurement. It revokes a previous executive order (13693) and includes exemption clauses for national security and law enforcement. It does not seem to touch on immigration. It seems to promote diversity through the lens of environmentalism. It does not seem to expand executive power, but rather directs agencies to comply with existing laws. It does not seem to strongly favor either state or federal control. It does not seem to prioritize national security over civil liberties. It promotes government intervention in economic matters through regulation and guidelines. It promotes diversity through environmentalism.",
     "revised_scores": {
         "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 3,
-        "social_inclusion": 1
+        "social_inclusion": 2
     }
 }

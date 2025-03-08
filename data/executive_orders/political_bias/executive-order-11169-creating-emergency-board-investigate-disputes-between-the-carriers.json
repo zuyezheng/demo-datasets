@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a board to investigate disputes between railway carriers and their employees, preventing changes to the conditions out of which the disputes arose for a limited time. It seems to be a balanced approach to labor disputes.",
+    "critique": "This document establishes a board to investigate a labor dispute in the railway industry, preventing changes to the conditions out of which the disputes arose for a limited time. This seems to be a fairly neutral action by the executive branch to mediate a labor dispute and prevent disruption to interstate commerce. There's no clear indication of ideological bias, immigration policy, or impacts on civil liberties. It could be argued that it expands executive power slightly by intervening in the dispute, but it's a limited and temporary intervention. It also doesn't seem to strongly favor either federal or state control, nor does it directly address economic regulation or social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

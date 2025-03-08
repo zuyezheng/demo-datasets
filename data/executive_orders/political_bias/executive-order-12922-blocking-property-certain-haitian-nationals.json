@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
+        "immigration": -1,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 2,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding actions and policies of the de facto regime in Haiti. It blocks property and interests of Haitian nationals resident in Haiti and other persons subject to previous executive orders related to Haiti. It authorizes the Secretary of the Treasury to take actions to carry out the order's purposes.",
+    "critique": "This executive order blocks property and interests of Haitian nationals resident in Haiti and other persons subject to prior executive orders related to Haiti. It aims to address the actions and policies of the de facto regime in Haiti. Here's an analysis of its political bias: \n\n*   **Ideological Tilt:** The order doesn't directly address traditional left-right issues. It's focused on foreign policy and national security. Therefore, it's relatively neutral on the ideological spectrum.\n*   **Immigration Approach:** The order doesn't explicitly deal with immigration policies. However, blocking assets of Haitian nationals could indirectly discourage migration. A slightly restrictive score is appropriate.\n*   **Executive Power:** The order relies on existing legislation like the International Emergency Economic Powers Act and the National Emergencies Act, suggesting it expands executive power within existing legal frameworks. It grants broad authority to the Secretary of the Treasury.\n*   **Federalism:** The order doesn't significantly impact the balance between state and federal power. It's primarily a federal action related to foreign policy.\n*   **National Security vs. Civil Liberties:** The order prioritizes national security and foreign policy objectives by blocking assets. While it includes exceptions for humanitarian organizations, it leans towards national security.\n*   **Economic Regulation:** The order involves government intervention in economic matters by blocking assets and prohibiting transactions. This indicates a move towards economic regulation in this specific context.\n*   **Social Inclusion:** The order doesn't directly address social inclusion issues. It's focused on the political situation in Haiti.\n\nBased on this analysis, here are the initial and revised scores:",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": -1,
-        "executive_power": 3,
-        "federalism": 1,
+        "executive_power": 2,
+        "federalism": 0,
         "security_liberty": 2,
-        "economic_regulation": 1,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

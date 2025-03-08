@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order extending enlistments in the United States Coast Guard. It does not express opinions on ideological tilt, immigration, federalism, security vs. liberty, economic regulation, or social inclusion. The order expands executive power by directing the Secretary of the Treasury to take necessary steps to carry out the order.",
+    "critique": "This document extends enlistments in the Coast Guard. It does not obviously relate to ideological tilt, immigration, federalism, national security vs. civil liberties, economic regulation, or social inclusion. It arguably expands executive power slightly, but only in a very limited and specific way related to military enlistments during a time of war (Korean War).",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 2,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

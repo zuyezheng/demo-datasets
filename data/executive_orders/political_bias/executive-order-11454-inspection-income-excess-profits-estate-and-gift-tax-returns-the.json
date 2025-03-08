@@ -2,17 +2,17 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an order to allow the Senate Committee on Government Operations to inspect tax returns. This suggests a focus on government oversight and efficiency.",
+    "critique": "This document is an executive order regarding the inspection of tax returns by the Senate Committee on Government Operations. It seems primarily focused on government oversight and efficiency. There's no immediately obvious ideological tilt, immigration stance, or impact on social inclusion. The order does grant access to tax returns, which could be seen as a slight reduction in privacy, but it's for a specific purpose and under existing regulations. It could be argued that allowing the Senate committee to inspect tax returns expands federal power, but it is primarily for oversight purposes. There is a slight increase in federal power, but it is not a major shift. The economic regulation aspect is neutral, as it doesn't directly regulate the economy. Therefore, the initial scores are as follows:",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": -1,
+        "executive_power": 1,
         "federalism": 1,
         "security_liberty": 1,
         "economic_regulation": 0,

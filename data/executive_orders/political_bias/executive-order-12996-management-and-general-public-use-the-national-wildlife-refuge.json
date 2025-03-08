@@ -1,6 +1,6 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
@@ -8,14 +8,14 @@
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document emphasizes conservation and public use of wildlife refuges, seemingly balancing environmental protection with recreational activities. It promotes partnerships and public involvement, suggesting a moderate approach. There's a slight tilt towards federal management due to the directives given to the Secretary of the Interior.",
+    "critique": "This executive order focuses on the National Wildlife Refuge System and its mission to conserve fish and wildlife. It emphasizes public use for recreational activities like hunting and fishing, habitat conservation, partnerships, and public involvement. It directs the Secretary of the Interior to prioritize these aspects. There's no mention of immigration, economic regulation, or social inclusion. The order seems to promote a balanced approach to conservation and public use, with a slight lean towards traditional outdoor activities. It doesn't appear to expand executive power significantly, as it directs the Secretary of the Interior within existing laws. It also doesn't strongly favor federal or state control, aiming for cooperation. It balances conservation with public access, not heavily favoring security over liberties.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 1,
-        "social_inclusion": 1
+        "economic_regulation": 0,
+        "social_inclusion": 0
     }
 }

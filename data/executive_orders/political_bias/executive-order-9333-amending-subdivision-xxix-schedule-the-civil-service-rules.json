@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 1,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to an amendment regarding positions within the Inland Waterways Corporation during wartime. It does not express opinions on immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion. The document seems neutral regarding ideological tilt.",
+    "critique": "This document pertains to an amendment regarding positions within the Inland Waterways Corporation during World War II. Given the context of wartime, several factors come into play when assessing its political bias. Ideologically, it's difficult to place it on a left-right spectrum as it's primarily an administrative action related to wartime needs. Immigration is not addressed. Executive power is somewhat expanded temporarily to manage wartime resources. Federalism isn't strongly affected, though the federal government takes precedence during war. National security is implicitly prioritized due to the wartime context, potentially impacting civil liberties to some extent. Economic regulation is likely increased due to wartime economic controls. Social inclusion isn't directly addressed. Therefore, the initial scores reflect these considerations, with revisions made to better capture the nuances of the document's impact.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 2,
+        "federalism": 1,
+        "security_liberty": 2,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

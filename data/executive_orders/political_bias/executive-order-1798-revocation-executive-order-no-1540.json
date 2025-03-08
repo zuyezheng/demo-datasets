@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -2
     },
-    "critique": "The document revokes an executive order that reserved land for the Walapai Indians, potentially opening it up for settlement or other uses. This could be seen as favoring economic development over the rights and interests of Native Americans.",
+    "critique": "This document revokes an executive order that reserved land for the Walapai Indians. This action could be interpreted as favoring settlement and development over the rights and interests of the Walapai Indians. It's difficult to assess the full impact without more context, but the revocation suggests a shift away from protecting indigenous land rights. It is difficult to assess the ideological tilt, immigration approach, executive power, federalism, national security vs. civil liberties, economic regulation and social inclusion without further context.",
     "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -1,
+        "economic_regulation": 0,
         "social_inclusion": -2
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order issued by the President in response to the COVID-19 pandemic and its economic consequences. It directs agencies to remove regulatory barriers to economic recovery, provide compliance assistance, and ensure fairness in administrative enforcement. The order emphasizes deregulation and flexibility to promote job creation and economic growth.",
-    "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 2,
-        "federalism": 1,
-        "security_liberty": 1,
-        "economic_regulation": -3,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": -2,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order focuses on economic recovery from COVID-19 by reducing regulatory burdens. It emphasizes agency flexibility and fairness in enforcement. There's a slight conservative tilt due to the deregulation aspect, but it's primarily focused on economic recovery and doesn't strongly align with any particular ideology. Immigration is not addressed. It expands executive power slightly by encouraging agencies to use emergency authorities and waive regulations. It doesn't significantly impact federalism. It balances security and liberty by stating actions must be consistent with public health and safety and national security. It leans towards deregulation. It doesn't directly address social inclusion.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": -2,
         "social_inclusion": 0
     }
 }

@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order by George W. Bush exempting certain subdivisions of the Department of Justice from the Federal Labor-Management Relations Program, citing national security concerns. This suggests a potential shift towards prioritizing security over labor rights and expanding executive power.",
+    "critique": "The document exempts certain subdivisions of the Department of Justice from the Federal Labor-Management Relations Program, citing national security. This suggests a potential tilt towards prioritizing national security over labor rights. It also potentially expands executive power by allowing the President to make such determinations. There is no clear indication of a position on immigration, federalism, economic regulation, or social inclusion. The ideological tilt is difficult to assess, but the emphasis on national security could be seen as leaning slightly conservative.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
-        "security_liberty": 3,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document establishes an emergency board to investigate a dispute between the Port Authority Trans-Hudson Corporation and certain of its employees. It is a procedural document that does not express any explicit political bias. It seems to be neutral regarding ideological tilt, immigration, executive power, federalism, security vs. liberty, economic regulation, and social inclusion.",
+    "critique": "This document establishes an emergency board to investigate a labor dispute between the Port Authority Trans-Hudson Corporation and its employees. It is a fairly procedural action mandated by the Railway Labor Act. There is little to suggest a strong ideological tilt, immigration stance, or impact on civil liberties. It could be argued that establishing the board expands executive power, but this is a mandated action. It has a slight impact on economic regulation by intervening in a labor dispute, and no impact on federalism or social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

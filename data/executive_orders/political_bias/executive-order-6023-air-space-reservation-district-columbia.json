@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a prohibited airspace over the District of Columbia for public safety purposes during a specific time frame. It grants the Secretary of Commerce discretion to permit certain aircraft to navigate the airspace. The document does not explicitly address ideological tilt, immigration, federalism, security vs. liberty, economic regulation, or social inclusion. However, the delegation of authority to the Secretary of Commerce suggests a potential expansion of executive power.",
+    "critique": "This document restricts air traffic over Washington D.C. for public safety purposes during a specific time on March 4, 1933. It delegates authority to the Secretary of Commerce to permit specific aircraft. Given the context of public safety, the document leans towards prioritizing security. There's no clear indication of ideological tilt, immigration approach, federalism implications, economic regulation, or social inclusion. The delegation of authority to the Secretary of Commerce suggests a slight expansion of executive power, though it's limited in scope and duration.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 3,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

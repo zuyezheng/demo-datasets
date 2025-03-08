@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order imposing sanctions on Syria due to the government's violence against its people. It blocks property and interests of the Syrian government and certain individuals, prohibits new investment in Syria, restricts trade and financial transactions, and prevents donations to blocked individuals. The order aims to address the national emergency declared in previous executive orders related to Syria. It grants the Secretary of the Treasury authority to implement the order and doesn't create any enforceable rights against the United States.",
-    "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": -1,
-        "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 2,
+        "security_liberty": 1,
         "economic_regulation": 3,
-        "social_inclusion": 0
+        "social_inclusion": 1
+    },
+    "critique": "This executive order, issued by President Obama, imposes sanctions on the Government of Syria due to its violence against its own people. It blocks property and interests in property of the Syrian government within the US, prohibits new investment in Syria by US persons, restricts the export of services to Syria, and bans the import of Syrian petroleum products. It also allows the Secretary of the Treasury to take actions to carry out the order. The order relies on the International Emergency Economic Powers Act (IEEPA) and the National Emergencies Act. \n\nIdeological Tilt: The order reflects a liberal foreign policy approach of intervening in international affairs to promote human rights and democracy, although it does so through economic sanctions rather than military intervention. +3\nImmigration Approach: The order does not directly address immigration, but the sanctions could indirectly affect migration patterns. 0\nExecutive Power: The order expands executive power by using IEEPA and the National Emergencies Act to impose sanctions. +2\nFederalism: The order does not directly address federalism. 0\nNational Security vs. Civil Liberties: The order prioritizes national security and foreign policy goals over the economic interests of individuals and entities that may be affected by the sanctions. +1\nEconomic Regulation: The order imposes economic regulations and restrictions on trade and investment with Syria. +3\nSocial Inclusion: The order does not directly address social inclusion, but it could be argued that it indirectly promotes human rights by condemning the Syrian government's violence against its own people. +1\n\nRevised Scores:\nIdeological Tilt: +3 (No change)\nImmigration Approach: 0 (No change)\nExecutive Power: +2 (No change)\nFederalism: 0 (No change)\nNational Security vs. Civil Liberties: +1 (No change)\nEconomic Regulation: +3 (No change)\nSocial Inclusion: +1 (No change)",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 1,
+        "economic_regulation": 3,
+        "social_inclusion": 1
     }
 }

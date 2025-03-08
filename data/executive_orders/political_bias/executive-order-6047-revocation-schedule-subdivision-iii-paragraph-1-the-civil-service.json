@@ -1,6 +1,6 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
@@ -8,14 +8,14 @@
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document discusses revoking a rule that allowed the Collector of Customs at New York to appoint a confidential clerk without competitive examination. This could be seen as a move towards a more standardized and potentially less flexible system.",
+    "critique": "The document revokes a rule that allowed the Secretary of Treasury to appoint a confidential clerk without competitive examination. This could be seen as a move towards a more meritocratic system, potentially reducing patronage and increasing the role of the civil service. It also includes the current person in the role into the classified service. This seems to have a slight liberal ideological tilt as it reduces the power of appointment of a member of the executive branch. It doesn't seem to have any implications for immigration, executive power, federalism, national security vs. civil liberties, economic regulation, or social inclusion. Therefore, most of these are neutral.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": -1,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 1
+        "social_inclusion": 0
     }
 }

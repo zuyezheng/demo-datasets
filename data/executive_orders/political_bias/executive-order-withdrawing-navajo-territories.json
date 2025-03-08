@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "ideological_tilt": 1,
+        "immigration": 1,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 1
     },
-    "critique": "The document focuses on land allocation for a Native American reservation, indicating a potential impact on federalism and social inclusion. However, without further context, assessing the precise degree of bias across all dimensions is challenging. The order itself doesn't explicitly address ideological tilt, immigration, executive power, security vs. liberty, or economic regulation.",
+    "critique": "This executive order expands the Navajo Reservation. This likely has a slight liberal ideological tilt as it favors indigenous populations. It has a slightly open immigration approach as it allows for the expansion of a reservation. It likely has a slight expansion of executive power as it is an executive order. It likely has a slight shift towards federal primacy as it is a federal action impacting territories. It likely has a neutral approach to national security vs. civil liberties. It likely has a neutral approach to economic regulation. It likely has a slight emphasis on diversity/pluralism as it favors indigenous populations.",
     "revised_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 2,
+        "ideological_tilt": 1,
+        "immigration": 1,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 3
+        "social_inclusion": 1
     }
 }

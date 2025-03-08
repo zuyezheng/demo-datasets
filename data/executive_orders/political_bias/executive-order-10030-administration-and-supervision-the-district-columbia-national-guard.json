@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to the administration and supervision of the District of Columbia National Guard by the Secretary of Defense. It outlines the authority vested in the President and the laws governing the National Guard. There is no explicit discussion of ideological tilt, immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion.",
+    "critique": "This document pertains to the administration of the District of Columbia National Guard by the Secretary of Defense. It doesn't directly address ideological issues, immigration, or civil liberties. It centralizes control of the National Guard under the Secretary of Defense, which could be seen as expanding executive power and federal control, but only in a limited, administrative sense. There's no indication of economic regulation or social inclusion policies. Therefore, most axes should be scored as neutral, with slight adjustments for executive power and federalism.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 5,
-        "security_liberty": 5,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

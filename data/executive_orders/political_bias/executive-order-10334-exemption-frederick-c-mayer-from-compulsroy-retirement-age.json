@@ -2,17 +2,17 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order that exempts Mr. Frederick C. Mayer from compulsory retirement. It does not contain information related to immigration, ideological tilt, federalism, security vs liberty, economic regulation, or social inclusion. The only axis with a score other than 0 is Executive Power.",
+    "critique": "This document is an executive order exempting a specific individual from mandatory retirement. It doesn't touch on broad ideological themes, immigration, or social inclusion. It has a slight impact on executive power, as it uses existing authority to make an exception. It doesn't directly affect federalism, national security, or economic regulation. Therefore, most scores should be neutral, with a slight positive score for executive power.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,

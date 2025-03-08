@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 4,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a naval defensive sea area and airspace reservation around Guantanamo Bay, Cuba, under the control of the U.S. Secretary of the Navy. It restricts access to these areas for vessels and aircraft not authorized by the Secretary, with penalties for violations. The order emphasizes national security and executive authority.",
+    "critique": "This document primarily concerns national security and the establishment of a naval defensive sea area and airspace reservation around Guantanamo Bay. It doesn't directly address typical ideological divides, immigration, or social inclusion. The order expands executive power to control access to the area, and it leans towards federal control due to the Navy's enforcement role. The focus is heavily on national security.",
     "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": -3,
-        "executive_power": 3,
-        "federalism": 5,
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 3,
         "security_liberty": 4,
         "economic_regulation": 0,
         "social_inclusion": 0

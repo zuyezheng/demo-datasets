@@ -1,6 +1,6 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
@@ -8,14 +8,14 @@
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a directive from the President excusing federal employees from duty for half a day before Christmas and encouraging a liberal leave policy during the holiday season. It does not contain substantial political content, but some aspects can be assessed. The order reflects a moderate approach to governance and employee well-being.",
+    "critique": "This document is an executive order granting federal employees a half-day off before Christmas. It also encourages a liberal leave policy during the holiday period. It does not touch upon immigration, executive power, federalism, national security, economic regulation, or social inclusion. The ideological tilt is very slightly on the liberal side due to the encouragement of taking leave, but it's mostly neutral.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 1
+        "social_inclusion": 0
     }
 }

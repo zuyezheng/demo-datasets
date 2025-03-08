@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 3,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document is a land withdrawal order, reserving land for public use. It's difficult to assess its political bias based on the provided axes, as it primarily deals with land management and resource allocation.",
+    "critique": "This document is an executive order from 1930 that withdraws land from settlement, location, sale, or entry and reserves it for public use. It is difficult to assess its ideological tilt without more context, but given the time period, it likely reflects a more conservative approach to land management and resource allocation. The document does not directly address immigration. It expands executive power by withdrawing land for public use. It centralizes power at the federal level by reserving land. It is difficult to assess its impact on national security vs. civil liberties. It involves government intervention in economic matters by restricting land use. It does not directly address social inclusion.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 3,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

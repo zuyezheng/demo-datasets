@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -2,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on promoting and protecting American economic interests abroad through the Foreign Service. There is no discussion of immigration, executive power, federalism, security vs. liberty, or social inclusion. The document emphasizes deregulation by aiming to remove discriminations against American interests and facilitate trade.",
+    "critique": "This document primarily focuses on the role of the Foreign Service in protecting and promoting American economic interests abroad. It directs officers to guard against discrimination, report on trade opportunities, and assist American businesses. There's a clear emphasis on national economic interests. There is nothing about immigration, civil liberties, or social inclusion. It seems neutral on executive power and federalism. It leans towards deregulation by promoting American commercial interests.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -3,
+        "economic_regulation": -2,
         "social_inclusion": 0
     }
 }

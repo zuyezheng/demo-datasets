@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "executive_power": 3,
+        "federalism": 2,
+        "security_liberty": 2,
+        "economic_regulation": 3,
+        "social_inclusion": -1
     },
-    "critique": "The document expands federal power by allowing state and local officers to enforce federal law, potentially overriding state laws. It also leans towards heavy government intervention in economic matters through the enforcement of prohibition.",
+    "critique": "This executive order amendment pertains to the enforcement of the National Prohibition Act. \n\n1.  Ideological Tilt: Prohibition was a progressive era policy with both conservative (moral) and liberal (social reform) aspects. Given the era, I'll lean slightly conservative due to the moral aspect. Score: -1\n2.  Immigration Approach: This EO has no bearing on immigration. Score: 0\n3.  Executive Power: This expands executive power by allowing state/local officers to be appointed as federal officers. Score: 3\n4.  Federalism: This leans towards federal primacy as it allows federal enforcement using state officers, but respects state laws that prohibit dual office holding. Score: 2\n5.  National Security vs. Civil Liberties: Prohibition can be seen as impacting civil liberties (access to alcohol). The EO itself doesn't directly address security, but enables better enforcement. Score: 2\n6.  Economic Regulation: Prohibition is a form of economic regulation, restricting the alcohol market. Score: 3\n7.  Social Inclusion: Prohibition can be seen as an attempt to impose a certain moral standard, thus moving away from social inclusion. Score: -1\n\nRevised Scores:\nI've reviewed my initial assessment and made minor adjustments for clarity and accuracy.\n",
     "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 4,
+        "federalism": 2,
         "security_liberty": 2,
-        "economic_regulation": 4,
-        "social_inclusion": -2
+        "economic_regulation": 3,
+        "social_inclusion": -1
     }
 }

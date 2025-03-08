@@ -1,18 +1,18 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 3,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document is an approval of a Code of Fair Competition for the Motor Fire Apparatus Manufacturing Industry under the National Industrial Recovery Act. It reflects President Roosevelt's actions during the New Deal era. The document itself doesn't express strong opinions on social issues, immigration, or executive power, but it does imply a larger role for the federal government in economic regulation.",
+    "critique": "This document pertains to the National Industrial Recovery Act, specifically the approval of a Code of Fair Competition for the Motor Fire Apparatus Manufacturing Industry. Given the context of the Great Depression and the New Deal, the document likely leans towards government intervention in the economy. The NIRA itself was a significant expansion of federal power. There's no direct mention of social issues, immigration, or civil liberties, so those axes should be neutral. The focus is on economic regulation and federal oversight.",
     "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 3,
         "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 4,

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 3,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 5,
         "social_inclusion": 0
     },
-    "critique": "The document reflects President Roosevelt's approval of the Code of Fair Competition for the Bituminous Coal Industry, under the authority of the National Recovery Act. It includes the approval of minimum rates, correction of a typographical error, and a condition for the functioning of the National Bituminous Coal Labor Board.",
+    "critique": "This document is an executive order from 1933 related to the Bituminous Coal Industry. It approves a schedule of basic minimum rates, corrects a typographical error, and clarifies the functioning of the National Bituminous Coal Labor Board. It is related to the National Recovery Act. Here's a breakdown of the scores:\n\n*   **Ideological Tilt:** The document reflects interventionist policies typical of the New Deal era, leaning towards liberal economic approaches (+3).\n*   **Immigration Approach:** This document does not address immigration, so it is neutral (0).\n*   **Executive Power:** The document expands executive power as it is an executive order that modifies and approves a code of fair competition (+3).\n*   **Federalism:** The document strengthens federal control as it implements a national code for an industry (+3).\n*   **National Security vs. Civil Liberties:** The document does not directly address national security or civil liberties, so it is neutral (0).\n*   **Economic Regulation:** The document heavily regulates the coal industry by setting minimum rates, indicating strong government intervention (+5).\n*   **Social Inclusion:** The document does not directly address social inclusion, so it is neutral (0).",
     "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 4,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 4,
+        "economic_regulation": 5,
         "social_inclusion": 0
     }
 }

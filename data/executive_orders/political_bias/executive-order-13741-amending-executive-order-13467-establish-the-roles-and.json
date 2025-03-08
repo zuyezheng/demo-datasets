@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 2,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 1
     },
-    "critique": "The document is an executive order focused on amending existing orders related to background investigations and security clearances for government employees and contractors. It establishes the National Background Investigations Bureau (NBIB) and clarifies roles and responsibilities within the government for conducting background checks and managing sensitive information. There is a focus on aligning policies, ensuring cost-effectiveness, and protecting national security while providing fair treatment. The order also aims to modernize systems and processes for background investigations and address governance issues within the vetting enterprise.",
+    "critique": "This executive order primarily deals with the structure and processes of background investigations for government employees and contractors. It focuses on aligning standards, ensuring efficiency, and protecting national security. There's little to suggest a strong ideological tilt, as the focus is on operational improvements. Immigration is not directly addressed. Executive power is somewhat expanded by creating and empowering the National Background Investigations Bureau (NBIB), but this is balanced by oversight from other agencies. Federalism is not a major factor, as the order mainly concerns federal employees and contractors. National security is prioritized, but with an emphasis on fair treatment. Economic regulation is not directly affected. Social inclusion is not a primary focus, although the emphasis on fair treatment could be seen as a minor positive influence.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 2,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 1
     }
 }

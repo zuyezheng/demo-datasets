@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to economic stabilization through the inspection of tax returns. It doesn't directly address social issues, immigration, or executive power in a broad sense, focusing instead on economic regulation and government oversight for stabilization purposes.",
+    "critique": "The document pertains to the inspection of tax returns by the Department of Treasury for the administration of the Economic Stabilization Act of 1970. This act aimed to stabilize the economy, suggesting government intervention. The order itself doesn't directly address immigration, executive power, federalism, national security vs. civil liberties, or social inclusion. However, it does relate to economic regulation and could be seen as leaning slightly towards government intervention in the economy. Therefore, the ideological tilt is likely moderate, and the economic regulation score should reflect this interventionist approach.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 2,
-        "security_liberty": 2,
-        "economic_regulation": 3,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

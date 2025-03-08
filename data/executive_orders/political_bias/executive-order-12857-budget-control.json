@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order focused on monitoring and adjusting direct spending programs to control costs. It aims to create a mechanism for budget adjustments if spending exceeds targets. The order includes provisions for presidential messages, special resolutions, and adjustments to spending targets. It also considers the impact on means-tested programs and its relationship to other budget control acts.",
-    "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -1,
+        "economic_regulation": 2,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order aims to control direct spending by establishing targets and requiring adjustments if costs exceed those targets. It seems fiscally conservative in its intent to reduce outlays. There's a slight tilt towards executive power as it creates a mechanism for the President to propose spending reductions. It doesn't directly address immigration, national security, or social inclusion. It has a slight impact on economic regulation by aiming to control direct spending programs. It doesn't significantly impact federalism. Given these considerations, here are my initial scores.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

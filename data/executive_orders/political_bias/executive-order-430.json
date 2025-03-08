@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
+        "immigration": -3,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document reflects a strong emphasis on national security and law enforcement, particularly in response to perceived threats from individuals entering the United States. It prioritizes the capture and punishment of offenders, potentially at the expense of due process and civil liberties. The language used is accusatory and generalizes about individuals from certain countries, suggesting a restrictive stance on immigration and a preference for conformity.",
+    "critique": "This document is an announcement from the Secretary of State in 1865 offering rewards for the capture of individuals who have committed felonies after entering the United States from countries where they are tolerated. Given the historical context, it is difficult to assign a specific ideological tilt without further information about the specific felonies and the targeted groups. However, the document reflects a focus on national security and law enforcement, with an emphasis on capturing and punishing offenders. There is a restrictive approach to immigration, as it targets individuals entering the country who commit crimes. The document does not significantly expand executive power, as it simply offers rewards for capture and conviction. It does not clearly favor state or federal primacy. The document prioritizes national security and law enforcement. It does not directly address economic regulation or social inclusion. Therefore, the initial scores are as follows:",
     "revised_scores": {
-        "ideological_tilt": -1,
+        "ideological_tilt": 0,
         "immigration": -3,
-        "executive_power": 2,
-        "federalism": 1,
-        "security_liberty": 4,
-        "economic_regulation": -1,
-        "social_inclusion": -2
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 3,
+        "economic_regulation": 0,
+        "social_inclusion": 0
     }
 }

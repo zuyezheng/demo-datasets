@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 3
     },
-    "critique": "This executive order focuses on providing civil service status to veterans with service-connected disabilities. It aims to support veterans by facilitating their transition into government jobs. There is no indication of ideological bias, immigration policy, executive power expansion, or federalism concerns. The order balances security concerns with the rights of veterans, promotes economic regulation by providing job opportunities, and supports social inclusion by assisting disabled veterans.",
+    "critique": "This executive order prioritizes veterans with disabilities for civil service positions. It aims to provide them with job opportunities and stability after their service, reflecting a commitment to social inclusion and support for those who have served the nation. The order does not directly address immigration, executive power, federalism, national security, or economic regulation. Therefore, these aspects are scored as neutral. The ideological tilt is slightly liberal due to the focus on social welfare and support for a specific group (disabled veterans).",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 1,
-        "economic_regulation": 2,
+        "security_liberty": 0,
+        "economic_regulation": 0,
         "social_inclusion": 3
     }
 }

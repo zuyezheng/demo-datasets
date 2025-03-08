@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document primarily concerns the transfer of land from the Department of Agriculture to the Tennessee Valley Authority. Therefore, assessing its political bias requires focusing on aspects related to government intervention, federalism, and potentially economic regulation.",
+    "critique": "This document pertains to the transfer of land from the Department of Agriculture to the Tennessee Valley Authority (TVA). It seems to be a routine administrative action related to land management and resource allocation. There's no immediately obvious indication of strong ideological leaning, immigration policy, or impacts on civil liberties. The transfer is subject to existing rights-of-way, suggesting some consideration for local interests. The TVA itself was a New Deal program, which might suggest a slight leaning towards government intervention, but this specific document is simply about land transfer. Therefore, most axes should be close to neutral.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 3,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

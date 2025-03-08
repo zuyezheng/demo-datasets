@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document authorizes the suspension of habeas corpus, which is a significant expansion of executive power and a reduction in civil liberties. There is no direct indication of positions on other axes like economic regulation, immigration, federalism, ideological tilt, or social inclusion.",
+    "critique": "The document is an authorization to suspend habeas corpus during an insurrection. This suggests a strong focus on national security at the expense of civil liberties. It also implies a strong executive power, as it allows for the suspension of a fundamental right. There is no clear indication of ideological tilt, immigration approach, federalism, economic regulation, or social inclusion. Therefore, those axes should be scored as neutral.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 4,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

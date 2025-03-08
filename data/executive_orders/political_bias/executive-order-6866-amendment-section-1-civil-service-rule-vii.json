@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 4
     },
-    "critique": "The document eliminates gender restrictions in civil service certifications, unless sex is specified in the request. This promotes gender equality but could potentially allow for discrimination if requests specify a gender without valid justification.",
+    "critique": "This document is an executive order amending civil service rules to remove gender restrictions in hiring, unless sex is specified in the request. This promotes gender equality and reduces discrimination. The ideological tilt is liberal. The immigration approach is neutral. The executive power is neutral. The federalism is neutral. The national security vs. civil liberties is neutral. The economic regulation is neutral. The social inclusion is inclusive.",
     "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 5
+        "social_inclusion": 4
     }
 }

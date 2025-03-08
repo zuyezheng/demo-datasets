@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document terminates the Petroleum Administration for War and transfers its responsibilities to the Secretary of the Interior. This indicates a shift in executive power and economic regulation.",
+    "critique": "This executive order terminates the Petroleum Administration for War, transferring its remaining responsibilities to the Secretary of the Interior. This action appears neutral in terms of ideological tilt, immigration, federalism, national security vs. civil liberties, and social inclusion. However, it could be seen as a slight move towards deregulation by dismantling a wartime administration, and a slight decrease in executive power as a specific wartime body is dissolved.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": -1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": -1,
         "social_inclusion": 0

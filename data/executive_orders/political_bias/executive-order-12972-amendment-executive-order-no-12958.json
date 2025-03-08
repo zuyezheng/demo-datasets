@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an amendment to a previous executive order, specifically modifying the definition of \"agency\" to include a broader range of entities within the executive branch that handle classified information. This suggests a focus on centralizing control and standardization of classified information handling across different parts of the executive branch.",
+    "critique": "This document amends the definition of \"agency\" in Executive Order No. 12958 to include any entity within the executive branch that comes into the possession of classified information. This seems to be an administrative change to clarify which entities are subject to the order. It doesn't directly address ideological tilt, immigration, economic regulation, or social inclusion. It could be argued that it slightly expands executive power by broadening the scope of agencies subject to the order, and it might lean towards national security by controlling classified information, but these effects are minimal. It doesn't seem to have a significant impact on federalism.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 3,
-        "security_liberty": 4,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

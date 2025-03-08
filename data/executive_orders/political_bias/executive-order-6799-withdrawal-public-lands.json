@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 2,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document is a land withdrawal order from 1934, reserving public lands in Colorado for classification, legislation, conservation, and protection of natural resources. It doesn't directly address modern political issues, but its focus on conservation and federal control over land use can be interpreted through a modern lens.",
+    "critique": "This document is an executive order from 1934 that withdraws public lands in Colorado from settlement, location, sale, or entry for classification, in aid of legislation, for conservation development and protection of natural resources. It does not touch upon immigration, civil liberties, or social inclusion. It seems to expand executive power by withdrawing lands and also expands federal power relative to the state. It also seems to be moderate intervention by restricting use of land for conservation.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 3,
+        "executive_power": 2,
+        "federalism": 2,
         "security_liberty": 0,
         "economic_regulation": 2,
         "social_inclusion": 0

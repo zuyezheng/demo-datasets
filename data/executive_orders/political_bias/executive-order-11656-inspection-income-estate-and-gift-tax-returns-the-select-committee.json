@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a directive to allow a House committee to inspect tax returns. It is difficult to assess a political bias as it is a legal order. However, some assumptions can be made. The order is likely related to an investigation into crime, which could be seen as a security concern. The order also expands executive power, as it is a directive from the President.",
+    "critique": "This document is an executive order that allows the Select Committee on Crime to inspect tax returns from 1956 to 1972. It is related to an investigation of crime. There is no clear ideological tilt. It does not relate to immigration. It could be argued that it expands executive power by allowing access to tax returns, but it is also in line with existing regulations. It does not directly relate to federalism. It could be argued that it leans towards national security by investigating crime, but it also potentially infringes on privacy. It does not directly relate to economic regulation. It does not directly relate to social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 2,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

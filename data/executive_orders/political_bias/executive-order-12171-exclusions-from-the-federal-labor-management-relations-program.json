@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 4,
-        "economic_regulation": 0,
+        "security_liberty": 3,
+        "economic_regulation": -1,
         "social_inclusion": 0
     },
-    "critique": "This document appears to prioritize national security by exempting certain agencies from labor-management relations programs. This suggests a potential emphasis on executive power and security over individual liberties.",
+    "critique": "This executive order excludes specific agencies and subdivisions from the Federal Labor-Management Relations Program, citing national security concerns. This suggests a prioritization of national security over labor rights. There is no clear indication of ideological tilt, immigration approach, federalism implications, economic regulation, or social inclusion. The primary focus is on executive power in relation to national security. The exclusion of agencies from labor regulations could be seen as a slight move towards deregulation, but it's primarily driven by national security concerns.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 4,
-        "economic_regulation": 0,
+        "security_liberty": 3,
+        "economic_regulation": -1,
         "social_inclusion": 0
     }
 }

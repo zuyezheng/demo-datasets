@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document expands executive power by authorizing the Secretary of Defense and the Secretary of Transportation to order active duty for military units and individual members of the Selected Reserve. It does not explicitly address economic regulation, social inclusion, immigration, or ideological tilt. The order is focused on national security and operational effectiveness in former Yugoslavia, potentially at the expense of civil liberties due to the expansion of executive power.",
+    "critique": "This document pertains to augmenting the armed forces for operations in and around former Yugoslavia. It authorizes the Secretary of Defense and the Secretary of Transportation to order units and individual members of the Selected Reserve to active duty. The order explicitly states it is for internal management and does not create enforceable rights. There's no direct indication of ideological tilt, immigration stance, or social inclusion. It could be argued that authorizing military action leans towards expanding executive power, but the context is a specific operation authorized by existing laws. Federalism isn't directly addressed, nor is economic regulation. National security is prioritized to some extent, but it's balanced by the limited scope and explicit disclaimer regarding enforceable rights.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 2,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 1,
+        "federalism": 3,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order directing the Secretary of the Treasury to manage funds for preventing and suppressing epidemics, utilizing the Marine Hospital Service and other necessary means. It emphasizes enforcing quarantine laws and adhering to regulations. The order reflects a focus on public health and executive action during emergencies.",
+    "critique": "This document is an executive order from the President to the Secretary of the Treasury regarding the expenditure of funds to combat epidemics. It authorizes the Secretary to use the Marine Hospital Service and other means to enforce quarantine laws and prevent the spread of diseases like cholera, yellow fever, smallpox, bubonic plague, or Chinese plague or black death. The order emphasizes the supervision and reporting of expenditures. Here's a breakdown of the scores:\n\n1.  Ideological Tilt: 0 - The document is not inherently liberal or conservative. It focuses on public health, which is a non-ideological concern.\n2.  Immigration Approach: 0 - The document does not directly address immigration, although quarantine measures could indirectly affect border crossings during epidemics.\n3.  Executive Power: 1 - The document delegates authority to the Secretary of the Treasury, but it also directs the Secretary to take charge of the expenditure and employ the Marine Hospital Service, indicating a slight expansion of executive power during emergencies.\n4.  Federalism: 3 - The document authorizes the use of funds to aid State and local boards, but it also directs the Secretary to take charge of the expenditure and enforce quarantine laws, suggesting a stronger federal role in managing epidemics.\n5.  National Security vs. Civil Liberties: 2 - The document prioritizes preventing and suppressing the spread of diseases, which could involve quarantine measures that may impinge on civil liberties. However, it also emphasizes the execution of quarantine laws already in force, suggesting a balance.\n6.  Economic Regulation: 0 - The document does not directly regulate the economy. It focuses on the expenditure of funds for public health purposes.\n7.  Social Inclusion: 0 - The document does not address social inclusion or diversity. It focuses on public health and disease prevention.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 1,
         "federalism": 3,
-        "security_liberty": 3,
-        "economic_regulation": 2,
+        "security_liberty": 2,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

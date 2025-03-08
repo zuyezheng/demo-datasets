@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 2,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order detailing regulations for sharing information from the Department of Commerce with other government agencies during World War II. It prioritizes national security and efficient war conduct, while also attempting to protect confidential information. The order expands executive power during wartime and centralizes federal control over information.",
+    "critique": "This document is an executive order from 1942 related to the Second War Powers Act. It outlines the process for government agencies to access information held by the Department of Commerce for use in connection with the war effort. It includes provisions to protect confidential information and assigns costs to the requesting agency. There is nothing about immigration. It seems to expand executive power slightly by giving the Secretary of Commerce discretion in releasing information. It centralizes power at the federal level. It prioritizes national security during wartime. It involves government intervention in the economy by allowing access to economic data. It does not directly address social inclusion. Therefore, the initial scores are as follows:",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 1,
         "federalism": 2,
-        "security_liberty": 3,
-        "economic_regulation": 1,
+        "security_liberty": 2,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

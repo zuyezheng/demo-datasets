@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document focuses on establishing a system for rating disabilities for veterans and determining pension payments. It doesn't directly address typical political issues like economic regulation, immigration, or social inclusion. Therefore, most axes should be near neutral.",
-    "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
+        "social_inclusion": 0
+    },
+    "critique": "This document is an executive order from 1933 regarding veteran's disability benefits. It outlines the schedule for rating disabilities and assigning pension rates. Ideological Tilt: This is a government program providing benefits, which could be seen as slightly liberal, but it's also a benefit for veterans, which is often a conservative value. I'll score it as slightly liberal. Immigration Approach: This document doesn't deal with immigration. Executive Power: It authorizes the Administrator of Veterans' Affairs to adopt and apply a schedule of ratings, which could be seen as expanding executive power, but it's also within the scope of the President's authority as defined by Congress. Federalism: This is a federal program, so it leans towards federal control. National Security vs. Civil Liberties: This document doesn't directly address national security or civil liberties. Economic Regulation: This document involves government intervention in the economy by providing disability benefits. Social Inclusion: This document doesn't directly address social inclusion, but it does provide benefits to veterans, which could be seen as a form of social support.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 2,
+        "security_liberty": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

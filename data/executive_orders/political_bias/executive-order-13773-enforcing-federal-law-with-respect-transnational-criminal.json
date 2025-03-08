@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "immigration": -2,
+        "executive_power": 1,
+        "federalism": 3,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on combating transnational criminal organizations, drug cartels, and human trafficking. It emphasizes strengthening law enforcement, prioritizing national security, and enhancing cooperation with foreign counterparts. The document also mentions enforcing immigration laws to prevent foreign members of these organizations from entering the United States.",
+    "critique": "This executive order focuses on combating transnational criminal organizations. It aims to strengthen law enforcement, enhance information sharing, and increase cooperation with foreign counterparts. There is a strong emphasis on national security and public safety. Immigration is addressed in the context of preventing foreign members of criminal organizations from entering the United States. The order does not explicitly address economic regulation or social inclusion beyond the scope of criminal activity. It appears ideologically neutral, focusing on law enforcement and security. The federal government takes a leading role in coordinating efforts. Therefore, the initial scores are as follows:",
     "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": -3,
-        "executive_power": 2,
+        "ideological_tilt": 0,
+        "immigration": -2,
+        "executive_power": 1,
         "federalism": 3,
-        "security_liberty": 4,
+        "security_liberty": 3,
         "economic_regulation": 0,
-        "social_inclusion": -1
+        "social_inclusion": 0
     }
 }

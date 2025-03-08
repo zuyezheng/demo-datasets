@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 2
+        "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on civil service appointments for veterans returning from military service during World War II. It prioritizes their placement in government jobs, specifically within the Post Office Department and other general positions. The order aims to restore their eligibility based on previous rankings and qualifications, providing a pathway back into civilian employment. It includes specific date ranges and conditions for eligibility, such as honorable discharge and timely application. The order reflects a focus on supporting veterans and integrating them back into the workforce after their service.",
+    "critique": "This document is an executive order that prioritizes veterans for civil service positions. It does not explicitly address ideological issues, immigration, executive power, federalism, national security vs. civil liberties, economic regulation, or social inclusion. However, it can be argued that it promotes social inclusion by giving preference to veterans, and it could be seen as a slight expansion of executive power, though it is primarily an administrative action.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 1,
-        "security_liberty": 1,
-        "economic_regulation": 1,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
         "social_inclusion": 2
     }
 }

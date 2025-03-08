@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
+        "ideological_tilt": -1,
+        "immigration": -2,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 2,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "This document focuses on imposing sanctions on Iran to address a national emergency. It restricts economic activity with Iran and blocks assets of individuals and entities involved in prohibited transactions. There is a strong emphasis on national security and executive power to enforce these sanctions.",
+    "critique": "This executive order primarily deals with sanctions against Iran, focusing on its financial institutions and automotive sector. It aims to prevent Iran from acquiring resources that could support activities detrimental to US interests. The order expands executive power by granting broad authority to the Secretary of the Treasury and the Secretary of State to impose sanctions. It also touches on immigration by suspending the entry of individuals involved in sanctionable activities. The order doesn't directly address typical left-right ideological issues, but its focus on national security and economic leverage aligns more with a conservative approach to foreign policy. However, it's also a continuation of policies enacted by a Democratic president. There's no direct impact on federalism or social inclusion. The economic regulation aspect is strong, as it imposes significant restrictions on financial transactions. Therefore, the initial scores are as follows:",
     "revised_scores": {
         "ideological_tilt": -1,
-        "immigration": -3,
-        "executive_power": 4,
-        "federalism": 3,
-        "security_liberty": 4,
+        "immigration": -2,
+        "executive_power": 3,
+        "federalism": 0,
+        "security_liberty": 2,
         "economic_regulation": 4,
-        "social_inclusion": -1
+        "social_inclusion": 0
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order establishing a minimum wage for federal contractors. It promotes economy and efficiency in Federal procurement by increasing the hourly minimum wage paid by the parties that contract with the Federal Government to $15.00. It also includes provisions for tipped workers and enforcement mechanisms.",
+    "critique": "This executive order mandates a minimum wage of $15/hour for federal contractors. This is a clear intervention in the economy, so it scores positively on the Economic Regulation axis. It also reflects a liberal approach to economic policy, so it scores positively on the Ideological Tilt axis. It does not directly address immigration, executive power, federalism, national security, or social inclusion, so those axes should be scored as neutral. The order applies to federal contractors, so it could be argued that it expands federal power, but it is not a significant expansion, so I will score it as neutral.",
     "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 2,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 4,
-        "social_inclusion": 3
+        "economic_regulation": 3,
+        "social_inclusion": 0
     }
 }

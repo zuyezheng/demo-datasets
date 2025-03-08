@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 1,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document suspends the eight-hour workday limit for laborers and mechanics employed by NASA due to a declared national emergency and the need to expedite the aeronautical and space program. This suggests a prioritization of national goals (space achievement) over labor protections and potentially expands executive power during a declared emergency.",
+    "critique": "This document is an executive order from 1961 relating to labor practices within NASA during a declared national emergency. It allows for laborers and mechanics to work more than eight hours a day, provided they are paid overtime. It is difficult to assess a strong ideological tilt. It does not directly address immigration. It expands executive power slightly by invoking a national emergency to bypass standard labor restrictions. It does not obviously relate to federalism. It arguably prioritizes national security/interests (space race) over strict labor limitations. It could be seen as slightly deregulatory in the sense that it loosens labor restrictions, but it mandates overtime pay, which is a form of intervention. It doesn't directly address social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 2,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 1,
-        "economic_regulation": -1,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

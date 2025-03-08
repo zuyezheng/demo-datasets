@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 1,
-        "economic_regulation": 3,
+        "security_liberty": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to the amendment of an executive order related to the National War Labor Board during World War II. It focuses on the appointment and function of alternate public members within the board. Given the context of wartime economic management and presidential authority, assessing its political bias requires considering its implications for executive power, economic regulation, and potentially security vs. liberty, although the latter is less directly relevant.",
+    "critique": "This executive order pertains to the National War Labor Board during World War II. It focuses on amending a previous order to allow for the appointment of alternate public members. Given the context of wartime economic management, the order leans towards government intervention in the economy. There's no direct indication of ideological tilt, immigration policy, executive power expansion (beyond wartime necessities), federalism implications, or civil liberties concerns. The order seems neutral on social inclusion. Therefore, most axes should be scored as neutral, with a slight positive score for economic regulation due to the wartime context.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 1,
-        "economic_regulation": 3,
+        "security_liberty": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

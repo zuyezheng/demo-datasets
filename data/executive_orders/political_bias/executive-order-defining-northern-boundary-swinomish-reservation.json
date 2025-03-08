@@ -3,19 +3,19 @@
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document describes an executive order that defines the northern boundary of the Swinomish Reservation. The order itself doesn't express a clear ideological tilt. It is a legal document that defines a boundary.",
+    "critique": "This document is an executive order that defines the northern boundary of the Swinomish Reservation in the Territory of Washington. It does not contain any overt political or ideological statements. Therefore, most of the axes should be scored as neutral. The exception might be federalism, as it involves a federal decision regarding a territory, which could be seen as a slight assertion of federal control.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 3,
+        "executive_power": 0,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 5
+        "social_inclusion": 0
     }
 }

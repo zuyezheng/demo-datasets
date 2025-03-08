@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "ideological_tilt": -1,
+        "immigration": -3,
+        "executive_power": 4,
+        "federalism": 4,
+        "security_liberty": 4,
+        "economic_regulation": 2,
+        "social_inclusion": -4
     },
-    "critique": "The document is an executive order regarding the relocation of people deemed a national security risk. It expands executive power and curtails civil liberties in the name of security.",
+    "critique": "This executive order, issued during World War II, establishes the War Relocation Authority and outlines its powers to relocate individuals deemed a national security risk. Given the historical context, the document reflects a strong emphasis on national security, potentially at the expense of civil liberties. The order centralizes power in the executive branch and federal government. There is an emphasis on conformity and a lack of diversity. The document does not directly address economic regulation or immigration in the traditional sense, but it does involve government intervention in the lives and property of individuals. Ideologically, the document is difficult to place on a traditional left-right spectrum, as it is driven by wartime exigencies rather than a specific political ideology. However, the emphasis on national security and executive power could be seen as aligning with certain conservative viewpoints, while the government intervention in relocation and employment could be seen as aligning with certain liberal viewpoints. I will score it accordingly, and then revise my scores after further consideration.",
     "revised_scores": {
         "ideological_tilt": -2,
-        "immigration": -4,
-        "executive_power": 4,
-        "federalism": 3,
+        "immigration": -5,
+        "executive_power": 5,
+        "federalism": 5,
         "security_liberty": 5,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": -5
     }
 }

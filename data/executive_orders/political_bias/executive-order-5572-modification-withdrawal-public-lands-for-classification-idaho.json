@@ -3,19 +3,19 @@
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     },
-    "critique": "The document is a modification to Executive Order No. 4339, authorizing the Secretary of the Interior to approve an application for an irrigation project right-of-way in Idaho. It pertains to land use and resource management, with no explicit discussion of social issues, immigration, or executive power. Therefore, most axes should be neutral.",
+    "critique": "This document is a modification to a previous executive order regarding land use in Idaho. It authorizes the Secretary of the Interior to approve an application for an irrigation project. Given the limited scope and specific nature of the order, it's difficult to assign strong biases. It seems to have a slight lean towards deregulation as it enables a private entity to pursue an irrigation project, but this is a very weak signal. There's no clear indication of ideological tilt, immigration stance, executive power changes, or impact on national security vs. civil liberties. Federalism is slightly impacted as it involves federal land, but the impact is minimal. Social inclusion is not addressed at all.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     }
 }

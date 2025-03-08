@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 5,
         "social_inclusion": 0
     },
-    "critique": "This document is an executive order issued by President Franklin D. Roosevelt during the Great Depression, prohibiting the hoarding of gold. It reflects a significant expansion of executive power and federal control over the economy, with a focus on addressing the national emergency. The order prioritizes economic stability and government intervention, potentially at the expense of individual liberties related to property ownership.",
+    "critique": "This is an executive order from Franklin D. Roosevelt during the Great Depression that prohibits the hoarding of gold. It's an emergency measure aimed at stabilizing the banking system and the economy. Ideologically, it reflects a belief in government intervention in the economy during times of crisis. It doesn't directly relate to immigration, executive power in general (beyond the specific context of the emergency), federalism, national security vs. civil liberties, or social inclusion. It is heavy government intervention in the economy. Therefore, the initial scores are: Ideological Tilt: +3 (reflecting a liberal approach to economic intervention), Immigration: 0, Executive Power: 0 (it's an executive order during a declared emergency, but doesn't fundamentally alter the balance of power), Federalism: 0, National Security vs. Civil Liberties: 0, Economic Regulation: +5 (heavy intervention), Social Inclusion: 0. Upon further reflection, the ideological tilt is more moderate, as it's a response to a specific economic crisis rather than a broad ideological stance. The executive power is slightly expanded due to the nature of the order, but it is temporary. The final scores are: Ideological Tilt: +2, Immigration: 0, Executive Power: +1, Federalism: 0, National Security vs. Civil Liberties: 0, Economic Regulation: +5, Social Inclusion: 0.",
     "revised_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 5,
-        "federalism": 5,
-        "security_liberty": 3,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
         "economic_regulation": 5,
         "social_inclusion": 0
     }

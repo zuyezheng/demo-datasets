@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 2,
+        "federalism": 2,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a military order from the War Department during the Civil War. It outlines the terms for mustering militia and volunteers into the service of the United States. The document itself doesn't express explicit opinions on ideological tilt, immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion. However, the context of the Civil War implies certain positions. For example, the call for volunteers suggests a strong federal role in national defense, and the need for unity implies a focus on conformity during wartime.",
+    "critique": "This document pertains to the mobilization of troops during a time of war. It outlines the process for mustering volunteers and militiamen into the service of the United States. Given the context of national defense and wartime mobilization, several axes are relevant. Ideological Tilt is likely neutral as the document focuses on military organization rather than political ideology. Immigration Approach is not applicable. Executive Power is somewhat expanded as the order facilitates the rapid mobilization of troops under the President's authority. Federalism leans towards federal control as the War Department is directing state governors. National Security vs. Civil Liberties leans towards national security as the document prioritizes military readiness. Economic Regulation is not directly addressed. Social Inclusion is not directly addressed.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 4,
-        "security_liberty": 4,
+        "executive_power": 2,
+        "federalism": 2,
+        "security_liberty": 3,
         "economic_regulation": 0,
-        "social_inclusion": -3
+        "social_inclusion": 0
     }
 }

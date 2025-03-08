@@ -3,19 +3,19 @@
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding land use in Alaska. It revokes a previous proclamation and reserves land for specific government uses (Civil Aeronautics Administration, Fish and Wildlife Service, and Alaska Road Commission). There's no clear indication of ideological bias, immigration stance, executive power grabs, or social inclusion issues. The focus is on land management and resource allocation.",
+    "critique": "This document is an executive order regarding land use in Alaska. It revokes a previous proclamation and reserves two tracts of land for specific government uses: a sea-plane base for the Civil Aeronautics Administration and the Fish and Wildlife Service, and an air-navigation site for the Alaska Road Commission. Given the nature of the document, it has minimal ideological content. It's primarily an administrative action. Therefore, most axes should be close to neutral. The federalism axis leans slightly towards federal control, as it involves federal land and agencies. The economic regulation axis is slightly interventionist as it designates land use.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 5,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

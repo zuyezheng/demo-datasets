@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "This document establishes the National Drug Policy Board and outlines its functions in coordinating national drug policy. It involves multiple federal departments and agencies, indicating a strong federal role in addressing drug abuse. There is no explicit mention of immigration, civil liberties, or economic regulation. The focus is on coordinating efforts to reduce drug supply and use through enforcement, prevention, treatment, and research.",
-    "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 3,
-        "security_liberty": 3,
+        "security_liberty": 2,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order establishes the National Drug Policy Board to coordinate federal drug abuse policy. It involves multiple departments and agencies, suggesting a strong federal role. The focus on reducing illegal drug supply and use leans towards national security and law enforcement. There's no explicit mention of civil liberties or individual rights in this context. The order doesn't directly address immigration, economic regulation, or social inclusion. Therefore, the scores reflect a balance between federal control and national security, with a moderate ideological tilt towards conservative drug policy.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 3,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

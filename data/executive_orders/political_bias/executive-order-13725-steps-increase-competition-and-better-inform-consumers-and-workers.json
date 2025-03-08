@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on promoting competition in the U.S. economy. It directs agencies to use their authorities to enhance competition, provide consumers and workers with information, and eliminate regulations that restrict competition. There is a focus on preventing anti-competitive practices and promoting economic growth.",
+    "critique": "This executive order aims to promote competition in the U.S. economy by encouraging agencies to use their authorities to enhance competition, provide consumers and workers with information, and eliminate regulations that restrict competition. It directs agencies to identify actions they can take to address anti-competitive practices and undue burdens on competition. The order emphasizes a fair, efficient, and competitive marketplace, which aligns with both liberal and conservative economic goals, although the emphasis on government action might be seen as slightly leaning towards intervention. There is no mention of immigration, executive power is somewhat expanded as it directs agencies to take certain actions, federalism is not directly addressed, the order does not directly address national security vs. civil liberties, it leans towards economic intervention, and it does not directly address social inclusion.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

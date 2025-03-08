@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 0,
         "federalism": 3,
-        "security_liberty": 2,
-        "economic_regulation": 2,
+        "security_liberty": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document reflects a foreign policy interventionist stance, prioritizing national security and executive power to address a crisis in Haiti. It centralizes authority in the executive branch and involves economic regulations to achieve its goals.",
+    "critique": "This executive order, issued by President Clinton, addresses the situation in Haiti and aims to disrupt actions against the democratically elected government. It leverages the International Emergency Economic Powers Act and other related legislation to impose economic restrictions and prohibitions on transactions that evade or violate previous executive orders related to Haiti. The order grants broad authority to the Secretary of the Treasury to implement these measures. There is nothing about immigration, civil liberties, or social inclusion. The order does not seem to expand executive power beyond what is already established in law. It centralizes power in the federal government, specifically the Treasury Department. It could be argued that economic intervention is occurring. It is difficult to assess ideological tilt without more context, but supporting a democratically elected government could be seen as moderately liberal.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 4,
-        "federalism": 2,
-        "security_liberty": 3,
+        "executive_power": 0,
+        "federalism": 3,
+        "security_liberty": 0,
         "economic_regulation": 3,
         "social_inclusion": 0
     }

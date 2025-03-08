@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 1,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document describes the relinquishment of a plant previously seized by the government for war production. It reflects a return to private control after a period of government intervention due to wartime necessity. There is no apparent bias.",
+    "critique": "This document is an executive order regarding the relinquishment of a plant previously seized for war production. It appears to be a straightforward administrative action related to the war effort. There's no indication of ideological bias, immigration policy, or social inclusion issues. It does touch on executive power and economic regulation, but in a limited and specific context. The federalism aspect is minimal, as it involves a federal action related to a specific plant. National security is indirectly relevant due to the war context, but the document itself doesn't explicitly prioritize it.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": -1,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -1,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

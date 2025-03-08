@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order delegating functions related to the Agricultural Act of 1954 to the Secretary of Agriculture. It touches on foreign policy, strategic materials, and coordination among federal agencies. There is no explicit discussion of immigration, civil liberties, or social issues.",
+    "critique": "This executive order primarily concerns the delegation of authority related to the Agricultural Act of 1954. It delegates functions to the Secretary of Agriculture, with some coordination with the Secretary of State and the Office of Defense Mobilization. There's nothing inherently ideological about this; it's mostly an administrative matter. Immigration, civil liberties, and social inclusion are not directly addressed. Economic regulation is touched upon indirectly through agricultural commodity disposal, but it's not a major focus. Federalism is neutral as it involves federal agencies working together. Executive power is slightly expanded as it delegates presidential functions, but it also retains some authority. Therefore, the initial scores are as follows:",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

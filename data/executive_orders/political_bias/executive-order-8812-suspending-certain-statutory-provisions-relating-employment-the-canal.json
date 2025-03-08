@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document suspends compliance with certain sections of appropriation acts related to employment in the Canal Zone during a national emergency. This suggests a potential expansion of executive power and a focus on national security.",
+    "critique": "This document is an executive order suspending certain provisions of appropriation acts related to employment in the Canal Zone during a national emergency. It's difficult to assess its ideological tilt without more context, but given the time period (1941) and the focus on national emergency, it likely leans towards prioritizing national security. Immigration is not directly addressed. The order expands executive power by suspending existing laws during the emergency. Federalism is not directly impacted. The order likely prioritizes national security due to the context of the national emergency. Economic regulation is not directly addressed. Social inclusion is not directly addressed.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 3,
+        "federalism": 0,
         "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0

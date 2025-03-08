@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding land use in Nebraska. It withdraws certain lands from settlement, location, sale, or entry and reserves them for use and development by the Department of Agriculture for forestation, soil erosion, and flood control, and other land-utilization activities. It also includes provisions for mineral resource development and specifies the order's applicability and duration.",
+    "critique": "This document is an executive order regarding land use in Nebraska. It revokes a previous order and withdraws land for use by the Department of Agriculture for forestation, soil erosion, and flood control. There's a provision for mineral resource development. It's difficult to assess a strong ideological tilt. It seems to be a fairly neutral administrative action. Immigration is not addressed. Executive power is somewhat expanded as it is an executive order, but it also allows for congressional revocation. Federalism is tilted towards federal control as it involves federal land management. National security vs. civil liberties is not directly relevant. Economic regulation is slightly interventionist as it involves land use control. Social inclusion is not directly addressed.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

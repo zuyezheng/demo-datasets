@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     },
-    "critique": "The document amends Executive Order 12866, focusing on regulatory review and oversight. It emphasizes identifying market failures before agency action, incorporating guidance documents into regulatory processes, and enhancing OIRA's role in reviewing significant guidance documents. The order aims to improve regulatory coordination and ensure that regulations and guidance documents are economically justified and consistent with legal mandates.",
+    "critique": "This executive order amends a previous executive order (12866) to include 'guidance documents' under the same regulatory review process as 'regulations'. This suggests a move towards greater oversight and control over agency actions, even those not formally classified as regulations. It requires agencies to identify market failures justifying new actions and to assess the significance of problems they intend to address. It also emphasizes cost-benefit analysis and coordination among agencies. The inclusion of guidance documents aims to increase transparency and accountability. It doesn't directly address social issues, immigration, or civil liberties. It leans towards economic deregulation by requiring justification for regulatory actions and cost-benefit analysis. It centralizes power by giving OIRA more oversight.",
     "revised_scores": {
-        "ideological_tilt": -1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -2,
+        "economic_regulation": -1,
         "social_inclusion": 0
     }
 }

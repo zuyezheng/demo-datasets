@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 2,
+        "federalism": 1,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document reflects a focus on maintaining order and enforcing duty during wartime. It prioritizes national security and military effectiveness over individual liberties, centralizes power in the federal government (War Department and President), and emphasizes conformity to military standards. There is no direct mention of economic regulation, immigration, or social inclusion.",
+    "critique": "This document is an executive order from the War Department during a time of conflict. It aims to ensure soldiers are present for duty and curtails unauthorized absences. It emphasizes national security and the efficient operation of the military. Here's a breakdown of the scores:\n\n*   Ideological Tilt: 0 - The document is not inherently liberal or conservative. It focuses on military discipline and efficiency, which are not tied to a specific ideology.\n*   Immigration Approach: 0 - Immigration is not addressed in this document.\n*   Executive Power: +2 - The order revokes leaves of absence not authorized by the War Department, centralizing control. While it doesn't drastically expand executive power, it does reinforce it within the military context.\n*   Federalism: +1 - The order uses federal resources (US Marshals, postmasters) to enforce military discipline, suggesting a slight increase in federal authority.\n*   National Security vs. Civil Liberties: +3 - The document prioritizes military readiness and punishes unauthorized absences, indicating a focus on national security over individual liberties.\n*   Economic Regulation: 0 - The document does not directly address economic regulation.\n*   Social Inclusion: 0 - The document does not address social inclusion.\n\nRevised scores:\n\n*   Ideological Tilt: 0 - No change.\n*   Immigration Approach: 0 - No change.\n*   Executive Power: +2 - No change.\n*   Federalism: +1 - No change.\n*   National Security vs. Civil Liberties: +3 - No change.\n*   Economic Regulation: 0 - No change.\n*   Social Inclusion: 0 - No change.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 4,
+        "executive_power": 2,
+        "federalism": 1,
+        "security_liberty": 3,
         "economic_regulation": 0,
-        "social_inclusion": -2
+        "social_inclusion": 0
     }
 }

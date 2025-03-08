@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": -1,
+        "federalism": -3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -2,
         "social_inclusion": 0
     },
-    "critique": "The document establishes Federal Regional Councils to promote interagency cooperation and support Federal policies. It emphasizes coordination with State, tribal, regional, and local offices, and aims to explain federalism initiatives such as block grants and devolution of Federal programs. The order seeks to reduce the impact of Federal regulations and administrative requirements, coordinate the Federal response to social and economic impacts, and resolve problems with Federal regulations. The Office of Management and Budget provides policy guidance and oversight.",
+    "critique": "This executive order establishes Federal Regional Councils to promote interagency and intergovernmental cooperation. It aims to coordinate federal policies and respond to state and local concerns. The order emphasizes federalism initiatives like block grants and devolution of federal programs, suggesting a move towards decentralization. It also focuses on reducing federal regulations and administrative requirements, indicating a preference for deregulation. The order doesn't directly address immigration, national security, or social inclusion. It seems to favor a more limited role for the federal government and greater state autonomy.",
     "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": -1,
+        "executive_power": -1,
+        "federalism": -3,
         "security_liberty": 0,
-        "economic_regulation": -1,
+        "economic_regulation": -2,
         "social_inclusion": 0
     }
 }

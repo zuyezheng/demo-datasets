@@ -2,15 +2,15 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a Rent Advisory Board to advise on rent stabilization, indicating government intervention in the economy. It doesn't directly address social issues, immigration, or executive power, focusing primarily on economic regulation.",
+    "critique": "This document establishes a Rent Advisory Board to provide advice on rent stabilization, which suggests government intervention in the economy. It doesn't directly address ideological tilt, immigration, executive power, federalism, national security vs. civil liberties, or social inclusion. The creation of the board implies a slight expansion of executive power, but it's primarily focused on economic regulation.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,

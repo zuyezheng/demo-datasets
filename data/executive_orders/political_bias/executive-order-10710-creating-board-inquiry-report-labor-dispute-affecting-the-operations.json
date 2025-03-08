@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 1,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order creating a Board of Inquiry to address a labor dispute at an Atomic Energy Commission facility. It invokes the Labor-Management Relations Act of 1947, citing concerns that the strike imperils national safety. The order aims to resolve the dispute through inquiry and reporting.",
+    "critique": "This document pertains to a labor dispute and the creation of a Board of Inquiry. It invokes the Labor-Management Relations Act of 1947. There's no direct indication of ideological tilt, immigration stance, or federalism implications. The executive power is being used to intervene in a labor dispute deemed to affect national safety. There's a slight leaning towards national security due to the mention of 'imperiling national safety,' but it's primarily about labor relations. There's a moderate level of government intervention in the economy by creating a board of inquiry. There's no clear indication regarding social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 3,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 1,
         "economic_regulation": 2,
         "social_inclusion": 0
     }

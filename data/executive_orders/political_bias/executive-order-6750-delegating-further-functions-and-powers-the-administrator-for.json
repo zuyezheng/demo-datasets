@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document delegates power to the Administrator for Industrial Recovery to enter into agreements with businesses in Puerto Rico, Hawaii, and Alaska, which suggests a move towards federal control over these territories' economies. It also references the National Industrial Recovery Act, which aimed to regulate industries and stimulate the economy during the Great Depression, indicating a willingness to intervene in the economy.",
-    "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 4,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order delegating power to the Administrator for Industrial Recovery to enter into agreements with businesses in Puerto Rico, Hawaii, and Alaska, pursuant to the National Industrial Recovery Act of 1933. This act was a key component of Franklin D. Roosevelt's New Deal, aimed at stimulating the economy during the Great Depression. The delegation of power suggests a focus on federal intervention in the economy. The document itself doesn't directly address immigration, executive power in a broad sense, federalism in terms of state vs federal control outside of these territories, national security, or social inclusion. However, the underlying act and the context suggest a liberal approach to economic issues, with the government playing a significant role in regulating and guiding industry. The delegation to territories suggests some federal control over them.",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     }
 }

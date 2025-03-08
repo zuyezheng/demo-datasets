@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -2,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -3
     },
-    "critique": "The document focuses on defining the boundaries of an Indian reservation. It doesn't directly address typical political issues, but touches on federalism and social inclusion indirectly.",
+    "critique": "This executive order concerns the redrawing of the Snohomish or Tulalip Indian Reservation boundaries. Given the historical context of the time, such actions often resulted in the diminishment of Native American land holdings and sovereignty. Therefore, the document reflects a leaning towards conformity and away from social inclusion. It's difficult to assess its impact on other axes without further context, but it doesn't seem to directly address immigration, executive power, federalism, national security, or economic regulation. The ideological tilt is likely conservative, given the era's policies towards Native Americans.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -2,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 3,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 2
+        "social_inclusion": -3
     }
 }

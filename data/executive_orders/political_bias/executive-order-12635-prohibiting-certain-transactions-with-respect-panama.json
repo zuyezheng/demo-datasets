@@ -1,18 +1,18 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order issued by President Reagan in 1988, declaring a national emergency with respect to Panama due to the actions of Manuel Antonio Noriega and Manuel Solis Palma. It orders the blocking of Panamanian government property in the US and prohibits certain payments to the Noriega/Solis regime. The order aims to support the Panamanian people and work with the recognized government representative.",
-    "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -2,
         "immigration": 0,
         "executive_power": 3,
+        "federalism": 1,
+        "security_liberty": 2,
+        "economic_regulation": 2,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order, issued by President Reagan, declares a national emergency in response to the policies and actions of Manuel Antonio Noriega and Manuel Solis Palma in Panama, citing a threat to U.S. national security, foreign policy, and economy. It blocks all property and interests in property of the Government of Panama within the United States and prohibits certain financial transactions with the Noriega/Solis regime. The order aims to support the Panamanian people and work with the recognized government representative. It grants broad authority to the Secretary of the Treasury to implement the order. Here's a breakdown of the scores:\n\n1.  Ideological Tilt: -2 (Slightly Conservative) - Reagan was a conservative president, and this action aligns with a foreign policy approach that prioritizes national security and intervention against perceived threats. However, it's not overtly ideological in its language or goals.\n2.  Immigration Approach: 0 (Balanced/Selective) - The order doesn't directly address immigration, so it's neutral on this axis.\n3.  Executive Power: +3 (Moderately Expands Executive Authority) - Declaring a national emergency and blocking assets expands executive power, especially in foreign policy. The order grants broad authority to the Secretary of the Treasury.\n4.  Federalism: +1 (Slightly Strong Federal Control) - The order centralizes control over assets and financial transactions at the federal level, giving the Federal Reserve Bank of New York a key role. This indicates a slight shift towards federal control.\n5.  National Security vs. Civil Liberties: +2 (Slightly Heavy National Security Focus) - The order prioritizes national security by addressing a perceived threat from Panama. While it includes provisions to protect private Panamanian assets, the primary focus is on national security concerns.\n6.  Economic Regulation: +2 (Moderately Heavy Government Intervention) - Blocking assets and controlling financial transactions represents government intervention in the economy, particularly in international finance.\n7.  Social Inclusion: 0 (Neutral) - The order doesn't directly address social inclusion issues, so it's neutral on this axis.\n\nRevised Scores:\nAfter further consideration, I've adjusted some scores to better reflect the nuances of the document:\n\n1.  Ideological Tilt: -1 (Slightly Conservative) - While Reagan was conservative, the order is more about foreign policy and national security than domestic ideology.\n2.  Immigration Approach: 0 (No Change)\n3.  Executive Power: +2 (Moderately Expands Executive Authority) - While it does expand executive power, it is in the realm of foreign policy which is typical.\n4.  Federalism: +1 (No Change)\n5.  National Security vs. Civil Liberties: +2 (No Change)\n6.  Economic Regulation: +2 (No Change)\n7.  Social Inclusion: 0 (No Change)",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 2,
         "federalism": 1,
         "security_liberty": 2,
         "economic_regulation": 2,

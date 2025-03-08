@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document establishes a code of fair competition for the distilled spirits industry, enacted during the Great Depression. It reflects President Roosevelt's use of executive power to regulate industry under the National Industrial Recovery Act. The document centralizes federal authority over the industry, impacting economic regulation and potentially limiting individual liberties in favor of collective economic recovery. There is no clear indication of bias towards immigration or social inclusion. The document does not explicitly address security vs. liberty.",
-    "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 3,
-        "security_liberty": 2,
-        "economic_regulation": 3,
+        "security_liberty": 0,
+        "economic_regulation": 4,
+        "social_inclusion": 0
+    },
+    "critique": "This document is an executive order by Franklin D. Roosevelt approving a Code of Fair Competition for the Distilled Spirits Industry under the National Industrial Recovery Act of 1933. Here's an analysis of its political bias:Ideological Tilt: The National Industrial Recovery Act was a key component of the New Deal, which was a liberal response to the Great Depression. It involved significant government intervention in the economy. Therefore, this leans liberal.Immigration Approach: This document does not address immigration.Executive Power: The document expands executive power as it is an executive order approving a code of fair competition.Federalism: The document centralizes power at the federal level as it involves a national code for an industry.National Security vs. Civil Liberties: This document does not directly address national security or civil liberties.Economic Regulation: The document promotes government intervention in the economy through a code of fair competition.Social Inclusion: This document does not directly address social inclusion.",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     }
 }

@@ -2,17 +2,17 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "This document establishes an Energy Coordinating Committee to ensure communication and coordination among Executive agencies concerning energy policy and the management of energy resources. It centralizes energy policy coordination within the executive branch, potentially expanding executive power in this area. The order does not directly address social inclusion, immigration, or security/liberty issues. It leans towards federal control over energy policy and potentially moderate government intervention in the energy sector.",
+    "critique": "This document establishes an Energy Coordinating Committee to ensure communication and coordination among Executive agencies concerning energy policy and the management of energy resources. It seems fairly neutral in terms of ideological tilt, immigration, security vs. liberty, and social inclusion. It centralizes power at the federal level by creating a committee of federal officials, and it involves government in economic matters by coordinating energy policy. It could be seen as expanding executive power slightly by creating this committee, but it also revokes a prior order, so it's not a clear expansion.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 0,
         "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 2,

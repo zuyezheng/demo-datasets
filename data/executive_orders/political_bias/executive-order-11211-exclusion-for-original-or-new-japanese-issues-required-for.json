@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding the Interest Equalization Tax Act and its application to Japan. It aims to prevent instability in the international monetary system. The order exempts certain debt obligations issued or guaranteed by the Government of Japan from the tax, subject to specific conditions and a limit of $100,000,000 per year. This suggests a focus on economic stability and international relations.",
+    "critique": "This document is an executive order regarding the Interest Equalization Tax Act of 1964 and its application to Japan. It exempts certain Japanese debt obligations from the tax under specific conditions, aiming to prevent instability in the international monetary system. The order itself doesn't directly address ideological issues, immigration, or social inclusion. It focuses on economic regulation and international finance. It could be argued that it expands executive power insofar as it makes a determination about the application of a tax law, but it is also cabined by the existing law. It also doesn't obviously favor either state or federal primacy. It is difficult to assess its impact on national security vs. civil liberties.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": -1,
         "social_inclusion": 0

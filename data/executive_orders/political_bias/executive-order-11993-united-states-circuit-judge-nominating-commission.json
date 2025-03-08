@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": -1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to the appointment of judges in the District of Columbia, expanding the role of the nominating commission to include district court judges. It doesn't directly address typical political issues but rather focuses on judicial appointments and procedures.",
+    "critique": "This executive order pertains to the process of nominating judges for the United States Circuit Court and the United States District Court for the District of Columbia. It modifies a previous executive order (No. 11972) to include the District Court nomination process within the purview of the existing nominating commission. Given the subject matter, the document has limited implications for most of the axes. The order itself doesn't inherently lean liberal or conservative (Ideological Tilt), nor does it directly address immigration, federalism, national security, economic regulation, or social inclusion. The primary impact is on the process of judicial nominations. While some might argue that changes to judicial selection could indirectly influence the ideological balance of the courts, the order itself is procedural. It could be argued that expanding the role of the nominating commission slightly curtails executive power by introducing another layer of vetting, but the effect is minimal. Therefore, most axes should be scored as neutral (0), with a slight negative score for Executive Power.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": -1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
     },
-    "critique": "The document discusses amendments to employment conditions in the Panama Canal service, specifically regarding absences and leave. It stipulates that absences, including those due to illness or injury (when certified by a Panama Canal physician), are charged against annual leave. However, it denies payment for time lost due to illness from alcoholism or drug addiction, or injury resulting from intentional self-harm or harm to others.",
+    "critique": "This document pertains to the conditions of employment in the Panama Canal service, specifically addressing absences and leave policies. It stipulates that absences, including those due to illness or injury (when certified by a physician), are charged against annual leave. However, it explicitly denies payment for time lost due to illness from alcoholism or drug addiction, or injury resulting from intentional self-harm or harm to others. Given the historical context (1941), the policy reflects a less tolerant view of addiction and self-inflicted injuries compared to modern perspectives. There is no clear indication of ideological tilt, immigration approach, executive power dynamics, federalism concerns, or national security implications. The economic regulation aspect is minimal, dealing only with employee compensation. Social inclusion is slightly negatively impacted by the exclusion of certain conditions from paid leave.",
     "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 5,
-        "security_liberty": 1,
+        "federalism": 0,
+        "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": -2
+        "social_inclusion": -1
     }
 }

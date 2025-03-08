@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 4,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": -1,
+        "economic_regulation": 1,
+        "social_inclusion": 5
     },
-    "critique": "The document is an executive order regarding the enforcement of Title VI of the Civil Rights Act of 1964. It centralizes authority in the Attorney General to coordinate and standardize the enforcement of non-discrimination policies across federal agencies. This suggests a move towards stronger federal oversight and a focus on social inclusion.",
+    "critique": "This executive order reinforces the Civil Rights Act of 1964, specifically Title VI, which prohibits discrimination based on race, color, or national origin in federally funded programs. It centralizes enforcement authority in the Attorney General, who is tasked with coordinating federal agency efforts, prescribing standards, and assisting agencies in implementation. This suggests a move towards stronger federal oversight to ensure compliance with civil rights laws.\n\n1.  Ideological Tilt: The order reinforces civil rights protections, aligning with a liberal stance on social justice. Initial score: +4. Revised score: +4.\n2.  Immigration Approach: While the order addresses national origin discrimination, it doesn't directly relate to immigration policies. Initial score: 0. Revised score: 0.\n3.  Executive Power: The order delegates authority to the Attorney General, expanding the executive branch's role in enforcing Title VI. Initial score: +2. Revised score: +2.\n4.  Federalism: The order centralizes enforcement at the federal level, indicating a move towards federal primacy. Initial score: +3. Revised score: +3.\n5.  National Security vs. Civil Liberties: The order focuses on civil rights enforcement rather than national security. Initial score: -1. Revised score: -1.\n6.  Economic Regulation: The order doesn't directly regulate the economy but ensures non-discrimination in federally funded programs, which can have economic implications. Initial score: +1. Revised score: +1.\n7.  Social Inclusion: The order promotes social inclusion by combating discrimination based on race, color, and national origin. Initial score: +5. Revised score: +5.",
     "revised_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 4,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 4,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 4
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": -1,
+        "economic_regulation": 1,
+        "social_inclusion": 5
     }
 }

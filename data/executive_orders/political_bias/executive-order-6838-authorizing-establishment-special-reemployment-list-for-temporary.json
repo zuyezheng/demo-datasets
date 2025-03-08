@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to the reemployment of individuals in the Bureau of the Census for the agricultural census during an emergency. It prioritizes those with prior experience and good records. The order aims to expedite the census process by streamlining the hiring process within the civil service framework.",
+    "critique": "This document pertains to the reemployment of individuals who have previously worked for the Bureau of the Census, specifically for the agricultural census. It grants the Civil Service Commission the authority to create a special reemployment list for these individuals, giving them priority over other eligible candidates. The document does not directly address ideological issues, immigration, or social inclusion. It could be argued that giving preference to former employees expands executive power slightly, but it is primarily an administrative action related to staffing. The document does not seem to have a significant impact on federalism or national security vs. civil liberties. It has a minor impact on economic regulation by facilitating the census, which can inform economic policy.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -3,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on deregulating the price controls on heavy crude oil. It aims to stimulate domestic production by removing government intervention in the oil market. There is no discussion of social issues, immigration, or civil liberties. The order delegates authority to the Secretary of Energy for implementation and further inquiry.",
+    "critique": "This document pertains to the decontrol of heavy oil prices during the Carter administration. It aims to stimulate domestic oil production by removing price controls on heavy crude oil. Here's an analysis of its political biases:  1.  Ideological Tilt: The document reflects a move towards deregulation, which aligns with a more conservative economic approach. However, it's also a pragmatic response to an energy crisis, so it's not strongly ideological.  2.  Immigration Approach: This document has no bearing on immigration.  3.  Executive Power: The order is issued by the President, but it also directs the Secretary of Energy to conduct inquiries and make recommendations, suggesting a balance of power. It doesn't drastically expand executive power.  4.  Federalism: The document doesn't significantly impact the balance between state and federal power. It's primarily concerned with national energy policy.  5.  National Security vs. Civil Liberties: This document doesn't directly address national security or civil liberties.  6.  Economic Regulation: The core purpose is deregulation of heavy oil prices, indicating a move away from government intervention in the energy market.  7.  Social Inclusion: This document has no impact on social inclusion.  Revised Scores: Based on the above considerations, the initial scores are adjusted to reflect a more nuanced understanding of the document's implications.",
     "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -4,
+        "economic_regulation": -3,
         "social_inclusion": 0
     }
 }

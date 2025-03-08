@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order focused on ensuring federal contractors comply with labor laws. It aims to promote efficiency and cost savings by working with contractors who have a track record of labor law compliance. It includes provisions for pre-award and post-award actions, the designation of Labor Compliance Advisors, and government-wide consistency measures. It also addresses paycheck transparency and complaint/dispute transparency.",
-    "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 2,
-        "security_liberty": 0,
+        "security_liberty": -1,
         "economic_regulation": 3,
-        "social_inclusion": 3
+        "social_inclusion": 2
+    },
+    "critique": "This executive order aims to promote compliance with labor laws among federal contractors. It requires contractors to disclose labor law violations, establishes Labor Compliance Advisors, and promotes paycheck transparency. It also addresses arbitration agreements related to civil rights and sexual harassment claims. The order generally favors workers' rights and government oversight of contractors. Therefore, it leans liberal on the ideological tilt. It doesn't directly address immigration. It could be seen as expanding executive power through increased regulation of contractors, but it also includes measures for government-wide consistency and minimizes burdens on contractors. It centralizes authority by requiring federal agencies to enforce these labor standards. It prioritizes worker protections and civil rights, potentially at the expense of some business freedoms. It increases economic regulation by mandating compliance with labor laws. It promotes social inclusion by addressing discrimination and harassment claims.",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": -1,
+        "economic_regulation": 3,
+        "social_inclusion": 2
     }
 }

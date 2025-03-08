@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 2,
+        "federalism": 2,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding tax returns and their inspection by a Senate committee. It mainly concerns government oversight and access to financial information for investigative purposes. The order itself doesn't directly address social issues, immigration, or civil liberties, but rather focuses on the mechanics of governmental financial oversight.",
+    "critique": "The document is an executive order from 1953 that allows the Senate Committee on Interstate and Foreign Commerce to inspect tax returns for any period up to and including 1952. This is for the purpose of carrying out the provisions of Senate Resolution 41. The order itself doesn't express a clear ideological tilt. It grants access to tax information, which could be used for various purposes, but the order itself is neutral. It does not directly address immigration. It expands executive power by granting access to tax returns. It could be seen as leaning towards federal primacy as it involves a Senate Committee. It could be argued that it leans towards national security as it allows the government to inspect tax returns. It does not directly address economic regulation. It does not directly address social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 2,
-        "economic_regulation": 2,
+        "executive_power": 2,
+        "federalism": 2,
+        "security_liberty": 1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

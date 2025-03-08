@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is a tax-related order from the White House in 1952. It focuses on making tax returns open for inspection to facilitate offers in compromise under the Internal Revenue Code. Given its nature, the document doesn't directly address many of the political bias axes. It has a slight impact on economic regulation and security vs. liberty.",
+    "critique": "This document pertains to tax returns and compromises under the Internal Revenue Code. It allows for the inspection of tax returns to the extent necessary to permit the inspection of any accepted offer in compromise. This seems primarily related to economic regulation and potentially executive power in terms of enforcement. There's no clear indication of ideological tilt, immigration stance, federalism implications, national security concerns, or social inclusion aspects. Therefore, most axes should be neutral. The economic regulation aspect leans slightly towards intervention due to the government's role in tax compromises, but it's not a strong intervention. The executive power is slightly expanded as it pertains to tax return inspection.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 1,
+        "security_liberty": 0,
         "economic_regulation": 1,
         "social_inclusion": 0
     }

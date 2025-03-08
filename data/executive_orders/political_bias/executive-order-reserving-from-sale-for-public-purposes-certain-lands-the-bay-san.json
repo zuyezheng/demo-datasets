@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document reserves land for public purposes, which could be seen as a form of government intervention. However, it's also related to national security (reserving land for military use). The social inclusion aspect is neutral as the document doesn't explicitly address diversity or conformity. The federalism aspect leans towards strong federal control as the President is making these decisions for the state of California.",
+    "critique": "This document is an order to reserve land for public purposes in California. It is difficult to assess the ideological tilt, immigration approach, security vs. liberty, economic regulation, and social inclusion aspects of this document, as it primarily deals with land management. The federalism aspect is slightly towards federal control, as the President is making decisions about land in California. The executive power is slightly expanded as the President is directly intervening in land management.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 3,
-        "security_liberty": 2,
-        "economic_regulation": 2,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

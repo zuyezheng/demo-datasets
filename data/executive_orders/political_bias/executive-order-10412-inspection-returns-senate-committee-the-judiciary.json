@@ -3,19 +3,19 @@
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "federalism": 1,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding the inspection of tax returns by the Senate Committee on the Judiciary. It is difficult to assess political bias based on this document alone, as it mainly concerns government procedure and oversight. However, some assumptions can be made based on the context. Given that it is an executive order, it likely expands executive power to some extent. The order also involves government oversight and regulation, which could be seen as interventionist. The document does not directly address issues such as immigration, social inclusion, or security vs. liberty.",
+    "critique": "This executive order pertains to tax returns and their inspection by a Senate committee for the purpose of investigating the administration of the Trading with the Enemy Act. It grants access to tax information from 1941 to 1951. Given the context of investigating the Trading with the Enemy Act, the order seems to be related to national security and oversight. There's no direct indication of ideological tilt, immigration policy, or social inclusion. The primary focus appears to be on government oversight and potentially national security implications related to the Trading with the Enemy Act. The order itself doesn't expand executive power significantly, as it's enabling a Senate committee investigation. It leans slightly towards federal control due to the nature of the investigation and the involvement of a Senate committee. It also has a slight tilt towards national security due to the context of the Trading with the Enemy Act.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 0,
         "federalism": 1,
         "security_liberty": 1,
-        "economic_regulation": 2,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

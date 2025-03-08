@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on loyalty to the government and amends an existing executive order regarding employee loyalty. This suggests a concern for national security and potentially limits individual liberties in favor of ensuring government stability.",
+    "critique": "This executive order amends a previous order regarding employee loyalty. It changes the standard for refusal or removal from employment to 'reasonable doubt' about loyalty to the US government. This could be seen as a shift towards prioritizing national security concerns over individual liberties, as the 'reasonable doubt' standard is less stringent than requiring concrete evidence of disloyalty. There is no clear indication of ideological tilt, immigration approach, federalism implications, economic regulation, or social inclusion. The primary focus is on national security and executive power in defining loyalty standards.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 2,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 3,
         "economic_regulation": 0,
-        "social_inclusion": -1
+        "social_inclusion": 0
     }
 }

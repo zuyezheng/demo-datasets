@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document establishes the Medal of Freedom to recognize meritorious service during wartime. It excludes US citizens for acts within the US and members of the armed forces, focusing on civilians and those aiding the US from abroad. The order centralizes authority in the executive branch (President, Secretaries of State/War/Navy) to define regulations and award the medal.",
+    "critique": "The document establishes the Medal of Freedom to recognize meritorious service during wartime. It does not directly address ideological tilts, immigration, executive power, federalism, national security vs. civil liberties, economic regulation, or social inclusion. The award is limited to those aiding the US or its allies in war efforts, excluding US citizens within the continental US and members of the armed forces. This suggests a focus on external contributions to the war effort. The creation of a medal could be seen as a slight expansion of executive power, but it's minimal. The award criteria are specific and regulated by multiple secretaries, limiting potential abuse.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 3,
-        "security_liberty": 1,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

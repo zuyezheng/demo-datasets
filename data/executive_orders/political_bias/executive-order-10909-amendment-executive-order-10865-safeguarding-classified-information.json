@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an amendment to an existing executive order, modifying definitions and procedures related to security clearances and cross-examination of witnesses. It primarily concerns government administration and national security. There is no discussion of immigration, social issues, or economic policy. The changes appear to streamline processes and clarify roles within the executive branch.",
+    "critique": "This executive order amends a previous order (10865) concerning security requirements for government employees and contractors. It primarily clarifies definitions and procedures related to cross-examination of witnesses in security clearance cases. There's no indication of ideological bias, immigration policy, or social inclusion. The order seems to focus on procedural aspects within the executive branch and doesn't dramatically shift power dynamics related to federalism or economic regulation. It touches on national security by addressing security clearances, but also emphasizes due process through cross-examination, suggesting a balanced approach. It expands executive power slightly by including more department heads and deputies.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0

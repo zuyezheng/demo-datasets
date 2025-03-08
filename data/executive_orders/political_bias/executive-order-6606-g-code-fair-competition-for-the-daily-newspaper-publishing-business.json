@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 4,
+        "social_inclusion": 1
     },
-    "critique": "The document is an approval of a Code of Fair Competition for the Daily Newspaper Publishing Business under the National Industrial Recovery Act. It reflects President Roosevelt's interventionist approach during the New Deal era. The document touches upon labor conditions (hours and wages), child labor, and freedom of the press.",
+    "critique": "This document is an executive order approving a code of fair competition for the Daily Newspaper Publishing Business under the National Industrial Recovery Act. \n\n1.  Ideological Tilt: The NIRA was a New Deal program, so it leans liberal due to government intervention in the economy. Score: +3\n2.  Immigration Approach: The document doesn't address immigration. Score: 0\n3.  Executive Power: The document approves a code, which could be seen as expanding executive power, but it also includes conditions and limitations, suggesting a more balanced approach. Score: 0\n4.  Federalism: The NIRA increased federal power over industries, so it leans towards federal primacy. Score: +3\n5.  National Security vs. Civil Liberties: The document mentions freedom of the press but also acknowledges limitations. It seems balanced. Score: 0\n6.  Economic Regulation: The document approves a code of fair competition, indicating government intervention in the economy. Score: +4\n7.  Social Inclusion: The document addresses child labor, which could be seen as promoting social welfare. Score: +1\n\nRevised Scores:\nI will revise the executive power score to +1, as the act itself expands executive power, even if this specific order contains some limitations. I will also revise the social inclusion score to 0, as the mention of child labor is more about economic regulation than social inclusion.",
     "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 4,
-        "security_liberty": 1,
+        "executive_power": 1,
+        "federalism": 3,
+        "security_liberty": 0,
         "economic_regulation": 4,
         "social_inclusion": 0
     }

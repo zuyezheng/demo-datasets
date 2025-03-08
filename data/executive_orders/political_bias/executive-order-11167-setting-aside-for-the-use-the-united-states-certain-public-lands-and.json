@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order from 1964 that sets aside land in Hawaii for the use of the United States. It is a legal document that describes the land in detail using survey coordinates. There is no mention of immigration, civil liberties, or economic regulation. The document is neutral in tone and does not express any political opinions.",
+    "critique": "This document is an executive order from 1964 that sets aside land in Hawaii for the use of the United States. It appears to be related to the Pohakuloa Training Area. Given the historical context and the nature of the document, it's unlikely to have a strong ideological tilt. It doesn't directly address immigration, civil liberties, economic regulation, or social inclusion. The primary focus is on land use and federal control over property ceded to the US. There might be a slight expansion of executive power in setting aside the land, and a leaning towards federal control over state matters.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 2,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

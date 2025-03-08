@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 2,
+        "federalism": 1,
+        "security_liberty": 2,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document centralizes power in the executive branch and prioritizes national security, with a focus on mobilizing resources rapidly. It delegates authority broadly and emphasizes government control over resources in the interest of national security.",
+    "critique": "This executive order delegates authority to various cabinet secretaries to prioritize the production and delivery of goods and materials deemed necessary for national security. It invokes the Defense Production Act and related legislation. There's a moderate expansion of executive power through delegation, a slight shift towards federal control, and a focus on national security. There's also a degree of economic intervention implied by the prioritization of certain industries and materials. It doesn't directly address immigration or social inclusion. The ideological tilt is neutral, as national security is generally a bipartisan concern.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 4,
-        "federalism": 3,
-        "security_liberty": 4,
-        "economic_regulation": 3,
+        "executive_power": 2,
+        "federalism": 1,
+        "security_liberty": 2,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

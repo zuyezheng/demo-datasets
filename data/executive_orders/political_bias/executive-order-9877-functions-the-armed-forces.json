@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 1,
+        "federalism": 3,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document outlines the roles and responsibilities of the armed forces. It focuses on national security, defense, and maintaining the interests of the United States. There is no discussion of economic regulation, social inclusion, or immigration. The document emphasizes executive power as it is an executive order.",
+    "critique": "This document outlines the roles and responsibilities of the different branches of the US military. It aims to define their functions and promote coordination. There's nothing inherently liberal or conservative about this. It doesn't directly address immigration, economic regulation, or social inclusion. It could be argued that defining the roles of the military expands executive power, but it's more about clarifying existing roles. It centralizes control at the federal level, but that's inherent in the nature of the military. It prioritizes national security, which is its primary function.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 4,
+        "executive_power": 0,
+        "federalism": 3,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -3,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "security_liberty": 1,
+        "economic_regulation": -3,
+        "social_inclusion": -1
     },
-    "critique": "This document prioritizes deregulation and domestic energy production, particularly fossil fuels, while rolling back climate change initiatives. It emphasizes economic growth and geopolitical security through energy independence. Environmental regulations are viewed as potential burdens. There's a clear emphasis on reducing federal oversight and empowering states in environmental matters.",
+    "critique": "This executive order prioritizes domestic energy production, particularly from fossil fuels, and seeks to reduce regulatory burdens on the energy industry. It rescinds several climate change-related policies and guidance documents from the previous administration. The order emphasizes economic growth and geopolitical security through energy independence. It also stresses the importance of clean air and water but balances it with the need for affordable and reliable energy. The order directs agencies to review and potentially revise or rescind regulations that burden domestic energy production. It also disbands the Interagency Working Group on Social Cost of Greenhouse Gases and withdraws its related documents, emphasizing cost-benefit analysis in regulatory decision-making. Overall, the order reflects a conservative approach to energy and environmental policy, prioritizing economic development and energy independence over climate change mitigation.",
     "revised_scores": {
-        "ideological_tilt": -3,
+        "ideological_tilt": -4,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": -2,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 1,
         "economic_regulation": -4,
-        "social_inclusion": -1
+        "social_inclusion": -2
     }
 }

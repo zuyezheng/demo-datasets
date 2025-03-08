@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document describes the approval of an agreement between employers and employees in the painting industry in Wyoming, under the National Industrial Recovery Act. It reflects the government's role in regulating industry and labor relations during the New Deal era.",
-    "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 4,
+        "executive_power": 1,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 4,
-        "social_inclusion": 0
+        "social_inclusion": 1
+    },
+    "critique": "This document pertains to the National Industrial Recovery Act (NIRA) during the Great Depression. It approves an agreement between employers and employees in the painting and decorating industry in Wyoming. Here's an analysis of its political biases:\n\n1.  Ideological Tilt: The NIRA was a New Deal program, which is generally considered liberal. It involved government intervention in the economy to promote recovery. Therefore, a positive score is appropriate.\n2.  Immigration Approach: The document does not address immigration, so it should be neutral.\n3.  Executive Power: The document is an executive order, but it's based on existing legislation (NIRA). It approves an agreement based on recommendations from a board. While it's an exercise of executive power, it's not an extreme expansion, so a slightly positive score is appropriate.\n4.  Federalism: The NIRA was a federal program that aimed to regulate industries across the country. This indicates a strong federal role, so a positive score is appropriate.\n5.  National Security vs. Civil Liberties: The document doesn't directly relate to national security or civil liberties, so it should be neutral.\n6.  Economic Regulation: The NIRA was a significant intervention in the economy, with codes of fair competition and government oversight. A strongly positive score is appropriate.\n7.  Social Inclusion: The document doesn't explicitly address social inclusion, but the NIRA aimed to improve working conditions and wages, which could indirectly benefit marginalized groups. A slightly positive score is appropriate.\n\nRevised Scores:\nBased on the critique, the initial scores are adjusted to better reflect the document's content and context.",
+    "revised_scores": {
+        "ideological_tilt": 4,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 4,
+        "security_liberty": 0,
+        "economic_regulation": 5,
+        "social_inclusion": 1
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": -1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 4,
+        "executive_power": 3,
         "federalism": 0,
         "security_liberty": 3,
-        "economic_regulation": 3,
-        "social_inclusion": -1
-    },
-    "critique": "The document is an executive order imposing sanctions on Sudan due to its support for terrorism, destabilization efforts, and human rights violations. It blocks Sudanese government property, prohibits trade and financial transactions, and authorizes the Secretary of the Treasury to implement the order. The order aims to address a perceived threat to U.S. national security and foreign policy.",
-    "revised_scores": {
-        "ideological_tilt": -1,
-        "immigration": -2,
-        "executive_power": 4,
-        "federalism": 1,
-        "security_liberty": 4,
         "economic_regulation": 4,
-        "social_inclusion": -2
+        "social_inclusion": 2
+    },
+    "critique": "This executive order, issued by President Clinton in 1997, declares a national emergency with respect to Sudan due to its support for terrorism, destabilization efforts, and human rights violations. It imposes economic sanctions, including blocking assets and prohibiting trade and financial transactions. The order cites the International Emergency Economic Powers Act (IEEPA) and the National Emergencies Act as its legal basis.\n\nIdeological Tilt: The order reflects a foreign policy interventionist stance, which can be seen as aligning with both liberal and conservative approaches depending on the specific context. However, given the focus on human rights violations and international terrorism, it leans slightly towards a moderate stance. Initial score: 0. Revised score: 0.\n\nImmigration Approach: The order does not directly address immigration. Initial score: 0. Revised score: 0.\n\nExecutive Power: The order expands executive power by declaring a national emergency and imposing economic sanctions. It relies on IEEPA and the National Emergencies Act, which grant broad authority to the President. Initial score: 3. Revised score: 3.\n\nFederalism: The order does not directly impact federalism. Initial score: 0. Revised score: 0.\n\nNational Security vs. Civil Liberties: The order prioritizes national security by restricting economic activity with Sudan, citing terrorism and destabilization concerns. This potentially impacts civil liberties related to trade and financial transactions. Initial score: 3. Revised score: 3.\n\nEconomic Regulation: The order imposes significant economic regulations by blocking assets and prohibiting trade and financial transactions with Sudan. Initial score: 4. Revised score: 4.\n\nSocial Inclusion: The order addresses human rights violations, including slavery and denial of religious freedom, which aligns with promoting social inclusion. Initial score: 2. Revised score: 2.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 0,
+        "security_liberty": 3,
+        "economic_regulation": 4,
+        "social_inclusion": 2
     }
 }

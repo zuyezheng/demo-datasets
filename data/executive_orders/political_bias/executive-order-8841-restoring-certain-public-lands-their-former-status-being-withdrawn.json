@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on land management and restoration to a previous status, indicating a preference for conservation and established procedures. There's no clear indication of ideological tilt, immigration stance, executive power changes, or social inclusion matters. The emphasis is on restoring land for natural resource conservation.",
+    "critique": "This document pertains to land management and transfer between government entities (specifically the Department of Agriculture) and restoration of land status for conservation and resource development. There's no immediately apparent ideological tilt, immigration stance, or impact on civil liberties. It seems to involve a moderate level of economic regulation through land use and conservation. The document doesn't directly address social inclusion. It could be argued that restoring the land to its former status expands executive power, but it's more of an administrative action. Federalism is implicated as it involves federal land within a state, but the impact is neutral as it restores a previous order.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

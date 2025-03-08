@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a brief amendment to an executive order, focusing on the composition of a presidential commission related to human rights. It doesn't contain substantial policy proposals or statements that directly address the core areas of political bias. The change is administrative, modifying the number of members the President can appoint. Therefore, most scores are neutral, with a slight lean towards expanding executive power due to the increased appointment flexibility.",
+    "critique": "This document is a short executive order amending a previous executive order. It changes the number of members the President can appoint to the President's Commission for the Observance of Human Rights Year 1968. Originally, the number was fixed at ten, but the amendment removes this restriction, allowing the President to appoint as many members as they see fit. This could be seen as a slight expansion of executive power, but it is also related to human rights, which is generally considered a liberal value. The change does not directly impact immigration, federalism, national security, economic regulation, or social inclusion. Therefore, most of the axes should be neutral.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 0,

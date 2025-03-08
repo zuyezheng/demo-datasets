@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order that exempts a government employee from mandatory retirement. It does not contain substantial political content, but touches on executive power and economic regulation.",
+    "critique": "This is an executive order from 1936 exempting a government employee from mandatory retirement. It is a specific action related to a single individual. There is no clear indication of broad ideological leaning, immigration policy, or impact on civil liberties. It does grant an exception based on the president's judgment, which could be seen as a slight expansion of executive power, but it's within a defined legal framework. The order doesn't seem to have any significant impact on federalism, economic regulation, or social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

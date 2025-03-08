@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 2,
+        "social_inclusion": 2
     },
-    "critique": "The document is an executive order focused on lowering the cost of insulin and injectable epinephrine for low-income individuals by leveraging Federally Qualified Health Centers (FQHCs) and the 340B Prescription Drug Program. It aims to ensure that FQHCs pass on the discounted prices they receive to uninsured individuals or those with high cost-sharing requirements. The order does not expand executive power significantly, primarily directing the Secretary of Health and Human Services to condition grants on FQHCs' pricing practices. It also doesn't directly address immigration, federalism, security vs. liberty, or social inclusion. The main focus is on economic regulation in the healthcare sector to make essential medications more affordable.",
+    "critique": "The document focuses on making life-saving medication (insulin and epinephrine) more affordable for low-income individuals by leveraging existing Federally Qualified Health Centers and the 340B Prescription Drug Program. It directs the Secretary of Health and Human Services to condition future grants on FQHCs passing on discounted prices to uninsured or underinsured individuals. It doesn't expand executive power significantly, nor does it dramatically alter federalism. It leans slightly towards government intervention in the economy to address drug pricing issues and promotes social inclusion by targeting vulnerable populations. It doesn't directly address immigration or national security/civil liberties.",
     "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 3,
-        "social_inclusion": 0
+        "economic_regulation": 2,
+        "social_inclusion": 2
     }
 }

@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 1,
+        "federalism": 3,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order that withdraws public lands in Alaska for military purposes. It does not express any clear political bias or sentiment. The order is focused on land management and military use, with no mention of social or economic issues.",
+    "critique": "This document is an executive order from 1940 that withdraws public lands in Alaska for military purposes (an Air Corps station). It does not seem to have a strong ideological tilt. It is related to national security, but also involves land use and federal control over territory. It does not directly address immigration, economic regulation, or social inclusion. The order reserves land for military use, which could be seen as expanding executive power, but it also includes a clause that the order can be revoked by the President or Congress, which limits executive power. It also respects existing reservations, which shows some restraint. The federalism aspect is that it is a federal action concerning federal land.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 1,
         "federalism": 3,
-        "security_liberty": 3,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

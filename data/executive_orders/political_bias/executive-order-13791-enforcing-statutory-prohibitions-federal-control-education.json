@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -2,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": -1,
+        "federalism": -3,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document emphasizes decentralization of power from the Federal Government to State and local control, particularly in education. It aims to limit federal intervention in curriculum, administration, and personnel decisions within schools. The document doesn't directly address immigration, security, or economic regulation. It focuses on shifting power away from the executive branch and back to the states, aligning with a conservative viewpoint on federalism and local control.",
+    "critique": "This executive order emphasizes state and local control over education, limiting federal intervention. This aligns with a conservative viewpoint on federalism and local control. The order specifically references statutes prohibiting federal interference, reinforcing this stance. There is no mention of immigration, national security, economic regulation, or social inclusion. The order does not appear to expand executive power, but rather directs the Secretary of Education to review and revise regulations to comply with existing laws.",
     "revised_scores": {
         "ideological_tilt": -2,
         "immigration": 0,
-        "executive_power": -2,
-        "federalism": -4,
-        "security_liberty": -1,
-        "economic_regulation": -1,
-        "social_inclusion": -1
+        "executive_power": -1,
+        "federalism": -3,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
     }
 }

@@ -2,17 +2,17 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order allowing an individual to be appointed to a position without complying with civil service rules. This could be seen as an expansion of executive power and potentially undermining the principles of meritocracy and equal opportunity in civil service. However, without more context, it's difficult to assess the full implications.",
+    "critique": "This is an executive order from 1939 that allows Henry Schneider to be appointed as an Investigator in the Alcohol Tax Unit without following Civil Service Rules. This seems like a minor exception to standard hiring practices. There's no clear indication of ideological tilt, immigration stance, or impact on federalism. It might slightly expand executive power by bypassing standard rules, but it's a limited case. It doesn't directly address national security vs. civil liberties, economic regulation, or social inclusion. Therefore, most axes should be near zero, with a slight positive score for executive power.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,

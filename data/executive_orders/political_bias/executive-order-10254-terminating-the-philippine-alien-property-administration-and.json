@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order transferring the functions of the Philippine Alien Property Administration to the Attorney General. It primarily deals with administrative and legal matters related to property and funds. There is little to no information about ideological tilt, immigration, security vs. liberty, economic regulation, or social inclusion. The order focuses on centralizing authority within the executive branch.",
+    "critique": "This executive order primarily concerns the transfer of authority and assets from the Philippine Alien Property Administration to the Attorney General. It's a bureaucratic restructuring rather than a policy statement with strong ideological implications. Therefore, most axes should be close to neutral. The order doesn't directly address immigration, civil liberties, or social inclusion. It also doesn't seem to significantly alter economic regulation or federalism. The executive power axis is slightly positive as it consolidates power within the executive branch, but it's not a major expansion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 5,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

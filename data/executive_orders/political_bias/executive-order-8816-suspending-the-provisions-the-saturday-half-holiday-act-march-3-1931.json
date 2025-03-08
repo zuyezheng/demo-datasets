@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 3,
+        "federalism": 1,
+        "security_liberty": 2,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document suspends Saturday half-holidays for certain government employees during a national emergency, prioritizing national defense. This suggests a focus on executive power and potentially less emphasis on work-life balance.",
+    "critique": "This document is an executive order from 1941 suspending Saturday half-holidays for certain government employees in specific locations due to a declared national emergency. It's difficult to assess its ideological tilt without more context, but it seems primarily focused on national defense and wartime efficiency. Immigration is not addressed. It expands executive power during a national emergency. Federalism is somewhat implicated as it relates to federal employees in territories, but it's not a major factor. National security is prioritized over leisure time. Economic regulation is indirectly affected by mandating work during previously free time. Social inclusion is not directly addressed.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 3,
         "federalism": 1,
-        "security_liberty": 3,
-        "economic_regulation": 0,
+        "security_liberty": 2,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

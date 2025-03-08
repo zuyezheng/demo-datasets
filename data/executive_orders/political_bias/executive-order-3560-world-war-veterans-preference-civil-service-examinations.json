@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a directive from the President to the Civil Service Commission regarding the appointment of postmasters, giving preference to veterans of World War I. It aims to provide an advantage to veterans whose careers were interrupted by their service. The directive includes adding points to their exam scores, considering their military service as business experience, and waiving age limitations.",
+    "critique": "This document is an executive order from 1921 that gives preferential treatment to veterans in the appointment of Presidential postmasters. \n\n*   **Ideological Tilt:** The document shows a slight conservative tilt as it favors veterans, a group traditionally associated with conservative values. Score: 1\n*   **Immigration Approach:** The document does not address immigration. Score: 0\n*   **Executive Power:** The document expands executive power as it directs the Civil Service Commission to give preferential treatment to veterans. Score: 2\n*   **Federalism:** The document does not address federalism. Score: 0\n*   **National Security vs. Civil Liberties:** The document does not directly address national security or civil liberties, but it does prioritize veterans, which could be seen as a security-related issue. Score: 1\n*   **Economic Regulation:** The document does not address economic regulation. Score: 0\n*   **Social Inclusion:** The document favors veterans, which could be seen as a form of social inclusion, but it does not address other forms of diversity. Score: 0\n\nRevised Scores:\n*   Ideological Tilt: 1\n*   Immigration Approach: 0\n*   Executive Power: 2\n*   Federalism: 0\n*   National Security vs. Civil Liberties: 1\n*   Economic Regulation: 0\n*   Social Inclusion: 0",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 2,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 1,
         "economic_regulation": 0,
-        "social_inclusion": 1
+        "social_inclusion": 0
     }
 }

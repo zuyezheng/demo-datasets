@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 2,
+        "social_inclusion": 2
     },
-    "critique": "The document is an executive order regarding land use in New Mexico. It withdraws certain public lands from settlement, location, sale, or entry and reserves them for use by the Farm Security Administration for resettling native farm families. The order also includes provisions regarding the sale of lands and the disposition of mineral resources.",
+    "critique": "This executive order pertains to land use in New Mexico, specifically withdrawing certain public lands for resettlement of native farm families by the Farm Security Administration. It revokes a previous order and sets conditions for the land's use and transfer, including retaining mineral rights for the United States. There's a slight tilt towards social inclusion by aiding native farm families. Economic regulation is present through government intervention in land allocation. Federalism is strengthened as the federal government controls the land use. There's no clear impact on immigration, executive power, or national security vs. civil liberties. Ideological tilt is slightly liberal due to the social welfare aspect.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 3,
+        "executive_power": 0,
+        "federalism": 2,
         "security_liberty": 0,
         "economic_regulation": 2,
-        "social_inclusion": 1
+        "social_inclusion": 2
     }
 }

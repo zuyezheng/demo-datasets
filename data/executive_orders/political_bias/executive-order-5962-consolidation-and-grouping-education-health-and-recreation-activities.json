@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": -1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on consolidating government agencies for efficiency. It transfers various agencies and their functions to the Department of the Interior, including education, health, and recreation-related entities. It centralizes power within the executive branch and the Department of Interior, streamlining operations and reducing redundancies.",
+    "critique": "This document is an executive order focused on reorganizing government agencies for efficiency. It shifts agencies between departments, consolidates functions, and renames positions. There's no immediately obvious ideological tilt, as it's primarily an administrative restructuring. It doesn't directly address immigration, civil liberties, or economic regulation. It does centralize some power within the Department of Interior, potentially impacting federalism slightly. It also touches on social inclusion by including agencies related to education and health, but it doesn't explicitly promote diversity or conformity. The transfer of National Cemeteries from the War Department to the Department of Interior could be seen as a slight shift away from a purely national security focus. The initial scores reflect this assessment.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 0,
-        "economic_regulation": 2,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": -1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

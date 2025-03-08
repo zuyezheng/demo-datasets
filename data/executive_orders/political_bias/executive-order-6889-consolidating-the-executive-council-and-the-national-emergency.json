@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 4,
+        "federalism": 4,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "This document consolidates executive power during a national emergency, centralizing authority and expanding the executive branch's control over various sectors. It leans towards government intervention in the economy and consolidates federal power.",
+    "critique": "This document consolidates emergency powers under the President during the Great Depression. It creates and empowers the National Emergency Council, composed of numerous cabinet members and agency heads, to coordinate the government's response to the economic crisis. The order centralizes authority, expands executive power, and involves heavy government intervention in the economy. There is no mention of immigration, civil liberties, or social inclusion. The ideological tilt is towards government intervention to solve economic problems, which aligns with a liberal approach during that era. Federalism is impacted as the order centralizes power in the federal government to address the national emergency.",
     "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 4,
         "federalism": 4,
-        "security_liberty": 2,
-        "economic_regulation": 4,
+        "security_liberty": 0,
+        "economic_regulation": 5,
         "social_inclusion": 0
     }
 }

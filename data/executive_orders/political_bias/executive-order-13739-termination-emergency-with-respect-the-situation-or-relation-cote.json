@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": -1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document terminates a national emergency related to C\u00f4te d'Ivoire, citing progress in stabilization and the removal of multilateral sanctions. It emphasizes the continuation of pending actions and clarifies that the order does not create enforceable rights.",
+    "critique": "This executive order terminates a national emergency related to C\u00f4te d'Ivoire, citing progress in stabilization and the removal of multilateral sanctions. It does not inherently lean liberal or conservative (Ideological Tilt). It doesn't directly address immigration (Immigration Approach). Terminating a national emergency could be seen as slightly restricting executive power, but it's more of a neutral action in response to changing circumstances (Executive Power). It doesn't significantly impact the balance between state and federal power (Federalism). The order doesn't directly deal with national security vs. civil liberties (National Security vs. Civil Liberties). It has no direct impact on economic regulation (Economic Regulation). Similarly, it doesn't explicitly promote or hinder social inclusion (Social Inclusion).",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": -1,
         "federalism": 0,
-        "security_liberty": 1,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -2,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -3
     },
-    "critique": "The document restricts abortion funding, aligning with conservative values on this issue. It emphasizes compliance and enforcement, potentially expanding executive power to ensure adherence to the policy. The order also reinforces existing federal restrictions, suggesting a strong federal control. However, it also includes exceptions for rape, incest, or when the woman's life is endangered, indicating a moderate stance. The document doesn't directly address immigration, security, economic regulation, or social inclusion beyond the abortion issue.",
+    "critique": "This executive order reinforces the Hyde Amendment and aims to prevent federal funds from being used for abortion services, except in specific cases. It directs various agencies to ensure compliance and issue guidelines. The order does not directly address immigration, executive power beyond enforcement, federalism significantly, national security, economic regulation broadly, or social inclusion beyond the abortion issue. Therefore, the scores reflect this narrow focus.",
     "revised_scores": {
         "ideological_tilt": -2,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 2,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": -1
+        "social_inclusion": -3
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to tax-exempt organizations and their returns, specifically Form 990-A, and grants a special committee of the House of Representatives the authority to inspect these returns for the years 1950-1953. This is related to the investigation of tax-exempt foundations. There is no explicit discussion of ideological tilt, immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion. However, the document does imply a level of government oversight and regulation of tax-exempt organizations.",
+    "critique": "This document pertains to the inspection of tax returns of organizations exempt from tax by a special committee of the House of Representatives. It is signed by Dwight D. Eisenhower. It is difficult to assess the ideological tilt without knowing the specific organizations being investigated, but the act of investigating tax-exempt foundations could be seen as leaning slightly conservative, depending on the motivations and targets of the investigation. Immigration is not addressed. Executive power is somewhat expanded as the order allows for inspection of tax returns. Federalism is not directly addressed. National security vs. civil liberties is difficult to assess, but the inspection of tax returns could be seen as a slight infringement on privacy. Economic regulation is not directly addressed. Social inclusion is not directly addressed.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 5,
-        "security_liberty": 3,
-        "economic_regulation": 2,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

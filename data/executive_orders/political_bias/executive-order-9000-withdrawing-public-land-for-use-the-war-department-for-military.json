@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 3,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1941 withdrawing public land in Oregon for military use by the War Department. It prioritizes national security during a national emergency. After the emergency, the land can be used for grazing or other uses by the Department of Interior.",
+    "critique": "This document is an executive order from 1941 that withdraws public land in Oregon for use by the War Department for military purposes. It is a relatively straightforward action related to national security during a time of national emergency (World War II). It also includes provisions for the land to revert back for grazing or other uses by the Department of Interior after the emergency is over. Here's an analysis of its political bias across the specified axes:\n\n1.  Ideological Tilt: The document itself doesn't express a clear ideological stance. It's a practical measure related to national defense. Score: 0\n2.  Immigration Approach: The document has no bearing on immigration. Score: 0\n3.  Executive Power: The order expands executive power by withdrawing land for military use. However, it also includes a provision for the land to revert back to the Department of Interior, which somewhat tempers the expansion of executive power. Score: 2\n4.  Federalism: The order involves the federal government taking control of land within a state, indicating a shift towards federal primacy. Score: 3\n5.  National Security vs. Civil Liberties: The document prioritizes national security by allocating land for military purposes. While it doesn't directly infringe on civil liberties, the context of wartime suggests a greater emphasis on security. Score: 3\n6.  Economic Regulation: The document involves government intervention in land use, withdrawing it from potential private appropriation (including mining). This suggests a degree of economic regulation. Score: 2\n7.  Social Inclusion: The document has no direct impact on social inclusion. Score: 0",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 2,
         "federalism": 3,
-        "security_liberty": 4,
-        "economic_regulation": 0,
+        "security_liberty": 3,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

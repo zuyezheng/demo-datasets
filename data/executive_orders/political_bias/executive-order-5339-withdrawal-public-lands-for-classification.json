@@ -1,6 +1,6 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
@@ -8,12 +8,12 @@
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order from 1930 that temporarily withdraws unreserved public lands in Arizona and Nevada for classification and potential inclusion in a national monument. It does not express opinions on social issues, economic policy, or immigration. Therefore, most axes should be neutral. The action of withdrawing land for potential national monument status could be seen as a slight increase in federal power.",
+    "critique": "This document withdraws public lands for classification and potential inclusion in a national monument. This action could be seen as slightly liberal in the sense that it prioritizes conservation and environmental protection. There is no mention of immigration, executive power, federalism, national security, economic regulation, or social inclusion. Therefore, most axes should be neutral.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

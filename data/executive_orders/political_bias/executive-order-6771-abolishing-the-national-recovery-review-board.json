@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 3,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document describes the dissolution of the National Recovery Review Board, established under the National Industrial Recovery Act. This act was part of Franklin D. Roosevelt's New Deal, which aimed to combat the Great Depression through government intervention in the economy. The document itself doesn't explicitly state any political bias, but the context of the act and the board's purpose suggest a leaning towards government intervention and federal control.",
+    "critique": "This executive order terminates the National Recovery Review Board, which was established under the National Industrial Recovery Act. This act was part of Franklin D. Roosevelt's New Deal program. The document itself doesn't express a strong ideological stance, but its context within the New Deal suggests a moderate level of government intervention in the economy. There is no mention of immigration, executive power, federalism, national security, or social inclusion. Therefore, these axes should be scored as neutral. The termination of the board could be seen as a slight move towards less intervention, but it's primarily an administrative decision.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

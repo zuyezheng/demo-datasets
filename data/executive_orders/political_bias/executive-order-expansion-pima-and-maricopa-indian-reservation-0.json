@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document focuses on land allocation for Native American tribes, indicating a concern for their welfare, but it's framed within the context of government control over land and resources. There's no explicit mention of ideological leanings, immigration, or civil liberties. The order expands executive power by withdrawing land from sale and allocating it by executive order.",
-    "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 3,
+        "federalism": 4,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 2
+        "economic_regulation": 1,
+        "social_inclusion": 4
+    },
+    "critique": "This executive order from 1879 sets aside land for the Pima and Maricopa Indians. \n\nIdeological Tilt: This action could be seen as moderately liberal in its time, as it supports indigenous populations, but it's also a government action, so not strongly tilted. Score: 2\n\nImmigration Approach: This order doesn't directly address immigration. Score: 0\n\nExecutive Power: The order utilizes executive power to withdraw land. Score: 3\n\nFederalism: This is a federal action impacting a territory, indicating federal control. Score: 4\n\nNational Security vs. Civil Liberties: This order doesn't directly relate to national security or civil liberties. Score: 0\n\nEconomic Regulation: The order involves land use, which has economic implications, but it's not direct regulation. Score: 1\n\nSocial Inclusion: The order supports a specific minority group, promoting inclusion. Score: 4\n\nRevised Scores:\nI will revise the ideological tilt to be more moderate, as it's a specific action rather than a broad ideological statement. The executive power score is appropriate. The federalism score is also appropriate. The social inclusion score is also appropriate.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 4,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": 4
     }
 }

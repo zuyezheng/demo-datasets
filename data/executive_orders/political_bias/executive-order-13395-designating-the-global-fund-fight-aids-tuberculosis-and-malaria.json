@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document designates the Global Fund to Fight AIDS, Tuberculosis and Malaria as a public international organization entitled to enjoy the privileges, exemptions, and immunities provided by the International Organizations Immunities Act. This suggests a cooperative international approach to global health issues.",
-    "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 5
+        "economic_regulation": 1,
+        "social_inclusion": 2
+    },
+    "critique": "This document designates the Global Fund to Fight AIDS, Tuberculosis and Malaria as a public international organization, entitling it to certain privileges, exemptions, and immunities under the International Organizations Immunities Act. This action has implications across several axes:\n\n1.  Ideological Tilt: This action is generally viewed as liberal, as it supports international cooperation and global health initiatives, which are often priorities of liberal agendas. Score: +2\n2.  Immigration Approach: The document does not directly address immigration. Score: 0\n3.  Executive Power: The document expands executive power by designating an organization for certain privileges. Score: +1\n4.  Federalism: The document does not directly impact the balance between state and federal power. Score: 0\n5.  National Security vs. Civil Liberties: The document does not directly address national security or civil liberties. Score: 0\n6.  Economic Regulation: The document does not directly regulate the economy, but it does facilitate international cooperation on health issues, which could have indirect economic effects. Score: +1\n7.  Social Inclusion: Supporting global health initiatives can be seen as promoting social inclusion by addressing health disparities and supporting vulnerable populations. Score: +2\n\nRevised Scores:\nBased on the critique, the initial scores are reasonable. No changes are necessary.",
+    "revised_scores": {
+        "ideological_tilt": 2,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": 2
     }
 }

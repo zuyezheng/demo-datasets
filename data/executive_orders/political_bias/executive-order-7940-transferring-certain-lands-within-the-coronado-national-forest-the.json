@@ -1,20 +1,20 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "immigration": -1,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document describes the transfer of land from the Coronado National Forest to the Secretary of the Treasury for use as a customs-immigration inspection station. This suggests a focus on border control and federal authority.",
+    "critique": "This document pertains to the transfer of land for a customs-immigration inspection station. It is a relatively straightforward administrative action. There is little to suggest a strong ideological tilt. The action of creating an immigration station suggests a slightly restrictive immigration approach, but it is primarily an administrative matter. The executive power is used to transfer land, which is a moderate use of power. The federal government is exerting control over land, indicating federal primacy. There is a slight emphasis on national security due to the immigration station. There is no direct economic regulation or impact on social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
-        "immigration": 3,
-        "executive_power": 0,
-        "federalism": 3,
-        "security_liberty": 3,
+        "immigration": -1,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

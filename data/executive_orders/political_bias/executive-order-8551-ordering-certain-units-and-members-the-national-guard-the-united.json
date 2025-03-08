@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from President Franklin D. Roosevelt in 1940, ordering National Guard units into active military service. It is focused on national security and military readiness in the lead-up to World War II. There is no discussion of economic regulation, social inclusion, or immigration. The order expands executive power by mobilizing the National Guard and centralizes federal control over state military units.",
+    "critique": "This document is an executive order from 1940 ordering National Guard units into active military service. Given the context of the time, with World War II on the horizon, the document likely reflects a move towards strengthening national defense. Here's an analysis of its potential biases:\n\n*   **Ideological Tilt:** Neutral (0). The document itself doesn't express a clear ideological stance. It's a military order, not a policy statement on social or economic issues.\n*   **Immigration Approach:** Neutral (0). Immigration is not addressed in this document.\n*   **Executive Power:** Expands Executive Authority (+3). Ordering the National Guard into active service is a significant use of executive power, especially as it bypasses the need for a formal declaration of war. The reference to the President as Commander-in-Chief reinforces this.\n*   **Federalism:** Strong Federal Control (+3). By federalizing the National Guard, the order centralizes control in the federal government, diminishing state control over these units.\n*   **National Security vs. Civil Liberties:** Heavy National Security Focus (+2). The order prioritizes national security by bolstering the military, potentially at the expense of individual liberties (though not explicitly stated).\n*   **Economic Regulation:** Neutral (0). The document has no direct impact on economic regulation.\n*   **Social Inclusion:** Neutral (0). The document does not address social inclusion or diversity.\n\nRevised Scores:\nAfter further consideration, I'm adjusting the 'Executive Power' score to +2. While the order does utilize executive authority, it's grounded in existing legislation (Public Resolution No. 96 and the National Defense Act). This suggests the action is within established legal boundaries, rather than a radical expansion of power. The 'National Security vs. Civil Liberties' score is also adjusted to +1. The order prepares for potential conflict but doesn't inherently infringe on civil liberties, so a more moderate score is appropriate.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 2,
         "federalism": 3,
-        "security_liberty": 4,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

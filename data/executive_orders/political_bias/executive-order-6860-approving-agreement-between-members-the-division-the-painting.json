@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
+        "executive_power": 0,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document reflects President Roosevelt's approval of an agreement within the construction industry under the National Industrial Recovery Act. This act was a key component of the New Deal, aimed at regulating industry and promoting economic recovery during the Great Depression. The agreement pertains to fair competition and labor standards within the Painting, Paperhanging, and Decorating Division of the Construction Industry in specific Pennsylvania counties.",
+    "critique": "This document is an executive order from Franklin D. Roosevelt approving an agreement related to the construction industry under the National Industrial Recovery Act of 1933. It pertains to fair competition and labor standards within the Painting, Paperhanging, and Decorating Division in several counties in Pennsylvania. The document reflects a strong interventionist approach by the federal government in the economy, typical of the New Deal era. It does not directly address immigration, executive power, federalism in a clear way, national security, or social inclusion. However, the approval of such an agreement suggests a centralized approach to economic regulation and labor standards. Therefore, the initial scores are as follows:\n\nIdeological Tilt: The document reflects a liberal approach due to its interventionist economic policies (+3).\nImmigration Approach: The document does not address immigration (0).\nExecutive Power: The document is an executive order, but it is implementing existing legislation rather than expanding executive power significantly (0).\nFederalism: The document implies a stronger federal role in regulating industry, which leans towards federal control (+2).\nNational Security vs. Civil Liberties: The document does not directly address national security or civil liberties (0).\nEconomic Regulation: The document strongly supports government intervention in the economy (+4).\nSocial Inclusion: The document does not directly address social inclusion (0).\n\nUpon further reflection, the executive order is more of an implementation of existing law, so the executive power score should be slightly negative. The federalism score is also slightly high, as it is more about economic regulation than a fundamental shift in power. The ideological tilt is also slightly high, as it is more about economic policy than social issues. Therefore, the revised scores are as follows:",
     "revised_scores": {
-        "ideological_tilt": 4,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 4,
-        "federalism": 4,
+        "executive_power": -1,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 4,
         "social_inclusion": 0

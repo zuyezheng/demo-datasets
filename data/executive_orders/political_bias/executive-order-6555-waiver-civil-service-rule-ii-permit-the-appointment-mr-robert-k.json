@@ -1,6 +1,6 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
@@ -8,14 +8,14 @@
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1934 that waives civil service rules to appoint an individual to a position. It is difficult to assess the political bias of such a document without further context, but some assumptions can be made. Given the time period, the New Deal era, a moderate level of government intervention can be assumed. The order does not seem to obviously lean in any particular direction on most of the axes.",
+    "critique": "This document is a simple executive order regarding a specific appointment within the War Department. It waives Civil Service rules for Mr. Robert K. McQueen to become a lockmaster. Given the limited scope and specific nature of the order, it's difficult to assign strong biases across most axes. It doesn't touch on immigration, executive power in a broad sense, federalism, national security vs. civil liberties, economic regulation, or social inclusion in any meaningful way. The only axis that might have a slight lean is ideological tilt, as waiving civil service rules could be seen as a slightly conservative approach, but it's very marginal. Therefore, most axes will be scored as neutral (0), with a slight conservative lean on ideological tilt (-1).",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

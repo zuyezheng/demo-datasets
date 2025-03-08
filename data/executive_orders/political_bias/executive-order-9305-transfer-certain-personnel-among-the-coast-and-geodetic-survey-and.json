@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order transferring officers between government departments during a national emergency. It temporarily moves officers from the Coast and Geodetic Survey to the War Department and vice versa. There is a very limited scope for political bias.",
+    "critique": "This document pertains to the transfer of officers between government departments during a national emergency (World War II). It's a wartime measure that doesn't directly address typical ideological divides. The order temporarily moves personnel to where they are needed most for the war effort and returns them when the emergency is over. Therefore, most axes should be neutral. The executive power axis leans slightly towards expansion due to the President's action during a national emergency, but it's a temporary measure tied to a specific crisis.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
-        "security_liberty": 2,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

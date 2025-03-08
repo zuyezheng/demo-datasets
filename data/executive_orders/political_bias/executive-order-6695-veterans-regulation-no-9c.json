@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on providing burial expenses for war veterans, indicating a potential emphasis on honoring military service and veterans' affairs. However, it also includes provisions for financial limitations and considerations of other contributions, suggesting a balanced approach to resource allocation.",
+    "critique": "This document is an executive order regarding the payment of burial expenses for deceased war veterans. It expands benefits to veterans, but also places limits based on the veteran's assets. It gives discretion to the Administrator. There is no clear ideological tilt. It does not relate to immigration. It expands executive power by giving discretion to the administrator. It does not clearly relate to federalism. It focuses on benefits for veterans. It does not relate to economic regulation. It does not relate to social inclusion.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 1,
-        "economic_regulation": 1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

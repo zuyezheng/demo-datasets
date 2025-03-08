@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document expands executive power in response to a declared national emergency. It invokes sections 688 and 690 of title 10, United States Code, granting the Secretary of Defense additional authority to manage personnel requirements. The order also includes general provisions that ensure it does not impair existing authorities, is subject to appropriations, and does not create enforceable rights.",
+    "critique": "This document is an executive order that amends a previous executive order related to the national emergency declared after the September 11, 2001 terrorist attacks. It invokes additional authorities for the Secretary of Defense to manage personnel requirements. It does not directly address immigration, economic regulation, or social inclusion. It appears to expand executive power by invoking additional authorities during a national emergency. It does not seem to directly impact federalism. It leans towards prioritizing national security. It does not express a clear ideological tilt.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0

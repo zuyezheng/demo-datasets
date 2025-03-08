@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
+        "executive_power": -1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "This document primarily concerns the delegation of presidential authority to various government entities, such as the Director of the Bureau of the Budget, the United States Civil Service Commission, the Housing and Home Finance Administrator, the Federal Communications Commission, the Attorney General, and the Administrator of General Services. It outlines specific functions that these entities are empowered to perform without direct presidential approval. There is no direct mention of immigration, civil liberties, or social issues. The document appears to centralize authority by delegating presidential powers rather than addressing state control. The economic impact is indirect, related to budgetary and administrative functions.",
+    "critique": "This document delegates presidential authority to various agencies and individuals. It does not directly address ideological issues, immigration, civil liberties, economic regulation, or social inclusion. Therefore, most axes should be scored as neutral. The delegation of authority could be seen as slightly restraining executive power, but it's primarily an administrative matter.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
+        "executive_power": -1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

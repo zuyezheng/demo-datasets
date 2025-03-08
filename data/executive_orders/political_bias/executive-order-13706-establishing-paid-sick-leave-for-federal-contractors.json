@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document mandates paid sick leave for federal contractors, impacting economic regulation and social inclusion.",
-    "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 2,
-        "federalism": 1,
+        "federalism": 2,
+        "security_liberty": 0,
+        "economic_regulation": 3,
+        "social_inclusion": 2
+    },
+    "critique": "This executive order mandates paid sick leave for federal contractors. This leans liberal as it promotes social welfare and worker benefits. It expands federal power by imposing requirements on contractors, thus affecting federalism. It also touches on economic regulation by mandating a specific labor policy. There is no direct impact on immigration or national security. It promotes social inclusion by providing leave for various family and personal needs, including domestic violence situations.",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 2,
         "security_liberty": 0,
         "economic_regulation": 3,
         "social_inclusion": 2

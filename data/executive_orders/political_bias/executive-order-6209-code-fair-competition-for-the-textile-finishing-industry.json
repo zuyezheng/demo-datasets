@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document reflects early New Deal policies, specifically the National Industrial Recovery Act, aimed at regulating industry and setting minimum wages during the Great Depression. It leans towards government intervention in the economy and labor standards.",
-    "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 2,
         "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 4,
-        "social_inclusion": 0
+        "social_inclusion": 1
+    },
+    "critique": "This document is an agreement related to the National Industrial Recovery Act of 1933, specifically concerning the Textile Finishing Industry. It sets a minimum wage higher than that of the Cotton Textile Code. Here's an analysis of its political biases:\n\n1.  Ideological Tilt: The document reflects a liberal approach due to government intervention in wage setting, a characteristic of interventionist economic policies common during the New Deal era. Score: +3\n2.  Immigration Approach: The document does not address immigration. Score: 0\n3.  Executive Power: The document is an agreement, but it's based on the authority vested in the President by the National Industrial Recovery Act, suggesting an expansion of executive power. Score: +2\n4.  Federalism: The document implies a strong federal role in regulating industry, indicating a move towards federal primacy. Score: +3\n5.  National Security vs. Civil Liberties: The document does not directly address national security or civil liberties. Score: 0\n6.  Economic Regulation: The document clearly involves government intervention in the economy by setting minimum wage standards. Score: +4\n7.  Social Inclusion: The document does not explicitly address social inclusion, but the minimum wage could be seen as indirectly promoting social welfare. Score: +1\n\nRevised Scores:\nAfter further consideration, the initial scores are reasonable. The document's primary focus is economic regulation and the expansion of federal power during the New Deal era. The ideological tilt is moderately liberal due to the interventionist policies. The other axes are either neutral or have a minimal impact.\n",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 4,
+        "social_inclusion": 1
     }
 }

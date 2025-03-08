@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document outlines regulations for the oil industry, focusing on preventing the interstate shipment of illegally produced petroleum. It emphasizes government oversight, record-keeping, and inspections to ensure compliance. There's a strong emphasis on federal authority and economic regulation.",
+    "critique": "This document establishes regulations for the oil industry, focusing on interstate commerce and preventing the transport of illegally produced oil. It leans towards government intervention in the economy to regulate the oil industry and ensure compliance with state laws. There's a slight emphasis on federal oversight to enforce these regulations across state lines. The document doesn't directly address social issues, immigration, or civil liberties. Therefore, the ideological tilt is neutral, and the focus is primarily on economic regulation and federal oversight within the oil industry.",
     "revised_scores": {
-        "ideological_tilt": 2,
-        "immigration": -5,
-        "executive_power": 2,
-        "federalism": 3,
-        "security_liberty": 3,
-        "economic_regulation": 4,
-        "social_inclusion": -1
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 0,
+        "economic_regulation": 3,
+        "social_inclusion": 0
     }
 }

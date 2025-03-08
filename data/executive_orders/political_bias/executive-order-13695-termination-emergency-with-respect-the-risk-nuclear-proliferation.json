@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 3,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order terminating a national emergency related to nuclear proliferation. It emphasizes executive power and national security.",
+    "critique": "This executive order terminates a previously declared national emergency related to nuclear proliferation in Russia. It does not seem to have a strong ideological tilt, as it focuses on a specific agreement and its implementation. The order does not directly address immigration, executive power, federalism, national security vs. civil liberties, economic regulation, or social inclusion. Therefore, most of these axes should be scored as neutral. The termination of the national emergency could be seen as slightly reducing executive power, but it's primarily an administrative action following the successful implementation of an agreement.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": -1,
         "federalism": 0,
-        "security_liberty": 3,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

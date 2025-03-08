@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 3,
-        "social_inclusion": 1
+        "social_inclusion": 4
     },
-    "critique": "The document is an executive order imposing trade restrictions on Southern Rhodesia in response to a UN Security Council resolution. It reflects a multilateralist approach to foreign policy and a willingness to use economic sanctions to achieve political goals. There is no direct discussion of immigration, executive power, federalism, security vs. liberty, economic regulation within the US, or social inclusion within the US. Therefore, the scores on these axes are based on inferences from the document's general context and purpose.",
+    "critique": "This executive order implements UN Security Council Resolution 232, which places sanctions on Southern Rhodesia (now Zimbabwe) due to its racial segregation policies. \n\nIdeological Tilt: This is difficult to place on a traditional left-right spectrum. Supporting human rights and opposing racial discrimination could be seen as generally aligned with liberal values, but the specific context of international relations makes it hard to assign a strong score. I'll start with a +2.\nImmigration Approach: This order doesn't directly deal with immigration, so it should be neutral. Score: 0\nExecutive Power: The order relies on existing laws and UN resolutions, suggesting it's not a major expansion of executive power. Score: 0\nFederalism: The order doesn't significantly shift power between the federal government and the states. Score: 0\nNational Security vs. Civil Liberties: The order doesn't directly impact national security or civil liberties. Score: 0\nEconomic Regulation: The order imposes trade restrictions, which is a form of government intervention in the economy. Score: +3\nSocial Inclusion: The order aims to combat racial discrimination in Southern Rhodesia, promoting social inclusion on an international level. Score: +4\n\nRevised Scores:\nIdeological Tilt: +2 (remains the same)\nImmigration Approach: 0 (remains the same)\nExecutive Power: 0 (remains the same)\nFederalism: 0 (remains the same)\nNational Security vs. Civil Liberties: 0 (remains the same)\nEconomic Regulation: +3 (remains the same)\nSocial Inclusion: +4 (remains the same)",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 3,
-        "social_inclusion": 1
+        "social_inclusion": 4
     }
 }

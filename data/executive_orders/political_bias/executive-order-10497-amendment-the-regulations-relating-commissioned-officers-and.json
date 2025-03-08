@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document primarily focuses on defining terms and updating security requirements for commissioned officers and employees within the Public Health Service. There's a moderate shift towards prioritizing national security, particularly evident in the amendment incorporating Executive Order No. 10450 regarding security requirements for government employment. This leans towards a heavier security focus and potentially less emphasis on individual liberties. The document does not directly address immigration, economic regulation, or social inclusion, so those aspects remain neutral. The revocation of section 21.183, which dealt with the transmission of information to certain agencies, could be interpreted as either limiting federal overreach or reducing transparency, but without further context, it's hard to determine the exact impact. The document seems to expand executive power slightly by reinforcing security protocols under the Secretary's discretion.",
+    "critique": "This document primarily concerns the Public Health Service and its regulations. It redefines terms and, crucially, incorporates security requirements for commissioned officers based on Executive Order No. 10450. This order, issued during the Cold War, focused on national security and loyalty, potentially at the expense of individual liberties. The revocation of section 21.183, regarding information transmission, is difficult to assess without knowing its original content, but could relate to either increased or decreased transparency. The document itself doesn't directly address immigration, economic regulation, or social inclusion. The shift towards security requirements suggests a leaning towards prioritizing national security over civil liberties. The document itself does not seem to expand executive power, but defers to another executive order. The document does not seem to obviously affect federalism. The ideological tilt is difficult to assess, but the emphasis on security requirements could be seen as leaning conservative.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0

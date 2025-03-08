@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order offering protections to Chinese nationals in the US following the Tiananmen Square massacre. It defers enforced departure, waives passport requirements, and provides work authorization. It also addresses concerns about forced abortion/sterilization policies in other countries and ensures consideration for asylum seekers. The order broadens executive power in immigration matters and leans towards open immigration policies for a specific group. There is no clear indication of economic regulation, security vs. liberty, or social inclusion issues in the document.",
-    "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 3,
         "immigration": 3,
         "executive_power": 2,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 1
+        "social_inclusion": 3
+    },
+    "critique": "This executive order provides temporary protection to Chinese nationals in the US following the Tiananmen Square massacre. It defers enforced departure, waives passport requirements, and provides employment authorization. It also directs consideration for those fearing persecution due to forced abortion or sterilization policies. This suggests a liberal approach to immigration and social inclusion. However, it is a temporary measure, and doesn't open borders generally. It expands executive power to provide these protections. It also touches on foreign policy. It is difficult to assess the economic regulation and federalism aspects based on the text.",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 3,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 3
     }
 }

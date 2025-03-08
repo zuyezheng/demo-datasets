@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order related to economic warfare during World War II. It expands executive power and federal control over the economy to support the war effort. There is no direct mention of immigration or social issues.",
-    "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 4,
         "federalism": 3,
         "security_liberty": 3,
         "economic_regulation": 4,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order, issued during World War II, focuses on centralizing economic control under the Board of Economic Warfare to support the war effort. It expands executive power by granting broad authority to the Board and its chairman. It also centralizes control at the federal level, taking power away from states. Given the context of wartime, civil liberties are likely to be less of a focus. The order reflects a strong interventionist approach to the economy. There is no clear indication about immigration or social inclusion. Ideologically, it aligns with a liberal approach due to the expansion of government intervention in the economy, which is common during wartime.",
+    "revised_scores": {
+        "ideological_tilt": 2,
+        "immigration": 0,
+        "executive_power": 4,
+        "federalism": 4,
+        "security_liberty": 3,
+        "economic_regulation": 5,
         "social_inclusion": 0
     }
 }

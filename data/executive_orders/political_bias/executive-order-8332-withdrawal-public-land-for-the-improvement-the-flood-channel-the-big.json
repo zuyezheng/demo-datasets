@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 1,
+        "social_inclusion": -1
     },
-    "critique": "The document is an executive order regarding land withdrawal in Mississippi for flood control. It's primarily focused on land management and infrastructure, with minimal implications for social or political issues. Therefore, most axes should be close to neutral.",
+    "critique": "This document is an executive order regarding land use in Mississippi for flood control along the Big Black River. It revokes a previous order and withdraws a specific tract of land from settlement, location, sale, or entry, reserving it for a War Department project. The order itself doesn't directly address ideological issues, immigration, executive power in a broad sense, or social inclusion. It's primarily focused on land management and infrastructure. However, the act of reserving land for a federal project could be seen as a slight expansion of federal power over state/private interests. The connection to flood control could be seen as a form of economic regulation. Given the time period, social inclusion is likely neutral or slightly negative.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 1,
+        "social_inclusion": -1
     }
 }

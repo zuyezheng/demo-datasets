@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document prioritizes national security during wartime by restricting travel and suspending habeas corpus for those evading the draft or suspected of disloyalty. This suggests a strong emphasis on security over individual liberties and a willingness to expand executive power to enforce these measures.",
-    "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": -3,
+        "ideological_tilt": -3,
+        "immigration": -2,
         "executive_power": 4,
         "federalism": 3,
-        "security_liberty": 5,
+        "security_liberty": 4,
         "economic_regulation": 0,
-        "social_inclusion": -1
+        "social_inclusion": -2
+    },
+    "critique": "This document is an order from the War Department during a time of war (likely the Civil War, given the reference to 'draft' and 'Major L.C. Turner'). It restricts travel for those liable to be drafted, mandates the arrest of those who leave their state before the draft, and suspends habeas corpus for those arrested for disloyal practices or draft evasion. Ideologically, it reflects a conservative approach to national security during wartime. Immigration is restricted for those liable for the draft. Executive power is expanded significantly, and federal power is asserted over states. Civil liberties are curtailed in favor of national security. There is no economic regulation mentioned. Social inclusion is not directly addressed, but the context suggests a focus on conformity and loyalty during wartime.",
+    "revised_scores": {
+        "ideological_tilt": -3,
+        "immigration": -2,
+        "executive_power": 4,
+        "federalism": 3,
+        "security_liberty": 4,
+        "economic_regulation": 0,
+        "social_inclusion": -2
     }
 }

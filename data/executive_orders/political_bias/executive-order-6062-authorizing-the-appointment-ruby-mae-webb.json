@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 1
     },
-    "critique": "The document waives civil service rules to appoint a widow of a deceased rural letter carrier, emphasizing her need for support and her qualification for the position. This reflects a focus on social welfare and family support during a time of economic hardship.",
+    "critique": "This document is an executive order appointing Ruby Mae Webb as a rural letter carrier. It waives civil service rules due to her husband's heroic death and her suitability for the role. Ideologically, it's a moderate action showing compassion and support for a deceased public servant's family. It doesn't directly address immigration, executive power, federalism, national security, economic regulation, or social inclusion in a significant way. Therefore, most axes should be near zero. The action could be seen as a slight expansion of executive power, but it's a very specific and limited case.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
-        "social_inclusion": 3
+        "economic_regulation": 0,
+        "social_inclusion": 1
     }
 }

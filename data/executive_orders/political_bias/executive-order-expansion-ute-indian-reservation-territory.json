@@ -1,6 +1,6 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
@@ -8,14 +8,14 @@
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a reservation for Ute Indians, which can be seen as a move towards social inclusion for Native American tribes. However, it also involves executive action to withdraw land from sale, expanding executive power. The federal government is asserting control over land use within a territory, indicating strong federal control. There is no direct mention of economic regulation, security, or immigration in this document. The ideological tilt is difficult to assess without more context, but the action could be seen as moderately liberal in its approach to Native American affairs.",
+    "critique": "This executive order establishes land for the use of Ute Indians. This likely has a slight liberal ideological tilt because it favors indigenous populations. It does not obviously affect immigration, executive power, federalism, national security vs. civil liberties, economic regulation, or social inclusion. Therefore, most of these are set to neutral.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 3,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 3
+        "social_inclusion": 0
     }
 }

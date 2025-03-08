@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 1,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding financial responsibility for vessels and water pollution. It delegates authority to federal agencies, particularly the Coast Guard, to respond to oil and hazardous substance discharges. It also transfers functions from the Federal Maritime Commission to the Coast Guard. There is no discussion of immigration, ideological tilt, or social inclusion.",
+    "critique": "This executive order primarily concerns the delegation of authority regarding financial responsibility for water pollution and the response to oil and hazardous substance discharges. It shifts responsibilities related to these issues from the Federal Maritime Commission to the Secretary of the Department in which the Coast Guard is operating. There's no direct indication of ideological tilt, immigration policy, or social inclusion. It touches upon environmental regulation and potentially national security (related to waterway protection). The federalism aspect is present as it re-allocates responsibilities between federal entities. Executive power is somewhat expanded as it consolidates authority.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 1,
         "federalism": 3,
-        "security_liberty": 3,
+        "security_liberty": 1,
         "economic_regulation": 3,
         "social_inclusion": 0
     }

@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 3,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding the transfer of Iranian government assets overseas. It is difficult to assess its political bias based on the axes provided, as it primarily deals with foreign policy and national security concerns related to a specific historical event (the Iran hostage crisis).",
+    "critique": "This document is an executive order directing the transfer of Iranian government assets overseas. It is related to the resolution of claims of United States nationals against Iran and the normalization of relations between the United States and Iran after the hostage crisis. It invokes the International Emergency Economic Powers Act and declares a continuing national emergency. The order compels US banks to transfer Iranian assets and nullifies any attachments or legal proceedings against those assets. It also protects those complying with the order from liability. It centralizes power in the executive branch and the Secretary of the Treasury to implement the order.\n\nIdeological Tilt: This is difficult to assess. It's not inherently liberal or conservative. It's more about foreign policy and national security. I'll give it a 0.\nImmigration Approach: This order doesn't directly deal with immigration, so it's neutral. I'll give it a 0.\nExecutive Power: This order expands executive power by compelling actions and nullifying legal proceedings. I'll give it a +3.\nFederalism: This order doesn't significantly impact the balance between state and federal power. It's more about international relations. I'll give it a 0.\nNational Security vs. Civil Liberties: This order prioritizes national security and foreign policy goals over individual property rights. I'll give it a +2.\nEconomic Regulation: This order involves government intervention in the economy by directing the transfer of assets. I'll give it a +2.\nSocial Inclusion: This order doesn't directly address social inclusion issues. I'll give it a 0.\n\nRevised Scores:\nIdeological Tilt: 0\nImmigration Approach: 0\nExecutive Power: +3\nFederalism: 0\nNational Security vs. Civil Liberties: +2\nEconomic Regulation: +2\nSocial Inclusion: 0",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 3,
-        "economic_regulation": 0,
+        "security_liberty": 2,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

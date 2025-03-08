@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document describes an offer of troops by several state governors to the President of the United States during the Civil War. It outlines the terms of service, including duration, organization, and compensation. There is nothing to suggest a strong bias in any particular direction. The document appears to be a straightforward agreement between state and federal authorities during a time of national crisis.",
+    "critique": "This document pertains to the acceptance of state-provided troops for a military campaign during the Civil War. Given the context, several axes are not strongly implicated. Ideologically, the document reflects a commitment to preserving the Union, which could be seen as moderately conservative in the context of the time, but I will score it as neutral. Immigration is not relevant. Executive power is somewhat expanded as the President accepts the troops, but it's within the normal bounds of wartime authority, so I will score it as slightly expanding. Federalism is strengthened as the federal government coordinates with state governments for military purposes. National security is prioritized due to the wartime context. Economic regulation is not directly addressed. Social inclusion is not a primary focus, though the war itself had implications for social change.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 2,
-        "security_liberty": 2,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

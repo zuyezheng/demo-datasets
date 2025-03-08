@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document prioritizes US and Panamanian citizens in employment, potentially discriminating against other nationalities. It also grants the Governor broad discretion over various aspects of employment, healthcare, and leave, indicating a concentration of executive power. The document reflects a focus on maintaining operational efficiency during wartime, potentially at the expense of individual employee benefits.",
-    "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": -3,
-        "executive_power": 2,
-        "federalism": 0,
-        "security_liberty": 1,
-        "economic_regulation": 0,
-        "social_inclusion": -2
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": -1
+    },
+    "critique": "This executive order from 1944 primarily concerns employment conditions and benefits for workers in the Panama Canal Zone. It shows a preference for US and Panamanian citizens in employment, particularly for higher-paying positions, which indicates a restrictive approach to immigration and labor. The order also grants the Governor of the Panama Canal Zone significant discretion over employment matters, medical care, and leave policies. The order provides medical care and attendance to employees, which can be seen as a form of government intervention. The document does not directly address social inclusion or ideological tilt in a broader sense. It is difficult to assess the impact on executive power or federalism without more context, but the order seems to delegate authority to the Governor of the Canal Zone, which could be interpreted as a form of federal control. The document was issued during wartime, which explains some of the provisions related to leave and commutation of leave.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": -3,
+        "executive_power": 0,
+        "federalism": 2,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": -1
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document establishes a reservation for the Moqui tribe and other Indians, withdrawing the land from settlement and sale. This suggests a balanced approach to federalism, as it involves federal action to protect indigenous land rights. There's a slight lean towards social inclusion by prioritizing the occupancy of the Moqui and other Indians. Economic regulation is not directly addressed, but the withdrawal from settlement and sale implies some level of government intervention in land use. Executive power is expanded as the order is issued by the executive mansion.",
-    "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 2,
+        "federalism": 4,
         "security_liberty": 0,
-        "economic_regulation": 2,
-        "social_inclusion": 3
+        "economic_regulation": 3,
+        "social_inclusion": -1
+    },
+    "critique": "This executive order from 1882 withdraws land from settlement and sale, setting it aside for the Moqui (Hopi) tribe and other Indians as determined by the Secretary of the Interior. \n\nIdeological Tilt: The order reflects a paternalistic approach towards Native Americans, which was common at the time. It's difficult to place it on a modern liberal-conservative scale, but given the context of the time, it leans slightly towards recognizing indigenous rights, but also enabling government control over their lives. I'll score it as slightly conservative due to the government control aspect.\n\nImmigration Approach: This order doesn't directly address immigration in the modern sense. However, it does deal with the movement and settlement of people on land, prioritizing the Moqui tribe. I'll score it as neutral since it's not directly related to immigration policy.\n\nExecutive Power: The order is an example of the executive branch using its power to designate land use. This expands executive authority, so I'll score it positively.\n\nFederalism: The order involves the federal government directly controlling land within a territory, indicating strong federal control. I'll score it positively.\n\nNational Security vs. Civil Liberties: The order doesn't explicitly address national security or civil liberties. It's primarily about land allocation. I'll score it as neutral.\n\nEconomic Regulation: The order withdraws land from settlement and sale, which is a form of economic regulation. It restricts access to land for economic purposes. I'll score it as moderate government intervention.\n\nSocial Inclusion: The order sets aside land for a specific group (Moqui tribe and other Indians), which could be seen as a form of social inclusion, but it also excludes others. Given the historical context of forced assimilation, the impact on social inclusion is complex. I'll score it as slightly emphasizing conformity due to the government deciding who can settle there.\n\nRevised Scores: After further consideration, the initial scores need some adjustments. The ideological tilt should be more neutral, as the action is more about land management than a specific ideological stance. The social inclusion score should also be more neutral, as the impact is mixed.\n",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 4,
+        "security_liberty": 0,
+        "economic_regulation": 3,
+        "social_inclusion": 0
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document expresses a strong stance against apartheid in South Africa and aims to promote human rights and equality. It uses economic sanctions and encourages fair labor practices to influence change. There is no direct impact on immigration, executive power within the US, or federalism. The document balances security concerns with the protection of human rights and promotes social inclusion by opposing discrimination.",
-    "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 1,
+        "security_liberty": 0,
         "economic_regulation": 3,
-        "social_inclusion": 4
+        "social_inclusion": 5
+    },
+    "critique": "This executive order, issued by President Reagan in 1985, directly addresses the apartheid regime in South Africa. It imposes economic sanctions, including restrictions on loans, computer exports, and nuclear-related materials. It also encourages fair labor practices for US firms operating in South Africa and promotes assistance to businesses owned by disadvantaged South Africans. The order invokes multiple legal authorities, including the International Emergency Economic Powers Act and the United Nations Participation Act. It reflects a stance against racial discrimination and a commitment to human rights, aligning with liberal values. However, it also uses executive power to implement these policies, which could be seen as an expansion of executive authority. The order's focus on international cooperation and human rights aligns with a more liberal foreign policy approach. The economic regulations imposed suggest government intervention, while the emphasis on diversity and inclusion reflects a progressive social agenda.",
+    "revised_scores": {
+        "ideological_tilt": 4,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 3,
+        "social_inclusion": 5
     }
 }

@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "This document is an executive order delegating powers related to the Defense Production Act of 1950. It focuses on mobilizing resources and stabilizing the economy during the Korean War. There's a strong emphasis on centralizing control and coordinating efforts across various government agencies to support defense production and manage the economy. The order creates new agencies and delegates authority to existing departments to ensure adequate supplies, expand productive capacity, and stabilize prices and wages. The document reflects a strong federal role in managing the economy and resources during a national emergency.",
-    "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 4,
+        "federalism": 3,
         "security_liberty": 2,
+        "economic_regulation": 4,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order, issued in 1950, delegates authority related to the Defense Production Act. It aims to mobilize resources for national defense during the Korean War. It delegates presidential powers to various departments and agencies, including the Secretaries of Interior, Agriculture, and Commerce, as well as the Economic Stabilization Administrator. The order covers priorities and allocations, requisitioning, expansion of productive capacity, economic stabilization, real estate credit, labor supply, and voluntary agreements. It establishes the Economic Stabilization Agency and the Wage Stabilization Board to manage economic controls. The order centralizes control over resources and production in the federal government to support the war effort. It does not directly address immigration, civil liberties, or social inclusion. The order leans towards government intervention in the economy to ensure adequate supplies for defense. It also expands executive power by delegating authority to various agencies. Given the context of the Korean War, the order reflects a national security focus. The ideological tilt is moderate, as it focuses on practical measures for defense rather than promoting a specific political ideology. The federalism aspect leans towards federal primacy, as it centralizes control over resources and production at the federal level.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 3,
         "economic_regulation": 4,
         "social_inclusion": 0
     }

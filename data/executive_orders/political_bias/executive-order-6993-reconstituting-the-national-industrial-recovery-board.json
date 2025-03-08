@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 2,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 4,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to the reconstitution of the National Industrial Recovery Board during the New Deal era in the United States. It reflects President Roosevelt's use of executive authority to implement policies related to economic recovery and industrial regulation. The order itself doesn't explicitly address social issues or civil liberties, focusing instead on the structure and membership of a key administrative body.",
+    "critique": "The document is an executive order that reconstitutes the National Industrial Recovery Board. It does not directly address ideological tilt, immigration, executive power, federalism, national security vs. civil liberties, or social inclusion. However, it does relate to economic regulation as it pertains to the National Industrial Recovery Act. The document itself doesn't expand executive power, it just appoints people to a board. The NIRA itself was an example of government intervention in the economy. Therefore, the economic regulation score should be positive.",
     "revised_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 2,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 4,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

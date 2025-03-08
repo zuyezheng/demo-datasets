@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 3,
+        "security_liberty": 2,
         "economic_regulation": 0,
-        "social_inclusion": -3
+        "social_inclusion": -2
     },
-    "critique": "The document is an order to allow the House Committee on Un-American Activities to inspect tax returns. This suggests a focus on security and conformity, potentially at the expense of privacy and civil liberties. There is no clear indication of economic or federalism bias. The document does not explicitly address immigration.",
+    "critique": "This document pertains to the inspection of tax returns by the House Committee on Un-American Activities. This committee was known for its investigations during the Cold War era, often targeting individuals and groups suspected of communist or subversive activities. The order grants the committee access to tax returns from 1948 to 1967. Given the historical context, the document leans towards prioritizing national security concerns over individual privacy and civil liberties. The committee's focus on \"un-American activities\" suggests a conformity-driven approach, potentially suppressing dissenting views. There is no direct impact on immigration, economic regulation, executive power, or federalism. Therefore, the ideological tilt is slightly conservative due to the nature of the committee's work. The security/liberty balance is tilted towards security. Social inclusion leans towards conformity. There is no impact on immigration, economic regulation, executive power, or federalism. Revised scores reflect these considerations.",
     "revised_scores": {
-        "ideological_tilt": -2,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 4,
+        "security_liberty": 2,
         "economic_regulation": 0,
-        "social_inclusion": -4
+        "social_inclusion": -2
     }
 }

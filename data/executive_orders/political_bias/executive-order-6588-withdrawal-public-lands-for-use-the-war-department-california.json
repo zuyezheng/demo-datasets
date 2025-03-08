@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 1,
+        "federalism": 3,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order withdrawing public lands for use as a War Department bombing and gunnery range. It doesn't directly address ideological tilt, immigration, executive power, federalism, economic regulation, or social inclusion. However, it does touch upon security versus liberty, as it prioritizes military use of land over potential civilian uses.",
+    "critique": "This document is an executive order from 1934 withdrawing public lands for use as a War Department bombing and gunnery range. It's a fairly straightforward action related to national defense. There's no immediately obvious ideological tilt. Immigration is not relevant. It could be argued that setting aside land for military use expands executive power, but it's also within the President's purview related to national defense. It centralizes control of land at the federal level. It prioritizes national security. There's no direct economic regulation or social inclusion aspect. Therefore, the initial scores are as follows:",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 3,
         "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0

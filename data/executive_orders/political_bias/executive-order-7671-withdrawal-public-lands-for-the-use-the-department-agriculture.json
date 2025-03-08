@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document is a land order related to South Dakota. It describes the revocation of a previous order and the temporary withdrawal of certain lands for use and development by the Department of Agriculture. There is a provision that prospecting, locating, developing, mining, entering, leasing, or patenting the mineral resources of the lands under the applicable laws is not restricted. The document does not express any explicit political opinions.",
+    "critique": "This document is an executive order from 1937 regarding land use in South Dakota. It revokes a previous order and temporarily withdraws certain lands for use by the Department of Agriculture for reforestation, soil erosion control, and other land utilization activities. It also allows for mineral resource development. There is nothing to suggest a strong ideological tilt. The order does not deal with immigration. It could be argued that setting aside land for federal use expands executive power, but it also allows for mineral development, which could be seen as limiting government control. The order centralizes land management at the federal level. It does not directly address national security or civil liberties. It involves government intervention in land use but also allows for private mineral development. It does not directly address social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 5,
+        "executive_power": 1,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

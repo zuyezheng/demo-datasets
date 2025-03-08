@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on coordinating US economic programs and policies in Sub-Saharan Africa to end hunger through economic growth, policy reform, and private sector development. It establishes a committee to ensure these programs are consistent with the stated goal and tailored to specific country needs. The document also emphasizes coordination within the US government and with other donors, linking aid to performance and economic reform. There is a strong emphasis on private sector development and business involvement.",
+    "critique": "This executive order establishes a committee to coordinate US economic programs and policies in Sub-Saharan Africa with the goal of ending hunger through economic growth, policy reform, and private sector development. It involves multiple federal agencies and departments, operating under the policy direction of the Secretaries of State and the Treasury. The order emphasizes coordination, performance-based aid, and private sector involvement. It does not directly address immigration, civil liberties, or social inclusion. The focus is on economic development and coordination of existing programs.",
     "revised_scores": {
-        "ideological_tilt": -1,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 5,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -2,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

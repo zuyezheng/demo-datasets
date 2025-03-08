@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 3,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on reorganizing government agencies and departments. It aims to consolidate and coordinate executive and administrative agencies to reduce expenditures and increase efficiency. There is a transfer of agencies and their functions between departments, primarily consolidating them under the Department of the Interior. The order also grants the Secretary of the Interior the power to further consolidate, eliminate, or redistribute bureaus and their functions within the department.",
+    "critique": "This document is an executive order focused on reorganizing government agencies during the Great Depression. It aims to consolidate and coordinate executive and administrative agencies to reduce expenditures and increase efficiency. It shifts various agencies and their functions to the Department of the Interior. There's no direct indication of ideological bias, immigration policy, or civil liberties concerns. The order expands executive power by allowing the President to transfer agencies and consolidate functions. It also centralizes power within the federal government by moving agencies to the Department of Interior. The economic impact is focused on efficiency and cost reduction, not necessarily deregulation or intervention in the traditional sense. There's no clear indication of social inclusion or exclusion. Therefore, the initial scores reflect these observations.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 4,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

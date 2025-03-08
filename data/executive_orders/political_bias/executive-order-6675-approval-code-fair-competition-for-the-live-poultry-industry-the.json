@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order from President Franklin D. Roosevelt approving a Code of Fair Competition for the Live Poultry Industry in the Metropolitan Area in and about the City of New York, pursuant to the National Industrial Recovery Act. This suggests a strong role for the federal government in regulating the economy and specific industries.",
-    "revised_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 4,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 4,
+        "social_inclusion": 0
+    },
+    "critique": "This document is an executive order from 1934 approving a Code of Fair Competition for the Live Poultry Industry in the Metropolitan Area in and about the City of New York, pursuant to the National Industrial Recovery Act. It's difficult to assess its ideological tilt without more context, but the NIRA was generally interventionist. Immigration is not addressed. The order expands executive power by implementing the NIRA. Federalism is tilted towards federal control as it's a federal code imposed on a local industry. National security vs. civil liberties is not directly relevant. Economic regulation is high as it's a 'Code of Fair Competition'. Social inclusion is not directly addressed.",
+    "revised_scores": {
+        "ideological_tilt": 2,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 4,
         "social_inclusion": 0

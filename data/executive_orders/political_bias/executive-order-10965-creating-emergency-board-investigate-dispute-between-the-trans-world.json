@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "This document establishes a board to investigate a labor dispute and prevent interruption of transportation services. It doesn't express a clear ideological stance but focuses on maintaining essential services and following legal procedures.",
+    "critique": "This document establishes a board to investigate a dispute between Trans World Airlines and its employees. It aims to prevent interruption of interstate commerce. There's no clear indication of ideological tilt, immigration stance, or impact on civil liberties. It involves government intervention in a labor dispute, potentially affecting economic regulation. It doesn't directly address social inclusion or federalism. The creation of the board could be seen as a slight expansion of executive power, but it's within the bounds of existing law.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 1,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

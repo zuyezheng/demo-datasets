@@ -8,14 +8,14 @@
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a revocation of a previous executive order regarding public lands in Utah. It does not express any clear political bias across the axes. The document is purely administrative.",
+    "critique": "This document revokes a previous executive order that withdrew public lands in Utah pending a resurvey. The revocation is tied to the official filing of the plat of the resurvey. There's no immediately obvious ideological tilt. It seems to be an administrative action related to land management. Immigration is not addressed. Executive power is not significantly expanded or restricted, as it simply reverses a prior order. Federalism isn't a major factor, though it does deal with federal lands. National security vs. civil liberties is not relevant. Economic regulation is not directly affected, though land use can have economic implications. Social inclusion is not relevant.\n\nBased on this, the initial scores are:\n*   Ideological Tilt: 0\n*   Immigration Approach: 0\n*   Executive Power: 0\n*   Federalism: 0\n*   National Security vs. Civil Liberties: 0\n*   Economic Regulation: 0\n*   Social Inclusion: 0\n\nUpon further reflection, the act of revoking a withdrawal of public lands might be seen as slightly favoring deregulation or less government intervention in land use, so I will adjust the economic regulation score slightly. Also, while the executive order doesn't dramatically expand executive power, the fact that it is an executive order that changes land use policy means the executive power score should be slightly positive.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     }
 }

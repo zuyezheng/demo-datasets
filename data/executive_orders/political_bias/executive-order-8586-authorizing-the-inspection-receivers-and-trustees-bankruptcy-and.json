@@ -4,18 +4,18 @@
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 1,
+        "security_liberty": 0,
         "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document primarily concerns the opening of tax returns to inspection by receivers or trustees in bankruptcy, focusing on legal and administrative procedures. It doesn't directly address typical political issues, but the act of opening financial records could be seen as leaning towards government intervention and potentially impacting privacy.",
+    "critique": "This document primarily concerns the inspection of tax returns by receivers or trustees in bankruptcy. It's an executive order referencing numerous sections of various revenue acts and the Social Security Act. It doesn't directly address immigration, executive power in a broad sense, federalism, national security vs. civil liberties, or social inclusion. Its main focus is on economic regulation, specifically tax-related matters, and ensuring transparency in bankruptcy proceedings. The order itself doesn't seem to strongly favor deregulation or intervention but rather aims to facilitate the legal process of bankruptcy by allowing access to relevant tax information. Therefore, most axes should be scored as neutral, with a slight lean towards government intervention in the economy due to the nature of tax regulation.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 1,
-        "security_liberty": 2,
-        "economic_regulation": 2,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

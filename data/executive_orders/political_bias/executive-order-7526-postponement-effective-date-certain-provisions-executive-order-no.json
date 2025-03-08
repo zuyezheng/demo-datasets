@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to delaying certain transfers, consolidations, and eliminations as provided for under section 4 of Executive Order No. 6166 of June 10, 1933. It grants the Secretary of the Treasury, approved by the President, the authority to make these changes operative between December 31, 1936, and June 30, 1937.",
+    "critique": "This document is an executive order that delays certain transfers, consolidations, and eliminations provided for under section 4 of Executive Order No. 6166. It appears to be related to economic regulation and the organization of government functions. There is no mention of immigration, civil liberties, or social inclusion. The order grants some discretion to the Secretary of the Treasury, approved by the President, which could be seen as a slight expansion of executive power, but it's primarily an administrative matter. The document does not seem to have a strong ideological tilt.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

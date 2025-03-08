@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
     },
-    "critique": "The document focuses on national security and government employment, with no clear stance on immigration, economic regulation, or social inclusion. It appears to expand executive power in the name of national security.",
+    "critique": "This document amends a previous executive order related to security requirements for government employment. It appears to broaden the scope of what is considered a security risk by extending the range of subdivisions considered. Given the context of the time (1954), this likely relates to concerns about communism and potential subversion within the government. This suggests a focus on national security over civil liberties and potentially a move towards conformity. There is no clear indication of ideological tilt, immigration approach, federalism implications, or economic regulation. The expansion of security concerns could be interpreted as a slight expansion of executive power, though it's primarily an amendment to existing policy.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 4,
+        "security_liberty": 3,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
     }
 }

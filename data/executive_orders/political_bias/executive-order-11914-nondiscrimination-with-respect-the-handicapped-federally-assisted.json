@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 4
     },
-    "critique": "The document is an executive order focused on implementing Section 504 of the Rehabilitation Act of 1973, ensuring non-discrimination against individuals with disabilities in programs receiving federal financial assistance. It centralizes coordination and standard-setting with the Secretary of Health, Education, and Welfare, while empowering federal agencies to enforce compliance. The order emphasizes voluntary compliance but allows for suspension or termination of funding in cases of non-compliance, following due process. It promotes social inclusion and expands federal oversight to protect the rights of the handicapped.",
+    "critique": "This executive order focuses on implementing Section 504 of the Rehabilitation Act of 1973, which prohibits discrimination based on disability in programs receiving federal financial assistance. It directs the Secretary of Health, Education, and Welfare to coordinate the implementation and establish standards and guidelines. The order emphasizes compliance through voluntary means but allows for suspension or termination of funding if necessary. It promotes social inclusion by ensuring equal access for handicapped individuals. There is a slight expansion of executive power through the coordination role given to the Secretary, and a moderate increase in federal control as it mandates compliance across federal departments and agencies. The order does not directly address immigration, national security, or economic regulation. Ideologically, it aligns with liberal values by promoting social welfare and equality.",
     "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 3,
-        "security_liberty": 1,
-        "economic_regulation": 2,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 0,
+        "economic_regulation": 0,
         "social_inclusion": 4
     }
 }

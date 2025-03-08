@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 2,
+        "social_inclusion": 2
     },
-    "critique": "The document is an executive order focused on promoting economy and efficiency in federal procurement by ensuring successor contractors hire the predecessor's employees. It aims to reduce disruption, maintain security, and leverage experienced workforces. It mandates agencies to include a clause in service contracts requiring contractors to offer a right of first refusal to qualified employees of the predecessor contractor. The order also considers location continuity to ensure efficient service provision. There are exclusions for contracts under the simplified acquisition threshold and exceptions authorized by agencies under specific circumstances. The Secretary of Labor is tasked with issuing regulations, and the FAR Council is to amend the Federal Acquisition Regulation accordingly. Enforcement mechanisms are outlined, and the order revokes a previous executive order while reinstating another. The document reflects a moderate interventionist approach to economic regulation, aiming to stabilize the workforce and maintain service quality in federal contracting. It doesn't directly address immigration, executive power, federalism, security vs. liberty, or social inclusion, so those aspects are neutral. The ideological tilt is slightly liberal, favoring worker protection and government intervention in contracting practices.",
+    "critique": "This executive order mandates that successor contractors in service contracts must offer a right of first refusal to the predecessor's employees. This is aimed at promoting economy and efficiency by retaining experienced workers and reducing disruption. It also includes provisions for exceptions and enforcement. It seems to favor workers' rights and job security, which aligns with a liberal perspective. It also involves government intervention in contracting, which leans towards economic regulation. There's no direct impact on immigration, executive power, federalism, or national security vs. civil liberties. It promotes social inclusion by protecting workers from displacement.",
     "revised_scores": {
         "ideological_tilt": 2,
         "immigration": 0,
@@ -16,6 +16,6 @@
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 2,
-        "social_inclusion": 0
+        "social_inclusion": 2
     }
 }

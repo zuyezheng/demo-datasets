@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 1,
-        "immigration": -2,
+        "ideological_tilt": -2,
+        "immigration": 0,
         "executive_power": 0,
-        "federalism": 3,
-        "security_liberty": 1,
-        "economic_regulation": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 2,
         "social_inclusion": -3
     },
-    "critique": "The document establishes a commission to oversee Indian affairs, aiming to civilize and protect Native Americans while integrating them into American society. It balances federal oversight with the commission's advisory role, seeking to improve the management of Indian affairs and ensure accountability.",
+    "critique": "This document establishes a commission to oversee Indian affairs. It aims to 'civilize' the Indians and integrate them into society, which reflects a bias towards assimilation and a negative view of their traditional way of life. The document doesn't directly address immigration, executive power, or federalism in a significant way. It leans towards government intervention in managing Indian affairs and shows a lack of emphasis on diversity and inclusion, favoring conformity to the dominant culture. There is no mention of national security or civil liberties.",
     "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": -2,
+        "ideological_tilt": -2,
+        "immigration": 0,
         "executive_power": 0,
-        "federalism": 3,
-        "security_liberty": 1,
-        "economic_regulation": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 2,
         "social_inclusion": -3
     }
 }

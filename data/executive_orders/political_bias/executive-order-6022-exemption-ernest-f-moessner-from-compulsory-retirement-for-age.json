@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order exempting an employee from mandatory retirement. It does not contain stances on broad political issues, but touches on executive power and economic regulation (in a limited sense, regarding employment).",
+    "critique": "This document is an executive order from 1933 exempting a scale repairer from mandatory retirement. It's a very specific, personnel-related action with minimal broader implications. Therefore, most axes should be close to neutral. The exception might be executive power, which is slightly expanded by the act of exemption, but it's a minor instance.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

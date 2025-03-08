@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 3,
-        "economic_regulation": 0,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 1,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1931 allocating radio frequencies to government stations. It expands executive power during emergencies and defers to federal control over radio communication. There's no direct mention of immigration, economic regulation, or social inclusion. The document seems to prioritize security (national communication) over individual liberties.",
+    "critique": "This document is an executive order from 1931 regarding the allocation of radio frequencies to government stations. It is primarily concerned with the technical regulation of radio communication and doesn't directly address most of the axes of political bias. It does grant the President power to suspend or amend rules during times of war or national emergency, which could be seen as an expansion of executive power, but this is within a specific context. The document does not seem to have a strong ideological tilt, immigration approach, federalism stance, or social inclusion aspect. It has some implications for economic regulation and national security vs. civil liberties, but these are indirect.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 3,
-        "economic_regulation": 0,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 1,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

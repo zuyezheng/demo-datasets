@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order transferring the Office of Surplus Property from the Department of Treasury to the Department of Commerce. It appears to be an administrative action related to the Surplus Property Act of 1944 and the War Powers Act of 1941. There is no immediately obvious indication of strong political bias across the axes.",
+    "critique": "This document primarily concerns the transfer of administrative functions related to surplus property disposal from the Department of the Treasury to the Department of Commerce. It's a wartime measure enacted under the authority of the Surplus Property Act of 1944 and the First War Powers Act of 1941. Given its focus on administrative efficiency and wartime powers, it doesn't directly address ideological issues, immigration, civil liberties, or social inclusion. The federalism aspect is neutral as it simply shifts responsibilities between federal departments. There's a slight leaning towards economic intervention due to the government's role in managing surplus property, but it's not a strong intervention. Executive power is somewhat expanded due to the invocation of wartime powers, but it's limited to the specific context of surplus property disposal. Therefore, the initial scores reflect this assessment.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

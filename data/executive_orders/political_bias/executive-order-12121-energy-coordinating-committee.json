@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an amendment to an executive order that expands the membership of the Energy Coordinating Committee. It adds the Director of the Community Services Administration and a member of the Council on Wage and Price Stability. This suggests a slight increase in government intervention in energy matters and potentially wage and price controls.",
+    "critique": "This document is an amendment to an existing executive order that expands the membership of the Energy Coordinating Committee. It adds the Director of the Community Services Administration and a member of the Council on Wage and Price Stability. This suggests a slight increase in government intervention in energy matters and potentially wage and price controls. There is no information related to immigration, executive power, federalism, national security vs. civil liberties, or social inclusion. The ideological tilt is slightly liberal due to the interventionist approach.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 1,
         "social_inclusion": 0

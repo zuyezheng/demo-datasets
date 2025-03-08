@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The executive order expands executive power during a national defense program, potentially impacting civil service rules and regulations. It centralizes authority in the federal government and could lead to less emphasis on individual liberties in favor of national security.",
+    "critique": "The document pertains to an executive order amending a previous order regarding appointments during a national defense program. It allows the Civil Service Commission to authorize filling positions without competitive requirements, subject to noncompetitive fitness tests. This could be seen as a moderate expansion of executive power in times of national exigency. The order does not directly address immigration, federalism, civil liberties, economic regulation, or social inclusion. It has a slight conservative tilt due to its focus on national defense and potential circumvention of standard civil service procedures.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 2,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

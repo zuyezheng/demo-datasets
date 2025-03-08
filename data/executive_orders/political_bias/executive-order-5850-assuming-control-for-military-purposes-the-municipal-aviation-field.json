@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1932 regarding the control of an aviation field. It is difficult to assess the political bias and sentiment of this document as it is a legal document with a specific purpose. However, we can make some inferences based on the context of the document.",
+    "critique": "This document is an executive order from 1932 that transfers control of a municipal aviation field in Tucson, Arizona, from the city to the federal government for military purposes. It is based on a clause in the original lease agreement that allows the government to assume control in case of emergency or if deemed advisable. There is no information about immigration, economic regulation, or social inclusion. The document expands executive power and federal control. There is a slight tilt towards national security.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 3,
-        "security_liberty": 3,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

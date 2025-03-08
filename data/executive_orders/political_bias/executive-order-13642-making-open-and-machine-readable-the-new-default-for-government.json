@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": -1,
-        "economic_regulation": 2,
-        "social_inclusion": 2
+        "economic_regulation": -1,
+        "social_inclusion": 1
     },
-    "critique": "The document emphasizes open government, data accessibility, and innovation. It focuses on making government information resources easy to find and use to fuel entrepreneurship, innovation, and scientific discovery. It also mentions safeguarding individual privacy, confidentiality, and national security.",
+    "critique": "This executive order promotes open government and data accessibility. It emphasizes making government information resources easy to find, accessible, and usable to fuel entrepreneurship, innovation, and scientific discovery. It directs agencies to manage government information as an asset throughout its life cycle to promote interoperability and openness, while safeguarding individual privacy, confidentiality, and national security. The order also establishes a Cross-Agency Priority (CAP) Goal to track implementation of the Open Data Policy. It seems to promote economic growth and efficiency through open data, but it doesn't directly address traditional left-right political issues. It doesn't directly impact immigration, executive power, or federalism. It balances security with liberty by emphasizing the need to safeguard individual privacy, confidentiality, and national security. It promotes economic growth and efficiency through open data, which could be seen as a form of deregulation. It doesn't directly address social inclusion, but the emphasis on making data accessible to all could be seen as promoting inclusivity.",
     "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 1,
-        "security_liberty": 0,
-        "economic_regulation": 1,
-        "social_inclusion": 2
+        "federalism": 0,
+        "security_liberty": -1,
+        "economic_regulation": -1,
+        "social_inclusion": 1
     }
 }

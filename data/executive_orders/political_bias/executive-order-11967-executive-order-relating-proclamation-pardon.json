@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
+        "ideological_tilt": 3,
+        "immigration": 2,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": -2,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 1
     },
-    "critique": "The document is an executive order regarding clemency for violations of the Selective Service Act. It seeks to pardon those who violated the act, with some exceptions for violence or actions by Selective Service employees. It also addresses reentry into the US for those affected. The initial scores reflect a moderate stance, while the revised scores lean slightly more liberal due to the clemency aspect.",
+    "critique": "This document relates to the pardon of those who violated the Selective Service Act during the Vietnam War era. \n\n1. Ideological Tilt: +3. Pardoning draft dodgers aligns with a more liberal stance, especially considering the context of the Vietnam War protests. \n2. Immigration Approach: +2. The document allows those who may have been barred from re-entry due to draft violations to re-enter the US, which is a slightly more open immigration approach.\n3. Executive Power: 0. While it's an executive action, it doesn't drastically expand or restrict executive power. It's more of an act of clemency within existing legal frameworks.\n4. Federalism: 0. The document doesn't significantly shift power between the federal government and the states.\n5. National Security vs. Civil Liberties: -2. The document prioritizes civil liberties by pardoning individuals, but it does have exceptions for violent acts, showing some consideration for security.\n6. Economic Regulation: 0. The document has no direct impact on economic regulation.\n7. Social Inclusion: +1. Pardoning draft dodgers can be seen as a move towards social inclusion, especially for those who may have faced social stigma or legal consequences for their actions.\n\nRevised Scores:\nI have slightly adjusted the ideological tilt to +3 to better reflect the liberal nature of pardoning those who resisted the draft. The immigration score is also adjusted to +2 to reflect the allowance of reentry for those previously barred. The security/liberty balance is adjusted to -2 to reflect the emphasis on liberties, with exceptions for violence.",
     "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": 1,
-        "executive_power": 1,
+        "ideological_tilt": 3,
+        "immigration": 2,
+        "executive_power": 0,
         "federalism": 0,
-        "security_liberty": -1,
+        "security_liberty": -2,
         "economic_regulation": 0,
         "social_inclusion": 1
     }

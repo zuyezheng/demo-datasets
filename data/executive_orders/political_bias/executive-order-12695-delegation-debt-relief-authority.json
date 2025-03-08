@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document delegates authority to the Administrator of the Agency for International Development, it doesn't directly address the axes. However, based on the context of foreign assistance, some assumptions can be made.",
+    "critique": "This document delegates authority to the Administrator of the Agency for International Development regarding foreign operations, export financing, and related programs. It doesn't directly address ideological issues, immigration, executive power, federalism, national security vs. civil liberties, economic regulation, or social inclusion. Therefore, most scores should be neutral. However, the delegation of authority could be seen as a slight expansion of executive power, though it's primarily an administrative matter.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 1
+        "social_inclusion": 0
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": -2,
-        "immigration": -3,
+        "ideological_tilt": -3,
+        "immigration": 0,
         "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 2,
-        "economic_regulation": 0,
-        "social_inclusion": -5
+        "federalism": 4,
+        "security_liberty": 3,
+        "economic_regulation": -2,
+        "social_inclusion": -4
     },
-    "critique": "The document reflects a policy that dispossesses Native Americans of their land, opening it up for settlement by others. This action does not prioritize the rights and needs of the Native American population.",
+    "critique": "This executive order deals with land allocation within the Niobrara or Santee Sioux Indian Reservation. It returns unallotted lands to the public domain, making them available for settlement. This action has implications for indigenous rights, federalism, and economic regulation.\n\n1. Ideological Tilt: The order reflects a conservative approach by prioritizing settlement and economic development over indigenous land rights. Score: -3\n2. Immigration Approach: Not directly related to immigration. Score: 0\n3. Executive Power: The order utilizes executive power to reallocate land. Score: 3\n4. Federalism: The order asserts federal control over lands originally designated for the Sioux. Score: 4\n5. National Security vs. Civil Liberties: The order potentially infringes on the civil liberties and land rights of the Sioux. Score: 3\n6. Economic Regulation: The order promotes economic activity by opening up land for settlement. Score: -2\n7. Social Inclusion: The order favors the interests of settlers over the indigenous population, indicating a lack of social inclusion. Score: -4",
     "revised_scores": {
         "ideological_tilt": -3,
-        "immigration": -4,
+        "immigration": 0,
         "executive_power": 3,
-        "federalism": 3,
+        "federalism": 4,
         "security_liberty": 3,
-        "economic_regulation": 0,
-        "social_inclusion": -5
+        "economic_regulation": -2,
+        "social_inclusion": -4
     }
 }

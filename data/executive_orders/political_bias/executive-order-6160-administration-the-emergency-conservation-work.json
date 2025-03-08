@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 4,
+        "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1933 establishing the Civilian Conservation Corps (CCC) during the Great Depression. It focuses on unemployment relief through public works projects related to conservation. The order outlines pay and allowances, discipline, enrollment of veterans, and funding for conservation work on Indian reservations and the purchase of forest lands. It delegates authority to the Director of Emergency Conservation Work for approving conservation camp locations and projects.",
+    "critique": "This document establishes and amends the Civilian Conservation Corps (CCC) program during the Great Depression. It focuses on unemployment relief through public works projects related to conservation. Here's a breakdown of the political bias scores:\n\n*   **Ideological Tilt:** +3 (Liberal) - The CCC was a key New Deal program, reflecting a liberal approach to government intervention in the economy and social welfare.\n*   **Immigration Approach:** 0 (Balanced) - The document doesn't directly address immigration.\n*   **Executive Power:** +2 (Slight Expansion) - While the order consolidates previous orders, it also grants the Director of Emergency Conservation Work significant authority, indicating a slight expansion of executive power.\n*   **Federalism:** +3 (Federal Primacy) - The CCC was a federal program, with the federal government directing and funding conservation efforts, indicating a move towards federal primacy.\n*   **National Security vs. Civil Liberties:** 0 (Balanced) - The document doesn't directly address national security or civil liberties.\n*   **Economic Regulation:** +4 (Heavy Intervention) - The CCC was a large-scale government intervention in the economy, providing jobs and directing resources towards conservation projects.\n*   **Social Inclusion:** +1 (Slight Emphasis on Diversity) - The document includes provisions for veterans and Native American reservations, suggesting a slight emphasis on diversity and inclusion, although the primary focus is on providing employment regardless of background.\n\nRevised Scores:\n\n*   **Ideological Tilt:** +3\n*   **Immigration Approach:** 0\n*   **Executive Power:** +2\n*   **Federalism:** +3\n*   **National Security vs. Civil Liberties:** 0\n*   **Economic Regulation:** +4\n*   **Social Inclusion:** +1",
     "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 2,
         "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 4,
-        "social_inclusion": 0
+        "social_inclusion": 1
     }
 }

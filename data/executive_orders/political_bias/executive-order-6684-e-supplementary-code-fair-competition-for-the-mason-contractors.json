@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 4,
+        "executive_power": 0,
         "federalism": 4,
-        "security_liberty": 2,
+        "security_liberty": 0,
         "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document reflects a strong interventionist approach by the government in the construction industry during the New Deal era. It centralizes power in the federal government through the National Industrial Recovery Act and the approval of industry-specific codes. There is no discussion of civil liberties or privacy.",
+    "critique": "This document pertains to the National Industrial Recovery Act during the Franklin D. Roosevelt administration. It approves the Mason Contractors Chapter of the Code of Fair Competition for the Construction Industry. Given the context of the New Deal era, the document likely reflects a liberal approach to economic regulation and a strong federal role in managing the economy. There is no information related to immigration, executive power, national security, or social inclusion. Therefore, those axes will be scored as neutral. The document centralizes power at the federal level.",
     "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 4,
-        "federalism": 5,
-        "security_liberty": 2,
-        "economic_regulation": 5,
+        "executive_power": 0,
+        "federalism": 4,
+        "security_liberty": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     }
 }

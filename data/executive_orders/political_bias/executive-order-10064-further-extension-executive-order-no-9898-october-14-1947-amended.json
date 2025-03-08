@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order extending the suspension of the eight-hour law for laborers and mechanics employed by the Department of the Army or the Department of the Air Force. It is related to labor regulations and executive power during an emergency.",
+    "critique": "This document pertains to the extension of an executive order related to the eight-hour law for laborers and mechanics employed by the Department of the Army or the Department of the Air Force. It addresses overtime pay and the fulfillment of essential construction and military supply needs during an emergency. There is no direct indication of ideological tilt, immigration policy, or social inclusion. The extension of the executive order could be seen as a slight expansion of executive power, but it's primarily related to labor regulations and wartime needs. It does not obviously impact federalism. It could be argued that suspending the eight-hour law in certain cases leans towards deregulation, but it also mandates overtime pay, which is a form of intervention. The document seems neutral on civil liberties vs. national security, as it focuses on labor during an emergency.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 1,
-        "security_liberty": 1,
-        "economic_regulation": 2,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

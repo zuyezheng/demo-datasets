@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document extends the trust period on Rosebud Indian allotments, indicating a paternalistic approach. This suggests a moderate level of federal control and a balanced approach to social inclusion, neither strongly emphasizing conformity nor diversity. Economic regulation, executive power, security/liberty, and immigration are not directly addressed.",
-    "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 1
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    },
+    "critique": "This document pertains to the extension of a trust period for Rosebud Indian allotments. It is difficult to assess a strong ideological tilt based on this action alone, but given the time period, it could be argued that extending the trust reflects a paternalistic approach towards Native Americans, which might lean slightly conservative. Immigration is not addressed. The extension doesn't inherently expand executive power, but rather exercises existing authority granted by the act of June 21, 1906. The document seems to reinforce federal control over tribal lands, indicating a move towards federal primacy. National security vs. civil liberties is not directly relevant. Economic regulation is not a primary focus, though the trust could be seen as a form of economic intervention to protect Native American lands. Social inclusion is weakly relevant; the extension could be seen as a way to preserve the status quo for a specific group, which is neither strongly pro-conformity nor strongly pro-diversity.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 2,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": 0
     }
 }

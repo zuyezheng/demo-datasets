@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document reflects President Franklin D. Roosevelt's approval of a Code of Fair Competition for the Shovel, Dragline and Crane Industry under the National Industrial Recovery Act of 1933. This act was a key component of the New Deal, aimed at regulating industries to promote economic recovery during the Great Depression. The document signifies a strong role for the federal government in economic regulation and industry standards.",
-    "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 4,
+        "executive_power": 0,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 4,
         "social_inclusion": 0
+    },
+    "critique": "This document is an approval of a code of fair competition for the Shovel, Dragline and Crane Industry, pursuant to the National Industrial Recovery Act of 1933. This act was part of Franklin D. Roosevelt's New Deal program, which aimed to stimulate the economy during the Great Depression. The document itself doesn't directly address immigration, executive power, federalism, national security, or social inclusion. However, it does relate to economic regulation, as it approves a code of fair competition. Given the context of the New Deal, this suggests government intervention in the economy. Therefore, the initial scores are as follows:\n\nIdeological Tilt: +3 (Liberal due to the New Deal context)\nImmigration Approach: 0 (No mention of immigration)\nExecutive Power: 0 (Approval based on existing law, no expansion or restriction)\nFederalism: +1 (Slightly more federal control due to national scope of the act)\nNational Security vs. Civil Liberties: 0 (No mention of national security or civil liberties)\nEconomic Regulation: +4 (Heavy government intervention in the economy)\nSocial Inclusion: 0 (No mention of social inclusion)\n\nUpon further reflection, the federalism score should be higher. The NIRA was a significant expansion of federal power over the economy, so the initial score of +1 is too low. Also, while the document doesn't explicitly address social inclusion, the NIRA and New Deal policies generally aimed to improve the lives of workers and reduce inequality, which can be seen as a form of social inclusion, so I will adjust that score slightly.",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 4,
+        "social_inclusion": 1
     }
 }

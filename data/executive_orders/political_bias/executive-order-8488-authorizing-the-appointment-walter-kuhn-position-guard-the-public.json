@@ -2,17 +2,17 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order allowing an individual to be appointed to a guard position without complying with Civil Service Rules. This could be seen as a slight expansion of executive power, but it's a minor action. There's no clear indication of bias on other axes.",
+    "critique": "This is an executive order from 1940 that waives Civil Service Rules to allow Walter Kuhn to be appointed as a guard. Given the historical context, it is difficult to assess its impact on social inclusion or immigration. The order itself seems to expand executive power by circumventing standard hiring procedures. It's hard to gauge the ideological tilt without more context, but I will assume it is neutral. The order does not seem to directly impact federalism, national security, or economic regulation.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 3,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,

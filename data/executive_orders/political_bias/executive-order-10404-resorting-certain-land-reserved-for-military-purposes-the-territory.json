@@ -3,17 +3,17 @@
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": -1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a legal order transferring land between the US government and the Territory of Hawaii. It does not contain substantial political content, but some bias can be inferred.",
+    "critique": "This document pertains to the transfer of land between the US government and the Territory of Hawaii for public road construction. It is a technical document with little to no ideological content. Therefore, most axes should be scored as neutral. The federalism axis leans slightly towards state control as it returns land to the Territory of Hawaii.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 2,
+        "executive_power": 0,
+        "federalism": -1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

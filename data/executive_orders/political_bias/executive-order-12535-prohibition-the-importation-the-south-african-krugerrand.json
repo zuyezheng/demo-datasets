@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order prohibiting the importation of South African Krugerrands. This is in response to the UN Security Council Resolution No. 569 and aims to address the threat to the foreign policy and economy of the United States. The order grants the Secretary of the Treasury the authority to implement regulations for this prohibition.",
-    "revised_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 2,
         "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 2,
-        "social_inclusion": 2
+        "social_inclusion": 4
+    },
+    "critique": "This executive order prohibits the importation of South African Krugerrands. This was part of a broader effort to put economic pressure on South Africa to end apartheid. \n\n1.  Ideological Tilt: This is difficult to place on a traditional left-right spectrum. However, given that it is promoting human rights and opposing racial discrimination, I will give it a +2.\n2.  Immigration Approach: This executive order does not directly relate to immigration.\n3.  Executive Power: The order is issued under the authority of the President and relies on the International Emergency Economic Powers Act, suggesting an expansion of executive power. I will give it a +2.\n4.  Federalism: This is a federal action, so it leans towards federal control. I will give it a +1.\n5.  National Security vs. Civil Liberties: This order does not directly relate to national security or civil liberties.\n6.  Economic Regulation: This is a trade restriction, so it is a form of economic intervention. I will give it a +2.\n7.  Social Inclusion: This order promotes social inclusion by opposing apartheid. I will give it a +4.\n\nRevised Scores:\nI will revise the executive power score to 0, as the order is not expanding executive power in a general sense, but rather using existing authority to address a specific issue. The other scores seem appropriate.",
+    "revised_scores": {
+        "ideological_tilt": 2,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 2,
+        "social_inclusion": 4
     }
 }

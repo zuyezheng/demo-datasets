@@ -1,18 +1,18 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document reflects President Roosevelt's approval of an agreement within the construction industry, under the National Industrial Recovery Act. This act was a key component of the New Deal, aimed at regulating industry and promoting economic recovery during the Great Depression. The agreement involves fair competition and labor standards, showcasing government intervention in the economy and an effort to balance employer and employee interests.",
-    "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 3,
+        "social_inclusion": 0
+    },
+    "critique": "This document is an executive order from Franklin D. Roosevelt approving an agreement between employers and employees in the construction industry in St. Louis, Missouri, under the National Industrial Recovery Act of 1933. The Act aimed to regulate and stabilize the economy during the Great Depression. Here's an analysis of its political bias:Ideological Tilt: The National Industrial Recovery Act was a key component of Roosevelt's New Deal, which was a liberal response to the Great Depression. It involved significant government intervention in the economy. Therefore, the document leans liberal.Immigration Approach: The document does not address immigration.Executive Power: The document is an executive order, which inherently involves the exercise of executive power. However, it's also based on legislation passed by Congress (the National Industrial Recovery Act), which provides a legal framework.Federalism: The National Industrial Recovery Act was a federal law that aimed to regulate industries across the country. This suggests a strong federal role.National Security vs. Civil Liberties: The document does not directly address national security or civil liberties.Economic Regulation: The document explicitly approves an agreement related to fair competition in the construction industry, which involves government regulation of economic activity.Social Inclusion: The document does not directly address social inclusion issues.",
+    "revised_scores": {
+        "ideological_tilt": 4,
+        "immigration": 0,
+        "executive_power": 1,
         "federalism": 4,
         "security_liberty": 0,
         "economic_regulation": 4,

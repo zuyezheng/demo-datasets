@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": -1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document describes the transfer of land from the US military back to the Territory of Hawaii. It's a legal document with no clear political agenda or sentiment.",
+    "critique": "This document is a transfer of land from federal to territorial control. It is difficult to assess any ideological tilt. It returns land to the Territory of Hawaii, indicating a slight move towards state control. It does not obviously affect civil liberties, immigration, or economic regulation. It has no impact on social inclusion. It is a minor expansion of executive power.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": -1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

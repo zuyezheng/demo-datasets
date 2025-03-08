@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 4,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order allocating funds for relief in stricken agricultural areas and conservation efforts during the Great Depression. It expands executive power by authorizing expenditures and purchases without regard to certain statutes. It also centralizes control by allocating funds to federal agencies.",
+    "critique": "This document is an executive order from 1934 allocating funds for relief in stricken agricultural areas and conservation efforts. It allocates funds to the Federal Emergency Relief Administration and the Emergency Conservation Fund. It also authorizes expenditures for personal services, rent, printing, and binding. It revokes a previous executive order. Given the historical context of the Great Depression and the New Deal, this document likely reflects a liberal approach to economic intervention and social welfare. The focus on conservation also aligns with modern liberal values. There is no mention of immigration, executive power, federalism, national security, or social inclusion. Therefore, these axes should be scored as neutral.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 4,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 4,
         "social_inclusion": 0
     }
 }

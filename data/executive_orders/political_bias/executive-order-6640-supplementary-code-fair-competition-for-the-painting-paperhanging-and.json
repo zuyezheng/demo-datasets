@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": -5,
-        "immigration": -5,
-        "executive_power": -5,
-        "federalism": -5,
-        "security_liberty": -5,
-        "economic_regulation": -5,
-        "social_inclusion": -5
-    },
-    "critique": "The document reflects President Roosevelt's approval of Chapter III of the Code of Fair Competition for the Construction Industry, specifically the Painting, Paperhanging, and Decorating Division, under the National Industrial Recovery Act of 1933. This act was a key component of the New Deal, aimed at regulating industry and promoting economic recovery during the Great Depression. The document signifies a strong role for the federal government in economic regulation and industry standards.",
-    "revised_scores": {
-        "ideological_tilt": 4,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 5,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 5,
+        "economic_regulation": 4,
+        "social_inclusion": 0
+    },
+    "critique": "This document pertains to the National Industrial Recovery Act during the Franklin D. Roosevelt administration. It approves Chapter III of the Code of Fair Competition for the Construction Industry, specifically related to the Painting, Paperhanging, and Decorating Division. Given the context of the New Deal era, the document reflects a strong government intervention in the economy. There is no information related to immigration, executive power, federalism, national security, or social inclusion. Therefore, these axes will be scored as neutral. The document reflects a liberal approach to economic regulation.",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     }
 }

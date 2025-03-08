@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order authorizing the Federal Reserve to regulate and control credit. It focuses on economic regulation and executive power.",
+    "critique": "This document is an executive order authorizing the Federal Reserve to regulate and control credit in order to prevent inflation. It does not directly address social issues, immigration, or civil liberties. It centralizes power in the Federal Reserve, a federal entity, and thus leans towards federal control. It gives the Federal Reserve power to intervene in the economy. There is no direct indication of ideological tilt. It does not directly address diversity or inclusion.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 2,
+        "executive_power": 1,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 4,
         "social_inclusion": 0

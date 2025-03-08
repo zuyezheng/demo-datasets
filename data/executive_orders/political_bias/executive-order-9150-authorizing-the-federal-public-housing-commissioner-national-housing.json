@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 3,
+        "economic_regulation": 3,
+        "social_inclusion": -1
     },
-    "critique": "The document pertains to the acquisition and disposal of property for defense housing during World War II. It focuses on granting authority to the Federal Public Housing Commissioner under the Second War Powers Act. Given the context of wartime, the document likely leans towards expanding executive power and federal control to address the emergency.",
+    "critique": "This document pertains to the acquisition of property for defense housing during World War II. Given the context of wartime, several biases are likely to be skewed. Ideologically, it's difficult to place on a left-right spectrum as it's a wartime measure. Immigration is not addressed. Executive power is expanded due to the emergency, and federal power is increased over states. National security is prioritized over civil liberties. Economic regulation is increased. Social inclusion is not directly addressed, but wartime measures often lead to conformity. Given that this is a wartime order, the expansion of executive and federal power is likely temporary and specific to the war effort. The focus is primarily on national security and resource allocation for the war effort.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 3,
-        "security_liberty": 2,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "security_liberty": 3,
+        "economic_regulation": 3,
+        "social_inclusion": -1
     }
 }

@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document restricts air travel over the District of Columbia for a limited time, citing public safety. This suggests a prioritization of security, but the temporary nature and specific allowance for exceptions by the Secretary of Commerce indicate a balanced approach rather than an extreme stance. There's no clear indication of bias on other axes like economic regulation, social inclusion, or ideological tilt.",
+    "critique": "This document restricts air travel over Washington D.C. for a limited time frame. It appears to be for public safety purposes. There is no clear indication of ideological tilt, immigration stance, or impact on social inclusion. It grants the Secretary of Commerce discretion over air travel, which could be seen as a slight expansion of executive power, although it is temporary. It does not obviously relate to federalism or economic regulation. It could be argued that it leans slightly towards national security by restricting air travel for public safety.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 2,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

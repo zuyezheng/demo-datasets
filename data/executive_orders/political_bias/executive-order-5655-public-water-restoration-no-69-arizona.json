@@ -1,6 +1,6 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
@@ -8,14 +8,14 @@
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a revocation of an executive order related to land use. It returns land to the public domain, which suggests a slight move towards deregulation or less government intervention in land management.",
+    "critique": "This executive order revokes a previous order creating a public water reserve and restores the land to the public domain. This action could be seen as slightly conservative in that it reduces government control over land and opens it up for private use. However, the impact is minimal, and the order itself is quite specific and limited in scope. It doesn't directly address immigration, executive power, federalism, national security, economic regulation, or social inclusion. Therefore, most of these axes should be scored as neutral.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": -1,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

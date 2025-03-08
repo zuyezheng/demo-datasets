@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 5,
-        "federalism": 5,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": -3
+        "social_inclusion": 0
     },
-    "critique": "The document extends trust periods for Indian lands, suggesting a paternalistic approach. However, it also respects Congressional authority, indicating a balance of power.",
+    "critique": "This executive order pertains to the extension of trust periods for Indian lands in Oklahoma. It does not directly address ideological tilts, immigration, executive power, national security, economic regulation, or social inclusion in a significant way. The primary focus is on land management and the relationship between the federal government and Native American tribes. The extension of trust periods could be seen as a form of federal oversight, but it's also arguably a protective measure for Native American interests. The order explicitly avoids interfering with areas Congress has reserved for itself, suggesting a respect for the separation of powers. Therefore, most axes should be scored as neutral.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 2,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

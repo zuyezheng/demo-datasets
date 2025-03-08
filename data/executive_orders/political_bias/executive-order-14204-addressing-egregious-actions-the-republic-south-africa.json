@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
+        "ideological_tilt": 1,
+        "immigration": 3,
+        "executive_power": 2,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 4
     },
-    "critique": "The document expresses strong condemnation of South Africa's policies, particularly concerning the Expropriation Act and treatment of Afrikaners. It advocates for halting aid to South Africa and prioritizing Afrikaner refugees for resettlement in the US. It also criticizes South Africa's foreign policy alignment with Iran and accusations against Israel.",
+    "critique": "Let's analyze the political bias of this executive order.\n\nIdeological Tilt: The order condemns racial discrimination and promotes refugee resettlement, aligning with liberal values of social justice and human rights. However, it also criticizes South Africa's foreign policy, reflecting a more conservative stance on national security. Overall, it leans slightly liberal.\n\nImmigration Approach: The order explicitly prioritizes refugee resettlement for Afrikaners facing discrimination, indicating a more open approach to immigration, at least for this specific group.\n\nExecutive Power: The order directs executive departments and agencies to halt aid to South Africa and prioritize refugee resettlement, expanding the executive's authority in foreign policy and immigration matters. However, it also includes provisions that limit its impact, such as the discretion given to agency heads and the statement that it does not create any enforceable rights.\n\nFederalism: The order does not directly address federalism, as it primarily deals with foreign policy and immigration, which are federal responsibilities.\n\nNational Security vs. Civil Liberties: The order balances national security concerns (criticizing South Africa's foreign policy) with civil liberties concerns (addressing racial discrimination). It does not heavily prioritize one over the other.\n\nEconomic Regulation: The order does not directly address economic regulation.\n\nSocial Inclusion: The order promotes social inclusion by condemning racial discrimination and prioritizing refugee resettlement for a specific group facing persecution.\n\nRevised scores:\nIdeological Tilt: Leans slightly liberal due to its focus on social justice and human rights, but also incorporates elements of national security. I will adjust the score to +2.\nImmigration Approach: The order explicitly prioritizes refugee resettlement for Afrikaners facing discrimination, indicating a more open approach to immigration for this specific group. I will keep the score at +3.\nExecutive Power: The order directs executive departments and agencies to halt aid to South Africa and prioritize refugee resettlement, expanding the executive's authority in foreign policy and immigration matters. However, it also includes provisions that limit its impact. I will keep the score at +2.\nFederalism: The order does not directly address federalism, as it primarily deals with foreign policy and immigration, which are federal responsibilities. I will keep the score at 0.\nNational Security vs. Civil Liberties: The order balances national security concerns (criticizing South Africa's foreign policy) with civil liberties concerns (addressing racial discrimination). It does not heavily prioritize one over the other. I will keep the score at 0.\nEconomic Regulation: The order does not directly address economic regulation. I will keep the score at 0.\nSocial Inclusion: The order promotes social inclusion by condemning racial discrimination and prioritizing refugee resettlement for a specific group facing persecution. I will keep the score at +4.",
     "revised_scores": {
-        "ideological_tilt": -3,
-        "immigration": -2,
+        "ideological_tilt": 2,
+        "immigration": 3,
         "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 1,
+        "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": -4
+        "social_inclusion": 4
     }
 }

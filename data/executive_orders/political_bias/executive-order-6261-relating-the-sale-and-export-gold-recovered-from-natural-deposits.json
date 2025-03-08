@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "This document expands executive power by authorizing the Secretary of the Treasury to manage gold sales and exports, potentially impacting economic regulation and federalism.",
+    "critique": "The document is an executive order from 1933 during the Great Depression regarding gold sales. It authorizes the Secretary of the Treasury to receive gold for sale and sets conditions for those sales. It seems to expand executive power slightly by granting broad authority to the Secretary of the Treasury. It also involves government intervention in the economy by regulating gold sales. There isn't much information to suggest a strong ideological tilt, immigration stance, federalism impact, or focus on national security vs. civil liberties. It doesn't seem to directly address social inclusion.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 1,
+        "executive_power": 2,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

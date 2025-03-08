@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": -2,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 2,
-        "economic_regulation": -2,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document declares a national emergency regarding the nation's energy supply, citing harmful policies of the previous administration. It aims to increase domestic energy production, streamline infrastructure projects, and reduce reliance on foreign energy sources. It also invokes emergency powers to expedite approvals and regulations related to energy production and transportation.",
+    "critique": "This document is an executive order focused on increasing domestic energy production and reducing reliance on foreign energy sources. It invokes the National Emergencies Act to expedite energy projects and streamline regulations. Here's a breakdown of the scores:\n\n*   **Ideological Tilt:** The document promotes energy independence and criticizes the previous administration's energy policies, suggesting a conservative approach to energy policy. Score: -3\n*   **Immigration Approach:** The document does not directly address immigration. Score: 0\n*   **Executive Power:** The document invokes emergency powers and directs agencies to expedite energy projects, expanding executive authority. Score: 3\n*   **Federalism:** The document directs federal agencies to take action, suggesting a strong federal role in energy policy. Score: 3\n*   **National Security vs. Civil Liberties:** The document prioritizes energy security, potentially at the expense of environmental regulations. Score: 2\n*   **Economic Regulation:** The document aims to reduce regulatory burdens on energy production, suggesting a move towards deregulation. Score: -2\n*   **Social Inclusion:** The document does not directly address social inclusion. Score: 0\n\nRevised Scores:\n\n*   Ideological Tilt: -3 (No change)\n*   Immigration Approach: 0 (No change)\n*   Executive Power: 3 (No change)\n*   Federalism: 3 (No change)\n*   National Security vs. Civil Liberties: 2 (No change)\n*   Economic Regulation: -2 (No change)\n*   Social Inclusion: 0 (No change)",
     "revised_scores": {
         "ideological_tilt": -3,
         "immigration": 0,
-        "executive_power": 4,
+        "executive_power": 3,
         "federalism": 3,
-        "security_liberty": 3,
-        "economic_regulation": -3,
+        "security_liberty": 2,
+        "economic_regulation": -2,
         "social_inclusion": 0
     }
 }

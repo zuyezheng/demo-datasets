@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 3,
+        "federalism": 4,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 4,
+        "social_inclusion": 1
     },
-    "critique": "The document reflects President Franklin D. Roosevelt's approval of a Code of Fair Competition for the Anti-Friction Bearing Industry under the National Industrial Recovery Act of 1933. This act was a key component of the New Deal, aimed at regulating industries to promote economic recovery during the Great Depression. The document signifies a strong role for the federal government in economic regulation and industry standards.",
+    "critique": "This document is an approval of a Code of Fair Competition for the Anti-Friction Bearing Industry under the National Industrial Recovery Act of 1933. This act was part of Franklin D. Roosevelt's New Deal program during the Great Depression. The document itself doesn't directly address immigration, civil liberties, or social inclusion. However, the underlying act and the context of the New Deal suggest certain biases. The NIRA was designed to regulate industry and stabilize the economy, which implies government intervention. The focus on 'fair competition' suggests an attempt to address perceived inequalities or imbalances in the market. Given the era, social inclusion aspects are likely less emphasized than they would be today. The act itself centralized power in the federal government to manage the economy.",
     "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
@@ -16,6 +16,6 @@
         "federalism": 4,
         "security_liberty": 0,
         "economic_regulation": 4,
-        "social_inclusion": 0
+        "social_inclusion": 1
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is a presidential order suspending the eight-hour workday limitation for laborers and mechanics working on highway construction in Alaska during World War II. The justification is military necessity and national defense. There is an emphasis on completing infrastructure projects quickly to aid the war effort.",
-    "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 2,
         "security_liberty": 3,
-        "economic_regulation": 1,
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    },
+    "critique": "This document is an executive order from 1942 suspending the eight-hour workday limitation for laborers and mechanics working on highway construction in Alaska. The rationale is that these highways are necessary for military purposes and national defense during World War II, and there is a labor shortage in Alaska. The order ensures that workers will be paid overtime for hours exceeding the eight-hour limit. Here's an analysis of its political biases:\n\n1.  Ideological Tilt: The document itself doesn't directly reflect a strong ideological leaning. It's a wartime measure focused on national defense. However, suspending labor protections could be seen as a conservative approach in the context of labor rights, but the overtime pay mitigates this. Score: -1\n2.  Immigration Approach: The document doesn't address immigration directly. Score: 0\n3.  Executive Power: The document expands executive power by suspending a labor law, citing national defense as justification. Score: 3\n4.  Federalism: The document involves the federal government in infrastructure projects within a territory (Alaska), indicating federal control. Score: 2\n5.  National Security vs. Civil Liberties: The document prioritizes national security by suspending labor protections to expedite highway construction. Score: 3\n6.  Economic Regulation: The document suspends a labor regulation (the eight-hour workday limit) but mandates overtime pay, which is a form of economic regulation. Overall, it leans slightly towards deregulation due to the suspension. Score: -1\n7.  Social Inclusion: The document doesn't directly address social inclusion. Score: 0\n\nRevised Scores:\nAfter further consideration, the initial scores require some adjustments. While the document suspends the eight-hour workday, the provision for overtime pay significantly softens the impact on labor rights. The expansion of executive power is moderate, given the context of wartime and the specific nature of the suspension. The federalism aspect is also moderate, as it concerns infrastructure in a territory during wartime.\n",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 1,
+        "security_liberty": 2,
+        "economic_regulation": -1,
         "social_inclusion": 0
     }
 }

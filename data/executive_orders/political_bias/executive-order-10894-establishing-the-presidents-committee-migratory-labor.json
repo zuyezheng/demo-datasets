@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 2,
-        "immigration": 3,
+        "ideological_tilt": 3,
+        "immigration": 0,
         "executive_power": 1,
-        "federalism": 3,
-        "security_liberty": -1,
-        "economic_regulation": 2,
-        "social_inclusion": 4
-    },
-    "critique": "The document expresses concern for migratory workers and their families, and establishes a committee to address their needs. It emphasizes cooperation between federal agencies and with state and local entities to improve living and working conditions for this vulnerable population.",
-    "revised_scores": {
-        "ideological_tilt": 2,
-        "immigration": 3,
-        "executive_power": 1,
-        "federalism": 3,
-        "security_liberty": -1,
+        "federalism": 2,
+        "security_liberty": 0,
         "economic_regulation": 3,
-        "social_inclusion": 4
+        "social_inclusion": 3
+    },
+    "critique": "This document establishes a committee to address the needs of migrant workers. It aims to improve their living and working conditions, which suggests a focus on social welfare and government intervention. The document doesn't directly address immigration policy but focuses on the well-being of existing migrant workers. It expands federal organization for migratory labor programs, indicating a move towards federal control. It also emphasizes improving living conditions, suggesting a focus on social inclusion and economic regulation. There is no clear indication of prioritizing national security over civil liberties. The ideological tilt leans towards liberal due to the focus on social welfare and government intervention.",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 0,
+        "economic_regulation": 3,
+        "social_inclusion": 3
     }
 }

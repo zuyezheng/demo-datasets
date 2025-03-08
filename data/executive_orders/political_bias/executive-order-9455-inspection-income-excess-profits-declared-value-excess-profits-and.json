@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": -1,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding the inspection of tax returns by a House Select Committee. It is supplemental to a previous executive order. There is no discussion of immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion. The order is about government oversight and transparency.",
+    "critique": "This executive order pertains to the inspection of tax returns by a House Select Committee. It is difficult to assess its ideological tilt without more context, but the action itself seems neutral. Immigration, security/liberty, economic regulation, and social inclusion are not directly addressed. The order facilitates Congressional oversight, which could be seen as a slight restraint on executive power, and it involves federal tax matters, suggesting federal control. Therefore, the initial scores are: Ideological Tilt: 0, Immigration: 0, Executive Power: -1, Federalism: 1, Security/Liberty: 0, Economic Regulation: 0, Social Inclusion: 0. Upon further reflection, the primary function is to enable congressional oversight, which slightly reduces executive power. The federalism aspect is related to tax returns, which are inherently federal. The other categories remain neutral.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": -1,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

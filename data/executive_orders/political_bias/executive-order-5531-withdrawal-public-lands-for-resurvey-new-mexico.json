@@ -3,19 +3,19 @@
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is a withdrawal order for public lands in New Mexico, pending a resurvey. It doesn't express explicit opinions on ideological tilt, immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion. Therefore, most scores are neutral. The order does grant the executive branch the power to withdraw lands, but this is a limited action.",
+    "critique": "This document is a land withdrawal order, pending a resurvey. It doesn't touch on ideological issues, immigration, executive power in a significant way, or national security. It has a slight impact on economic regulation by restricting land use temporarily. It doesn't address social inclusion. Federalism is implicated as it involves federal land. Therefore, the initial scores are mostly neutral, with slight adjustments for federalism and economic regulation.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 0,
+        "executive_power": 0,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

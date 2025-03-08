@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order that extends the exemption of an employee from compulsory retirement. It does not contain strong political statements, but some bias can be inferred. The extension of the exemption could be seen as a slight expansion of executive power, and the fact that it is happening during a time of war (World War II) could indicate a focus on security.",
+    "critique": "This document is an executive order that extends the exemption of an individual from compulsory retirement. It doesn't directly address ideological issues, immigration, or civil liberties. It has a slight impact on executive power and federalism, but it's primarily an administrative action. There is no impact on economic regulation, or social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 1,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

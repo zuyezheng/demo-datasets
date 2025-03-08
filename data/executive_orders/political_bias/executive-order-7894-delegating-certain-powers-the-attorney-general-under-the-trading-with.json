@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document authorizes the Attorney General to exercise powers conferred upon the President by the Trading with the Enemy Act. This suggests an expansion of executive power.",
+    "critique": "This document is a directive from the President to the Attorney General regarding the Trading with the Enemy Act. It's difficult to assess its ideological tilt without knowing the specifics of how the Act is being applied. Immigration is not addressed. The directive expands executive power by delegating authority to the Attorney General. Federalism is not directly addressed. National security vs. civil liberties is not directly addressed, but the Trading with the Enemy Act could potentially impact both. Economic regulation is not directly addressed. Social inclusion is not addressed.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 2,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

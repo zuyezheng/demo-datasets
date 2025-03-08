@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "This document appears to be an executive order focused on informing employees of their rights regarding union membership and dues, particularly in the context of government contracts. It aims to ensure that employees are aware they cannot be forced to join a union to retain their jobs and that they may be entitled to refunds if their dues are used for activities unrelated to collective bargaining. The order also outlines procedures for investigating and addressing non-compliance with these provisions.",
+    "critique": "This executive order mandates that government contractors inform their employees of their rights regarding union membership and dues. It aims to ensure employees are aware that they cannot be forced to join a union and that they only need to pay for union activities related to collective bargaining. This leans slightly conservative as it emphasizes individual employee rights over union power. It doesn't directly address immigration, executive power, federalism, national security, economic regulation, or social inclusion. Therefore, most axes will be neutral. The order seems to expand the power of the Secretary of Labor to enforce these provisions, but it also includes checks and balances by allowing heads of contracting departments to object to the Secretary's directives. This makes the expansion of executive power moderate.",
     "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

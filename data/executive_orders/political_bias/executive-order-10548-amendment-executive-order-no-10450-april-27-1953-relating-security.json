@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document focuses on national security and government employment, specifically amending an executive order related to security requirements. It emphasizes the importance of an employee's mental condition and its potential impact on judgment and reliability, suggesting a focus on security and potential restrictions based on medical findings.",
-    "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
         "security_liberty": 3,
         "economic_regulation": 0,
-        "social_inclusion": -1
+        "social_inclusion": -2
+    },
+    "critique": "This executive order amends a previous order (EO 10450) regarding security requirements for government employment. The amendment broadens the definition of disqualifying conditions to include any illness, including mental conditions, that may cause a significant defect in judgment or reliability. This raises concerns about potential discrimination against individuals with mental health conditions. The order cites national security as the justification for this change.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 3,
+        "economic_regulation": 0,
+        "social_inclusion": -2
     }
 }

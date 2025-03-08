@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": -1,
-        "immigration": -2,
-        "executive_power": 4,
-        "federalism": 2,
-        "security_liberty": 4,
-        "economic_regulation": 3,
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on strengthening sanctions against Russia due to its military actions and reliance on the international financial system. It broadens the scope of previous executive orders by targeting foreign financial institutions that support Russia's military-industrial base and expands import restrictions on Russian goods. The order prioritizes national security and aims to limit Russia's access to resources that could aid its military efforts.",
+    "critique": "This executive order primarily concerns foreign policy and national security, specifically targeting Russia's military-industrial base. It expands existing sanctions and import restrictions to further isolate Russia economically. Here's a breakdown of the scores:\n\n*   **Ideological Tilt:** The order doesn't directly address domestic ideological issues. It's more about foreign policy and national security. Therefore, a score of 0 seems appropriate.\n*   **Immigration Approach:** The order doesn't deal with immigration at all, so it should be scored as 0.\n*   **Executive Power:** The order expands executive power by authorizing the Secretary of the Treasury to impose sanctions on foreign financial institutions and restricting imports. This is a continuation of existing executive orders, but it still represents an expansion of power. A score of +3 seems appropriate.\n*   **Federalism:** The order doesn't significantly impact the balance of power between the federal government and the states. It's primarily focused on foreign policy, which is a federal responsibility. A score of 0 is appropriate.\n*   **National Security vs. Civil Liberties:** The order prioritizes national security by restricting financial transactions and imports related to Russia's military-industrial base. While it includes provisions to avoid impairing donations, the overall focus is on security. A score of +3 seems appropriate.\n*   **Economic Regulation:** The order increases economic regulation by imposing sanctions and import restrictions. This is a form of government intervention in the economy. A score of +3 seems appropriate.\n*   **Social Inclusion:** The order doesn't directly address social inclusion issues. It's focused on foreign policy and national security. A score of 0 is appropriate.\n\nGiven this analysis, I will revise the initial scores to reflect these considerations.",
     "revised_scores": {
-        "ideological_tilt": -1,
-        "immigration": -2,
-        "executive_power": 4,
-        "federalism": 2,
-        "security_liberty": 4,
-        "economic_regulation": 4,
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 0,
+        "security_liberty": 3,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

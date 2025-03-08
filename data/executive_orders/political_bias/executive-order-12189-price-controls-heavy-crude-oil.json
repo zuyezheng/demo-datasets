@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding the definition and price controls of heavy crude oil. It focuses on economic regulation and executive power.",
+    "critique": "This document pertains to the definition of heavy oil and its exemption from price controls under the Emergency Petroleum Allocation Act. It seems primarily focused on economic regulation and doesn't directly address issues like immigration, civil liberties, or social inclusion. The order delegates authority to the Secretary of Energy for implementation. The document itself does not seem to obviously favor either states or the federal government. It also does not seem to expand executive power beyond what is necessary to implement the Emergency Petroleum Allocation Act. The ideological tilt is difficult to assess, but the deregulation of heavy oil prices could be seen as a conservative economic policy. Therefore, I will give it a slightly negative score. I will revise the score for economic regulation to reflect deregulation.",
     "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -3,
+        "economic_regulation": -2,
         "social_inclusion": 0
     }
 }

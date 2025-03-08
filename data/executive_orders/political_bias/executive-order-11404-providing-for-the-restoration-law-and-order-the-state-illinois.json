@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order authorizing the Secretary of Defense to use armed forces and national guard to disperse persons engaged in acts of violence and restore law and order. This suggests a focus on security and executive power.",
+    "critique": "This document is an executive order authorizing the Secretary of Defense to use the armed forces, including the National Guard, to disperse persons engaged in acts of violence and restore law and order. It invokes Chapter 15 of Title 10 of the United States Code and Section 301 of Title 3 of the United States Code. The order does not explicitly address immigration, economic regulation, or social inclusion. It does not seem to obviously favor one ideology. It expands executive power by authorizing the use of the military for domestic law enforcement. It also centralizes power at the federal level by deploying federal troops and nationalizing the National Guard. It potentially infringes on civil liberties in the name of restoring order. Given this, my initial scores are: Ideological Tilt: 0, Immigration Approach: 0, Executive Power: 3, Federalism: 3, National Security vs. Civil Liberties: 3, Economic Regulation: 0, Social Inclusion: 0. Upon further reflection, the context of the order is important. The order was issued in response to domestic violence and disorder. The order itself does not explicitly curtail liberties, but authorizes the Secretary of Defense to take action. The order also does not explicitly expand federal power beyond what is necessary to restore law and order. Therefore, I will revise the scores to be: Ideological Tilt: 0, Immigration Approach: 0, Executive Power: 2, Federalism: 2, National Security vs. Civil Liberties: 2, Economic Regulation: 0, Social Inclusion: 0.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 4,
+        "executive_power": 2,
         "federalism": 2,
-        "security_liberty": 4,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

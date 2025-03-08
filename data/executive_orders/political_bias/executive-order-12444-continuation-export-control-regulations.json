@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document focuses on national security and economic concerns, specifically regarding exports and foreign boycotts. It invokes presidential power to address these issues, suggesting a strong executive role. There's an emphasis on maintaining existing regulations and controls, indicating a preference for government intervention in the economy. The document doesn't directly address social issues or immigration.",
-    "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": -3,
         "immigration": -1,
         "executive_power": 3,
         "federalism": 2,
-        "security_liberty": 3,
-        "economic_regulation": 3,
-        "social_inclusion": -1
+        "security_liberty": 2,
+        "economic_regulation": 2,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order, issued by President Reagan, declares a national economic emergency due to the expiration of the Export Administration Act of 1979 and concerns about foreign access to U.S. goods and technology, as well as foreign boycott practices. It extends the provisions of the expired Act and related executive orders, maintaining existing rules and regulations under the Secretary of Commerce. The order also addresses the administration of section 38(e) of the Arms Export Control Act. Given the context of the 1980s and Reagan's policies, several biases can be identified.\n\n1.  Ideological Tilt: The order reflects a conservative approach by prioritizing national security and economic interests through export controls. It aims to protect the U.S. economy and maintain its competitive edge, aligning with Reagan's broader economic policies. Score: -3\n\n2.  Immigration Approach: While the order doesn't directly address immigration, its focus on controlling access to U.S. goods and technology suggests a cautious approach to foreign interactions, which can indirectly relate to immigration concerns. Score: -1\n\n3.  Executive Power: The order expands executive power by declaring a national economic emergency and extending the provisions of a previously expired act. This allows the President to maintain control over exports and related regulations without explicit congressional authorization. Score: 3\n\n4.  Federalism: The order reinforces federal control by maintaining national regulations and extending the authority of the Secretary of Commerce. It does not devolve power to the states. Score: 2\n\n5.  National Security vs. Civil Liberties: The order prioritizes national security and economic interests, potentially at the expense of civil liberties. The focus on export controls and monitoring foreign access to technology could lead to restrictions on trade and information flow. Score: 2\n\n6.  Economic Regulation: The order maintains existing economic regulations related to exports, indicating a moderate level of government intervention in the economy. It does not represent a move towards deregulation. Score: 2\n\n7.  Social Inclusion: The order does not directly address social inclusion. Its focus is on economic and national security matters. Score: 0\n\nRevised Scores:\n\n1.  Ideological Tilt: -3 (No Change)\n2.  Immigration Approach: -1 (No Change)\n3.  Executive Power: 3 (No Change)\n4.  Federalism: 2 (No Change)\n5.  National Security vs. Civil Liberties: 2 (No Change)\n6.  Economic Regulation: 2 (No Change)\n7.  Social Inclusion: 0 (No Change)",
+    "revised_scores": {
+        "ideological_tilt": -3,
+        "immigration": -1,
+        "executive_power": 3,
+        "federalism": 2,
+        "security_liberty": 2,
+        "economic_regulation": 2,
+        "social_inclusion": 0
     }
 }

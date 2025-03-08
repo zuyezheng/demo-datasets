@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 1,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1943 establishing a special emergency board to address a labor dispute at the Pacific Electric Railway Company. It invokes the First War Powers Act, indicating a wartime context. The order aims to prevent disruption of transportation services. It sets up a board to investigate wage adjustments within the limitations of existing acts and executive orders related to economic stabilization. The board's report is subject to review by the Economic Stabilization Director, who can modify the recommendations. The document reflects a strong executive action during wartime to manage labor disputes and maintain essential services.",
+    "critique": "This document pertains to a labor dispute during World War II and the establishment of a Special Emergency Board to address wage adjustments for employees of the Pacific Electric Railway Company. Given the context of wartime and the invocation of the First War Powers Act, the document reflects a strong federal role in managing the economy and labor relations to ensure the smooth functioning of essential transportation services. The document does not directly address immigration, civil liberties, or social inclusion. It focuses on economic regulation and executive power in the context of a national emergency.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 4,
-        "federalism": 3,
-        "security_liberty": 3,
-        "economic_regulation": 3,
+        "federalism": 4,
+        "security_liberty": 1,
+        "economic_regulation": 4,
         "social_inclusion": 0
     }
 }

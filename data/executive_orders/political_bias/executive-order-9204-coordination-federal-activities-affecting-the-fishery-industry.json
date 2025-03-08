@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 2,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1942 during World War II, focused on coordinating fishery production to support the war effort. It designates the Secretary of the Interior as Fishery Coordinator and outlines the duties of the Office of Fishery Coordination. The order emphasizes inter-agency cooperation and government intervention to ensure adequate aquatic food supplies.",
+    "critique": "This executive order, issued during World War II, focuses on coordinating and ensuring the production of aquatic food supplies. It designates the Secretary of the Interior as Fishery Coordinator and establishes an Office of Fishery Coordination. The order aims to facilitate communication and collaboration between various agencies and industries to maximize the utilization of resources for war efforts. There is no direct impact on immigration or civil liberties. The order expands executive power by centralizing control over fishery resources under the Secretary of Interior. It also centralizes power at the federal level. The order involves government intervention in the economy to ensure adequate food supplies during wartime. There is no explicit mention of social inclusion or exclusion.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 4,
-        "security_liberty": 3,
-        "economic_regulation": 4,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

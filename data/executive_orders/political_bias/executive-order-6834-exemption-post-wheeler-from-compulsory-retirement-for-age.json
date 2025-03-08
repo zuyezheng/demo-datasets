@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order that exempts an individual from mandatory retirement, focusing on a specific personnel decision. It doesn't directly address broad ideological or policy issues, but it does touch upon executive power and potentially economic regulation (through personnel costs).",
+    "critique": "This is a simple executive order that extends the service of an Envoy Extraordinary and Minister Plenipotentiary to Albania. There is nothing to suggest any ideological tilt, immigration stance, federalism impact, security vs liberty concerns, economic regulation, or social inclusion implications. The only axis that is relevant is executive power, and this order expands it slightly by allowing the President to exempt someone from mandatory retirement.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

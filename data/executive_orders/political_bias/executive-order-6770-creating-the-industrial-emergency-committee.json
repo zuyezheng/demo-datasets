@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order from President Franklin D. Roosevelt in 1934, during the Great Depression. It establishes the Industrial Emergency Committee and appoints Donald R. Richberg to key positions. The order aims to coordinate relief, public works, labor disputes, and industrial recovery efforts. It reflects a strong interventionist approach by the federal government to address the economic crisis.",
-    "revised_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 4,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 4,
-        "social_inclusion": 0
+        "social_inclusion": 2
+    },
+    "critique": "This document is an executive order from 1934 during the Great Depression. It establishes an Industrial Emergency Committee and appoints individuals to key roles within this committee and other related councils. The primary purpose appears to be coordinating efforts related to relief, public works, labor disputes, and industrial recovery. Given the context of the New Deal era, the document likely reflects a liberal approach to economic intervention and social inclusion, while also potentially expanding executive power. Here's a breakdown of the scores:\n\n*   **Ideological Tilt:** The creation of committees to address economic and social issues aligns with a liberal approach (+4).\n*   **Immigration Approach:** The document does not address immigration, so it is neutral (0).\n*   **Executive Power:** Establishing new committees and appointing directors expands executive power (+3).\n*   **Federalism:** The document centralizes power at the federal level to address national emergencies (+3).\n*   **National Security vs. Civil Liberties:** The document does not directly address national security or civil liberties, so it is neutral (0).\n*   **Economic Regulation:** The document promotes government intervention in the economy to address the depression (+4).\n*   **Social Inclusion:** The focus on relief and labor disputes suggests an effort to address social inequalities (+2).\n\nUpon further reflection, the expansion of executive power might be overstated. While the document does create a committee and appoints individuals, it's within the context of existing legislation (National Industrial Recovery Act). The focus is more on coordination and recommendation rather than unilateral action. Also, the social inclusion aspect is present but not a primary focus, so a slightly lower score is appropriate.",
+    "revised_scores": {
+        "ideological_tilt": 4,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 4,
+        "social_inclusion": 1
     }
 }

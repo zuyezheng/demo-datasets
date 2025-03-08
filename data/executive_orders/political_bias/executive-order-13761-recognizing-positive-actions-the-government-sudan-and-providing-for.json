@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -2,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order issued by President Obama regarding Sudan. It revokes previous executive orders that imposed sanctions on Sudan, citing Sudan's positive actions in reducing military activity, improving humanitarian access, and cooperating on regional conflicts and counterterrorism. The order also includes waivers related to the Trade Sanctions Reform and Export Enhancement Act and the Comprehensive Peace in Sudan Act. It assigns responsibilities to various cabinet members and establishes reporting requirements to monitor Sudan's continued progress. The document reflects a foreign policy decision to ease sanctions based on improved behavior by the Sudanese government.",
+    "critique": "This executive order, issued by President Obama, revokes previous executive orders that imposed sanctions on Sudan. The justification is that Sudan has taken positive actions, including reducing military activity and improving humanitarian access. The order also includes waivers related to the Trade Sanctions Reform and Export Enhancement Act and the Comprehensive Peace in Sudan Act. The order assigns responsibilities to various cabinet members and requires reports on Sudan's progress. Overall, the document reflects a foreign policy approach that favors engagement and diplomacy over strict sanctions, contingent on continued positive actions by Sudan. It's difficult to place this on the traditional left-right spectrum. It is slightly liberal in the sense that it favors diplomacy. Immigration is not directly addressed. Executive power is not significantly expanded or restricted. Federalism is not relevant. National security is a consideration, but balanced with diplomatic goals. Economic regulation is reduced through the lifting of sanctions. Social inclusion is not directly addressed.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 1,
-        "economic_regulation": -1,
+        "security_liberty": 0,
+        "economic_regulation": -2,
         "social_inclusion": 0
     }
 }

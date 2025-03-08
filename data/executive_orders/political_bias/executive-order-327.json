@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
     },
-    "critique": "The document outlines rules for civil service applications, focusing on qualifications, health, and background checks. There is a mention of disqualification for excessive alcohol use and restrictions on those dismissed for misconduct. The document emphasizes standardized procedures and eligibility criteria for public service employment.",
+    "critique": "This document outlines rules for civil service applications, focusing on qualifications and eligibility. It emphasizes factors like citizenship, health, and past employment, while also addressing disqualifications related to substance abuse and misconduct. There's a clear focus on ensuring a qualified and reliable public service workforce. The document doesn't directly address ideological issues, immigration policies, or economic regulations. It touches on national security indirectly through military service preferences and health requirements. The emphasis on conformity is moderate, aiming for a standard of conduct and fitness for service. The document seems to expand executive power by giving the President the ability to change the regulations at any time.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 5,
-        "security_liberty": 3,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
-        "social_inclusion": -2
+        "social_inclusion": -1
     }
 }

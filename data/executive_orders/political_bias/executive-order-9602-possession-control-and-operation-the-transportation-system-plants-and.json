@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 3,
+        "federalism": 4,
+        "security_liberty": 2,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document reflects a wartime context where the government asserts significant control over private industry (Illinois Central Railroad) to ensure the uninterrupted operation of essential services (transportation) for the war effort. This involves federal intervention in a labor dispute, assumption of control over private property, and prioritization of national security/war effort over typical economic and labor considerations.",
+    "critique": "This document is an executive order from 1945 authorizing the Director of the Office of Defense Transportation to take control of the Illinois Central Railroad Company due to a labor dispute that was interrupting operations and impeding the war effort. It invokes powers granted by the Constitution, laws of the United States, the Selective Training and Service Act of 1940, the War Labor Disputes Act, the act of August 29, 1916, and the First War Powers Act, 1941. The order outlines the Director's authority to manage the railroad, protects the assets from attachment, and allows for the termination of control when it's no longer necessary. It also transfers certain powers from the Secretary of War to the Director and authorizes the Secretary of War to provide protection and resources. Given the context of WWII, the document reflects a strong federal role in managing critical infrastructure for the war effort. It does not directly address immigration or social inclusion. The order seems to expand executive power in a time of war, and it involves government intervention in the economy to ensure the smooth operation of essential services. It does not directly address ideological tilt. It also does not directly address security vs liberty.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 4,
+        "executive_power": 3,
         "federalism": 4,
-        "security_liberty": 4,
+        "security_liberty": 2,
         "economic_regulation": 4,
         "social_inclusion": 0
     }

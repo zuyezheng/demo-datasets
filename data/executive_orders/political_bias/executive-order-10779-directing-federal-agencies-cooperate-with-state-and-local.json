@@ -1,6 +1,6 @@
 {
     "initial_scores": {
-        "ideological_tilt": -1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
         "federalism": -3,
@@ -8,14 +8,14 @@
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document emphasizes states' rights and responsibilities in controlling air pollution, which aligns with a preference for decentralized governance and potentially less federal intervention. It also focuses on cooperation between federal and state/local authorities, suggesting a balanced approach.",
+    "critique": "This document is an executive order from 1958 that directs federal agencies to cooperate with state and local authorities to prevent and abate air pollution from federal activities. It emphasizes the primary responsibilities and rights of states and local governments in controlling air pollution, indicating a preference for state-level governance. There is no direct indication of ideological tilt, immigration approach, executive power expansion, national security concerns, economic regulation, or social inclusion. The focus is on environmental regulation and federal-state cooperation.",
     "revised_scores": {
-        "ideological_tilt": -1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
         "federalism": -3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

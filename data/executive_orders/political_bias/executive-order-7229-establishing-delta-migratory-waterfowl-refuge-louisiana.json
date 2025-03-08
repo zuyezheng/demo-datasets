@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 2
     },
-    "critique": "The document focuses on establishing a wildlife refuge, indicating a moderate level of government intervention in land management and conservation. There is no direct discussion of social issues, immigration, executive power, or security/liberty concerns. The document seems to promote environmental conservation, which aligns with a moderate-liberal perspective.",
+    "critique": "This document establishes a migratory bird refuge. It's an executive order, but it's using existing authority under the Migratory Bird Conservation Act. It doesn't seem to expand executive power significantly. It has a slight positive impact on social inclusion by protecting wildlife and natural habitats. It doesn't directly address immigration, national security, or economic regulation. It is difficult to assess the ideological tilt or federalism implications without more context, but it seems generally aligned with conservation efforts.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
-        "social_inclusion": 0
+        "economic_regulation": 0,
+        "social_inclusion": 2
     }
 }

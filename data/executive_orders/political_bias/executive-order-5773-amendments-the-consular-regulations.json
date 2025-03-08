@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
+        "immigration": -1,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document primarily focuses on the operational procedures of consular officers and regulations concerning correspondence, duties towards American citizens, and handling of mail. There's a slight emphasis on maintaining order and control through established channels (e.g., correspondence through superiors, adherence to local laws).",
+    "critique": "This document primarily concerns the internal operations and regulations of consular offices. It outlines procedures for correspondence, duties towards American citizens abroad, and handling of unclaimed mail. There's a slight emphasis on national interests and protecting American citizens, but it's largely administrative. There is a very slight restriction on immigration matters, but it is not significant. There is no impact on executive power, federalism, economic regulation, or social inclusion.",
     "revised_scores": {
-        "ideological_tilt": -1,
-        "immigration": 0,
+        "ideological_tilt": 0,
+        "immigration": -1,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 1,

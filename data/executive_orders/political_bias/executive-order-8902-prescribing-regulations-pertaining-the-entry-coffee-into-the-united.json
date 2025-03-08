@@ -3,17 +3,17 @@
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document appears to be an executive order related to the Inter-American Coffee Agreement. It focuses on enforcing quotas and certification requirements for coffee imports, indicating a level of economic intervention and federal control over trade. There is no direct mention of social issues, immigration, or civil liberties, so those axes are harder to assess. The order delegates authority to consular officers, which could be seen as a slight expansion of executive power in the context of international trade agreements.",
+    "critique": "This document pertains to the Inter-American Coffee Agreement and outlines the requirements for coffee imports into the United States. It mandates that invoices for coffee from signatory countries must be certified by a U.S. consular officer, verifying that the coffee is within the exporting country's quota. This seems to be an economic agreement to stabilize coffee production and trade among participating nations. It doesn't directly address ideological issues, immigration, executive power in a broad sense, or civil liberties. It has some implications for federalism and economic regulation. It does not seem to touch on social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 2,
+        "executive_power": 0,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 3,
         "social_inclusion": 0

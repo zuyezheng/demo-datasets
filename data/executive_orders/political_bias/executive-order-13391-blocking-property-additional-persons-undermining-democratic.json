@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 2,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order issued by President George W. Bush regarding sanctions against individuals undermining Zimbabwe's democratic processes. It expands executive power by authorizing the Secretary of the Treasury to block assets of those deemed to be undermining Zimbabwe's democracy. It does not directly address immigration, economic regulation, or social inclusion. It centralizes power in the federal government, specifically the executive branch, and prioritizes national security interests by restricting transactions with designated individuals.",
+    "critique": "This executive order targets individuals and entities undermining Zimbabwe's democratic processes by blocking their assets. It's a foreign policy measure using economic sanctions. Here's an analysis of its potential biases:\n\n*   **Ideological Tilt:** Neutral (0). The order doesn't directly relate to domestic ideological debates. It focuses on foreign policy and promoting democracy abroad, which can be supported across the political spectrum.\n*   **Immigration Approach:** Neutral (0). The order doesn't address immigration policies.\n*   **Executive Power:** Slightly Expands (1). While it uses existing legal frameworks (IEEPA, National Emergencies Act), it grants the executive branch (specifically the Secretary of the Treasury) broad authority to identify and sanction individuals. This represents a marginal expansion of executive power in the realm of foreign policy.\n*   **Federalism:** Neutral (0). The order doesn't impact the balance of power between the federal government and the states.\n*   **National Security vs. Civil Liberties:** Leans towards National Security (2). The order prioritizes national security and foreign policy objectives by potentially infringing on the property rights of individuals deemed to be undermining democracy in Zimbabwe. The determination that prior notice would render the measures ineffectual also suggests a prioritization of security concerns over due process.\n*   **Economic Regulation:** Leans towards Intervention (2). The order implements economic sanctions, which are a form of government intervention in the economy. It restricts financial transactions and blocks assets, indicating a move away from a purely laissez-faire approach.\n*   **Social Inclusion:** Neutral (0). The order doesn't directly address social inclusion issues within the United States. Its focus is on promoting democracy abroad.\n\nRevised Scores:\nAfter further consideration, I've slightly adjusted the scores to better reflect the nuances of the executive order.\n\n*   Executive Power: 1 (Slightly Expands) - The order relies on existing legislation but grants broad discretion to the executive branch in implementation.\n*   National Security vs. Civil Liberties: 2 (Leans towards National Security) - While the order targets foreign actors, it does so by potentially infringing on property rights, thus prioritizing national security objectives.\n*   Economic Regulation: 2 (Leans towards Intervention) - The use of economic sanctions constitutes a form of government intervention in the economy.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 3,
-        "economic_regulation": 0,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 2,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

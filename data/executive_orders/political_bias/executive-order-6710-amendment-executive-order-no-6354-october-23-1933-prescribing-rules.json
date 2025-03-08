@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order amending rules and regulations under the National Industrial Recovery Act. It provides exemptions for small businesses in small towns from certain provisions of the President's Reemployment Agreement and approved codes of fair competition. This suggests a focus on economic regulation and intervention, with some consideration for the needs of small businesses. The order also delegates authority to the Administrator for Industrial Recovery, indicating a preference for federal control.",
+    "critique": "This executive order amends a previous order related to the National Industrial Recovery Act. It provides exemptions to certain small businesses in towns with populations less than 2,500 from provisions of the President's Reemployment Agreement and approved codes of fair competition. This includes exemptions related to hours of employment, rates of pay, minimum prices, and collection of assessments. The order aims to relieve small businesses from fixed obligations that might impose hardship, while still expecting them to conform as much as possible. The Administrator for Industrial Recovery is authorized to prescribe rules and regulations to carry out these provisions.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 3,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
         "economic_regulation": 3,
         "social_inclusion": 0

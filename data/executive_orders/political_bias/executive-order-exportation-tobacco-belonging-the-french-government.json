@@ -5,17 +5,17 @@
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding the export of tobacco belonging to the French government from insurgent territory during the Civil War. It addresses a specific situation and clarifies the conditions under which a previous order can be carried out. There is no explicit discussion of ideological tilt, immigration, executive power, federalism, security vs. liberty, economic regulation or social inclusion.",
+    "critique": "This document primarily concerns trade relations during the Civil War. It addresses the export of tobacco belonging to the French Government from Confederate territory. There's no clear indication of ideological tilt, immigration policy, executive power expansion, federalism implications, national security vs. civil liberties concerns, or social inclusion matters. The only axis with a slight relevance is economic regulation, as it involves government permission for trade, but it's a very specific and limited instance. Therefore, most axes should be scored as neutral (0), with a slight lean towards deregulation due to facilitating trade.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     }
 }

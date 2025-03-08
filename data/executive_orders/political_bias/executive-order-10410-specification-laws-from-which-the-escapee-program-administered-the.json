@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document waives certain legal restrictions to facilitate the escapee program under the Mutual Security Act. This suggests a focus on national security and potentially executive power in foreign policy. There's no clear indication of economic, social, or federalism stances.",
-    "revised_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
+        "immigration": 1,
         "executive_power": 2,
         "federalism": 0,
         "security_liberty": 2,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 1
+    },
+    "critique": "This document pertains to the Mutual Security Act of 1951 and authorizes the Department of State to administer the escapee program without regard to certain provisions of law. It is difficult to assess the ideological tilt without more context on the specifics of the escapee program and the Mutual Security Act. However, the act seems to be related to national security during the Cold War. Immigration approach is not directly addressed, but the escapee program suggests a slightly open approach to those fleeing communist regimes. Executive power is somewhat expanded as the document allows the Department of State to bypass certain legal provisions. Federalism is not directly impacted. National security is prioritized over some bureaucratic procedures. Economic regulation is not directly addressed. Social inclusion is difficult to assess without more context, but aiding escapees could be seen as a form of humanitarian effort.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 1,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 2,
+        "economic_regulation": 0,
+        "social_inclusion": 1
     }
 }

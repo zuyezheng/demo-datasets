@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "This document establishes a board to investigate a dispute between a railway company and its employees, preventing changes to the conditions out of which the dispute arose for a specified period. It aims to prevent interruption of interstate commerce. The document does not express strong opinions on the axes. Therefore, most axes are neutral.",
+    "critique": "This document establishes a board to investigate a dispute between a railway company and its employees. It aims to prevent interruption of interstate commerce. \n\n1.  Ideological Tilt: The document doesn't directly address typical left-right issues. It focuses on labor dispute resolution, which can be seen as a moderate intervention in the free market to ensure stability. Score: 0\n2.  Immigration Approach: The document has no bearing on immigration. Score: 0\n3.  Executive Power: The document creates a board by executive order, which can be seen as an expansion of executive power, although it is within the bounds of the Railway Labor Act. Score: 1\n4.  Federalism: The document involves the federal government in a local labor dispute that affects interstate commerce, suggesting a stronger federal role. Score: 2\n5.  National Security vs. Civil Liberties: The document doesn't directly address national security or civil liberties. It's primarily about economic stability and labor relations. Score: 0\n6.  Economic Regulation: The document intervenes in a labor dispute to prevent disruption of transportation services, indicating a moderate level of government intervention in the economy. Score: 2\n7.  Social Inclusion: The document doesn't address social inclusion issues. Score: 0\n\nRevised Scores:\nAfter further consideration, the initial scores seem reasonable. The document's primary focus is on resolving a labor dispute to maintain interstate commerce, with moderate implications for executive power and federalism.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

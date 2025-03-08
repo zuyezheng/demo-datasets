@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 4,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order issued by President George W. Bush in response to the September 11, 2001 terrorist attacks. It declares a national emergency and orders financial sanctions against foreign terrorists and those who support them. It expands executive power, particularly for the Secretary of the Treasury, to take actions against those deemed a threat. It prioritizes national security and restricts donations to those subject to the order. The order emphasizes cooperation with other countries to combat terrorism financing.",
+    "critique": "This executive order, issued by George W. Bush in response to the September 11th attacks, declares a national emergency and blocks the assets of individuals and entities associated with terrorism. It invokes the International Emergency Economic Powers Act (IEEPA) and other legal authorities to implement financial sanctions and enhance cooperation in combating terrorist financing. The order prioritizes national security and grants broad powers to the executive branch, particularly the Secretary of the Treasury, to take actions against those deemed to be supporting terrorism. It also emphasizes cooperation with other countries and sharing of information. The order does not directly address immigration, economic regulation in a broad sense, or social inclusion. However, it does expand executive power and prioritizes national security over civil liberties to some extent.",
     "revised_scores": {
-        "ideological_tilt": 2,
-        "immigration": -2,
-        "executive_power": 4,
-        "federalism": 3,
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 0,
         "security_liberty": 4,
-        "economic_regulation": 2,
-        "social_inclusion": -1
+        "economic_regulation": 0,
+        "social_inclusion": 0
     }
 }

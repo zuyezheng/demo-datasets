@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a naval defensive sea area and airspace reservation in Subic Bay, Philippines, restricting access to non-US vessels and aircraft. This indicates a focus on national security and executive power.",
+    "critique": "This document establishes a naval defensive sea area and airspace reservation in Subic Bay, Philippines. It restricts access to these areas to only US public vessels and aircraft unless authorized by the Secretary of the Navy. It prioritizes national security by creating these zones and enforcing them with penalties. There is little to no impact on immigration, economic regulation, or social inclusion. The order expands executive power by authorizing the Secretary of the Navy to regulate access and enforce the provisions. It also centralizes control at the federal level, as it's a US federal action impacting a territory. The order reflects a balanced approach between national security and civil liberties, as it doesn't broadly infringe on rights but establishes specific restrictions for defense purposes.",
     "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": -2,
-        "executive_power": 3,
-        "federalism": 0,
-        "security_liberty": 4,
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

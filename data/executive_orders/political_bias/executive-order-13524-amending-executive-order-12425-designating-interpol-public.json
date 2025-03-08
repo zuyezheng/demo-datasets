@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order granting privileges, exemptions, and immunities to INTERPOL. It removes certain restrictions outlined in a previous executive order. This suggests a move towards greater cooperation with international organizations.",
+    "critique": "This document is an executive order that amends a previous executive order to extend privileges, exemptions, and immunities to INTERPOL. It does not directly address ideological tilt, immigration, federalism, national security vs. civil liberties, economic regulation, or social inclusion. The only axis that is relevant is executive power. Because it is an executive order, it expands executive power, but only very slightly.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
-        "security_liberty": 2,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

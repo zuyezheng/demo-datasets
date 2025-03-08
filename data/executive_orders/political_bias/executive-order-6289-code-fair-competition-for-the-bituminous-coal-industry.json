@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order by President Franklin D. Roosevelt approving a Code of Fair Competition for the Bituminous Coal Industry under the National Industrial Recovery Act of 1933. It reflects a strong interventionist approach by the federal government in the economy during the New Deal era. The order includes provisions for government oversight, data collection, and potential presidential appointments to the Industrial Board, indicating a significant expansion of executive power and federal control.",
-    "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 4,
+        "executive_power": 3,
         "federalism": 4,
         "security_liberty": 0,
         "economic_regulation": 5,
-        "social_inclusion": 0
+        "social_inclusion": 1
+    },
+    "critique": "This document is an executive order by President Franklin D. Roosevelt approving a Code of Fair Competition for the Bituminous Coal Industry under the National Industrial Recovery Act of 1933. Here's an analysis of its political bias:Ideological Tilt: The NIRA was a key component of FDR's New Deal, which aimed to address the Great Depression through government intervention in the economy. Approving a code of fair competition aligns with a liberal approach to economic policy, so I'll score it +3.Immigration Approach: This document doesn't address immigration, so it's neutral.Executive Power: The order expands executive power by allowing the President to approve or prescribe minimum rates and appoint members to the Industrial Board. This indicates an expansion of executive authority, so I'll score it +3.Federalism: The NIRA and the code centralize economic regulation at the federal level, shifting power away from the states. This suggests strong federal control, so I'll score it +4.National Security vs. Civil Liberties: The document doesn't directly address national security or civil liberties, so it's neutral.Economic Regulation: The code of fair competition represents significant government intervention in the coal industry, including setting minimum rates and requiring statistical information. This is heavy government intervention, so I'll score it +5.Social Inclusion: The document doesn't explicitly address social inclusion, but the NIRA aimed to improve working conditions and wages, which could indirectly benefit marginalized groups. I'll give it a +1.Revised Scores:After reviewing my initial assessment, I stand by my scores. The document clearly reflects a liberal approach to economic policy, expands executive power, centralizes federal control, and represents heavy government intervention in the economy.",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 4,
+        "security_liberty": 0,
+        "economic_regulation": 5,
+        "social_inclusion": 1
     }
 }

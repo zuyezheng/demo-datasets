@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": -1,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 3
     },
-    "critique": "The document transfers functions to the Attorney General to initiate public sector litigation under Section 707 of Title VII of the Civil Rights Act of 1964. This suggests a move towards federal oversight and enforcement of civil rights, potentially impacting various areas such as social inclusion and economic regulation.",
+    "critique": "This document pertains to the transfer of certain functions under Section 707 of Title VII of the Civil Rights Act of 1964 to the Attorney General. It aims to clarify the Attorney General's authority to initiate public sector litigation under this section. The document itself doesn't express a strong ideological stance, but rather focuses on procedural aspects and legal authority. It reinforces existing civil rights legislation. Therefore, the ideological tilt is slightly liberal due to the nature of the Civil Rights Act. Immigration is not addressed. The transfer of functions could be seen as a slight expansion of executive power, but it's primarily an administrative matter. Federalism is not significantly impacted. National security vs. civil liberties is not directly addressed, but the document reinforces civil rights, so it leans towards liberties. Economic regulation is not relevant. Social inclusion is positively impacted due to the nature of the Civil Rights Act.",
     "revised_scores": {
         "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 2,
-        "security_liberty": 0,
-        "economic_regulation": 1,
+        "federalism": 0,
+        "security_liberty": -1,
+        "economic_regulation": 0,
         "social_inclusion": 3
     }
 }

@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a commission to provide recommendations on the implementation of a new vision for space exploration. It focuses on the management, resources, and criteria for selecting destinations for exploration. There is no direct discussion of immigration, civil liberties, or economic regulation. The order emphasizes internal management within the executive branch and does not create enforceable rights.",
+    "critique": "This document establishes a commission to make recommendations on space exploration. It does not directly address ideological tilt, immigration, executive power, federalism, national security vs. civil liberties, economic regulation, or social inclusion. Therefore, most scores should be neutral. The establishment of a commission could be seen as a slight expansion of executive power, but it's primarily for advisory purposes.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

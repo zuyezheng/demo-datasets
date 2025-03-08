@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document discusses the appointment of Mr. James W. Higgins, Jr. as a Special Agent in the Internal Revenue Bureau, bypassing civil service rules due to his prior experience as a Deputy Collector of Internal Revenue. The order is recommended by the Secretary of the Treasury and deemed in the interest of the service.",
+    "critique": "This document is a short executive order that waives civil service rules for a specific individual, allowing them to be appointed as a Special Agent in the Internal Revenue Bureau. It doesn't touch on broad ideological themes, immigration, or social inclusion. The primary area of impact is executive power, as it demonstrates the ability to bypass standard hiring procedures. It has a slight impact on economic regulation, as the IRS is involved in enforcing tax laws. There is no clear impact on federalism or national security vs. civil liberties.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

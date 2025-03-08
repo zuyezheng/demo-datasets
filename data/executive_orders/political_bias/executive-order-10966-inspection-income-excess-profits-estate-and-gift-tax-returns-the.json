@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a directive to allow the House Committee on Government Operations to inspect tax returns. It doesn't express opinions on social issues, immigration, or executive power. The focus is on government oversight and access to information for the purpose of determining government efficiency.",
+    "critique": "This document is an executive order regarding the inspection of tax returns by a House committee. It seems primarily focused on government oversight and transparency. There's no immediately obvious ideological tilt, immigration stance, or impact on social inclusion. It could be argued that allowing inspection of tax returns expands executive power slightly, as it involves the executive branch (IRS) cooperating with a congressional committee, but it's more about facilitating oversight. It doesn't seem to directly affect federalism or national security vs. civil liberties. The economic regulation aspect is also neutral, as it doesn't directly regulate or deregulate anything. Therefore, most scores should be close to zero.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 5,
-        "security_liberty": 5,
+        "federalism": 0,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 3,
+        "federalism": 4,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to the Selective Service Act of 1948, specifically focusing on the registration, classification, physical examination, selection, and induction of individuals in medical, dental, and allied specialist categories. It outlines the procedures and regulations for managing these specialists within the Selective Service System. There is no mention of diversity/pluralism, immigration, or ideological tilt. The document expands executive power by giving the President authority over the Selective Service System. It centralizes power at the federal level. It prioritizes national security over individual liberties. It involves government intervention in the economy by managing the labor pool for military service.",
+    "critique": "This document establishes regulations for the selective service of medical, dental, and allied specialists. It doesn't directly address ideological issues, immigration, or economic regulation. It expands executive power by implementing the Selective Service Act. It centralizes control at the federal level. It prioritizes national security by ensuring the availability of medical personnel for the armed forces. It does not directly address social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 4,
-        "security_liberty": 4,
-        "economic_regulation": 3,
-        "social_inclusion": -1
+        "security_liberty": 3,
+        "economic_regulation": 0,
+        "social_inclusion": 0
     }
 }

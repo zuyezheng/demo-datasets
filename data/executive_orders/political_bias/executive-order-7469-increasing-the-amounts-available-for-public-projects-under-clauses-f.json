@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 2,
+        "social_inclusion": 2
     },
-    "critique": "The document is an executive order from 1936, reallocating funds from the Emergency Relief Appropriation Act. It shifts funds between different categories of public projects, specifically increasing funds for educational, professional, and clerical persons, as well as women's projects, by transferring funds from public buildings and public utilities. This suggests a slight inclination towards social programs and targeted assistance.",
+    "critique": "This document is an executive order from 1936 reallocating funds from the Emergency Relief Appropriation Act. It shifts money to educational, professional, and clerical assistance, as well as women's projects. This suggests a slight tilt towards social inclusion and government intervention in the economy. The order reallocates funds, increasing the amounts for specific projects by transferring from other specified projects. There's no direct impact on immigration, civil liberties, or federalism. The increase in funds for women's projects and educational assistance suggests a slight liberal tilt. The document does expand executive power by reallocating funds, but it is pursuant to existing legislation. The economic regulation score is moderate as it involves government spending and allocation, but not direct control over prices or wages.",
     "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 5,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 2,
-        "social_inclusion": 3
+        "social_inclusion": 2
     }
 }

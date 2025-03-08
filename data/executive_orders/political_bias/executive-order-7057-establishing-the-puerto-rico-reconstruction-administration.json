@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document establishes the Puerto Rico Reconstruction Administration under the Department of Interior, led by an appointed administrator, to provide relief, work relief, and increase employment within Puerto Rico. It grants broad powers to the administrator, including the ability to acquire property, appoint employees without regard to civil service laws, and expend funds for various purposes. This suggests a focus on federal intervention and centralized control to address economic and social issues in Puerto Rico.",
-    "revised_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 4,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 5,
+        "federalism": 4,
         "security_liberty": 0,
         "economic_regulation": 4,
-        "social_inclusion": 0
+        "social_inclusion": 3
+    },
+    "critique": "This executive order establishes the Puerto Rico Reconstruction Administration in 1935. It is part of FDR's New Deal program. Ideologically, it is liberal because it expands government intervention in the economy. It does not deal with immigration. It expands executive power because it creates a new agency and allows the administrator to hire people without regard to civil service laws. It increases federal power over Puerto Rico. It does not directly address national security or civil liberties. It increases economic regulation because it creates a government agency to manage the economy of Puerto Rico. It promotes social inclusion by aiming to provide relief and work relief to the people of Puerto Rico.",
+    "revised_scores": {
+        "ideological_tilt": 4,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 4,
+        "security_liberty": 0,
+        "economic_regulation": 4,
+        "social_inclusion": 3
     }
 }

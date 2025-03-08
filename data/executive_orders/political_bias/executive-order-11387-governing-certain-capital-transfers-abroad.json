@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 3,
+        "federalism": 5,
+        "security_liberty": 2,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on strengthening the US balance of payments during a national emergency. It restricts foreign investment and mandates repatriation of earnings and assets. It expands executive power and federal control over the economy.",
+    "critique": "This document appears to be an executive order from 1968 aimed at strengthening the US balance of payments during a declared national emergency. It restricts foreign investment and mandates repatriation of earnings and assets held abroad. Here's a breakdown of the scores:\n\n*   **Ideological Tilt:** 0.  The document doesn't directly align with traditional left/right ideologies. It's focused on economic policy during a perceived crisis.\n*   **Immigration Approach:** 0.  The document doesn't address immigration.\n*   **Executive Power:** 3.  It expands executive power by granting broad authority to the Secretary of Commerce and the Federal Reserve to regulate financial transactions and mandate repatriation of assets.\n*   **Federalism:** 5.  The order centralizes control at the federal level, giving the Secretary of Commerce and the Federal Reserve significant power over financial institutions and individuals.\n*   **National Security vs. Civil Liberties:** 2.  While the stated goal is economic stability, the restrictions on financial transactions could be seen as infringing on economic freedoms in the name of national interest.\n*   **Economic Regulation:** 4.  The document heavily intervenes in the economy by restricting foreign investment and mandating repatriation of assets.\n*   **Social Inclusion:** 0.  The document has no direct impact on social inclusion.\n\nUpon further reflection, the expansion of executive power might be slightly overstated. While the order grants significant authority, it's framed within the context of a declared national emergency and existing legislation. The national security aspect is also debatable, as the primary focus is economic stability rather than direct national security concerns. Therefore, I will revise the scores accordingly.",
     "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": -1,
-        "executive_power": 4,
-        "federalism": 3,
-        "security_liberty": 2,
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 5,
+        "security_liberty": 1,
         "economic_regulation": 4,
         "social_inclusion": 0
     }

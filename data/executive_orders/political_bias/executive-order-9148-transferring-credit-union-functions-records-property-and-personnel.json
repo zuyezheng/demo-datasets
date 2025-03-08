@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 3,
+        "federalism": 2,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order transferring functions from the Farm Credit Administration to the Federal Deposit Insurance Corporation during World War II. It's a temporary measure tied to the First War Powers Act. The order focuses on transferring functions, records, property, personnel, and funds to ensure the continued administration of federal credit unions. There's no explicit discussion of ideological tilt, immigration, or social inclusion. The order expands executive power temporarily during wartime and shifts some control to the federal level. Economic regulation is moderately affected as it consolidates financial oversight. Security vs. liberty is not directly addressed, but the context of wartime suggests a potential prioritization of security.",
+    "critique": "This document is an executive order transferring functions from the Farm Credit Administration to the Federal Deposit Insurance Corporation during World War II. It's a wartime measure enacted under the First War Powers Act. It seems primarily focused on administrative efficiency and resource allocation during a national emergency.\n\n1.  Ideological Tilt: The document doesn't directly address traditional left-right issues. It's a wartime measure focused on administrative efficiency. Score: 0\n2.  Immigration Approach: The document has no bearing on immigration. Score: 0\n3.  Executive Power: The order utilizes the First War Powers Act, which grants the executive branch expanded authority during wartime. This indicates an expansion of executive power, though within the context of a declared war. Score: 3\n4.  Federalism: The order involves the transfer of functions between federal agencies, suggesting a consolidation of power at the federal level. Score: 2\n5.  National Security vs. Civil Liberties: The order is enacted under the First War Powers Act, which generally prioritizes national security during wartime. However, the specific actions in this order don't directly impinge on civil liberties. Score: 1\n6.  Economic Regulation: The order involves the transfer of functions related to credit unions, which could be seen as a form of economic regulation. However, the transfer itself doesn't necessarily increase or decrease regulation. Score: 0\n7.  Social Inclusion: The document has no impact on social inclusion. Score: 0\n\nRevised Scores:\nAfter further consideration, the initial scores seem reasonable. The document is a wartime measure that expands executive power and consolidates federal authority, but it doesn't directly address ideological issues, immigration, civil liberties, economic regulation, or social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 2,
         "security_liberty": 1,
-        "economic_regulation": 2,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

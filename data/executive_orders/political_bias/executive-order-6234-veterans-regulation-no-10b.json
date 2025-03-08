@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document adjusts regulations for veterans' benefits, eligibility criteria, and payment conditions. It addresses wartime service definitions, marriage dates for widows, employment restrictions for pension recipients, and geographical limitations on benefit amounts. The document centralizes authority in the executive branch and federal government.",
+    "critique": "This document is an executive order amending veterans' regulations. It primarily deals with eligibility criteria for benefits and pension payments. There's no indication of ideological tilt, immigration policy, or social inclusion. It does grant the President authority to set requirements for veterans' benefits, which could be seen as expanding executive power, but it's within a specific domain. It also centralizes control over veterans' benefits at the federal level. There's a slight emphasis on economic regulation through pension limitations and a balanced approach to national security vs. civil liberties.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 2,
         "security_liberty": 0,
         "economic_regulation": 1,
         "social_inclusion": 0

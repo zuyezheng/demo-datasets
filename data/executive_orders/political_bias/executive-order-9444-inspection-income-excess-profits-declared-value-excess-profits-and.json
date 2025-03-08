@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document focuses on granting access to tax returns for the Special Committee on Un-American Activities, indicating a potential concern with internal security and investigation of subversive activities. There is no clear indication of economic, immigration, or social policies. The order expands executive power by allowing access to private information.",
-    "revised_scores": {
-        "ideological_tilt": -1,
+        "ideological_tilt": -2,
         "immigration": 0,
         "executive_power": 2,
         "federalism": 0,
         "security_liberty": 3,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -2
+    },
+    "critique": "This document pertains to the inspection of tax returns by the Special Committee on Un-American Activities. Given the context of the time (1940s) and the committee's focus, the document leans towards prioritizing national security concerns over individual liberties. The order facilitates government access to private financial information, which could be used to target individuals or groups deemed 'Un-American'. There is no direct impact on immigration, economic regulation, or federalism. The ideological tilt is conservative, reflecting the anti-communist sentiment of the era. The document does not directly address social inclusion but the actions of the committee were often exclusionary. Executive power is expanded to allow the committee access to tax records.",
+    "revised_scores": {
+        "ideological_tilt": -2,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 3,
+        "economic_regulation": 0,
+        "social_inclusion": -2
     }
 }

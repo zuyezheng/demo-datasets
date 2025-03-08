@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to the authorization of the Council of National Defense to employ individuals without adhering to civil service laws during wartime. This suggests a focus on national security and efficiency, potentially at the expense of standard hiring procedures.",
+    "critique": "The document pertains to the Council of National Defense during a time of war (1917). It authorizes the Council to employ individuals without adhering to civil service laws and rules, emphasizing efficiency and adaptability in personnel selection during the crisis. The Civil Service Commission recommends the order, suggesting a degree of consensus or acceptance of the measure. Given the context of wartime, the document leans towards prioritizing national security and governmental efficiency over strict adherence to civil service regulations. It does not directly address immigration, executive power in a broad sense, federalism, economic regulation, or social inclusion. However, the suspension of civil service rules could be interpreted as a slight expansion of executive power in the specific context of wartime personnel decisions. The ideological tilt is difficult to assess directly, but the focus on national defense and governmental efficiency might align more with a conservative viewpoint in that era. The emphasis on national security during wartime suggests a prioritization of security over civil liberties in this specific context.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
-        "security_liberty": 3,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

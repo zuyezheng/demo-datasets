@@ -1,18 +1,18 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 2,
+        "economic_regulation": -2,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on securing the supply of critical minerals for the United States. It aims to reduce reliance on foreign sources through domestic exploration, production, recycling, and streamlining permitting processes. It invokes national security and economic prosperity as justifications for the policy.",
+    "critique": "The document focuses on securing domestic supplies of critical minerals for national security and economic prosperity. It aims to reduce reliance on foreign imports through increased domestic exploration, production, recycling, and streamlined permitting processes. There's a clear emphasis on economic growth and national security. It doesn't directly address immigration or social inclusion. The order promotes deregulation and streamlining of permitting, suggesting a move towards less government intervention in the mining industry. It also centralizes authority by directing various agencies to develop strategies and reports for the President.",
     "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 1,
         "federalism": 1,
         "security_liberty": 2,
         "economic_regulation": -2,

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 3,
-        "security_liberty": 1,
-        "economic_regulation": 3,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "This document establishes a board to investigate a dispute between a railroad corporation and its employees, invoking the Railway Labor Act to prevent disruption of interstate commerce. It leans towards federal intervention to resolve labor disputes and ensure essential transportation services.",
+    "critique": "This document establishes a board to investigate a dispute between a railroad company and its employees. It seems to be a fairly neutral action, intervening in a labor dispute to ensure the continuation of interstate commerce. There's no clear indication of ideological bias, immigration stance, expansion of executive power beyond what's necessary for the situation, federalism implications, security vs. liberty concerns, or social inclusion issues. The economic regulation aspect is moderate, as it prevents changes to the conditions of the dispute for a limited time.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 3,
-        "security_liberty": 1,
-        "economic_regulation": 3,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

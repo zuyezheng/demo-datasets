@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
-        "social_inclusion": 2
+        "economic_regulation": 1,
+        "social_inclusion": 1
     },
-    "critique": "The document focuses on granting access to tax returns for a specific Senate committee investigating labor rights violations. It doesn't directly address most of the political bias axes but implies a stance on economic regulation and social inclusion through its focus on labor rights.",
+    "critique": "This document pertains to tax returns and their inspection by a Senate committee investigating violations of free speech, assembly, and labor rights. It does not directly address immigration, executive power, federalism, national security vs. civil liberties, economic regulation in a broad sense, or social inclusion. However, the investigation into labor rights suggests a slight lean towards intervention and diversity.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 3,
-        "social_inclusion": 3
+        "economic_regulation": 1,
+        "social_inclusion": 1
     }
 }

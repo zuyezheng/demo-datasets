@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -2,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": -2,
+        "social_inclusion": -3
+    },
+    "critique": "The document revokes the establishment of the Tulerosa Valley as an Indian reservation and restores the land to the public domain. This action could be seen as favoring westward expansion and potentially disregarding the rights or needs of Native American tribes who may have been residing in or utilizing the valley. This suggests a conservative ideological tilt, a restrictive approach to social inclusion, and potentially an expansion of executive power if the original reservation was established through a different process. It also leans towards deregulation by opening up the land for potential economic activities. However, without more context, it's difficult to assess the full impact on federalism and national security vs. civil liberties.",
+    "revised_scores": {
+        "ideological_tilt": -2,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document revokes an order establishing the Tulerosa Valley as an Indian reservation and restores the land to the public domain. This action likely favors westward expansion and resource exploitation by non-Native Americans, potentially at the expense of Native American land rights and cultural preservation. It suggests a preference for individual property rights and economic development over communal land ownership and indigenous sovereignty.",
-    "revised_scores": {
-        "ideological_tilt": -2,
-        "immigration": -3,
-        "executive_power": 1,
-        "federalism": 1,
-        "security_liberty": 1,
-        "economic_regulation": -1,
-        "social_inclusion": -4
+        "economic_regulation": -2,
+        "social_inclusion": -3
     }
 }

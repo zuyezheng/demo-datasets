@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document delegates presidential authority to the Secretary of Defense and the Secretary of Transportation, specifically regarding the suspension of laws related to promotion, retirement, or separation of armed forces members deemed essential to national security. This concentrates power within the executive branch and prioritizes national security considerations.",
+    "critique": "This document delegates authority to the Secretary of Defense and the Secretary of Transportation to suspend provisions of law relating to promotion, retirement, or separation applicable to any member of the armed forces determined to be essential to the national security of the United States. It does not seem to have a strong ideological tilt. It does not address immigration. It expands executive power by delegating authority. It does not directly address federalism. It prioritizes national security. It does not directly address economic regulation. It does not directly address social inclusion.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 2,
+        "federalism": 0,
         "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0

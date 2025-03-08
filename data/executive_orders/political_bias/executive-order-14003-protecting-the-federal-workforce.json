@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": -1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 3,
+        "social_inclusion": 2
     },
-    "critique": "The document is an executive order focused on protecting and empowering the federal workforce, promoting union organizing and collective bargaining, and revoking previous executive orders that were seen as undermining the civil service. It also aims to ensure the right to collective bargaining and promote a $15/hour minimum wage for Federal employees.",
+    "critique": "This executive order aims to protect and empower the career federal workforce, encourage union organizing and collective bargaining, and promote a $15/hour minimum wage for Federal employees. It revokes several executive orders from 2018 and 2020 that were seen as undermining the civil service and limiting collective bargaining rights. The order also instructs agencies to negotiate over subjects related to collective bargaining. Overall, the document reflects a liberal stance on labor issues and the role of government in supporting workers' rights.",
     "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": -1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 3,
         "social_inclusion": 2

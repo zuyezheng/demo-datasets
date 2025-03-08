@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 1,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order amending a previous order to include Thailand under certain restrictions. It's a legal and administrative action with minimal explicit political bias. The order itself doesn't directly address ideological issues, immigration, executive power in a broad sense, federalism, security vs. liberty, economic regulation, or social inclusion. The inclusion of Thailand might be related to security concerns during World War II, but this is implicit rather than explicitly stated in the text.",
+    "critique": "This document is an executive order from Franklin D. Roosevelt amending Executive Order No. 8389. The amendment adds Thailand to a list, likely related to financial transactions or trade restrictions given the context of the 1917 Act and the original 1940 order. \n\nIdeological Tilt: The document itself doesn't express a clear ideological stance. It's an administrative action related to foreign policy during wartime. Score: 0\n\nImmigration Approach: This executive order doesn't directly deal with immigration. Score: 0\n\nExecutive Power: As an amendment to an existing executive order, it slightly expands the scope of executive action, but it's a minor adjustment. Score: 1\n\nFederalism: The order doesn't significantly impact the balance between state and federal power. Score: 0\n\nNational Security vs. Civil Liberties: Given the historical context (World War II), the order likely aims to bolster national security by controlling financial transactions with specific countries. This might indirectly affect civil liberties, but it's not the primary focus. Score: 1\n\nEconomic Regulation: The order likely imposes further economic regulations or restrictions on financial dealings with Thailand. Score: 2\n\nSocial Inclusion: The order doesn't directly address social inclusion issues. Score: 0\n\nRevised Scores:\nBased on the critique, the initial scores are reasonable. No significant changes are needed.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 1,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

@@ -1,19 +1,19 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document focuses on international cooperation and granting certain privileges and immunities to members and employees of the Mexican Section of the USMBHC. This suggests a leaning towards internationalism and cooperation, but it's primarily an administrative action with limited impact on the axes.",
-    "revised_scores": {
-        "ideological_tilt": 1,
         "immigration": 1,
         "executive_power": 1,
-        "federalism": 0,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 1
+    },
+    "critique": "This document designates the United States-Mexico Border Health Commission (USMBHC) as a public international organization, extending certain privileges and immunities to its members and employees. It does not obviously lean left or right (Ideological Tilt). It has a slightly positive impact on immigration, as it facilitates cross-border health initiatives (Immigration Approach). It could be argued to expand executive power slightly, as it's a unilateral designation by the President (Executive Power). It promotes federalism by working with Mexico on border health issues (Federalism). It has a neutral impact on national security vs. civil liberties (National Security vs. Civil Liberties). It has a neutral impact on economic regulation (Economic Regulation). It promotes social inclusion by addressing health issues in the border region (Social Inclusion).",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 1,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 1

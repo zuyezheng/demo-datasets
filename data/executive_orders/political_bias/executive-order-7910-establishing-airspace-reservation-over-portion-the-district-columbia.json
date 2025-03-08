@@ -4,18 +4,18 @@
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document establishes an airspace reservation for national defense and public safety purposes, restricting civil aircraft operation. This suggests a prioritization of security and governmental control over individual liberties and economic freedom.",
+    "critique": "This document establishes an airspace reservation over Washington D.C. for national defense, governmental purposes, and public safety. It restricts civil aircraft operation without special permission from the Secretary of Commerce. Here's a breakdown of the political bias scores:\n\n1. Ideological Tilt: 0. This is a security measure, not inherently liberal or conservative.\n2. Immigration Approach: 0. The document doesn't address immigration.\n3. Executive Power: 0. While it's an executive order, it's based on existing legislation (Air Commerce Act of 1926) and doesn't drastically expand executive power beyond the scope of that act. It seems a reasonable measure for national defense.\n4. Federalism: 0. The order is specific to the District of Columbia, a federal territory, so it doesn't significantly shift the balance between state and federal power.\n5. National Security vs. Civil Liberties: 3. The document prioritizes national security and public safety by restricting airspace, potentially limiting civil liberties related to air travel.\n6. Economic Regulation: 0. The document doesn't directly regulate the economy.\n7. Social Inclusion: 0. The document doesn't address social inclusion or diversity.\n\nRevised Scores:\nAfter further consideration, the initial scores seem appropriate. The document is primarily focused on national security and air traffic control within a specific area. The executive power aspect is moderate, as it's based on existing legislation.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 3,
-        "security_liberty": 4,
-        "economic_regulation": 1,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 3,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

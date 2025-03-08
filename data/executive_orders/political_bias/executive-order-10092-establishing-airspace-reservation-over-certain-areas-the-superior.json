@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 2,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document establishes an airspace reservation over specific areas within the Superior National Forest in Minnesota. It restricts air navigation below 4,000 feet, except for emergencies, safety, official business, rescue operations, and travel to private lands under certain conditions. The order aims to preserve the wilderness character of these roadless areas by limiting air traffic.",
-    "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": 0,
-        "executive_power": 2,
-        "federalism": 4,
-        "security_liberty": 1,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 0,
         "economic_regulation": 1,
-        "social_inclusion": 0
+        "social_inclusion": -1
+    },
+    "critique": "This document establishes an airspace reservation over specific areas within the Superior National Forest in Minnesota. It restricts air travel below 4,000 feet, with exceptions for emergencies, safety, official business, and rescue operations. It also allows travel to private lands until 1942 if air travel was customary. The Secretary of Agriculture is authorized to prescribe regulations, and violations are subject to penalties under the Civil Aeronautics Act of 1938. The document appears to prioritize environmental conservation and potentially the preservation of the wilderness character of the specified areas. There's a balance between restricting air travel and allowing necessary exceptions. It's difficult to assess a strong ideological tilt based on this document alone. It doesn't directly address immigration, executive power, federalism, national security vs. civil liberties, economic regulation, or social inclusion in an obvious way. The document seems to expand federal control over airspace, which could be seen as a slight increase in federal power. The restrictions on air travel could be seen as a form of environmental regulation, but it's not a strong intervention. Given the focus on preserving wilderness, there might be a slight leaning towards conformity in the sense of preserving a specific type of environment.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": -1
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 2,
+        "social_inclusion": 2
     },
-    "critique": "The document pertains to the delegation of presidential authority regarding foreign assistance programs. It doesn't directly address topics like immigration, civil liberties, or economic regulation. Therefore, many of the axes will be neutral. The focus is on executive power and federalism (in the context of international relations).",
+    "critique": "This document is an executive order from 1948 that delegates authority to the Secretary of State regarding the International Children's Emergency Fund Assistance Act and the Greek-Turkish Assistance Act. It primarily concerns the internal management of the government and the administration of foreign assistance programs. There is little to suggest a strong ideological tilt, as the focus is on implementing existing legislation. The document does not directly address immigration. It delegates executive power rather than expanding it significantly. It doesn't obviously shift the balance of power between state and federal entities. It does not directly address national security vs. civil liberties. It involves government intervention in foreign assistance, but not domestic economic regulation. It does not directly address social inclusion, but the mention of the International Children's Emergency Fund suggests a positive, inclusive intent.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 2,
+        "social_inclusion": 2
     }
 }

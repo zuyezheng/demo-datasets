@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 2,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document centralizes veterans' affairs under a single federal administration, expanding executive power to reorganize functions. It doesn't directly address social issues or economic regulation but implies a federal approach to veteran benefits.",
+    "critique": "This executive order consolidates veterans' affairs under a single administration. This could be seen as slightly liberal in the sense that it centralizes social welfare programs. There is no mention of immigration, civil liberties, or economic regulation. It expands executive power by consolidating agencies under the President's direction. It centralizes power at the federal level. There is no mention of social inclusion.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 4,
+        "executive_power": 2,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

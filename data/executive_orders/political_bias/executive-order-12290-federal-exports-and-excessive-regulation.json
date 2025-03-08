@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -2,
         "social_inclusion": 0
     },
-    "critique": "The document revokes an executive order related to export regulations, specifically aiming to minimize regulatory burden in implementing the Export Administration Act. This suggests a move towards deregulation.",
+    "critique": "The document revokes an executive order related to export regulations, specifically concerning banned or restricted substances. This action suggests a move towards deregulation and potentially less government intervention in trade. There is no information related to immigration, executive power, federalism, national security vs. civil liberties, or social inclusion. The ideological tilt is slightly conservative as deregulation is generally a conservative economic policy.",
     "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -3,
+        "economic_regulation": -2,
         "social_inclusion": 0
     }
 }

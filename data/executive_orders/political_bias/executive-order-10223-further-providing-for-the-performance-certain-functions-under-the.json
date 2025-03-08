@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 1,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document expands the power of the Atomic Energy Commission under the Defense Production Act, potentially centralizing authority and impacting economic regulation.",
+    "critique": "This executive order designates the Atomic Energy Commission as an additional guaranteeing agency under the Defense Production Act of 1950. It primarily concerns economic regulation and executive power. There is a slight tilt towards national security due to the nature of the Atomic Energy Commission. It does not directly address immigration, federalism, civil liberties, or social inclusion. Therefore, these aspects are considered neutral. The order expands executive power by designating a new agency under the Defense Production Act.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 0,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 1,
         "economic_regulation": 2,
         "social_inclusion": 0
     }

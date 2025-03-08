@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 3,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document describes the President withdrawing public land for the Navy's use as an aircraft bombing site. It prioritizes national defense during a national-defense emergency. After the emergency, the land can be used for reclamation purposes.",
+    "critique": "This executive order withdraws public land for use as a Navy aircraft bombing site. It does not directly address ideological issues, immigration, or social inclusion. It expands executive power by reserving land for military use. It centralizes control at the federal level. It prioritizes national security during a national defense emergency. It could be seen as interventionist in land use but is primarily for military purposes. Therefore:\n\nIdeological Tilt: 0 (Neutral)\nImmigration Approach: 0 (Neutral)\nExecutive Power: 3 (Expands Executive Authority)\nFederalism: 3 (Strong Federal Control)\nNational Security vs. Civil Liberties: 3 (Heavy National Security Focus)\nEconomic Regulation: 1 (Moderate Government Intervention)\nSocial Inclusion: 0 (Neutral)",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 3,
-        "security_liberty": 4,
-        "economic_regulation": 0,
+        "security_liberty": 3,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

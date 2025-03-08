@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a committee to advise the President on quantum information science. It aims to ensure American leadership in this field. There is no immediately obvious bias.",
+    "critique": "This document establishes a committee to advise the President on quantum information science. It doesn't directly address issues of ideological tilt, immigration, executive power, federalism, national security vs. civil liberties, economic regulation, or social inclusion. Therefore, most scores should be neutral. The establishment of a committee could be seen as a slight expansion of executive power, but it's primarily for advisory purposes.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

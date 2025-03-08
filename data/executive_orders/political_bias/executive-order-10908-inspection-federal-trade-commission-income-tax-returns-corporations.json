@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The executive order pertains to the inspection of corporate income tax returns by the Federal Trade Commission. It does not directly address ideological issues, immigration, or social inclusion. The order focuses on economic regulation by granting the FTC powers to inspect corporate tax returns, and it touches on executive power and federalism by authorizing this inspection through an executive order and referencing the Internal Revenue Code. The order does not directly impact security or liberty.",
-    "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 2,
+        "social_inclusion": 0
+    },
+    "critique": "The document pertains to an executive order regarding the inspection of corporate income tax returns by the Federal Trade Commission. It seems primarily focused on economic regulation and executive power. There's no direct mention of immigration, civil liberties, or social inclusion. The order facilitates the FTC's powers, suggesting a move towards government intervention in the economy. The executive order itself doesn't inherently expand executive power, but the decision to allow the FTC access to tax returns does. Federalism isn't directly addressed, as it's a federal agency accessing federal tax returns. Ideologically, it's hard to place on a left-right spectrum without more context, but the increased regulatory oversight could be seen as leaning slightly liberal.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 2,
         "social_inclusion": 0

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document strongly emphasizes states' rights and limited federal government intervention, reflecting a conservative viewpoint. It aims to decentralize power and reduce federal regulation.",
-    "revised_scores": {
-        "ideological_tilt": -3,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": -2,
         "federalism": -4,
-        "security_liberty": -1,
-        "economic_regulation": -3,
-        "social_inclusion": -1
+        "security_liberty": 0,
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order emphasizes federalism, aiming to restore the balance between the national government and the states. It generally promotes decentralization and limits federal intervention in state affairs. It doesn't directly address immigration, national security, economic regulation, or social inclusion. It also doesn't seem to expand executive power, but rather constrains it by emphasizing adherence to constitutional principles and limiting federal action that would limit state policy-making discretion. Therefore, the ideological tilt is slightly conservative due to the emphasis on limited government and state autonomy.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": -2,
+        "federalism": -4,
+        "security_liberty": 0,
+        "economic_regulation": -1,
+        "social_inclusion": 0
     }
 }

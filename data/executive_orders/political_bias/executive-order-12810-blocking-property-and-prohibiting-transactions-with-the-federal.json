@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order imposing sanctions on the Federal Republic of Yugoslavia (Serbia and Montenegro) in 1992. It blocks assets, prohibits trade and financial transactions, and restricts air travel. The order aims to pressure the Yugoslav government due to actions and policies that led to a national emergency. There is no explicit discussion of immigration, civil liberties, or social issues within the document. The order expands executive power in foreign policy and national security.",
-    "revised_scores": {
-        "ideological_tilt": 0,
-        "immigration": -3,
+        "immigration": -1,
         "executive_power": 3,
-        "federalism": 2,
+        "federalism": 0,
         "security_liberty": 3,
         "economic_regulation": 3,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order, issued by George Bush in 1992, imposes economic sanctions on the Federal Republic of Yugoslavia (Serbia and Montenegro) due to actions and policies that led to a national emergency. It blocks property, prohibits imports/exports, restricts financial transactions, and limits transportation and cultural exchanges. The order aims to pressure the Yugoslav government through economic means.\n\n1.  Ideological Tilt: The order itself doesn't directly reflect a liberal or conservative ideology. It's a foreign policy decision based on national security and international relations. Therefore, it is scored as neutral.\n2.  Immigration Approach: The order restricts travel and exchange programs, which indirectly affects immigration. However, it's not a primary focus. Therefore, it is scored as slightly restrictive.\n3.  Executive Power: The order expands executive power by invoking the International Emergency Economic Powers Act and other laws, allowing the President to impose broad economic restrictions. Therefore, it is scored as expanding executive authority.\n4.  Federalism: The order doesn't directly impact federalism. It's a foreign policy matter handled at the federal level, which is typical. Therefore, it is scored as neutral.\n5.  National Security vs. Civil Liberties: The order prioritizes national security and foreign policy objectives over civil liberties by restricting economic and cultural exchanges. Therefore, it is scored as prioritizing national security.\n6.  Economic Regulation: The order imposes significant economic regulations and restrictions on trade and financial transactions with Yugoslavia. Therefore, it is scored as heavy government intervention.\n7.  Social Inclusion: The order doesn't directly address social inclusion within the United States. Its impact on social inclusion is indirect, by limiting cultural exchanges. Therefore, it is scored as neutral.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": -1,
+        "executive_power": 3,
+        "federalism": 0,
+        "security_liberty": 3,
+        "economic_regulation": 4,
         "social_inclusion": 0
     }
 }

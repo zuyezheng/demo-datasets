@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "This document focuses on national security and law enforcement powers, specifically regarding the export of arms and munitions. It expands the authority of the Attorney General and the Department of Justice to seize and detain items and vehicles involved in illegal exports. There is no discussion of social issues, economic regulation, or federalism. The document leans towards prioritizing security over individual liberties in the context of international trade and national defense.",
+    "critique": "This document focuses on authorizing the Attorney General to seize and detain arms or munitions being illegally exported from the United States. It touches on national security and law enforcement powers. There's no clear indication of ideological tilt, immigration approach, or economic regulation. The federalism aspect is neutral as it's a federal law being enforced. It does expand executive power slightly by designating the Attorney General with this authority.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 4,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": 1,
-        "immigration": 1,
-        "executive_power": 3,
+        "immigration": 0,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 1,
+        "economic_regulation": -1,
         "social_inclusion": 1
     },
-    "critique": "The document is an executive order implementing the Generalized System of Preferences (GSP) under the Trade Act of 1974. It designates beneficiary developing countries and eligible articles for duty-free treatment. It amends the Tariff Schedules of the United States (TSUS) to reflect these changes. The order aims to promote economic development in developing countries by providing preferential trade access to the U.S. market.",
+    "critique": "This executive order implements the Generalized System of Preferences (GSP) as authorized by the Trade Act of 1974. It designates beneficiary developing countries and eligible articles for duty-free treatment.\n\n*   **Ideological Tilt:** The GSP aims to promote economic development in developing countries through trade preferences. This aligns with a liberal approach to international relations and development, but it's primarily an economic policy rather than a social or cultural one. Therefore, a slightly liberal score is appropriate.\n*   **Immigration Approach:** The order doesn't directly address immigration, but by fostering economic growth in developing countries, it could indirectly reduce economic pressures that drive migration. However, this is a secondary effect, so the score should be neutral.\n*   **Executive Power:** The order implements existing legislation (the Trade Act of 1974) and doesn't significantly expand or restrict executive power. The President is acting within the authority granted by Congress. Therefore, a neutral score is appropriate.\n*   **Federalism:** The order doesn't have a significant impact on federalism. Trade policy is generally a federal matter, so the order doesn't shift power between the federal government and the states. Therefore, a neutral score is appropriate.\n*   **National Security vs. Civil Liberties:** The order doesn't directly address national security or civil liberties. It's primarily focused on trade and economic development. Therefore, a neutral score is appropriate.\n*   **Economic Regulation:** The order reduces tariffs on imports from developing countries, which aligns with deregulation and free trade principles. Therefore, a slightly deregulatory score is appropriate.\n*   **Social Inclusion:** By promoting economic development in developing countries, the order could indirectly support social inclusion by improving living standards and opportunities for marginalized groups in those countries. However, this is a secondary effect, so the score should be slightly positive.\n\nRevised Scores:\nBased on the above critique, the initial scores are reasonable and don't require significant revision.",
     "revised_scores": {
         "ideological_tilt": 1,
-        "immigration": 1,
-        "executive_power": 3,
+        "immigration": 0,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": -1,
         "social_inclusion": 1
     }
 }

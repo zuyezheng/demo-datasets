@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document suspends the Eight-Hour Act for national defense purposes during wartime, expanding executive power and potentially impacting workers' rights.",
-    "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 1,
+        "federalism": 2,
         "security_liberty": 3,
         "economic_regulation": -2,
-        "social_inclusion": 0
+        "social_inclusion": -1
+    },
+    "critique": "This executive order suspends the Eight-Hour Act for workers engaged in military construction during World War I. Here's an analysis of its political bias:  1. Ideological Tilt: Slightly conservative due to prioritizing national defense and potentially worker exploitation over labor rights. Score: -1  2. Immigration Approach: Not relevant to this document. Score: 0  3. Executive Power: Expands executive power by suspending existing labor laws during an emergency. Score: +3  4. Federalism: Leans towards federal primacy as it's a federal order impacting labor standards. Score: +2  5. National Security vs. Civil Liberties: Prioritizes national security by allowing longer working hours for defense purposes, potentially at the expense of worker well-being. Score: +3  6. Economic Regulation: Moves away from regulation (the Eight-Hour Act) towards deregulation during the emergency. Score: -2  7. Social Inclusion: Not directly relevant, but potentially negatively impacts worker well-being. Score: -1  Revised scores after critique:  Upon further consideration, the expansion of executive power is significant given the context of wartime. The prioritization of national security is also a key aspect. The impact on economic regulation is also more pronounced than initially assessed. The ideological tilt is more moderate than initially assessed. The impact on social inclusion is minimal. Therefore, the revised scores are as follows:",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 4,
+        "federalism": 2,
+        "security_liberty": 4,
+        "economic_regulation": -3,
+        "social_inclusion": -1
     }
 }

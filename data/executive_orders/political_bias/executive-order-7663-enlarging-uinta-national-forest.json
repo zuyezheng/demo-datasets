@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 5,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to the extension of the Uinta National Forest boundaries in Utah. It is a legal order describing specific land coordinates and acreage. There is no apparent political bias or sentiment expressed in the document, as it is purely administrative in nature.",
+    "critique": "This document pertains to the expansion of the Uinta National Forest in Utah in 1937. It's a land management decision, transferring land into a national forest. This has implications for economic regulation (resource use), federalism (federal control over state land), and potentially social inclusion (access to resources). It does not directly address immigration, executive power, or national security vs. civil liberties. The ideological tilt is slightly conservative, as it favors resource management and conservation, which aligns with some conservative values, but it's not a strong indicator. The expansion of federal land increases federal control, so federalism is positively impacted. Economic regulation is also positively impacted as the federal government will now regulate the land. Social inclusion is neutral as the document doesn't explicitly address diversity or conformity.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 5,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

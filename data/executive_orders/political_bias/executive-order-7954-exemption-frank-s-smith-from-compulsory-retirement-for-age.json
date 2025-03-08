@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order to exempt a special agent of the FBI from mandatory retirement. It touches on executive power and security, but doesn't directly address other factors.",
+    "critique": "This is an executive order from 1938 regarding the exemption of a special agent from compulsory retirement. It is difficult to assess its ideological tilt as it pertains to a specific personnel matter. There is no mention of immigration, federalism, economic regulation, or social inclusion. It could be argued that it slightly expands executive power by allowing the president to make exceptions to retirement rules, and it leans slightly towards national security by retaining an experienced FBI agent.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0

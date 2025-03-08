@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1940 allowing Baird Snyder, III to be appointed as Deputy Administrator in the Wage and Hour Division of the Department of Labor without adhering to Civil Service Rules. This suggests a potential expansion of executive power, but it's also a specific case. Given the historical context (1940), the economic regulation aspect is relevant due to the Wage and Hour Division's role.",
+    "critique": "The document is an executive order from 1940 allowing Baird Snyder, III to be appointed to a position in the Department of Labor without following Civil Service Rules. This seems like a fairly neutral action, with limited implications for the axes. It could be argued that it slightly expands executive power by circumventing standard hiring procedures, but it's a minor effect. There's no clear indication of ideological tilt, immigration stance, federalism implications, security vs. liberty concerns, economic regulation changes, or social inclusion considerations. The order is specific to one individual and one position.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 1,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

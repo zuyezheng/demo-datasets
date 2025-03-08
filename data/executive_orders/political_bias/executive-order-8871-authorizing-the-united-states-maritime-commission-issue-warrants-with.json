@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 3,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on national defense and the role of the President in authorizing the Maritime Commission to issue warrants for vessels to ensure the delivery of essential materials. There is a strong emphasis on national security and executive power.",
+    "critique": "This document is an executive order from 1941 authorizing the United States Maritime Commission to issue warrants related to vessels for national defense purposes. Given the context of World War II, several axes are impacted. Ideologically, it's a moderate action (+1) as it reflects a pragmatic approach to national defense during wartime, not fitting neatly into a left-right spectrum. Immigration is not directly addressed (0). Executive power is somewhat expanded (+2) as the President authorizes an agency to act, but it's within the bounds of existing law. Federalism is neutral (0) as it doesn't significantly shift power between state and federal entities. National security is prioritized (+3) due to the wartime context, potentially impacting civil liberties indirectly. Economic regulation is moderately increased (+2) as the government intervenes to ensure the delivery of essential materials. Social inclusion is neutral (0) as the document doesn't address social issues.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 1,
+        "executive_power": 2,
+        "federalism": 0,
         "security_liberty": 3,
         "economic_regulation": 2,
         "social_inclusion": 0

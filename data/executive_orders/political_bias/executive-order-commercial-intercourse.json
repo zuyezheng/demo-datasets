@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 1,
+        "economic_regulation": 2,
+        "social_inclusion": 1
     },
-    "critique": "The document aims to restore commercial intercourse, which suggests a move towards unity and economic recovery after a period of insurrection. It delegates the specifics to the Secretary of the Treasury, indicating a balance between executive action and bureaucratic implementation. The focus is on inland waters and ways, suggesting a limited scope and cautious approach to reintegration.",
+    "critique": "This document appears to be an executive order from the Civil War era, specifically dealing with the restoration of commercial intercourse between the Union states and those in insurrection. Given the context, several axes can be evaluated. Ideologically, it's difficult to place on a left-right spectrum as it deals with wartime commerce, but it leans slightly towards unity, so I will give it a 1. Immigration is not relevant here, so it will be 0. Executive power is being exercised, but within the bounds of an act of Congress, so it's a moderate expansion, giving it a 2. Federalism is strengthened as the federal government is directing commerce, so it gets a 3. National security is a key concern during wartime, but this order seems more focused on commerce than security, so I will give it a 1. Economic regulation is present as the order licenses and permits commercial intercourse, indicating some level of government control, so it gets a 2. Social inclusion isn't directly addressed, but the order aims to reintegrate states, so I will give it a 1.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
-        "security_liberty": 0,
-        "economic_regulation": 1,
-        "social_inclusion": 0
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 1,
+        "economic_regulation": 2,
+        "social_inclusion": 1
     }
 }

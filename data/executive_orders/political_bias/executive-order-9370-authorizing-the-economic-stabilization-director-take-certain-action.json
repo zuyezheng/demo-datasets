@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document expands executive power and federal control during wartime, potentially limiting individual liberties and promoting government intervention in the economy.",
-    "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": 0,
-        "executive_power": 4,
+        "executive_power": 3,
         "federalism": 3,
         "security_liberty": 2,
         "economic_regulation": 3,
+        "social_inclusion": 0
+    },
+    "critique": "This document is an executive order from 1943 related to the National War Labor Board. It aims to enforce compliance with the Board's directives during wartime. Ideologically, it's difficult to place on a left-right spectrum as it's focused on war efforts. Immigration is not addressed. It expands executive power by authorizing the Director of Economic Stabilization to issue directives. It centralizes power at the federal level. It prioritizes national security and war prosecution, potentially limiting individual liberties. It involves government intervention in the economy to ensure compliance. It doesn't directly address social inclusion but could be seen as promoting conformity to war efforts.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 4,
+        "federalism": 4,
+        "security_liberty": 3,
+        "economic_regulation": 4,
         "social_inclusion": 0
     }
 }

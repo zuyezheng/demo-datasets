@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 3,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "This document is a legal order related to land use for military purposes. It does not contain substantial political content, but some bias can be inferred based on the expansion of executive power and prioritization of security.",
+    "critique": "This executive order from 1942 concerns the reservation and modification of public land in Nevada for use by the War Department as aerial bombing and gunnery ranges. It revokes and modifies a previous executive order (No. 8578) and withdraws land from public use, including mining and grazing, for military purposes. The order also includes provisions for coordinating with the Department of the Interior regarding wildlife and grazing management and states the land will be returned to the Department of Interior when no longer needed. Given the historical context (World War II), the order prioritizes national security. There's no indication of ideological tilt, immigration concerns, or social inclusion issues. The order expands executive power to some extent by reserving land for military use, but it also includes provisions for coordination with other departments and eventual return of the land. It centralizes control over land use at the federal level. There is a moderate impact on economic regulation by restricting mining and grazing.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 2,
-        "federalism": 1,
+        "federalism": 3,
         "security_liberty": 3,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

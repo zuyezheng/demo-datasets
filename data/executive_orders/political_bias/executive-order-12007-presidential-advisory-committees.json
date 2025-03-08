@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": -1,
+        "social_inclusion": -1
     },
-    "critique": "The document terminates several presidential advisory committees. This could be interpreted as a move to consolidate power within the executive branch by reducing external advisory input, or as an effort to streamline government and reduce unnecessary bureaucracy. Without additional context, it's difficult to definitively assess the ideological implications. However, the termination of the Citizens' Advisory Council on the Status of Women and the Advisory Council for Minority Enterprise might be viewed as a move away from social inclusion and diversity initiatives.",
+    "critique": "This document terminates several presidential advisory committees. It's difficult to assign a strong ideological tilt without knowing the specific agendas of these committees, but terminating them could be seen as a move towards deregulation or reducing government intervention. The committees focus on women, environmental quality, minority enterprise, consumers, and international investment. Terminating the Citizens' Advisory Council on the Status of Women could be seen as a slight negative on social inclusion. Terminating the Citizens' Advisory Committee on Environmental Quality could be seen as a slight move away from environmental regulation. Terminating the Advisory Council for Minority Enterprise could be seen as a slight negative on social inclusion. Terminating the Consumer Advisory Council could be seen as a move towards deregulation. Terminating the President's Advisory Board on International Investment could be seen as a move towards deregulation. Overall, the document seems to be streamlining government and reducing the number of advisory bodies. This could be interpreted as a move towards less government intervention and potentially a slight shift away from social inclusion initiatives, though the impact is likely minimal. It's difficult to assess the impact on executive power or federalism without more context. It does not appear to impact immigration or national security/civil liberties.",
     "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": -1,
-        "social_inclusion": -2
+        "social_inclusion": -1
     }
 }

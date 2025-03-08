@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order by George W. Bush concerning the Development Fund for Iraq, Iraqi petroleum and petroleum products, and interests therein. It aims to protect these assets from attachment or other judicial processes, declaring a national emergency to deal with the threat to national security and foreign policy. The order prohibits any judicial process against the specified assets and authorizes the Secretary of the Treasury to take necessary actions to carry out the order's purposes.",
+    "critique": "This executive order, issued by George W. Bush in 2003, aims to protect Iraqi assets, specifically the Development Fund for Iraq and Iraqi petroleum, from legal challenges. It invokes national security and foreign policy concerns related to the reconstruction of Iraq. Here's a breakdown of the scores:\n\n*   **Ideological Tilt:** (0) The order itself doesn't directly reflect a liberal or conservative ideology. It's more about protecting assets during a specific geopolitical situation.\n*   **Immigration Approach:** (0) The order has no bearing on immigration policies.\n*   **Executive Power:** (+2) The order expands executive power by invoking IEEPA and declaring a national emergency to protect Iraqi assets. This allows the President to bypass normal legal processes.\n*   **Federalism:** (0) The order doesn't significantly shift power between the federal government and the states.\n*   **National Security vs. Civil Liberties:** (+1) The order prioritizes national security and foreign policy interests by shielding Iraqi assets from legal processes, potentially limiting the rights of those who might have legitimate claims against those assets.\n*   **Economic Regulation:** (0) The order doesn't directly regulate the economy in a traditional sense. It's more about protecting specific assets from legal challenges.\n*   **Social Inclusion:** (0) The order has no impact on social inclusion.\n\nRevised Scores:\n\n*   Ideological Tilt: 0\n*   Immigration Approach: 0\n*   Executive Power: +2\n*   Federalism: 0\n*   National Security vs. Civil Liberties: +1\n*   Economic Regulation: 0\n*   Social Inclusion: 0",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 2,
-        "economic_regulation": 1,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

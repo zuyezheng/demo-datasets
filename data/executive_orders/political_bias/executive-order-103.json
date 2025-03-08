@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on the resumption of postal services in occupied territories, emphasizing military control and the use of US postage stamps. There is a slight emphasis on federal control and security due to the military oversight.",
+    "critique": "This document primarily concerns the resumption of postal services in occupied territories during wartime. It doesn't directly address ideological issues, immigration, or civil liberties. The focus is on practical administration under military supervision. Therefore, most axes should be near zero. There's a slight increase in executive power due to the order being issued during wartime, and a slight increase in federalism as the US postal service is being implemented in these territories. There is no impact on economic regulation or social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 2,
-        "security_liberty": 2,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

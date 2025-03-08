@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order that excludes certain subdivisions of the National Preparedness Directorate of the Federal Emergency Management Agency from the provisions of chapter 71 of title 5 of the United States Code. This suggests a prioritization of national security considerations over certain labor protections for employees in those subdivisions.",
+    "critique": "This executive order excludes certain subdivisions of the National Preparedness Directorate of the Federal Emergency Management Agency from the provisions of chapter 71 of title 5 of the United States Code. This chapter deals with labor-management relations in the federal service. The stated reason for the exclusion is national security requirements and considerations. This suggests a prioritization of national security over certain labor rights within these specific subdivisions. The order itself doesn't directly address immigration, economic regulation, or social inclusion. It centralizes authority by exempting these subdivisions from certain regulations, potentially expanding executive power in a limited scope. The ideological tilt is difficult to assess directly, but the emphasis on national security could be seen as leaning slightly conservative.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 1,
         "federalism": 1,
-        "security_liberty": 3,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

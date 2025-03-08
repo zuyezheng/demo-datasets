@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "ideological_tilt": 1,
+        "immigration": -2,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 1
     },
-    "critique": "The document focuses on combating anti-Semitism, particularly on college campuses, following the October 7, 2023, Hamas attacks. It directs executive departments and agencies to identify and utilize their authorities to curb anti-Semitism, including reviewing pending complaints and court cases. It also encourages the Attorney General to employ civil rights enforcement authorities and the Secretary of Education to review Title VI complaints related to anti-Semitism. Additionally, it includes recommendations for familiarizing institutions of higher education with grounds for inadmissibility under 8 U.S.C. 1182(a)(3) to monitor and report activities by alien students and staff relevant to those grounds.",
+    "critique": "Let's analyze the provided executive order. \n\nIdeological Tilt: The order aims to combat anti-Semitism, which is generally viewed as a positive goal across the political spectrum. However, the focus on protecting Jewish students and the reference to the Hamas attacks might be seen as aligning with a more conservative viewpoint that is supportive of Israel. I'll give it a +1.\n\nImmigration Approach: Section 3(e) mentions familiarizing institutions with grounds for inadmissibility under 8 U.S.C. 1182(a)(3) and monitoring/reporting activities by alien students and staff. This leans towards a more restrictive immigration approach. I'll give it a -2.\n\nExecutive Power: The order directs agencies to submit reports and take actions to combat anti-Semitism. While it doesn't drastically expand executive power, it does exert influence and direction over various departments. I'll give it a +1.\n\nFederalism: The order directs federal agencies to take action, suggesting a stronger federal role in addressing anti-Semitism on campuses. This indicates a move towards federal control. I'll give it a +2.\n\nNational Security vs. Civil Liberties: The order focuses on combating anti-Semitism, which can be seen as protecting civil rights. However, the mention of monitoring alien students and staff could raise concerns about potential infringements on civil liberties. I'll give it a 0.\n\nEconomic Regulation: The order doesn't directly address economic regulation. I'll give it a 0.\n\nSocial Inclusion: The order aims to protect Jewish students from discrimination, which promotes social inclusion. However, the focus on a specific group might be seen as less broad than a general diversity initiative. I'll give it a +1.\n\nRevised Scores:\n\nIdeological Tilt: +1 (No change)\nImmigration Approach: -2 (No change)\nExecutive Power: +1 (No change)\nFederalism: +2 (No change)\nNational Security vs. Civil Liberties: 0 (No change)\nEconomic Regulation: 0 (No change)\nSocial Inclusion: +1 (No change)",
     "revised_scores": {
         "ideological_tilt": 1,
-        "immigration": -1,
-        "executive_power": 2,
-        "federalism": 1,
-        "security_liberty": 2,
+        "immigration": -2,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 2
+        "social_inclusion": 1
     }
 }

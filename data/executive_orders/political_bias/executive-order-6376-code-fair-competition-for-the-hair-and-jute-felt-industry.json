@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document describes President Roosevelt's approval of a Code of Fair Competition for the Hair and Jute Felt Industry, pursuant to the National Industrial Recovery Act of 1933. This act was a key component of the New Deal, representing a significant expansion of the federal government's role in the economy through regulation and intervention. The code itself aimed to establish fair competition within the industry, suggesting a move towards standardization and government oversight.",
-    "revised_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 4,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 4,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an approval of a Code of Fair Competition for the Hair and Jute Felt Industry under the National Industrial Recovery Act. This act was part of Franklin D. Roosevelt's New Deal program during the Great Depression. The document itself doesn't express a strong ideological tilt but is related to economic intervention. Immigration is not addressed. Executive power is expanded as the president approves the code. Federalism is expanded as the federal government is creating industry codes. National security vs. civil liberties is not addressed. Social inclusion is not addressed.",
+    "revised_scores": {
+        "ideological_tilt": 2,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 4,
         "social_inclusion": 0

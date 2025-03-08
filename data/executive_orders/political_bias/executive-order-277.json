@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 2,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an order to expend funds to transport destitute US citizens from Panama to the US. The initial scores reflect a moderate approach to most issues, with a slight lean towards security due to the context of protecting US interests. The revised scores adjust to reflect the document's specific actions: a slight increase in executive power due to the President's direct action, a focus on security by prioritizing the safety of US citizens abroad, and a neutral stance on other issues as they are not directly addressed.",
+    "critique": "This document is an executive order from 1906 regarding the use of funds to transport unemployed US citizens from Panama back to the United States. It is difficult to assess its ideological tilt without more context, but it seems to be a pragmatic response to a specific situation. Immigration is not directly addressed, but the order facilitates the return of US citizens. Executive power is somewhat expanded as the President is given discretion in how to use the funds. Federalism is not a major factor, but the order implies federal responsibility for citizens abroad. National security vs. civil liberties is not directly relevant. Economic regulation is minimal, but the order does involve government spending. Social inclusion is not a primary concern, but the order benefits a specific group of citizens.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 2,
-        "economic_regulation": 0,
+        "security_liberty": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

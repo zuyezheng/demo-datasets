@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on trade agreements and preferential treatment for least-developed countries, with specific modifications to tariff schedules. There is a slight tilt towards expanding executive power through trade agreements.",
+    "critique": "This document is an executive order regarding trade preferences for developing countries under the Generalized System of Preferences (GSP). It designates certain countries as \"least-developed beneficiary developing countries\" and modifies tariff schedules accordingly. It does not directly address immigration, civil liberties, or social inclusion. The order seems to be primarily focused on economic policy and trade regulation.",
     "revised_scores": {
         "ideological_tilt": 0,
-        "immigration": 1,
-        "executive_power": 2,
+        "immigration": 0,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 1,
-        "social_inclusion": 1
+        "social_inclusion": 0
     }
 }

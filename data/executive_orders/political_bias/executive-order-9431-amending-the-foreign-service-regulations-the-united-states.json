@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document primarily concerns internal administrative matters related to Foreign Service officers and their duties. There is minimal to no discussion of broader political issues, ideological stances, or social concerns. Therefore, assessing its political bias requires focusing on the limited aspects related to executive power and potential economic regulation through administrative control.",
+    "critique": "This document pertains to the internal administration of the Foreign Service, specifically regarding the place of residence and office hours of diplomatic and consular officers. It delegates authority to the Secretary of State to prescribe regulations in these areas. There is no clear indication of ideological bias, immigration stance, or impact on civil liberties. The document seems neutral with respect to federalism, economic regulation, and social inclusion. It does grant more power to the Secretary of State, which could be interpreted as a slight expansion of executive power, but it's primarily administrative.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

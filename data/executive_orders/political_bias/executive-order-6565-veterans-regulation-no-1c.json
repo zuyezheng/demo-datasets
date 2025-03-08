@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "This document establishes pension entitlements for veterans and their survivors, outlining specific disability ratings and corresponding monthly pension amounts. It also addresses pension rates for surviving widows and veterans of specific wars. The document appears to expand government intervention in providing social welfare and support for veterans.",
-    "revised_scores": {
-        "ideological_tilt": 2,
-        "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 2,
         "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    },
+    "critique": "This document adjusts pension amounts for veterans and their survivors, specifying amounts based on disability ratings and service history. It appears to be an executive order amending existing regulations. Ideologically, it leans slightly liberal due to increased social welfare spending, but it's primarily a technical adjustment. Immigration is not addressed. Executive power is moderately expanded as it's an executive order making changes to existing regulations. Federalism is strengthened as it standardizes veteran benefits at the federal level. National security vs. civil liberties is not directly addressed. Economic regulation is slightly interventionist as it sets specific pension amounts. Social inclusion is neutral.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 2,
+        "security_liberty": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

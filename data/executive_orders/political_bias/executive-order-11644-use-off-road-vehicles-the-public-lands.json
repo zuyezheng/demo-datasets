@@ -1,6 +1,6 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
@@ -8,14 +8,14 @@
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order by President Nixon regarding the use of off-road vehicles on public lands. It aims to regulate the use of these vehicles to protect resources, promote safety, and minimize conflicts. It directs agency heads to designate areas for vehicle use, considering environmental impact and other recreational uses. It also emphasizes public participation and information dissemination.",
+    "critique": "This executive order aims to regulate the use of off-road vehicles on public lands. It seeks to balance recreational use with environmental protection and minimize conflicts among different land uses. The order directs agency heads to develop regulations for designating areas where off-road vehicles are permitted and not permitted, considering factors like soil, watershed, wildlife, and other recreational activities. It also emphasizes public participation and information dissemination. The order does not seem to strongly favor any particular ideology. It promotes environmental protection, which could be seen as leaning slightly liberal, but it also allows for recreational use, which appeals to a broader spectrum. The order delegates authority to agency heads, suggesting a balance between federal and state control. It does not significantly expand executive power, as it directs agencies to develop regulations and consult with the public. It also doesn't directly address immigration, national security, economic regulation, or social inclusion. Therefore, the initial scores are as follows:\n\nIdeological Tilt: 1 (Slightly Liberal)\nImmigration Approach: 0 (Balanced/Selective)\nExecutive Power: 0 (Neutral/Balanced)\nFederalism: 0 (Cooperative Balance)\nNational Security vs. Civil Liberties: 0 (Balanced Approach)\nEconomic Regulation: 0 (Moderate Regulation)\nSocial Inclusion: 0 (Neutral)\n\nUpon further reflection, the order does centralize control at the federal level, directing federal agencies to regulate land use. While it doesn't drastically expand executive power, it does give agency heads considerable discretion in designating areas for off-road vehicle use. The emphasis on environmental protection is a clear indication of a slightly liberal stance. Therefore, the revised scores are as follows:",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 3,
-        "security_liberty": 3,
-        "economic_regulation": 2,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 0,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": -1,
-        "executive_power": 3,
+        "immigration": 0,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding trade restrictions on meat imports from Honduras. It reflects a protectionist stance aimed at safeguarding domestic agricultural interests. The order uses executive power to enforce a trade agreement, limiting imports based on a pre-negotiated quantity. There's no direct impact on civil liberties, social inclusion, or ideological tilt beyond trade policy.",
+    "critique": "This document is an executive order regarding trade restrictions on meat imports from Honduras in 1969. It's a fairly specific trade agreement enforcement, so most axes are close to neutral. The economic regulation axis leans slightly towards intervention due to the import restrictions.",
     "revised_scores": {
         "ideological_tilt": 0,
-        "immigration": -2,
-        "executive_power": 3,
+        "immigration": 0,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 4,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

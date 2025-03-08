@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 1,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on strengthening domestic manufacturing by ensuring that new technologies and products developed with federal funding are manufactured in the United States whenever feasible. It aims to support the competitiveness, domestic manufacturing capacity, and well-being of the United States economy, workers, communities, and national security. The order outlines various measures to achieve this, including considering domestic manufacturing in Federal R&D funding agreement solicitations, modernizing reporting of invention utilization, and securing critical and emerging technologies through domestic manufacturing.",
+    "critique": "This executive order focuses on promoting domestic manufacturing of technologies developed with federal funding. It aims to bolster the US economy, create jobs, and enhance national security by ensuring that inventions supported by taxpayer dollars are produced in the United States whenever feasible. The order emphasizes coordination among government agencies, consultation with stakeholders, and modernization of reporting requirements for invention utilization. It also addresses the waiver process for domestic manufacturing requirements, seeking to make it more rigorous, timely, and transparent. The order reflects a focus on economic nationalism and government intervention to support domestic industries. It doesn't directly address immigration, civil liberties, or social inclusion. The emphasis on domestic manufacturing and potential restrictions on waivers could be seen as protectionist. The focus on government coordination and standardization of reporting suggests a move towards federal control. The order doesn't explicitly expand executive power, but it does direct agencies to take specific actions to implement the policy. The emphasis on national security and economic competitiveness could be seen as prioritizing these over other considerations.",
     "revised_scores": {
         "ideological_tilt": 1,
-        "immigration": -1,
-        "executive_power": 2,
-        "federalism": 1,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 1,
         "economic_regulation": 3,
         "social_inclusion": 0

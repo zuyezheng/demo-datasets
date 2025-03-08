@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 1,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1941 focused on mobilizing the US economy for defense production during World War II. It establishes the Division of Contract Distribution within the Office of Production Management to facilitate defense contracts, convert civilian industries to defense production, and alleviate unemployment caused by material shortages. The order emphasizes utilizing existing plant facilities, promoting subcontracting, and diffusing defense contracts among smaller businesses. It also establishes advisory committees and branch offices to support these efforts.",
+    "critique": "This executive order, issued in 1941, focuses on mobilizing the US economy for defense production during World War II. It establishes a Division of Contract Distribution within the Office of Production Management to facilitate the conversion of civilian industries to defense production, alleviate unemployment, and distribute defense contracts more widely, especially among smaller businesses. The order emphasizes cooperation between various government agencies and the involvement of advisory committees representing small businesses and engineers. It does not directly address immigration, civil liberties, or social inclusion. The order expands executive power to manage the economy for defense purposes. It centralizes control at the federal level to coordinate defense production. It involves government intervention in the economy to direct resources towards defense. It does not directly address ideological tilt.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 5,
-        "security_liberty": 2,
+        "federalism": 3,
+        "security_liberty": 1,
         "economic_regulation": 4,
         "social_inclusion": 0
     }

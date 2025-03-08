@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order activating National Guard units for military service. It reflects a strong emphasis on national security and executive power during a time of international tension (pre-WWII).",
+    "critique": "This document is an executive order from 1940 ordering National Guard units into active military service. It is related to national security during a pre-war period. There's no direct indication of ideological tilt, immigration policy, or economic regulation. It does expand executive power to mobilize the National Guard. It also centralizes control of the National Guard under federal authority, thus federalism is impacted. The order prioritizes national security. There's no direct impact on social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 4,
+        "executive_power": 3,
         "federalism": 3,
-        "security_liberty": 4,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

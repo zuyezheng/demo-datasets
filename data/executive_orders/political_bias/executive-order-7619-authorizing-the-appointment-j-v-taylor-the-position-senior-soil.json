@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
     },
-    "critique": "The document discusses the appointment of J.V. Taylor as Senior Soil Conservationist in the Soil Conservation Service, Department of Agriculture, without compliance with civil service rules. This suggests a potential expansion of executive power and a focus on governmental efficiency.",
+    "critique": "This document is an executive order from 1937 that allows a specific individual to be appointed to a position without following civil service rules. It's difficult to assess its ideological tilt without more context, but given the era, it's likely within the mainstream. Immigration is not addressed. Executive power is slightly expanded by bypassing standard procedures for a specific case, but it's a minor expansion. Federalism isn't directly impacted. National security vs. civil liberties isn't a primary concern here. Economic regulation isn't directly addressed, though it could be argued that bypassing civil service rules has a minor impact on labor practices. Social inclusion isn't a major factor, though it could be seen as slightly favoring a specific individual over a potentially more diverse pool of candidates.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
     }
 }

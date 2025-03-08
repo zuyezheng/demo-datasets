@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order withdrawing public lands for use by the War Department. It does not directly address ideological tilt, immigration, executive power in a broad sense, or social inclusion. It touches on federalism by reserving lands for federal use, security by allocating land for military purposes, and economic regulation by restricting land use.",
+    "critique": "This executive order withdraws public lands in California for use by the War Department for combat firing ranges and maneuver purposes. It prioritizes national defense during a national-defense emergency. There is no direct impact on immigration, ideological tilt, economic regulation, or social inclusion. It could be argued that it expands executive power by withdrawing lands, but it also respects existing rights and previous orders, suggesting a balanced approach. It also appears to shift power to the federal government, taking control of land that might otherwise be used by the state or private citizens.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 4,
-        "economic_regulation": 2,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 3,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 1,
+        "executive_power": 2,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 1
+        "social_inclusion": 3
     },
-    "critique": "The document describes the expansion of the Navajo Reservation in 1907. It is difficult to assess the political bias based on the axes provided, as the document primarily concerns land allocation for indigenous people. However, some inferences can be made. In the early 20th century, setting aside land for indigenous populations could be seen as a form of social inclusion, but also as a way to segregate them. The act of expanding the reservation implies a degree of federal control over land and resources. Given the historical context, a balanced approach is taken for scoring, erring on the side of caution due to the complexities of the era.",
+    "critique": "This document describes the establishment of land for the Navajo Reservation. \n\n1. Ideological Tilt: Neutral. The document itself doesn't express a liberal or conservative ideology. It's a land allocation. Score: 0\n2. Immigration Approach: Not Applicable. This document doesn't deal with immigration. Score: 0\n3. Executive Power: Moderate Expansion. Setting aside land via executive order expands executive power to some degree. Score: 2\n4. Federalism: Federal Primacy. The federal government is dictating land use within states/territories. Score: 3\n5. National Security vs. Civil Liberties: Neutral. No clear impact on either. Score: 0\n6. Economic Regulation: Neutral. Doesn't regulate the economy. Score: 0\n7. Social Inclusion: Positive. Setting aside land for Native Americans promotes their inclusion. Score: 3\n\nRevised Scores:\nI will revise the executive power score to 1, as the act of setting aside land for a reservation, while an exercise of executive power, is not an extreme expansion. I will also revise the social inclusion score to 2, as while it does promote inclusion, it is also a somewhat paternalistic action.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 1,
+        "executive_power": 1,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 1
+        "social_inclusion": 2
     }
 }

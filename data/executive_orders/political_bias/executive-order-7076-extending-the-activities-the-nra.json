@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 4,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document extends existing executive orders under the National Industrial Recovery Act, maintaining the continuity of established agencies and requirements. It operates within the framework of the Act as amended, subject to presidential modification or cancellation. The order explicitly states that it does not authorize actions beyond the scope of the amended Act, particularly regarding codes of fair competition or enforcement.",
+    "critique": "This document extends the provisions of Title I of the National Industrial Recovery Act. This act is an example of government intervention in the economy, so it scores positively on the economic regulation axis. The document doesn't seem to have any implications for immigration, executive power, federalism, national security vs. civil liberties, or social inclusion, so it scores 0 on those axes. The National Industrial Recovery Act is generally considered to be a liberal piece of legislation, so it scores positively on the ideological tilt axis.",
     "revised_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 4,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order aims to promote economy and efficiency in federal procurement by encouraging business development in economically distressed communities. It directs the Secretary of Commerce to develop policies and procedures to incentivize businesses to operate in these areas, including offering price or evaluation credits for government contracts. The order also includes provisions for monitoring, evaluation, and implementation guidelines. It defines key terms such as \"area of general economic distress\" and \"qualified large/small business.\" The order explicitly states that it does not displace existing agency authority or create any enforceable rights. It seems to be a moderate intervention in the economy to promote social inclusion and economic development in distressed areas.\n\nIdeological Tilt: The order leans slightly liberal as it promotes government intervention to address economic inequality and support distressed communities. Score: +2\nImmigration Approach: The order does not directly address immigration. Score: 0\nExecutive Power: The order directs the Secretary of Commerce to develop policies and procedures, but it also emphasizes that it does not displace existing agency authority. It seems to be a balanced approach. Score: 0\nFederalism: The order involves federal agencies in promoting economic development in distressed communities, suggesting a slight shift towards federal control. Score: +1\nNational Security vs. Civil Liberties: The order does not directly address national security or civil liberties. Score: 0\nEconomic Regulation: The order promotes government intervention in the economy by offering incentives to businesses operating in distressed areas. Score: +2\nSocial Inclusion: The order aims to promote economic development in economically distressed communities, which often include marginalized groups. Score: +3\n\nRevised Scores:\nIdeological Tilt: +2\nImmigration Approach: 0\nExecutive Power: 0\nFederalism: +1\nNational Security vs. Civil Liberties: 0\nEconomic Regulation: +2\nSocial Inclusion: +3",
+    "revised_scores": {
+        "ideological_tilt": 2,
+        "immigration": 0,
+        "executive_power": 0,
         "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 2,
-        "social_inclusion": 3
-    },
-    "critique": "This document is an executive order focused on promoting economic development in distressed communities through federal procurement policies. It aims to encourage business growth in these areas by offering incentives to qualified businesses that operate within them. The order emphasizes expanding the industrial base, increasing competition, and ensuring the long-term viability of contractors in economically challenged regions. It also includes measures for monitoring, evaluation, and minimizing administrative burdens.",
-    "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": 0,
-        "executive_power": 1,
-        "federalism": 2,
-        "security_liberty": 0,
-        "economic_regulation": 3,
         "social_inclusion": 3
     }
 }

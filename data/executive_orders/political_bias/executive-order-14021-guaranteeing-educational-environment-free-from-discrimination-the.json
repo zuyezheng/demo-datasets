@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": -2,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 4
     },
-    "critique": "The document is an executive order focused on preventing discrimination based on sex, sexual orientation, and gender identity in educational institutions. It directs the Secretary of Education to review and revise existing policies to align with this goal, and to take enforcement actions to ensure fair and equitable treatment for all students. The order emphasizes support for LGBTQ+ students and those facing intersecting forms of discrimination.",
+    "critique": "This executive order focuses on preventing discrimination in schools based on sex, sexual orientation, and gender identity. It directs the Secretary of Education to review existing regulations and guidance to ensure consistency with Title IX and the administration's policy. It also encourages enforcement actions and support for students who have experienced discrimination. There is no mention of immigration. The order does not seem to expand executive power, as it directs agencies to act within existing legal frameworks. It does not explicitly address federalism. It prioritizes civil liberties and social inclusion. It does not directly address economic regulation. It promotes diversity and inclusion.",
     "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
-        "security_liberty": 1,
-        "economic_regulation": 1,
-        "social_inclusion": 5
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": -2,
+        "economic_regulation": 0,
+        "social_inclusion": 4
     }
 }

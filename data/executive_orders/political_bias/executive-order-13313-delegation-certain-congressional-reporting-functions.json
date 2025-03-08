@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from President George W. Bush assigning the responsibility of submitting recurring reports to Congress to various cabinet members. It covers reports related to military personnel, economic issues, international debt relief, foreign espionage, and commerce with Cuba. The order also includes clauses protecting executive privilege and clarifying that it's for internal management, not creating enforceable rights.",
+    "critique": "This executive order primarily concerns the assignment of recurring reporting duties to various departments (State, Treasury, and Defense). It doesn't directly address ideological issues, immigration, or social inclusion. It touches upon national security through reports on espionage and commerce with Cuba, but it also emphasizes the President's authority in foreign affairs and national security. The order seems neutral on economic regulation and federalism. It could be argued that reaffirming the unitary executive branch slightly expands executive power, but it's a minor aspect of the order.",
     "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": -1,
+        "ideological_tilt": 0,
+        "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0

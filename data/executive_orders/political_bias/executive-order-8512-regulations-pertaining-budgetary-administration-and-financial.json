@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 3,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order prescribing regulations for the compilation and reporting of financial information of the government. It focuses on budgetary control and standardization of accounting practices across government agencies.",
+    "critique": "This executive order pertains to the compilation and reporting of financial information within the government. It mandates standardized accounting practices and reporting procedures across various agencies, overseen by the Secretary of the Treasury and the Director of the Bureau of the Budget. There's nothing inherently ideological about this; it's about government efficiency and financial transparency. Therefore, the ideological tilt is neutral. Immigration is not addressed, so it's neutral. The order centralizes financial reporting and budgetary control, giving more power to the Bureau of the Budget, thus expanding executive power to some extent. It also centralizes control at the federal level, increasing federal power. There's no mention of national security or civil liberties, so it's neutral. The order promotes government intervention in economic regulation by standardizing financial reporting and budgetary control. There's no mention of social inclusion, so it's neutral.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 2,
         "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

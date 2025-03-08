@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "This document concerns an executive order granting exceptions to the Central Intelligence Agency (CIA) from certain provisions of the Government Employees Training Act. It reflects a focus on executive power and national security. There is no explicit discussion of immigration, economic regulation, or social inclusion.",
+    "critique": "This document is an executive order that exempts the Central Intelligence Agency (CIA) from certain provisions of the Government Employees Training Act. It's difficult to assess a strong ideological tilt (liberal vs. conservative) based solely on this action. It could be argued that exempting the CIA might align with a more conservative approach favoring national security, but it's not definitive. Immigration is not addressed. The order expands executive power by granting an exception to the CIA. It centralizes authority at the federal level by exempting a federal agency, indicating a slight shift towards federal primacy. The order potentially prioritizes national security by giving the CIA more flexibility in training. It's hard to say whether it promotes deregulation or intervention, but it could be argued that it gives the CIA more autonomy. It's also hard to assess its impact on social inclusion. Therefore, many axes are neutral, with slight leanings towards executive power and federal primacy.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 0,
-        "security_liberty": 3,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 2,
+        "social_inclusion": 3
     },
-    "critique": "The document prioritizes the interests of native Alaskans by temporarily withdrawing land from settlement and disposal, while also reserving mineral rights for the United States. This suggests a balance between protecting native interests and promoting resource extraction for national benefit. The emphasis on vocational training and restocking the country indicates a focus on self-sufficiency and economic development for the natives.",
+    "critique": "This executive order withdraws land in Alaska from settlement to promote the interests of natives through vocational training, restocking the country with fur-bearing animals, and providing care and support. It reserves mineral rights for the United States. This seems to lean slightly liberal due to its focus on supporting native populations and conservation. There is no mention of immigration, executive power, or federalism. It seems to prioritize the interests of the native population, which could be seen as promoting social inclusion. There's a slight intervention in the economy by restricting land use.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 3,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 2,
         "social_inclusion": 3

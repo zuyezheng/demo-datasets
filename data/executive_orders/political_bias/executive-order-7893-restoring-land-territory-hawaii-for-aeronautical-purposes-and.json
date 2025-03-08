@@ -3,18 +3,18 @@
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "federalism": -1,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a legal order regarding land use in the Territory of Hawaii in 1938. It involves transferring land between the Territory of Hawaii and the U.S. government for aeronautical and military purposes. There's a balance between territorial and federal control, and a focus on military use. There is no information about immigration, civil liberties, economic regulation, or social inclusion.",
+    "critique": "This document primarily concerns land use and transfer between the Territory of Hawaii and the U.S. government for aeronautical and military purposes. It doesn't directly address ideological issues, immigration, or social inclusion. The executive power aspect is neutral, as it's a specific land transfer rather than a broad expansion of authority. Federalism is slightly implicated as it involves federal land being transferred to a territory and vice versa, suggesting a cooperative balance. National security is a factor, given the military purpose, but it doesn't obviously infringe on civil liberties. Economic regulation is not a significant factor. Therefore, most scores should be close to zero, with a slight positive for national security and a slight negative for federalism, reflecting the federal government's role.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 2,
-        "security_liberty": 3,
+        "federalism": -1,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

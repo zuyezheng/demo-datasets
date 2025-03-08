@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 2,
+        "federalism": 2,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 1
     },
-    "critique": "The document outlines an executive order focused on improving the collection of child support obligations. It leverages the Debt Collection Improvement Act of 1996 to facilitate administrative offsets and denial of federal assistance to those delinquent in child support payments. The order emphasizes cooperation between federal agencies and aims to strengthen families by ensuring child support obligations are met.",
+    "critique": "This executive order aims to improve the collection of child support obligations by using administrative offsets and denying federal assistance to those delinquent in their payments. It directs various federal agencies to implement procedures to identify and collect these debts. The order emphasizes cooperation between agencies and adherence to due-process standards. It does not directly address immigration, civil liberties, or economic regulation in a significant way. The order seems to expand federal power by directing agencies to take specific actions and report to the Secretary of the Treasury. It also touches on social inclusion by aiming to support families and children. It doesn't seem to have a strong ideological tilt. Therefore, the initial scores are as follows:",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 2,
         "federalism": 2,
-        "security_liberty": 1,
-        "economic_regulation": 1,
-        "social_inclusion": 3
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 1
     }
 }

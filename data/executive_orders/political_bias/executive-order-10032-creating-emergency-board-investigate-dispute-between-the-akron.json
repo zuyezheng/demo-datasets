@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a board to investigate a labor dispute in the railroad industry, invoking the Railway Labor Act. It aims to prevent disruption to interstate commerce. There is no obvious ideological tilt, immigration stance, or focus on social inclusion/exclusion. The document seems neutral regarding executive power, federalism, security vs. liberty, and economic regulation, focusing instead on labor relations and maintaining essential transportation services.",
+    "critique": "This document is an executive order creating a board to investigate a labor dispute between railroad companies and their employees. It invokes the authority of the Railway Labor Act. There's no immediately obvious ideological tilt. It doesn't deal with immigration. It could be argued that by intervening in a labor dispute, it expands executive power slightly, but it's also acting within existing legal frameworks. It doesn't directly impact federalism. It doesn't obviously prioritize national security over civil liberties or vice versa. It involves government in economic regulation by mediating a labor dispute. It doesn't directly address social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

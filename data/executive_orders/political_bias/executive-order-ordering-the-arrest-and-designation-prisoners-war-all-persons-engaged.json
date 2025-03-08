@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "immigration": -3,
+        "executive_power": 3,
+        "federalism": 4,
+        "security_liberty": 4,
+        "economic_regulation": 2,
+        "social_inclusion": -2
     },
-    "critique": "The document reflects a strong emphasis on national security during wartime, potentially at the expense of individual liberties and due process. It grants the executive branch significant power to detain and deport individuals deemed to be aiding the enemy. The directive also centralizes control over immigration and trade with insurgents under the federal government.",
+    "critique": "This document, issued by the Department of State during a time of war, outlines the President's directives regarding individuals engaged in trade or intercourse with insurgents. It distinguishes between citizens/domiciled aliens and nonresident foreigners. The former are to be arrested and held as prisoners of war, while the latter are given a limited time to leave the country. The order emphasizes enforcement through provost-marshals and marshals, indicating a focus on national security during wartime.\n\n1. Ideological Tilt: Neutral (0). The document is focused on national security during wartime and doesn't clearly align with a specific left-right political ideology.\n2. Immigration Approach: Restrictive (-3). The order restricts the entry and presence of nonresident foreigners who have violated the blockade, indicating a restrictive approach to immigration during the conflict.\n3. Executive Power: Expansive (+3). The document grants the President significant power to arrest and detain individuals, and to order the expulsion of foreigners, indicating an expansion of executive power during wartime.\n4. Federalism: Strong Federal Control (+4). The order is issued by the federal government and enforced by federal officials (provost-marshals and marshals), indicating a strong federal control.\n5. National Security vs. Civil Liberties: Heavy National Security Focus (+4). The order prioritizes national security by allowing for the arrest and detention of individuals and the expulsion of foreigners, potentially at the expense of civil liberties.\n6. Economic Regulation: Moderate Intervention (+2). By restricting trade with insurgents and controlling the movement of individuals involved in such trade, the document involves the government in economic matters to some extent.\n7. Social Inclusion: Emphasis on Conformity (-2). The order targets individuals engaged in activities deemed harmful to the nation during wartime, potentially leading to an emphasis on conformity and a reduction in tolerance for dissenting activities.\n\nRevised Scores:\nAfter further consideration, I have adjusted the scores to better reflect the document's context and implications. The initial scores were a good starting point, but I believe the revised scores provide a more nuanced and accurate assessment.\n\n1. Ideological Tilt: Neutral (0). No change.\n2. Immigration Approach: Restrictive (-4). The document is more restrictive than initially assessed, given the context of wartime and the explicit expulsion order.\n3. Executive Power: Expansive (+4). The power to detain citizens indefinitely as prisoners of war is a significant expansion of executive power.\n4. Federalism: Strong Federal Control (+4). No change.\n5. National Security vs. Civil Liberties: Heavy National Security Focus (+5). The document places an extremely high priority on national security, even at the cost of civil liberties.\n6. Economic Regulation: Moderate Intervention (+2). No change.\n7. Social Inclusion: Emphasis on Conformity (-3). The document actively suppresses dissent and non-conformity during wartime.",
     "revised_scores": {
         "ideological_tilt": 0,
-        "immigration": -3,
+        "immigration": -4,
         "executive_power": 4,
-        "federalism": 3,
-        "security_liberty": 4,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "federalism": 4,
+        "security_liberty": 5,
+        "economic_regulation": 2,
+        "social_inclusion": -3
     }
 }

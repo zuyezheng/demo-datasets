@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "ideological_tilt": -3,
+        "immigration": -4,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 1,
+        "economic_regulation": 1,
+        "social_inclusion": -2
     },
-    "critique": "The document reflects a conservative stance. It aims to limit public benefits to illegal immigrants, aligning with a restrictive immigration approach. It emphasizes the rule of law and protecting taxpayer resources, which are common conservative themes. The document also reinforces existing laws and aims to prevent the subsidization of illegal immigration.",
+    "critique": "Let's analyze the political bias of this executive order. \n\n1.  Ideological Tilt: The order aims to restrict benefits to illegal immigrants, aligning with a conservative stance on immigration and social welfare. Score: -3\n2.  Immigration Approach: The order explicitly seeks to limit benefits to illegal aliens and prevent subsidization of sanctuary policies, indicating a restrictive approach to immigration. Score: -4\n3.  Executive Power: The order directs executive departments and agencies to take specific actions, potentially expanding executive power. However, it also includes general provisions that limit its impact and ensure consistency with existing law. Score: 1\n4.  Federalism: The order seeks to ensure that federal payments to states and localities do not facilitate illegal immigration, suggesting a stronger federal role in immigration enforcement. Score: 2\n5.  National Security vs. Civil Liberties: The order prioritizes preventing the improper receipt of federal benefits, which could be seen as a national security concern, but it does not directly infringe on civil liberties. Score: 1\n6.  Economic Regulation: The order aims to prevent taxpayer resources from being used improperly, which could be seen as a form of economic regulation. Score: 1\n7.  Social Inclusion: The order restricts benefits to illegal immigrants, which could be seen as a move away from social inclusion. Score: -2\n\nRevised Scores:\n\n1.  Ideological Tilt: -3\n2.  Immigration Approach: -4\n3.  Executive Power: 1\n4.  Federalism: 2\n5.  National Security vs. Civil Liberties: 1\n6.  Economic Regulation: 1\n7.  Social Inclusion: -2",
     "revised_scores": {
         "ideological_tilt": -3,
         "immigration": -4,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 2,
         "security_liberty": 1,
-        "economic_regulation": -1,
+        "economic_regulation": 1,
         "social_inclusion": -2
     }
 }

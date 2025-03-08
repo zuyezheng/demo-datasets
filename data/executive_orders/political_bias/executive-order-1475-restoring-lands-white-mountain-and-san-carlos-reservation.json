@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 2
     },
-    "critique": "The document focuses on land management and the restoration of the White Mountain Apache Indian Reservation to its pre-1909 status. It doesn't directly address typical political issues but implies a respect for tribal sovereignty and existing agreements.",
+    "critique": "This document pertains to the modification of the Apache National Forest boundaries in 1912, specifically concerning the White Mountain Apache Indian Reservation. It aims to restore the reservation to its pre-1909 status, effectively excluding it from the National Forest. The document itself is a legal order, citing the Act of Congress of June 4, 1897, as its authority. It's signed by the President, indicating executive action. Let's analyze the political bias along the given axes:\n\n1.  Ideological Tilt: The document addresses land rights and tribal sovereignty, which can be seen as aligning with a liberal perspective that emphasizes indigenous rights and historical injustices. However, it's also a straightforward administrative action, so the ideological tilt is relatively weak. Initial score: +1\n\n2.  Immigration Approach: This document has no bearing on immigration. Initial score: 0\n\n3.  Executive Power: The document is an executive order modifying national forest boundaries, which falls within the scope of executive power. However, it explicitly cites the authority of an act of Congress, suggesting it's not an overreach of executive power but rather an action authorized by law. Initial score: 0\n\n4.  Federalism: The document involves the federal government adjusting the boundaries of a national forest and an Indian reservation. This suggests a strong federal role in land management and tribal affairs. Initial score: +3\n\n5.  National Security vs. Civil Liberties: This document does not directly address national security or civil liberties. Initial score: 0\n\n6.  Economic Regulation: The document concerns land management and has no direct impact on economic regulation. Initial score: 0\n\n7.  Social Inclusion: The document restores land to the White Mountain Apache Indian Reservation, which can be seen as promoting social inclusion and recognizing indigenous rights. Initial score: +2\n\nRevised Scores:\nAfter further consideration, the initial scores seem reasonable. The document's primary focus is on land management and restoring the status of the Indian reservation. The ideological tilt is present but not overwhelming, and the federalism aspect is notable due to the federal government's role in managing national forests and tribal lands.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": -2,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 2

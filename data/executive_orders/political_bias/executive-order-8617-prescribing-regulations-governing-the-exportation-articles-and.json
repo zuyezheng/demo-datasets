@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 2,
+        "federalism": 2,
+        "security_liberty": 3,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1940 restricting the export of certain materials and equipment deemed important for national defense. It reflects a focus on national security and economic regulation during a time of international tension (pre-WWII).",
+    "critique": "This document is an executive order from 1940 restricting the export of certain materials and equipment deemed important for national defense. Given the context of World War II, the document aims to bolster national security by controlling the flow of strategic resources. It does not directly address immigration, social issues, or economic regulation in a broad sense, but rather focuses on specific export controls. Therefore, the ideological tilt is neutral, as it's a wartime measure. Immigration is not relevant. Executive power is somewhat expanded to control exports. Federalism is strengthened as the federal government takes control of exports. National security is prioritized over civil liberties in this context. Economic regulation is increased in specific sectors related to defense. Social inclusion is not relevant.",
     "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": -3,
-        "executive_power": 3,
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 2,
         "federalism": 2,
-        "security_liberty": 4,
-        "economic_regulation": 4,
-        "social_inclusion": -1
+        "security_liberty": 3,
+        "economic_regulation": 3,
+        "social_inclusion": 0
     }
 }

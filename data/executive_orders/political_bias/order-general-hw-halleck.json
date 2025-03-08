@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is a military order from the Secretary of War to Major-General Halleck, instructing him to organize an army for active operations. It does not contain explicit political statements or opinions, so assessing its political bias requires interpreting its implications within the context of the Civil War.",
-    "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 3,
+        "federalism": 4,
         "security_liberty": 3,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 1
+    },
+    "critique": "This is a military order during the Civil War. It's difficult to map it directly onto modern political axes. Ideological Tilt: This is hard to judge, but given the context of the Civil War and the Union army, I'll give it a slightly liberal score, as the Union was generally more progressive on issues like slavery. Immigration Approach: Not relevant. Executive Power: This seems to expand executive power, as it's a direct order from the Secretary of War to a general. Federalism: This strengthens federal control, as it's a federal army being organized. National Security vs. Civil Liberties: Leans towards national security, as it's about organizing an army for war. Economic Regulation: Not relevant. Social Inclusion: Slightly positive, as the Union army, while not perfectly inclusive, was fighting against slavery.",
+    "revised_scores": {
+        "ideological_tilt": 2,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 4,
+        "security_liberty": 3,
+        "economic_regulation": 0,
+        "social_inclusion": 1
     }
 }

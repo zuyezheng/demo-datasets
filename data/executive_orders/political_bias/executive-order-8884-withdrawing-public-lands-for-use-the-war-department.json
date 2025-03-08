@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order withdrawing public lands for military use. It doesn't directly address ideological issues, immigration, or social inclusion. The primary focus is on executive power and federal control over land use for national security purposes.",
+    "critique": "This document is an executive order from 1941 that withdraws public lands in California for use by the War Department for the construction of a reservoir and water pipeline to Camp San Luis Obispo. It does not directly address ideological issues, immigration, or civil liberties. It expands executive power by withdrawing land. It favors federal control over state control. It could be argued that it indirectly supports national security by providing resources for the War Department. It does not directly regulate the economy or address social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 3,
-        "security_liberty": 3,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

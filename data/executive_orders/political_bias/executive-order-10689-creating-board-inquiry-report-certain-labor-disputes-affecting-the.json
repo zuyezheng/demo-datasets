@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 1,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order creating a Board of Inquiry to address a labor dispute affecting the maritime industry. It invokes the Labor-Management Relations Act of 1947, citing concerns about national health and safety due to a strike. There is no explicit discussion of immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion. Therefore, the initial scores are set to neutral across all axes.",
+    "critique": "This document establishes a Board of Inquiry to address labor disputes in the maritime industry, invoking the Labor-Management Relations Act of 1947. It doesn't directly address ideological tilts, immigration, or social inclusion. The executive power is moderately expanded to address a strike that could impact national health and safety. Federalism isn't significantly affected. National security is indirectly addressed through economic stability. Economic regulation is moderately interventionist to resolve the labor dispute.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 1,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

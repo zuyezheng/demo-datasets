@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 3,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding the control of encryption products. It appears to prioritize national security by restricting the export of encryption technology, even if comparable products are available elsewhere. It also limits judicial review and public disclosure concerning foreign availability of encryption products, citing national security interests. The order expands executive power in controlling encryption exports and potentially impacts civil liberties by prioritizing security over privacy.",
+    "critique": "This executive order deals with the export of encryption products. It aims to control the dissemination of encryption technology that could harm national security. Here's a breakdown of the axes:\n\n*   **Ideological Tilt:** The document doesn't directly address traditional left-right issues. It focuses on national security and export controls, making it difficult to place on the liberal-conservative spectrum. I'll give it a 0.\n*   **Immigration Approach:** This executive order has nothing to do with immigration, so I will give it a 0.\n*   **Executive Power:** The order expands executive power by limiting judicial review and granting the Secretary of Commerce discretion in considering foreign availability. It also allows for further presidential direction. I'll give it a +3.\n*   **Federalism:** The order doesn't significantly shift power between the federal government and the states, so I will give it a 0.\n*   **National Security vs. Civil Liberties:** The order prioritizes national security by controlling encryption exports, potentially limiting access to strong encryption for individuals and businesses. I'll give it a +3.\n*   **Economic Regulation:** The order involves government intervention in controlling the export of encryption products, which can be seen as a form of economic regulation. I'll give it a +2.\n*   **Social Inclusion:** The order doesn't directly address social inclusion issues. It's focused on national security and export controls, so I will give it a 0.\n\nRevised Scores:\nAfter further consideration, I believe the initial scores are appropriate and accurately reflect the document's focus on national security and export controls.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
+        "executive_power": 3,
+        "federalism": 0,
         "security_liberty": 3,
-        "economic_regulation": 1,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

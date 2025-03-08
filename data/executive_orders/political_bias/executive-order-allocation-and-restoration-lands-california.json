@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 2,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 1,
+        "social_inclusion": 3
     },
-    "critique": "The document is an executive order regarding land allocation for Mission Indians in California. It withdraws some lands from sale for their use and restores other lands to the public domain. The order itself doesn't explicitly express a political bias but implies a degree of federal intervention in land management and a concern for the welfare of a specific group (Mission Indians).",
+    "critique": "This executive order from 1887 concerns land allocation for Mission Indians in California. It withdraws some land from sale for their permanent use and restores other land to the public domain. \n\n*   **Ideological Tilt:** The order appears to favor the interests of a specific group (Mission Indians) by allocating land for their use. This could be seen as a slightly liberal approach, as it involves government intervention to support a particular community. However, it's also a historical action related to indigenous populations, which complicates a simple left-right categorization. I'll score it as slightly liberal.\n*   **Immigration Approach:** This order doesn't directly address immigration.\n*   **Executive Power:** The order utilizes executive power to allocate and restore land. This is a moderate expansion of executive power, as it involves direct intervention in land management.\n*   **Federalism:** The order involves the federal government directly managing land within a state, indicating a stronger federal role. However, it's also related to the government's relationship with Native American tribes, which has a unique federal-tribal dynamic. I'll score it as leaning towards federal control.\n*   **National Security vs. Civil Liberties:** This order doesn't directly relate to national security or civil liberties.\n*   **Economic Regulation:** The order involves government intervention in land allocation, which can be seen as a form of economic regulation. However, it's a specific case related to land use rather than broad economic policies. I'll score it as a slight intervention.\n*   **Social Inclusion:** The order aims to protect the land rights of the Mission Indians, promoting the inclusion and well-being of a specific minority group. This aligns with the concept of social inclusion and diversity. I'll score it as moderately inclusive.\n\nGiven the above considerations, I will revise the scores to reflect the nuances of the document.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 2,
-        "federalism": 3,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 3
     }
 }

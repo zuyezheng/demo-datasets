@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order allocating funds for the Federal Emergency Relief Administration. It reflects a strong role for the federal government in economic intervention and social welfare during the Great Depression. The order expands executive power by authorizing the Administrator to prescribe rules and regulations. There is no clear indication of bias towards immigration, security vs liberty, or social inclusion. The document centralizes authority in the federal government.",
+    "critique": "This document is an executive order allocating funds for the Federal Emergency Relief Administration. It is a straightforward allocation of funds and delegation of rule-making authority. There is little to suggest a strong ideological tilt. It expands federal power by allocating money to states. It does not directly address immigration, national security, or social inclusion. It involves government intervention in the economy through relief efforts.",
     "revised_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 4,
+        "executive_power": 1,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 4,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

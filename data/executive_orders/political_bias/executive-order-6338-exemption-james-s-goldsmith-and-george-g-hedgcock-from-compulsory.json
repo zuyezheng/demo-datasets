@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1933, exempting two government employees from mandatory retirement. It reflects the President's authority to override existing regulations in the public interest. The order itself doesn't directly address ideological issues, immigration, or social inclusion. However, it does touch upon executive power and economic regulation (in the sense of labor and employment).",
+    "critique": "The document is an executive order from 1933 that exempts two government employees from mandatory retirement. It does not seem to have a strong ideological tilt, immigration implications, or impact on civil liberties. It does expand executive power slightly by using the President's authority to make exceptions to existing law. It does not seem to have implications for federalism, economic regulation, or social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

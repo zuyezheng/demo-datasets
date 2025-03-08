@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document concerns a complaint regarding the importation of watches and watch movements under the National Industrial Recovery Act. It ultimately decides against further investigation, indicating a focus on maintaining existing agreements and a cautious approach to economic intervention.",
-    "revised_scores": {
-        "ideological_tilt": 0,
-        "immigration": -1,
         "executive_power": 0,
         "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": -1,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    },
+    "critique": "This document pertains to a complaint filed under the National Industrial Recovery Act regarding the import of watches and watch movements. The decision is to not take further action on the complaint. Here's an analysis of its political biases:\n\n1.  Ideological Tilt: The National Industrial Recovery Act was a New Deal program, which is generally considered liberal due to its interventionist approach to the economy. However, the document itself is simply a decision not to pursue a specific complaint. Therefore, it's difficult to assign a strong ideological tilt based on this document alone. I will score it as slightly liberal.\n2.  Immigration Approach: The document deals with imports, which can be related to immigration in the sense that imported goods can affect domestic employment. The complaint alleges that imports are endangering the maintenance of the President's Reemployment Agreement. Not taking action could be seen as slightly more open to trade, but it's not directly related to immigration. I will score it as neutral.\n3.  Executive Power: The document is an executive decision based on a recommendation from the National Industrial Recovery Board. It doesn't significantly expand or restrict executive power. I will score it as neutral.\n4.  Federalism: The National Industrial Recovery Act was a federal program, so the document implicitly supports federal control. However, the decision itself doesn't further centralize power. I will score it as slightly favoring federal control.\n5.  National Security vs. Civil Liberties: The document doesn't directly address national security or civil liberties. I will score it as neutral.\n6.  Economic Regulation: The document relates to economic regulation through the National Industrial Recovery Act. The decision not to take further action could be seen as slightly less interventionist. I will score it as slightly less interventionist.\n7.  Social Inclusion: The document doesn't address social inclusion. I will score it as neutral.\n\nRevised Scores:\nAfter further consideration, the initial scores seem reasonable. The document is primarily an administrative decision related to economic regulation and doesn't have strong implications for other axes.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

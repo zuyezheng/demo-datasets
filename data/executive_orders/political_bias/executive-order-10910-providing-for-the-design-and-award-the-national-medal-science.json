@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
+        "immigration": -1,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
     },
-    "critique": "The document establishes the National Medal of Science and outlines the criteria for awarding it. It emphasizes recognizing outstanding contributions to science and sets eligibility requirements based on citizenship or legal residency. There is a slight emphasis on federal power through the establishment of a national award.",
+    "critique": "The document establishes the National Medal of Science and outlines the criteria for its award. It prioritizes recognizing outstanding contributions to science. There's a slight nationalistic element in the citizenship/residency requirements for recipients. The executive power aspect is neutral, as it's simply implementing an existing act. Federalism isn't really addressed. National security vs. civil liberties isn't relevant here. Economic regulation is not relevant. Social inclusion is slightly negative due to the citizenship requirement.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": -1,
         "executive_power": 0,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
     }
 }

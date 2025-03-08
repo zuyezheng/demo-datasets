@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
     },
-    "critique": "The document is a land order that restores land to the public domain. It does not express any clear political bias.",
+    "critique": "This document concerns the restoration of land to the public domain that was previously withdrawn for the use of the Papago Indians. It is a very specific action concerning land management. It is difficult to assess a broad ideological tilt based on this single action. There's no clear indication of immigration policy, executive power dynamics, or a strong federalism stance. The document doesn't directly address national security vs. civil liberties, economic regulation, or social inclusion. Therefore, most axes will be scored as neutral. The action could be seen as slightly conservative in the sense that it reduces land reserved for indigenous people, but this is a very weak signal.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
     }
 }

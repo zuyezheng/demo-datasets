@@ -1,6 +1,6 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
@@ -8,14 +8,14 @@
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order granting a probational appointment to a disabled veteran, highlighting his military honors. It reflects a focus on supporting veterans and potentially expanding executive authority to bypass civil service regulations in this specific case.",
+    "critique": "This document is an executive order granting a probational appointment to a disabled veteran. It expresses support for veterans, which is generally viewed positively across the political spectrum. There is no indication of a stance on immigration, executive power, federalism, national security vs. civil liberties, economic regulation, or social inclusion. Therefore, most axes should be scored as neutral. The ideological tilt is slightly conservative due to the emphasis on military service and traditional values.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 1,
+        "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 1
+        "social_inclusion": 0
     }
 }

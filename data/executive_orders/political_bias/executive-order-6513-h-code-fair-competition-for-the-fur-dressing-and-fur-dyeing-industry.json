@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a code of fair competition for the Fur Dressing and Fur Dyeing Industry, under the National Industrial Recovery Act. It reflects President Roosevelt's approval and the Administrator's recommendation. The core themes are economic regulation and federal authority.",
+    "critique": "This document pertains to the National Industrial Recovery Act, which was a New Deal program. Therefore, it is likely to be liberal. The document establishes a code of fair competition for the Fur Dressing and Fur Dyeing Industry, which suggests government intervention in the economy. The document does not seem to relate to immigration, executive power, federalism, national security, or social inclusion. Therefore, these axes should be scored as neutral.",
     "revised_scores": {
         "ideological_tilt": 3,
-        "immigration": -1,
-        "executive_power": 3,
-        "federalism": 4,
-        "security_liberty": 1,
-        "economic_regulation": 4,
-        "social_inclusion": 1
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 3,
+        "social_inclusion": 0
     }
 }

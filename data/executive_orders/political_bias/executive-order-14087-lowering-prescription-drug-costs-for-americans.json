@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 4,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on lowering prescription drug costs. It highlights the Inflation Reduction Act and directs the Department of Health and Human Services to consider new healthcare payment models to further reduce drug costs. The document reflects a liberal approach to healthcare, favoring government intervention to lower drug prices and increase access.",
+    "critique": "This document focuses on lowering prescription drug costs through government action, primarily by implementing and complementing the Inflation Reduction Act (IRA). It directs the Secretary of HHS to consider new healthcare payment models to lower drug costs within Medicare and Medicaid. The document doesn't directly address immigration, executive power, federalism, national security, or social inclusion. It leans towards government intervention in the economy to regulate drug prices. The ideological tilt is liberal, as it advocates for government intervention to lower drug costs and expand access to healthcare. There is no impact on civil liberties. The document does not expand executive power, as it directs the Secretary of HHS to take actions within existing legal frameworks. It does not shift power between the federal and state governments. It does not address social inclusion.",
     "revised_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 4,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 2,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 4,
-        "social_inclusion": 1
+        "social_inclusion": 0
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 2,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -2
     },
-    "critique": "The document reflects a policy decision regarding the establishment of an Indian reservation in 1861. It does not contain strong indicators of ideological bias, immigration stance, executive power dynamics, security vs. liberty concerns, economic regulation, or social inclusion preferences. The primary focus is on land management and the relationship with Native American tribes during that historical period.",
+    "critique": "This document pertains to the establishment of a Native American reservation in 1861. Given the historical context, several factors need consideration when assessing its political bias. Ideological Tilt: In the 19th century, the concept of Native American reservations was complex. While seemingly benevolent, it also facilitated displacement and cultural disruption. Therefore, it's hard to place it on a simple left-right spectrum. I'll score it as slightly conservative due to the assimilationist undertones. Immigration Approach: This doesn't directly relate to immigration. Executive Power: The document involves executive action to create a reservation, indicating an expansion of executive power. Federalism: It centralizes control over land use at the federal level, impacting state autonomy. National Security vs. Civil Liberties: The creation of a reservation could be seen as both a security measure (separating populations) and a limitation of Native American liberties. Economic Regulation: Not directly applicable. Social Inclusion: While seemingly providing land, it also enforces segregation and limits Native American self-determination, indicating a move towards conformity. Revised scores will reflect a more nuanced understanding of the historical context.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 1,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -3
     }
 }

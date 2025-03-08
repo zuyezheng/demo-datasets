@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a legal order establishing a naval radio station in the Canal Zone. It primarily deals with geographical boundaries and jurisdictional control. Therefore, most political bias axes are not applicable.",
+    "critique": "This document is an executive order from 1936 that establishes a naval reservation in the Canal Zone. It's primarily a technical document defining the boundaries of the reservation. There's little to no information that directly relates to modern political debates or ideologies. Therefore, most axes should be scored as neutral. The only exception might be executive power, as it's an executive order, but it's a fairly routine one, so I will score it as slightly expanding executive authority.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 5,
-        "security_liberty": 5,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

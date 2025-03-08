@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": -1,
         "economic_regulation": 0,
-        "social_inclusion": 1
+        "social_inclusion": 2
     },
-    "critique": "The document emphasizes employee rights and fair treatment within the public service, while also aiming for efficient administration. It establishes an appeals system for adverse actions against employees, ensuring due process and representation. The order balances employee protections with the need for maintaining high standards and prompt action. It seems to promote a balanced approach between employee rights and government efficiency.",
+    "critique": "This executive order establishes a system for reconsideration of administrative decisions to take adverse action against employees. It aims to maintain high standards of employee performance and integrity in public service while protecting employees from arbitrary or unjust actions. The order emphasizes fairness, due process, and employee rights in the appeals process. It does not touch on immigration, national security, or economic regulation. It seems to promote a balance between federal authority and agency autonomy, and it leans towards social inclusion by protecting employee rights.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": -1,
         "economic_regulation": 0,
-        "social_inclusion": 1
+        "social_inclusion": 2
     }
 }

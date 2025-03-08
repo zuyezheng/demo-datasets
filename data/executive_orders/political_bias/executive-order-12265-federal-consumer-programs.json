@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on enhancing and coordinating federal consumer programs by expanding the Consumer Affairs Council. It primarily deals with the structure and composition of a government body, indicating a focus on federal coordination and consumer protection.",
+    "critique": "This executive order expands the Consumer Affairs Council by including more agencies. This suggests a slight increase in government intervention in consumer affairs. There is no information related to immigration, executive power, federalism, national security, or social inclusion. The expansion of the council could be seen as slightly liberal in that it increases government oversight, but it is not strongly ideological.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 2,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
-        "social_inclusion": 1
+        "economic_regulation": 1,
+        "social_inclusion": 0
     }
 }

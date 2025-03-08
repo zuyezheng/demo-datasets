@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document establishes an emergency board to investigate disputes between the National Railroad Passenger Corporation and its employees. It prevents changes to the conditions out of which the disputes arose for a specified period. The order is neutral regarding ideological tilt, immigration, and social inclusion. It expands executive power by creating a board and maintaining conditions. It leans towards federal control by intervening in interstate commerce. It balances security and liberty by ensuring essential transportation services while maintaining existing conditions. It involves government intervention to prevent disruption of essential services.",
+    "critique": "This document establishes a board to investigate a dispute between the National Railroad Passenger Corporation and its employees. It doesn't directly address ideological issues, immigration, or social inclusion. It could be argued that it expands executive power slightly by creating the board, but it's primarily an intervention in a labor dispute to maintain essential transportation services. It has a slight interventionist tilt economically to prevent disruption. It doesn't obviously favor federal or state control. It seems to balance security (transportation) with the rights of workers.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 1,
-        "economic_regulation": 2,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     },
-    "critique": "The document primarily focuses on revoking previous executive orders related to trade restrictions with Zimbabwe-Rhodesia. It doesn't directly address ideological issues, immigration, or social inclusion. The main focus is on executive power and economic regulation (specifically, deregulation by removing trade limitations). There's no clear indication of a security vs. liberty stance or federalism implications.",
+    "critique": "This executive order terminates limitations on trade with Zimbabwe-Rhodesia. Without knowing the specifics of the prior limitations, it's difficult to assess the ideological tilt. However, lifting trade restrictions could be seen as a move towards deregulation and potentially fostering economic growth, which aligns with some conservative viewpoints. Immigration is not addressed. The order delegates authority to various secretaries, but it's primarily about removing existing restrictions, so it doesn't strongly expand executive power. It doesn't explicitly address federalism. It doesn't directly impact national security or civil liberties. Lifting trade restrictions could be seen as deregulation. It doesn't directly address social inclusion.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -3,
+        "economic_regulation": -1,
         "social_inclusion": 0
     }
 }

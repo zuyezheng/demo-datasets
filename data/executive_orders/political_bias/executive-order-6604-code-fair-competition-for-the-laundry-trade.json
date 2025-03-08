@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document establishes a code of fair competition for the laundry trade under the National Industrial Recovery Act. It centralizes power in the federal government, specifically the President and the Administrator, to approve and implement the code. It also involves government intervention in the economy by setting minimum wages and prices for laundry services. The code aims to address unemployment and disorganization in the laundry trade, suggesting a focus on economic regulation and social order.",
-    "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 4,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 1,
+        "federalism": 4,
+        "security_liberty": 0,
         "economic_regulation": 4,
-        "social_inclusion": 1
+        "social_inclusion": 0
+    },
+    "critique": "This document is an executive order from Franklin D. Roosevelt approving a Code of Fair Competition for the Laundry Trade under the National Industrial Recovery Act. It reflects a strong interventionist approach to the economy, typical of the New Deal era. The order delegates significant authority to the Administrator and Code Control Boards, indicating a move towards federal oversight and standardization. There's no direct impact on immigration, civil liberties, or social inclusion. The emphasis is on economic regulation and federal control over an industry. The ideological tilt is clearly liberal, given the interventionist economic policies.",
+    "revised_scores": {
+        "ideological_tilt": 4,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 4,
+        "security_liberty": 0,
+        "economic_regulation": 5,
+        "social_inclusion": 0
     }
 }

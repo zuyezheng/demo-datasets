@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on export expansion. It establishes an interagency committee to advise the Secretary of Commerce on export promotion programs. There is no discussion of immigration, civil liberties, or social issues. The document focuses on economic policy and interagency coordination.",
+    "critique": "This document establishes an interagency committee to promote US exports. It aims to coordinate government programs and policies to expand exports through private enterprise. There's no direct indication of a liberal or conservative ideology. It doesn't directly address immigration. It could be argued that it expands executive power slightly by creating a committee, but it also emphasizes coordination with existing agencies. It centralizes export policy at the federal level. It doesn't directly address national security or civil liberties. It promotes economic intervention by coordinating government programs to promote exports. It doesn't directly address social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 2,
         "security_liberty": 0,
         "economic_regulation": 2,
         "social_inclusion": 0

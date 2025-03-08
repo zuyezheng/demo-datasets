@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "This document focuses on energy conservation and efficiency in federal facilities. It promotes government intervention in managing energy use and encourages investment in renewable energy technologies. There is no discussion of immigration, executive power, or social issues. The document emphasizes federal control over energy management in federal buildings and facilities.",
+    "critique": "This document focuses on energy and water conservation within federal facilities. It mandates audits and implementation of cost-effective efficiency measures. There's a slight tilt towards environmentalism, which aligns with a liberal viewpoint, but it's primarily focused on government efficiency and cost savings. Immigration, security, and social inclusion are not addressed. It could be argued that promoting energy efficiency involves some level of economic intervention, but it's not a heavy-handed approach. The order does not seem to expand executive power significantly, as it primarily directs agencies to follow existing laws. It also doesn't drastically shift the balance of power between federal and state governments. Therefore, the initial scores are as follows:",
     "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 3,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

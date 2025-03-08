@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order amending a previous order to increase the size of the Volunteer Participation Committee within the Office of Civilian Defense. It appears to be related to wartime mobilization efforts. The changes in scores reflect a slight shift towards federal control and executive power due to the expansion of a federal committee by executive order.",
+    "critique": "This document is an executive order that expands the size of a committee. It does not seem to have any ideological tilt, immigration implications, or implications for national security vs. civil liberties. It also does not seem to have any implications for economic regulation or social inclusion. It does expand executive power slightly, and it is neutral on federalism.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

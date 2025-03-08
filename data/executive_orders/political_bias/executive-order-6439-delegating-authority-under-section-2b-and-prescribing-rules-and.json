@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document delegates authority to the Administrator for Industrial Recovery, expanding executive power and federal control over the economy. It centralizes decision-making and provides the administrator with broad powers to create and enforce rules and regulations. There is no discussion of civil liberties, immigration, or social issues.",
+    "critique": "This document pertains to the National Industrial Recovery Act of 1933, a key piece of New Deal legislation. It delegates authority to the Administrator for Industrial Recovery, enabling them to create a seal for the National Recovery Administration, authenticate documents, and prescribe further rules. The act itself was a large expansion of government power in the economy. Therefore, the economic regulation score should be high. The document doesn't directly address immigration, executive power, federalism, national security, or social inclusion, so those scores should be neutral. The ideological tilt is moderately liberal, given the context of the New Deal.",
     "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 4,
         "social_inclusion": 0

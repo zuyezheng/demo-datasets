@@ -3,19 +3,19 @@
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order from Abraham Lincoln specifying the track width for a railroad and its branches, as authorized by an Act of Congress. It primarily concerns infrastructure standardization rather than expressing a political ideology. Therefore, assessing its political bias requires careful consideration of its implications across different axes.",
+    "critique": "This document is an executive order from President Lincoln determining the width of railroad tracks. It is a very specific and technical order with minimal ideological content. It has some implications for economic regulation and federalism.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 0,
         "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

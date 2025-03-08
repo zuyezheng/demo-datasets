@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 4,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 4,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document authorizes the suspension of habeas corpus and the implementation of martial law, indicating a strong emphasis on security and executive power during an insurrection. This suggests a potential shift away from civil liberties and towards federal control to maintain order.",
+    "critique": "This document is an authorization for a military commander to suspend habeas corpus and exercise martial law in Missouri during the Civil War. This is a significant expansion of executive power and a prioritization of national security over civil liberties. There is no direct indication of ideological tilt, immigration approach, federalism, economic regulation, or social inclusion. The context is the Civil War, which heavily influences the assessment.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 4,
-        "federalism": 3,
+        "federalism": 0,
         "security_liberty": 4,
         "economic_regulation": 0,
         "social_inclusion": 0

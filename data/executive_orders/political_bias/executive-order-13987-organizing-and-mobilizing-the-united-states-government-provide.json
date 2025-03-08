@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order focused on organizing the White House and federal government to combat COVID-19. It establishes the position of COVID-19 Response Coordinator, outlines responsibilities for coordinating the pandemic response, and addresses global health security and biodefense. There is a strong emphasis on federal coordination and a government-wide effort to address the pandemic.",
-    "revised_scores": {
-        "ideological_tilt": 2,
-        "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 1,
         "economic_regulation": 2,
-        "social_inclusion": 1
+        "social_inclusion": 3
+    },
+    "critique": "This executive order focuses on organizing the White House and federal government to combat COVID-19. It establishes positions and outlines responsibilities for coordinating the response, addressing disparities, and supporting the production and distribution of resources. It also emphasizes global health security and biodefense preparedness. There is a focus on coordinating with state, local, tribal, and territorial authorities.\n\nIdeological Tilt: The order aims to reduce disparities in COVID-19 response, which aligns with liberal values of social equity. It also emphasizes the role of government in addressing a public health crisis, which is generally a liberal approach. Score: +3\n\nImmigration Approach: The order does not directly address immigration. Score: 0\n\nExecutive Power: The order creates new positions and expands the authority of the executive branch to coordinate the COVID-19 response. Score: +2\n\nFederalism: The order emphasizes coordination with state, local, tribal, and territorial authorities, suggesting a cooperative approach. Score: 0\n\nNational Security vs. Civil Liberties: The order focuses on public health and does not directly address national security or civil liberties. Score: 0\n\nEconomic Regulation: The order mentions the use of the Defense Production Act, which implies government intervention in the economy to produce and distribute resources. Score: +2\n\nSocial Inclusion: The order aims to reduce disparities in COVID-19 response, including racial and ethnic disparities, which promotes social inclusion. Score: +3\n\nRevised Scores:\n\nIdeological Tilt: +3 (No change)\nImmigration Approach: 0 (No change)\nExecutive Power: +2 (No change)\nFederalism: 0 (No change)\nNational Security vs. Civil Liberties: 0 (No change)\nEconomic Regulation: +2 (No change)\nSocial Inclusion: +3 (No change)",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 2,
+        "social_inclusion": 3
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an ethics pledge for executive branch appointees, aiming to limit the influence of lobbyists and ensure decisions are based on qualifications. It restricts the revolving door between government service and lobbying, and emphasizes ethical conduct. There is a waiver provision for national security or economic exigencies. The order is signed by the President and applies to appointees in executive agencies.",
+    "critique": "This executive order focuses on ethics commitments by executive branch personnel, specifically addressing lobbying and conflicts of interest. It aims to prevent appointees from using their positions for personal gain and to ensure decisions are based on qualifications. It restricts the revolving door between government service and lobbying, and it includes a gift ban. The order also provides for waivers in certain circumstances and establishes enforcement mechanisms. It does not directly address immigration, federalism, national security, economic regulation, or social inclusion. It could be seen as slightly liberal due to its emphasis on ethics and limiting the influence of lobbyists, but it's primarily focused on good governance. It could be argued that it expands executive power by creating new rules and enforcement mechanisms for executive branch appointees, but it also limits the actions of those appointees, so it's a mixed bag. The order seems neutral on most axes, with a slight lean towards limiting potential abuses of power.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": -1,
+        "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 1,
-        "economic_regulation": 1,
+        "security_liberty": 0,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

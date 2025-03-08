@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document expands the Economic Stabilization Board by adding the Chairman of the Securities and Exchange Commission. This suggests a move towards greater government intervention in the economy.",
+    "critique": "This document is an executive order that adds the Chairman of the Securities and Exchange Commission to the Economic Stabilization Board. This suggests a moderate increase in government intervention in the economy. There is no information related to immigration, executive power, federalism, national security vs. civil liberties, or social inclusion. The ideological tilt is slightly towards liberal due to the interventionist nature.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 2,
         "social_inclusion": 0

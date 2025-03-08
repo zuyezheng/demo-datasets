@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1935 exempting Davis B. Levis from mandatory retirement. It is difficult to assess the political bias of such a document, as it pertains to a specific individual and a specific situation. However, we can make some inferences based on the context and the powers it invokes.",
+    "critique": "This is an executive order from 1935 exempting a person from mandatory retirement. It is difficult to assess the ideological tilt of such a document. It does not relate to immigration, federalism, national security, economic regulation, or social inclusion. It arguably expands executive power slightly by using the power to exempt someone from a law.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 1,
+        "social_inclusion": 1
     },
-    "critique": "The document focuses on amending executive orders related to Puerto Rico and labor-management relations. It aims to improve the treatment of Puerto Rico in Federal programs and promote economic development, while also addressing allowable costs for contractors related to labor relations. There is a slight tilt towards federal intervention and social inclusion.",
+    "critique": "This executive order amends previous orders related to Puerto Rico and labor-management relations. It aims to improve the treatment of Puerto Rico in federal programs and promote economic development, while also clarifying allowable costs for contractors regarding labor relations. There's a slight tilt towards social inclusion by focusing on Puerto Rico, and a moderate interventionist approach by promoting federal initiatives for the island's development. The labor section leans slightly towards supporting labor-management relations. It doesn't significantly expand executive power or impact national security/civil liberties. It also doesn't directly address immigration or federalism in a substantial way.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 2,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
-        "social_inclusion": 2
+        "economic_regulation": 1,
+        "social_inclusion": 1
     }
 }

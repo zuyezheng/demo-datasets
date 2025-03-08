@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": -2,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document revokes a previous executive order that declared a national emergency with respect to Nicaragua, finding that the democratic election has ended the threat. It terminates the national emergency but clarifies that the termination does not affect pending actions or proceedings. The document reflects a shift away from interventionist foreign policy and acknowledges the positive changes in Nicaragua. There is no strong indication of bias in the axes.",
+    "critique": "This executive order revokes a previous order that declared a national emergency with respect to Nicaragua. It finds that the democratic election in Nicaragua has ended the threat to national security. Because it terminates a national emergency, it arguably restrains executive power. It does not appear to have a strong ideological tilt, nor does it directly address immigration, federalism, national security vs. civil liberties, economic regulation, or social inclusion. Therefore, most of these axes should be scored as neutral.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": -1,
+        "executive_power": -2,
         "federalism": 0,
-        "security_liberty": -1,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 2
     },
-    "critique": "The document establishes a reservation for Native American tribes, which can be seen as promoting social inclusion. However, it also involves government intervention in land allocation and potentially restricts economic activity within the reserved area.",
+    "critique": "This executive order withdraws land from sale and adds it to an existing reservation for several Native American tribes. This action suggests a degree of consideration for the rights and needs of these tribes. However, it's important to consider the historical context, where such actions were often taken with paternalistic motives and without full consultation with the tribes themselves. The order itself doesn't explicitly address immigration, executive power, federalism, national security, economic regulation, or social inclusion in a direct way. However, the act of creating or expanding a reservation could be seen as an assertion of federal power over land use and the lives of Native Americans. Given the historical context and the limited scope of the order, the scores are assigned as follows.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 4,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 2,
-        "social_inclusion": 3
+        "economic_regulation": 0,
+        "social_inclusion": 2
     }
 }

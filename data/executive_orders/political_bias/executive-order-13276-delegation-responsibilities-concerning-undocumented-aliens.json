@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document focuses on restricting undocumented aliens and prioritizing national security. It expands executive power in dealing with migration and doesn't emphasize social inclusion or individual liberties.",
-    "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -2,
         "immigration": -4,
-        "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 4,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 3,
+        "economic_regulation": 0,
+        "social_inclusion": -2
+    },
+    "critique": "This executive order deals with the handling of undocumented aliens interdicted in the Caribbean region. It grants the Attorney General the authority to maintain custody of these individuals, conduct screenings, and provide for their needs. It also defines 'mass migration' as a threat to national security. Here's a breakdown of the scores:\n\n*   **Ideological Tilt:** The order doesn't explicitly promote a liberal or conservative ideology. It focuses on border security and immigration control, which can be seen as leaning slightly conservative. Score: -2\n*   **Immigration Approach:** The order is restrictive, focusing on interdiction and potential return of undocumented aliens. Score: -4\n*   **Executive Power:** The order delegates responsibilities to the Attorney General and Secretary of Defense, but it also defines 'mass migration' as determined by the President, potentially expanding executive power in declaring such a threat. Score: 2\n*   **Federalism:** The order doesn't significantly shift power between state and federal governments. It primarily deals with federal agencies. Score: 0\n*   **National Security vs. Civil Liberties:** The order prioritizes national security by addressing mass migration as a threat and allowing for the detention and screening of undocumented aliens. This could potentially infringe on civil liberties. Score: 3\n*   **Economic Regulation:** The order doesn't directly address economic regulation. Score: 0\n*   **Social Inclusion:** The order doesn't explicitly address social inclusion. Its focus on interdiction and potential return of undocumented aliens could be seen as less inclusive. Score: -2\n\nRevised Scores:\n\n*   Ideological Tilt: -2 (No change)\n*   Immigration Approach: -4 (No change)\n*   Executive Power: 2 (No change)\n*   Federalism: 0 (No change)\n*   National Security vs. Civil Liberties: 3 (No change)\n*   Economic Regulation: 0 (No change)\n*   Social Inclusion: -2 (No change)",
+    "revised_scores": {
+        "ideological_tilt": -2,
+        "immigration": -4,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": -2
     }

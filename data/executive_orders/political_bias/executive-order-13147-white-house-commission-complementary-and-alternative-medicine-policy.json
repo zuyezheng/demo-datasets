@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a commission to study and promote complementary and alternative medicine. This suggests a slight lean towards social inclusion and potentially less regulation in healthcare, but overall appears fairly neutral.",
+    "critique": "This executive order establishes a commission to study complementary and alternative medicine. It doesn't directly address ideological issues, immigration, executive power, federalism, national security, economic regulation, or social inclusion in a significant way. Therefore, most scores should be neutral. The establishment of a commission could be seen as a slight expansion of executive power, but it's minimal.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -1,
-        "social_inclusion": 1
+        "economic_regulation": 0,
+        "social_inclusion": 0
     }
 }

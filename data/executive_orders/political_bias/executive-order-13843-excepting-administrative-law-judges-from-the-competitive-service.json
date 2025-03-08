@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding the appointment of administrative law judges (ALJs). It shifts the appointment process from competitive examination to excepted service, giving agency heads more flexibility. This could be seen as expanding executive power and potentially reducing impartiality. The order emphasizes efficiency and agency needs, which could be interpreted as prioritizing federal control. There is no direct mention of immigration, security, economic regulation, or social inclusion.",
+    "critique": "This executive order changes the hiring process for Administrative Law Judges (ALJs), moving them from the competitive service to the excepted service. This gives agency heads more flexibility in selecting ALJs. The stated rationale is to address potential constitutional concerns raised by the Supreme Court's decision in Lucia v. SEC and to ensure that ALJs possess qualities like work ethic, judgment, and the ability to meet the specific needs of the agency. This could be seen as a move towards deregulation by reducing the constraints on agency heads in hiring, and potentially shifting power away from a standardized, potentially more neutral, hiring process to one with more agency discretion. It doesn't directly address immigration, national security, or social inclusion. It could be argued that it expands executive power by giving agency heads more control over appointments, but it also aims to ensure the constitutionality of the appointment process, which could be seen as a check on executive power in the long run. The impact on federalism is neutral. The ideological tilt is slightly conservative, favoring agency head discretion and potentially leading to the appointment of ALJs who align with the agency's political agenda.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     }
 }

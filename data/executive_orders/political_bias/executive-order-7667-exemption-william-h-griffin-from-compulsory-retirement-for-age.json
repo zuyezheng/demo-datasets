@@ -2,15 +2,15 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order that exempts a government employee from mandatory retirement. It is difficult to assess the political bias of such a document, as it does not contain explicit statements on ideological tilt, immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion. However, one could argue that the decision to exempt an employee from mandatory retirement reflects a preference for experience and continuity in government service, which could be seen as a conservative approach. On the other hand, it could also be seen as a pragmatic decision based on the specific needs of the Geological Survey, which would be a more neutral stance.",
+    "critique": "This is an executive order from 1937 exempting a government employee from mandatory retirement. It's a fairly specific action with limited broader implications. Ideologically, it doesn't lean strongly in either direction. It doesn't directly address immigration, executive power in general, federalism, national security, economic regulation, or social inclusion. The only axis that it touches on is executive power, and even then, it's a very limited use of it.",
     "revised_scores": {
-        "ideological_tilt": -1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 0,

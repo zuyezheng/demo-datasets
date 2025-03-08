@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 1,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1933 that withdraws public lands in California for use by the Department of Agriculture as fire-lookout sites and for storing explosives. It does not contain substantial political content, but some bias can be inferred. The order reflects a time when the federal government played a more active role in land management and resource allocation.",
+    "critique": "This document is an executive order from 1933 that withdraws public lands in California for use by the Department of Agriculture as fire-lookout sites and for storing explosives. It does not express a clear ideological tilt, immigration approach, or stance on social inclusion. It could be argued that it expands executive power slightly by withdrawing the land, but it also states that the order can be revoked by the President or Congress, which provides a check. It centralizes control of the land in the federal government, which indicates a federalist approach. It also touches on national security by providing sites for fire lookouts and storing explosives. Finally, it involves government intervention in land use, which is a form of economic regulation.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 1,
-        "economic_regulation": 2,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

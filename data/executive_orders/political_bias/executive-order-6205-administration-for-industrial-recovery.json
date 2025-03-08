@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document expands executive power by authorizing the Administrator to appoint personnel, fix compensation, conduct hearings, and exercise functions vested in the President by Title I of the National Industrial Recovery Act, subject to the approval of the Special Industrial Recovery Board. It also centralizes federal control by granting the Administrator these powers, indicating a move towards federal primacy. In terms of economic regulation, the document leans towards government intervention as it empowers the Administrator to oversee industrial recovery efforts. The document does not directly address social inclusion, immigration, security vs. liberty, or ideological tilt, so those scores are neutral.",
-    "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 4,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order pertains to the National Industrial Recovery Act of 1933, a key piece of New Deal legislation. It delegates authority to the Administrator for Industrial Recovery to appoint personnel, fix compensation, conduct hearings, and exercise other functions vested in the President by Title I of the Act. The exceptions include approval of codes, agreements, licenses, and powers conferred in specific sections. Given the context of the New Deal, the document likely leans towards liberal ideology due to its interventionist approach in the economy. The order expands executive power by delegating authority to the Administrator. It also centralizes power at the federal level, aligning with the federalism axis. There is no direct impact on immigration, national security, or social inclusion. The economic regulation aspect is significant, as the order facilitates government intervention in the economy. Therefore, the initial scores are: Ideological Tilt: 3, Immigration: 0, Executive Power: 3, Federalism: 3, National Security vs. Civil Liberties: 0, Economic Regulation: 4, Social Inclusion: 0. Upon further reflection, the expansion of executive power is moderate, as it is within the bounds of the NIRA. The ideological tilt is also moderate, as it is specific to economic recovery during the Great Depression. The final scores are: Ideological Tilt: 3, Immigration: 0, Executive Power: 2, Federalism: 3, National Security vs. Civil Liberties: 0, Economic Regulation: 4, Social Inclusion: 0.",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     }
 }

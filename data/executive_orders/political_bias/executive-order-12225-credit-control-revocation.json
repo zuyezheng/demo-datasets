@@ -1,18 +1,18 @@
 {
     "initial_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": -2,
         "social_inclusion": 0
     },
-    "critique": "This document focuses on phasing out credit controls, indicating a move towards deregulation. It also curtails executive power by revoking authorizations granted in a previous executive order.",
+    "critique": "This executive order phases out credit controls that were previously authorized. This suggests a move towards deregulation. There is no mention of immigration, executive power, federalism, national security, or social inclusion. The ideological tilt is slightly conservative due to the deregulation aspect.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": -3,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": -2,

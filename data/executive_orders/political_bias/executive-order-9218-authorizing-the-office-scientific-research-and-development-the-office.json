@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 4,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to the Second War Powers Act, specifically granting the Office of Scientific Research and Development the authority to acquire property for war purposes. This suggests a focus on national security and executive power during wartime.",
+    "critique": "This document is an executive order from 1942 during World War II. It authorizes the Office of Scientific Research and Development to acquire property for war purposes. Given the context of wartime, several biases are apparent.\n\n1.  Ideological Tilt: Neutral (0). The document itself doesn't lean left or right. It's a wartime measure.\n2.  Immigration Approach: Neutral (0). Immigration is not addressed.\n3.  Executive Power: Expands Executive Authority (+3). It grants broad powers to a specific office, increasing executive reach during wartime.\n4.  Federalism: Strong Federal Control (+3). It centralizes power at the federal level to manage war resources.\n5.  National Security vs. Civil Liberties: Heavy National Security Focus (+4). Prioritizes national security due to the wartime context, potentially at the expense of civil liberties (property rights).\n6.  Economic Regulation: Heavy Government Intervention (+3). Allows the government to acquire and manage property, indicating intervention in the economy.\n7.  Social Inclusion: Neutral (0). The document does not address social inclusion.\n\nRevised Scores:\nI have slightly adjusted the scores to better reflect the wartime context and the specific powers granted. The expansion of executive power and focus on national security are significant, but not extreme, given the circumstances. The economic intervention is also notable, but limited to war-related property.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 3,
-        "economic_regulation": 0,
+        "federalism": 3,
+        "security_liberty": 4,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

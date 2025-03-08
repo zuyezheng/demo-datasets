@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document extends Executive Order No. 9492, which prescribes regulations governing non-military and non-naval transportation on Army and Navy air transports. This extension, authorized by the President, involves economic regulation (transportation) and executive power. The order itself doesn't directly address ideological tilt, immigration, federalism, security vs. liberty, or social inclusion.",
+    "critique": "This executive order pertains to regulations governing non-military and non-naval transportation on Army and Navy air transports. It extends the duration of a previous order. Given the limited scope and technical nature, the ideological tilt is likely neutral. The order does not directly address immigration. The order delegates authority to the Secretary of Defense, which could be seen as a slight expansion of executive power, but it's primarily administrative. The order doesn't significantly impact federalism. The order does not directly address national security or civil liberties. The order involves economic regulation of transportation, but the change is minor. The order does not directly address social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

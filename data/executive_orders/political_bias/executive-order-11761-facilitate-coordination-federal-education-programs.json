@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 1,
-        "immigration": 0,
-        "executive_power": 3,
-        "federalism": 4,
-        "security_liberty": 1,
-        "economic_regulation": 2,
-        "social_inclusion": -1
-    },
-    "critique": "The document centralizes control of education at the federal level, expanding executive power through the Secretary of Health, Education, and Welfare. It emphasizes conformity to national educational goals and policies, with a moderate interventionist approach to education.",
-    "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 2,
         "federalism": 3,
-        "security_liberty": 1,
-        "economic_regulation": 3,
+        "security_liberty": 0,
+        "economic_regulation": 2,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order focuses on coordinating federal educational activities and policies. It aims to improve planning and management of these activities by establishing a Federal Interagency Committee on Education and assigning responsibilities to the Secretary of Health, Education, and Welfare and the Assistant Secretary for Education. There is no direct indication of a liberal or conservative ideological tilt. The order does not address immigration. It could be argued that it expands executive power by centralizing control over federal education programs. It promotes federal primacy by coordinating federal agencies. It does not directly address national security or civil liberties. It involves government intervention in education. It does not directly address social inclusion.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

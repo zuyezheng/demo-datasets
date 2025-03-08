@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to an amendment regarding the Selective Service Regulations, specifically addressing registrants who fail to comply with orders for armed forces physical examinations. It allows for these individuals to be selected and ordered for induction even if they haven't been found acceptable for service, with the physical examination to be performed after reporting for induction. This suggests a focus on enforcing compliance with the draft and prioritizing national security considerations.",
+    "critique": "This document pertains to the Military Selective Service Act and amends regulations regarding individuals who refuse to comply with orders for physical examinations. It allows for the induction of individuals who have refused physicals, with the examination to occur after reporting for induction. This seems to prioritize national security and the enforcement of conscription laws. There is no direct impact on immigration, economic regulation, or social inclusion. The impact on executive power and federalism is neutral. The ideological tilt is slightly conservative due to the emphasis on national security and enforcement of military service.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 3,
-        "security_liberty": 4,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
-        "social_inclusion": -1
+        "social_inclusion": 0
     }
 }

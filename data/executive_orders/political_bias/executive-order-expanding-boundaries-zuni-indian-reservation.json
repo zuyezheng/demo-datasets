@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -2,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": -1,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": -1,
+        "social_inclusion": -1
     },
-    "critique": "The document adjusts the boundaries of the Zuni Indian Reservation, excluding lands settled under US public-land laws. This suggests a prioritization of the interests of settlers over those of the Zuni tribe.",
+    "critique": "This executive order adjusts the boundaries of the Zuni Indian Reservation, prioritizing the rights of settlers who occupied lands in good faith under public-land laws before the reservation's expansion. This suggests a conservative approach favoring established settlers over Native American land claims. It doesn't directly address immigration, executive power in a broad sense, or economic regulation. It leans towards state control by recognizing existing land laws. It doesn't explicitly deal with national security or civil liberties. It shows a slight preference for conformity by prioritizing existing settlements.",
     "revised_scores": {
-        "ideological_tilt": -1,
-        "immigration": -1,
-        "executive_power": 1,
-        "federalism": 1,
+        "ideological_tilt": -2,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": -1,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": -2
+        "economic_regulation": -1,
+        "social_inclusion": -1
     }
 }

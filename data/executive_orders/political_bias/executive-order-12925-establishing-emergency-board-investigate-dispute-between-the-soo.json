@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document establishes an emergency board to investigate a dispute between a railroad company and its employees. It aims to prevent interruption of interstate commerce. There is no apparent ideological tilt. The document seems neutral regarding immigration, executive power, federalism, security vs. liberty, economic regulation and social inclusion.",
+    "critique": "This document establishes an emergency board to investigate a dispute between a railroad company and its employees. It does not seem to have a strong ideological tilt, immigration stance, or impact on social inclusion. It could be argued that it expands executive power slightly by creating the board, but it is a temporary measure. It also seems to favor federal intervention in a labor dispute that affects interstate commerce. It does not directly address national security vs. civil liberties. It also involves government intervention in the economy to prevent disruption of transportation services.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 3,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on regulating banking functions and gold transactions during a national emergency. It grants broad authority to the Secretary of the Treasury and Federal Reserve Banks, centralizing control over financial institutions and foreign exchange. There is a strong emphasis on federal control and executive power.",
+    "critique": "This executive order, issued in 1933, addresses the banking crisis during the Great Depression. It grants the Secretary of the Treasury significant authority over banking operations, including the power to license banks and regulate gold exports. It also empowers state authorities to regulate banks within their jurisdiction, under federal oversight. The order aims to stabilize the banking system and prevent hoarding and speculation. It temporarily restricts the export of gold and limits certain banking activities. It seems to strike a balance between federal and state authority, with the federal government taking the lead in addressing the national crisis. There is a strong emphasis on economic regulation and control to stabilize the financial system. There is no direct impact on immigration or social inclusion. The order expands executive power temporarily to address the crisis.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 4,
-        "federalism": 5,
-        "security_liberty": 3,
-        "economic_regulation": 4,
+        "executive_power": 3,
+        "federalism": 2,
+        "security_liberty": 0,
+        "economic_regulation": 5,
         "social_inclusion": 0
     }
 }

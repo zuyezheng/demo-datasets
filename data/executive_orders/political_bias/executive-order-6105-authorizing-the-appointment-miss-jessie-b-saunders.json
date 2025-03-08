@@ -2,17 +2,17 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a recommendation for the appointment of Miss Jessie B. Saunders to a position in the Bureau of the Budget without regard to civil-service rules. This suggests a potential expansion of executive power and a disregard for established procedures. There is no information about ideological tilt, immigration, federalism, security vs. liberty, economic regulation, or social inclusion.",
+    "critique": "This document is a simple appointment, so most axes should be neutral. It waives civil service rules, which could be seen as a slight expansion of executive power, but it's minor. There's no clear ideological tilt, immigration stance, federalism impact, security/liberty concern, economic regulation, or social inclusion aspect.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,

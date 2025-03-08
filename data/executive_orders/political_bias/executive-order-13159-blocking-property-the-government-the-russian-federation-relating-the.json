@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on national security and foreign policy, specifically concerning nuclear proliferation and agreements with Russia. It invokes executive powers to block assets and ensure the implementation of agreements. There's a strong emphasis on national security and executive authority.",
+    "critique": "This executive order pertains to the implementation of an agreement with the Russian Federation regarding the disposition of highly enriched uranium. It declares a national emergency to prevent nuclear proliferation and ensures the transfer of payments to the Russian government under the HEU Agreements. The order blocks any judicial process against Russian assets related to the HEU Agreements. There is a moderate tilt towards national security, and a slight expansion of executive power due to the declaration of a national emergency and blocking of assets. There is no clear indication of ideological tilt, immigration approach, federalism, economic regulation, or social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 4,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

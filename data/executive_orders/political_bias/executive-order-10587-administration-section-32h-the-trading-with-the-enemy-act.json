@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 3
     },
-    "critique": "The document appears to be a designation of authority related to the Trading with the Enemy Act and the Jewish Restitution Successor Organization. It delegates responsibilities to the Attorney General. There's no immediately obvious political bias in the text itself, as it focuses on legal and administrative procedures.",
+    "critique": "This document designates the Jewish Restitution Successor Organization as successor in interest to deceased persons and delegates authority to the Attorney General. It appears to be a technical legal document related to the Trading with the Enemy Act and restitution. There is no clear indication of a liberal or conservative ideological tilt. It does not directly address immigration. It delegates power to the Attorney General, which is a slight expansion of executive power. It does not directly address federalism. It does not directly address national security or civil liberties. It does not directly address economic regulation. It promotes social inclusion by facilitating restitution to a specific group.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 5
+        "social_inclusion": 3
     }
 }

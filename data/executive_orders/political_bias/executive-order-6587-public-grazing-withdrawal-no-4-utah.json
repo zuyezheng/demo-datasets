@@ -1,18 +1,18 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order withdrawing land from settlement for conservation and grazing. It expands executive power and federal control over land use. There's a slight tilt towards economic intervention through resource management.",
+    "critique": "This document is an executive order withdrawing land from settlement, location, sale, or entry and reserving it for classification, in aid of legislation, for conservation and development of natural resources, and for use as grazing land. It does not directly address immigration, civil liberties, or social inclusion. The action could be seen as moderate government intervention in the economy and leans slightly towards conservation, which is often associated with a liberal viewpoint. It also centralizes control of land at the federal level.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 1,
         "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 2,

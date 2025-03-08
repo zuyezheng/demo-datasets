@@ -2,17 +2,17 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": -1,
+        "federalism": -1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document describes the transfer of land from federal to territorial control. It doesn't express explicit opinions on ideological tilt, immigration, executive power, security vs. liberty, economic regulation, or social inclusion. Therefore, most scores are neutral. However, the transfer of land from federal to territorial control suggests a slight move towards state control.",
+    "critique": "This document is a transfer of land from federal to territorial control. It is difficult to assess any ideological slant. It returns land to the Territory of Hawaii. There is no information about immigration, civil liberties, economic regulation, or social inclusion. The executive power is slightly reduced as land is transferred away from federal control.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": -1,
         "federalism": -1,
         "security_liberty": 0,
         "economic_regulation": 0,

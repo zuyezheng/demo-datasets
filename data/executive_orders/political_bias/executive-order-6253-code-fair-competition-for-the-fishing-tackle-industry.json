@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 3,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 4,
+        "social_inclusion": 1
     },
-    "critique": "The document reflects President Franklin D. Roosevelt's approval of a Code of Fair Competition for the Fishing Tackle Industry under the National Industrial Recovery Act of 1933. This act was a key component of the New Deal, which aimed to address the Great Depression through government intervention in the economy. The code seeks to establish fair competition within the industry, indicating a move towards regulated economic activity. Additionally, the condition imposed on the Associated Fishing Tackle Manufacturers to amend their bylaws suggests a concern for fair access and preventing monopolistic practices. The document does not directly address immigration, executive power, federalism, security/liberty, or social inclusion, so those axes are set to neutral.",
+    "critique": "This document approves a Code of Fair Competition for the Fishing Tackle Industry under the National Industrial Recovery Act. It reflects President Roosevelt's use of executive power to implement New Deal policies during the Great Depression. The code aims to regulate competition within the industry, indicating government intervention in the economy. The condition attached to the approval suggests a concern for fair access and preventing monopolies within the association. Given the context of the New Deal and the nature of the policy, I will score each axis accordingly.",
     "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 5,
+        "executive_power": 3,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 3,
-        "social_inclusion": 0
+        "economic_regulation": 4,
+        "social_inclusion": 1
     }
 }

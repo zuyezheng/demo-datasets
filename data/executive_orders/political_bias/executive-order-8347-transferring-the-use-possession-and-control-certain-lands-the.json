@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document describes the transfer of public lands in Alabama to the Tennessee Valley Authority (TVA) for purposes stated in the Tennessee Valley Authority Act of 1933. This act generally involves government intervention in the economy and resource management. The order also revokes a previous withdrawal of these lands for classification, indicating a shift in land management policy.",
+    "critique": "This document is a transfer of land to the Tennessee Valley Authority. It is difficult to assess its political bias without more context. However, we can make some educated guesses. The TVA is a federal entity, so this suggests a strengthening of federal power. The TVA was created as part of the New Deal, which was a liberal project, so we can assume a slight liberal tilt. The TVA also involved economic intervention, so we can assume a slight interventionist tilt. There is no information about immigration, national security, or social inclusion, so we can assume a neutral stance on these issues.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 3,
+        "executive_power": 0,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

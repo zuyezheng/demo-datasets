@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": -1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document discusses the impracticality of noncompetitive examinations for expert money tellers in the Treasury Department and recommends selecting candidates from the Commission's eligible registers instead. It suggests a preference for a merit-based system over potential favoritism or political pressure.",
+    "critique": "This document concerns the process of hiring money tellers in the US Treasury. It recommends changing the hiring process from noncompetitive examinations to selecting from the Commission's eligible registers. This seems to be motivated by the lack of available 'experts' and a desire to avoid solicitation and pressure. There's no clear ideological tilt, immigration aspect, or impact on civil liberties. It slightly reduces executive power by recommending a change to an existing order. It doesn't directly affect federalism or social inclusion. It could be seen as a minor move towards more structured economic regulation by using the Commission's registers.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": -1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 1,
         "social_inclusion": 0

@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1934 that exempts a government employee from mandatory retirement. It is difficult to assess the political bias of this document as it is a specific action related to an individual and doesn't contain broad policy statements.",
+    "critique": "This is an executive order from 1934 exempting a Treasury Department employee from mandatory retirement. Given the historical context of the Great Depression, extending employment could be seen as a slight interventionist move, but it's primarily an administrative decision. There's no clear indication of ideological bias, immigration stance, or impact on civil liberties. It does give the executive branch more power, but only slightly. It doesn't touch on federalism or social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

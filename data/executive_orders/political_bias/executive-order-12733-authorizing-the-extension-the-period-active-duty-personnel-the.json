@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order extending the period of active duty for members of the Selected Reserve. It emphasizes national security and executive authority.",
+    "critique": "This executive order pertains to extending the active duty period for members of the Selected Reserve in the interests of national security. It delegates authority to the Secretaries of Defense and Transportation to implement this extension. The order explicitly states it is for internal management and does not create enforceable rights. There is nothing about immigration, ideological tilt, economic regulation, or social inclusion. The focus is on national security and executive power. It is difficult to assess federalism here. The extension of active duty could be seen as expanding executive power, but it is also within the bounds of existing law.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 4,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

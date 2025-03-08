@@ -1,21 +1,21 @@
 {
     "initial_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": -1
+    },
+    "critique": "This document is an executive order from 1935 that allows Mrs. Myrtle K. Brockway to be appointed to a clerical position in the General Accounting Office without compliance with civil service rules. The justification is that she is the widow of a veteran. This is a relatively narrow action. \n\n1.  Ideological Tilt: This is hard to place on the modern left-right spectrum. It could be seen as a form of patronage, which might be considered conservative in some contexts, but also as support for a veteran's family, which could be seen as liberal. I'll score it as slightly conservative.\n2.  Immigration Approach: This document has nothing to do with immigration.\n3.  Executive Power: This is a specific exception to civil service rules, so it slightly expands executive power, but in a very limited way.\n4.  Federalism: This doesn't really affect the balance of power between the federal government and the states.\n5.  National Security vs. Civil Liberties: This doesn't directly impact national security or civil liberties, though it could be argued that circumventing civil service rules slightly weakens the meritocratic system.\n6.  Economic Regulation: This doesn't directly regulate the economy, but it does create an exception to hiring rules, which could be seen as a slight intervention.\n7.  Social Inclusion: This could be seen as favoring a specific group (veterans' families) over others, so it's slightly against social inclusion in the broadest sense.\n\nRevised Scores:\nI will revise the ideological tilt to be more neutral, as it's hard to place on the modern spectrum. I will also reduce the executive power score, as the impact is very limited.",
+    "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order granting an exception to civil service rules for Mrs. Myrtle K. Brockway, widow of a veteran, to be appointed to a clerical position in the General Accounting Office. This is based on the Civil Service Act of 1883. The order is justified by her late husband's service and is recommended by the General Accounting Office.",
-    "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 1
+        "economic_regulation": 1,
+        "social_inclusion": -1
     }
 }

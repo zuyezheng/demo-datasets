@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -2,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": -3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -3,
         "social_inclusion": 0
     },
-    "critique": "The document promotes privatization of infrastructure assets, transferring them from state and local governments to private parties. It emphasizes deregulation, state control, and reduced federal intervention. It aims to reduce government involvement in the economy and promote private enterprise.",
+    "critique": "This executive order promotes the privatization of infrastructure assets. This suggests a preference for deregulation and a reduced role for the federal government in managing infrastructure. It emphasizes state and local control, aligning with conservative principles of federalism and limited government intervention in the economy. The order also reflects a belief in the efficiency of private enterprise and market-based solutions. It does not directly address immigration, national security, or social inclusion. Therefore, the scores are assigned based on the economic and federalism aspects.",
     "revised_scores": {
         "ideological_tilt": -2,
         "immigration": 0,
         "executive_power": 0,
         "federalism": -3,
         "security_liberty": 0,
-        "economic_regulation": -4,
+        "economic_regulation": -3,
         "social_inclusion": 0
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": 3,
-        "immigration": 3,
-        "executive_power": 3,
+        "immigration": 0,
+        "executive_power": 1,
         "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 0,
         "social_inclusion": 3
     },
-    "critique": "The document establishes the Peace Corps, a program focused on international aid and cooperation. This suggests a liberal ideological tilt, open immigration approach (through international exchange), and potentially expansive executive power (in creating the agency). It also implies a strong federal control and emphasis on social inclusion through international collaboration. Economic regulation is less directly addressed, but the program implies government intervention in international development. Security vs. liberty is not a primary focus.",
+    "critique": "The document establishes the Peace Corps, which is generally seen as a liberal initiative focused on international cooperation and aid.  It delegates authority to the Secretary of State and the Director of the Peace Corps, but doesn't dramatically expand executive power beyond what's necessary to create and run the agency. It doesn't directly address immigration, national security vs. civil liberties, or economic regulation. It promotes social inclusion by sending Americans abroad to assist other nations. It centralizes authority at the federal level to manage the Peace Corps.",
     "revised_scores": {
         "ideological_tilt": 3,
-        "immigration": 3,
-        "executive_power": 3,
+        "immigration": 0,
+        "executive_power": 1,
         "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 0,
         "social_inclusion": 3
     }
 }

@@ -2,17 +2,17 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order withdrawing land for use by the Navy Department. It does not contain sufficient information to assess political bias across the specified axes. The order is primarily an administrative action.",
+    "critique": "This document is a straightforward executive order from 1917 that withdraws land for use by the Navy Department. It doesn't directly address any of the axes related to ideological tilt, immigration, executive power, federalism, national security vs. civil liberties, economic regulation, or social inclusion. Therefore, most of the scores should be neutral. The executive power is slightly expanded as it is an executive order, but it is a normal function of the executive branch.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,

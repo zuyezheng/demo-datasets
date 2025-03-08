@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a short announcement about the appointment of Mrs. Sarah L. Curtiss to a clerkship in the Veterans' Administration. It waives civil service requirements due to her being the widow of a former Public Health Service officer and Veterans' Administration employee. The order is based on the recommendation of the Administrator of Veterans' Affairs.",
+    "critique": "This document is a simple appointment of a widow of a veteran to a clerkship position. It is difficult to assess any strong political bias based on the limited information. The appointment bypasses civil service requirements, which could be seen as a slight expansion of executive power, but it's also a specific case related to a veteran's widow. There's no clear indication of ideological tilt, immigration approach, federalism implications, national security concerns, economic regulation, or social inclusion/exclusion. Therefore, most scores will be neutral, with a slight nudge towards executive power expansion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

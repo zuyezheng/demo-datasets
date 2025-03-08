@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document consolidates and enhances sanctions to combat terrorism, expands executive power in national security, and prioritizes security over liberty.",
-    "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -2,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 1,
-        "security_liberty": 4,
-        "economic_regulation": 2,
+        "federalism": 0,
+        "security_liberty": 3,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order, issued by President Trump, focuses on consolidating and enhancing sanctions against foreign terrorists and threats of terrorism. It amends previous executive orders (13224 and revokes 12947) and builds upon them to combat international terrorism. The order blocks the property and interests of individuals and entities associated with terrorism, as determined by various government officials. It also authorizes the Secretary of the Treasury to prohibit or impose conditions on correspondent accounts of foreign financial institutions that knowingly facilitate transactions for blocked individuals. The order relies on the President's authority under the Constitution, IEEPA, the National Emergencies Act, the UN Participation Act, and UN Security Council resolutions. It includes standard clauses about not impairing existing authority, being subject to appropriations, and not creating enforceable rights. Given the focus on national security and combating terrorism, the order leans towards prioritizing security over civil liberties. It also expands executive power by granting broad authority to the Secretary of the Treasury and other officials to designate and sanction individuals and entities. There is no direct impact on immigration. The order does not directly address economic regulation or social inclusion, but the blocking of assets could be seen as a form of economic intervention. The ideological tilt is somewhat conservative, given the emphasis on national security and strong executive action.",
+    "revised_scores": {
+        "ideological_tilt": -2,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 0,
+        "security_liberty": 3,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

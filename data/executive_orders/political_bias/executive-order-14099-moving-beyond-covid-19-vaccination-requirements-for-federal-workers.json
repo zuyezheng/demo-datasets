@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 4,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 4,
-        "federalism": 3,
-        "security_liberty": 2,
-        "economic_regulation": 3,
-        "social_inclusion": 3
+        "executive_power": -1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": -1,
+        "social_inclusion": 0
     },
-    "critique": "The document revokes COVID-19 vaccination requirements for federal employees and contractors, citing progress in the pandemic and updated guidance from public health experts. It emphasizes individual choice regarding vaccination and reduces government mandates.",
+    "critique": "Let's analyze this document step by step. The document revokes two executive orders that mandated COVID-19 vaccination for federal employees and contractors. This action can be interpreted in several ways depending on the political lens. Ideologically, it could be seen as a move towards less government intervention and individual choice, aligning with conservative viewpoints. However, it also acknowledges the success of the prior vaccination efforts. On immigration, federalism, security vs. liberty, and social inclusion, the document doesn't directly address these issues, so the scores should be neutral. Economically, it reduces the regulatory burden on federal contractors, which could be seen as deregulation. Executive power is slightly reduced as it revokes previous orders. Therefore, the initial scores are as follows:",
     "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": -2,
+        "executive_power": -1,
         "federalism": 0,
-        "security_liberty": -1,
+        "security_liberty": 0,
         "economic_regulation": -1,
-        "social_inclusion": -1
+        "social_inclusion": 0
     }
 }

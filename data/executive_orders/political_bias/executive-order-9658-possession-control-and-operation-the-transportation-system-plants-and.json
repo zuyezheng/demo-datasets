@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 4,
+        "executive_power": 3,
         "federalism": 3,
-        "security_liberty": 3,
+        "security_liberty": 2,
         "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1945, during a wartime emergency. It directs the Director of the Office of Defense Transportation to take control of the Capital Transit Company due to a labor dispute that was impeding the war effort. The order invokes presidential powers under the Constitution, the Selective Training and Service Act, the War Labor Disputes Act, and the First War Powers Act. It prioritizes maintaining transportation operations for the war effort, granting broad authority to the Director and limiting legal challenges against the assets under control. The order also allows for the Secretary of War to provide protection and resources. The document reflects a strong assertion of executive power during wartime to ensure national interests.",
+    "critique": "This document is an executive order from 1945 during a wartime emergency. It authorizes the Director of the Office of Defense Transportation to take control of the Capital Transit Company due to a labor dispute that was impeding the war effort. Here's an analysis of its political biases:\n\n*   **Ideological Tilt:** The order reflects a moderate interventionist approach during a national emergency. It's not inherently liberal or conservative but leans slightly towards interventionism due to the specific context of wartime. (Score: 1)\n*   **Immigration Approach:** This order has no bearing on immigration. (Score: 0)\n*   **Executive Power:** The order expands executive power by authorizing the seizure of a private company. However, this is explicitly tied to the war effort and existing legislation. (Score: 3)\n*   **Federalism:** The order centralizes control at the federal level, as it involves a federal agency taking over a local transportation system. (Score: 3)\n*   **National Security vs. Civil Liberties:** The order prioritizes the war effort (national security) over potential disruptions caused by the labor dispute. There is a potential impact on civil liberties, but it is framed as necessary for the war effort. (Score: 2)\n*   **Economic Regulation:** The order involves government intervention in the operation of a private company, indicating a move towards economic regulation, albeit in an emergency context. (Score: 3)\n*   **Social Inclusion:** The order does not directly address social inclusion. (Score: 0)\n\nRevised Scores:\nAfter further consideration, the initial scores seem appropriate given the context of the document as a wartime measure. The expansion of executive power and federal control are significant but justified by the stated emergency. The economic regulation aspect is also notable, but again, it's within the context of wartime necessity.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 5,
-        "federalism": 4,
-        "security_liberty": 4,
-        "economic_regulation": 4,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 2,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

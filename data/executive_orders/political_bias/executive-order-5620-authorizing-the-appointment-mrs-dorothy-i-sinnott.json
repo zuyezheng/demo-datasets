@@ -2,17 +2,17 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
     },
-    "critique": "The document is a simple announcement of an appointment, lacking substantial content for political bias assessment. It primarily focuses on waiving civil service rules for a specific individual, citing her late husband's public service. Therefore, most axes remain neutral due to the absence of policy stances or ideological statements.",
+    "critique": "This document is a straightforward appointment of Mrs. Dorothy I. Sinnott to a position in the Department of Labor, bypassing civil service rules. Given the context of the time (1931), and the reason stated (widow of a former Representative and Judge), this appears to be a patronage appointment. There's no indication of ideological tilt, immigration stance, executive power grab, federalism implications, national security concerns, economic regulation, or social inclusion considerations. Therefore, most axes should be neutral. However, bypassing civil service rules could be seen as a slight expansion of executive power, but it's very minor in this case. It could also be argued that it is a slight move towards conformity since it favors a particular person instead of opening the position to everyone.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,

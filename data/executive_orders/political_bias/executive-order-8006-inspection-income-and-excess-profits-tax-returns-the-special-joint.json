@@ -3,19 +3,19 @@
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "federalism": 1,
+        "security_liberty": -1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding the inspection of tax returns by a congressional committee investigating the Tennessee Valley Authority. It primarily concerns government oversight and access to financial information for investigative purposes.",
+    "critique": "This document pertains to the inspection of tax returns by a special congressional committee investigating the Tennessee Valley Authority (TVA). It is rooted in the Revenue Acts of the 1920s and 1930s and Public Resolution 83. The order facilitates oversight of the TVA by granting access to tax information. Here's a breakdown of the axes:\n\n1.  Ideological Tilt: The TVA was a New Deal program, so allowing investigation could be seen as slightly conservative, but the act itself is neutral. Score: 0\n2.  Immigration Approach: The document has no bearing on immigration. Score: 0\n3.  Executive Power: The order grants access based on existing legislation, so it doesn't expand executive power significantly. Score: 0\n4.  Federalism: The TVA is a federal entity, and the investigation reinforces federal oversight. Score: +1\n5.  National Security vs. Civil Liberties: The order involves tax information, raising some privacy concerns, but it's for a specific investigation. Score: -1\n6.  Economic Regulation: The TVA was involved in economic development, and the investigation could influence its activities. Score: 0\n7.  Social Inclusion: The document doesn't directly address social inclusion. Score: 0\n\nRevised Scores:\nAfter further consideration, the initial scores are reasonable. The document's primary function is to enable oversight of a federal entity (TVA) through access to tax returns. The slight lean towards federalism and the minor privacy concern are adequately reflected in the initial assessment.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 0,
         "federalism": 1,
-        "security_liberty": 1,
-        "economic_regulation": 2,
+        "security_liberty": -1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

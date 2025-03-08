@@ -1,19 +1,19 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "immigration": 1,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document establishes San Luis, Arizona as a port of entry, which involves federal control over immigration and customs. It doesn't directly address ideological tilt, executive power, security vs. liberty, economic regulation, or social inclusion.",
+    "critique": "This document designates San Luis, Arizona as a port of entry in 1930. It does not seem to have a strong ideological tilt. It has a slight impact on immigration by designating a port of entry. It could be argued that designating a port of entry expands executive power, but this is a very minor effect. It has a slight impact on federalism, as it is a federal designation affecting a state. It has no impact on national security vs. civil liberties, economic regulation, or social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
-        "immigration": 3,
+        "immigration": 1,
         "executive_power": 0,
-        "federalism": 3,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

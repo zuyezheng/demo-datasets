@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
-        "security_liberty": 0,
-        "economic_regulation": 1,
-        "social_inclusion": 3
-    },
-    "critique": "The document is an executive order focused on providing equal economic opportunities for Asian American and Pacific Islander (AAPI) businesses. It establishes a commission and an office within the Department of Commerce to advise the President and coordinate efforts to improve the economic and community development of AAPI businesses. The order emphasizes equal access to federal programs, non-discrimination in contracts, and data collection on AAPI businesses.",
-    "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 2,
-        "social_inclusion": 4
+        "social_inclusion": 3
+    },
+    "critique": "This executive order aims to promote equal economic opportunities for Asian American and Pacific Islander (AAPI) businesses. It establishes a commission and an interagency working group to advise the President and coordinate efforts across the executive branch. The order emphasizes data collection, research, and non-discrimination in federal programs and contracts. It does not directly address immigration, national security, or civil liberties. It could be seen as a form of economic intervention to address potential disparities, and it promotes social inclusion by focusing on a specific minority group. It does not seem to expand executive power significantly, as it primarily directs existing departments and agencies to coordinate their efforts. It also does not obviously shift power between the federal and state governments. The ideological tilt is slightly liberal, as it promotes government intervention to address economic disparities and promote social inclusion.",
+    "revised_scores": {
+        "ideological_tilt": 2,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 2,
+        "social_inclusion": 3
     }
 }

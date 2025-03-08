@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 3,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to the acquisition of property for war purposes by the National Advisory Committee for Aeronautics. It doesn't directly address ideological issues, immigration, or social inclusion. The focus is on executive power and federal authority in wartime.",
+    "critique": "This document pertains to the Second War Powers Act and authorizes the National Advisory Committee for Aeronautics to acquire property for war purposes. Given the context of WWII, several axes can be assessed. Ideological Tilt is neutral as it's a wartime measure. Immigration is not relevant. Executive Power is slightly expanded as it delegates authority. Federalism is neutral. National Security is prioritized over civil liberties due to the wartime context. Economic Regulation is interventionist as the government is acquiring property. Social Inclusion is neutral.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 2,
-        "economic_regulation": 0,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 3,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

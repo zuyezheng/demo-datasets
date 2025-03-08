@@ -2,17 +2,17 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order that exempts John Bach from mandatory retirement, allowing him to continue his service as Chief, Drafting Division, Coast and Geodetic Survey, Department of Commerce, Manila, Philippine Islands until February 28, 1935. The order cites the public interest as the reason for the exemption.",
+    "critique": "This is an executive order from 1934 exempting a specific individual from mandatory retirement. It's a fairly narrow action. There's no clear ideological tilt. It doesn't deal with immigration, federalism, national security, economic regulation, or social inclusion. It does expand executive power slightly by using a provision to exempt someone from a rule, but it's a very specific case.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,

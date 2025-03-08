@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order focused on environmental stewardship and conservation in the Northern Bering Sea region. It aims to enhance the resilience of the region's ecosystem, protect natural resources, and recognize the rights and knowledge of Alaska Native tribes. It also addresses climate change impacts, vessel pollution, shipping routing measures, and oil spill preparedness.",
-    "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 2,
-        "security_liberty": 1,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 2,
+        "social_inclusion": 3
+    },
+    "critique": "This executive order focuses on environmental stewardship and conservation in the Northern Bering Sea region. It aims to protect the ecosystem, support Alaska Native tribes, and incorporate traditional knowledge into decision-making. It also withdraws certain areas from oil and gas leasing. The order establishes a task force and an advisory council to coordinate efforts and ensure tribal input. It addresses pollution from vessels, shipping routing measures, and oil spill preparedness. It also maintains existing habitat protection measures. Overall, the order reflects a commitment to environmental protection, indigenous rights, and sustainable development in the Arctic region.",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 0,
         "economic_regulation": 2,
         "social_inclusion": 3
     }

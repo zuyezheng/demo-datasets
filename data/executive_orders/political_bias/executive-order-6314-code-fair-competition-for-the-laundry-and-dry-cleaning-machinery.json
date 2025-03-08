@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document is an approval of a Code of Fair Competition for the Laundry and Dry Cleaning Machinery Manufacturing Industry by President Franklin D. Roosevelt in 1933. It is based on the National Industrial Recovery Act. The document reflects a strong role of the government in regulating the economy during the Great Depression.",
+    "critique": "This document pertains to the National Industrial Recovery Act of 1933, specifically concerning a Code of Fair Competition for the Laundry and Dry Cleaning Machinery Manufacturing Industry. Given the context of the Great Depression and the New Deal, the document likely reflects a liberal approach to economic regulation and federal intervention. The NIRA aimed to stabilize industries through government oversight, which suggests a strong federal role. There's no direct mention of immigration, civil liberties, or social inclusion in this particular document, so those axes should be neutral. The document expands executive power as it is an executive order. There is no mention of state vs federal primacy.",
     "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 5,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 4,
         "social_inclusion": 0

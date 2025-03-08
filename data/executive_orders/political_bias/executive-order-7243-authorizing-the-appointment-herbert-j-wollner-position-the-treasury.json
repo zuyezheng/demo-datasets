@@ -2,17 +2,17 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order allowing an appointment without civil service rules. This is a narrow action, so the bias is low. The order is recommended by the Secretary of the Treasury, suggesting some level of vetting. The action increases executive power, but in a limited way.",
+    "critique": "This document is a simple executive order that waives civil service rules for a specific appointment. It's difficult to assess its ideological tilt, immigration approach, federalism implications, national security implications, economic regulation impact, or social inclusion stance, as it primarily concerns an individual employment matter. The only axis with a clear impact is executive power, as it expands the president's ability to bypass standard hiring procedures. Therefore, most axes will be scored as neutral (0), with executive power leaning towards expansion (+2).",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 2,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,

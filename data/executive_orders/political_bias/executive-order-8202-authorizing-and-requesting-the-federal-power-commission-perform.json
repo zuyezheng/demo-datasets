@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 2,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document centralizes authority within the Federal Power Commission, giving it significant control over energy transmission and natural gas import/export. It also grants the President power to approve or deny permits based on recommendations from the Secretary of State and Secretary of War. This concentrates power at the federal level and in the executive branch.",
+    "critique": "The document is an executive order from 1939 that concerns the Federal Power Commission's authority over permits for cross-border transmission of electric energy and natural gas. It delegates authority to the FPC to receive applications, consult with the Secretaries of State and War, and make recommendations to the President. There is little to suggest a strong ideological tilt. The order doesn't directly address immigration. It expands executive power by centralizing permit approval through the President, acting on the FPC's recommendation. It centralizes authority at the federal level. It doesn't directly impact national security vs. civil liberties. It involves government in regulating energy transmission, suggesting intervention. It doesn't directly address social inclusion.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 2,
         "federalism": 3,
-        "security_liberty": 1,
+        "security_liberty": 0,
         "economic_regulation": 2,
         "social_inclusion": 0
     }

@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 4,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": -1,
+        "economic_regulation": 3,
+        "social_inclusion": 3
     },
-    "critique": "The document is a U.S. Presidential Executive Order focused on establishing the Federal Government as a leader in sustainability. It sets ambitious goals for achieving a carbon pollution-free electricity sector by 2035 and a net-zero emissions economy by 2050. It directs federal agencies to transition to clean energy, zero-emission vehicles, and net-zero emissions buildings. It also emphasizes sustainable procurement, climate resilience, and environmental justice. The order aims to leverage the Federal Government's scale and procurement power to drive innovation, spur private sector investment, and create economic opportunities.",
+    "critique": "This executive order focuses on sustainability and reducing carbon emissions within the federal government. It sets ambitious goals for carbon pollution-free electricity, zero-emission vehicles, and net-zero emissions buildings. It also emphasizes environmental justice and engagement with various sectors. It promotes a whole-of-government approach, assigning responsibilities to various agencies and establishing working groups. The order also includes provisions for workforce training, sustainable procurement, and adaptation to climate change impacts. It revokes a previous executive order and includes limitations and exemption authorities. Overall, the document reflects a strong commitment to environmental protection and sustainability within the federal government.",
     "revised_scores": {
         "ideological_tilt": 4,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 1,
         "federalism": 2,
-        "security_liberty": 0,
+        "security_liberty": -1,
         "economic_regulation": 4,
         "social_inclusion": 3
     }

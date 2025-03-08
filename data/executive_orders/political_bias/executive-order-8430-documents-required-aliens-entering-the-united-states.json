@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
+        "ideological_tilt": -1,
+        "immigration": -3,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1940 outlining regulations for documents required of aliens entering the United States. It establishes requirements for passports, visas, and other travel documents for both immigrants and non-immigrants. The order also grants authority to various officials to issue visas and waive certain requirements under specific circumstances. The document reflects the legal and administrative framework for immigration during that period.",
+    "critique": "This executive order from 1940 primarily concerns immigration documentation requirements. It outlines which documents (passports, visas, certificates) are needed for different categories of aliens (nonimmigrants and immigrants) entering the United States. It also specifies some exceptions and waivers to these requirements. The order delegates authority to the Secretary of State and other officials to issue regulations and certificates. It also addresses specific cases like Spanish nationals in Puerto Rico and aliens coming from US territories. It seems to be restrictive in nature, setting up requirements for entry. It does not seem to touch on economic regulation, social inclusion, or national security vs. civil liberties in any significant way. It does delegate authority to various officials, but this seems more administrative than an expansion of executive power. It does not seem to strongly favor either federal or state control.",
     "revised_scores": {
         "ideological_tilt": -1,
         "immigration": -3,
-        "executive_power": 1,
-        "federalism": 1,
-        "security_liberty": 1,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": -1
+        "social_inclusion": 0
     }
 }

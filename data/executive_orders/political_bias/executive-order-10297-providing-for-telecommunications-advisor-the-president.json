@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a Telecommunications Advisor position within the Executive Office, expanding presidential authority over telecommunications. It centralizes control over telecommunications policies, frequency assignments, and emergency planning within the executive branch. The order emphasizes national security and government control over telecommunications, potentially at the expense of private sector interests or civil liberties. There is no clear indication of ideological tilt, immigration approach, federalism, economic regulation, or social inclusion.",
+    "critique": "This executive order establishes a Telecommunications Advisor to the President. It seems primarily focused on coordinating telecommunications policies within the executive branch and ensuring security during national emergencies. There's no immediately obvious ideological tilt. Immigration is not addressed. It could be argued that creating a new position within the Executive Office expands executive power, but it's a relatively minor expansion. The order centralizes telecommunications policy at the federal level. It balances national security with non-governmental requirements. There's no direct economic regulation involved. Social inclusion is not addressed.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 2,
-        "economic_regulation": 2,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

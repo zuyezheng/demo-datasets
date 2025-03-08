@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": -1,
+        "federalism": -2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document delegates authority to state governors to manage gasoline allocation during shortages. This indicates a preference for state-level control and intervention in the economy during emergencies.",
+    "critique": "This document delegates authority to state governors to manage gasoline allocation during shortages. It aims to ensure public health, safety, and welfare by allowing governors to regulate retail sales. There's a balance between federal and state power, with the federal government retaining the right to revoke the delegation. The order is temporary, expiring unless extended. It doesn't directly address immigration, civil liberties, or social inclusion. It leans towards government intervention in the economy during emergencies. It doesn't strongly favor either ideological tilt.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": -2,
-        "federalism": -3,
-        "security_liberty": 2,
+        "executive_power": -1,
+        "federalism": -2,
+        "security_liberty": 0,
         "economic_regulation": 3,
         "social_inclusion": 0
     }

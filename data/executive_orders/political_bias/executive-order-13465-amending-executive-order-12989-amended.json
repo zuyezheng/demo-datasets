@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document focuses on enforcing immigration laws in federal procurement, which suggests a restrictive stance on immigration and a prioritization of national security. It also centralizes control over employment verification systems at the federal level.",
-    "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -1,
         "immigration": -3,
         "executive_power": 0,
-        "federalism": 3,
-        "security_liberty": 3,
+        "federalism": 0,
+        "security_liberty": 1,
+        "economic_regulation": 0,
+        "social_inclusion": -1
+    },
+    "critique": "This executive order amends a previous order to promote economy and efficiency in federal government procurement by ensuring contractors comply with immigration laws and use an electronic employment eligibility verification system. It aims to stabilize the workforce of federal contractors by preventing the employment of unauthorized workers. The order emphasizes the enforcement of immigration laws and the use of electronic verification systems. It also includes provisions to minimize the burden on participants in the federal procurement process and protect intelligence and law enforcement sources. The order does not create any new rights or benefits enforceable at law or in equity.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": -3,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": -1
     }

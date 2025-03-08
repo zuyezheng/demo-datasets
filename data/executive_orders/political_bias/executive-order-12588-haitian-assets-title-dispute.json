@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on preserving the status quo regarding assets allegedly stolen by a former Haitian president, pending judicial resolution. It empowers the Secretary of the Treasury to implement the order and doesn't create new rights. There is a slight expansion of executive power to freeze assets.",
+    "critique": "This executive order freezes assets of Jean Claude Duvalier and his associates, at the request of the Haitian government, pending judicial resolution. It does not obviously promote a liberal or conservative agenda. It is neutral on immigration. It could be argued that it expands executive power insofar as it allows the Secretary of Treasury to freeze assets, but this is a limited power exercised in specific circumstances and subject to judicial review, so I will mark it as neutral. It does not obviously impact federalism. It prioritizes international cooperation and the recovery of potentially stolen assets, but does not obviously impact national security or civil liberties. It involves government intervention in the economy by freezing assets, but this is a targeted action related to alleged corruption, so I will mark it as slightly interventionist. It does not directly address social inclusion. Upon further reflection, the interventionist score should be slightly higher, as it does directly involve the government in freezing assets.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 1,
-        "economic_regulation": 0,
+        "security_liberty": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

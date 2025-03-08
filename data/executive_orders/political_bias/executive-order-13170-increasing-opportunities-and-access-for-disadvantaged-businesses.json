@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
-        "social_inclusion": 3
+        "economic_regulation": 3,
+        "social_inclusion": 4
     },
-    "critique": "The document is an executive order focused on increasing opportunities for disadvantaged businesses in federal procurement. It emphasizes non-discrimination and affirmative action to include Small Disadvantaged Businesses (SDBs), businesses in the section 8(a) Business Development program (8(a)s), and Minority Business Enterprises (MBEs). It directs executive departments and agencies to take steps to increase contracting with these businesses, including using price evaluation preference programs, encouraging mentoring relationships, and providing training and technical assistance. The order also addresses federal advertising, information technology, General Services Administration schedules, and bundling contracts. It requests independent agencies to comply and clarifies that the order does not create any enforceable right or benefit.",
+    "critique": "This executive order aims to increase opportunities for disadvantaged businesses in federal procurement. It promotes social inclusion by targeting minority-owned businesses and businesses in the Small Disadvantaged Business Program. It also involves government intervention in the economy through procurement policies. It doesn't directly address immigration, executive power, federalism, or national security vs. civil liberties. Therefore, the scores for those axes should be neutral.",
     "revised_scores": {
         "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 3,
         "social_inclusion": 4

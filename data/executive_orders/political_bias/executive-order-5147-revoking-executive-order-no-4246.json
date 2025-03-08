@@ -3,17 +3,17 @@
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document revokes a previous executive order establishing a district within a national forest on a military reservation. This action itself doesn't directly indicate a strong bias in any of the specified categories. It appears to be an administrative decision.",
+    "critique": "This executive order revokes a previous order establishing a district within a national forest on a military reservation. It's a relatively minor administrative action. There's no clear ideological tilt, immigration impact, or effect on civil liberties. It slightly decreases federal control by removing a federal designation, and has no discernible impact on economic regulation or social inclusion. The executive power aspect is neutral, as it's simply reversing a prior executive action.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": -1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

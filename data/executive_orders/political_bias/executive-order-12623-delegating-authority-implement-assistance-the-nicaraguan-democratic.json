@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -2,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order delegating authority to the Secretary of State and Secretary of Defense regarding the transfer of funds, specifically for assistance to the Nicaraguan Democratic Resistance. It focuses on executive power and foreign policy, with minimal impact on social or economic issues within the US.",
+    "critique": "This document concerns the transfer of funds to the Nicaraguan Democratic Resistance. This suggests a conservative ideological tilt, as this group was associated with anti-communist efforts during the Cold War. The document delegates authority to the Secretaries of State and Defense, which doesn't inherently expand executive power but maintains its function. It doesn't directly address immigration, civil liberties, economic regulation, or social inclusion. Federalism is not a primary concern, though the transfer of funds could be seen as a federal action. Given the context of supporting anti-communist efforts, a slight national security focus can be inferred.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -2,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

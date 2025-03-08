@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a special committee on energy and a national energy office to coordinate federal energy programs and ensure adequate energy supplies. It emphasizes domestic production and conservation without violating the natural environment.",
+    "critique": "This executive order establishes a Special Committee on Energy and a National Energy Office to coordinate energy policy. It aims to increase domestic energy production while protecting the environment, conserve energy, and develop new energy sources. There's a moderate tilt towards government intervention in energy, but it also emphasizes domestic production. It centralizes energy policy coordination within the executive branch. There is no mention of immigration, civil liberties, or social inclusion. The order itself doesn't inherently expand executive power, but it does create new offices within the executive branch to centralize energy policy.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 3,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

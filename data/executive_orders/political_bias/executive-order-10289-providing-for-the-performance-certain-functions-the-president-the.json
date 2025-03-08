@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 0,
+        "executive_power": 2,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     },
-    "critique": "This document primarily concerns the delegation of presidential authority to the Secretary of the Treasury and the Postmaster General. It outlines specific powers related to customs, trade, and financial regulations. There is a slight leaning towards expanding executive power, as it delegates authority, but it's largely an administrative action.",
+    "critique": "This document primarily concerns the delegation of presidential authority to the Secretary of the Treasury and the Postmaster General regarding various financial and customs-related functions. It does not directly address ideological issues, immigration, civil liberties, or social inclusion. The order seems neutral in terms of ideological tilt, immigration, security vs. liberty, and social inclusion. It centralizes authority by delegating presidential powers, thus increasing federal control. It also seems to favor deregulation by streamlining customs and financial processes.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 0,
+        "executive_power": 2,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     }
 }

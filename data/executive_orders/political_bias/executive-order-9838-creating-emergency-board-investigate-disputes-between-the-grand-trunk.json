@@ -1,21 +1,21 @@
 {
     "initial_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    },
+    "critique": "This document establishes a board to investigate a labor dispute between railroad companies and their employees, preventing changes to the conditions out of which the dispute arose for a limited time. \n\n1.  Ideological Tilt: The document addresses a labor dispute, which could be seen as slightly leaning towards labor interests, but it's primarily a procedural action. Score: 1\n2.  Immigration Approach: The document has no bearing on immigration. Score: 0\n3.  Executive Power: The document utilizes existing legal authority (Railway Labor Act) to create an investigative board, which is a moderate use of executive power. Score: 1\n4.  Federalism: The document involves interstate commerce and federal intervention in a local dispute, suggesting a slight federal control. Score: 1\n5.  National Security vs. Civil Liberties: The document doesn't directly impact national security or civil liberties. Score: 0\n6.  Economic Regulation: The document intervenes in a labor dispute, which can be seen as a form of economic regulation. Score: 1\n7.  Social Inclusion: The document does not directly address social inclusion. Score: 0\n\nRevised Scores:\nI will revise the scores to better reflect the document's neutrality and limited scope. The initial scores slightly overemphasized the potential biases. The revised scores will be closer to zero for most axes.",
+    "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "This document establishes a board to investigate disputes between railroad companies and their employees, preventing changes to the conditions out of which the disputes arose for a limited time. It aims to prevent interruption of interstate commerce. The document does not express a clear ideological tilt. It seems to be a balanced approach.",
-    "revised_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 1,
-        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

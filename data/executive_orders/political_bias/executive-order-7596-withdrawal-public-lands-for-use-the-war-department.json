@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 2,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order that withdraws land for military purposes. It doesn't express opinions on social issues, immigration, or economic regulation. The order increases executive power and federal control.",
+    "critique": "This document is an executive order from 1937 that withdraws land in Alaska for military purposes under the authority of acts from 1910 and 1912. It does not touch on ideological issues, immigration, or civil liberties. It expands executive power insofar as it is an executive order, but this is somewhat mitigated by the fact that it is explicitly subject to existing legislation and can be revoked by the President or Congress. It favors federal control over state control since it is a federal action concerning federal land. It has no impact on economic regulation or social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 2,
         "federalism": 3,
-        "security_liberty": 3,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

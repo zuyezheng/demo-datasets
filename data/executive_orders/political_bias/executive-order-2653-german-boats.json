@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 4,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document is a joint resolution authorizing the President to take over vessels owned by enemy nations during World War I. It expands executive power during wartime and centralizes control over shipping.",
+    "critique": "Let's analyze this document for political bias. 1. Ideological Tilt: This document is related to World War I and doesn't directly address typical left-right issues. It's more about national security during wartime. So, I'll score it as 0. 2. Immigration Approach: This isn't about immigration. It's about seizing enemy assets during wartime. Score: 0. 3. Executive Power: The joint resolution authorizes the President to take over vessels. This expands executive power during wartime. I'll score it as +3. 4. Federalism: The resolution doesn't significantly shift power between state and federal governments. It's a federal action related to war. Score: 0. 5. National Security vs. Civil Liberties: This prioritizes national security by allowing the seizure of enemy assets. Civil liberties are somewhat curtailed in this context. Score: +4. 6. Economic Regulation: This involves government intervention in the economy by seizing and operating vessels. Score: +2. 7. Social Inclusion: This isn't directly related to social inclusion. It's about wartime measures. Score: 0. Now, I'll revise the scores slightly. The executive power expansion is significant but not extreme, so I'll keep it at +3. The national security focus is strong, so I'll keep it at +4. The economic regulation is moderate, so I'll keep it at +2.",
     "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": -5,
-        "executive_power": 4,
-        "federalism": 3,
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 0,
         "security_liberty": 4,
-        "economic_regulation": 3,
-        "social_inclusion": -1
+        "economic_regulation": 2,
+        "social_inclusion": 0
     }
 }

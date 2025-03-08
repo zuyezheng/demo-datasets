@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order authorizing the Secretary of Defense to use armed forces and national guard units to disperse persons engaged in acts of violence and restore law and order. This suggests a strong emphasis on security and executive power.",
+    "critique": "This document is an executive order authorizing the Secretary of Defense to use armed forces and national guard units to disperse persons engaged in acts of violence and restore law and order. It invokes Chapter 15 of Title 10 of the United States Code and Section 301 of Title 3 of the United States Code. It does not directly address immigration, economic regulation, or social inclusion. It expands executive power by authorizing the use of military force domestically. It also centralizes power by federalizing the National Guard units of Michigan. It prioritizes national security and law and order over civil liberties in the context of domestic violence.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 4,
-        "federalism": 2,
-        "security_liberty": 4,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

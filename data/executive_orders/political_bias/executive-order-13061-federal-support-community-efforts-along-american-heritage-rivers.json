@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document promotes environmental protection, economic revitalization, and historic preservation through community-based efforts. It emphasizes coordination among federal agencies, partnerships with state, local, and tribal governments, and respect for private property rights. It does not create new regulatory authority and aims to streamline federal assistance to communities along designated rivers.",
-    "revised_scores": {
-        "ideological_tilt": 2,
-        "immigration": 0,
-        "executive_power": 1,
         "federalism": -1,
         "security_liberty": 0,
-        "economic_regulation": 2,
-        "social_inclusion": 3
+        "economic_regulation": 1,
+        "social_inclusion": 2
+    },
+    "critique": "This executive order focuses on environmental protection and community revitalization along rivers. It emphasizes collaboration between federal agencies, state/local/tribal governments, and communities. It doesn't directly address immigration, executive power, or national security. It promotes economic revitalization through environmental protection and historic preservation. It also emphasizes community involvement and partnerships, suggesting a focus on diversity and inclusion. The order explicitly states that it does not create any new regulatory authority and will not interfere with matters of State, local, and tribal government jurisdiction.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": -1,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": 2
     }
 }

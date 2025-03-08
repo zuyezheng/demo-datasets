@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding tax returns and inspection rules. It doesn't directly address social issues, immigration, or civil liberties. Therefore, most axes should be neutral. The economic regulation aspect is slightly positive as it deals with tax-related regulations.",
+    "critique": "This document primarily concerns the inspection of tax returns under various revenue acts and the Social Security Act. It doesn't directly address ideological tilts, immigration, executive power, federalism, national security vs. civil liberties, social inclusion, but it does relate to economic regulation through tax policy. The order itself simply opens tax returns for inspection as per existing regulations, so it doesn't strongly alter the regulatory landscape. It is difficult to assess the ideological tilt without knowing the specifics of the tax policies in question, but given the era and the mention of the Social Security Act, a slight liberal tilt is possible. The document does not seem to expand executive power, but rather implements existing laws. It is federal in nature, as it deals with federal tax laws. It does not directly impact civil liberties or national security. It has a moderate impact on economic regulation, as it enables the enforcement of tax laws. It does not directly address social inclusion.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
-        "security_liberty": 1,
+        "executive_power": 0,
+        "federalism": 3,
+        "security_liberty": 0,
         "economic_regulation": 2,
         "social_inclusion": 0
     }

@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to tax returns and congressional investigation. Initial scores are based on the assumption of a moderate stance.",
+    "critique": "This document pertains to the inspection of tax returns by the Senate Committee on the Judiciary for the purpose of investigating internal security laws. It does not directly address immigration, executive power, federalism, economic regulation, or social inclusion. The primary focus is on national security, potentially at the expense of privacy. The ideological tilt is difficult to assess without more context, but the reference to the Internal Security Act of 1950 suggests a conservative leaning in terms of prioritizing national security. Therefore, the initial scores are as follows:\n\nIdeological Tilt: 2 (Slightly Conservative)\nImmigration Approach: 0 (Neutral)\nExecutive Power: 0 (Neutral)\nFederalism: 0 (Neutral)\nNational Security vs. Civil Liberties: 3 (Heavy National Security Focus)\nEconomic Regulation: 0 (Neutral)\nSocial Inclusion: 0 (Neutral)\n\nUpon further reflection, the document's primary focus is on enabling a congressional investigation. While the investigation concerns internal security, the executive order itself is more about facilitating oversight. Therefore, the 'National Security vs. Civil Liberties' score should be adjusted downwards, and the 'Ideological Tilt' should be closer to neutral. The fact that it is an executive order that enables investigation into citizens moves the needle slightly towards expanding executive power, although indirectly and in a limited way.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 5,
-        "federalism": 5,
-        "security_liberty": 5,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

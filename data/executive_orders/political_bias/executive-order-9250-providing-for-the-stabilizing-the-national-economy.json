@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order focused on economic stabilization during wartime. It establishes an Office of Economic Stabilization and outlines policies for controlling prices, wages, and salaries to prevent inflation and support the war effort. The order grants significant power to the Director of Economic Stabilization and other federal agencies to regulate the economy.",
-    "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 4,
-        "federalism": 5,
-        "security_liberty": 3,
+        "federalism": 4,
+        "security_liberty": 2,
+        "economic_regulation": 5,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order, issued during World War II, establishes the Office of Economic Stabilization and aims to control inflation and stabilize the economy. Here's an analysis of its political bias across the given axes:\n\n1.  Ideological Tilt: The order reflects a strong interventionist approach to the economy, with government control over prices, wages, and resource allocation. This aligns with a liberal approach during times of crisis, where government intervention is seen as necessary to address market failures and protect the public interest. Score: +3\n\n2.  Immigration Approach: The document does not directly address immigration. Score: 0\n\n3.  Executive Power: The order significantly expands executive power by creating a new office with broad authority to control the economy. The Director has the power to issue directives to federal agencies and override existing regulations. Score: +4\n\n4.  Federalism: The order centralizes economic control at the federal level, diminishing the role of states in economic regulation. Score: +4\n\n5.  National Security vs. Civil Liberties: The order prioritizes national security and economic stability during wartime, potentially at the expense of individual economic freedoms. However, it also reaffirms the policy of encouraging free collective bargaining. Score: +2\n\n6.  Economic Regulation: The order imposes heavy government intervention in the economy, with controls on prices, wages, profits, and resource allocation. Score: +5\n\n7.  Social Inclusion: The order does not directly address social inclusion issues. Score: 0\n\nRevised Scores:\n\nAfter further consideration, I've adjusted some of the scores to better reflect the nuances of the document:\n\n*   Ideological Tilt: While interventionist, the context of wartime necessitates a more moderate adjustment. Revised Score: +2\n*   Executive Power: The expansion of executive power is significant but framed within the context of a national emergency. Revised Score: +3\n*   National Security vs. Civil Liberties: The balance between security and liberties is more nuanced, with some protections for collective bargaining. Revised Score: +1",
+    "revised_scores": {
+        "ideological_tilt": 2,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 4,
+        "security_liberty": 1,
         "economic_regulation": 5,
         "social_inclusion": 0
     }

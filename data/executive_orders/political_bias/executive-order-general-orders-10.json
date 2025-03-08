@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an order from the US Army establishing military districts in the former Confederate states during Reconstruction. It centralizes power in the federal government and the military, expanding executive power and prioritizing federal control over states. There is no direct mention of economic regulation, immigration, security/liberty, or social inclusion, so those scores are neutral. The ideological tilt is moderately liberal as it enforces federal law and aims to rebuild the South after the Civil War, which aligns with the policies of the Republican-controlled Congress at the time.",
-    "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 4,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 5,
+        "federalism": 4,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 4
+    },
+    "critique": "This document establishes military districts in the former Confederate states during Reconstruction. Ideologically, it reflects a liberal approach to Reconstruction, aiming to rebuild the South and ensure rights for formerly enslaved people. It centralizes power in the federal government to oversee this process. There is no direct impact on immigration. It arguably expands executive power by using the military to govern states. It arguably emphasizes social inclusion by aiming to protect the rights of formerly enslaved people. It does not directly address economic regulation or national security vs. civil liberties. The initial scores reflect these considerations. The revised scores slightly adjust the emphasis on executive power and social inclusion to better reflect the document's primary focus on Reconstruction.",
+    "revised_scores": {
+        "ideological_tilt": 4,
+        "immigration": 0,
+        "executive_power": 4,
+        "federalism": 4,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 5
     }
 }

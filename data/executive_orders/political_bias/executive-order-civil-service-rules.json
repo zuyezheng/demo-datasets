@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 5
+        "economic_regulation": 2,
+        "social_inclusion": 3
     },
-    "critique": "The document establishes rules for the civil service, aiming to reduce political influence and ensure fair hiring practices. It emphasizes merit-based appointments and prohibits discrimination based on political or religious affiliations. The document also outlines procedures for examinations, appointments, promotions, and transfers within the civil service.",
+    "critique": "This document establishes rules for the civil service. It aims to create a merit-based system, reduce political influence, and ensure fair treatment of employees. It does not directly address immigration, national security, or social inclusion in a way that allows for scoring. It does not seem to expand executive power, but rather sets up a commission to regulate the civil service. It also doesn't seem to strongly favor either state or federal control. It does, however, intervene in the economy by regulating employment. It also promotes diversity by preventing discrimination based on political or religious affiliation.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": -1,
-        "federalism": 1,
-        "security_liberty": 1,
-        "economic_regulation": 1,
-        "social_inclusion": 4
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 2,
+        "social_inclusion": 3
     }
 }

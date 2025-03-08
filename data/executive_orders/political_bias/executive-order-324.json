@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "ideological_tilt": -2,
+        "immigration": -1,
+        "executive_power": 2,
+        "federalism": 4,
+        "security_liberty": 3,
+        "economic_regulation": 3,
+        "social_inclusion": -3
     },
-    "critique": "The document focuses on restricting trade and access to firearms for Native American tribes, expanding executive power to enforce these restrictions, and utilizing military force to prevent the introduction of persons and property into Indian country. This suggests a conservative stance on social issues, a restrictive approach to interactions with Native American tribes, and a prioritization of security concerns.",
+    "critique": "This document focuses on regulating trade and movement of goods (specifically arms and ammunition) in Indian territories. It grants the President authority to prohibit the introduction of goods and revoke trade licenses with Indian tribes, particularly concerning arms. It also empowers the military to prevent the introduction of persons and property into Indian country contrary to law. The document reflects a strong federal control over these territories and prioritizes security concerns related to potential conflicts with hostile Indian tribes. There is an element of social conformity imposed on the tribes by restricting access to arms. It does not directly address economic regulation in a broad sense, but it does regulate trade with specific groups. It does not directly address immigration in general, but it does address the movement of people into Indian territories. It does not explicitly expand executive power beyond what is necessary to enforce these regulations.",
     "revised_scores": {
-        "ideological_tilt": -3,
-        "immigration": -4,
-        "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 4,
-        "economic_regulation": 0,
-        "social_inclusion": -4
+        "ideological_tilt": -2,
+        "immigration": -1,
+        "executive_power": 2,
+        "federalism": 4,
+        "security_liberty": 3,
+        "economic_regulation": 3,
+        "social_inclusion": -3
     }
 }

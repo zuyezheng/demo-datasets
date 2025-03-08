@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The order is focused on national security and immigration restriction, with a strong emphasis on executive power to combat cartels and transnational organizations. It invokes emergency powers and prioritizes security over liberty, with a restrictive approach to immigration. There is little focus on economic regulation or social inclusion beyond the aim of eliminating criminal organizations.",
-    "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": -3,
         "immigration": -4,
-        "executive_power": 4,
+        "executive_power": 3,
         "federalism": 3,
         "security_liberty": 4,
         "economic_regulation": 0,
-        "social_inclusion": -2
+        "social_inclusion": 0
+    },
+    "critique": "This document focuses on combating international cartels and transnational organizations by designating them as Foreign Terrorist Organizations or Specially Designated Global Terrorists. It invokes the International Emergency Economic Powers Act (IEEPA) and suggests potential use of the Alien Enemies Act. Here's an analysis of its political bias:\n\n1.  Ideological Tilt: The document leans conservative due to its emphasis on national security, border control, and combating criminal organizations. It reflects a tough-on-crime approach and prioritizes the safety of American citizens and the territorial integrity of the United States. Score: -3\n2.  Immigration Approach: The document adopts a restrictive stance on immigration by aiming to eliminate the presence of cartels and transnational organizations in the United States, which implies stricter border enforcement and potential limitations on immigration. Score: -4\n3.  Executive Power: The document expands executive power by declaring a national emergency and directing various departments to take action against these organizations. It grants the executive branch significant authority in designating and combating these threats. Score: +3\n4.  Federalism: The document centralizes power in the federal government by tasking federal agencies with combating these organizations and potentially invoking the Alien Enemies Act. This indicates a strong federal role in addressing these issues. Score: +3\n5.  National Security vs. Civil Liberties: The document prioritizes national security by focusing on eliminating threats posed by cartels and transnational organizations. This may come at the expense of civil liberties, as it suggests potential use of the Alien Enemies Act and expedited removal processes. Score: +4\n6.  Economic Regulation: The document does not directly address economic regulation. However, by targeting cartels and transnational organizations, it indirectly aims to protect the U.S. economy from illicit activities. Score: 0\n7.  Social Inclusion: The document does not explicitly address social inclusion. However, by focusing on combating criminal organizations, it indirectly aims to protect communities from violence and exploitation. Score: 0\n\nRevised Scores:\nAfter further consideration, I have adjusted some of the scores to better reflect the document's emphasis and potential impact. The document's primary focus is on national security and combating criminal organizations, which warrants a stronger emphasis on those axes.\n\n1.  Ideological Tilt: -3 (No Change)\n2.  Immigration Approach: -4 (No Change)\n3.  Executive Power: +3 (No Change)\n4.  Federalism: +3 (No Change)\n5.  National Security vs. Civil Liberties: +4 (No Change)\n6.  Economic Regulation: 0 (No Change)\n7.  Social Inclusion: 0 (No Change)",
+    "revised_scores": {
+        "ideological_tilt": -3,
+        "immigration": -4,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 4,
+        "economic_regulation": 0,
+        "social_inclusion": 0
     }
 }

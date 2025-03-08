@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 1
     },
-    "critique": "The document is an executive order from 1935 allowing Mrs. Carmen B. Knox to be appointed as a clerk in the Post Office Department without complying with civil service rules. This is justified by her qualifications, her late husband's service, and her own service during World War I. The order is issued upon the recommendation of the Postmaster General.",
+    "critique": "This is an executive order granting an exception to civil service rules for a specific individual, Mrs. Carmen B. Knox, to be appointed as a clerk in the Post Office Department. The rationale is based on her qualifications, her late husband's service, and her own prior service. There is minimal ideological content. Immigration is not directly addressed, though her language skills are noted. Executive power is slightly expanded in granting an exception. Federalism is not relevant. National security vs. civil liberties is not a major factor. Economic regulation is not directly addressed. Social inclusion is somewhat promoted by considering her qualifications and circumstances.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 1

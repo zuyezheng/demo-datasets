@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 1,
+        "economic_regulation": -1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order amending a previous order regarding the processing of export license applications for commercial communication satellites and hot-section technologies for aircraft engines. It outlines the review and appeal processes within the government, specifically focusing on disagreements between departments and agencies. The order emphasizes the role of the Chair of the OC and the ACEP in resolving these disagreements, with a final appeal possible to the Secretary. The order also includes a clause stating that it does not create any rights to administrative or judicial review.",
+    "critique": "This executive order amends a previous order (12981) regarding the processing of export license applications, specifically concerning commercial communication satellites and hot-section technologies for aircraft engines. It adjusts the review process within the government, giving more weight to majority votes within the Operating Committee (OC) and the Advisory Committee on Export Policy (ACEP). There's a clear emphasis on streamlining the decision-making process for these specific technologies. The order explicitly states it doesn't create any new rights to judicial review. It's difficult to assign a strong ideological tilt. It seems more focused on bureaucratic efficiency. Immigration is not directly addressed. Executive power is somewhat expanded by streamlining the process and making majority votes more decisive. Federalism is not directly impacted. National security is a consideration, as export controls relate to national security, but it's balanced against economic interests. Economic regulation is slightly reduced by making export licensing more efficient. Social inclusion is not relevant here.\n\nInitial scores:\n*   Ideological Tilt: 0\n*   Immigration: 0\n*   Executive Power: 1\n*   Federalism: 0\n*   Security vs. Liberty: 1\n*   Economic Regulation: -1\n*   Social Inclusion: 0\n\nRevised scores:\n*   Ideological Tilt: 0\n*   Immigration: 0\n*   Executive Power: 1\n*   Federalism: 0\n*   Security vs. Liberty: 1\n*   Economic Regulation: -1\n*   Social Inclusion: 0",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 1,
         "economic_regulation": -1,
         "social_inclusion": 0

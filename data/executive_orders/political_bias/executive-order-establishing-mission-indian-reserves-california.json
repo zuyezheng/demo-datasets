@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document establishes reservations for Mission Indians, reflecting a degree of federal intervention and an attempt at social inclusion, but within the context of historical displacement and control. There's no clear stance on economic regulation, executive power, security vs. liberty, or immigration in this particular document.",
-    "revised_scores": {
         "ideological_tilt": 1,
-        "immigration": 0,
-        "executive_power": 0,
+        "immigration": -2,
+        "executive_power": 3,
         "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 2
+        "social_inclusion": 1
+    },
+    "critique": "This document establishes reservations for Mission Indians in California. It's difficult to assess its ideological tilt without more context, but setting aside land for Native Americans could be seen as a progressive action at the time. The document restricts access to these lands, suggesting a restrictive approach to immigration/access. The executive order expands executive power by setting aside these lands. It also centralizes power at the federal level, dictating land use within a state. The document does not directly address national security or civil liberties. It has no direct economic regulation implications. It could be seen as promoting social inclusion by protecting Native American lands, but also enforces a degree of separation.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": -2,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 1
     }
 }

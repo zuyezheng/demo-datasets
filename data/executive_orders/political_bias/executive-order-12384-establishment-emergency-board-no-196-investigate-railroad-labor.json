@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document establishes an emergency board to investigate a labor dispute between transportation authorities and labor organizations. It does not express opinions on immigration, executive power, federalism, security vs. liberty, or social inclusion. It involves government intervention in economic matters by establishing a board to resolve a labor dispute.",
+    "critique": "This document establishes an emergency board to investigate a labor dispute between transportation authorities and labor organizations. It doesn't directly address ideological issues, immigration, or social inclusion. It could be argued that intervening in a labor dispute leans slightly towards government intervention in the economy. The creation of the board itself could be seen as a slight expansion of executive power, although it's within the bounds of existing legislation. It has no implications for federalism, national security, or civil liberties. Therefore, most scores should be neutral, with a slight lean towards intervention on the economic regulation axis and a slight lean towards expansion on the executive power axis.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

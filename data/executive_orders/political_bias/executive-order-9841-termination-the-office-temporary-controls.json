@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 1,
-        "immigration": 0,
-        "executive_power": 2,
-        "federalism": 3,
-        "security_liberty": 0,
-        "economic_regulation": 3,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order regarding the termination and liquidation of the Office of Temporary Controls in 1947. It transfers various functions related to price controls, subsidies, and other economic regulations to different government departments like the Department of Agriculture, the Reconstruction Finance Corporation, and the Department of Commerce. The order also addresses the transfer of records, property, and personnel to the relevant agencies. The document reflects a move towards deregulation and decentralization of control after World War II.",
-    "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": -2,
+        "economic_regulation": -3,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order concerns the orderly liquidation of the Office of Temporary Controls, established during World War II, and the disposition of its residual affairs. It transfers functions related to rent control, price control over rice, subsidies, and other economic regulations to various departments like Housing, Agriculture, Commerce, and the Reconstruction Finance Corporation. The order also revokes a previous executive order and withdraws authority related to compulsory orders for products or materials. Overall, the document aims to dismantle wartime economic controls and redistribute responsibilities among existing government entities. It does not directly address immigration, civil liberties, or social inclusion. The primary focus is on winding down temporary government interventions in the economy. Therefore, the ideological tilt is slightly conservative, as it reduces government intervention. Executive power is not significantly expanded or restricted, as it mainly involves transferring existing functions. Federalism is slightly strengthened as functions are transferred to federal agencies. Economic regulation is reduced as the Office of Temporary Controls is terminated. Social inclusion and security liberties are not directly addressed.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": -3,
         "social_inclusion": 0
     }
 }

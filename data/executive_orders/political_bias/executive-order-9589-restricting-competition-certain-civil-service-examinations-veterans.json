@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": -1,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 2
+        "social_inclusion": 0
     },
-    "critique": "The document prioritizes veterans' preference in civil service examinations, specifically within the Veterans' Administration. This suggests a focus on social inclusion for veterans, but also potentially restricts opportunities for non-veterans. The order itself doesn't directly address economic regulation, executive power, federalism, security vs. liberty, or broader social inclusion issues beyond veterans' preference. The ideological tilt is slightly conservative in the sense that it favors a specific group (veterans) for government positions.",
+    "critique": "This executive order prioritizes veterans for certain positions within the Veterans' Administration. This could be seen as slightly conservative in the sense that it favors a specific group (veterans) for employment, but it is also a policy that enjoys broad support across the political spectrum. There is no mention of immigration, executive power, federalism, national security vs. civil liberties, economic regulation, or social inclusion. Therefore, most axes should be neutral.",
     "revised_scores": {
-        "ideological_tilt": -1,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 2
+        "social_inclusion": 0
     }
 }

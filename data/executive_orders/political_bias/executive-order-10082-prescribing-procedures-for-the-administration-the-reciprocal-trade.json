@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document establishes committees and procedures for negotiating and administering trade agreements. It aims to balance the interests of various sectors of the American economy while promoting and safeguarding them through trade agreements. There is no explicit discussion of immigration, executive power, federalism, security vs. liberty, or social inclusion. The document focuses on economic regulation through trade agreements, with an emphasis on balancing deregulation and intervention to promote American interests.",
+    "critique": "This document establishes committees and procedures for negotiating and administering trade agreements. It aims to promote and safeguard American economic interests through trade agreements. There's a focus on gathering information and advice from various government agencies and interested parties. It also includes provisions for addressing potential injury to domestic industries due to increased imports. The document itself doesn't directly address social issues or civil liberties. It seems to be primarily focused on economic and trade policy. Therefore, the ideological tilt is moderate, leaning slightly towards intervention due to the establishment of committees and procedures. Immigration is not directly addressed. Executive power is somewhat expanded as the President is given authority to approve lists of articles for negotiation. Federalism is neutral. National security is mentioned as a factor to consider, but not prioritized. Economic regulation is present through the administration of trade agreements. Social inclusion is not addressed.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -1,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

@@ -1,6 +1,6 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
@@ -8,9 +8,9 @@
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a land withdrawal order for a lookout station, which has minimal political bias. It focuses on land management and forest protection.",
+    "critique": "This document is an executive order withdrawing land from settlement for use as a lookout station. It seems to have a slightly conservative bent as it restricts access to land. There is no mention of immigration, executive power, federalism, national security, economic regulation, or social inclusion, so these should be neutral. The ideological tilt is slightly conservative because it restricts access to land.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,

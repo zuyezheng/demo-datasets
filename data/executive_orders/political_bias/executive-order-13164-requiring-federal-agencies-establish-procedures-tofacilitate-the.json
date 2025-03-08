@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
-        "security_liberty": -1,
-        "economic_regulation": 1,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
         "social_inclusion": 4
     },
-    "critique": "The document is an executive order focused on promoting reasonable accommodation for individuals with disabilities in the federal workplace. It emphasizes compliance with the Rehabilitation Act of 1973 and directs agencies to submit their accommodation procedures to the EEOC. The order also addresses collective bargaining obligations and clarifies that it does not create new enforceable rights but aims to improve internal management.",
+    "critique": "This executive order focuses on providing reasonable accommodations for individuals with disabilities in the federal workplace. It directs agencies to submit their procedures to the EEOC and emphasizes collective bargaining obligations. It does not directly address immigration, executive power, federalism, national security, or economic regulation. It promotes social inclusion by ensuring accommodations for people with disabilities.",
     "revised_scores": {
         "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
-        "security_liberty": -1,
-        "economic_regulation": 1,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
         "social_inclusion": 4
     }
 }

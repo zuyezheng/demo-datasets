@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 2,
+        "social_inclusion": 3
     },
-    "critique": "The document establishes an Indian reservation, expanding federal control over land use and potentially impacting existing settlements. It reflects a balanced approach by excluding lands with pre-existing valid rights.",
+    "critique": "This document establishes an addition to the Navaho Indian Reservation in Utah. \n\n1.  Ideological Tilt: This is a neutral action, not clearly aligning with liberal or conservative ideologies. Score: 0\n2.  Immigration Approach: This does not directly relate to immigration. Score: 0\n3.  Executive Power: Setting aside land for a reservation is within the executive's power, but not an extreme expansion. Score: 1\n4.  Federalism: This is a federal action impacting a state, indicating federal control. Score: 2\n5.  National Security vs. Civil Liberties: This does not directly relate to national security or civil liberties. Score: 0\n6.  Economic Regulation: This withholds land from sale and settlement, indicating government intervention. Score: 2\n7.  Social Inclusion: This benefits a specific group (Native Americans), promoting inclusion. Score: 3\n\nRevised Scores:\nI have slightly adjusted the scores to better reflect the nuances of the document. The executive power is a moderate expansion, federalism leans towards federal control, and social inclusion is a positive aspect.",
     "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 3,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 3
     }
 }

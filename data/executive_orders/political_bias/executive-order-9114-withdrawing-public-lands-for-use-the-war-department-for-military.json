@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order withdrawing public lands in Alaska for military purposes during World War II. It doesn't directly address typical political issues but implies a strong executive power and federal control over land use.",
+    "critique": "This document is an executive order from 1942 that withdraws public lands in Alaska for use by the War Department. It also revokes a previous proclamation adding land to the Tongass National Forest. Given the context of World War II, this action likely supports military preparedness. There's no clear indication of ideological tilt, immigration policy, or social inclusion. It does expand executive power to some extent and centralizes control at the federal level. It also prioritizes national security. There's no direct economic regulation involved.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 2,
         "federalism": 3,
-        "security_liberty": 2,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

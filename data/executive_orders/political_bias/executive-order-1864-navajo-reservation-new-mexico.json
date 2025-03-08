@@ -6,16 +6,16 @@
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
     },
-    "critique": "The document reserves land for a Native American boarding school and modifies a previous land withdrawal. This suggests a focus on government administration and potentially Native American affairs.",
+    "critique": "This document pertains to land allocation for a Native American boarding school. Given the historical context of such schools, which often aimed to assimilate Native American children into white culture, the document could be seen as leaning towards an emphasis on conformity rather than diversity. However, it also provides resources to a Native American community. The modification of a previous coal land withdrawal suggests a potential shift in land use priorities, possibly towards supporting the school's needs. The document itself doesn't explicitly address ideological issues, immigration, executive power, federalism, national security, or economic regulation. Therefore, most axes should be scored as neutral. The social inclusion score is the most difficult. While seeming to provide resources, the historical context of boarding schools suggests assimilation, so I will start with a slightly negative score and revise it to neutral.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 3
+        "social_inclusion": 0
     }
 }

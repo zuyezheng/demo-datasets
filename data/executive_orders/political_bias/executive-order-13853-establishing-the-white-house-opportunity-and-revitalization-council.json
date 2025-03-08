@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
-        "security_liberty": 0,
-        "economic_regulation": 1,
-        "social_inclusion": 1
-    },
-    "critique": "The document is an executive order focused on encouraging investment in economically distressed communities through opportunity zones. It establishes a White House Council to coordinate efforts across federal agencies, streamline regulations, and stimulate economic opportunity. The order emphasizes public-private partnerships and seeks to reduce administrative burdens to encourage investment. There is a focus on leveraging existing authorities and resources to revitalize these communities.",
-    "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 0,
         "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 2,
-        "social_inclusion": 1
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order focuses on stimulating economic growth in distressed communities through public and private investment, particularly through qualified opportunity zones established by the Tax Cuts and Jobs Act. It establishes a White House Council to coordinate efforts across agencies and engage with state, local, and tribal governments. The order aims to streamline regulations, optimize the use of federal resources, and encourage entrepreneurship. It also addresses education, housing, workforce development, and crime prevention. The order does not directly address immigration, civil liberties, or social inclusion in a way that would strongly indicate a bias. It leans towards deregulation and federal coordination, but within existing legal frameworks. The emphasis on economic growth and private investment suggests a slightly conservative approach, but the focus on distressed communities also aligns with some liberal goals.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 2,
+        "security_liberty": 0,
+        "economic_regulation": -1,
+        "social_inclusion": 0
     }
 }

@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order that exempts a government employee from mandatory retirement. It is difficult to assess the political bias and sentiment of this document based on the given axes, as it primarily deals with personnel management and bureaucratic procedures.",
+    "critique": "This is an executive order that makes an exception to a mandatory retirement age for a government employee. There is nothing about immigration, civil liberties, economic regulation, or social inclusion. It does expand executive power slightly, and it could be argued that it centralizes power in the federal government, but only very weakly. There is no ideological tilt.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 0,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

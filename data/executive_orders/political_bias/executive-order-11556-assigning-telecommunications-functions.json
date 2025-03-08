@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 2,
+        "federalism": 2,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding telecommunications policy. It primarily focuses on establishing the role and responsibilities of the Director of the Office of Telecommunications Policy. There is a moderate centralizing effect as it consolidates telecommunications authority within the executive branch. The order also touches on national security and emergency preparedness, indicating a balanced approach between security and other concerns. There is no direct impact on immigration or social inclusion. Economic regulation is indirectly affected through telecommunications policy.",
+    "critique": "This executive order establishes the Office of Telecommunications Policy and outlines its functions. It centralizes telecommunications policy under the President's direction, coordinating activities across the executive branch and with external entities like Congress and the FCC. There's a focus on national security and emergency preparedness in telecommunications. The order doesn't directly address immigration, social issues, or economic regulation in a significant way. It appears to expand executive power by creating a central authority for telecommunications policy within the executive branch. It also seems to favor federal control by coordinating telecommunications activities across different agencies. Given the emphasis on national security and emergency preparedness, there's a slight tilt towards prioritizing security over liberty. The order itself doesn't seem to have a strong ideological leaning.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 2,
-        "federalism": 1,
+        "federalism": 2,
         "security_liberty": 1,
-        "economic_regulation": 1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

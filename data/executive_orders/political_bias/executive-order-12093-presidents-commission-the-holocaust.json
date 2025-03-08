@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 2
     },
-    "critique": "The document establishes a commission for a Holocaust memorial. It doesn't directly address typical political issues, but its focus on remembrance and inclusivity can be seen as leaning slightly liberal.",
+    "critique": "This executive order establishes a commission to create a Holocaust memorial. It doesn't directly address most of the axes. Ideologically, it leans slightly liberal due to its focus on social inclusion and remembrance of a historical tragedy rooted in intolerance. Immigration is not addressed. Executive power is neutral, as it simply establishes a commission. Federalism is also neutral. National security vs. civil liberties is not directly relevant. Economic regulation is not addressed. Social inclusion is slightly positive, as the memorial serves as a reminder of the dangers of exclusion.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 2

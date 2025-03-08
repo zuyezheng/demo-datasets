@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 3
     },
-    "critique": "The document prioritizes the welfare of Navajo Indians by reserving land for them. It also mentions existing rights and claims, and water-power designations, indicating a balanced approach.",
+    "critique": "This document pertains to the allocation of land to Navajo Indians in Arizona. It seems to be motivated by a desire to provide for their welfare by allotting land. It also respects existing rights and claims. There's no clear indication of ideological tilt, immigration policy, executive power expansion, or national security concerns. It seems to favor federal control over land allocation, and it promotes social inclusion by providing land for the Navajo Indians.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 2
+        "social_inclusion": 3
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 4,
+        "social_inclusion": 1
     },
-    "critique": "The document reflects President Roosevelt's approval of labor provisions for the Wholesale Food and Grocery Trade under the National Industrial Recovery Act of 1933. This act was a key component of the New Deal, aimed at regulating industries and improving labor conditions during the Great Depression. The document signifies a strong federal role in economic regulation and labor standards.",
+    "critique": "This document pertains to the National Industrial Recovery Act of 1933, specifically concerning labor provisions for the wholesale food and grocery trade. Given the context of the New Deal era, the document likely leans towards government intervention in the economy and potentially social inclusion through labor protections. However, without specific details on the labor provisions themselves, some axes are difficult to score precisely. Here's a breakdown:\n\n*   **Ideological Tilt:** The New Deal was generally liberal, so I'll start with +3.\n*   **Immigration Approach:** The document doesn't mention immigration, so I'll start with 0.\n*   **Executive Power:** The document is an executive order, but it's based on existing legislation (National Industrial Recovery Act), so it's not a huge expansion of power. I'll start with +1.\n*   **Federalism:** The National Industrial Recovery Act increased federal power, so I'll start with +3.\n*   **National Security vs. Civil Liberties:** The document doesn't directly address this, so I'll start with 0.\n*   **Economic Regulation:** The National Industrial Recovery Act was a major intervention in the economy, so I'll start with +4.\n*   **Social Inclusion:** Labor provisions could promote social inclusion, but it's not explicit. I'll start with +1.\n\nUpon further reflection, the document's reliance on existing legislation tempers the expansion of executive power. The labor provisions, while potentially inclusive, are not explicitly so. The economic regulation aspect is central to the document's purpose and the NIRA's goals.\n\nRevised scores:\n\n*   **Ideological Tilt:** +3 (No change)\n*   **Immigration Approach:** 0 (No change)\n*   **Executive Power:** +1 (No change)\n*   **Federalism:** +3 (No change)\n*   **National Security vs. Civil Liberties:** 0 (No change)\n*   **Economic Regulation:** +4 (No change)\n*   **Social Inclusion:** +1 (No change)",
     "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 4,
+        "executive_power": 1,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 4,
-        "social_inclusion": 0
+        "social_inclusion": 1
     }
 }

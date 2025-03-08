@@ -1,6 +1,6 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
@@ -8,14 +8,14 @@
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on environmental considerations in federal actions with international implications. It aims to ensure that federal agencies consider environmental impacts when making decisions about actions that affect the environment outside the US, its territories, and possessions. It promotes information exchange and cooperation with foreign nations on environmental concerns. The order includes exemptions for actions related to national security, intelligence, and emergency relief.",
+    "critique": "This executive order focuses on environmental impact assessments for federal actions outside the US. It aims to ensure environmental considerations are included in decision-making, aligning with existing environmental policies. It seems to promote environmental protection and international cooperation on environmental issues. It doesn't directly address immigration, economic regulation, or social inclusion. It also includes exemptions for national security and emergency situations.",
     "revised_scores": {
         "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
-        "social_inclusion": 1
+        "economic_regulation": 0,
+        "social_inclusion": 0
     }
 }

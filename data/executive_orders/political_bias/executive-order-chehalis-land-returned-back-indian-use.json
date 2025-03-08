@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -2,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 2,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -3
     },
-    "critique": "The document describes the restoration of land to the public domain that was previously reserved for the Chehalis Indians, and the setting aside of other land for their use. This suggests a shift in land management and potentially impacts the economic and social well-being of the Chehalis Indians.",
+    "critique": "This executive order deals with land allocation involving the Chehalis Indians in 1886. It restores a large tract of land to the public domain but also sets aside a smaller portion for the Chehalis Indians' use. This suggests a mixed approach towards Native American land rights. Given the historical context, such actions often resulted in the diminishment of Native American land holdings. Therefore, the ideological tilt leans slightly conservative due to the reduction of land for the Chehalis Indians. Immigration is not relevant. Executive power is somewhat expanded as it's a unilateral decision regarding land. Federalism is strong as it's a federal decision impacting a territory. National security vs. civil liberties isn't directly relevant, but the decision impacts the Chehalis Indians. Economic regulation isn't directly relevant. Social inclusion is negatively impacted as land is taken away from the Chehalis Indians.",
     "revised_scores": {
-        "ideological_tilt": -1,
+        "ideological_tilt": -2,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 2,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": -1,
-        "social_inclusion": -2
+        "economic_regulation": 0,
+        "social_inclusion": -3
     }
 }

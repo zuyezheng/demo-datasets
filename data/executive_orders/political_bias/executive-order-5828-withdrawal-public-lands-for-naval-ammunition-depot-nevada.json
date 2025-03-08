@@ -3,19 +3,19 @@
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "federalism": 3,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document describes the withdrawal of public lands for the exclusive use of the United States Navy Department for development and use as an ammunition depot. This suggests a focus on national security and government control over land use.",
+    "critique": "This document is an executive order withdrawing land for use as a Navy ammunition depot. It cites specific acts of Congress as its authority. Given the nature of the document, several axes are likely to be neutral. The order itself doesn't inherently expand executive power, as it is based on existing legislation. It doesn't directly address immigration, economic regulation, or social inclusion. It does relate to federalism, as it involves the federal government taking control of land. It also touches on national security, as it's for an ammunition depot.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 3,
-        "security_liberty": 3,
-        "economic_regulation": 2,
+        "security_liberty": 2,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

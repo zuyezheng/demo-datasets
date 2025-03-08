@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": -2,
-        "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": -3
-    },
-    "critique": "The document is an executive order regarding land allocation involving the Ute Indians. It appears to be restoring land to the public domain that was previously designated for the Ute Indian Reservation. This could be seen as a shift away from protecting indigenous lands and towards making them available for sale and settlement.",
-    "revised_scores": {
         "ideological_tilt": -3,
-        "immigration": -1,
-        "executive_power": 3,
+        "immigration": -2,
+        "executive_power": 2,
         "federalism": 3,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 1,
+        "economic_regulation": -2,
         "social_inclusion": -4
+    },
+    "critique": "This executive order from 1882 deals with land allocation concerning the Ute Indian Reservation in Colorado. It restores certain tracts of land, previously designated for the Ute Indians, to the public domain. This action reflects a shift in policy away from supporting Native American land rights and towards opening up land for settlement and sale. This historical context is crucial for assessing the document's political bias.\n\n1.  Ideological Tilt: The document reflects a conservative approach of the time, prioritizing westward expansion and resource exploitation over Native American rights. Score: -3\n2.  Immigration Approach: While not directly related to immigration, the document facilitates settlement by non-native populations, indirectly promoting a more open approach to settlement at the expense of indigenous populations. Score: -2\n3.  Executive Power: The document utilizes executive power to alter land designations, indicating an expansion of executive authority in this domain. Score: 2\n4.  Federalism: The order is issued at the federal level, dictating land use within a state, suggesting a strong federal control. Score: 3\n5.  National Security vs. Civil Liberties: The document does not directly address national security or civil liberties. However, the disregard for Native American land rights could be interpreted as a prioritization of the interests of the expanding nation over the rights of indigenous people. Score: 1\n6.  Economic Regulation: By opening up land for sale and settlement, the document promotes deregulation and free-market principles. Score: -2\n7.  Social Inclusion: The document demonstrates a lack of social inclusion, as it diminishes the land holdings of the Ute Indians. Score: -4\n\nRevised Scores:\nAfter further consideration, the initial scores require some adjustments to better reflect the nuances of the document and its historical context.\n\n1. Ideological Tilt: The document clearly aligns with the conservative ideologies prevalent during the late 19th century, which favored westward expansion and resource exploitation over indigenous rights. Revised Score: -4\n2. Immigration Approach: While not explicitly about immigration, the document facilitates the displacement of indigenous populations to make way for settlers, reflecting a restrictive approach towards the existing inhabitants. Revised Score: -3\n3. Executive Power: The executive order demonstrates a clear exercise of presidential power to alter land designations, indicating an expansion of executive authority. Revised Score: 3\n4. Federalism: The order, issued at the federal level, dictates land use within a state, reinforcing federal control. Revised Score: 4\n5. National Security vs. Civil Liberties: The document indirectly impacts civil liberties by diminishing the land rights of the Ute Indians, prioritizing national expansion over indigenous rights. Revised Score: 2\n6. Economic Regulation: By opening up land for sale and settlement, the document promotes deregulation and free-market principles, aligning with a laissez-faire approach. Revised Score: -3\n7. Social Inclusion: The document demonstrates a significant lack of social inclusion, as it diminishes the land holdings of the Ute Indians, reflecting a bias against indigenous populations. Revised Score: -5",
+    "revised_scores": {
+        "ideological_tilt": -4,
+        "immigration": -3,
+        "executive_power": 3,
+        "federalism": 4,
+        "security_liberty": 2,
+        "economic_regulation": -3,
+        "social_inclusion": -5
     }
 }

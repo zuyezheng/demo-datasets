@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": -1,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": -1,
-        "federalism": 0,
+        "executive_power": 0,
+        "federalism": -2,
         "security_liberty": 0,
-        "economic_regulation": -2,
+        "economic_regulation": -3,
         "social_inclusion": 1
     },
-    "critique": "The document is an executive order focused on revoking previous orders that limited regulatory action. It aims to empower agencies to address national priorities like COVID-19, economic recovery, racial justice, and climate change. This suggests a more liberal approach to governance and a willingness to use government intervention to solve problems.",
+    "critique": "The document revokes several executive orders from a previous administration that focused on deregulation and limiting the scope of federal agencies. The stated policy is to empower agencies to use regulatory action to address national priorities such as COVID-19, economic recovery, racial justice, and climate change. This suggests a more liberal approach to governance, with a greater emphasis on government intervention to solve societal problems. The revocation of orders related to regulatory reform and transparency in administrative actions points towards a potentially reduced emphasis on deregulation and a greater willingness to allow agencies more flexibility in their actions. The document does not directly address immigration or national security vs. civil liberties. It centralizes power by empowering federal agencies, suggesting a move away from state control. It also implies more government intervention in the economy through regulatory actions.",
     "revised_scores": {
         "ideological_tilt": 3,
-        "immigration": 1,
-        "executive_power": 1,
+        "immigration": 0,
+        "executive_power": 0,
         "federalism": 2,
-        "security_liberty": 1,
+        "security_liberty": 0,
         "economic_regulation": 3,
-        "social_inclusion": 2
+        "social_inclusion": 1
     }
 }

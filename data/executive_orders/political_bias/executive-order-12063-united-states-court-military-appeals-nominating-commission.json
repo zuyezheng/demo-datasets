@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "This document establishes a commission to nominate judges for the United States Court of Military Appeals. It outlines the commission's composition, functions, administrative provisions, and general provisions. The order emphasizes the role of the President and the Secretary of Defense in the nomination process. There is no apparent bias.",
+    "critique": "This executive order establishes a commission to assist the President in filling vacancies on the United States Court of Military Appeals. It seems fairly neutral in terms of ideological tilt, immigration, security vs. liberty, economic regulation, and social inclusion. It could be argued that it slightly expands executive power by creating this commission, but it also delegates some functions to the Secretary of Defense, which could be seen as a slight restraint. It also involves both federal and state agencies, suggesting a cooperative balance in federalism.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

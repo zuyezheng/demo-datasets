@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document establishes an emergency board to investigate and report on disputes between railroads and their employees, preventing changes to the conditions out of which the disputes arose for a period of time. This suggests a moderate approach to economic regulation and a balanced approach to executive power.",
+    "critique": "This document establishes an emergency board to investigate disputes between railroads and their employees. It aims to prevent interruption of interstate commerce. There's no direct indication of ideological tilt, immigration stance, or impacts on civil liberties. It seems to maintain a balance and doesn't strongly favor any particular group. The order seems neutral regarding economic regulation, federalism, and social inclusion. It could be argued that establishing the board expands executive power, but it's a temporary measure within existing legal frameworks.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

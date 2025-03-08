@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1940 withdrawing public land in Utah for use by the War Department as an aerial bombing and gunnery range. It prioritizes national security during a time of global conflict. There's no direct mention of immigration, economic regulation, or social inclusion. The order expands executive power by withdrawing land and favors federal control over state control.",
+    "critique": "This document is an executive order from 1940 that withdraws public land in Utah for use by the War Department as an aerial bombing and gunnery range. It does not directly address ideological issues, immigration, or social inclusion. It expands executive power by withdrawing land, and it centralizes power by reserving land for federal use. It prioritizes national security. It has no impact on economic regulation.\n\nInitial scores:\n*   Ideological Tilt: 0 (Neutral)\n*   Immigration Approach: 0 (Balanced)\n*   Executive Power: 3 (Slightly Expands)\n*   Federalism: 3 (Slightly Federal)\n*   National Security vs. Civil Liberties: 3 (Slightly Security)\n*   Economic Regulation: 0 (Moderate Regulation)\n*   Social Inclusion: 0 (Neutral)\n\nRevised scores:\n*   Ideological Tilt: 0 (Neutral)\n*   Immigration Approach: 0 (Balanced)\n*   Executive Power: 3 (Slightly Expands)\n*   Federalism: 3 (Slightly Federal)\n*   National Security vs. Civil Liberties: 3 (Slightly Security)\n*   Economic Regulation: 0 (Moderate Regulation)\n*   Social Inclusion: 0 (Neutral)",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 3,
-        "security_liberty": 4,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order aimed at expediting the appointment of judges to federal courts. It outlines a plan for timely consideration of judicial nominees and assigns responsibilities to the Counsel to the President and other federal departments. The order also includes a reservation of authority clause and a statement clarifying that it is intended for internal management and does not create enforceable rights.",
+    "critique": "The document is an executive order regarding the filling of judicial vacancies. It emphasizes the importance of timely appointments and outlines a plan for achieving this. There is no immediately obvious ideological tilt. It doesn't directly address immigration, executive power, federalism, national security, economic regulation, or social inclusion. However, by emphasizing the executive branch's role in judicial appointments, it could be argued that it slightly expands executive power. The order explicitly states that it does not create any enforceable rights, which could be seen as a neutral stance on civil liberties. It also doesn't seem to favor either state or federal control. It also doesn't seem to have any impact on economic regulation or social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

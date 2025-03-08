@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document suspends limitations on punishments for absence without leave, indicating a focus on military discipline and potentially expanding executive power during wartime. This suggests a leaning towards prioritizing security and potentially less emphasis on individual liberties.",
+    "critique": "This document is an executive order that suspends limitations on punishments for absence without leave in the military during World War II. It increases the power of the executive branch during wartime. It does not directly address immigration, federalism, economic regulation, or social inclusion. It prioritizes national security during wartime, potentially at the expense of individual liberties. It does not directly relate to ideological tilt.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 4,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

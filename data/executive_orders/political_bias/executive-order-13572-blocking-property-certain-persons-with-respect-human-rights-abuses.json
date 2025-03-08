@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "security_liberty": 1,
+        "economic_regulation": 1,
+        "social_inclusion": 1
     },
-    "critique": "The document is an executive order issued by President Obama in 2011, expanding the scope of a national emergency declared in 2004 concerning Syria. It focuses on human rights abuses by the Syrian government, particularly against peaceful protestors. The order blocks the property and interests of individuals and entities complicit in these abuses, preventing them from engaging in financial transactions within the United States. It prioritizes national security and foreign policy interests by restricting economic activity with those contributing to human rights violations in Syria. The order grants broad authority to the Secretary of the Treasury to implement these measures, including the power to issue regulations and redelegate functions. The document emphasizes executive power in addressing foreign policy concerns and national security.",
+    "critique": "This executive order sanctions the Syrian government for human rights abuses. It blocks the property of individuals and entities responsible for or complicit in these abuses. It expands on previous executive orders related to Syria. The order relies on the International Emergency Economic Powers Act (IEEPA) and the National Emergencies Act. It targets specific individuals and entities, not broad groups of people. It does not directly address immigration, so the immigration score should be neutral. It expands executive power to impose sanctions, so the executive power score should be positive. It involves the federal government in foreign policy, so the federalism score should be neutral. It prioritizes national security and foreign policy interests, so the security/liberty score should be slightly positive. It regulates economic activity by blocking assets, so the economic regulation score should be slightly positive. It promotes human rights, so the social inclusion score should be slightly positive. Ideologically, it aligns with a liberal foreign policy approach of intervening in human rights abuses, so the ideological tilt should be slightly positive.",
     "revised_scores": {
         "ideological_tilt": 1,
-        "immigration": -1,
-        "executive_power": 3,
-        "federalism": 1,
-        "security_liberty": 3,
-        "economic_regulation": 2,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 1,
+        "economic_regulation": 1,
         "social_inclusion": 1
     }
 }

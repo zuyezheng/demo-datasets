@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document promotes ridesharing through executive order, which could be seen as government intervention in transportation. It encourages federal agencies to promote ridesharing and sets goals for employee participation. This could be seen as a slight shift towards federal control and intervention.",
+    "critique": "The document promotes ridesharing to conserve petroleum, reduce congestion, improve air quality, and provide an economical way for Federal employees to commute to work. This suggests a moderate liberal ideological tilt as it aligns with environmental protection and government intervention to encourage certain behaviors. The document doesn't directly address immigration, executive power, federalism, national security, or social inclusion. It does involve government in encouraging ridesharing, suggesting a slight intervention in economic activity related to transportation. The document does not seem to emphasize conformity or diversity, so it is neutral on social inclusion.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 2,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 2,
-        "social_inclusion": 1
+        "social_inclusion": 0
     }
 }

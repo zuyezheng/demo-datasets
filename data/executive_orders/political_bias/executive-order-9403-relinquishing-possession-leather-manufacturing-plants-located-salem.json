@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 2,
-        "economic_regulation": 3,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document discusses the relinquishment of possession of leather manufacturing plants by the Secretary of War back to their owners after government control due to the War Labor Disputes Act. It indicates a restoration of productive efficiency. The directive ensures the Secretary of War can still request information related to operations during government control.",
+    "critique": "This document pertains to the relinquishment of control of leather manufacturing plants seized by the Secretary of War during World War II. It's a directive to return the plants to their owners, indicating a winding down of wartime government control. Here's a breakdown of the scores:\n\n*   **Ideological Tilt:** 0. This isn't inherently liberal or conservative. It's a wartime measure being reversed, which doesn't align strongly with either ideology.\n*   **Immigration Approach:** 0. The document has nothing to do with immigration.\n*   **Executive Power:** -1. While the initial seizure might have been seen as an expansion of executive power, this order reduces it by returning control to private owners. However, the provision to request information maintains some level of oversight.\n*   **Federalism:** 0. The document doesn't significantly shift the balance of power between state and federal governments.\n*   **National Security vs. Civil Liberties:** -1. Returning the plants leans slightly towards civil liberties by restoring private property rights, but the information clause tempers this.\n*   **Economic Regulation:** -1. Relinquishing control reduces government intervention in the economy, but the information requirement suggests some continued oversight.\n*   **Social Inclusion:** 0. The document doesn't address social inclusion issues.\n\nRevised scores:\n*   Ideological Tilt: 0\n*   Immigration Approach: 0\n*   Executive Power: -1\n*   Federalism: 0\n*   National Security vs. Civil Liberties: -1\n*   Economic Regulation: -1\n*   Social Inclusion: 0",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": -1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": -1,
         "economic_regulation": -1,
         "social_inclusion": 0
     }

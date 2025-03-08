@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 1,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
         "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding the inspection of corporation statistical transcript cards by the Office of Price Administration. It relates to tax returns made under the Internal Revenue Code for a specific period. The order aims to facilitate the Office of Price Administration's work, likely in the context of wartime economic controls.",
+    "critique": "The document is an executive order regarding the inspection of corporation tax returns by the Office of Price Administration during World War II. It does not directly address ideological tilt, immigration, executive power, federalism, national security vs. civil liberties, or social inclusion. However, it does relate to economic regulation as it provides the Office of Price Administration access to corporate tax data, which could be used to enforce price controls or other economic regulations during the war. Therefore, the initial score for economic regulation is +3. The other axes are scored as 0, as the document does not directly address them. Upon further reflection, the economic regulation score could be slightly lower, as the order merely facilitates access to information, rather than directly imposing new regulations. A revised score of +2 seems more appropriate.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 4,
-        "federalism": 4,
-        "security_liberty": 1,
-        "economic_regulation": 4,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

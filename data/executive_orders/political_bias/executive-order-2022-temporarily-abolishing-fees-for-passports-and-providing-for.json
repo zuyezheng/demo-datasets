@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
+        "immigration": 1,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1914 waiving fees for passports and visas. It does not express opinions on ideological tilt, immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion. Therefore, all scores should be neutral.",
+    "critique": "This executive order from 1914 waives fees for emergency passports and visaing passports. It's difficult to assess its ideological tilt without more context, but it seems like a practical measure. Immigration: The waiver of visa fees could be seen as slightly more open to immigration, but it's a minor effect. Executive Power: The order doesn't significantly expand or restrict executive power. Federalism: It doesn't directly impact the balance between state and federal power. National Security vs. Civil Liberties: The order doesn't have a clear impact on this axis. Economic Regulation: Waiving fees is a form of deregulation, but it's a very limited one. Social Inclusion: The order doesn't directly address social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
+        "immigration": 1,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     }
 }

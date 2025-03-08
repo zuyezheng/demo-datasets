@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order that enacts sections of a reorganization plan related to the establishment of offices within the executive branch. It primarily concerns the structure and organization of the executive branch, specifically the creation of Director, Deputy Director, and Associate Director positions. Therefore, the most relevant axes to consider are Executive Power and Federalism. The order reinforces the power of the executive branch by implementing the reorganization plan. There is no direct impact on immigration, security/liberty, economic regulation, or social inclusion. The ideological tilt is neutral as it is a matter of governmental organization.",
+    "critique": "This document is a simple executive order that activates sections of a reorganization plan after Congress failed to disapprove it. It primarily deals with the internal structure of an office, specifically the creation of Director, Deputy Director, and Associate Director positions. There's no indication of ideological bias, immigration policy, or any direct impact on civil liberties or economic regulation. The order doesn't explicitly expand executive power beyond what was already outlined in the reorganization plan, but it does allow the executive branch to implement that plan. It also doesn't seem to have a direct impact on federalism or social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

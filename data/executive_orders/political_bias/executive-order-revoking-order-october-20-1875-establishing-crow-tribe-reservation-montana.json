@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document concerns the revocation of an Executive order that had previously withdrawn land from public sale and set it aside for the Crow tribe of Indians. This action returns the land to the public domain.",
-    "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": -1,
         "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": -1,
-        "social_inclusion": -3
+        "social_inclusion": -2
+    },
+    "critique": "The document concerns the revocation of an executive order that had previously withdrawn land from public sale and set it apart for the use of the Crow tribe of Indians. This action restores the land to the public domain. Here's an analysis of its political bias:  1. Ideological Tilt: The action of restoring land to the public domain, potentially for settlement or resource extraction, could be seen as leaning slightly conservative, favoring development over indigenous land rights. Score: -1  2. Immigration Approach: This axis is not directly relevant to the document. Score: 0  3. Executive Power: The document involves the revocation of a previous executive order, suggesting a check on executive power by a subsequent executive action. Score: -1  4. Federalism: The document deals with land within a territory, implying federal control over the land. Restoring it to the public domain reinforces federal authority. Score: +1  5. National Security vs. Civil Liberties: This is not directly relevant, although one could argue that taking land from a tribe could be seen as impinging on their rights. Score: 0  6. Economic Regulation: Restoring land to the public domain could open it up for economic activities, suggesting a move towards less regulation. Score: -1  7. Social Inclusion: The revocation of land set aside for the Crow tribe could be seen as a move away from social inclusion and towards prioritizing the interests of settlers or developers. Score: -2",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": -1,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": -1,
+        "social_inclusion": -2
     }
 }

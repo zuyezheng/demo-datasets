@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 2,
+        "social_inclusion": 1
     },
-    "critique": "The document is an amendment to Regulation No. 7, issued by the White House in 1936. It defines student-aid projects and sets limits on the amount of aid disbursed to students at different levels of education (primary, high school, college, and graduate school). The amendment is based on the Emergency Relief Appropriation Act of 1935.The document reflects a moderate interventionist approach to economic regulation, as it involves the government in providing financial assistance to students. It doesn't directly address immigration, executive power, federalism, security vs. liberty, or social inclusion. Therefore, these aspects are considered neutral.",
+    "critique": "This document is an amendment to a regulation regarding student aid projects during the Great Depression. It defines student-aid projects and sets limits on the amount of aid disbursed to students at different levels of education. There's a slight tilt towards social inclusion by providing aid to needy young people, but it's primarily an economic measure. It doesn't directly address immigration, executive power, federalism, or national security vs. civil liberties. The economic regulation aspect is moderate, as it involves government intervention to provide financial assistance, but it's limited in scope and amount. The ideological tilt is slightly liberal due to the social welfare aspect, but not strongly so.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 5,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 2,
-        "social_inclusion": 0
+        "social_inclusion": 1
     }
 }

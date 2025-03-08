@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": -2,
-        "immigration": -4,
-        "executive_power": 3,
-        "federalism": 5,
-        "security_liberty": 4,
-        "economic_regulation": 0,
-        "social_inclusion": -3
-    },
-    "critique": "The document reflects a restrictive approach to immigration and public health, prioritizing security and order within the Canal Zone. It excludes various groups deemed undesirable based on health, criminal history, political beliefs, or potential to disrupt operations. The document reflects an emphasis on executive power and potentially conformity.",
-    "revised_scores": {
-        "ideological_tilt": -3,
         "immigration": -5,
-        "executive_power": 4,
-        "federalism": 5,
-        "security_liberty": 5,
-        "economic_regulation": 0,
+        "executive_power": 3,
+        "federalism": 4,
+        "security_liberty": 4,
+        "economic_regulation": -1,
         "social_inclusion": -4
+    },
+    "critique": "This document outlines restrictions on who can enter or remain in the Panama Canal Zone. It excludes individuals based on health (insanity, disease), criminal history, economic status (paupers), political beliefs (anarchists, inciting insurrection), character, and involvement in strikes that could disrupt the Canal's operation. The document grants broad discretionary power to the Governor of The Panama Canal to deport individuals deemed a menace to public health or welfare. It reflects concerns about security, public order, and the smooth functioning of the Canal. It should be noted that some of the language used is outdated and would be considered offensive today.\n\nIdeological Tilt: The document doesn't directly address traditional left-right issues. However, the restrictions on anarchists and those inciting insurrection suggest a conservative leaning towards maintaining order and suppressing dissent. Score: -2\n\nImmigration Approach: The document is highly restrictive, listing numerous categories of people who are forbidden from entering or remaining in the Canal Zone. Score: -5\n\nExecutive Power: The document grants broad discretionary power to the Governor of The Panama Canal to deport individuals. This suggests an expansion of executive power within the Canal Zone. Score: +3\n\nFederalism: The document concerns the Panama Canal Zone, which was under U.S. federal control at the time. It reinforces federal authority over the zone. Score: +4\n\nNational Security vs. Civil Liberties: The document prioritizes security and the smooth operation of the Canal, potentially at the expense of individual liberties. The broad categories for exclusion and deportation raise concerns about due process. Score: +4\n\nEconomic Regulation: The document doesn't directly address economic regulation. However, the exclusion of paupers and those likely to become public charges suggests a concern about economic burden. Score: -1\n\nSocial Inclusion: The document excludes individuals based on health conditions, criminal history, and political beliefs. Some of the language used (e.g., \"insane persons,\" \"idiots\") is discriminatory and reflects a lack of social inclusion. Score: -4\n\nRevised Scores:\n\nIdeological Tilt: -2 (No change)\nImmigration Approach: -5 (No change)\nExecutive Power: +3 (No change)\nFederalism: +4 (No change)\nNational Security vs. Civil Liberties: +4 (No change)\nEconomic Regulation: -1 (No change)\nSocial Inclusion: -5 (Revised to reflect the highly exclusionary nature and outdated language.)",
+    "revised_scores": {
+        "ideological_tilt": -2,
+        "immigration": -5,
+        "executive_power": 3,
+        "federalism": 4,
+        "security_liberty": 4,
+        "economic_regulation": -1,
+        "social_inclusion": -5
     }
 }

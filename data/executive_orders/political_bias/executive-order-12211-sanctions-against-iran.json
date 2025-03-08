@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "immigration": -3,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 3,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document reflects a conservative approach due to its focus on national security and restricting transactions with Iran. It expands executive power to address the perceived threat.",
+    "critique": "This executive order, issued in 1980, imposes further prohibitions on transactions with Iran, citing national security concerns and the Iranian hostage crisis. It restricts travel, trade, and financial transactions. It's difficult to place this on a left-right spectrum (ideological tilt) as it's primarily a foreign policy/national security measure. The immigration aspect is restrictive, limiting travel. It expands executive power by delegating authority to the Secretaries of Treasury and State. It centralizes control at the federal level. It prioritizes national security over individual liberties. It intervenes in the economy by restricting trade and financial transactions. It doesn't directly address social inclusion. Therefore, the initial scores are as follows:",
     "revised_scores": {
-        "ideological_tilt": -2,
-        "immigration": -4,
+        "ideological_tilt": 0,
+        "immigration": -3,
         "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 4,
-        "economic_regulation": -3,
-        "social_inclusion": -1
+        "federalism": 3,
+        "security_liberty": 3,
+        "economic_regulation": 3,
+        "social_inclusion": 0
     }
 }

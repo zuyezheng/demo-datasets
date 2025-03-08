@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 4,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order extending the provisions of a previous order to Rumania and its nationals, effective October 9, 1940. It's a legal and administrative action with minimal inherent political bias. The order focuses on property control and doesn't directly address ideological, immigration, executive power, federalism, security/liberty, economic regulation, or social inclusion issues in a substantive way. The extension to Rumania suggests a concern for national interests during that period.",
+    "critique": "This executive order from 1940 pertains to property interests involving Rumania and its nationals. Given the historical context of World War II, the order likely aims to control assets and prevent them from falling into enemy hands or being used against the United States. This suggests a focus on national security. There's no clear indication of ideological tilt, immigration policy, or social inclusion. The order expands executive power by amending a previous order and exerting control over property. It also centralizes control at the federal level. The economic regulation aspect is present in controlling property, but it's not a broad intervention. There is a strong focus on national security given the context of WWII.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 0,
-        "security_liberty": 1,
-        "economic_regulation": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 4,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": -1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "This executive order focuses on ethics and preventing conflicts of interest within the executive branch. It aims to limit the influence of lobbyists and ensure that government officials act in the public interest. There is a moderate tilt towards expanding executive power as it is an executive order, but it also includes provisions for waivers and limitations, suggesting a balanced approach.",
+    "critique": "This executive order focuses on ethics commitments by executive branch personnel. It aims to prevent conflicts of interest and ensure that appointees act in the public interest. It includes provisions such as a lobbyist gift ban, revolving door bans, and a golden parachute ban. It also emphasizes employment qualification commitments. The order establishes definitions for key terms and outlines procedures for waivers, administration, and enforcement. It seems to promote transparency and accountability in government. It doesn't directly address immigration, federalism, national security, economic regulation, or social inclusion. It could be seen as slightly liberal due to its emphasis on ethics and preventing corruption, but it's primarily focused on good governance. It could be argued that it slightly restricts executive power by imposing ethics constraints on appointees, but it also uses executive authority to implement these constraints.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": -1,
         "federalism": 0,
-        "security_liberty": 1,
-        "economic_regulation": 1,
-        "social_inclusion": 1
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
     }
 }

@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 3
     },
-    "critique": "The document is an executive order related to land allocation for the Moapa River Indian reservation. It cancels a previous order and reserves specific lands for the reservation. The primary focus is on land management and indigenous affairs rather than broad political or ideological issues. Therefore, assessing its political bias requires considering its implications for indigenous rights, federal land management, and historical context.",
+    "critique": "This executive order cancels a previous order and adds land to the Moapa River Indian Reservation. It also protects any prior valid rights to the lands described. It is difficult to assess the ideological tilt without more context, but setting aside land for a reservation suggests a degree of social inclusion. The order appears to expand federal control over land, impacting federalism. There's no clear indication of impact on immigration, executive power, national security vs. civil liberties, or economic regulation.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 5,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 3

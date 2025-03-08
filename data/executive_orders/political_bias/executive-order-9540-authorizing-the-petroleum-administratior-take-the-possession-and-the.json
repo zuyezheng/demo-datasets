@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 4,
+        "federalism": 3,
+        "security_liberty": 3,
+        "economic_regulation": 5,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order issued during World War II, authorizing the seizure of a refinery due to labor disputes impeding war efforts. It reflects a strong emphasis on national security and war production, with a willingness to expand executive power and potentially override individual liberties in the name of the war effort.",
+    "critique": "This document is an executive order from 1945 authorizing the seizure of a refining corporation's facilities due to a labor dispute impeding the war effort. Here's an analysis of its political biases:\n\n*   **Ideological Tilt:** The document doesn't directly address traditional left-right issues. However, the intervention in a private company suggests a willingness to use government power to achieve national goals, which could be seen as leaning slightly liberal in the context of economic intervention during wartime. Score: +1\n*   **Immigration Approach:** The document is silent on immigration. Score: 0\n*   **Executive Power:** The order explicitly expands executive power by authorizing the seizure and operation of private property. This is a significant expansion, justified by the war effort. Score: +4\n*   **Federalism:** The order implies federal primacy as it's a presidential directive overriding state or local control over the company's operations. Score: +3\n*   **National Security vs. Civil Liberties:** The order prioritizes national security (war effort) over the company's and potentially the workers' rights (labor dispute). Score: +3\n*   **Economic Regulation:** The order represents heavy government intervention in the economy by seizing and operating a private company. Score: +5\n*   **Social Inclusion:** The document is neutral on social inclusion. Score: 0\n\nRevised Scores:\nAfter further consideration, the initial scores seem appropriate, given the context of wartime and the specific actions taken in the executive order. The expansion of executive power and economic intervention are significant, and the prioritization of national security is evident.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 4,
-        "federalism": 2,
-        "security_liberty": 4,
-        "economic_regulation": 3,
-        "social_inclusion": -1
+        "federalism": 3,
+        "security_liberty": 3,
+        "economic_regulation": 5,
+        "social_inclusion": 0
     }
 }

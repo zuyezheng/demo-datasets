@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     },
-    "critique": "The document extends the termination date of a committee focused on cost control in the federal government. This suggests a slight preference for maintaining government oversight and efficiency, but it's a fairly neutral action overall.",
+    "critique": "This document extends the life of a committee focused on cost control in the federal government. This suggests a slight conservative tilt due to the focus on fiscal responsibility. The document doesn't directly address immigration, executive power, federalism, national security vs. civil liberties, or social inclusion. However, the focus on cost control could be interpreted as a move towards deregulation or less government intervention in the economy.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 1,
+        "economic_regulation": -1,
         "social_inclusion": 0
     }
 }

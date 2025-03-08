@@ -1,20 +1,20 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
+        "immigration": -1,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document primarily concerns amendments to Selective Service Regulations, focusing on administrative procedures and classifications related to military conscription. There is a minor element related to immigration in the context of foreign press representatives. The document does not directly address economic regulation, social inclusion, or executive power in a substantive way. Its main focus is on the mechanics of the draft and related processes.",
+    "critique": "This document primarily concerns amendments to the Selective Service Regulations, focusing on administrative procedures, classifications, and appeals related to military conscription. It addresses exemptions for foreign press representatives, hardship deferments, conscientious objectors, and transfer procedures for physical examinations and inductions. There is a minor element related to immigration through the exemption for foreign press. The document does not directly address economic regulation, social inclusion, or expansion of executive power. The changes appear largely procedural and aimed at clarifying existing regulations.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": -1,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 2,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
+        "ideological_tilt": -2,
+        "immigration": -3,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": -2,
+        "social_inclusion": -3
     },
-    "critique": "The document cancels a previous order that set aside land for the Northwestern Shoshone Indians, returning the land to its original status. This action suggests a lack of emphasis on social inclusion and potentially favors economic interests over indigenous rights. It's difficult to assess the other dimensions without more context, but the action appears to reduce federal protection of Native American land.",
+    "critique": "This executive order cancels a previous order that set aside land as a reservation for the Northwestern Shoshone Indians. This action reduces the land available to the tribe and favors westward expansion and resource exploitation by non-native settlers. This suggests a conservative ideological tilt, a restrictive approach to social inclusion for indigenous populations, and a favoring of economic deregulation by opening up land for private use. It also centralizes power by reversing a prior designation.",
     "revised_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
+        "ideological_tilt": -2,
+        "immigration": -3,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -2,
         "social_inclusion": -3
     }
 }

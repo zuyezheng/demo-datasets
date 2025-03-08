@@ -4,18 +4,18 @@
         "immigration": 0,
         "executive_power": 3,
         "federalism": 3,
-        "security_liberty": 0,
-        "economic_regulation": 3,
+        "security_liberty": 1,
+        "economic_regulation": 2,
         "social_inclusion": 5
     },
-    "critique": "The document is an executive order aimed at preventing discrimination in employment during World War II. It establishes a committee to investigate and eliminate discriminatory practices based on race, creed, color, or national origin. The order promotes social inclusion and utilizes federal power to enforce fair employment practices.",
+    "critique": "This executive order aims to prevent discrimination in employment within war industries and the government based on race, creed, color, or national origin. It establishes a committee to oversee and enforce these policies. Ideologically, it leans liberal due to its emphasis on social inclusion and equal opportunity. It doesn't directly address immigration. It expands executive power by creating a committee with broad authority to investigate and enforce anti-discrimination policies. It centralizes power at the federal level by establishing a federal committee to oversee employment practices. It balances national security by ensuring maximum employment during wartime, while also protecting civil liberties by preventing discrimination. It could be seen as interventionist in the economy by imposing regulations on employment practices. It promotes social inclusion by prohibiting discrimination based on race, creed, color, or national origin. Therefore, the initial scores are: Ideological Tilt: 4, Immigration Approach: 0, Executive Power: 3, Federalism: 3, National Security vs. Civil Liberties: 1, Economic Regulation: 2, Social Inclusion: 5. Upon further reflection, the expansion of executive power is moderate, as it is focused on a specific issue and tied to the war effort. The impact on economic regulation is also moderate, as it only affects employment practices in war industries and government. The balance between national security and civil liberties is more strongly tilted towards civil liberties, as the order explicitly aims to prevent discrimination. Therefore, the revised scores are: Ideological Tilt: 4, Immigration Approach: 0, Executive Power: 2, Federalism: 3, National Security vs. Civil Liberties: -1, Economic Regulation: 1, Social Inclusion: 5.",
     "revised_scores": {
         "ideological_tilt": 4,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 2,
         "federalism": 3,
-        "security_liberty": 0,
-        "economic_regulation": 3,
+        "security_liberty": -1,
+        "economic_regulation": 1,
         "social_inclusion": 5
     }
 }

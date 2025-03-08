@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document is an amendment to an executive order that exempts presidential approval of codes of fair competition under the National Industrial Recovery Act from the original order. This suggests a potential expansion of executive power and government intervention in the economy.",
+    "critique": "This executive order amends a previous one to clarify that it does not apply to orders approving codes of fair competition under the National Industrial Recovery Act. This suggests a moderate level of government intervention in the economy. There is no information about immigration, executive power, federalism, national security vs. civil liberties, or social inclusion. The ideological tilt is slightly liberal due to the interventionist nature of the National Industrial Recovery Act.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

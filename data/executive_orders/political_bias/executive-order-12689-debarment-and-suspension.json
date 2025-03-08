@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document centralizes authority within the federal government by ensuring that debarment or suspension from procurement or non-procurement activities by one agency has a government-wide effect. This reduces state autonomy and standardizes regulations across the board. It also touches on economic regulation by controlling who the Federal Government can engage with, ensuring responsible persons and integrity in Federal activities.",
+    "critique": "This executive order focuses on ensuring responsible conduct and integrity in federal procurement and non-procurement activities. It aims to create a government-wide effect for debarment, suspension, or exclusion of participants in these activities. There is nothing explicitly ideological in this document. It doesn't directly address immigration, civil liberties, or social inclusion. It could be argued that ensuring responsible conduct in federal activities leans slightly towards economic regulation and potentially expands executive power to enforce these regulations, but these are indirect effects. The order also seems to promote federal control by standardizing debarment procedures across agencies.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 3,
-        "security_liberty": 1,
-        "economic_regulation": 2,
+        "federalism": 2,
+        "security_liberty": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

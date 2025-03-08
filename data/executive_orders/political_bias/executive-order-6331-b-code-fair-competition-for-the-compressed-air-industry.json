@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document reflects President Roosevelt's approval of a Code of Fair Competition for the Compressed Air Industry under the National Industrial Recovery Act of 1933. This act was a key component of the New Deal, aimed at addressing the economic crisis of the Great Depression through government intervention and regulation. The document signifies a strong federal role in regulating industry and promoting economic recovery.",
-    "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 4,
+        "executive_power": 0,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 4,
+        "economic_regulation": 5,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an approval of a Code of Fair Competition for the Compressed Air Industry under the National Industrial Recovery Act of 1933. This act was part of Franklin D. Roosevelt's New Deal program, which aimed to address the economic crisis of the Great Depression through government intervention and regulation. The document itself doesn't directly address immigration, executive power, federalism, national security vs. civil liberties, or social inclusion. However, it strongly implies a preference for government intervention in the economy. Therefore, the initial scores are as follows:\n\nIdeological Tilt: The New Deal is generally considered liberal due to its emphasis on government intervention in the economy and social welfare programs. So, I'll give it a +3.\nImmigration Approach: The document doesn't mention immigration, so it's neutral. Score: 0.\nExecutive Power: The document is an executive order, but it's based on legislation passed by Congress (National Industrial Recovery Act). It's not a unilateral expansion of power, but rather an implementation of existing law. Score: 0.\nFederalism: The National Industrial Recovery Act increased the power of the federal government over the states, so I'll give it a +3.\nNational Security vs. Civil Liberties: The document doesn't address national security or civil liberties, so it's neutral. Score: 0.\nEconomic Regulation: The document explicitly approves a code of fair competition, which implies government regulation of the compressed air industry. Score: +5.\nSocial Inclusion: The document doesn't address social inclusion, so it's neutral. Score: 0.\n\nUpon further reflection, the ideological tilt might be slightly less pronounced than initially thought. While the New Deal is generally considered liberal, this specific document is focused on economic regulation, which doesn't necessarily align perfectly with the modern understanding of the left-right spectrum. Also, the increase in federal power is tied to economic regulation, so the federalism score should be adjusted to reflect that it is not a general increase in federal power.\n",
+    "revised_scores": {
+        "ideological_tilt": 2,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 2,
+        "security_liberty": 0,
+        "economic_regulation": 5,
         "social_inclusion": 0
     }
 }

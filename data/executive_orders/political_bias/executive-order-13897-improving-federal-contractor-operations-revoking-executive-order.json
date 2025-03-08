@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document revokes a prior order that protected workers under service contracts, potentially leading to less job security. It emphasizes deregulation and limiting government intervention in the economy. The order also curtails the power of the Secretary of Labor to enforce worker protections.",
+    "critique": "The document revokes a prior executive order that protected workers under service contracts. This suggests a shift away from worker protections and towards deregulation. The revocation itself doesn't inherently expand executive power, but it does remove a requirement previously imposed on federal contractors. The document doesn't directly address immigration, federalism, national security, or social inclusion. The primary focus is on economic regulation and potentially ideological tilt depending on one's view of worker protections.",
     "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -3,
+        "economic_regulation": -2,
         "social_inclusion": 0
     }
 }

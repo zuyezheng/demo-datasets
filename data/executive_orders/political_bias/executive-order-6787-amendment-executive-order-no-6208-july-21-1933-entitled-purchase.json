@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The executive order allocates funds and expands the power of the Secretary of Agriculture, indicating a potential shift towards federal control and government intervention.",
+    "critique": "This executive order pertains to the allocation of funds for forest land purchase and conservation work during the Great Depression. It amends a previous order to allow the Secretary of Agriculture to use allotted funds for the protection, improvement, and administration of purchased lands until regular appropriations are available. There is little to suggest a strong ideological tilt. It seems more pragmatic in addressing immediate needs during an economic crisis. The order doesn't directly address immigration. It expands executive power slightly by granting the Secretary of Agriculture discretion in expending funds. It leans towards federal primacy as it involves federal funds and the Department of Agriculture. It doesn't directly impact national security or civil liberties. It involves government intervention in the economy through land purchase and conservation. It doesn't directly address social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 2,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 2,
         "social_inclusion": 0

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": -5,
+        "ideological_tilt": -1,
+        "immigration": -2,
         "executive_power": 3,
         "federalism": 3,
-        "security_liberty": 3,
+        "security_liberty": 1,
         "economic_regulation": 0,
-        "social_inclusion": -5
+        "social_inclusion": -3
     },
-    "critique": "The document reflects a historical context of US government policy towards Native American tribes. It focuses on establishing a reservation for several tribes, which involved taking land and restricting settlement by others. There is no discussion of individual rights, economic regulation, or social issues beyond the establishment of the reservation.",
+    "critique": "This document establishes a reservation for several Native American tribes. It's difficult to assess its ideological tilt without more context, but given the time period, it likely reflects a mix of paternalism and a desire to manage westward expansion. Immigration is not directly addressed, but the establishment of a reservation implicitly restricts settlement by non-Native Americans. Executive power is expanded as the President is setting aside land by executive order. Federalism is complex here; it's a federal action impacting territories, so it leans towards federal control. National security isn't a primary concern, but control of territory and native populations is. Economic regulation isn't directly relevant. Social inclusion is not promoted, as the document separates native tribes from the rest of the population.",
     "revised_scores": {
-        "ideological_tilt": 0,
-        "immigration": -5,
+        "ideological_tilt": -1,
+        "immigration": -2,
         "executive_power": 3,
         "federalism": 3,
-        "security_liberty": 3,
+        "security_liberty": 1,
         "economic_regulation": 0,
-        "social_inclusion": -5
+        "social_inclusion": -3
     }
 }

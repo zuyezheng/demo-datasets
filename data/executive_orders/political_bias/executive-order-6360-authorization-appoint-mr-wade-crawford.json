@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document discusses an exception to civil service rules for an appointment, which suggests a potential expansion of executive power and a disregard for standard procedures. It is difficult to assess other dimensions of political bias without more context.",
-    "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 2,
-        "federalism": 0,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
+    },
+    "critique": "This document is a directive allowing an individual to be appointed to a position without adhering to civil service rules. It's a specific exception, likely based on particular circumstances at the time. Here's an analysis of its potential biases:\n\n*   **Ideological Tilt:** It's difficult to place this on a left-right spectrum. It could be seen as conservative if it favors personal connections over standardized processes, or liberal if it aims to address a specific need quickly. I'll lean slightly conservative due to the potential for patronage. Initial score: -1, Revised score: -1\n*   **Immigration Approach:** This document has no bearing on immigration. Initial score: 0, Revised score: 0\n*   **Executive Power:** This order expands executive power, as it allows the president to bypass established rules for appointments. Initial score: 2, Revised score: 2\n*   **Federalism:** The order pertains to a federal agency, so it reinforces federal control. Initial score: 1, Revised score: 1\n*   **National Security vs. Civil Liberties:** This doesn't directly impact national security or civil liberties. Initial score: 0, Revised score: 0\n*   **Economic Regulation:** This has no direct impact on economic regulation. Initial score: 0, Revised score: 0\n*   **Social Inclusion:** This could be seen as slightly negative for social inclusion if it bypasses standardized hiring practices that promote equal opportunity. Initial score: -1, Revised score: -1",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": -1
     }
 }

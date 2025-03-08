@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order that temporarily suspends certain regulations related to foreign-built ships and American seamen. It doesn't express a clear ideological stance, immigration policy, or social inclusion preference. The order focuses on executive power and economic regulation within the maritime industry.",
+    "critique": "This document is an executive order from 1915 that suspends certain regulations related to the registry of foreign-built ships and the welfare of American seamen. It's difficult to assign a strong ideological tilt (liberal vs. conservative) as the issues it addresses are specific to maritime law and trade regulations of that era. The order doesn't directly address immigration, so that axis is neutral. It could be argued that suspending regulations expands executive power, but the order is limited in scope and duration. The order doesn't have clear implications for federalism, national security vs. civil liberties, economic regulation in a broad sense, or social inclusion. Therefore, most axes are close to neutral.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -2,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 2,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on securing supplies necessary for responding to the COVID-19 pandemic. It directs immediate actions to ensure the availability of supplies to federal, state, local, tribal, and territorial authorities, as well as healthcare workers and patients. It also addresses pricing and aims to build a long-term capability in the United States to manufacture supplies for future pandemics and biological threats.",
+    "critique": "This executive order focuses on securing supplies necessary for responding to the COVID-19 pandemic. It directs immediate actions to inventory supplies, address shortfalls, and develop a long-term strategy for pandemic supply chain resilience. It also addresses pricing of pandemic response supplies and access to the Strategic National Stockpile for Tribal governments. The order invokes the Defense Production Act, indicating government intervention in the economy to address the crisis. There's no explicit mention of immigration, civil liberties, or social inclusion. The order seems to expand executive power to address the pandemic, and it centralizes federal control over resources and distribution. Ideologically, it leans slightly liberal due to the emphasis on government intervention and equitable distribution.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 2,
         "federalism": 3,
-        "security_liberty": 2,
+        "security_liberty": 0,
         "economic_regulation": 3,
         "social_inclusion": 1
     }

@@ -2,17 +2,17 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order that extends the employment of a government employee beyond the mandatory retirement age. It is difficult to assess the political bias of this document as it is a specific case and does not contain broad policy statements.",
+    "critique": "This is an executive order that extends the service of a government employee beyond the typical retirement age. It does not seem to have any implications for ideological tilt, immigration, federalism, national security vs. civil liberties, economic regulation, or social inclusion. The only axis that it touches on is executive power, as it uses the power of the executive branch to make an exception to a law. However, the law itself allows for this exception, so it is not a significant expansion of executive power.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,

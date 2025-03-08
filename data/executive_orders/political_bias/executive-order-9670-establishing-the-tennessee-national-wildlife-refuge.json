@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 3,
-        "social_inclusion": 0
+        "economic_regulation": 2,
+        "social_inclusion": 2
     },
-    "critique": "The document establishes a wildlife refuge, which can be seen as promoting environmental conservation and government intervention in land management. However, it doesn't directly address social issues, immigration, or executive power in a significant way. The emphasis is on federal land management and conservation.",
+    "critique": "This document establishes the Tennessee National Wildlife Refuge. It appears to be a fairly standard executive action, transferring land for conservation purposes. There's little to suggest a strong ideological tilt, immigration stance, or impact on civil liberties. It does expand federal control over land use, and could be seen as a form of economic intervention by restricting land use. It also promotes social inclusion by protecting wildlife.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 3,
-        "social_inclusion": 0
+        "economic_regulation": 2,
+        "social_inclusion": 2
     }
 }

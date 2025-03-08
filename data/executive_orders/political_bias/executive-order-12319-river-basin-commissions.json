@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 3,
+        "executive_power": -1,
+        "federalism": -2,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": -2,
         "social_inclusion": 0
     },
-    "critique": "The document terminates river basin commissions, transferring assets to member states. This suggests a move towards deregulation and decentralization of power.",
+    "critique": "This executive order terminates several river basin commissions. This suggests a move away from federal involvement in water resource planning and a shift towards state control. There's a slight deregulation aspect as these commissions likely had some regulatory power. There's no clear indication of ideological tilt, immigration stance, impact on civil liberties, or social inclusion. The reduction in federal commissions suggests a restraint on executive power and a move towards federalism.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": -1,
         "federalism": -2,
         "security_liberty": 0,
-        "economic_regulation": -1,
+        "economic_regulation": -2,
         "social_inclusion": 0
     }
 }

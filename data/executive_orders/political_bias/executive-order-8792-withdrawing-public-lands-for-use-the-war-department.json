@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order withdrawing public lands in Florida for military purposes. It does not contain explicit political statements, but the act of reserving land for military use has implications for various political dimensions.",
+    "critique": "This document is a straightforward executive order transferring land for military use. There's no clear ideological tilt, immigration stance, or impact on civil liberties. It slightly expands executive power by withdrawing land but doesn't drastically alter the balance. It centralizes control at the federal level, has no impact on economic regulation, and doesn't address social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 3,
-        "security_liberty": 3,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 3,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 2,
+        "social_inclusion": 3
     },
-    "critique": "The document describes the establishment of a reservation for the Pima and Maricopa Indians. This involves executive action and federal control over land, with implications for indigenous populations.",
+    "critique": "This executive order from 1882 sets aside land for the Pima and Maricopa Indians in Arizona. \n\nIdeological Tilt: This is hard to place on a left-right spectrum. It could be seen as liberal in the sense of supporting indigenous populations, but also conservative in the sense of adhering to existing property rights. I'll put it at 0.\n\nImmigration Approach: Not relevant to immigration, so 0.\n\nExecutive Power: It expands executive power by withdrawing land from sale and settlement. +3\n\nFederalism: It asserts federal control over land in a territory, so +3.\n\nNational Security vs. Civil Liberties: Not directly related to national security or civil liberties, so 0.\n\nEconomic Regulation: It restricts the sale and settlement of land, which could be seen as a form of economic intervention. +2\n\nSocial Inclusion: It supports the Pima and Maricopa Indians, which could be seen as promoting social inclusion. +3",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 4,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 3
     }
 }

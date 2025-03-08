@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -3,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
     },
-    "critique": "The document focuses on loyalty to the government and outlines procedures for investigating and separating officers based on disloyalty. This suggests a concern for national security and conformity.",
+    "critique": "This executive order pertains to the investigation and separation of commissioned officers of the Public Health Service based on doubts about their loyalty to the U.S. government. This was during the Red Scare, so the focus is on national security and potential subversion. It doesn't directly address immigration, economic regulation, or social inclusion. It references previous executive orders related to employee loyalty programs. The order itself doesn't expand executive power, but it implements existing frameworks for loyalty investigations. It doesn't directly impact federalism. The ideological tilt is conservative due to the emphasis on loyalty and national security during the Cold War era.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -3,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 3,
-        "security_liberty": 4,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
-        "social_inclusion": -3
+        "social_inclusion": -1
     }
 }

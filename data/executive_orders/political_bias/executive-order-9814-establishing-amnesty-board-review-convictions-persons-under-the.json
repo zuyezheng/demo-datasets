@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": -1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a board to review cases of individuals convicted of violating the Selective Training and Service Act of 1940 and make recommendations for executive clemency. This suggests a moderate approach to executive power and a balanced approach to security and liberty, as it provides a mechanism for reviewing convictions. The document does not directly address economic regulation, immigration, or social inclusion. It also doesn't explicitly favor state or federal control, but the establishment of a federal board suggests a move towards federal oversight in this specific area.",
+    "critique": "This executive order establishes a board to review cases of individuals convicted of violating the Selective Training and Service Act of 1940. This act concerned conscription, so the order deals with those who resisted the draft. \n\n*   **Ideological Tilt:** The order could be seen as leaning slightly liberal (+1) as it provides a path for clemency for those who opposed the draft, which could be interpreted as a challenge to government authority and a stance against war. However, it's also a matter of internal management of the government, so it's not strongly ideological.\n*   **Immigration Approach:** This executive order has no bearing on immigration, so it is neutral (0).\n*   **Executive Power:** The order establishes a board, but it doesn't drastically expand or restrict executive power. It uses existing presidential authority to grant pardons, so it's relatively neutral (0).\n*   **Federalism:** The order doesn't significantly impact the balance between state and federal power, so it is neutral (0).\n*   **National Security vs. Civil Liberties:** The order leans slightly towards civil liberties (-1) as it provides a path for clemency for those convicted under the Selective Training and Service Act. This suggests a consideration for individual circumstances and potential injustices.\n*   **Economic Regulation:** The order has no impact on economic regulation, so it is neutral (0).\n*   **Social Inclusion:** The order doesn't directly address social inclusion, so it is neutral (0).\n\nRevised scores:\n*   Ideological Tilt: +1\n*   Immigration Approach: 0\n*   Executive Power: 0\n*   Federalism: 0\n*   National Security vs. Civil Liberties: -1\n*   Economic Regulation: 0\n*   Social Inclusion: 0",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": -1,
         "economic_regulation": 0,
         "social_inclusion": 0

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document establishes a code of fair competition for the distilled spirits rectifying industry, indicating government intervention in the economy. It centralizes power by granting the President authority to approve the code. There is no mention of immigration, security/liberty, or social inclusion. The document reflects the policies of the National Industrial Recovery Act.",
-    "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 2,
         "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 4,
+        "social_inclusion": 0
+    },
+    "critique": "This document is an executive order from Franklin D. Roosevelt approving a \"Code of Fair Competition for the Distilled Spirits Rectifying Industry\" under the National Industrial Recovery Act. Here's an analysis of its political bias:Ideological Tilt: The National Industrial Recovery Act was a key component of the New Deal, which was a liberal response to the Great Depression. The act aimed to regulate industries and promote economic recovery through government intervention. Therefore, this document leans liberal.Immigration Approach: This document does not address immigration.Executive Power: The document is an executive order, which inherently represents an exercise of executive power. However, it's also based on authority granted by Congress in the National Industrial Recovery Act, suggesting a balance of power rather than an extreme expansion of executive authority.Federalism: The National Industrial Recovery Act centralized power in the federal government, as it aimed to regulate industries across the nation. This document reflects that centralization.National Security vs. Civil Liberties: This document does not directly address national security or civil liberties.Economic Regulation: The document explicitly approves a \"Code of Fair Competition,\" indicating government intervention in the distilled spirits industry. This aligns with the New Deal's approach of regulating the economy to promote recovery.Social Inclusion: This document does not directly address social inclusion.Initial scores:Ideological Tilt: 3Immigration Approach: 0Executive Power: 2Federalism: 3National Security vs. Civil Liberties: 0Economic Regulation: 4Social Inclusion: 0Revised scores:Ideological Tilt: 3Immigration Approach: 0Executive Power: 2Federalism: 3National Security vs. Civil Liberties: 0Economic Regulation: 4Social Inclusion: 0",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     }
 }

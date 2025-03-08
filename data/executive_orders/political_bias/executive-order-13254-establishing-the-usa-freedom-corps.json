@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "This document promotes national service and volunteerism, which can be seen as a generally positive and unifying goal. However, the emphasis on homeland security preparedness and response could be interpreted as leaning towards a security focus. The creation of the USA Freedom Corps Council and Office centralizes these efforts within the executive branch.",
+    "critique": "This executive order establishes the USA Freedom Corps, an interagency initiative designed to promote and enhance public service opportunities for Americans. It encourages citizens to serve their country and coordinates federal service programs. The order also creates a USA Freedom Corps Council, chaired by the President, to advise on optimizing federal programs and tracking participation in public service. A USA Freedom Corps Office within the White House Office supports the Council and facilitates presidential recognition for volunteers. The order emphasizes citizen service, volunteerism, and coordination among government agencies. It does not directly address immigration, civil liberties, economic regulation, or social inclusion. The focus is on expanding public service and engaging citizens in national initiatives.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
-        "security_liberty": 1,
+        "federalism": 0,
+        "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 1
+        "social_inclusion": 0
     }
 }

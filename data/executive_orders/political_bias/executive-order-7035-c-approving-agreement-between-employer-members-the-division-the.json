@@ -1,18 +1,18 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 4,
+        "social_inclusion": 1
     },
-    "critique": "The document reflects President Roosevelt's approval of an agreement within the construction industry under the National Industrial Recovery Act. It leans towards government intervention in the economy and industry, and expands executive power through the Act. The agreement impacts labor relations and potentially promotes social inclusion through fair competition, but its primary focus is economic and industrial regulation.",
+    "critique": "This document pertains to the National Industrial Recovery Act during the Great Depression. It approves an agreement between employers and employees in the construction industry in Pennsylvania. Given the context, here's an analysis of its political biases:\n\n1.  Ideological Tilt: The NIRA was a New Deal program, so it leans liberal due to government intervention in the economy and labor relations. Score: +3\n2.  Immigration Approach: The document doesn't directly address immigration. Score: 0\n3.  Executive Power: The document is an executive order, but it's based on existing legislation (NIRA). It approves an agreement based on recommendations from a board, suggesting some checks on executive power. Score: 0\n4.  Federalism: The NIRA was a federal program, so this agreement strengthens federal control over industry and labor relations, even at a regional level. Score: +3\n5.  National Security vs. Civil Liberties: The document doesn't directly address national security or civil liberties. Score: 0\n6.  Economic Regulation: The NIRA was a significant intervention in the economy, setting codes of fair competition. This agreement falls under that umbrella, indicating heavy government intervention. Score: +4\n7.  Social Inclusion: The document doesn't explicitly address social inclusion, but the NIRA aimed to improve working conditions and wages, which could indirectly benefit marginalized groups. Score: +1\n\nRevised Scores:\nAfter further consideration, the initial scores seem appropriate. The document is clearly a product of the New Deal era, with its emphasis on federal intervention in the economy and labor relations. The scores reflect this bias, while also acknowledging the lack of direct impact on issues like immigration or civil liberties.",
     "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 0,
         "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 4,

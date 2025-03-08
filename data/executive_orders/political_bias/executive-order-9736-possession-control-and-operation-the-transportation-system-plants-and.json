@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 2,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document reflects a wartime context where the government asserts control over private industries (railroad) to ensure uninterrupted operation and support the war effort. It balances this control with some protections for workers' rights to unionize and bargain collectively. The order emphasizes federal authority and national security during a wartime emergency.",
+    "critique": "This document is an executive order from 1946 regarding the seizure of a railroad company due to a labor dispute affecting the war effort. Given the context of a post-war emergency, the document leans towards expanding executive power to ensure continued operation of essential infrastructure. There's a moderate intervention in economic regulation to resolve the labor dispute. It also balances national security with workers' rights to some extent. There is no direct impact on immigration, federalism, or social inclusion. The ideological tilt is moderate, reflecting the need for government intervention during a specific emergency, but also acknowledging workers' rights.",
     "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 4,
-        "federalism": 5,
-        "security_liberty": 4,
-        "economic_regulation": 4,
+        "executive_power": 3,
+        "federalism": 0,
+        "security_liberty": 2,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

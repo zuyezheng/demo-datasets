@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 4,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "federalism": 2,
+        "security_liberty": -1,
+        "economic_regulation": 2,
+        "social_inclusion": 5
     },
-    "critique": "The document is an executive order focused on advancing equity and addressing systemic barriers for underserved communities. It emphasizes a whole-of-government approach to embed fairness in decision-making processes and allocate resources to promote equitable delivery of government benefits and opportunities. The order also establishes an interagency working group on equitable data to measure and advance equity.",
+    "critique": "This executive order focuses on promoting equity and addressing systemic barriers for underserved communities. It emphasizes data collection, resource allocation, and policy review to advance fairness and opportunity across the federal government. It also revokes previous executive orders related to race and sex stereotyping and the 1776 Commission. Here's a breakdown of the scores:\n\n1.  Ideological Tilt: +4 (Highly Liberal) - The order explicitly aims to address inequities and promote social inclusion, aligning with liberal values.\n2.  Immigration Approach: 0 (Balanced/Selective) - The order does not directly address immigration policies.\n3.  Executive Power: 0 (Neutral/Balanced) - While it directs agencies to take action, it doesn't significantly expand or restrict executive power beyond existing legal frameworks.\n4.  Federalism: +2 (Moderate Federal Control) - The order encourages federal agencies to take the lead in addressing equity issues, suggesting a move towards federal oversight.\n5.  National Security vs. Civil Liberties: -1 (Slight Liberties/Privacy Focus) - The order emphasizes data collection to measure equity, which could raise privacy concerns, but it also stresses compliance with applicable law and privacy interests.\n6.  Economic Regulation: +2 (Moderate Government Intervention) - The order promotes equitable allocation of resources and aims to address economic disparities, indicating a moderate level of government intervention.\n7.  Social Inclusion: +5 (Emphasis on Diversity/Pluralism) - The order explicitly promotes diversity and inclusion for underserved communities.",
     "revised_scores": {
         "ideological_tilt": 4,
-        "immigration": 2,
-        "executive_power": 2,
-        "federalism": 3,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 2,
         "security_liberty": -1,
-        "economic_regulation": 3,
+        "economic_regulation": 2,
         "social_inclusion": 5
     }
 }

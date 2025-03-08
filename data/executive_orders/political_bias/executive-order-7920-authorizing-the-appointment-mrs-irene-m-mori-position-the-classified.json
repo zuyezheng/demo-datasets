@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 1
     },
-    "critique": "The document is an executive order from 1938 allowing Mrs. Irene M. Mori to be appointed to a government position without meeting civil service requirements. This is justified by her late husband's meritorious service and the family's lack of adequate support. The order reflects a focus on providing for the widow and children of a deceased government employee.",
+    "critique": "This document is an executive order from 1938 that waives civil service rules to allow Mrs. Irene M. Mori to be appointed to a government position. This is justified by the fact that she is the widow of a War Department employee who died and left her and her children without adequate support. \n\nIdeological Tilt: This is a fairly neutral action. It's a compassionate measure to support a widow and her children, which doesn't strongly align with either liberal or conservative ideologies. Score: 0\n\nImmigration Approach: This document has nothing to do with immigration. Score: 0\n\nExecutive Power: The document expands executive power slightly, as it's an executive order that waives existing rules. However, it's a one-time exception for a specific case, so the expansion is minimal. Score: 1\n\nFederalism: This document doesn't significantly impact the balance between state and federal power. It's a federal government action, but it doesn't inherently centralize or decentralize power. Score: 0\n\nNational Security vs. Civil Liberties: This document doesn't directly address national security or civil liberties. The waiver of civil service rules doesn't seem to have implications for either. Score: 0\n\nEconomic Regulation: This document has minimal impact on economic regulation. It creates a job for one person, but it doesn't change any broader economic policies. Score: 0\n\nSocial Inclusion: This document could be seen as a slight move towards social inclusion, as it provides support to a widow and her children. However, it's a specific case and not a broad policy change. Score: 1",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 3
+        "social_inclusion": 1
     }
 }

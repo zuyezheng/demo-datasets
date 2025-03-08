@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding the transfer of a government employee. It appears to be a fairly neutral action focused on administrative procedure.",
+    "critique": "This document is a specific executive order regarding the transfer of an individual within the civil service. It doesn't touch on broad ideological themes, immigration, or economic regulation. It slightly expands executive power by waiving a civil service rule for a specific case, and it doesn't directly address federalism, national security, or social inclusion. Therefore, most scores should be neutral, with a slight positive score for executive power.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

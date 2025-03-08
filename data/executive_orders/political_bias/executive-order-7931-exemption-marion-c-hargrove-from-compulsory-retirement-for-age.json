@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a simple exemption from compulsory retirement for age for a government employee. It doesn't express strong opinions on any of the axes, but some can be inferred. It involves a government decision related to employment, which can be loosely tied to economic regulation. The decision is made by the executive branch, so it has implications for executive power. The document does not directly address social inclusion, immigration, federalism, security or liberty.",
+    "critique": "This document is an executive order from 1938 exempting a government employee from mandatory retirement. It's a fairly specific and limited action. Ideologically, it doesn't lean strongly in either direction. It has no implications for immigration, federalism, national security, economic regulation, or social inclusion. The only axis with a slight impact is executive power, as it represents a minor expansion of the President's authority to make exceptions to standard rules. Therefore, the initial scores are mostly neutral, with a slight positive score for executive power.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

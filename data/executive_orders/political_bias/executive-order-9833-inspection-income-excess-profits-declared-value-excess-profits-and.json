@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding the inspection of tax returns by the Federal Trade Commission. It appears to be focused on internal management of the government and does not express strong opinions on the axes of political bias. Therefore, most scores are set to neutral (0). The exception is economic regulation, which is set to +1, as the order facilitates the FTC's power to execute its duties, which include regulating commerce.",
+    "critique": "This executive order pertains to the inspection of tax returns by the Federal Trade Commission. It seems primarily focused on internal government management and information sharing between agencies. There's no immediately apparent ideological tilt, immigration stance, or impact on civil liberties. It could be argued that allowing the FTC access to tax information slightly expands federal power and potentially increases economic regulation through oversight, but these are indirect effects. There is no mention of social issues. Therefore, the initial scores are as follows:",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 1,
         "social_inclusion": 0

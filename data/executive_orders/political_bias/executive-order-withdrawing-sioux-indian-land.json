@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -2,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": -1,
+        "social_inclusion": -2
     },
-    "critique": "The document returns land to the public domain, which could be seen as favoring deregulation and potentially impacting Native American interests. It's a historical document, so modern interpretations of social inclusion might not fully apply.",
+    "critique": "This executive order returns land from the Great Sioux Reservation to the public domain because it is \"no longer needed\". This likely favors economic development and settlement by non-Native Americans, which would be considered conservative. This reduces the land available to the Sioux, which reduces social inclusion. It is difficult to assess the impact on executive power, federalism, national security vs. civil liberties, and economic regulation without more context.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -2,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": -1,
         "social_inclusion": -2

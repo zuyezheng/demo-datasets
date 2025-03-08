@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1935 exempting Finis D. Morris from mandatory retirement. It is difficult to assess the political bias of this document as it is a specific case exemption. However, some axes can be assessed.",
+    "critique": "This is an executive order from 1935 exempting a government employee from mandatory retirement. Given the historical context of the Great Depression and the New Deal, extending someone's employment could be seen as a moderate intervention in the economy to provide job security. There's no clear indication of ideological tilt, immigration policy, federalism implications, or impacts on national security vs. civil liberties. The order seems neutral on social inclusion. The executive power is slightly expanded as it uses an existing provision to allow the president to make exceptions.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

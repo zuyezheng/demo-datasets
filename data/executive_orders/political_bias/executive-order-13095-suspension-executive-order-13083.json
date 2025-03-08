@@ -3,17 +3,17 @@
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": -3,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document suspends Executive Order 13083, entitled \"Federalism.\"",
+    "critique": "The document suspends Executive Order 13083, entitled \"Federalism.\" Executive Order 13083 likely promoted state control, so suspending it would shift power to the federal government. There is no information about ideological tilt, immigration, executive power, national security vs. civil liberties, economic regulation, or social inclusion, so those should be neutral. Suspending an executive order related to federalism suggests a shift towards federal control.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 5,
-        "federalism": -5,
+        "executive_power": 0,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

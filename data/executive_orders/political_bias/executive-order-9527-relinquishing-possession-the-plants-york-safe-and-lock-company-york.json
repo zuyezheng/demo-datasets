@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document describes the termination of government control over a private company's plants and facilities, returning them to private operation after wartime use. This suggests a move away from government intervention in the economy and a return to private enterprise.",
+    "critique": "This document pertains to the relinquishment of control of a company seized during wartime. It's a straightforward administrative action related to the war effort. There's no clear indication of ideological bias, immigration policy, or social inclusion. The executive power aspect is neutral, as it's simply returning control after the war need subsided. Federalism isn't really addressed. National security is indirectly relevant as it relates to the war effort, but the document itself is about ending government control. Economic regulation is also indirectly relevant, but the document is about ending intervention, not continuing it.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": -1,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -2,
+        "economic_regulation": -1,
         "social_inclusion": 0
     }
 }

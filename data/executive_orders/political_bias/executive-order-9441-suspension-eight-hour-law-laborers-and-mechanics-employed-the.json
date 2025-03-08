@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 3,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document suspends the eight-hour workday limit for laborers and mechanics employed by the Veterans' Administration on public works essential to the war effort. This suggests a focus on national security and efficient prosecution of the war, potentially at the expense of labor protections. The document also centralizes power in the executive branch by invoking presidential authority to suspend existing labor laws during a declared emergency.",
+    "critique": "This document is an executive order from 1944 addressing an emergency labor shortage during wartime. It temporarily suspends the eight-hour workday limit for Veterans' Administration laborers and mechanics engaged in war-related public works. It does not obviously lean left or right (Ideological Tilt). It does not directly address immigration (Immigration Approach). It expands executive power during wartime (Executive Power). It does not obviously favor state or federal primacy (Federalism). It prioritizes war prosecution (National Security vs. Civil Liberties). It involves government in labor practices during wartime (Economic Regulation). It does not obviously promote or discourage social inclusion (Social Inclusion).",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 3,
+        "federalism": 0,
         "security_liberty": 3,
         "economic_regulation": 2,
         "social_inclusion": 0

@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -2,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to tax returns and their inspection by a special committee. It is difficult to assess political bias based solely on this information. The order itself doesn't inherently lean liberal or conservative. However, the context of the committee's purpose (Un-American Activities) might suggest a security focus.",
+    "critique": "This document is an executive order opening tax returns to the Special Committee on Un-American Activities. This committee was created to investigate suspected disloyalty and subversive activities. \n\nIdeological Tilt: The committee was formed to investigate \"Un-American Activities\", which is a vague term that could be used to target individuals or groups with differing political views. This leans conservative. Initial score: -2. Revised score: -2.\nImmigration Approach: The document does not directly address immigration. Initial score: 0. Revised score: 0.\nExecutive Power: The document expands executive power by allowing the Special Committee on Un-American Activities access to tax returns. Initial score: 2. Revised score: 2.\nFederalism: The document does not directly address federalism. Initial score: 0. Revised score: 0.\nNational Security vs. Civil Liberties: The document prioritizes national security by allowing the Special Committee on Un-American Activities access to tax returns. This could potentially infringe on civil liberties. Initial score: 3. Revised score: 3.\nEconomic Regulation: The document does not directly address economic regulation. Initial score: 0. Revised score: 0.\nSocial Inclusion: The document does not directly address social inclusion. Initial score: 0. Revised score: 0.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -2,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 2,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

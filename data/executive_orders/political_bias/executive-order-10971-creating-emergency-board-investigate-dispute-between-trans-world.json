@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order creating a board to investigate a dispute between Trans World Airlines and its employees. It invokes the Railway Labor Act to prevent changes to the conditions out of which the dispute arose. The document itself doesn't express strong opinions on most political issues, but it does imply a degree of federal intervention in labor disputes and interstate commerce.",
+    "critique": "This document establishes a board to investigate a labor dispute between Trans World Airlines and its employees. It aims to prevent interruption of interstate commerce. There is little to suggest a strong ideological tilt. It doesn't directly address immigration, executive power, federalism, national security, economic regulation, or social inclusion. Therefore, most axes should be near zero.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 1,
-        "social_inclusion": 2
+        "economic_regulation": -1,
+        "social_inclusion": 1
     },
-    "critique": "The document emphasizes support for small businesses, particularly minority-owned businesses, and seeks to ensure their fair treatment by government agencies. It promotes free enterprise and aims to eliminate obstacles to small business growth. There is a moderate level of government intervention to support and protect small businesses.",
+    "critique": "Let's analyze this document for political bias. \n\n1.  Ideological Tilt: The document promotes free enterprise and small business growth, aligning with generally conservative economic principles. However, it also emphasizes support for minority-owned businesses, which can be seen as a more liberal stance on social equity. Overall, it seems fairly moderate, leaning slightly conservative due to the emphasis on free enterprise. Initial score: -1.\n2.  Immigration Approach: The document does not directly address immigration. Therefore, it is neutral on this axis. Initial score: 0.\n3.  Executive Power: The document directs agencies to consult with the Small Business Administration and consider the interests of small businesses. While it doesn't drastically expand executive power, it does exert some influence over agency actions. Initial score: 1.\n4.  Federalism: The document reinforces the role of the federal government (specifically the Small Business Administration) in supporting small businesses, suggesting a slight centralization of power. Initial score: 1.\n5.  National Security vs. Civil Liberties: The document does not directly address national security or civil liberties. Therefore, it is neutral on this axis. Initial score: 0.\n6.  Economic Regulation: The document aims to promote a ",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 2,
-        "social_inclusion": 3
+        "economic_regulation": -1,
+        "social_inclusion": 1
     }
 }

@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document discusses the permanent appointment of four individuals to the Secret Service Division of the Treasury Department without compliance with civil-service rules. The rationale provided is their demonstrated fitness and the interest of the Service, as recommended by the Acting Secretary of the Treasury.",
+    "critique": "This document is a straightforward executive order regarding appointments within the Secret Service. It waives civil service rules for four individuals, citing their prior temporary employment and demonstrated fitness. There's no indication of broad ideological leaning, immigration policy, or significant impact on executive power beyond this specific personnel matter. The order doesn't touch upon federalism, national security vs. civil liberties, economic regulation, or social inclusion in any discernible way. Therefore, most axes should be scored as neutral. The only axis that might deviate slightly is executive power, as waiving civil service rules could be seen as a minor expansion, but it's very limited in scope.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 5,
-        "security_liberty": 3,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

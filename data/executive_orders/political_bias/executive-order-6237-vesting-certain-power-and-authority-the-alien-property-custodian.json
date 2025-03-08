@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document centralizes power in the executive branch, specifically the Alien Property Custodian, regarding the handling of enemy property. It does not explicitly address immigration, economic regulation, or social inclusion. The focus is on national security during a time of potential conflict, potentially at the expense of individual liberties for those deemed enemies.",
+    "critique": "This document is an executive order related to the Trading with the Enemy Act. It delegates authority regarding the deposit, transfer, and payment of moneys to the Alien Property Custodian. It does not seem to have a strong ideological tilt, nor does it directly address immigration. It expands executive power by delegating authority. It does not directly relate to federalism, national security vs. civil liberties, economic regulation, or social inclusion. Therefore, most axes should be neutral.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 5,
-        "security_liberty": 3,
+        "federalism": 0,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

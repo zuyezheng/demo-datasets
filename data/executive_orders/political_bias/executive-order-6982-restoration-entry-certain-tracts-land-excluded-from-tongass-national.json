@@ -3,17 +3,17 @@
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding land use in Alaska. It is difficult to assess political bias based on this document alone, as it primarily concerns administrative decisions related to land management and does not express explicit opinions on the axes.",
+    "critique": "This document is a land transfer from the Tongass National Forest to private individuals for home sites. It is difficult to assess its ideological tilt without more context, but it seems relatively neutral. It has no implications for immigration, executive power, national security, economic regulation, or social inclusion. It slightly favors state control as it gives land to individuals, reducing federal land holdings.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": -1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

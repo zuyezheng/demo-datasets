@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order extending enlistments in the armed forces. It does not explicitly address ideological issues, immigration, or social inclusion. It focuses on executive power and national security during a specific historical context (1950).",
+    "critique": "This document is an executive order extending enlistments in the armed forces. It was issued during the Korean War. It does not obviously relate to ideological tilt, immigration, federalism, economic regulation, or social inclusion. It does expand executive power, but only slightly, as it is time-limited and authorized by an act of Congress. It also arguably leans toward national security over civil liberties, but again, only slightly, as it is a wartime measure.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 3,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

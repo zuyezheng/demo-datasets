@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 3,
+        "security_liberty": -3,
         "economic_regulation": 0,
-        "social_inclusion": 3
+        "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on improving the effectiveness of intelligence gathering while ensuring humane treatment of individuals in US custody. It revokes previous orders inconsistent with its goals, emphasizes compliance with treaties like the Geneva Conventions, and establishes standards for interrogation techniques. It also prohibits certain detention facilities and ensures Red Cross access to detainees. A special task force is created to review interrogation and transfer policies.",
+    "critique": "This executive order aims to reverse policies enacted after 9/11 regarding interrogation techniques and detention facilities. It emphasizes humane treatment, adherence to the Geneva Conventions, and revokes previous directives that were inconsistent with these principles. It also mandates the closure of CIA detention facilities and provides access to the Red Cross. A special task force is created to review interrogation and transfer policies. Overall, the order leans towards protecting civil liberties and adhering to international law.",
     "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": -1,
+        "executive_power": 0,
         "federalism": 0,
-        "security_liberty": -2,
+        "security_liberty": -4,
         "economic_regulation": 0,
-        "social_inclusion": 4
+        "social_inclusion": 0
     }
 }

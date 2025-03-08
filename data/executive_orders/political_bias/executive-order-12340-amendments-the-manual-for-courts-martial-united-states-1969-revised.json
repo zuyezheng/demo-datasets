@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": -1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document primarily focuses on amendments to the Manual for Courts-Martial, addressing legal procedures and rights within the military justice system. It does not directly address broader ideological or social issues, immigration, economic regulation, or the balance of power between state and federal governments. Therefore, most axes are neutral.",
+    "critique": "This document primarily concerns amendments to the Manual for Courts-Martial, focusing on military justice procedures. It addresses aspects like the rights of the accused, counsel availability, and review processes. There's a slight emphasis on protecting the rights of the accused within the military justice system, such as ensuring counsel and fair treatment during trial. However, it also reinforces existing structures and hierarchies within the military legal framework. Therefore, the ideological tilt is slightly liberal, but not strongly so. Immigration is not relevant. Executive power is neither significantly expanded nor restricted. Federalism is not relevant. There's a slight emphasis on civil liberties within the military context. Economic regulation is not relevant. Social inclusion is not directly addressed, so it's neutral.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": -1,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

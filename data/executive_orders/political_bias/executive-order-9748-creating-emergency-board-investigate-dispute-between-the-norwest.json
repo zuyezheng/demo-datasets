@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a board to investigate a labor dispute and prevent disruption of interstate commerce. It doesn't express a clear ideological stance but leans towards federal intervention to resolve the issue.",
+    "critique": "This document establishes a board to investigate a labor dispute between Northwest Airlines and its employees. It aims to prevent disruption to interstate commerce by maintaining the status quo during the investigation. The order itself doesn't directly address ideological issues, immigration, or civil liberties. It focuses on resolving a specific labor dispute using existing legal frameworks. Therefore, most axes should be neutral. The executive power is slightly expanded to create the board, but it's within the bounds of existing law.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 3,
-        "security_liberty": 1,
-        "economic_regulation": 2,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

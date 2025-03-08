@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document reflects President Roosevelt's order regarding the National Industrial Recovery Act. It shows a moderate interventionist approach by suspending certain provisions in codes of service trades or industries, while maintaining regulations on child labor, maximum hours, and minimum wages. The order also allows for local codes of fair trade practices if agreed upon by a significant portion of the industry members in a locality and approved by the Administrator. This indicates a balance between federal oversight and local adaptation.",
-    "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 2,
-        "federalism": 2,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 3,
-        "social_inclusion": 0
+        "economic_regulation": 4,
+        "social_inclusion": 1
+    },
+    "critique": "This document is an executive order from Franklin D. Roosevelt regarding the National Industrial Recovery Act. It suspends certain provisions in codes of service trades or industries, except those related to child labor, maximum hours, minimum wages, and collective bargaining. It also allows for local codes of fair trade practices if 85% of the members agree and the Administrator approves. The order grants the Administrator the power to supplement the order with rules and regulations.\n\n1. Ideological Tilt: The document reflects a liberal approach due to its focus on worker protections (child labor, maximum hours, minimum wages) and support for collective bargaining. Initial score: +3\n2. Immigration Approach: The document does not address immigration. Initial score: 0\n3. Executive Power: The document expands executive power by granting the Administrator broad authority to supplement the order with rules and regulations. Initial score: +2\n4. Federalism: The document centralizes power at the federal level by establishing national codes and granting the Administrator authority over local agreements. Initial score: +3\n5. National Security vs. Civil Liberties: The document does not directly address national security or civil liberties. Initial score: 0\n6. Economic Regulation: The document promotes government intervention in the economy through codes of fair trade practices and the Administrator's regulatory power. Initial score: +4\n7. Social Inclusion: The document does not directly address social inclusion, but its focus on worker protections could be seen as indirectly promoting social equity. Initial score: +1\n\nRevised scores:\n- Ideological Tilt: +3 (No change)\n- Immigration Approach: 0 (No change)\n- Executive Power: +2 (No change)\n- Federalism: +3 (No change)\n- National Security vs. Civil Liberties: 0 (No change)\n- Economic Regulation: +4 (No change)\n- Social Inclusion: +1 (No change)",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 4,
+        "social_inclusion": 1
     }
 }

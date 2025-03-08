@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 1,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1941 that withdraws public lands on Amaknak Island, Alaska for naval aviation purposes. It prioritizes national security (naval aviation) over other land uses and existing rights. There is no direct discussion of social issues, economic policy, or immigration.",
+    "critique": "This executive order withdraws public lands in Alaska for naval aviation purposes. It also references previous executive orders related to bird preserves, native fishing rights, and lighthouse reservations. There is no direct indication of ideological tilt, immigration approach, or social inclusion. The order expands executive power by withdrawing land and superseding previous orders. It also centralizes control at the federal level by reserving land for federal use. The order balances national security with existing rights and protections for native populations and wildlife. There is a slight intervention in the economy by restricting land use for specific purposes.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 2,
         "federalism": 3,
-        "security_liberty": 3,
-        "economic_regulation": 0,
+        "security_liberty": 1,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

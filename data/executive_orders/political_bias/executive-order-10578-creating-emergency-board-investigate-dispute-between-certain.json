@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "This document establishes a board to investigate a labor dispute between carriers and their employees, invoking the Railway Labor Act to prevent disruption of interstate commerce. It reflects a moderate approach to economic regulation by intervening in a labor dispute to ensure essential transportation services are not interrupted. There is no direct impact on immigration, executive power, federalism, security/liberty, or social inclusion. The document appears neutral in ideological tilt.",
+    "critique": "This document is an executive order issued by President Eisenhower in 1954, invoking the Railway Labor Act to address a dispute between railway carriers and their employees. It establishes a board to investigate the dispute and prevent any changes to the conditions that led to the dispute for a specified period. The order itself doesn't directly address ideological issues, immigration, or social inclusion. It primarily focuses on labor relations and maintaining essential transportation services. It could be argued that by intervening in the labor dispute, the executive branch is expanding its power, but this is within the bounds of existing legislation (the Railway Labor Act). The order doesn't explicitly favor either the federal government or state control, but it does involve federal intervention in a matter that could be seen as affecting interstate commerce, which leans slightly towards federal primacy. There's no indication of prioritizing national security over civil liberties or vice versa. The economic regulation aspect is moderate, as the government is stepping in to prevent disruption but not dictating specific terms. There's no direct impact on social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

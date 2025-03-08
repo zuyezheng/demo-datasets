@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 1
     },
-    "critique": "The document is an executive order amending a previous order regarding the delegation of authority related to the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003. It primarily concerns internal management of the executive branch and delegation of authority, with a focus on foreign affairs. There's a mention of national security and the unitary executive branch.",
+    "critique": "This executive order amends a previous order (12163) to further delegate authority to the Secretary of State regarding the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003. It also clarifies the President's constitutional authority in conducting foreign affairs and supervising the executive branch. The order explicitly states it's for internal management and doesn't create enforceable rights. Given the focus on foreign aid and health initiatives, it leans slightly liberal. There's no direct impact on immigration, executive power is affirmed but not drastically expanded, federalism is neutral, national security vs. civil liberties is balanced, economic regulation is not directly addressed, and social inclusion is indirectly promoted through health initiatives.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
-        "security_liberty": 1,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 1
     }
 }

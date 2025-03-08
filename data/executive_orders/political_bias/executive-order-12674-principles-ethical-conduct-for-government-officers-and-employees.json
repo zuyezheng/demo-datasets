@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "This document outlines ethical standards for executive branch employees, focusing on preventing conflicts of interest and ensuring public trust. It emphasizes adherence to laws, equal opportunity, and responsible use of government resources. There's a strong emphasis on maintaining impartiality and avoiding the appearance of impropriety.",
+    "critique": "This executive order focuses on establishing ethical standards for executive branch employees. It emphasizes principles like public service, avoiding conflicts of interest, and impartiality. There's a strong emphasis on preventing corruption and ensuring government integrity. It also includes provisions for financial disclosure and limitations on outside income for certain employees. The order delegates authority to agency heads and the Counsel to the President for granting exemptions or approvals. It revokes previous executive orders on similar topics and includes savings provisions to maintain continuity. The order aims to improve internal management and doesn't create enforceable rights. It seems fairly neutral in terms of ideological tilt, immigration, federalism, security vs. liberty, economic regulation, and social inclusion. It could be argued that it slightly expands executive power by centralizing ethics oversight, but it also limits the ability of executive branch employees to earn outside income. Therefore, the expansion of executive power is very limited. The emphasis on ethical conduct and preventing corruption could be seen as slightly conservative, but it's primarily focused on good governance.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 1,
-        "economic_regulation": 1,
-        "social_inclusion": 1
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
     }
 }

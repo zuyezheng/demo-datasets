@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document establishes an airspace reservation for national defense purposes, specifically related to the Atomic Energy Commission. It restricts air navigation within a defined area, prioritizing security. The order centralizes control over airspace with the federal government and emphasizes national security over individual liberties.",
+    "critique": "This executive order establishes an airspace reservation for national defense purposes. It does not directly address ideological issues, immigration, or social inclusion. It expands executive power by restricting airspace, favors federal control over states in airspace management, and prioritizes national security. It has no direct impact on economic regulation.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 3,
         "federalism": 3,
-        "security_liberty": 4,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

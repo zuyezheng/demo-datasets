@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order amending a previous order related to Syria. It removes specific references to Turkey's actions and broadens the criteria for blocking property and interests. It also includes standard clauses about not impairing existing authority and not creating enforceable rights.",
-    "revised_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
+        "immigration": -1,
         "executive_power": 1,
         "federalism": 0,
         "security_liberty": 1,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    },
+    "critique": "Let's analyze this executive order. \n\nIdeological Tilt: This order amends a previous order related to Syria. It doesn't directly address typical left-right issues like social welfare or cultural values. Therefore, it's ideologically neutral.\n\nImmigration Approach: The order references section 212(f) of the Immigration and Nationality Act, which allows the President to suspend entry of certain persons. However, the amendment itself doesn't explicitly restrict or open immigration. It's more about blocking property and suspending entry of individuals contributing to the situation in Syria. So, it has a slightly restrictive implication.\n\nExecutive Power: The order amends a previous executive order, indicating the President is using existing executive authority. The amendments themselves don't seem to drastically expand or restrict executive power, but the act of amending the order reinforces executive authority.\n\nFederalism: This order doesn't directly impact the balance between state and federal power. It's focused on foreign policy and national security, which are typically federal responsibilities.\n\nNational Security vs. Civil Liberties: The order blocks property and suspends entry of certain persons, which suggests a prioritization of national security. However, it also includes general provisions that state the order should be implemented consistent with applicable law, which could be interpreted as a nod to civil liberties.\n\nEconomic Regulation: The order blocks property, which is a form of economic regulation. However, it's targeted at specific individuals and entities related to the situation in Syria, rather than a broad economic intervention.\n\nSocial Inclusion: This order doesn't directly address social inclusion issues. It's focused on foreign policy and national security.\n\nRevised Scores: After considering the nuances, I'll adjust the scores slightly.\n",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": -1,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 1,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to delaying certain transfers, consolidations, and eliminations as provided for under section 4 of Executive Order No. 6166. It grants the Secretary of the Treasury, approved by the President, the authority to make operative and effective any transfer, consolidation, or elimination between June 30, 1937, and December 31, 1937.",
+    "critique": "This document pertains to delaying certain transfers, consolidations, and eliminations as outlined in a previous executive order (EO 6166) related to economic matters. It grants the Secretary of the Treasury, with Presidential approval, the authority to make these changes operative between specific dates. The document itself doesn't directly address immigration, civil liberties, or social inclusion. It seems primarily focused on government efficiency and economic considerations within the existing framework established by EO 6166. Therefore, the scores should reflect this focus on economic regulation and a neutral stance on other axes.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 1,
         "social_inclusion": 0

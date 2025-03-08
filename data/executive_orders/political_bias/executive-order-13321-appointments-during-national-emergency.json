@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document expands executive power and prioritizes national security in response to a declared national emergency.",
+    "critique": "This executive order invokes emergency powers related to national security, specifically in response to the 9/11 attacks. It expands the Secretary of Defense's authority for emergency appointments. The order explicitly limits judicial review, preventing legal challenges. Given the context of national emergency and the focus on defense, it leans towards prioritizing national security. There is no clear indication of ideological tilt, immigration policy, federalism, economic regulation, or social inclusion. The primary focus is on expanding executive power in the context of national security.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0

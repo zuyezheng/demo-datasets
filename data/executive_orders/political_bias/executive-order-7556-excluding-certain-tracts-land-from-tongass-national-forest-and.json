@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     },
-    "critique": "The document is a land order transferring land from the Tongass National Forest to private ownership. It is difficult to assess the political bias and sentiment of the document, as it is a legal document that does not express any political opinions. However, it could be argued that the document favors deregulation and private property rights, which are typically associated with conservative ideology.",
+    "critique": "This document is an executive order that transfers land from the Tongass National Forest to private ownership. It is difficult to assess the ideological tilt of the document, as it does not directly address social or economic issues. However, the transfer of land from public to private ownership could be seen as a conservative action. The document does not address immigration, executive power, federalism, national security, or social inclusion. The transfer of land from public to private ownership could be seen as a form of deregulation.",
     "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -2,
+        "economic_regulation": -1,
         "social_inclusion": 0
     }
 }

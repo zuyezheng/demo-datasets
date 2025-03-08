@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document describes President Franklin D. Roosevelt's approval of a Code of Fair Competition for the Excelsior and Excelsior Products Industry under the National Industrial Recovery Act of 1933. This act was a key component of Roosevelt's New Deal, aimed at addressing the economic crisis of the Great Depression through government intervention and regulation.",
-    "revised_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 4,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 3,
+        "federalism": 4,
         "security_liberty": 0,
-        "economic_regulation": 4,
+        "economic_regulation": 5,
+        "social_inclusion": 0
+    },
+    "critique": "This document pertains to the National Industrial Recovery Act of 1933, specifically the approval of a Code of Fair Competition for the Excelsior and Excelsior Products Industry. It reflects President Roosevelt's actions during the New Deal era. Here's an analysis of its political bias across the specified axes:\n\n1.  Ideological Tilt: The document is a clear example of government intervention in the economy, a hallmark of liberal policies during the New Deal. It promotes industry-specific codes of fair competition, indicating a belief in government's role in regulating business practices. Score: +4\n2.  Immigration Approach: The document does not address immigration at all. Score: 0\n3.  Executive Power: The document shows the expansion of executive power. President Roosevelt approves the code based on the authority granted to him by the National Industrial Recovery Act. This demonstrates a broad interpretation and application of executive authority in economic matters. Score: +3\n4.  Federalism: The document centralizes power at the federal level. The National Industrial Recovery Act and the President's actions demonstrate the federal government's active role in regulating industries across the nation, shifting away from state control. Score: +4\n5.  National Security vs. Civil Liberties: The document does not directly address national security or civil liberties. It is primarily focused on economic regulation. Score: 0\n6.  Economic Regulation: The document strongly advocates for government intervention in the economy. The approval of a code of fair competition signifies a move away from laissez-faire economics and towards government-managed economic activity. Score: +5\n7.  Social Inclusion: The document does not directly address social inclusion. The code of fair competition is primarily concerned with economic and industrial practices, not social issues. Score: 0\n\nRevised Scores Critique:\nUpon further reflection, the initial scores are reasonable. The document clearly reflects a liberal approach to economic regulation and an expansion of federal and executive power, characteristic of the New Deal era. The lack of direct impact on immigration, national security, or social inclusion justifies the neutral scores on those axes.",
+    "revised_scores": {
+        "ideological_tilt": 4,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 4,
+        "security_liberty": 0,
+        "economic_regulation": 5,
         "social_inclusion": 0
     }
 }

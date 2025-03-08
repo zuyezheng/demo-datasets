@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document grants the House Committee on Internal Security the authority to inspect income, estate, or gift tax returns from 1964 to 1974. This raises concerns about potential government overreach and infringement on privacy rights. The order doesn't specify clear limitations on the use of this information, increasing the risk of abuse. The focus on internal security suggests a prioritization of security over individual liberties.",
+    "critique": "This document is an executive order that allows the House Committee on Internal Security to inspect income, estate, or gift tax returns for the years 1964 to 1974. This could be seen as an expansion of executive power, as it allows the executive branch to grant access to private tax information. It also leans towards prioritizing national security over civil liberties, as it allows the government to investigate individuals' financial records. There is no clear indication of ideological tilt, immigration approach, federalism, economic regulation, or social inclusion.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 4,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

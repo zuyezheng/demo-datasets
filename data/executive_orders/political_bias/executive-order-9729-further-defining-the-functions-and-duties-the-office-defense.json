@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 2,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document centralizes power in the executive branch and federal government during wartime, impacting economic regulation and potentially limiting civil liberties in the name of national defense.",
+    "critique": "This document is an executive order from 1946 related to the allocation of transportation resources during and after World War II. Given the context of wartime and immediate postwar resource management, several axes are relevant. Ideological Tilt is likely neutral, as the focus is on practical resource allocation rather than a specific political ideology. Immigration is not addressed. Executive Power is expanded, as the order delegates significant authority to the Director of the Office of Defense Transportation. Federalism leans towards federal control, as it centralizes resource allocation at the national level. National Security vs. Civil Liberties leans towards national security, given the wartime context and the powers granted for information gathering and resource control. Economic Regulation is high, as the order directly intervenes in the transportation sector. Social Inclusion is neutral, as the order does not address social issues.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 4,
+        "executive_power": 3,
         "federalism": 3,
-        "security_liberty": 3,
-        "economic_regulation": 3,
+        "security_liberty": 2,
+        "economic_regulation": 4,
         "social_inclusion": 0
     }
 }

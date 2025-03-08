@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
+        "immigration": -2,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
     },
-    "critique": "The document is an executive order from 1935 regarding debt owed by Germany to the United States. It restricts payments to German nationals and entities, with exceptions for certain US nationals. It does not directly address ideological tilt, immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion in a way that allows for a clear scoring.",
+    "critique": "This executive order deals with the settlement of war claims against Germany after World War I. It restricts payments to German nationals and entities, with exceptions for US nationals. It also delegates authority to the Attorney General and Secretary of the Treasury to determine nationality and other qualifications of claimants. Here's a breakdown of the scores:\n\n*   **Ideological Tilt:** 0. This order is not inherently liberal or conservative. It's a legal and financial matter related to war reparations.\n*   **Immigration Approach:** -2. While not directly about immigration, it restricts payments to German nationals, reflecting a slightly restrictive approach towards foreign nationals.\n*   **Executive Power:** 0. The order is based on existing legislation and doesn't significantly expand or restrict executive power. It delegates authority within the executive branch, but this is standard practice.\n*   **Federalism:** 0. The order doesn't significantly impact the balance between state and federal power.\n*   **National Security vs. Civil Liberties:** 0. The order doesn't directly address national security or civil liberties. It's primarily concerned with financial settlements.\n*   **Economic Regulation:** 0. The order doesn't introduce new economic regulations. It deals with the distribution of existing funds based on prior agreements.\n*   **Social Inclusion:** -1. The order differentiates based on nationality, which could be seen as slightly less inclusive, although it's in the context of war reparations.\n\nRevised scores:\n*   Ideological Tilt: 0\n*   Immigration Approach: -2\n*   Executive Power: 0\n*   Federalism: 0\n*   National Security vs. Civil Liberties: 0\n*   Economic Regulation: 0\n*   Social Inclusion: -1",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": -2,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 2,
+        "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
     }
 }

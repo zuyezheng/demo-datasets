@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a board to investigate a labor dispute and prevent disruption of interstate commerce. It doesn't express a clear ideological stance but focuses on maintaining economic stability and transportation services.",
+    "critique": "This document pertains to a labor dispute in the railroad industry and the creation of a board to investigate it. It invokes the Railway Labor Act. Ideological tilt is neutral as it addresses a specific labor issue without broader ideological implications. Immigration is not relevant. Executive power is slightly expanded as the President creates a board, but it's within the bounds of existing law. Federalism is neutral. National security vs. civil liberties is neutral. Economic regulation leans slightly towards intervention as the government is intervening in a labor dispute. Social inclusion is neutral.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 3,
-        "security_liberty": 1,
-        "economic_regulation": 2,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

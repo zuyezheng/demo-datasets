@@ -1,18 +1,18 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document aims to reduce government spending and streamline operations by eliminating labor-management forums. This suggests a conservative approach to economic regulation and government efficiency.",
-    "revised_scores": {
-        "ideological_tilt": -1,
+        "ideological_tilt": -2,
         "immigration": 0,
         "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": -2,
+        "social_inclusion": 0
+    },
+    "critique": "The document is an executive order that revokes a previous executive order establishing labor-management forums. This suggests a shift away from government intervention in labor relations and a preference for more managerial control. The order also emphasizes responsible spending of tax dollars. It does not directly address immigration, civil liberties, or social inclusion. The revocation of the previous order could be seen as a slight expansion of executive power, as it removes a layer of collaboration. The impact on federalism is neutral. The ideological tilt is conservative, as it favors less government intervention in labor relations and emphasizes fiscal responsibility.",
+    "revised_scores": {
+        "ideological_tilt": -2,
+        "immigration": 0,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": -2,

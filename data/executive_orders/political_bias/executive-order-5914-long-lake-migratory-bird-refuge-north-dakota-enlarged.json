@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on the expansion and protection of a migratory bird refuge, outlining restrictions on activities within the reservation. There is an emphasis on conservation and federal control over natural resources. The document does not directly address aspects of immigration, executive power, or social inclusion. Therefore, most of the axes will be neutral, except for federalism and economic regulation.",
+    "critique": "This executive order pertains to the expansion and protection of a migratory bird refuge. It outlines restrictions on activities within the reservation to protect wildlife and natural resources. There's little to suggest a strong ideological tilt, as conservation can appeal across the political spectrum. Immigration is not addressed. The order expands federal control over the specified land, impacting federalism. It prioritizes environmental protection, which can be seen as balancing economic interests with conservation. There's no direct impact on social inclusion. Therefore, the initial scores reflect a moderate stance on most axes, with a slight lean towards federal control and conservation.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 3,
-        "security_liberty": 2,
+        "federalism": 2,
+        "security_liberty": 0,
         "economic_regulation": 2,
         "social_inclusion": 0
     }

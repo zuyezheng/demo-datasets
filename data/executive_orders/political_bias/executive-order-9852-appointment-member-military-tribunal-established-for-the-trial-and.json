@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1947 designating a member to a military tribunal for war criminals. It expands executive power, centralizes authority, and prioritizes security.",
+    "critique": "This document establishes a military tribunal for war criminals in post-WWII Germany. It is difficult to place on the traditional left-right spectrum. It does not relate to immigration. It expands executive power insofar as it establishes military tribunals, but this is in the context of an occupation and international agreement. It does not directly address federalism. It prioritizes national security in the context of post-war occupation. It does not directly address economic regulation. It does not directly address social inclusion, though the tribunals could be seen as promoting a certain kind of justice.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
+        "executive_power": 2,
+        "federalism": 0,
         "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0

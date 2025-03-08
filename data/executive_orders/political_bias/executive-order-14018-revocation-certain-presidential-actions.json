@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": -2,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 0,
+        "executive_power": 0,
+        "federalism": -1,
         "security_liberty": 0,
-        "economic_regulation": -2,
-        "social_inclusion": -1
+        "economic_regulation": 2,
+        "social_inclusion": 0
     },
-    "critique": "The document revokes several executive orders from a previous administration, indicating a shift in policy direction. The revoked orders cover a range of topics, including financial regulation, poverty reduction, labor-management relations, economic recovery, funding to state and local governments, federal civic architecture, and agency rulemaking. This suggests a move away from the policies enacted by the previous administration and potentially a shift towards different priorities.",
+    "critique": "Let's analyze this document step by step. The document revokes several executive orders and memoranda from a previous administration. These revocations span a range of topics, including financial regulation, poverty reduction, labor-management relations, regulatory relief, funding to state and local governments, federal civic architecture, and agency rulemaking. Because the revoked orders cover such a wide range of topics, it is difficult to assign a single ideological score. However, we can look at each axis individually. \n\nIdeological Tilt: Some of the revoked orders, such as those related to regulatory relief and federal civic architecture, might be seen as more conservative, while others, such as those related to poverty reduction and labor-management relations, could be seen as more liberal. On balance, the revocation of these orders suggests a move away from the policies of the previous administration, which were generally considered conservative. Therefore, I will give this a +2.\n\nImmigration Approach: None of the revoked orders appear to directly address immigration. Therefore, I will give this a 0.\n\nExecutive Power: The document revokes previous executive orders, which could be seen as a check on executive power. However, it also uses executive power to revoke those orders. On balance, this seems neutral. Therefore, I will give this a 0.\n\nFederalism: One of the revoked memoranda concerned reviewing funding to state and local governments. Revoking this suggests less federal oversight, which could be seen as favoring state control. Therefore, I will give this a -1.\n\nNational Security vs. Civil Liberties: None of the revoked orders appear to directly address national security or civil liberties. Therefore, I will give this a 0.\n\nEconomic Regulation: The revocation of the order on core principles for regulating the United States financial system suggests a move towards more regulation. The revocation of the order on regulatory relief to support economic recovery also suggests a move towards more regulation. Therefore, I will give this a +2.\n\nSocial Inclusion: The revoked orders do not appear to directly address social inclusion. Therefore, I will give this a 0.\n\nRevised Scores:\nAfter thinking through it step by step, I am happy with my initial scores.",
     "revised_scores": {
         "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": -2,
-        "federalism": 0,
+        "executive_power": 0,
+        "federalism": -1,
         "security_liberty": 0,
         "economic_regulation": 2,
-        "social_inclusion": 1
+        "social_inclusion": 0
     }
 }

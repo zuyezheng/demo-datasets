@@ -2,17 +2,17 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order that exempts a specific individual from mandatory retirement, citing public interest. It doesn't directly address broad political themes but implies a degree of executive discretion and potentially a valuation of experience/expertise over strict adherence to age-based rules.",
+    "critique": "This is an executive order from 1936 exempting a naval architect from mandatory retirement. It is a specific, targeted action with minimal impact on broader political themes. Therefore, most axes should be near zero. The executive power axis is slightly positive as it utilizes the President's exemption authority, but it's a limited, defined power granted by law.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,

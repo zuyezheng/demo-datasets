@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 1
     },
-    "critique": "The document aims to increase voter participation by studying reasons for non-voting and recommending solutions. It establishes a commission to investigate and propose measures, focusing on removing barriers to registration and voting. The document avoids civil rights matters already under the jurisdiction of the Commission on Civil Rights.",
+    "critique": "This executive order establishes a commission to study voter registration and participation. It aims to understand why citizens don't vote and to make recommendations for increasing participation. The order itself doesn't directly address immigration, executive power, federalism, national security, economic regulation, or social inclusion in a way that would strongly indicate bias. However, by focusing on voter participation, it implicitly leans towards social inclusion and potentially liberal values, as increased participation often benefits marginalized groups. The exclusion of matters under the jurisdiction of the Commission on Civil Rights suggests an attempt to avoid overlap and potential controversy, but also limits the scope of the commission's work.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 2
+        "social_inclusion": 1
     }
 }

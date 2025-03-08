@@ -1,6 +1,6 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
@@ -8,14 +8,14 @@
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on land withdrawal for wildlife refuge, indicating a moderate level of government intervention for environmental conservation. There is no direct mention of social issues, immigration, or executive power, so those scores are neutral. The act of setting aside land for a wildlife refuge indicates a balance between state and federal control.",
+    "critique": "This executive order establishes an addition to the Charles Sheldon Wildlife Refuge. It withdraws public lands from settlement, location, sale, entry, or other form of appropriation and reserves them for the use of the Department of Agriculture. This action primarily concerns environmental conservation and land management. There is no direct impact on immigration, executive power, federalism, national security vs. civil liberties, economic regulation, or social inclusion. Therefore, most axes should be scored as neutral. The ideological tilt is slightly towards liberal due to the environmental conservation aspect, but it's not a strong indicator.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

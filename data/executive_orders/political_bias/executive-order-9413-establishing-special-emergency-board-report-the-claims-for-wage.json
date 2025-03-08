@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 3,
         "federalism": 1,
-        "security_liberty": 1,
-        "economic_regulation": 2,
+        "security_liberty": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document reflects a moderate approach to economic regulation, executive power, and federalism, typical of wartime measures. It doesn't strongly emphasize any particular ideological tilt but leans towards balancing security and economic stability. Social inclusion and immigration are not directly addressed.",
+    "critique": "This document establishes a Special Emergency Board to consider wage adjustments for non-operating railway employees. It seems to be a wartime measure under the First War Powers Act and the Stabilization Act. It doesn't directly address immigration, civil liberties, or social inclusion. It does involve government intervention in the economy by addressing wage disputes. It also centralizes power in the executive branch during wartime. The ideological tilt is moderate, as it aims to resolve a labor dispute within the existing economic framework. Federalism is slightly impacted as the federal government is stepping in to resolve a dispute that might otherwise be handled at a state or local level. Executive power is expanded due to the emergency powers invoked during wartime.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 2,
+        "federalism": 1,
+        "security_liberty": 0,
         "economic_regulation": 3,
         "social_inclusion": 0
     }

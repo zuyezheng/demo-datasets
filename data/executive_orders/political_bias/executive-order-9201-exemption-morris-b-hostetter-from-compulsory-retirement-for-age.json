@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order that exempts an employee from mandatory retirement. It is difficult to assess the political bias of such a document, as it is primarily an administrative decision. However, we can make some inferences based on the context and the nature of the decision.",
+    "critique": "This document is an executive order that exempts an employee from compulsory retirement. It is a very specific action pertaining to one individual. There is no clear indication of broad ideological leaning, immigration policy, or impact on civil liberties. It could be argued that it slightly expands executive power by making an exception to a rule, but the impact is minimal. There's no clear impact on federalism, economic regulation, or social inclusion. Therefore, most scores should be neutral.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

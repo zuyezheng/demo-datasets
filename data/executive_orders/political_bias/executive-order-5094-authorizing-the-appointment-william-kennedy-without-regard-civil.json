@@ -2,17 +2,17 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a short announcement about the appointment of Mr. William A. Kennedy as an associate construction engineer. It emphasizes his prior service in constructing national memorials and justifies the appointment by citing the difficulty in finding experienced personnel for a large building program. There is no clear indication of stances on ideological tilt, immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion.",
+    "critique": "The document is a simple appointment of an engineer, William A. Kennedy, to a position in the Office of the Supervising Architect. It waives civil service rules due to his prior experience with the Lincoln Memorial and the Memorial to the Women of the Civil War. The Secretary of the Treasury recommended the appointment due to difficulties in finding experienced personnel for a large building program. There is no clear indication of ideological tilt, immigration approach, executive power implications, federalism concerns, national security vs. civil liberties issues, economic regulation, or social inclusion considerations. Therefore, most axes should be scored as neutral (0). The executive power axis could be slightly positive, as it waives civil service rules, but it's a minor adjustment for a specific case.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,

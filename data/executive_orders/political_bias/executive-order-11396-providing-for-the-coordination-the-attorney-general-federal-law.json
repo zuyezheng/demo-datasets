@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "This document focuses on enhancing law enforcement and crime prevention through federal coordination and assistance to state and local agencies. It emphasizes the role of the Attorney General in facilitating these efforts. There is a strong focus on law enforcement and federal coordination.",
+    "critique": "This document focuses on coordinating federal law enforcement activities and assisting state and local agencies in crime prevention. It emphasizes law enforcement and coordination, suggesting a focus on national security. There's a slight centralizing tendency as it designates the Attorney General to coordinate these activities. It doesn't directly address immigration, economic regulation, or social inclusion. The ideological tilt is slightly conservative due to the emphasis on law and order.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 3,
-        "security_liberty": 3,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

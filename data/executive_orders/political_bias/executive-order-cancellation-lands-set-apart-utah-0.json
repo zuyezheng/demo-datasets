@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 1
     },
-    "critique": "The document prioritizes the interests of the Navaho Indian Reservation by expanding its land, but it also includes a provision to exclude lands where valid rights have already been established under existing U.S. laws. This suggests a balanced approach that respects both indigenous interests and existing property rights.",
+    "critique": "This executive order from 1905 expands the Navajo Indian Reservation by setting aside certain lands in Utah. It also protects existing valid rights and settlements within the described area. Given the historical context, this action reflects a paternalistic approach towards Native Americans, which was common at the time. However, it also acknowledges existing rights, which tempers the expansion of federal power. The order doesn't directly address immigration, civil liberties, or economic regulation. It has a slight tilt towards federal control over state lands for the benefit of a specific group.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 5,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 3
+        "social_inclusion": 1
     }
 }

@@ -8,14 +8,14 @@
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on land allocation and access based on specific criteria (ex-service men) and legal procedures. There's no explicit discussion of ideological leanings, immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion. Therefore, most scores are neutral, with a slight conservative tilt due to the preference given to ex-service men.",
+    "critique": "This document concerns the opening of public lands to homesteading and desert-land laws, specifically prioritizing ex-service men. It revokes a previous order withdrawing the land and sets a period for ex-service men to claim the land before it is opened to the general public. Here's a breakdown of the political bias scores:\n\n*   **Ideological Tilt:** 0. This is a fairly neutral action. While homesteading has historical ties to certain political ideologies, this order itself doesn't strongly lean one way or the other.\n*   **Immigration Approach:** 0. The document doesn't address immigration at all.\n*   **Executive Power:** 0. The order is based on existing legislation and doesn't significantly expand or restrict executive power. It's an administrative action within existing legal frameworks.\n*   **Federalism:** 0. The order involves federal lands and their allocation, so it's inherently a federal matter. However, it doesn't drastically shift the balance of power between the federal government and the states.\n*   **National Security vs. Civil Liberties:** 0. The document doesn't directly impact national security or civil liberties.\n*   **Economic Regulation:** 0. The order opens land for homesteading, which could be seen as a form of economic activity. However, it doesn't impose significant regulations or deregulations.\n*   **Social Inclusion:** -1. The order prioritizes ex-service men, which could be seen as a form of preferential treatment based on military service. While not explicitly discriminatory, it does create a specific advantage for one group over others.\n\nGiven this analysis, I will revise the social inclusion score to -1 to reflect the preference given to ex-service men.",
     "revised_scores": {
-        "ideological_tilt": -1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
     }
 }

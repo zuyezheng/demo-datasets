@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on promoting US exports and supporting US businesses in international markets. It establishes an interagency task force to coordinate efforts and enhance federal support for commercial advocacy. There is no direct discussion of immigration, civil liberties, or social issues. The document seems to favor government intervention in the economy to support businesses, expands executive power through the creation of a task force, and centralizes authority at the federal level to promote exports.",
+    "critique": "This executive order focuses on promoting U.S. exports and supporting U.S. businesses in international markets. It establishes an interagency task force to coordinate efforts and enhance federal support for commercial advocacy. There is a slight tilt towards economic intervention to support domestic businesses, but it doesn't heavily regulate or deregulate. It doesn't directly address immigration, executive power, federalism, national security, or social inclusion. Therefore, most axes will be neutral, with a slight positive score for economic regulation and potentially a slight negative score for ideological tilt, assuming support for businesses is generally considered conservative.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 2,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

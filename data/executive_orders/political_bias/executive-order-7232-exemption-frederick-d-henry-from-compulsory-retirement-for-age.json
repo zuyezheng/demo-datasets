@@ -2,17 +2,17 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order that exempts a government employee from mandatory retirement. It is difficult to assess the political bias of such a document, as it does not contain explicit statements on ideological tilt, immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion. However, one could argue that the decision to exempt an individual from mandatory retirement reflects a preference for executive discretion and potentially a focus on individual circumstances over strict adherence to rules.",
+    "critique": "This is an executive order from 1935 exempting a specific individual from mandatory retirement. Given the historical context, it's unlikely to have strong implications for modern political debates. The order itself is a specific case exception, not a broad policy change. Therefore, most axes should be near zero. The executive power axis might be slightly positive as it uses the President's exemption authority, but it's a limited, defined power.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,

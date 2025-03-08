@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 2,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to the National Industrial Recovery Act of 1933 and authorizes the Administrator for Industrial Recovery to prescribe rules and regulations for fair competition codes. It also informs individuals of penalties for violating these rules. The order expands executive power and involves government intervention in the economy.",
+    "critique": "This document is an executive order related to the National Industrial Recovery Act of 1933. It authorizes the Administrator for Industrial Recovery to prescribe rules and regulations requiring businesses to display the terms of fair competition codes. It also informs people of the penalties for violating these rules. Here's a breakdown of the scores:\n\n*   **Ideological Tilt:** +3. The National Industrial Recovery Act was a key part of FDR's New Deal, which was a liberal response to the Great Depression. It involved significant government intervention in the economy.\n*   **Immigration Approach:** 0. The document does not address immigration.\n*   **Executive Power:** +2. The order expands the power of the Administrator for Industrial Recovery, an executive branch appointee, to create and enforce regulations.\n*   **Federalism:** +3. The NIRA was a federal law that increased the power of the federal government over the states.\n*   **National Security vs. Civil Liberties:** 0. The document does not directly address national security or civil liberties.\n*   **Economic Regulation:** +4. The NIRA was a major intervention in the economy, establishing codes of fair competition and giving the government significant power to regulate businesses.\n*   **Social Inclusion:** 0. The document does not directly address social inclusion, though the NIRA aimed to improve working conditions and wages, which could indirectly benefit marginalized groups.",
     "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 1,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 0,
         "economic_regulation": 4,
-        "social_inclusion": 1
+        "social_inclusion": 0
     }
 }

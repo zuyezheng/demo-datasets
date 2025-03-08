@@ -1,6 +1,6 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
@@ -8,14 +8,14 @@
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order modifying regulations regarding the transfer of employees paid from emergency funds. It appears to be a technical adjustment related to employment conditions during the New Deal era.",
+    "critique": "This document modifies a previous executive order related to the appointment of employees paid from emergency funds. It appears to ease restrictions on the transfer of part-time employees or those paid according to a specific executive order. Given the context of the 1930s, this likely relates to New Deal programs. It's difficult to assess a strong ideological tilt without more context, but the modification seems to provide more flexibility in employment, which could be seen as slightly liberal in the context of the time. There's no direct impact on immigration, executive power, federalism, national security, economic regulation, or social inclusion. Therefore, most axes will be scored as neutral.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 3,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "This document establishes wage and price controls, which is a form of economic intervention. It also creates several committees and boards, expanding the power of the executive branch. There is no discussion of immigration, civil liberties, or social issues.",
+    "critique": "This executive order establishes wage and price controls in an attempt to stabilize the economy. It creates several boards and committees to oversee and implement these controls. It does not touch on immigration, civil liberties, or social inclusion. It centralizes economic control at the federal level and expands executive power to implement these controls.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 2,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 4,
         "social_inclusion": 0

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order focused on immigration policy. It aims to reverse previous restrictive policies and establish a more humane and comprehensive approach to managing migration, particularly from Central America. It emphasizes addressing the root causes of migration, expanding legal pathways for protection, and restoring asylum processing at the border. The order also seeks to strengthen cooperative efforts with other countries in the region.",
-    "revised_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 4,
         "immigration": 4,
-        "executive_power": 1,
-        "federalism": 2,
+        "executive_power": -1,
+        "federalism": 3,
         "security_liberty": -2,
-        "economic_regulation": 1,
-        "social_inclusion": 3
+        "economic_regulation": 3,
+        "social_inclusion": 4
+    },
+    "critique": "This executive order focuses on addressing the root causes of migration, expanding legal pathways for protection, and restoring asylum processing at the border. It aims to reverse policies enacted in the previous 4 years and emphasizes a multi-pronged approach to managing migration in North and Central America. The order also calls for collaboration with civil society, international organizations, and governments in the region. It seeks to balance border security with humanitarian concerns and restore the asylum system. It revokes several previous executive orders and presidential memoranda related to border security and immigration enforcement. It also directs reviews of asylum processing and expedited removal procedures. It seems to be a liberal approach to immigration. It does not seem to expand executive power, but rather directs agencies to review and potentially reverse previous policies. It also seems to favor federal control over immigration matters. It also seems to prioritize civil liberties over national security. It also seems to favor government intervention to address the root causes of migration. It also seems to favor diversity and inclusion.",
+    "revised_scores": {
+        "ideological_tilt": 4,
+        "immigration": 4,
+        "executive_power": -1,
+        "federalism": 3,
+        "security_liberty": -2,
+        "economic_regulation": 3,
+        "social_inclusion": 4
     }
 }

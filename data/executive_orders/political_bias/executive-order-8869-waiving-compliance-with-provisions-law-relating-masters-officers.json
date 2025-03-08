@@ -1,20 +1,20 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
+        "immigration": 2,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 1,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1941 granting the Secretary of Commerce the authority to waive certain maritime laws related to crew requirements on vessels documented under the Act of June 6, 1941. This is justified by the lack of physical facilities on ships and the need to employ aliens for their operation. The order expands executive power by allowing the waiver of laws, potentially impacting labor standards and immigration controls. It also centralizes authority by giving the Secretary of Commerce and the Maritime Commission power over these waivers.",
+    "critique": "This document is an executive order from 1941 related to the acquisition and operation of merchant vessels during a time of national emergency. It allows the Secretary of Commerce to waive certain regulations regarding crew requirements (including the employment of aliens) if physical facilities are inadequate or if it's necessary for the vessel's operation. Here's a breakdown of the political bias scores:\n\n*   **Ideological Tilt:** 0 - This order is pragmatic and related to wartime needs, not directly tied to a specific ideological stance.\n*   **Immigration Approach:** 2 - It allows for the employment of aliens, suggesting a slightly more open approach to immigration in this specific context.\n*   **Executive Power:** 3 - It delegates authority to the Secretary of Commerce but ultimately stems from presidential authority granted by Congress, indicating a moderate expansion of executive power during wartime.\n*   **Federalism:** 0 - It involves both the Secretary of Commerce and the Maritime Commission, suggesting a cooperative balance between federal entities.\n*   **National Security vs. Civil Liberties:** 1 - The order prioritizes the operation of merchant vessels for national defense, potentially at the expense of strict compliance with labor laws or crew requirements.\n*   **Economic Regulation:** 1 - Waiving compliance with certain laws could be seen as a slight deregulation in the context of wartime economic needs.\n*   **Social Inclusion:** 0 - The order doesn't directly address social inclusion or diversity, focusing instead on practical operational needs.\n\nRevised Scores:\nAfter further consideration, I've adjusted some of the scores to better reflect the document's context and impact:\n\n*   **Immigration Approach:** 1 - While it allows for alien employment, it's within a specific wartime context, making it less broadly \"open.\"\n*   **Executive Power:** 2 - The power is delegated and based on existing law, reducing the expansion of executive power.\n*   **National Security vs. Civil Liberties:** 2 - The focus on national security is more pronounced given the wartime context.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 1,
-        "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 0,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 2,
         "economic_regulation": 1,
         "social_inclusion": 0
     }

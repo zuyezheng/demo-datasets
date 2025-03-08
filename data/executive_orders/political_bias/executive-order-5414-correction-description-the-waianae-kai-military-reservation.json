@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 1,
+        "federalism": 4,
+        "security_liberty": 1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a legal order that amends a previous executive order regarding land use for military purposes in Hawaii. It primarily deals with property descriptions and boundaries. Therefore, most of the political bias axes are not applicable.",
+    "critique": "This document is an executive order that amends a previous executive order regarding land use in Hawaii for military purposes. It primarily deals with correcting the description of the Waianae-Kai Military Reservation. Given the nature of the document, it is unlikely to have a strong stance on most political issues. The document itself does not explicitly expand executive power, but it does involve the executive branch in land management, which could be seen as a slight expansion. It doesn't directly address immigration, civil liberties, economic regulation, or social inclusion. It could be argued that setting aside land for military purposes leans slightly towards national security, but the document is primarily about correcting a land description. The document centralizes control of land in the federal government, indicating a strong federal control.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 5,
-        "security_liberty": 5,
+        "federalism": 4,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

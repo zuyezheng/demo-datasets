@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 3,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "This document is an executive order amending a previous order related to gold coin and bullion acquisition and export. It focuses on regulating the acquisition and export of gold, with specific exceptions for member banks, industrial use, and collectors of rare coins. There is no discussion of immigration, social issues, or civil liberties. The document appears to expand executive power by designating agencies to control gold exports.",
+    "critique": "This document is an executive order amending a previous executive order related to gold ownership and export. It restricts the acquisition and export of gold, with exceptions for Federal Reserve banks, industrial use, and collectors of rare coins. The document centralizes control over gold in the Federal Reserve System and restricts private ownership. It does not directly address immigration, civil liberties, or social inclusion. The ideological tilt is difficult to assess without more context, but it seems to be related to economic regulation during the Great Depression. The federalism aspect is relevant as it centralizes control at the federal level.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 2,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 4,
         "social_inclusion": 0

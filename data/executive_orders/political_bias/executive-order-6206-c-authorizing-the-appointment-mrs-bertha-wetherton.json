@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document discusses the appointment of Mrs. Bertha Wetherton to a position in the Treasury Department, highlighting her experience in state budget affairs. It doesn't express explicit opinions on ideological tilt, immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion. Therefore, most scores are neutral.",
+    "critique": "This document is an executive order appointing someone to a position in the Treasury Department without compliance with Civil Service rules. It seems to be a specific personnel decision based on the person's qualifications. There's no clear indication of broad ideological leaning, immigration policy, or impact on executive power beyond this specific appointment. It doesn't obviously affect federalism, national security, economic regulation, or social inclusion in any significant way. Therefore, most scores should be neutral. However, waiving civil service rules could be seen as a slight expansion of executive power in personnel matters, but it's very limited in scope.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order that expands the power of the executive branch, particularly the Coast Guard, in the name of national security. It invokes disturbances in international relations since 9/11 as justification. There is no discussion of economic regulation, immigration, or social inclusion.",
+    "critique": "This document is an executive order that amends Title 33 of the Code of Federal Regulations, giving the Secretary of the Department in which the Coast Guard is operating the authority to direct members of the Coast Guard. It cites the security of the United States being endangered by disturbances in international relations since 9/11. This suggests a focus on national security. There is no clear indication of ideological tilt, immigration approach, federalism implications, economic regulation, or social inclusion. The expansion of authority to the Secretary could be seen as a slight expansion of executive power, but it is primarily related to the Coast Guard's operations.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 5,
-        "security_liberty": 4,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "This document is a land withdrawal order related to the Fort Peck Dam and Reservoir project in Montana. It's a straightforward legal document that doesn't express opinions on social or political issues, but rather executes a specific administrative action. Therefore, assessing its political bias requires focusing on the implications of government intervention and control over land use.",
+    "critique": "This document withdraws public lands from settlement, location, sale, or entry in connection with the Fort Peck Dam and Reservoir project. This seems like a government intervention in land use and resource management. It doesn't directly address social issues, immigration, or civil liberties. It's primarily an economic and federalism-related action.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

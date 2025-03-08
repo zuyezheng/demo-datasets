@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 3,
+        "federalism": 4,
         "security_liberty": 0,
         "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on economic stabilization during the Nixon administration. It establishes and continues various boards and commissions to control prices, rents, wages, and salaries. The order reflects a strong interventionist approach to the economy, centralizing power in the executive branch and federal agencies to manage inflation.",
+    "critique": "This document is an executive order regarding the stabilization of prices, rents, wages, and salaries during the Nixon administration. It continues the Cost of Living Council and establishes the Pay Board and Price Commission. It delegates authority to these bodies to stabilize the economy. It does not touch upon immigration, civil liberties, or social inclusion. It centralizes economic control at the federal level. It expands executive power by giving the Cost of Living Council broad authority to regulate the economy. It is moderately conservative in that it seeks to stabilize the economy through government intervention, but it does not address social issues.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 4,
+        "executive_power": 3,
         "federalism": 4,
-        "security_liberty": 1,
-        "economic_regulation": 5,
+        "security_liberty": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     }
 }

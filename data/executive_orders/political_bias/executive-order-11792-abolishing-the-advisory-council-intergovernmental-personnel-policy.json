@@ -3,19 +3,19 @@
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document abolishes the Advisory Council on Intergovernmental Personnel Policy and revokes Executive Order No. 11607. This suggests a move towards deregulation and reducing federal intervention in personnel policy, potentially favoring state control.",
-    "revised_scores": {
-        "ideological_tilt": -1,
-        "immigration": 0,
-        "executive_power": -1,
         "federalism": -1,
         "security_liberty": 0,
-        "economic_regulation": -2,
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    },
+    "critique": "This document is a short executive order that abolishes the Advisory Council on Intergovernmental Personnel Policy and revokes Executive Order No. 11607. It's primarily an administrative action. Therefore, most of the axes should be close to neutral. There's a slight move towards deregulation by abolishing a council, and a very slight shift towards state control by removing a federal advisory body.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": -1,
+        "security_liberty": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     }
 }

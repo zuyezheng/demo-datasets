@@ -1,6 +1,6 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
@@ -8,14 +8,14 @@
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document describes the temporary withdrawal of public lands for classification as a migratory bird refuge. It does not directly address topics such as immigration, executive power, or social inclusion. Therefore, many of the axes will be neutral. The action of setting aside land for a bird refuge could be seen as a form of economic regulation and potentially aligns with environmental protection, which is often associated with a liberal ideological tilt.",
+    "critique": "This document withdraws public lands for classification as a migratory bird refuge. This seems to align with environmental conservation, which is generally considered liberal. There's no direct impact on immigration, executive power, federalism, national security, economic regulation, or social inclusion. Therefore, most axes should be neutral, with a slight lean towards liberal on the ideological tilt.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

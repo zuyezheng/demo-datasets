@@ -5,16 +5,16 @@
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     },
-    "critique": "The document primarily concerns the revocation of a previous executive order related to source materials on US lands, aligning policies with the Atomic Energy Act of 1954. It focuses on streamlining regulations and aligning policies across different types of US lands. There's a slight shift towards deregulation and potentially less federal control over resource management, but the overall impact on the axes is minimal.",
+    "critique": "This document concerns the revocation of a previous executive order related to the reservation of source materials (as defined in the Atomic Energy Act) on lands owned by the United States. It aims to align the policy for these lands with the policy already in place for public lands, as outlined in the Atomic Energy Act of 1954. There's no immediately obvious ideological tilt, immigration aspect, or social inclusion consideration. The executive power aspect is neutral, as it revokes an order rather than expanding power. Federalism is also neutral, as it aligns policies rather than shifting power between federal and state levels. National security vs. civil liberties is not directly implicated. Economic regulation is slightly affected, as it removes a restriction on land use, leaning towards deregulation. Therefore, the initial scores are as follows:\n\nIdeological Tilt: 0\nImmigration Approach: 0\nExecutive Power: 0\nFederalism: 0\nNational Security vs. Civil Liberties: 0\nEconomic Regulation: -1\nSocial Inclusion: 0\n\nUpon further reflection, the document's alignment of policies related to atomic energy source materials could be seen as having a slight national security implication, as it streamlines processes related to these materials. This might slightly shift the balance towards national security. The economic regulation aspect remains a minor consideration, as the revocation of the order could facilitate resource extraction. The other axes remain largely unaffected.\n",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": -1,
-        "security_liberty": 0,
+        "federalism": 0,
+        "security_liberty": 1,
         "economic_regulation": -1,
         "social_inclusion": 0
     }

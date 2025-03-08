@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": -1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "This document delegates presidential authority to various agencies to manage and prevent oil and hazardous substance discharges, reflecting a focus on environmental protection and regulatory oversight. It centralizes authority at the federal level, particularly within the EPA and Coast Guard, to address pollution incidents. There is an emphasis on government intervention to regulate and mitigate environmental risks associated with oil and hazardous substances.",
+    "critique": "This executive order delegates presidential authority regarding oil and hazardous substance discharge to various agencies, including the EPA, Coast Guard, and Federal Maritime Commission. It aims to implement the Federal Water Pollution Control Act. There's a slight liberal tilt due to environmental protection focus. Immigration is not relevant. Executive power is slightly reduced as authority is delegated. Federalism is neutral. National security vs. civil liberties is balanced. Economic regulation leans towards intervention due to environmental regulations. Social inclusion is neutral.",
     "revised_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": -2,
-        "federalism": 3,
-        "security_liberty": 2,
-        "economic_regulation": 4,
+        "executive_power": -1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

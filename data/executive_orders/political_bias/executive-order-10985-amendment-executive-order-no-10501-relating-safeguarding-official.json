@@ -1,6 +1,6 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
@@ -8,13 +8,13 @@
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order amending a previous order regarding classification of information. It shifts agencies between lists, granting them authority for classification from their establishment dates. There's a focus on national security and foreign policy agencies.",
+    "critique": "This executive order reorganizes agencies responsible for classifying information. It's difficult to assess its ideological tilt without more context, but the inclusion of agencies like the Peace Corps and the Arms Control and Disarmament Agency might suggest a slight liberal leaning. Immigration is not addressed. The order seems neutral regarding executive power, federalism, economic regulation, and social inclusion. It's difficult to assess the impact on national security vs. civil liberties without knowing the specific classification practices of the added agencies.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
-        "security_liberty": 3,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 3,
-        "security_liberty": 1,
-        "economic_regulation": 2,
-        "social_inclusion": -1
-    },
-    "critique": "The document expands executive power and federal control over local trade practices, potentially limiting individual liberties in favor of economic regulation and conformity to local codes approved by the Administrator.",
-    "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": 0,
-        "executive_power": 4,
-        "federalism": 4,
-        "security_liberty": 1,
+        "security_liberty": 0,
         "economic_regulation": 4,
-        "social_inclusion": -2
+        "social_inclusion": 0
+    },
+    "critique": "This document is an executive order from Franklin D. Roosevelt related to the National Industrial Recovery Act. It aims to establish agreements with service trades, encouraging compliance with labor standards and local codes of fair trade practices. Let's analyze it based on the given axes:\n\n1.  Ideological Tilt: The document reflects a liberal approach due to its interventionist nature in the economy and labor standards. It leans towards government involvement in regulating industries. Score: +3\n2.  Immigration Approach: The document does not address immigration. Score: 0\n3.  Executive Power: The document expands executive power by granting the Administrator for Industrial Recovery the authority to designate trades, approve local codes, and supplement the order with rules and regulations. Score: +3\n4.  Federalism: The document centralizes power at the federal level by establishing national standards and empowering a federal administrator to oversee local trade practices. Score: +3\n5.  National Security vs. Civil Liberties: The document does not directly address national security or civil liberties. Score: 0\n6.  Economic Regulation: The document heavily intervenes in economic regulation by setting labor standards and fair trade practices, indicating a strong government role in the economy. Score: +4\n7.  Social Inclusion: The document does not explicitly address social inclusion, but the emphasis on fair trade practices and labor standards could indirectly promote fair treatment. Score: 0\n\nRevised Scores:\nAfter further consideration, the initial scores seem reasonable. The document clearly reflects a liberal approach to economic regulation and expands executive power to implement these regulations. The federal government's role is also strengthened. The other axes remain neutral as they are not addressed in the document.",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 4,
+        "social_inclusion": 0
     }
 }

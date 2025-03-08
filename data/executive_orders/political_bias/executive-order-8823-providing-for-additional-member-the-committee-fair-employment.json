@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 1
     },
-    "critique": "The document is an amendment to Executive Order No. 8802, increasing the number of members on the Committee on Fair Employment Practice. This suggests a move towards social inclusion and potentially economic regulation to ensure fair employment practices.",
+    "critique": "This document is an executive order that amends a previous executive order. It increases the number of members on the Committee on Fair Employment Practice from four to five. This committee was established to prevent discrimination in employment. The document itself does not express a strong ideological tilt, but the committee it amends has a liberal leaning. The document does not relate to immigration, executive power, federalism, national security, or economic regulation. The change to the committee size could be seen as a slight move towards social inclusion.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
-        "social_inclusion": 3
+        "economic_regulation": 0,
+        "social_inclusion": 1
     }
 }

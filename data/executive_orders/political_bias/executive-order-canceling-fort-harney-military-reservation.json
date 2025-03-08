@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document reassigns land from a military reservation to an Indian reservation. This could be seen as supporting indigenous populations, but it's a relatively neutral action in terms of modern political issues.",
-    "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 2
+    },
+    "critique": "This executive order concerns land use and Native American reservations in 1880. It cancels a previous order creating a military reservation and incorporates that land into an existing Indian reservation. Given the historical context, this could be seen as somewhat favoring Native American interests, but it's primarily an administrative action. There's no clear indication of ideological tilt, immigration policy, executive power grab, or economic regulation. It does shift control of the land, which could be interpreted as a federalism issue, and touches on social inclusion by impacting Native American land rights. The order does not directly address national security or civil liberties.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 1

@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order suspending the eight-hour labor law for naval aviation facilities construction in remote locations due to a perceived national emergency. It reflects a focus on national defense and executive power during a time of international tension (pre-WWII).",
+    "critique": "This document is an executive order from 1939 regarding the construction of naval aviation bases. It suspends the eight-hour workday law for workers at Midway Island, Johnston Island, Palmyra Island, Kodiak, Alaska, and Sitka, Alaska, citing a national emergency. The justification is the need for rapid construction due to national defense interests. There's no direct indication of ideological tilt, immigration policy, or social inclusion. It does expand executive power by suspending a labor law, and it centralizes federal control over these projects. It also prioritizes national security over worker protections. There is no economic regulation at play other than suspending a labor law to allow for faster production.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 1,
+        "federalism": 3,
         "security_liberty": 3,
-        "economic_regulation": -1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

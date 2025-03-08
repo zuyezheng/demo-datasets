@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order related to the National Industrial Recovery Act of 1933, specifically concerning the Cordage and Twine Industry. It temporarily applies the Cotton Textile Industry Code of Fair Competition to the Cordage and Twine Industry, pending the approval of a specific code for the latter. The order emphasizes government intervention in the economy and industry regulation.",
-    "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 4,
         "security_liberty": 0,
-        "economic_regulation": 4,
+        "economic_regulation": 5,
+        "social_inclusion": 0
+    },
+    "critique": "This document is an executive order from 1933 related to the National Industrial Recovery Act. It applies the Cotton Textile Industry Code of Fair Competition to the Cordage and Twine Industry temporarily. Here's an analysis of its political biases:\n\n*   **Ideological Tilt:** The document reflects interventionist economic policies typical of the New Deal era. This aligns with a liberal approach at the time, favoring government intervention in the economy. Score: +3\n*   **Immigration Approach:** The document does not address immigration. Score: 0\n*   **Executive Power:** The order is issued under the authority of the National Industrial Recovery Act, granting the President significant power to regulate industries. The order explicitly states it can be cancelled, revised, or modified at any time by the President, indicating an expansion of executive power. Score: +3\n*   **Federalism:** The order centralizes control at the federal level, dictating industry standards and practices. This indicates a strong federal control. Score: +4\n*   **National Security vs. Civil Liberties:** The document does not directly address national security or civil liberties. Score: 0\n*   **Economic Regulation:** The document heavily regulates the Cordage and Twine Industry by applying the Cotton Textile Industry Code of Fair Competition. This signifies heavy government intervention. Score: +5\n*   **Social Inclusion:** The document does not directly address social inclusion. Score: 0\n\nRevised Scores:\n*   Ideological Tilt: +3 (No change)\n*   Immigration Approach: 0 (No change)\n*   Executive Power: +3 (No change)\n*   Federalism: +4 (No change)\n*   National Security vs. Civil Liberties: 0 (No change)\n*   Economic Regulation: +5 (No change)\n*   Social Inclusion: 0 (No change)",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 4,
+        "security_liberty": 0,
+        "economic_regulation": 5,
         "social_inclusion": 0
     }
 }

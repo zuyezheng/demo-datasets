@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "This document is an executive order regarding the establishment and management of the Charles Sheldon Antelope Range. It revokes a previous order, withdraws land from settlement, and sets it aside for wildlife conservation, grazing, and mineral resource development. It establishes joint jurisdiction between the Secretaries of the Interior and Agriculture for wildlife and the Secretary of the Interior for grazing lands. The order prioritizes the sustenance of antelope and other wildlife while also allowing for domestic livestock grazing. It also addresses the conservation of migratory birds and other wildlife by the Department of Agriculture.",
+    "critique": "This executive order establishes the Charles Sheldon Antelope Range. It revokes a previous order to free up land, then withdraws that land from settlement to conserve wildlife and protect grazing lands. It establishes joint jurisdiction between the Secretaries of Interior and Agriculture for wildlife and exclusive jurisdiction to the Secretary of Interior for grazing lands. It prioritizes forage for antelope and other wildlife, but allows for domestic livestock grazing as well. It does not seem to touch on immigration, executive power, or civil liberties. It has a slight tilt toward conservation, which could be seen as slightly liberal. It also centralizes control of the land in the federal government.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

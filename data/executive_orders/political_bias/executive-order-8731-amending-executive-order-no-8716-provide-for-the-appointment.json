@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
+        "immigration": -5,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 2,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document expands executive power by allowing alternate members to serve on the National Defense Mediation Board when regular members are unavailable. This ensures the board can continue to function without interruption, which centralizes authority and potentially reduces checks and balances.",
+    "critique": "This executive order pertains to the establishment and modification of the National Defense Mediation Board during World War II. It focuses on ensuring the smooth operation of national defense work by allowing for alternate members to serve on the board when regular members are unavailable. Given the context of national defense during wartime, several axes are relevant. Ideologically, it doesn't strongly lean in either direction (0). Immigration is not relevant (-5). The order expands executive power slightly by modifying an existing order to ensure continuity of the board (+1). Federalism is not directly addressed, so it's neutral (0). National security is prioritized to some extent, but it's balanced with the need for fair mediation, so it's moderately prioritized (+2). Economic regulation is indirectly affected as the board mediates labor disputes, but it's not a direct intervention, so it's slightly interventionist (+1). Social inclusion is not a primary focus, so it's neutral (0).",
     "revised_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
-        "security_liberty": 1,
-        "economic_regulation": 0,
+        "immigration": -5,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 2,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

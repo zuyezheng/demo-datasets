@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": -1,
+        "federalism": 0,
+        "security_liberty": 1,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document primarily concerns delegation of power related to export administration. It doesn't directly address social issues, immigration, or economic regulation in a way that allows for strong bias assessment. The focus is on executive power and federalism.",
+    "critique": "This document primarily concerns the delegation of authority related to export administration. It amends a previous executive order to delegate power to the Secretary of Commerce, with some powers retained by the President. There's a re-establishment of the Export Administration Review Board. Given the nature of the document, the ideological tilt is neutral. Immigration is not addressed. The executive power aspect is slightly tilted towards restraining the President as it delegates authority, but also retains some. Federalism isn't directly impacted. National security is indirectly relevant due to export controls, but civil liberties aren't a primary focus. Economic regulation is the most relevant aspect, with a moderate level of government intervention implied through export controls. Social inclusion is not relevant.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": -1,
+        "federalism": 0,
+        "security_liberty": 1,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

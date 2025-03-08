@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 2,
-        "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
-        "security_liberty": 1,
-        "economic_regulation": 1,
-        "social_inclusion": 2
-    },
-    "critique": "The document focuses on improving mental health services for veterans, service members, and their families. It emphasizes coordination between government departments, expansion of services, suicide prevention, and research. There is no direct mention of immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion. Therefore, the scores are assigned based on the implicit values and priorities of the document.",
-    "revised_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 2,
-        "security_liberty": 1,
-        "economic_regulation": 2,
-        "social_inclusion": 3
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order focuses on improving mental health services for veterans, service members, and their families. It directs various departments to expand suicide prevention strategies, enhance partnerships between the Department of Veterans Affairs and community providers, expand mental health services staffing, improve research and development, and establish an interagency task force. There is nothing about immigration, executive power, federalism, security vs liberty, economic regulation, or social inclusion. Therefore, most scores should be neutral.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
     }
 }

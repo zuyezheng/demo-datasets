@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document reflects President Franklin D. Roosevelt's approval of a Code of Fair Competition for the Asbestos Industry under the National Industrial Recovery Act of 1933. This act was a key component of the New Deal, which aimed to address the economic crisis of the Great Depression through government intervention and regulation. The document itself doesn't explicitly delve into social or cultural issues, focusing instead on economic and industrial policy.",
+    "critique": "This document pertains to the National Industrial Recovery Act, specifically the approval of a Code of Fair Competition for the Asbestos Industry. Given the context of the 1930s and the New Deal, the document reflects a strong interventionist approach to economic regulation. There is no direct mention of immigration, executive power, federalism, national security, or social inclusion. However, the act itself centralizes power in the federal government to regulate industry, which implies a shift towards federal primacy. The approval of the code suggests a move towards standardization and government oversight in the asbestos industry. The lack of specific details on civil liberties or social issues makes it difficult to assess those axes directly. The initial scores reflect these considerations.",
     "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 4,
+        "executive_power": 1,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 4,
         "social_inclusion": 0

@@ -2,17 +2,17 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "This document is an executive order prescribing the Army ration. It does not contain any information that would allow me to assess its political bias or sentiment.",
+    "critique": "This document primarily concerns the composition and administration of army rations. It doesn't directly address typical political issues. Therefore, most axes should be near zero. The executive power axis might be slightly positive due to the President prescribing the ration, but it's within the scope of established law.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,

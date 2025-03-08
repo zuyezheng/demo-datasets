@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -2,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 2,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
     },
-    "critique": "The document cancels an executive order that had previously withdrawn land from sale and settlement to create a reservation for Indian purposes. This action reduces the land available for Native Americans and opens it up for settlement and sale, which aligns with a more conservative approach to land use and Native American affairs.",
+    "critique": "The document concerns the cancellation of an executive order that had previously set aside land for a Native American reservation. This action could be interpreted as leaning conservative due to potentially prioritizing economic development or resource extraction over Native American land rights. It also suggests a shift away from federal protection of Native American lands, indicating a move towards state or private control. The cancellation doesn't directly address immigration, executive power in a broad sense, national security, economic regulation, or social inclusion beyond its impact on Native Americans. Therefore, the primary areas of impact are ideological tilt and federalism.",
     "revised_scores": {
         "ideological_tilt": -2,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": -1,
-        "social_inclusion": -3
+        "economic_regulation": 0,
+        "social_inclusion": -1
     }
 }

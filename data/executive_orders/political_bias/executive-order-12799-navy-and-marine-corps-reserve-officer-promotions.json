@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "This document delegates authority regarding military promotions. It doesn't directly address ideological issues, immigration, or social inclusion. The focus is on executive power and federalism (delegating to the Secretary of Defense). There's no clear impact on security vs. liberty or economic regulation.",
+    "critique": "This document is an executive order delegating authority regarding the promotion of commissioned officers in the Naval Reserve and Marine Corps Reserve. It does not touch upon ideological issues, immigration, or economic regulation. It slightly expands executive power by delegating authority, has no impact on federalism, and does not directly address national security or social inclusion. Therefore, most scores should be neutral.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 1,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

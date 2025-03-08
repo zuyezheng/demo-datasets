@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
-        "social_inclusion": 3
+        "economic_regulation": 0,
+        "social_inclusion": -1
     },
-    "critique": "The document suspends an executive order that directed funds to the Bureau of Refugees, Freedmen, and Abandoned Lands. This suggests a shift away from federal support for social programs and potentially towards less interventionist policies.",
+    "critique": "The document concerns the suspension of an executive order related to the Bureau of Refugees, Freedmen, and Abandoned Lands. This bureau was created after the Civil War to assist formerly enslaved people. Suspending the order to turn over funds suggests a potentially conservative approach, possibly favoring less government intervention in assisting this population. However, without more context, it's difficult to assess the full ideological tilt. The action could be interpreted as reducing federal power in favor of other entities, or it could be for other reasons entirely. Immigration is not directly addressed, nor are civil liberties or national security. Economic regulation is tangentially related, but not central. Social inclusion is relevant, as the order impacts a specific group needing assistance.",
     "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": -1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -1,
+        "economic_regulation": 0,
         "social_inclusion": -1
     }
 }

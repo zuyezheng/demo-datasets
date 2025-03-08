@@ -1,19 +1,19 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": -2,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a legal order transferring land from federal to territorial control in Hawaii. It doesn't express opinions on ideological issues, immigration, executive power, security, economic regulation, or social inclusion. Therefore, assessing political bias is not applicable.",
+    "critique": "This document returns land to the Territory of Hawaii. It seems to favor local control, so it is slightly conservative. It does not deal with immigration, executive power, national security, economic regulation, or social inclusion. It favors state control.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": -2,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

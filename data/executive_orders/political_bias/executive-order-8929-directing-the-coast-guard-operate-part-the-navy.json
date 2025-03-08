@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order temporarily transferring the Coast Guard to the Navy during World War II. It is primarily concerned with operational control and legal jurisdiction during this period. There is little to assess regarding social issues, immigration, or economic policy. The order does expand executive power temporarily and centralizes control under the federal government.",
+    "critique": "This document is an executive order temporarily placing the Coast Guard under the Department of the Navy during World War II. It does not directly address ideological issues, immigration, or social inclusion. It expands executive power to a degree, but primarily in the context of national security during wartime. It centralizes control at the federal level. It prioritizes national security. It has no impact on economic regulation.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 2,
         "federalism": 3,
-        "security_liberty": 2,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

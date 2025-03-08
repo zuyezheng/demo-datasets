@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -2,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document prioritizes national security concerns during the Cold War era, emphasizing loyalty checks for US citizens working for international organizations. It expands executive power by establishing the International Organizations Employees Loyalty Board and granting it broad authority to investigate and make determinations on loyalty. The document reflects a strong federal control, centralizing authority in the Civil Service Commission and the Loyalty Board. There is a heavy security focus, prioritizing national security over individual liberties and privacy. The document does not directly address economic regulation, immigration, or social inclusion.",
+    "critique": "This executive order amends a previous order regarding the investigation of US citizens working for international organizations like the UN. It establishes an International Organizations Employees Loyalty Board to investigate the loyalty of these individuals. The order emphasizes national security concerns and the potential for individuals to be disloyal to the US government. It leans towards prioritizing national security over individual liberties, particularly in the context of international organizations during the Cold War era. There is no direct impact on economic regulation, immigration, or federalism. The order does not directly address social inclusion or diversity. The ideological tilt is conservative, reflecting Cold War anxieties about loyalty and potential subversion.",
     "revised_scores": {
         "ideological_tilt": -2,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 4,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
-        "social_inclusion": -1
+        "social_inclusion": 0
     }
 }

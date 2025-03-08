@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order issued by President Trump regarding the situation in Syria and Turkey's military actions. It declares a national emergency and imposes sanctions on individuals and entities deemed to be undermining the campaign against ISIS, endangering civilians, or threatening regional stability. The order targets those responsible for human rights abuses, obstructing ceasefires, or preventing political solutions in Syria. It also restricts immigration of individuals meeting certain criteria and prohibits transactions with sanctioned entities.",
-    "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": -2,
+        "ideological_tilt": -1,
+        "immigration": -3,
         "executive_power": 3,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 2,
-        "economic_regulation": 1,
-        "social_inclusion": 0
+        "economic_regulation": 3,
+        "social_inclusion": 1
+    },
+    "critique": "This executive order addresses the situation in Syria and Turkey's military actions. It declares a national emergency and imposes sanctions on individuals and entities deemed responsible for undermining peace, human rights abuses, or obstructing a political solution in Syria. The order blocks property, restricts financial transactions, and denies entry into the United States for those sanctioned. It also authorizes the Secretary of the Treasury and the Secretary of State to implement these measures. The order invokes the International Emergency Economic Powers Act (IEEPA) and the National Emergencies Act (NEA). It restricts immigration of those sanctioned.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": -3,
+        "executive_power": 3,
+        "federalism": 0,
+        "security_liberty": 2,
+        "economic_regulation": 3,
+        "social_inclusion": 1
     }
 }

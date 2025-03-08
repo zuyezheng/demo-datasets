@@ -4,18 +4,18 @@
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 1,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1942 outlining regulations for military personnel required to participate in aerial flights. It defines relevant terms, specifies who is required to fly, sets flight hour requirements, and addresses suspensions and leaves of absence. There is no mention of immigration, civil liberties, or economic regulation. The document focuses on internal military procedure and does not express opinions on broader social or political issues.",
+    "critique": "This document is an executive order from 1942 detailing regulations for increased pay for military personnel participating in aerial flights. It defines relevant terms, specifies requirements for different categories of personnel, and outlines conditions for suspension from flying duties. There is no direct indication of ideological tilt, immigration approach, executive power expansion, federalism implications, or social inclusion considerations. The document primarily focuses on economic regulation by specifying pay conditions and national security by defining requirements for military personnel. Therefore, most axes should be scored as neutral (0), except for economic regulation and national security.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 3,
-        "economic_regulation": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 1,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document describes the transfer of land for use as a soil conservation experimental station. It does not contain any overtly political statements, but some assumptions can be made. Given that it was written in 1936, during the Great Depression and the New Deal era, the transfer of land from the Resettlement Administration to the Department of Agriculture suggests a government interventionist approach to address economic and environmental issues.",
-    "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 3,
+        "social_inclusion": 0
+    },
+    "critique": "This document pertains to the transfer of land for a soil conservation experimental station during the Great Depression. It is an executive order. Here's an analysis of its political bias across the specified axes:\n\n1.  Ideological Tilt: The document reflects a government interventionist approach to address the economic crisis of the Great Depression through soil conservation. This aligns with a slightly liberal approach (+2) as it involves government action to address an economic and environmental issue.\n\n2.  Immigration Approach: The document does not address immigration; therefore, it is neutral (0).\n\n3.  Executive Power: The document is an executive order, indicating the use of executive power. However, it's a transfer of land between government entities, not a significant expansion of power. Therefore, it is slightly expansive (+1).\n\n4.  Federalism: The document involves the federal government (Resettlement Administration and Department of Agriculture) transferring land for a specific purpose. This indicates a strong federal control (+3) as it centralizes decision-making at the federal level.\n\n5.  National Security vs. Civil Liberties: The document does not directly address national security or civil liberties; therefore, it is neutral (0).\n\n6.  Economic Regulation: The document reflects government intervention in the economy through land management and soil conservation efforts. This aligns with government intervention (+3).\n\n7.  Social Inclusion: The document does not address social inclusion issues; therefore, it is neutral (0).\n",
+    "revised_scores": {
+        "ideological_tilt": 2,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

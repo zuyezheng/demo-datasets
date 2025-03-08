@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on expanding interagency cooperation and improving coordination of services to the States by including the Department of Commerce and the Federal Energy Administration in the Regional Council System. It does not directly address ideological issues, immigration, or civil liberties. The order seems to favor a stronger federal role in regional operations.",
+    "critique": "This executive order focuses on interagency cooperation and coordination of services to the states through the Regional Council System. It expands the system to include the Department of Commerce and the Federal Energy Administration. There is no direct impact on immigration, civil liberties, or social inclusion. The order seems neutral on the ideological spectrum and doesn't significantly alter the balance of power between the federal government and the states. It could be argued that it slightly expands executive power by further centralizing coordination within the executive branch, but it's a relatively minor expansion. It also has a moderate impact on economic regulation by including the Department of Commerce and the Federal Energy Administration.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 2,
+        "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

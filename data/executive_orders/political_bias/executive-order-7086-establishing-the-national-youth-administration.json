@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document establishes the National Youth Administration (NYA) during the Great Depression, focusing on providing relief and employment for youth. It expands executive power by authorizing the Executive Director to appoint officers and employees without regard to civil service laws and fix compensation without regard to the Classification Act. It also centralizes power at the federal level, establishing a national program administered by a federal agency. The program aims to provide relief and work for young people, indicating a focus on social inclusion and economic intervention.",
-    "revised_scores": {
-        "ideological_tilt": 2,
+        "ideological_tilt": 4,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 3,
+        "economic_regulation": 4,
+        "social_inclusion": 2
+    },
+    "critique": "This executive order establishes the National Youth Administration (NYA) during the Great Depression. It aims to provide relief, work relief, and employment for youth between 16 and 25 who are not in school or regularly employed. The order creates a National Advisory Committee and an Executive Committee for the NYA, placing it under the supervision of the Works Progress Administration. It authorizes the Executive Director to accept voluntary services, appoint officers and employees without regard to civil service laws, and fix compensation without regard to the Classification Act of 1923. The order prioritizes employing those receiving relief. Let's analyze the axes:\n\n1.  Ideological Tilt: The order reflects a liberal approach by expanding government intervention to address unemployment and provide relief during the Depression. It aligns with social welfare spending and a larger role for the government. Score: +4\n2.  Immigration Approach: The document does not address immigration. Score: 0\n3.  Executive Power: The order expands executive power by establishing a new administration and granting the Executive Director significant authority to appoint officers and employees without regard to civil service laws. Score: +3\n4.  Federalism: The order centralizes power in the federal government by creating a national program and administration. Score: +3\n5.  National Security vs. Civil Liberties: The order does not directly address national security or civil liberties. However, the provision allowing appointments without regard to civil service laws could be seen as a slight compromise of established procedures. Score: 0\n6.  Economic Regulation: The order involves government intervention in the economy by creating jobs and providing relief. Score: +4\n7.  Social Inclusion: The order aims to provide relief and employment to youth, which can be seen as promoting social inclusion. Score: +2\n\nRevised Scores:\nAfter further consideration, the initial scores seem appropriate. The executive order clearly reflects a liberal approach to addressing the economic crisis, expands executive power, centralizes authority in the federal government, and involves government intervention in the economy. The scores have been slightly adjusted to reflect a more nuanced understanding of the document's implications.",
+    "revised_scores": {
+        "ideological_tilt": 4,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 4,
         "social_inclusion": 2
     }
 }

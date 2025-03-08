@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 1,
+        "social_inclusion": 1
     },
-    "critique": "The document is an ethics pledge for executive branch appointees. It restricts lobbying activities, acceptance of gifts from lobbyists, and participation in matters related to former employers or clients. It aims to ensure impartiality and prevent conflicts of interest. There is a waiver provision, and enforcement mechanisms are outlined.",
+    "critique": "This executive order aims to prevent appointees from using their government positions for personal gain after leaving office. It restricts lobbying activities and acceptance of gifts from lobbyists. It promotes ethical conduct and accountability within the executive branch. There is no direct impact on immigration, federalism, or civil liberties. The order could be seen as slightly liberal due to its emphasis on government ethics and regulation of lobbying, but it's primarily focused on good governance. It doesn't significantly expand executive power, but it does establish a framework for enforcement and waivers, which could be subject to interpretation. It promotes social inclusion by ensuring hiring decisions are based on qualifications and competence.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": -1,
+        "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 1,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": 1
     }
 }

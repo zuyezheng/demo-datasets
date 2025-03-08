@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 4,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document pertains to the release of strategic materials during a national emergency, specifically in the event of an enemy attack on the continental United States. It focuses on national defense and executive authority in times of crisis.",
+    "critique": "This document is an executive order from 1955 related to the release of strategic materials in the event of an enemy attack on the continental United States. Given the historical context of the Cold War, the document reflects a focus on national security and preparedness. It delegates authority to the Director of the Office of Defense Mobilization to release materials from stockpiles. There's no direct indication of ideological tilt, immigration policy, or social inclusion. The federalism aspect is neutral as it deals with a national emergency. Economic regulation is indirectly addressed through the control of strategic materials. Executive power is expanded in the context of a national emergency.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 2,
+        "federalism": 0,
         "security_liberty": 4,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     }
 }

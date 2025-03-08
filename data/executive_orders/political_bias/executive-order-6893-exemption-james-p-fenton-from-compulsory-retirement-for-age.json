@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order that exempts a specific individual from mandatory retirement, citing public interest. This action doesn't directly address broad political themes but touches on executive power and potentially economic regulation (through labor force management).",
+    "critique": "This is an executive order from 1934 regarding the retirement age of a government employee. It is difficult to assess the ideological tilt without more context, but it seems fairly neutral. The order pertains to a specific individual and does not have broad implications for immigration, executive power, federalism, national security, economic regulation, or social inclusion. The primary focus is on granting an exemption to a retirement rule, which could be seen as a minor expansion of executive power, but it's very limited in scope.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order consolidates and transfers functions of various wartime agencies to facilitate the transition to peace. It appears to be primarily focused on internal government management and economic stabilization during the post-war period. There's no direct indication of ideological bias, immigration stance, or impact on civil liberties. It centralizes some economic controls temporarily, but also transfers functions to different departments, suggesting a mixed approach to federalism. The order seems neutral on social inclusion. Therefore, most scores should be close to zero, with a slight lean towards government intervention in the economy.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order focused on consolidating and transferring government agencies and functions in the transition from war to peace. It primarily deals with economic stabilization, price controls, and war mobilization efforts. There is a strong emphasis on centralizing authority and managing the economy through government intervention.",
-    "revised_scores": {
-        "ideological_tilt": 2,
-        "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 2,
-        "economic_regulation": 4,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

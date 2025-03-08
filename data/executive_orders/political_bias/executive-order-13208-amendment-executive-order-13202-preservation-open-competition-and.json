@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": -2,
+        "social_inclusion": 1
     },
-    "critique": "The document aims to promote open competition and prevent discrimination in federal construction projects, potentially reducing costs and expanding job opportunities. It amends a previous executive order to allow exemptions for projects with pre-existing agreements, suggesting a pragmatic approach to ongoing contractual relationships.",
+    "critique": "This executive order aims to promote open competition and maintain government neutrality towards labor relations in federal construction projects. It seeks to reduce construction costs, expand job opportunities, prevent discrimination based on labor affiliation, and prevent inefficiency from disrupting established contractual relationships. It amends a previous executive order (13202) to allow exemptions for projects already underway with conflicting requirements. The order appears to favor deregulation and non-intervention in labor relations, while also aiming for non-discrimination. It doesn't seem to strongly emphasize any particular ideological tilt, immigration approach, or expansion of executive power. It also doesn't seem to have a strong impact on federalism or national security vs. civil liberties. The emphasis on open competition and reducing costs suggests a slight conservative leaning, while the non-discrimination aspect leans slightly liberal. The neutrality toward labor relations suggests deregulation.",
     "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -1,
+        "economic_regulation": -2,
         "social_inclusion": 1
     }
 }

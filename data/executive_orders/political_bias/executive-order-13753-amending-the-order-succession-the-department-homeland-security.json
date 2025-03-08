@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document outlines the order of succession within the Department of Homeland Security. It prioritizes a clear chain of command in case of a vacancy. There is a slight emphasis on executive power and national security.",
+    "critique": "This executive order pertains to the order of succession within the Department of Homeland Security. It amends a previous executive order and revokes another. It does not directly address ideological issues, immigration policies, or economic regulations. It primarily concerns the internal organization and leadership continuity within a specific government department. Therefore, most axes should be scored as neutral. The executive power axis is slightly expanded as it clarifies the line of succession.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
-        "security_liberty": 1,
+        "federalism": 0,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

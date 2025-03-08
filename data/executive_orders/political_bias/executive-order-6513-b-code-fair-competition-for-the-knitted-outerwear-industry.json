@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 4,
         "immigration": 0,
-        "executive_power": 4,
-        "federalism": 3,
-        "security_liberty": 0,
-        "economic_regulation": 4,
-        "social_inclusion": 0
-    },
-    "critique": "The document reflects President Roosevelt's approval of a Code of Fair Competition for the Knitted Outerwear Industry under the National Industrial Recovery Act. This act was a key component of the New Deal, aimed at regulating industry and promoting economic recovery during the Great Depression. The document demonstrates a strong inclination towards government intervention in the economy, as it establishes a code of conduct for a specific industry. Additionally, it showcases the expansion of executive power, as the President is directly approving and ordering the implementation of the code. The mention of a stay for manufacturers of knitted outerwear for infants and children suggests a consideration for specific groups within the industry, but the overall tone is one of centralized control and standardization.",
-    "revised_scores": {
-        "ideological_tilt": 3,
-        "immigration": 0,
-        "executive_power": 4,
-        "federalism": 3,
+        "executive_power": 3,
+        "federalism": 4,
         "security_liberty": 0,
         "economic_regulation": 5,
-        "social_inclusion": 0
+        "social_inclusion": 1
+    },
+    "critique": "This document pertains to the National Industrial Recovery Act, specifically the approval of a Code of Fair Competition for the Knitted Outerwear Industry. It's a decision by President Roosevelt in 1933. Let's analyze each axis:\n\n1.  Ideological Tilt: The NIRA was a New Deal program, representing a significant expansion of government intervention in the economy. This aligns with a liberal approach at the time. Initial score: +4\n2.  Immigration Approach: This document doesn't directly address immigration. Initial score: 0\n3.  Executive Power: Approving the code under the NIRA expands executive power, as it allows the President to regulate industries. Initial score: +3\n4.  Federalism: The NIRA shifted power to the federal government, away from the states. Initial score: +4\n5.  National Security vs. Civil Liberties: This document doesn't directly relate to national security or civil liberties. Initial score: 0\n6.  Economic Regulation: The core of the document is about regulating an industry, indicating heavy government intervention. Initial score: +5\n7.  Social Inclusion: The document doesn't explicitly address social inclusion, but the NIRA aimed to improve working conditions and wages, which could indirectly benefit marginalized groups. Initial score: +1\n\nRevised Scores:\nAfter further consideration, the initial scores seem reasonable. The NIRA was a hallmark of the New Deal, representing a significant shift towards government intervention in the economy and a strengthening of federal power. The lack of direct impact on immigration, national security, or social inclusion is also accurately reflected in the initial scores.",
+    "revised_scores": {
+        "ideological_tilt": 4,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 4,
+        "security_liberty": 0,
+        "economic_regulation": 5,
+        "social_inclusion": 1
     }
 }

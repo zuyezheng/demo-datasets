@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": -1,
+        "social_inclusion": -1
     },
-    "critique": "The document is an executive order that temporarily exempts Fort Allen from certain environmental regulations to allow for the relocation and temporary housing of Haitian and Cuban nationals. This suggests a potential conflict between environmental protection and the executive's power to address immediate humanitarian or logistical needs.",
+    "critique": "This executive order temporarily exempts Fort Allen from certain environmental regulations (Clean Water Act, Clean Air Act, Noise Control Act, and Solid Waste Disposal Act) to facilitate the relocation and temporary housing of Haitian and Cuban nationals. The justification is the \"paramount interest of the United States\" in addressing an immediate housing need. It's important to note the exemptions are partial, with specific sections of each act still applying. The order is temporary, lasting for one year. This order could be seen as leaning conservative due to the prioritization of quickly addressing the housing situation over strict adherence to environmental regulations. It also expands executive power by creating exemptions to existing laws. The impact on federalism is neutral, as it involves a federal facility. National security vs. civil liberties is not directly implicated. Economic regulation is slightly reduced due to the temporary exemptions. Social inclusion is complex; while it addresses the immediate needs of Haitian and Cuban nationals, the environmental impact on the local Puerto Rican community could be viewed as a negative impact on social inclusion. Therefore, the initial scores are as follows:",
     "revised_scores": {
-        "ideological_tilt": 0,
-        "immigration": 1,
-        "executive_power": 3,
-        "federalism": 1,
-        "security_liberty": 1,
-        "economic_regulation": -2,
-        "social_inclusion": 0
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": -1,
+        "social_inclusion": -1
     }
 }

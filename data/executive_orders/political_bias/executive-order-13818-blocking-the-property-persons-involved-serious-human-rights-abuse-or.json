@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "ideological_tilt": 1,
+        "immigration": -2,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 2,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on addressing human rights abuses and corruption outside the United States. It utilizes sanctions and restrictions on entry to the US for individuals involved in these activities. The order invokes the International Emergency Economic Powers Act (IEEPA) and the Global Magnitsky Human Rights Accountability Act, granting broad authority to the executive branch to implement these measures.",
+    "critique": "This executive order targets human rights abusers and corrupt officials outside the US by blocking their assets and restricting their entry into the US. It invokes the International Emergency Economic Powers Act (IEEPA) and other laws to declare a national emergency and impose sanctions. The order broadens executive power, particularly through the Treasury and State departments, to identify and penalize individuals and entities involved in human rights abuses and corruption. It restricts immigration for those individuals. It does not directly address economic regulation within the US, nor does it explicitly promote or hinder social inclusion within the US. The order centralizes authority at the federal level, giving the executive branch significant power to act against international actors. It prioritizes national security and foreign policy interests by combating human rights abuses and corruption abroad.",
     "revised_scores": {
-        "ideological_tilt": -1,
+        "ideological_tilt": 1,
         "immigration": -2,
         "executive_power": 3,
-        "federalism": 1,
+        "federalism": 3,
         "security_liberty": 2,
-        "economic_regulation": 1,
-        "social_inclusion": 1
+        "economic_regulation": 0,
+        "social_inclusion": 0
     }
 }

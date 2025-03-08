@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 2,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document reflects a foreign policy interventionist stance, using economic pressure to address a perceived threat to national security and regional stability. It centralizes power in the executive branch for foreign policy decisions and economic sanctions.",
+    "critique": "This executive order addresses a specific foreign policy issue (the conflict in Kosovo) and its potential threat to U.S. national security. It imposes economic sanctions on the governments of the Federal Republic of Yugoslavia (Serbia and Montenegro), the Republic of Serbia, and the Republic of Montenegro. It does not directly address domestic ideological issues, immigration, or social inclusion within the U.S. The order expands executive power by declaring a national emergency and authorizing the Secretary of the Treasury to implement sanctions. It does not directly impact federalism or civil liberties within the U.S., although it does prioritize national security in the context of foreign policy. The economic regulation aspect is present in the form of sanctions, which restrict financial transactions and investment. The order is neutral on social inclusion within the U.S., as it focuses on foreign policy objectives.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 2,
+        "federalism": 0,
         "security_liberty": 2,
         "economic_regulation": 3,
         "social_inclusion": 0

@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on improving management and efficiency within the executive branch, utilizing best practices from government and industry. It establishes an advisory council to provide advice and assistance on management problems, identify opportunities for efficiency and cost control, and recommend improvements. The document emphasizes utilizing resources effectively and reviewing the progress of management improvement programs.",
+    "critique": "This document establishes the President's Advisory Council on Management Improvement. It aims to improve management and efficiency within the executive branch. There's no direct indication of ideological tilt, immigration stance, or impact on civil liberties. It could be argued that improving efficiency might lead to less government intervention in the economy, but that's not explicit. The order seems neutral on social inclusion and federalism. It could be seen as slightly expanding executive power by creating a council to advise the President, but it's a minor expansion. Therefore, initial scores are mostly neutral with a slight lean towards deregulation and executive power.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": -1,
         "social_inclusion": 0

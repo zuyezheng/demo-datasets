@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 4,
-        "economic_regulation": 0,
+        "executive_power": 0,
+        "federalism": 1,
+        "security_liberty": 1,
+        "economic_regulation": -1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on preparing the United States for the effects of electromagnetic pulses (EMPs). It outlines the roles and responsibilities of various federal agencies in assessing, mitigating, and responding to EMP threats. There is a strong emphasis on national security and critical infrastructure protection.",
+    "critique": "This executive order focuses on preparing the nation for electromagnetic pulses (EMPs), both natural and human-made. It directs various federal agencies to assess risks, improve understanding of EMP effects, evaluate mitigation approaches, strengthen critical infrastructure, and improve response plans. There's no immediately obvious ideological tilt. It doesn't directly address immigration, so that axis is neutral. It delegates authority to various agencies, but doesn't dramatically expand executive power beyond directing those agencies. It seems to promote federal coordination, so leans towards federal primacy. It balances security concerns with the need to protect critical infrastructure, so is fairly balanced on security vs. liberty. It doesn't directly regulate the economy, but encourages private sector engagement and innovation, so is slightly deregulatory. It doesn't directly address social inclusion. Therefore, the initial scores are:",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 4,
-        "economic_regulation": 1,
+        "executive_power": 0,
+        "federalism": 1,
+        "security_liberty": 1,
+        "economic_regulation": -1,
         "social_inclusion": 0
     }
 }

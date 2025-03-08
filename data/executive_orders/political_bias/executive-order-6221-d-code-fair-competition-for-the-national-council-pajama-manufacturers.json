@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document reflects a strong interventionist approach to economic regulation, typical of the New Deal era. It temporarily extends the Cotton Textile Industry Code to pajama manufacturers, indicating a willingness to impose mandatory guidelines and standards. There is no clear indication of bias regarding immigration, executive power, federalism, security vs. liberty, or social inclusion. The document seems neutral on ideological tilt, focusing on immediate economic measures.",
-    "revised_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 4,
+        "social_inclusion": 0
+    },
+    "critique": "This document is an executive order from 1933 related to the National Industrial Recovery Act. It temporarily binds the National Council of Pajama Manufacturers to the Cotton Textile Industry Code, pending the approval of a specific code for the pajama industry. The order explicitly states that it should not lead to increased working hours or reduced wages and aims to expedite the submission of a fair competition code. Given the historical context of the New Deal era, the document reflects government intervention in the economy to regulate industries and labor practices. It does not directly address immigration, executive power in a significant way, federalism, national security, or social inclusion. Therefore, the primary focus is on economic regulation. The initial scores reflect this assessment, with a strong positive score for economic regulation and neutral scores for other axes. Upon further reflection, the temporary nature of the order and the explicit mention of not reducing wages suggests a slightly more moderate approach to economic intervention than initially scored. Also, while not a primary focus, the fact that the order applies a single code across industries suggests a slight move towards federal control.",
+    "revised_scores": {
+        "ideological_tilt": 2,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

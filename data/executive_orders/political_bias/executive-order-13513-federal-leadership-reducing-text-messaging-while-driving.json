@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on improving safety on roads and highways by prohibiting federal employees and encouraging contractors from text messaging while driving. It aims to reduce accidents and injuries related to distracted driving. The order applies to federal employees driving government-owned vehicles or using government-supplied equipment and encourages similar policies for government contractors. It includes exemptions for law enforcement, national security, or emergency situations. The order does not directly address ideological issues, immigration, or broad economic regulations. It touches on federalism by directing federal agencies to implement the policy and coordinate with the Secretary of Transportation. It also involves executive power by issuing an order to federal agencies. The order balances safety with potential disruptions to operations, as seen in the exemptions.",
+    "critique": "The document is an executive order prohibiting federal employees and encouraging federal contractors from texting while driving. This seems like a fairly moderate and common-sense policy. It doesn't strongly align with either liberal or conservative ideologies. It has a slight impact on executive power, as it directs agencies to take action, but it also includes exemptions. It doesn't significantly impact federalism, national security vs. civil liberties, economic regulation, or social inclusion. Therefore, most scores should be close to zero.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
-        "security_liberty": 3,
+        "federalism": 0,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

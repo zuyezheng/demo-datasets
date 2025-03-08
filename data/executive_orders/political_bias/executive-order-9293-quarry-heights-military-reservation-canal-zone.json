@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document describes the establishment of a military reservation during World War II. It is a legal document defining the boundaries and jurisdiction of the reservation. There is no clear political bias evident in the text, as it focuses on administrative and logistical details.",
+    "critique": "This document is a presidential order from 1943 that establishes a military reservation in the Canal Zone. It primarily deals with land allocation and jurisdictional control, with no direct implications for ideological tilt, immigration, civil liberties, economic regulation, or social inclusion. The order does expand executive power by designating land for military use and defining its control, and it touches on federalism by specifying the relationship between the Secretary of War and Canal Zone authorities. Therefore, the main areas to consider are executive power and federalism.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 5,
-        "security_liberty": 5,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

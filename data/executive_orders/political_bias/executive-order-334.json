@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "security_liberty": 2,
+        "economic_regulation": 2,
+        "social_inclusion": -1
     },
-    "critique": "The document aims to restrict the sale of alcohol in the army to reduce demoralization and expense. This could be seen as a conservative approach to social behavior within the military. There is no clear indication of stances on immigration, executive power, federalism, security vs. liberty, economic regulation, or broader social inclusion issues beyond the military context.",
+    "critique": "This document pertains to the regulation of alcohol sales within the U.S. Army. It aims to reduce demoralization and legal issues caused by alcohol consumption. Ideologically, it reflects a somewhat conservative stance on personal behavior within the military. It doesn't directly address immigration, executive power, or federalism. It leans towards prioritizing order and discipline within the military (security) over individual liberties to consume alcohol. Economically, it involves a degree of intervention by restricting sales. Socially, it leans slightly towards conformity by discouraging alcohol consumption within the army.",
     "revised_scores": {
-        "ideological_tilt": -2,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 2,
+        "economic_regulation": 2,
         "social_inclusion": -1
     }
 }

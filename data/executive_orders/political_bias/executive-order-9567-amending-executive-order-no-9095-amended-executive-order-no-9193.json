@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": -5,
-        "executive_power": 5,
+        "immigration": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 5,
-        "economic_regulation": 5,
+        "security_liberty": 3,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order related to the control of property of enemy countries during World War II. It focuses on economic control and executive power during wartime.",
+    "critique": "This document amends a previous executive order (9095) related to the control of property owned by enemy countries or their nationals during World War II. The amendment specifically excludes certain financial assets (cash, bullion, etc.) from seizure, except when necessary to maintain other vested property, for countries other than Germany or Japan. This suggests a slightly more lenient approach towards enemy assets, potentially reflecting a shift in policy as the war neared its end. There's no clear indication of ideological tilt, immigration policy, or social inclusion. The focus is primarily on economic regulation (asset control) and executive power (amending existing orders). The federalism aspect is neutral as it's a federal matter. National security is still a concern, but the amendment indicates a slight relaxation of control.",
     "revised_scores": {
         "ideological_tilt": 0,
-        "immigration": -5,
-        "executive_power": 5,
+        "immigration": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 5,
-        "economic_regulation": 5,
+        "security_liberty": 2,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

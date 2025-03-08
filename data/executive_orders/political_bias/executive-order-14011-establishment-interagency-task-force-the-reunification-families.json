@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
+        "ideological_tilt": 3,
+        "immigration": 2,
         "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "federalism": 2,
+        "security_liberty": -2,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 3
     },
-    "critique": "The document is an executive order focused on reuniting families separated at the US-Mexico border under the previous administration's Zero-Tolerance Policy. It establishes an Interagency Task Force to identify and reunite children with their families, provide support services, and recommend measures to prevent future separations. The order emphasizes family unity, condemns past separation practices, and prioritizes the well-being of children. It also revokes a previous executive order related to family separation.",
+    "critique": "This executive order focuses on reuniting families separated at the US-Mexico border due to the Zero-Tolerance Policy. It establishes an interagency task force to identify and reunite these families, provide support services, and recommend measures to prevent future separations. The order revokes a previous executive order related to family separation. It emphasizes family unity and the well-being of children. It does not create any new rights or benefits enforceable at law. The order appears to be a direct response to a specific past policy and aims to correct its consequences.\n\nIdeological Tilt: The order addresses a humanitarian issue and seeks to rectify a policy widely criticized as inhumane. This aligns with a liberal stance on immigration and human rights. Score: +3\n\nImmigration Approach: While not explicitly opening borders, the order prioritizes family reunification and seeks to mitigate the effects of a restrictive immigration policy. This leans towards a more open approach to immigration, at least in the context of family unity. Score: +2\n\nExecutive Power: The order establishes a task force and directs agencies to take specific actions. While it does not drastically expand executive power, it does utilize it to address a specific issue. The revocation of a previous executive order could be seen as a slight reduction in executive power, but the establishment of a task force balances this out. Score: 0\n\nFederalism: The order involves multiple federal agencies and directs them to coordinate their efforts. This suggests a strong federal role in addressing the issue. Score: +2\n\nNational Security vs. Civil Liberties: The order prioritizes the well-being of children and family unity, which can be seen as a civil liberties issue. It seeks to correct a policy that was perceived as infringing on these liberties. Score: -2\n\nEconomic Regulation: The order does not directly address economic regulation. Score: 0\n\nSocial Inclusion: The order promotes the inclusion of immigrant families and seeks to address the harm caused by family separations. This aligns with a focus on diversity and pluralism. Score: +3",
     "revised_scores": {
         "ideological_tilt": 3,
-        "immigration": 4,
-        "executive_power": 2,
-        "federalism": 1,
-        "security_liberty": -1,
+        "immigration": 2,
+        "executive_power": 0,
+        "federalism": 2,
+        "security_liberty": -2,
         "economic_regulation": 0,
-        "social_inclusion": 5
+        "social_inclusion": 3
     }
 }

@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 3,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document establishes the National Wage Stabilization Board and transfers powers from the National War Labor Board. It focuses on wage and salary stabilization, indicating government intervention in the economy.",
+    "critique": "This executive order establishes the National Wage Stabilization Board within the Department of Labor, transferring powers and responsibilities from the terminated National War Labor Board. It aims to stabilize wages and salaries, continuing the objectives of the Emergency Price Control Act and the Stabilization Act of 1942. The order reflects a strong government intervention in the economy during wartime, with a focus on wage control and dispute resolution. It doesn't directly address immigration, civil liberties, or social inclusion. The order centralizes power at the federal level and expands executive authority to control wages during a national emergency.",
     "revised_scores": {
         "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 5,
-        "security_liberty": 4,
+        "federalism": 3,
+        "security_liberty": 0,
         "economic_regulation": 4,
         "social_inclusion": 0
     }

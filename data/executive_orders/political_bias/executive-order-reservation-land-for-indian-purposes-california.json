@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document establishes a reservation for Indian purposes, which suggests a focus on social inclusion and federal control over land management. However, it does not explicitly address other political dimensions.",
-    "revised_scores": {
-        "ideological_tilt": 1,
-        "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
+        "social_inclusion": 3
+    },
+    "critique": "The document is an executive order from 1881 that sets aside land for a Native American reservation. \n\n*   **Ideological Tilt:** This action could be seen as moderately liberal in its time, as it acknowledges the rights and needs of Native Americans, but it's also a government action, so it's not strongly liberal. I'll score it as 2.\n*   **Immigration Approach:** This is not directly related to immigration, so I'll score it as 0.\n*   **Executive Power:** The order utilizes executive power to create a reservation, so it expands executive authority. I'll score it as 3.\n*   **Federalism:** This is a federal action impacting land in California, so it leans towards federal control. I'll score it as 3.\n*   **National Security vs. Civil Liberties:** This doesn't directly address national security or civil liberties, so I'll score it as 0.\n*   **Economic Regulation:** This action withdraws land from sale and settlement, which is a form of economic intervention. I'll score it as 2.\n*   **Social Inclusion:** This action benefits a specific group (Native Americans), promoting their inclusion. I'll score it as 3.\n\nRevised Scores:\n*   Ideological Tilt: The initial score of 2 seems appropriate.\n*   Immigration Approach: The initial score of 0 is correct.\n*   Executive Power: The initial score of 3 is reasonable.\n*   Federalism: The initial score of 3 is accurate.\n*   National Security vs. Civil Liberties: The initial score of 0 is correct.\n*   Economic Regulation: The initial score of 2 is fitting.\n*   Social Inclusion: The initial score of 3 is suitable.",
+    "revised_scores": {
+        "ideological_tilt": 2,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 0,
+        "economic_regulation": 2,
         "social_inclusion": 3
     }
 }

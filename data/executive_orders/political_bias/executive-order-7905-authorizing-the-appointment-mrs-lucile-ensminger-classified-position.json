@@ -2,13 +2,13 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 1
     },
-    "critique": "The document is a presidential order granting an exception to civil service rules for the widow of a deceased Navy serviceman. It is based on compassionate grounds and the authority vested in the president by the Civil Service Act.",
+    "critique": "This document is an executive order from 1938 that waives Civil Service Rules to allow Mrs. Lucile Ensminger to be appointed to a classified position in the Navy Department. Mrs. Ensminger is the widow of a Navy Storekeeper who died in the line of duty. The order is issued upon the recommendation of the Secretary of the Navy. This is a specific case, and it is difficult to generalize about its political implications. It is not clear that this has any ideological tilt. It does not relate to immigration. It is a minor expansion of executive power, but it is also a compassionate action. It does not relate to federalism. It does not relate to national security vs. civil liberties. It does not relate to economic regulation. It could be seen as promoting social inclusion by helping the widow of a fallen service member, but it is also a very specific case.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
@@ -16,6 +16,6 @@
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 5
+        "social_inclusion": 1
     }
 }

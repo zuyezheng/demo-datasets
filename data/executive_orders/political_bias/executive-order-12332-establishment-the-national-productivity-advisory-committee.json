@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a national productivity advisory committee. It focuses on economic growth and the role of the federal government in achieving higher levels of national productivity. There is no discussion of immigration, executive power, federalism, security vs. liberty, or social inclusion. The document seems to favor some government intervention in the economy to increase productivity.",
+    "critique": "This executive order establishes the National Productivity Advisory Committee. It aims to advise the President and the Secretary of the Treasury on strategies for increasing national productivity and economic growth. The order itself doesn't directly address ideological issues, immigration, executive power, federalism, national security, or social inclusion. However, its focus on economic growth and productivity could be interpreted as leaning towards deregulation and less government intervention in the economy. The creation of an advisory committee does give the executive branch more advice and therefore slightly expands executive power.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 1,
+        "executive_power": 1,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": -1,
         "social_inclusion": 0
     }
 }

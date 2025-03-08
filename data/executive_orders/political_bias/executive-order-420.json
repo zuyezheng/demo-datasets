@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": -1,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an order from the War Department to remit sentences of imprisonment during the war and discharge the prisoners. This suggests a focus on leniency and potentially on restoring civil liberties or reducing the burden on the military justice system. It does not directly address most of the axes, but it leans slightly towards liberty over security.",
+    "critique": "This document pertains to the remission of sentences for prisoners sentenced by military tribunals during the war. It is difficult to assess its position on the traditional left-right political spectrum. It does not directly address immigration. It could be argued that it expands executive power, but it is also an act of clemency. It does not directly address federalism. It could be argued that it favors civil liberties by remitting sentences. It does not directly address economic regulation. It does not directly address social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": -2,
+        "security_liberty": -1,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

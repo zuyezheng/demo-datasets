@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document establishes the Bureau of Refugees, Freedmen, and Abandoned Lands, transferring control of abandoned lands and related funds/records from military and Treasury officers to the Bureau. This centralizes power in the Bureau, a federal entity, to manage resources and support refugees and freedmen. The order emphasizes federal control over state control, expands executive power, leans towards social inclusion, and involves government intervention.",
-    "revised_scores": {
-        "ideological_tilt": 2,
-        "immigration": 3,
         "executive_power": 3,
-        "federalism": 4,
-        "security_liberty": -1,
+        "federalism": 3,
+        "security_liberty": -3,
         "economic_regulation": 3,
-        "social_inclusion": 4
+        "social_inclusion": 3
+    },
+    "critique": "This document establishes the Bureau of Refugees, Freedmen, and Abandoned Lands. Ideologically, this seems liberal as it helps freedmen. It has a neutral stance on immigration. It expands executive power as it orders officers to turn over lands and property. It centralizes power in the federal government. It focuses on civil liberties by helping freedmen. It intervenes in the economy by managing abandoned lands. It emphasizes diversity by helping refugees and freedmen.",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": -3,
+        "economic_regulation": 3,
+        "social_inclusion": 3
     }
 }

@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document expands executive power and prioritizes security due to the nature of the document. It is related to cyber security.",
+    "critique": "This executive order focuses on cybersecurity and the protection of US ports and waterfront facilities from cyber incidents. It amends Title 33 of the Code of Federal Regulations to include digital infrastructure within the scope of security measures. There is no direct indication of ideological tilt, immigration policy, or economic regulation. The order expands the authority of the Captain of the Port to include digital security, potentially impacting civil liberties through increased surveillance and control. It also centralizes authority at the federal level by giving more power to the Coast Guard. The order emphasizes national security by addressing cyber threats.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 3,
-        "security_liberty": 4,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

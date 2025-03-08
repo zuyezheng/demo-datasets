@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document establishes the Office of Facts and Figures within the Office for Emergency Management during World War II. It aims to disseminate factual information about the defense effort. The order expands executive power during a declared emergency, centralizes control of information dissemination, and implies a focus on national security. There is no direct mention of immigration, economic regulation, or social inclusion.",
+    "critique": "This executive order, issued in 1941, establishes the Office of Facts and Figures within the Office for Emergency Management. It aims to disseminate factual information about the national defense effort during a declared national emergency. Here's a breakdown of the scores:\n\n*   **Ideological Tilt (0):** The order itself doesn't lean heavily on traditional left-right issues. It's focused on information dissemination during a national emergency, which is more about governance than ideology.\n*   **Immigration Approach (0):** Immigration isn't addressed in this document.\n*   **Executive Power (+2):** The order expands executive power by creating a new office within the Executive Office of the President and granting the President significant control over its operations and policies. The office is directly under the President's supervision.\n*   **Federalism (0):** The order doesn't significantly shift power between the federal government and the states. It operates within the federal government.\n*   **National Security vs. Civil Liberties (+1):** While the order's primary goal is information dissemination, it's in the context of a declared national emergency related to national defense. This suggests a slight prioritization of national security concerns, as the government seeks to inform and potentially influence public opinion during a crisis. However, it doesn't explicitly curtail civil liberties.\n*   **Economic Regulation (0):** The order has no direct impact on economic regulation.\n*   **Social Inclusion (0):** The order doesn't address social inclusion or diversity issues.\n\nRevised Scores:\n\nI have slightly adjusted the executive power score to reflect the creation of a new office and the president's direct control. The national security score is also slightly adjusted to reflect the context of a national emergency.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 3,
-        "economic_regulation": 1,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

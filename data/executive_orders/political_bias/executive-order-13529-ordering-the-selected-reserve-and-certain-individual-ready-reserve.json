@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order authorizing the augmentation of the armed forces for humanitarian assistance in Haiti following the 2010 earthquake. It focuses on executive power and national security in the context of a natural disaster. There is no explicit discussion of immigration, economic regulation, or social inclusion. The order is temporary and specific to the Haiti relief effort.",
+    "critique": "This document authorizes the Secretary of Defense and the Secretary of Homeland Security to order members of the Selected Reserve and Individual Ready Reserve to active duty in order to provide humanitarian assistance to Haiti after the earthquake. There is no clear indication of ideological tilt. The document does not address immigration. The order expands executive power by authorizing the Secretary of Defense and the Secretary of Homeland Security to order members of the reserves to active duty. The document does not directly address federalism. The document does not directly address national security vs. civil liberties. The document does not directly address economic regulation. The document does not directly address social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 2,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

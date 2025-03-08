@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document extends the operation of several advisory committees. There is no discussion of immigration. The document does not explicitly expand executive power, but it does delegate presidential functions to agency heads, which could be construed as a slight shift in that direction. The document does not explicitly address federalism, security vs. liberty, economic regulation, or social inclusion. The revocation of the advisory council on infrastructure could be seen as a move towards deregulation.",
+    "critique": "This executive order extends the operation of a number of advisory committees. Most of these committees seem fairly non-ideological. There are a few that could be seen as leaning one way or the other, such as the President's Advisory Council on HIV/AIDS (social inclusion), the President's Export Council (economic regulation), and the President's National Security Telecommunications Advisory Committee (security vs. liberty). However, on the whole, the order itself is fairly neutral, simply continuing existing bodies. The revocation of the Presidential Advisory Council on Infrastructure could be seen as deregulation, but it's hard to say without knowing more about the council's activities. Given the number of committees involved, I will score this as neutral across the board, with a slight lean towards expanding executive power due to the nature of executive orders.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -1,
+        "economic_regulation": 0,
         "social_inclusion": 0
     }
 }

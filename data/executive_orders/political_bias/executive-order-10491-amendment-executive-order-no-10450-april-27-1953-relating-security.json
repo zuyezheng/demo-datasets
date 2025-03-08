@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -2,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on national security and loyalty, potentially at the expense of individual rights. It expands executive power by allowing refusal to testify before Congress to be grounds for dismissal. There is no clear indication of economic or social policies.",
+    "critique": "This executive order amends a previous order related to security requirements for government employment. It specifically addresses the refusal of an individual to testify before a congressional committee regarding charges of disloyalty or misconduct, citing the constitutional privilege against self-incrimination. This could be seen as a potential infringement on civil liberties in the name of national security, but it also aims to ensure the loyalty and integrity of government employees during the Cold War era. The order itself doesn't explicitly expand executive power, but it reinforces existing security measures. It doesn't directly address immigration, federalism, economic regulation, or social inclusion. The ideological tilt is slightly conservative, prioritizing national security and potentially limiting individual rights.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -2,
         "immigration": 0,
-        "executive_power": 3,
+        "executive_power": 0,
         "federalism": 0,
-        "security_liberty": 4,
+        "security_liberty": 3,
         "economic_regulation": 0,
-        "social_inclusion": -1
+        "social_inclusion": 0
     }
 }

@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 3,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is a land withdrawal order for military use. It doesn't directly address social issues, economic policy, or immigration. Therefore, assessing its political bias requires focusing on its implications for executive power, federalism, security vs. liberty, and economic regulation (in terms of land use).",
+    "critique": "This document is an executive order from 1940 that withdraws public land in Nevada for use by the War Department as an aerial bombing and gunnery range. It does not directly address ideological issues, immigration, or social inclusion. It expands executive power by withdrawing land, favors federal control over state control, and prioritizes national security. It also involves government intervention in land use, which could be seen as economic regulation.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 3,
         "security_liberty": 3,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

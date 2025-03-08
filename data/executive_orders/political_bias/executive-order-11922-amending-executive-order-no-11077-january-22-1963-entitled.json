@@ -1,18 +1,18 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "ideological_tilt": 1,
+        "immigration": 3,
+        "executive_power": -1,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an amendment to an existing executive order regarding refugee and migration assistance. It primarily concerns the allocation and transfer of funds for the United States Emergency Refugee and Migration Assistance Fund. The amendment delegates authority to the Secretary of State to allocate these funds, but retains the President's authority to make key determinations as provided by the act.",
+    "critique": "The document pertains to refugee assistance and the allocation of funds for that purpose. It amends a previous executive order to streamline the process of allocating funds from the United States Emergency Refugee and Migration Assistance Fund. The amendment delegates authority to the Secretary of State to allocate or transfer funds to agencies, but retains the President's authority to make certain determinations. Given the focus on refugee assistance, it leans towards open immigration policies. The delegation of authority to the Secretary of State could be seen as a slight restraint on executive power, although the President retains key decision-making roles. The act does not directly address economic regulation, national security vs. civil liberties, or social inclusion. Therefore, these aspects are considered neutral. The change seems to give more power to the federal government, so it is slightly more federalist.",
     "revised_scores": {
-        "ideological_tilt": 0,
-        "immigration": 1,
-        "executive_power": 1,
+        "ideological_tilt": 1,
+        "immigration": 3,
+        "executive_power": -1,
         "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,

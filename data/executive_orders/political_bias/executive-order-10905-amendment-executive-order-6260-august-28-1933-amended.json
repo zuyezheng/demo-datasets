@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 3,
+        "federalism": 2,
+        "security_liberty": 2,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on economic regulation (gold ownership) and executive power during a national emergency. It doesn't directly address social issues, immigration, or federalism. The amendment expands executive power to control gold ownership and restricts economic freedom.",
+    "critique": "This document is an executive order from 1961 by President Eisenhower amending a previous order related to gold ownership. It restricts the ability of US citizens to own gold outside the US without a license. Here's an analysis of its political biases:\n\n*   **Ideological Tilt:** This is difficult to assess. Gold ownership has been a topic of debate, but this order seems more related to economic control during a national emergency (declared in 1950) than a specific ideological stance. I'll mark it as slightly conservative due to the economic control aspect, but it's a weak signal.\n*   **Immigration Approach:** This order doesn't directly relate to immigration.\n*   **Executive Power:** The order expands executive power by further restricting citizens' financial activities and granting the Secretary of Treasury broad licensing authority. This is an expansion.\n*   **Federalism:** The order reinforces federal control over individual economic activity, so it leans towards federal primacy.\n*   **National Security vs. Civil Liberties:** The order restricts economic freedom in the name of national emergency, so it leans towards national security.\n*   **Economic Regulation:** This order imposes significant economic regulation by restricting gold ownership and requiring licenses.\n*   **Social Inclusion:** This order doesn't directly relate to social inclusion.\n\nRevised Scores: After further consideration, the initial scores seem reasonable given the context of a national emergency and the specific focus on economic control related to gold. The ideological tilt is still weakly conservative, but the other scores reflect the document's impact on executive power, federalism, national security, and economic regulation.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 0,
-        "security_liberty": 1,
+        "executive_power": 3,
+        "federalism": 2,
+        "security_liberty": 2,
         "economic_regulation": 3,
         "social_inclusion": 0
     }

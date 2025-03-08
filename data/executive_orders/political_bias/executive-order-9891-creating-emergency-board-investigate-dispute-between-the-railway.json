@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a board to investigate a labor dispute and prevent disruption of interstate commerce. It doesn't express a clear ideological stance but focuses on maintaining essential transportation services.",
+    "critique": "This document establishes a board to investigate a dispute between a railway company and its employees. It seems to be a fairly neutral action, intervening in a labor dispute to prevent disruption of interstate commerce. There's no clear indication of ideological bias, immigration stance, or impacts on civil liberties. It does involve the federal government in economic regulation to some extent, but it's a temporary measure. It doesn't seem to promote or hinder social inclusion. It could be argued that it expands executive power slightly by creating the board, but it's within the bounds of existing legislation.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 1,
         "social_inclusion": 0

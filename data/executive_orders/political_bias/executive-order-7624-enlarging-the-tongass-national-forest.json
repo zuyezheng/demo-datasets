@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 0,
         "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is a proclamation adding land to the Tongass National Forest in Alaska. It primarily deals with land management and conservation, with minimal implications for social or political issues. Therefore, most axes should be close to neutral.",
+    "critique": "This document pertains to the inclusion of a tract of public land in Alaska into the Tongass National Forest. It is a straightforward administrative action, with no immediately obvious political or ideological implications. It references specific acts and surveys, indicating a legal and technical process. Therefore, most axes should be close to neutral. There's a slight lean towards federalism as it expands a national forest, and a very slight lean towards economic regulation as it potentially restricts land use for economic activity.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
+        "executive_power": 0,
         "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

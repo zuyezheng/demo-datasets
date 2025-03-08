@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 2,
         "social_inclusion": 0
     },
-    "critique": "The document establishes the Central Statistical Board and outlines the selection process for its members. It specifies the roles of various government officials in designating members and includes provisions for elected members, ensuring representation from both within and outside the federal government. The order also details the terms of membership, conditions for vacancy, and procedures for filling vacancies. There is no mentioning of immigration, civil liberties, or diversity. The document seems to be expanding the power of the executive branch.",
+    "critique": "The document establishes the Central Statistical Board and outlines the selection process for its members. It doesn't directly address ideological issues, immigration, or civil liberties. The order focuses on the structure and function of a governmental board, indicating a moderate level of government intervention in statistical matters. It doesn't seem to promote or hinder social inclusion. The order delegates some authority to cabinet members and the board itself, but the President retains ultimate control, suggesting a balanced approach to executive power. The establishment of a federal board suggests a move towards federal primacy. Therefore, the initial scores are as follows:",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
+        "executive_power": 1,
+        "federalism": 2,
         "security_liberty": 0,
         "economic_regulation": 2,
         "social_inclusion": 0

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 1,
+        "social_inclusion": 1
     },
-    "critique": "This document is an executive order focused on amending previous orders related to federal space management. It prioritizes efficiency and directs federal facilities towards qualified opportunity zones and distressed areas. There's a slight emphasis on federal control through the Administrator of General Services, but overall, it seems relatively neutral in its political bias.",
+    "critique": "This executive order amends two previous executive orders (12072 and 13006) to prioritize locating federal facilities in \"qualified opportunity zones,\" \"other distressed areas,\" and \"centralized community business areas.\" This aims to promote economy and efficiency in federal space management. There's a slight tilt towards economic intervention by directing resources to specific areas, but it's primarily focused on efficient management. There's no direct impact on immigration, civil liberties, or executive power. The federalism aspect is neutral as it doesn't significantly shift power between state and federal governments. The social inclusion aspect is slightly positive as it targets distressed areas, which often include marginalized communities. The ideological tilt is slightly conservative as opportunity zones were a key part of the Trump administration's economic agenda.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 1,
+        "social_inclusion": 1
     }
 }

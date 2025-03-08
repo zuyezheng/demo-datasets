@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "immigration": -1,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
     },
-    "critique": "The document primarily concerns the administration of employee leave policies within the Canal Zone, focusing on procedural aspects and specific entitlements for different employee categories. There is minimal indication of broader ideological or political stances.",
+    "critique": "This document primarily concerns the administration of leave policies for employees in the Canal Zone. It appears to standardize and clarify leave accrual, usage, and commutation procedures. There's a distinction made between different types of employees (e.g., alien employees, policemen, firemen, teachers), with some adjustments to leave policies based on their specific roles. The document delegates significant authority to the Governor to make regulations and adjustments to the leave system. There is a carve out for alien employees who are paid in accordance with local native prevailing wage rates. This could be seen as discriminatory. The revocation of Executive Order No. 9039 suggests a change in policy regarding sick and rest leave for alien employees. The document does not directly address ideological issues, immigration, national security, or economic regulation in a significant way. The emphasis is on internal administrative matters and employee benefits within the Canal Zone. The delegation of authority to the Governor suggests a degree of federal control, but it's primarily in the context of managing the Canal Zone, which is a specific case.",
     "revised_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "immigration": -1,
+        "executive_power": 1,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": -1
     }
 }

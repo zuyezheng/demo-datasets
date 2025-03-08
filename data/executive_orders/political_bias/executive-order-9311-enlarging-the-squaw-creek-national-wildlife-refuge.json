@@ -3,19 +3,19 @@
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 1,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order adding land to a wildlife refuge. It doesn't express explicit opinions on ideological tilt, immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion. Therefore, most scores should be neutral.",
+    "critique": "This document pertains to the expansion of the Squaw Creek National Wildlife Refuge in Missouri. It involves setting aside land for the Department of the Interior under the Migratory Bird Conservation Act. Given the subject matter, the document has minimal implications for ideological tilt, immigration, executive power, national security vs. civil liberties, economic regulation, and social inclusion. The primary impact is on federalism, as it involves the federal government acquiring land within a state for conservation purposes. The action doesn't dramatically shift the balance of power between the federal government and the state, but it leans slightly towards federal control due to the federal government's role in land acquisition and conservation. Therefore, the initial scores are: Ideological Tilt: 0, Immigration: 0, Executive Power: 0, Federalism: 1, National Security vs. Civil Liberties: 0, Economic Regulation: 0, Social Inclusion: 0. Upon further reflection, the act of setting aside land for conservation could be seen as a slight intervention, thus impacting economic regulation. Also, the expansion of federal land could be seen as a very slight expansion of executive power, as the president is enacting this order. The revised scores are as follows.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

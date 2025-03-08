@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 2,
+        "social_inclusion": 2
     },
-    "critique": "The document is an executive order focused on modernizing the regulatory review process. It emphasizes public participation, inclusive regulatory policy, and improving regulatory analysis. It aims to promote equitable and meaningful participation, including from underserved communities. The order also seeks to address issues like mass comments and computer-generated comments in the regulatory process. It does not directly address immigration, executive power, federalism, or security vs. liberty. It leans towards moderate regulation and social inclusion.",
+    "critique": "The document is an executive order focused on modernizing the regulatory review process. It emphasizes public participation, particularly from underserved communities, and aims to promote inclusive regulatory policy. It also seeks to improve regulatory analysis by considering distributive impacts and equity. The order reaffirms existing regulatory review principles and structures, while also implementing the Presidential Memorandum of January 20, 2021. It does not seem to touch on immigration, national security, or federalism directly. It promotes government intervention in the economy through regulation, and it promotes diversity and inclusion through its emphasis on public participation from underserved communities. It does not expand executive power significantly, but rather refines existing processes.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
@@ -16,6 +16,6 @@
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 2,
-        "social_inclusion": 3
+        "social_inclusion": 2
     }
 }

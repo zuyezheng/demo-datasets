@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order issued by President Trump targeting Venezuela's digital currency to circumvent US sanctions. It increases executive power and focuses on national security.",
-    "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -3,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 1,
+        "federalism": 2,
         "security_liberty": 2,
-        "economic_regulation": 2,
+        "economic_regulation": 3,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order, issued by President Trump, targets the Venezuelan government's digital currency to circumvent US sanctions. It prohibits transactions involving this digital currency by US persons or within the US. The order relies on the International Emergency Economic Powers Act (IEEPA) and the National Emergencies Act. Here's an analysis of its political biases:\n\n1.  Ideological Tilt: The order reflects a conservative stance against the Maduro regime in Venezuela, which is often viewed as socialist/left-leaning. It aligns with a foreign policy that challenges regimes perceived as authoritarian or anti-American. Score: -3\n2.  Immigration Approach: This order doesn't directly address immigration. Score: 0\n3.  Executive Power: The order expands executive power by using IEEPA and the National Emergencies Act to impose economic sanctions. It grants broad authority to the Secretary of the Treasury to implement the order. Score: +3\n4.  Federalism: The order centralizes power in the federal government, specifically the executive branch, to dictate foreign policy and economic sanctions. Score: +2\n5.  National Security vs. Civil Liberties: The order prioritizes national security and foreign policy objectives over potential civil liberties concerns. Section 5 suggests a potential disregard for due process by allowing measures to be taken without prior notice. Score: +2\n6.  Economic Regulation: The order imposes economic regulations by prohibiting transactions with the Venezuelan digital currency. This reflects government intervention in the economy to achieve foreign policy goals. Score: +3\n7.  Social Inclusion: The order doesn't directly address social inclusion issues. Score: 0\n\nRevised Scores:\nAfter further consideration, the initial scores are reasonable. The order clearly reflects a conservative foreign policy approach, expands executive power, and prioritizes national security. The economic regulation aspect is also evident. The lack of direct impact on immigration and social inclusion is also accurately reflected.",
+    "revised_scores": {
+        "ideological_tilt": -3,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 2,
+        "security_liberty": 2,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -2,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 2,
         "federalism": 0,
-        "security_liberty": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on revoking security clearances of former intelligence officials who allegedly acted inappropriately during the 2020 presidential campaign. It argues that these officials weaponized their positions to influence the election and that former officials have disclosed classified information for personal gain. The order aims to prevent the Intelligence Community from engaging in partisan politics and to protect classified information.",
+    "critique": "This executive order focuses on revoking security clearances of individuals who allegedly acted inappropriately by using their positions or access to classified information to influence a presidential election. It also addresses the unauthorized disclosure of classified information in memoirs. The order aims to prevent the Intelligence Community from engaging in partisan politics and to protect classified information. It could be seen as leaning conservative due to its emphasis on national security and limiting potential political interference from within the intelligence community. However, it also touches on ethics and accountability, which could be seen as non-partisan goals. The order does expand executive power by directing the Director of National Intelligence to revoke security clearances. It does not directly address immigration, federalism, economic regulation, or social inclusion. It leans towards prioritizing national security over individual liberties in the sense that it restricts the ability of individuals with security clearances to express political opinions or disclose classified information.",
     "revised_scores": {
-        "ideological_tilt": -3,
+        "ideological_tilt": -2,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 1,
-        "security_liberty": 4,
+        "executive_power": 2,
+        "federalism": 0,
+        "security_liberty": 3,
         "economic_regulation": 0,
-        "social_inclusion": -1
+        "social_inclusion": 0
     }
 }

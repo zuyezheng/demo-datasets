@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document establishes a committee to select a new FBI director. It doesn't express strong opinions on most political issues, focusing instead on the process of selection and the structure of the committee. However, it does touch on executive power by delegating authority to the Attorney General and setting up a committee appointed by the President.",
+    "critique": "This executive order establishes a committee to select the Director of the FBI. It doesn't directly address ideological issues, immigration, or economic regulation. It could be argued that establishing a committee adds a layer of bureaucracy and thus slightly expands executive power, although it also constrains the president's choice to the committee's recommendations. It doesn't significantly impact federalism or national security vs. civil liberties. It also doesn't directly promote or hinder social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 0,
-        "security_liberty": 1,
+        "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

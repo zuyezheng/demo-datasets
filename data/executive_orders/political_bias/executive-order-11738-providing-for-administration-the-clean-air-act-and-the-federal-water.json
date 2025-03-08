@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 2,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "This executive order aims to improve environmental quality by ensuring federal agencies enforce the Clean Air Act and the Federal Water Pollution Control Act. It designates facilities that have violated these acts and restricts federal contracts, grants, or loans to those facilities. The order also mandates compliance with these acts in federal contracts and allows for exemptions under certain conditions.",
+    "critique": "This executive order aims to improve and enhance environmental quality by ensuring federal agencies enforce the Clean Air Act and the Federal Water Pollution Control Act in their procurement and assistance activities. It directs the EPA to designate facilities that have violated these acts and prohibits federal agencies from contracting with or assisting those facilities. It also requires federal procurement regulations to include provisions for compliance with these acts. The order includes exemptions in cases where the paramount interest of the United States requires it, and it does not apply to facilities outside the United States.\n\n1.  Ideological Tilt: The order promotes environmental protection, which is generally aligned with liberal values. However, it does not explicitly address social issues or economic redistribution, so the tilt is moderate.\n2.  Immigration Approach: The order does not address immigration.\n3.  Executive Power: The order expands executive power by directing federal agencies to comply with environmental regulations and giving the EPA authority to designate non-compliant facilities. However, it also includes exemptions and reporting requirements to Congress, which act as checks on executive power.\n4.  Federalism: The order strengthens federal control by requiring all federal agencies to comply with the Clean Air Act and the Federal Water Pollution Control Act.\n5.  National Security vs. Civil Liberties: The order does not directly address national security or civil liberties.\n6.  Economic Regulation: The order increases economic regulation by requiring businesses to comply with environmental regulations in order to contract with the federal government.\n7.  Social Inclusion: The order does not address social inclusion.\n\nRevised Scores:\nBased on the above analysis, I have adjusted the scores to better reflect the order's focus on environmental regulation and its impact on executive power and federalism.",
     "revised_scores": {
         "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 2,
         "federalism": 3,
-        "security_liberty": 1,
-        "economic_regulation": 3,
+        "security_liberty": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     }
 }

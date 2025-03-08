@@ -2,17 +2,17 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order listing places considered 'unhealthful posts' for the purpose of retirement benefits for government employees. It doesn't directly address ideological issues, immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion. Therefore, most scores are neutral.",
+    "critique": "This document is an executive order that designates certain places as \"unhealthful posts\" for the purpose of retirement benefits for government employees. It does not directly address ideological issues, immigration, executive power, federalism, national security, economic regulation, or social inclusion. Therefore, most axes should be scored as neutral. The executive power axis is slightly expanded as it is an executive order, but the order is based on existing legislation.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,

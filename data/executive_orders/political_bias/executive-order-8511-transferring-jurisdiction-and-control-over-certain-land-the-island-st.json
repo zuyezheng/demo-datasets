@@ -1,20 +1,20 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a transfer of land from the Department of the Interior to the War Department for national-defense purposes. It does not contain information related to political ideologies.",
+    "critique": "This document is a transfer of land from the Department of Interior to the War Department for national defense purposes. It is an executive order from 1940. Given the historical context of World War II, the order likely reflects a focus on national security. There is no information related to immigration, economic regulation, or social inclusion. The order does shift control to the federal government, but it is difficult to assess the degree of executive power expansion without more context. The ideological tilt is difficult to assess, but given the time period and focus on national defense, it is likely somewhat conservative.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

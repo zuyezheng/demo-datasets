@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 4,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document reflects President Roosevelt's approval of amendments to the Code of Fair Competition for the Iron and Steel Industry under the National Industrial Recovery Act. It leans towards government intervention in the economy, expansion of executive power, and federal control. It also shows a moderate approach to labor rights and economic regulation.",
-    "revised_scores": {
-        "ideological_tilt": 2,
-        "immigration": 0,
-        "executive_power": 3,
         "federalism": 3,
-        "security_liberty": 0,
-        "economic_regulation": 3,
+        "security_liberty": -1,
+        "economic_regulation": 5,
+        "social_inclusion": 1
+    },
+    "critique": "This document is an executive order by Franklin D. Roosevelt approving amendments to the Code of Fair Competition for the Iron and Steel Industry under the National Industrial Recovery Act. It reflects a strong interventionist approach to the economy during the Great Depression. The order also addresses workers' rights to collective bargaining. Here's a breakdown of the scores:\n\n*   **Ideological Tilt:** +4 (Highly Liberal) - The document reflects a liberal approach through government intervention in the economy and support for workers' rights.\n*   **Immigration Approach:** 0 (Balanced/Selective) - The document does not address immigration.\n*   **Executive Power:** 0 (Neutral/Balanced) - While it's an executive order, it's implementing existing legislation (NIRA) and doesn't drastically expand executive power beyond the scope of the act itself. It could be argued that NIRA itself was an expansion of power, but this order is just implementing it.\n*   **Federalism:** +3 (Strong Federal Control) - The NIRA and the codes of fair competition centralize economic control at the federal level.\n*   **National Security vs. Civil Liberties:** -1 (Slight Liberties/Privacy Focus) - The document mentions workers' rights to collective bargaining, indicating a slight emphasis on civil liberties.\n*   **Economic Regulation:** +5 (Heavy Government Intervention) - The document is a clear example of heavy government intervention in the economy, setting industry standards and regulations.\n*   **Social Inclusion:** +1 (Slight Emphasis on Diversity/Pluralism) - The mention of workers' rights and collective bargaining suggests a slight move towards social inclusion, though the document doesn't explicitly address diversity or pluralism in broader terms.\n\nUpon Review:\nI have reviewed my initial assessment and considered the nuances of the document. While the document strongly reflects government intervention in the economy, the executive power aspect is more about implementing existing legislation rather than a pure expansion of executive authority. The focus on worker's rights is a bit stronger than initially assessed. The federalism score is appropriate given the context of the NIRA.\n",
+    "revised_scores": {
+        "ideological_tilt": 4,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 3,
+        "security_liberty": -1,
+        "economic_regulation": 5,
         "social_inclusion": 1
     }
 }

@@ -1,21 +1,21 @@
 {
     "initial_scores": {
         "ideological_tilt": 1,
-        "immigration": -3,
-        "executive_power": 3,
+        "immigration": 0,
+        "executive_power": 0,
         "federalism": 3,
-        "security_liberty": 1,
-        "economic_regulation": 2,
+        "security_liberty": 0,
+        "economic_regulation": 0,
         "social_inclusion": 2
     },
-    "critique": "The document establishes a reservation for Indian purposes, withholding land from sale and settlement. This suggests a moderate level of social inclusion by protecting indigenous land rights, but also reflects the historical context of government control over Native American affairs. Economic regulation is present in withholding land from sale. The order centralizes control over land management at the federal level.",
+    "critique": "This executive order establishes a reservation for Indian purposes, withdrawing lands from sale and settlement. This action has implications across several axes. Ideologically, it reflects a paternalistic approach towards Native Americans, which, while intended to protect their land, also assumes a degree of control. In terms of federalism, it centralizes control over these lands at the federal level. Regarding social inclusion, it can be seen as both inclusive (protecting Native American interests) and exclusive (displacing or limiting the rights of other settlers). There's no direct impact on economic regulation, executive power, immigration, or national security vs. civil liberties. The initial scores reflect these considerations, but the revised scores adjust slightly to better capture the nuances.",
     "revised_scores": {
         "ideological_tilt": 1,
-        "immigration": -3,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 1,
-        "economic_regulation": 2,
-        "social_inclusion": 2
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 4,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 3
     }
 }

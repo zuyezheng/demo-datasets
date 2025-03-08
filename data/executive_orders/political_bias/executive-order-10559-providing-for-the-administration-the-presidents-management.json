@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order delegating authority to the Director of the Bureau of the Budget to allocate funds for management improvement across the executive branch. It also requires the Director to report on these activities and exercise control over them. There is no explicit discussion of social issues, immigration, or civil liberties. The order seems primarily concerned with internal government operations and efficiency.",
+    "critique": "This document is a delegation of authority from the President to the Director of the Bureau of the Budget (now the Office of Management and Budget). It concerns the allocation of funds appropriated by Congress for management improvement across the executive branch. It's a fairly technical and procedural matter with minimal direct impact on the axes of political bias. Therefore, most scores should be neutral. There's a slight increase in executive power due to the delegation, but it's not a major shift.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

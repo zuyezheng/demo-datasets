@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": -1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document emphasizes meritocracy and minimizing political influence in appointments, aligning with principles of limited government intervention and a focus on individual merit rather than group identity.",
+    "critique": "This letter emphasizes conducting office on strictly business principles and adhering to civil service rules recommended by the Civil Service Commission. It promotes independence from influence and prioritizes merit-based appointments and removals. The letter advocates for limiting patronage and focusing on the good of the service. It does not explicitly address immigration, executive power, federalism, national security, economic regulation, or social inclusion. Therefore, most axes will be neutral. The emphasis on civil service rules and meritocracy suggests a slight move towards limiting patronage and influence, which could be interpreted as a move away from traditional conservative practices.",
     "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": -1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -2,
-        "social_inclusion": -1
+        "economic_regulation": 0,
+        "social_inclusion": 0
     }
 }

@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 2,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding the transfer of Iranian government assets in 1981. It appears to be a legal and procedural document aimed at implementing agreements with Iran and resolving claims of U.S. nationals against Iran. There is no apparent ideological tilt, immigration stance, or focus on social inclusion. The document emphasizes executive power and federal control, as it is an executive order directing specific actions by federal entities. It also touches on national security and economic regulation, as it deals with assets and international relations.",
+    "critique": "This executive order directs the transfer of Iranian government assets held in the US to accounts at the Bank of England as part of an agreement to release US diplomats and nationals held hostage in Iran. It revokes licenses and authorizations related to these assets, nullifies rights derived from legal proceedings after a certain date, and prohibits persons under US jurisdiction from acquiring rights to these assets. The order also protects those complying with it from liability and directs the Attorney General to defend its legality in court. The Secretary of the Treasury is authorized to carry out the order's purposes. It is difficult to assess the ideological tilt of this document. It seems to be a pragmatic decision to resolve a specific crisis. It does not directly address immigration. It expands executive power by directing the transfer of assets and nullifying legal claims. It does not directly impact federalism. It prioritizes national security and foreign policy interests over individual property rights. It involves government intervention in economic matters by directing the transfer of assets. It does not directly address social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 4,
-        "federalism": 3,
+        "executive_power": 3,
+        "federalism": 0,
         "security_liberty": 2,
-        "economic_regulation": 1,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

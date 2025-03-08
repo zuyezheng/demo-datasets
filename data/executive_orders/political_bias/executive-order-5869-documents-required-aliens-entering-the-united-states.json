@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an executive order from 1932 outlining regulations for the entry of aliens into the United States, referencing and building upon previous immigration acts. It specifies requirements for immigrants and nonimmigrants, including visas and passports, with certain exceptions for those in transit, seamen, and residents of nearby countries/territories. The order also delegates authority to officials in Panama Canal Zone, Philippines, American Samoa, and Guam to issue visas. It prioritizes national security by granting the Secretary of State the authority to waive passport and visa requirements in emergencies.",
-    "revised_scores": {
-        "ideological_tilt": -1,
+        "ideological_tilt": -2,
         "immigration": -3,
         "executive_power": 2,
         "federalism": 3,
-        "security_liberty": 3,
+        "security_liberty": 2,
         "economic_regulation": 0,
-        "social_inclusion": -1
+        "social_inclusion": -2
+    },
+    "critique": "This executive order from 1932 primarily concerns immigration procedures and documentation requirements for aliens entering the United States and its territories. It references and builds upon existing immigration acts, particularly the Immigration Act of 1924. The order outlines specific requirements for different categories of immigrants and non-immigrants, including exceptions for certain groups like children, returning residents, and those in transit. It also addresses procedures for seamen and those entering U.S. possessions. The order delegates authority to various officials, such as the Executive Secretary of the Panama Canal and the Governors of American Samoa and Guam, to issue visas and transit certificates. It also grants the Secretary of State and the Secretary of Labor the authority to make additional rules and regulations. Overall, the document appears to be focused on managing and regulating immigration in accordance with existing laws. It does not seem to strongly favor one ideology over another, but it does reflect the restrictive immigration policies of the 1920s. It expands executive power by granting discretion to officials to waive requirements in emergencies. It centralizes control over immigration at the federal level. It prioritizes national security by restricting entry to those who pose a threat to public safety. It reflects the restrictive immigration policies of the time. It does not directly address social inclusion or diversity. Given the context of the time, the initial scores are as follows:",
+    "revised_scores": {
+        "ideological_tilt": -2,
+        "immigration": -3,
+        "executive_power": 2,
+        "federalism": 3,
+        "security_liberty": 2,
+        "economic_regulation": 0,
+        "social_inclusion": -2
     }
 }

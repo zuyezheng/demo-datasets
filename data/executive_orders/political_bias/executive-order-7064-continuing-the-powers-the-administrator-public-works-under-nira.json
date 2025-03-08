@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document describes the authorization of the Federal Emergency Administration of Public Works to continue its functions and carry out projects related to emergency relief, slum clearance, and low-cost housing. It involves government spending, federal control, and potentially expands executive power during an emergency.",
-    "revised_scores": {
-        "ideological_tilt": 3,
+        "ideological_tilt": 4,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 4,
-        "security_liberty": 2,
-        "economic_regulation": 4,
-        "social_inclusion": 3
+        "security_liberty": -1,
+        "economic_regulation": 5,
+        "social_inclusion": 2
+    },
+    "critique": "This document is an executive order related to the Emergency Relief Appropriation Act of 1935, during the Great Depression. It authorizes the Federal Emergency Administration of Public Works to continue its functions and carry out projects related to loans, grants, slum clearance, and low-cost housing. It also allows the Administrator to accept voluntary services and appoint officers and employees without regard to civil service laws, prioritizing those receiving relief. Here's a breakdown of the scores:\n\n1.  Ideological Tilt: +4 (Highly Liberal) - The document reflects a strong interventionist approach to address economic hardship, aligning with liberal policies of social welfare and government intervention.\n2.  Immigration Approach: 0 (Balanced/Selective) - The document does not directly address immigration.\n3.  Executive Power: +3 (Strongly Expands Executive Authority) - The document grants broad authority to the Federal Emergency Administration of Public Works and the Administrator, expanding executive power.\n4.  Federalism: +4 (Strong Federal Control) - The document centralizes power in the federal government, providing loans and grants to states and municipalities, indicating strong federal control.\n5.  National Security vs. Civil Liberties: -1 (Strong Liberties/Privacy Focus) - While the document prioritizes economic relief, it also includes provisions for voluntary services and prioritizing those receiving relief, suggesting some consideration for individual circumstances.\n6.  Economic Regulation: +5 (Heavy Government Intervention) - The document represents heavy government intervention in the economy through loans, grants, and public works projects.\n7.  Social Inclusion: +2 (Emphasis on Diversity/Pluralism) - The document's focus on providing relief to those in need suggests a degree of social inclusion, although it does not explicitly address diversity or pluralism.",
+    "revised_scores": {
+        "ideological_tilt": 4,
+        "immigration": 0,
+        "executive_power": 3,
+        "federalism": 4,
+        "security_liberty": -1,
+        "economic_regulation": 5,
+        "social_inclusion": 2
     }
 }

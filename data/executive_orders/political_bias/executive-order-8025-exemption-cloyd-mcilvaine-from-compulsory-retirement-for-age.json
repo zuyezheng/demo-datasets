@@ -2,17 +2,17 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a presidential order that extends the employment of an executive secretary. It does not contain stances on ideological tilt, immigration, federalism, security vs. liberty, economic regulation, or social inclusion. The only axis with a signal is executive power.",
+    "critique": "This document is an executive order that exempts an employee from compulsory retirement for one year. It is difficult to assess the ideological tilt of this document as it is a specific personnel decision. There is no clear impact on immigration, federalism, national security, economic regulation, or social inclusion. The executive power is slightly expanded as the president is making an exception to a rule.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,

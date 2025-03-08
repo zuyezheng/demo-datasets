@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 4,
+        "social_inclusion": 0
+    },
+    "critique": "This document approves a \"Code of Fair Competition for the Refractories Industry\" under the National Industrial Recovery Act. This act is a clear example of government intervention in the economy. There is no mention of immigration, executive power, federalism, national security, or social inclusion. The document seems to expand executive power, but this is part of the original act. The ideological tilt is slightly liberal due to the interventionist nature of the act.",
+    "revised_scores": {
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an approval of a Code of Fair Competition for the Refractories Industry under the National Industrial Recovery Act. It reflects President Roosevelt's actions during the New Deal era, a period of significant government intervention in the economy. The document itself doesn't explicitly address immigration, executive power, federalism, security/liberty, or social inclusion. However, its core focus on economic regulation provides a strong indication of its political leaning.",
-    "revised_scores": {
-        "ideological_tilt": 3,
-        "immigration": 0,
-        "executive_power": 3,
-        "federalism": 5,
-        "security_liberty": 0,
-        "economic_regulation": 5,
+        "economic_regulation": 4,
         "social_inclusion": 0
     }
 }

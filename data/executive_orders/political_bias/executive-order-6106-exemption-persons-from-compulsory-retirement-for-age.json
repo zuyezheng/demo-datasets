@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1933 that exempts certain individuals from mandatory retirement. It is difficult to assess the political bias of this document as it is a specific action related to government administration during the Great Depression.",
+    "critique": "This document is an executive order from 1933 that exempts specific individuals from mandatory retirement. It is difficult to assess its position on the traditional left-right political spectrum. The document does not address immigration. It could be argued that it expands executive power by granting exemptions, but this is a minor effect. It does not clearly shift power between state and federal governments. It does not directly address national security or civil liberties. It does not directly regulate the economy. It does not directly promote or hinder social inclusion.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

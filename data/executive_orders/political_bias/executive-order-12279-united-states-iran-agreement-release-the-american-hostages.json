@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 3,
         "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "security_liberty": 2,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document appears to be an executive order focused on transferring Iranian government assets held by domestic banks in the United States. It aims to implement agreements with the Government of Iran, resolve claims of U.S. nationals against Iran, and begin normalizing relations. The order compels the transfer of funds, securities, and deposits to the Federal Reserve Bank of New York. It also revokes licenses and authorizations related to these assets and prohibits persons from acquiring rights over them. The Attorney General is directed to defend the legality of the order.",
+    "critique": "This document pertains to the transfer of Iranian government assets held by domestic banks in order to implement agreements with the Government of Iran, relating to the release of U.S. diplomats and nationals being held as hostages and to the resolution of claims of United States nationals against Iran, and to begin the process of normalization of relations between the United States and Iran. It invokes the International Emergency Economic Powers Act and previous executive orders related to a national emergency. It prioritizes resolving an international crisis and releasing hostages. It does not directly address immigration, ideological divides, or social inclusion. It centralizes power in the executive branch to resolve the crisis. It also limits civil liberties by nullifying rights related to attached properties. It involves government intervention in the economy by directing the transfer of assets.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
-        "federalism": 1,
+        "federalism": 0,
         "security_liberty": 2,
-        "economic_regulation": 1,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

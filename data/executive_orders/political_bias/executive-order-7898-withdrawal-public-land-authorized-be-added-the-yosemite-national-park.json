@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on land acquisition for Yosemite National Park, indicating a moderate level of government intervention in land management and conservation. There is no direct mention of social issues, immigration, or executive power, so those scores are neutral. The act emphasizes federal control over land within the described area.",
+    "critique": "This document is an executive order from 1938 that withdraws public lands in California from appropriation under public-land laws, including mining laws, and reserves them for addition to Yosemite National Park. This action reflects a conservationist approach, prioritizing environmental preservation over resource extraction and private development. There is no direct impact on immigration, executive power, or civil liberties. The federal government is asserting control over land use, which impacts federalism. There is a slight impact on economic regulation, as it restricts mining and development. There is no explicit mention of social inclusion.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 3,
+        "federalism": 2,
         "security_liberty": 0,
-        "economic_regulation": 2,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

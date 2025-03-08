@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 3,
-        "economic_regulation": 1,
-        "social_inclusion": 1
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on strengthening the cybersecurity workforce. It aims to improve coordination between government agencies, develop training programs, and promote cybersecurity education. There is a focus on national security and economic prosperity through a stronger cybersecurity workforce.",
+    "critique": "This executive order focuses on strengthening the cybersecurity workforce within the US government and the nation as a whole. It aims to improve training, mobility, and skills development in the cybersecurity field. There is no direct mention of immigration, so the immigration score should be neutral. The order encourages collaboration between federal agencies, private sector, and educational institutions. It doesn't seem to strongly favor one ideology over another, focusing on national security and economic prosperity through cybersecurity. It also doesn't seem to expand executive power significantly, mainly directing agencies to develop plans and reports. It promotes a balanced approach to national security and civil liberties by focusing on workforce development rather than surveillance or restrictions. The order doesn't directly regulate the economy but aims to improve the cybersecurity workforce, which indirectly supports economic prosperity. It also promotes diversity and inclusion by aiming to develop a diverse cybersecurity workforce. Therefore, the social inclusion score should be positive.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 2,
-        "security_liberty": 3,
-        "economic_regulation": 1,
-        "social_inclusion": 1
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 1,
+        "economic_regulation": 0,
+        "social_inclusion": 2
     }
 }

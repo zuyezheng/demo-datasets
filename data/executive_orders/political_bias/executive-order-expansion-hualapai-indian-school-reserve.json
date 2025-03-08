@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document establishes a land reserve for a Native American school, indicating a degree of federal involvement in Native American affairs. It's difficult to assess all dimensions of political bias without more context, but some aspects can be inferred.",
-    "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 1,
-        "federalism": 3,
+        "federalism": 2,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 2
+        "social_inclusion": 1
+    },
+    "critique": "This executive order sets aside land for a Hualapai Indian school. It's difficult to assess its ideological tilt without more context, but given the time period, it likely reflects a paternalistic approach towards Native Americans. Immigration is not addressed. Executive power is somewhat expanded as the order sets aside land. Federalism is strengthened as the federal government is making decisions about land use. National security vs. civil liberties is not directly addressed. Economic regulation is not directly addressed. Social inclusion is somewhat addressed by providing for the education of Hualapai Indians, but it's also a reflection of the assimilationist policies of the time.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 1
     }
 }

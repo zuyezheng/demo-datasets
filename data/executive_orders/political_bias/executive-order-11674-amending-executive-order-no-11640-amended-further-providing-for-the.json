@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document is an amendment to an executive order regarding economic stabilization, specifically concerning price controls on raw agricultural products. It removes price controls until after the first sale, indicating a move towards deregulation in that specific sector.",
-    "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": -2,
+        "social_inclusion": 0
+    },
+    "critique": "This document amends a previous executive order to exclude raw agricultural products from price controls until their first sale. This suggests a move towards deregulation in the agricultural sector. There is no information related to immigration, executive power, federalism, national security vs. civil liberties, or social inclusion. The ideological tilt is slightly conservative as it favors deregulation. Therefore, the initial scores are: Ideological Tilt: -1, Immigration: 0, Executive Power: 0, Federalism: 0, National Security vs. Civil Liberties: 0, Economic Regulation: -2, Social Inclusion: 0. Upon further reflection, the change is very specific and limited to a single sector. The impact on the overall economy is likely small. Therefore, the ideological tilt and economic regulation scores should be closer to neutral. The revised scores are: Ideological Tilt: 0, Immigration: 0, Executive Power: 0, Federalism: 0, National Security vs. Civil Liberties: 0, Economic Regulation: -1, Social Inclusion: 0.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     }
 }

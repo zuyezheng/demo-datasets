@@ -2,18 +2,18 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order regarding the transfer of printing and duplicating services from the Office of Administration in the Executive Office of the President to the Department of the Navy. It primarily deals with government administration and resource allocation.",
+    "critique": "This document is an executive order regarding the transfer of printing and duplicating services from the Office of Administration in the Executive Office of the President to the Department of the Navy. It seems to be an administrative matter with no clear ideological leaning. Therefore, most of the scores should be neutral. There's no impact on immigration, civil liberties, economic regulation, or social inclusion. It might slightly expand executive power by reassigning responsibilities, but it's a minor adjustment. It doesn't significantly affect federalism.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0

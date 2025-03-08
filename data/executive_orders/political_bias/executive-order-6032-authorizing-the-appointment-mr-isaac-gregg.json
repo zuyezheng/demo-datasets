@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document is a short executive order regarding the appointment of Isaac Gregg to a classified service position without compliance with civil-service rules. It is difficult to assess the political bias and sentiment of such a document, as it does not contain explicit statements on ideological tilt, immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion. However, we can make some inferences based on the nature of the order.",
+    "critique": "This document is a short executive order regarding the appointment of Isaac Gregg to a classified position in the Post Office Department without compliance with civil service rules. It is difficult to assess the political bias of this document along most of the axes because it is a very specific personnel decision. However, some axes can be evaluated. The order is issued upon the recommendation of the Postmaster General, suggesting a degree of executive discretion. The document does not seem to have a direct impact on immigration, federalism, national security vs. civil liberties, economic regulation, or social inclusion. The ideological tilt is difficult to assess without more context, but it could be argued that bypassing civil service rules might be seen as slightly conservative, favoring efficiency or patronage over established procedures. The expansion of executive power is minimal, as it pertains to a single appointment, but it does represent a slight circumvention of established rules.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 1,
         "federalism": 0,

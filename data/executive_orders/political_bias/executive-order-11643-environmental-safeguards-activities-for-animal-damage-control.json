@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 2,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
-    },
-    "critique": "The document restricts the use of chemical toxicants on federal lands to protect wildlife and the environment. This aligns with environmental protection policies typically supported by liberal ideologies. The order also emphasizes consultation with various secretaries and the EPA administrator, indicating a balanced approach to executive power.",
-    "revised_scores": {
-        "ideological_tilt": 3,
-        "immigration": 0,
-        "executive_power": -1,
-        "federalism": 1,
-        "security_liberty": 1,
         "economic_regulation": 2,
-        "social_inclusion": 1
+        "social_inclusion": 3
+    },
+    "critique": "The document restricts the use of chemical toxicants on federal lands, which aligns with environmental protection and conservation. This leans slightly liberal on the ideological tilt. It doesn't directly address immigration, executive power, or federalism. It balances environmental concerns with potential emergency use, suggesting a balanced approach to security vs. liberty. It involves government intervention in regulating the use of chemicals, indicating moderate intervention. It promotes environmental quality and wildlife conservation, aligning with diversity and pluralism in the natural world.",
+    "revised_scores": {
+        "ideological_tilt": 2,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 2,
+        "social_inclusion": 3
     }
 }

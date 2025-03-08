@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
-        "immigration": 0,
+        "ideological_tilt": 4,
+        "immigration": 4,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 0
+        "social_inclusion": 4
     },
-    "critique": "The document is a presidential order that aims to ensure all residents of the United States, regardless of immigration status, are counted in the census for the purpose of congressional representation. It emphasizes the importance of equal representation and respect for all persons, aligning with liberal values. It also revokes previous policies that sought to exclude undocumented immigrants from the apportionment base.",
+    "critique": "This document is an executive order that reverses a previous policy of excluding undocumented immigrants from the census count for apportionment purposes. It emphasizes the importance of including all residents in the census, regardless of immigration status, to ensure equal representation. It aligns with a liberal stance on immigration and social inclusion. It does not expand executive power, but rather reinforces existing constitutional and statutory requirements. It also doesn't seem to have a direct impact on economic regulation, federalism, or national security vs. civil liberties.",
     "revised_scores": {
-        "ideological_tilt": 5,
-        "immigration": 5,
+        "ideological_tilt": 4,
+        "immigration": 4,
         "executive_power": 0,
-        "federalism": 5,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": 5
+        "social_inclusion": 4
     }
 }

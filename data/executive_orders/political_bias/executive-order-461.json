@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -2,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 1,
+        "federalism": 4,
+        "security_liberty": 3,
+        "economic_regulation": 3,
         "social_inclusion": 0
     },
-    "critique": "The document centralizes power in the executive branch, specifically the Attorney General, to oversee the seizure and condemnation of property of rebels and traitors. This suggests a strong federal control and a focus on security over individual liberties in a time of insurrection.",
+    "critique": "This document, issued during the Civil War, concerns the confiscation of property from rebels and traitors. It directs the Attorney-General to oversee proceedings related to both the 1861 and 1862 acts of Congress concerning this confiscation. Given the context of the Civil War, the document reflects a strong federal control and a prioritization of national security. The ideological tilt is towards preserving the Union, which could be seen as a conservative stance in that specific historical context. There is no direct impact on immigration or social inclusion. The expansion of executive power is moderate, as it directs the Attorney-General, but it doesn't create new powers. The economic regulation aspect is interventionist, as it involves the government in seizing property.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -2,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
+        "executive_power": 1,
+        "federalism": 4,
         "security_liberty": 3,
-        "economic_regulation": 0,
+        "economic_regulation": 3,
         "social_inclusion": 0
     }
 }

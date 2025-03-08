@@ -1,18 +1,18 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": -1,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -1,
         "social_inclusion": 0
     },
-    "critique": "The document revokes an executive order establishing Federal Regional Councils, suggesting a move away from federal coordination and potentially towards deregulation or decentralization.",
+    "critique": "This executive order revokes a previous order establishing Federal Regional Councils. Without knowing the specifics of Executive Order No. 12314, it's challenging to assess the precise impact on each axis. However, we can make some educated guesses. The revocation suggests a move away from interagency and intergovernmental coordination, potentially favoring deregulation and decentralization. It's unlikely to have a significant impact on immigration, national security vs. civil liberties, or social inclusion. The ideological tilt is difficult to determine without more context, but we can assume a slight conservative leaning if the administration deemed the councils \"no longer needed\". The impact on executive power is likely neutral, as it's simply removing a layer of bureaucracy.",
     "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": -1,
+        "executive_power": 0,
         "federalism": -1,
         "security_liberty": 0,
         "economic_regulation": -1,

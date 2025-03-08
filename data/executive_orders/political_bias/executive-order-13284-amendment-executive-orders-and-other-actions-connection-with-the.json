@@ -2,19 +2,19 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
+        "executive_power": 3,
+        "federalism": 3,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "This document primarily focuses on amending previous executive orders to reflect the establishment and responsibilities of the Department of Homeland Security. It largely deals with administrative and organizational changes within the government, particularly concerning national security and intelligence. There's a clear emphasis on centralizing authority and enhancing security measures in response to potential threats.",
+    "critique": "This executive order primarily amends previous executive orders to reflect the establishment of the Department of Homeland Security. It shifts responsibilities and inserts the Secretary of Homeland Security into various interagency task forces and councils. There's a strong emphasis on national security and intelligence, with the Secretary of Homeland Security being granted authority to classify information as \"Top Secret.\" There isn't a clear indication of ideological tilt, immigration approach, or economic regulation. The order centralizes power within the federal government, specifically within the Department of Homeland Security. Given the focus on national security and intelligence, there's a potential impact on civil liberties.",
     "revised_scores": {
-        "ideological_tilt": 1,
+        "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 3,
         "federalism": 3,
-        "security_liberty": 4,
+        "security_liberty": 3,
         "economic_regulation": 0,
         "social_inclusion": 0
     }

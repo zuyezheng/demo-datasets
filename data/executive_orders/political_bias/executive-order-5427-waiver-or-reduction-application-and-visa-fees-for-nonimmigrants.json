@@ -1,18 +1,18 @@
 {
     "initial_scores": {
         "ideological_tilt": 0,
-        "immigration": 0,
+        "immigration": 1,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,
         "social_inclusion": 0
     },
-    "critique": "The document focuses on visa fees and agreements with foreign countries, indicating a balanced approach to immigration and international relations. It delegates authority to the Secretary of State, suggesting a cooperative balance between executive branches. There's no strong indication of ideological tilt, economic regulation, security vs. liberty concerns, or social inclusion issues. Therefore, most scores are set to neutral, with slight adjustments for immigration and executive power.",
+    "critique": "This document is an executive order regarding visa fees for non-immigrant aliens from countries that offer similar concessions to US citizens. It authorizes the Secretary of State to negotiate agreements with foreign countries to waive or reduce visa fees for their citizens visiting the US, and to issue regulations reducing or abolishing these fees when such agreements cannot be reached, provided the foreign country grants similar privileges to US citizens. The order aims to promote reciprocal visa policies and facilitate international travel. It does not directly address ideological issues, immigration restrictions, executive power, federalism, national security, economic regulation, or social inclusion. Therefore, most axes should be scored as neutral. The immigration approach is slightly open, as it aims to reduce barriers to entry for certain visitors.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 1,
-        "executive_power": 1,
+        "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 0,

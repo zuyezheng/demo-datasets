@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 3,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 4,
         "social_inclusion": 0
     },
-    "critique": "The document reflects President Franklin D. Roosevelt's approval of a Code of Fair Competition for Stock Exchange Firms under the National Industrial Recovery Act of 1933. This act was a key component of the New Deal, a series of programs and projects instituted during the Great Depression to restore prosperity to Americans. The document signifies a strong role for the federal government in regulating the economy and promoting social inclusion through fair competition.",
+    "critique": "This document approves a code of fair competition for stock exchange firms under the National Industrial Recovery Act. This act is a clear example of government intervention in the economy. The document itself doesn't directly address the other axes, but the context of the act suggests a liberal approach to economic regulation. There is no direct impact on immigration, executive power, federalism, national security vs. civil liberties, or social inclusion. Therefore, most of these are scored as neutral.",
     "revised_scores": {
         "ideological_tilt": 3,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 4,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
         "economic_regulation": 4,
-        "social_inclusion": 3
+        "social_inclusion": 0
     }
 }

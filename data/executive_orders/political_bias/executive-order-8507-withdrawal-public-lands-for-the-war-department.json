@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 1,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order withdrawing public lands in California for use by the War Department as an anti-aircraft firing range. It primarily concerns land use and national security. There's no direct indication of ideological tilt, immigration stance, or social inclusion policies. The order centralizes control of these lands under the federal government for military purposes. It also expands executive power to allocate land for military use.",
+    "critique": "This document is an executive order that withdraws public lands in California for use by the War Department as an anti-aircraft firing range. It does not directly address ideological issues, immigration, or social inclusion. It could be argued that allocating land for military use expands executive power and federal control, but this is a fairly standard function of government during that time period (1940). There is a slight impact on economic regulation as it withdraws land from mining and other public-land uses.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 2,
-        "federalism": 3,
-        "security_liberty": 3,
-        "economic_regulation": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 1,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

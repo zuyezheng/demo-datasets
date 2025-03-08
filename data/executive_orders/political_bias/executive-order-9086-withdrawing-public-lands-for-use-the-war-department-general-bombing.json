@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
-        "security_liberty": 0,
-        "economic_regulation": 0,
+        "executive_power": 2,
+        "federalism": 2,
+        "security_liberty": 2,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document describes the withdrawal of public lands for use by the War Department as a general bombing range. This involves executive action and potentially impacts land use and state control.",
+    "critique": "This executive order withdraws public lands for use as a military bombing range. This has implications for multiple axes. Ideologically, it could be seen as slightly conservative due to prioritizing national defense. There's no direct impact on immigration. It expands executive power by withdrawing lands. It leans towards federal primacy by reserving lands for federal use. It prioritizes national security over potential civil liberties related to land use. There's a slight intervention in economic activity by restricting mining. It doesn't directly address social inclusion.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 3,
-        "economic_regulation": 0,
+        "executive_power": 2,
+        "federalism": 2,
+        "security_liberty": 2,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }

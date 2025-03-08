@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 1,
+        "social_inclusion": 2
     },
-    "critique": "The document extends trust periods for Indian lands, preventing alienation. This could be seen as paternalistic but also as protective of indigenous rights. It doesn't clearly align with a specific ideological tilt but leans towards government intervention in land management. It has a neutral stance on immigration, executive power, security vs. liberty, and social inclusion. It centralizes control at the federal level.",
+    "critique": "This executive order extends trust periods for Indian lands, preventing alienation. This seems to protect tribal lands and resources, which could be seen as a form of social inclusion and preservation of indigenous culture. It doesn't directly address economic regulation, executive power, federalism, immigration, or national security vs. civil liberties. However, by maintaining the trust, it leans slightly towards government intervention in land management and potentially restricts individual property rights in favor of communal tribal interests. It is difficult to assess the ideological tilt without more context, but protecting indigenous lands could be seen as a liberal-leaning action.",
     "revised_scores": {
         "ideological_tilt": 1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 3,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 2,
-        "social_inclusion": 0
+        "economic_regulation": 1,
+        "social_inclusion": 2
     }
 }

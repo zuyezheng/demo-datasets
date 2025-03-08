@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": -1,
+        "ideological_tilt": 0,
         "immigration": -3,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 3,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
-        "social_inclusion": -1
+        "social_inclusion": 0
     },
-    "critique": "The document is an executive order from 1940 outlining regulations for the entry of alien seamen into the United States. It distinguishes between seamen entering in pursuit of their calling and those requiring visas, and it outlines procedures for visa applications and documentation. The order reflects concerns about immigration control and national security during that era.",
+    "critique": "This executive order from 1940 concerns the entry of alien seamen into the United States. It outlines regulations for seamen entering U.S. ports, including exceptions for those on American vessels, shipwrecked seamen, and those repatriated by American consuls. It also mandates visa requirements for crew lists of maritime vessels and specifies travel document requirements for alien seamen. The order aims to control and regulate the entry of foreign seamen while making some exceptions. Here's a breakdown of the axes:\n\n1.  Ideological Tilt: 0. The document is primarily regulatory and doesn't strongly align with either liberal or conservative ideologies. It focuses on immigration control, which can be a concern for both sides depending on the specific context.\n2.  Immigration Approach: -3. The document leans towards restrictive immigration policies, particularly concerning alien seamen. The visa requirements and documentation demands suggest a cautious approach to immigration.\n3.  Executive Power: 0. The order is issued under existing legislative authority (acts of 1918 and 1921) and delegates authority to the Secretary of State and the department head charged with immigration laws. It doesn't drastically expand or restrict executive power.\n4.  Federalism: 0. The order doesn't significantly shift power between the federal government and the states. It primarily deals with federal immigration regulations.\n5.  National Security vs. Civil Liberties: 1. The document prioritizes national security to some extent by controlling the entry of foreign seamen. However, it also provides exceptions and regulations that balance security concerns with the needs of maritime commerce.\n6.  Economic Regulation: 0. The order doesn't directly regulate the economy. Its impact on economic activity is indirect, related to maritime commerce and labor.\n7.  Social Inclusion: 0. The document doesn't explicitly address social inclusion or diversity. It focuses on regulating the entry of alien seamen, without specific regard to social or cultural considerations.",
     "revised_scores": {
-        "ideological_tilt": -1,
+        "ideological_tilt": 0,
         "immigration": -3,
-        "executive_power": 3,
-        "federalism": 3,
-        "security_liberty": 3,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 1,
         "economic_regulation": 0,
-        "social_inclusion": -1
+        "social_inclusion": 0
     }
 }

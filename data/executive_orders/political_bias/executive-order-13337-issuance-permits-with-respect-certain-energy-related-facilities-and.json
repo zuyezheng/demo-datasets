@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": -2,
         "social_inclusion": 0
     },
-    "critique": "The document is an executive order focused on streamlining the permitting process for energy-related facilities and land transportation crossings on international borders. It delegates authority to the Secretary of State to receive applications and consult with various federal agencies. The order aims to expedite project completion while maintaining safety, public health, and environmental protections.",
+    "critique": "This executive order aims to streamline the permitting process for energy production, transmission, and certain border crossings. It designates the Secretary of State as the primary recipient of permit applications and establishes a process for inter-agency consultation. The order emphasizes maintaining safety, public health, and environmental protections while expediting project completion. It does not explicitly address immigration policies, civil liberties, or social inclusion. The focus is on energy and infrastructure development, with an emphasis on efficiency and coordination among federal agencies. The order does not appear to expand executive power significantly, as it primarily establishes a process for permit review and inter-agency consultation. It also does not seem to strongly favor either state or federal control, as it involves both federal and potentially state/local government officials in the review process. The order seems to lean towards deregulation by expediting energy projects, but it also emphasizes environmental protections, suggesting a balanced approach.",
     "revised_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 1,
-        "federalism": 1,
+        "executive_power": 0,
+        "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": -1,
+        "economic_regulation": -2,
         "social_inclusion": 0
     }
 }

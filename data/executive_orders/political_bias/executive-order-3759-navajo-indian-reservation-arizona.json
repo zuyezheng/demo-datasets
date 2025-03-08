@@ -1,21 +1,21 @@
 {
     "initial_scores": {
-        "ideological_tilt": 0,
+        "ideological_tilt": -1,
         "immigration": 0,
-        "executive_power": 0,
-        "federalism": 0,
+        "executive_power": 1,
+        "federalism": 3,
         "security_liberty": 0,
-        "economic_regulation": 0,
-        "social_inclusion": 0
+        "economic_regulation": 1,
+        "social_inclusion": -2
     },
-    "critique": "The document describes the elimination of a 13.5-acre tract of land from the Navajo Indian Reservation. This action reduces the land available to the Navajo Indians, potentially impacting their economic and social well-being. The document does not explicitly address ideological tilt, immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion. However, the action of reducing the reservation land could be interpreted as a conservative approach that prioritizes economic development or other interests over the rights and needs of the Navajo community.",
+    "critique": "This document pertains to a land transaction involving the Navajo Indian Reservation in 1922. It orders the elimination of a 13.5-acre tract from the reservation created by a previous executive order. Given the historical context, several factors influence the scoring. Ideological Tilt: The document itself doesn't explicitly promote a liberal or conservative ideology. However, the act of reducing Native American land could be viewed as leaning towards a more conservative approach, prioritizing development or other interests over indigenous rights. Immigration Approach: This axis is not relevant as the document does not address immigration. Executive Power: The document is an executive order, which inherently utilizes executive power. However, without knowing the specifics of the original withdrawal and the reasons for this elimination, it's difficult to assess whether it expands or restricts executive power significantly. Federalism: The document involves federal land and Native American affairs, indicating a strong federal role. National Security vs. Civil Liberties: This axis is not directly relevant, although land rights could be considered a civil liberty. Economic Regulation: The document could be seen as facilitating economic activity (e.g., railway access) by adjusting land ownership. Social Inclusion: Reducing reservation land could be seen as detrimental to social inclusion for Native Americans.",
     "revised_scores": {
         "ideological_tilt": -1,
         "immigration": 0,
         "executive_power": 0,
-        "federalism": 0,
+        "federalism": 3,
         "security_liberty": 0,
         "economic_regulation": 0,
-        "social_inclusion": -1
+        "social_inclusion": -2
     }
 }

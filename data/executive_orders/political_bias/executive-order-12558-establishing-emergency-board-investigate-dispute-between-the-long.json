@@ -2,20 +2,20 @@
     "initial_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
-        "executive_power": 0,
+        "executive_power": 1,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     },
-    "critique": "The document establishes an emergency board to investigate a dispute between the Long Island Rail Road and its employees. It does not express strong opinions on ideological tilt, immigration, executive power, federalism, security vs. liberty, economic regulation, or social inclusion. The order is neutral and procedural.",
+    "critique": "This document establishes an emergency board to investigate a dispute between the Long Island Rail Road and its employees. It is a procedural action based on the Railway Labor Act. There is no clear indication of ideological tilt, immigration stance, or social inclusion. It could be argued that it expands executive power by creating the board, but it is also a mandated action under the law. It has a slight impact on economic regulation by preventing changes to the conditions out of which the dispute arose for 120 days.",
     "revised_scores": {
         "ideological_tilt": 0,
         "immigration": 0,
         "executive_power": 0,
         "federalism": 0,
         "security_liberty": 0,
-        "economic_regulation": 0,
+        "economic_regulation": 1,
         "social_inclusion": 0
     }
 }
