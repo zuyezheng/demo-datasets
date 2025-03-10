@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents all pertain to labor disputes that threaten to disrupt interstate commerce. They all establish a board of inquiry or emergency board to investigate the disputes and report findings to the President. Many of the disputes involve railroad companies and their employees, but some involve airlines and other industries like coal mining. The sentiment is neutral, as they are formal declarations.",
+    "tags": [
+        "labor dispute",
+        "interstate commerce",
+        "board of inquiry",
+        "railway labor act",
+        "national mediation board"
+    ],
+    "title": "Presidential Intervention in Labor Disputes",
+    "request": {
+        "cluster": 16,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3532,
+        "output_tokens": 91
+    }
+}

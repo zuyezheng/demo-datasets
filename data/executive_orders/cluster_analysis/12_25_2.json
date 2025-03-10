@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents primarily focus on amending or revoking previous executive orders. They cover a wide range of topics, including science and technology advisory committees, federal holidays, ethics commitments, naturalization procedures, advisory boards, suspension of code provisions, nuclear cooperation, information technology, privatization, discrimination, and chemical weapons. The sentiment is neutral, as they are legal and administrative directives.",
+    "tags": [
+        "Amendments",
+        "Revocations",
+        "Executive Orders",
+        "Policy Changes",
+        "Administrative Directives"
+    ],
+    "title": "Adjustments to Prior Directives",
+    "request": {
+        "cluster": 12,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 9819,
+        "output_tokens": 92
+    }
+}

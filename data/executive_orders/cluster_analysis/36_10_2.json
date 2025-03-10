@@ -1,0 +1,20 @@
+{
+    "analysis": "The documents in this cluster are all executive orders issued by US Presidents. They cover a diverse range of topics, including government accountability, diversity and inclusion policies, recreational services on federal lands, public health, unmanned aircraft systems, refugee admissions, industrial energy efficiency, advisory committees, critical minerals, and crime reduction. Despite the variety, a common thread is the attempt to direct policy and action within the executive branch to address specific issues or concerns.",
+    "tags": [
+        "executive action",
+        "policy direction",
+        "government efficiency",
+        "national security",
+        "economic prosperity",
+        "public safety"
+    ],
+    "title": "Executive Branch Policy & Action Directives",
+    "request": {
+        "cluster": 36,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 12169,
+        "output_tokens": 109
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents in this cluster primarily concern military and governmental directives, appointments, and orders issued by the President or other high-ranking officials during and after the Civil War. They cover a range of topics including military personnel, resource allocation, legal matters, and commercial regulations. The sentiment is generally formal and authoritative, reflecting the official nature of the documents.",
+    "tags": [
+        "Military Directives",
+        "Government Appointments",
+        "Civil War Era",
+        "Commercial Regulations",
+        "Legal Orders"
+    ],
+    "title": "Military and Governmental Directives",
+    "request": {
+        "cluster": 0,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 5066,
+        "output_tokens": 88
+    }
+}

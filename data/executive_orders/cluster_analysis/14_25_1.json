@@ -1,0 +1,25 @@
+{
+    "analysis": "The documents in this cluster all pertain to actions regarding public lands in California. These actions include withdrawing land from settlement, location, sale, or entry for various purposes such as resurveys, military use (bombing ranges, training centers), forest protection (lookout stations, conservation camps), stock-watering, naval purposes, reservoir sites, and Indian purposes. Some orders modify or revoke previous orders related to land use. The documents reflect a range of land management and resource allocation decisions made by the President.",
+    "tags": [
+        "California",
+        "Public Land",
+        "Land Withdrawal",
+        "Land Reservation",
+        "Military Use",
+        "Forest Protection",
+        "Resurvey",
+        "Stock-watering",
+        "Naval Purposes",
+        "Reservoir Sites",
+        "Indian Affairs"
+    ],
+    "title": "California Land Management and Resource Allocation",
+    "request": {
+        "cluster": 14,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 6815,
+        "output_tokens": 134
+    }
+}

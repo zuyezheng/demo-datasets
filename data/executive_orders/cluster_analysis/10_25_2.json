@@ -1,0 +1,20 @@
+{
+    "analysis": "The documents in this cluster primarily concern the modification, withdrawal, or reservation of public lands, often involving specific townships, ranges, and sections. These actions are taken for various purposes, including national monuments, water reserves, experimental stations, power sites, flood control, bird refuges, and war department use. A common theme is the management and allocation of land resources by the federal government.",
+    "tags": [
+        "Land Management",
+        "Public Land",
+        "Withdrawal",
+        "Reservation",
+        "Federal Land",
+        "Land Allocation"
+    ],
+    "title": "Federal Land Management & Resource Allocation",
+    "request": {
+        "cluster": 10,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 7870,
+        "output_tokens": 97
+    }
+}

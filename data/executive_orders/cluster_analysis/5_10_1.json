@@ -1,0 +1,17 @@
+{
+    "analysis": "The documents in this cluster are all executive orders that amend previous executive orders or delegate authority to specific individuals or agencies. They cover a range of topics, including national security, foreign relations, energy, and defense. The sentiment is neutral, as they are legal documents.",
+    "tags": [
+        "amendments",
+        "delegation of authority",
+        "executive powers"
+    ],
+    "title": "Amending Prior Executive Actions and Authority Delegations",
+    "request": {
+        "cluster": 5,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 4740,
+        "output_tokens": 74
+    }
+}

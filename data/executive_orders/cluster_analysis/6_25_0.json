@@ -1,0 +1,29 @@
+{
+    "analysis": "The documents in this cluster all pertain to official government actions, specifically executive orders, related to various aspects of governance, policy implementation, and regulation. They cover a wide range of topics, including environmental justice, emergency preparedness, energy conservation, Native American education, supply chain resilience, foreign service personnel, workforce diversity and inclusion, refugee admissions, civil service, industrial security, HIV/AIDS strategy, economic sanctions, military justice, aviation regulations, and ethical conduct for government employees.",
+    "tags": [
+        "Environmental Justice",
+        "Emergency Preparedness",
+        "Energy Conservation",
+        "Native American Education",
+        "Supply Chain Resilience",
+        "Foreign Service",
+        "Workforce Diversity",
+        "Refugee Admissions",
+        "Civil Service",
+        "Industrial Security",
+        "HIV/AIDS",
+        "Economic Sanctions",
+        "Military Justice",
+        "Aviation Regulations",
+        "Government Ethics"
+    ],
+    "title": "Governmental Directives on Policy and Administration",
+    "request": {
+        "cluster": 6,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 94056,
+        "output_tokens": 140
+    }
+}

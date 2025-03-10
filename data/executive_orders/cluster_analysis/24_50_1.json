@@ -1,0 +1,22 @@
+{
+    "analysis": "The documents in this cluster relate to the withdrawal and restoration of public lands, primarily for the purpose of resurveying townships. The orders specify the land's location using township and range coordinates, referencing the New Mexico Principal Meridian or the Sixth Principal Meridian. The documents either withdraw the land from settlement, location, sale, entry, and all forms of appropriation pending a resurvey, or revoke previous orders that had withdrawn the land for the same purpose. A common theme is the reference to the Act of June 25, 1910, as amended, which provides the authority for these actions. Some orders also mention specific projects or purposes, such as waterworks or stock driveways, but the primary focus is on land resurvey.",
+    "tags": [
+        "Land Withdrawal",
+        "Land Restoration",
+        "Public Land",
+        "Resurvey",
+        "Township",
+        "Range",
+        "New Mexico Principal Meridian",
+        "Sixth Principal Meridian"
+    ],
+    "title": "Land Actions for Resurvey",
+    "request": {
+        "cluster": 24,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 10870,
+        "output_tokens": 179
+    }
+}

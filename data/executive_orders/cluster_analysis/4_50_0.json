@@ -1,0 +1,22 @@
+{
+    "analysis": "The documents primarily concern the transfer of land and resources between different federal departments and agencies, adjustments to national forest boundaries, establishment of wildlife refuges, and designation of land for specific purposes such as military use, lighthouse construction, and administrative facilities. Many documents involve the Department of Agriculture and the Department of Interior, with frequent references to national forests and land acquired under specific acts like the Bankhead-Jones Farm Tenant Act. Some documents also address labor disputes in the railroad and mining industries, and the establishment of commissions to advise on agricultural policies.",
+    "tags": [
+        "Land Transfer",
+        "Resource Management",
+        "National Forests",
+        "Wildlife Refuges",
+        "Federal Agencies",
+        "Boundary Adjustments",
+        "Agricultural Policy",
+        "Labor Disputes"
+    ],
+    "title": "Federal Land and Resource Transfers & Designations",
+    "request": {
+        "cluster": 4,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 34234,
+        "output_tokens": 136
+    }
+}

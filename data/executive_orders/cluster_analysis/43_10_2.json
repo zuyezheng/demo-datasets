@@ -1,0 +1,27 @@
+{
+    "analysis": "The documents in this cluster primarily concern the establishment, modification, or termination of committees, groups, or administrations. They also cover topics such as financial markets, education for historically Black colleges and universities, international organizations, land use, export controls, private enterprise in international development, migratory bird conservation, government efficiency, Philippine property, and industrial competitiveness. The sentiment is generally neutral, focusing on the administrative actions being taken.",
+    "tags": [
+        "Committee",
+        "Group",
+        "Administration",
+        "Financial Markets",
+        "Education",
+        "International Organizations",
+        "Land Use",
+        "Export Controls",
+        "International Development",
+        "Migratory Birds",
+        "Government Efficiency",
+        "Philippine Property",
+        "Industrial Competitiveness"
+    ],
+    "title": "Establishment and Termination of Governmental Entities and Initiatives",
+    "request": {
+        "cluster": 43,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 6627,
+        "output_tokens": 118
+    }
+}

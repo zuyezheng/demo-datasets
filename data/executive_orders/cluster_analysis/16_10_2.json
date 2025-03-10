@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents all pertain to labor disputes within the transportation industry (railways and airlines). They all invoke the Railway Labor Act and establish a board of three members to investigate the dispute and report findings to the President within 30 days. A common theme is the potential disruption to interstate commerce and essential transportation services. The sentiment is neutral, focusing on the legal and procedural aspects of addressing the disputes.",
+    "tags": [
+        "labor dispute",
+        "railway labor act",
+        "transportation",
+        "interstate commerce",
+        "mediation board"
+    ],
+    "title": "Emergency Boards to Investigate Transportation Labor Disputes",
+    "request": {
+        "cluster": 16,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3831,
+        "output_tokens": 101
+    }
+}

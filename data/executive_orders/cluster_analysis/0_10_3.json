@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents in this cluster primarily concern military and governmental directives, spanning from the Civil War era to the late 19th century. Key themes include military orders, naval actions, legal proceedings, and governmental administration. The sentiment is generally formal and authoritative, reflecting the official nature of the documents.",
+    "tags": [
+        "Military Directives",
+        "Governmental Administration",
+        "Civil War Era",
+        "Legal Proceedings",
+        "Naval Actions"
+    ],
+    "title": "Military and Governmental Directives",
+    "request": {
+        "cluster": 0,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3140,
+        "output_tokens": 79
+    }
+}

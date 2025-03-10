@@ -1,0 +1,22 @@
+{
+    "analysis": "The documents primarily concern land management and resource allocation. They involve transferring land between government entities (e.g., Tennessee Valley Authority and Department of Agriculture), reserving fissionable materials for the U.S. government, adjusting national forest boundaries, and addressing labor disputes in the railway industry. The documents reflect government actions related to conservation, resource control, and labor relations.",
+    "tags": [
+        "Land Management",
+        "Resource Allocation",
+        "Governmental Transfers",
+        "National Forests",
+        "Labor Disputes",
+        "Railway Industry",
+        "Conservation",
+        "Fissionable Materials"
+    ],
+    "title": "Land Transfers, Resource Reservations, and Labor Dispute Resolutions",
+    "request": {
+        "cluster": 4,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 10847,
+        "output_tokens": 104
+    }
+}

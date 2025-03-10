@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents in this cluster are all executive orders that amend previous executive orders. The amendments cover a wide range of topics, including changes to the membership of committees and councils, adjustments to the executive schedule levels, modifications to agency responsibilities, and alterations to the order of succession for certain positions. The sentiment is neutral, as these are administrative changes.",
+    "tags": [
+        "Amendment",
+        "Executive Order",
+        "Committee",
+        "Council",
+        "Executive Schedule",
+        "Agency",
+        "Succession"
+    ],
+    "title": "Amending Prior Directives",
+    "request": {
+        "cluster": 1,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 12246,
+        "output_tokens": 87
+    }
+}

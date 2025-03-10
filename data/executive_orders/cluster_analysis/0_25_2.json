@@ -1,0 +1,23 @@
+{
+    "analysis": "The documents in this cluster primarily concern military and governmental orders, appointments, and directives, often related to the Civil War and Reconstruction eras. They cover a range of topics including military administration, troop mobilization, treatment of civilians in occupied territories, resource allocation, and recognition of military achievements. The sentiment is generally formal and authoritative, reflecting the official nature of the documents.",
+    "tags": [
+        "Military Orders",
+        "Government Directives",
+        "Civil War",
+        "Reconstruction",
+        "Appointments",
+        "Resource Allocation",
+        "Troop Mobilization",
+        "Recognition",
+        "Civilian Treatment"
+    ],
+    "title": "Military and Governmental Management",
+    "request": {
+        "cluster": 0,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 7145,
+        "output_tokens": 98
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents in this cluster all relate to the establishment, modification, or termination of task forces, committees, or councils within the Executive Branch. These groups are often advisory in nature, focusing on specific policy areas such as family reunification, market integrity, military justice, transgender military service, healthcare access, youth sports, faith-based partnerships, international religious freedom, counter-terrorism, Iraq's financial stability, Iran's assets, veteran suicide prevention, government management, trade deficits, Burma's democracy, Sierra Leone's diamond trade, open government data, urban affairs, opportunity zones, Sudan's actions, financial capability, ocean policy, COVID-19 vaccine mandates, identity theft, and AI innovation. The documents also share a common structure, typically including sections on policy, establishment, membership, functions, administration, and general provisions.",
+    "tags": [
+        "Executive Branch Organization",
+        "Task Force",
+        "Committee",
+        "Council",
+        "Advisory Role",
+        "Policy Implementation",
+        "Interagency Coordination"
+    ],
+    "title": "Executive Branch Task Forces and Advisory Groups",
+    "request": {
+        "cluster": 8,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 60580,
+        "output_tokens": 194
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "analysis": "The documents consist of executive orders addressing a variety of topics, including labor-management relations, military justice, retirement plans, transnational criminal organizations, immigration, Iranian assets, actions in Serbia and Montenegro, federal holiday for a former president, violence in Iraq, and the Foreign Corrupt Practices Act. They share a common structure and legal basis, but their subject matter varies widely.",
+    "tags": [
+        "Executive action",
+        "Presidential directive",
+        "Policy implementation",
+        "Legal authority",
+        "National security",
+        "Economic policy",
+        "Foreign policy",
+        "Regulatory review",
+        "Government operations"
+    ],
+    "title": "Executive Actions Across Diverse Policy Areas",
+    "request": {
+        "cluster": 8,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 10356,
+        "output_tokens": 102
+    }
+}

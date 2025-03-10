@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents primarily concern amendments and revocations of previous executive orders. They delegate presidential functions to various departments and agencies, establish or terminate councils and boards, and address international agreements and domestic policies. The documents modify existing orders by changing numbers, adding members to commissions, or extending reporting deadlines. They also revoke previous orders, often specifying that the revocation does not affect violations that occurred while the order was in effect.",
+    "tags": [
+        "Executive Order Amendments",
+        "Revocation of Orders",
+        "Delegation of Authority",
+        "Policy Changes",
+        "Government Restructuring"
+    ],
+    "title": "Modifications and Delegations of Executive Authority",
+    "request": {
+        "cluster": 12,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 5790,
+        "output_tokens": 108
+    }
+}

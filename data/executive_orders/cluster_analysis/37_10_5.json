@@ -1,0 +1,23 @@
+{
+    "analysis": "The documents consist of announcements and orders related to mourning periods, closures of government departments, and commemorative ceremonies following deaths of government officials, military personnel, and national figures. They express respect, sorrow, and gratitude. Some documents also concern days of remembrance for soldiers.",
+    "tags": [
+        "Mourning",
+        "Remembrance",
+        "Government Closure",
+        "National Figures",
+        "Military",
+        "Death",
+        "Respect",
+        "Sorrow",
+        "Commemoration"
+    ],
+    "title": "Governmental Mourning and Remembrance",
+    "request": {
+        "cluster": 37,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 1996,
+        "output_tokens": 77
+    }
+}

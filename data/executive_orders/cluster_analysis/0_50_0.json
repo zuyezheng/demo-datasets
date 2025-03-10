@@ -1,0 +1,20 @@
+{
+    "analysis": "The documents in this cluster consist of orders, directives, and communications issued by U.S. Presidents and government officials, primarily related to military and administrative matters. They cover a range of topics including military appointments, conduct of war, treatment of prisoners, management of territories, and internal government operations. The sentiment is generally formal and authoritative, reflecting the official nature of the documents.",
+    "tags": [
+        "Military",
+        "Administrative",
+        "Government Operations",
+        "Appointments",
+        "Territories",
+        "War Conduct"
+    ],
+    "title": "Military and Administrative Directives",
+    "request": {
+        "cluster": 0,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 15166,
+        "output_tokens": 93
+    }
+}

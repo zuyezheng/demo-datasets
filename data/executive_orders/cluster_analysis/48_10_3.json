@@ -1,0 +1,23 @@
+{
+    "analysis": "The documents in this cluster primarily concern executive actions related to national security, foreign policy, and economic issues. Document 4 focuses on the revocation and amendment of executive orders related to Iran sanctions following the Joint Comprehensive Plan of Action (JCPOA). Document 5 declares a national emergency regarding vulnerabilities in information and communications technology and services due to foreign adversaries. Document 10 addresses the selective service deferment of employees in the Executive branch during World War II to conserve manpower and support the war effort. The common thread is the use of executive authority to address perceived threats or critical needs related to national security, economic stability, or international relations.",
+    "tags": [
+        "National Security",
+        "Economic Policy",
+        "Foreign Policy",
+        "Sanctions",
+        "Manpower",
+        "Wartime Directives",
+        "Cybersecurity",
+        "Iran",
+        "International Relations"
+    ],
+    "title": "Executive Actions on National Security, Economic, and Wartime Concerns",
+    "request": {
+        "cluster": 48,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 9415,
+        "output_tokens": 160
+    }
+}

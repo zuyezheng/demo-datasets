@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents in this cluster primarily concern military and naval affairs, including regulations for personnel, pay, allowances, benefits, and administration of military justice. They cover a wide range of topics such as pay adjustments, clothing allowances, burial expenses, medical care eligibility, leave of absence, and the establishment of military tribunals. The documents also address the activation of National Guard units and the appointment of personnel to various positions within the military and related agencies.",
+    "tags": [
+        "military personnel",
+        "pay and allowances",
+        "veterans benefits",
+        "military justice",
+        "national guard",
+        "military tribunals",
+        "personnel management"
+    ],
+    "title": "Military Personnel, Compensation, and Administration",
+    "request": {
+        "cluster": 29,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 19956,
+        "output_tokens": 114
+    }
+}

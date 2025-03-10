@@ -1,0 +1,20 @@
+{
+    "analysis": "The documents all concern the designation of acting officials in the event of absence, resignation, or death of the primary office holder. They establish an order of succession for various departments and roles, including Treasury, Commerce, State, Agriculture, Interior, and the District of Columbia. Some orders revoke previous orders on the same subject.",
+    "tags": [
+        "succession",
+        "acting official",
+        "department",
+        "vacancy",
+        "absence",
+        "designation"
+    ],
+    "title": "Acting Official Succession Designations",
+    "request": {
+        "cluster": 15,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3050,
+        "output_tokens": 82
+    }
+}

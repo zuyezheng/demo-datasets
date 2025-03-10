@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents in this cluster are all executive orders that amend previous executive orders. The amendments typically involve changes to the composition of committees, councils, or boards, adjustments to salary levels for specific positions, or modifications to the responsibilities and functions of government entities. The documents cover a wide range of topics, including national security, international affairs, economic policy, consumer affairs, and government administration.",
+    "tags": [
+        "executive order amendment",
+        "committee composition",
+        "salary schedule",
+        "government administration",
+        "organizational change"
+    ],
+    "title": "Amending Existing Executive Orders",
+    "request": {
+        "cluster": 1,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 12260,
+        "output_tokens": 97
+    }
+}

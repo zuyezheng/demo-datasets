@@ -1,0 +1,18 @@
+{
+    "analysis": "The documents consist of executive orders that delegate authority or establish boards and positions within the government. They cover a range of topics including labor disputes, pay adjustments, foreign service, child support enforcement, coal industry regulations, property administration, employment of individuals with disabilities, contracting with veteran businesses, health information technology, and drug policy. The sentiment is neutral as they are official directives.",
+    "tags": [
+        "Government Administration",
+        "Delegation of Authority",
+        "Establishment of Boards",
+        "Executive Branch Operations"
+    ],
+    "title": "Governmental Authority Delegations and Administrative Actions",
+    "request": {
+        "cluster": 43,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 6492,
+        "output_tokens": 98
+    }
+}

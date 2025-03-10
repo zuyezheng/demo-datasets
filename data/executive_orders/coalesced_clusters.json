@@ -1,0 +1,1130 @@
+[
+    {
+        "analysis": "Based on the meta-analysis of 16 samples, the documents consistently address military and veteran affairs, focusing on regulations, personnel management, compensation, and benefits. A recurring theme is the amendment and modification of existing regulations to adapt to changing circumstances, including wartime adjustments and peacetime administration. The documents cover various branches of the U.S. Armed Forces, including the Coast Guard, and address topics such as pay adjustments, allowances, service requirements, military justice, and delegation of authority. The sentiment across all samples is neutral, reflecting the legal and administrative nature of the documents.",
+        "tags": [
+            "Military Personnel",
+            "Veteran Affairs",
+            "Regulations",
+            "Compensation",
+            "Benefits",
+            "Personnel Management",
+            "Amendments",
+            "Coast Guard",
+            "Military Justice"
+        ],
+        "title": "Military and Veteran Personnel: Regulation Amendments and Management",
+        "cluster": 29,
+        "stats": {
+            "input_tokens": 2104,
+            "output_tokens": 145
+        }
+    },
+    {
+        "analysis": "The documents in this cluster are all executive orders that amend previous executive orders. The amendments cover a wide range of topics, including changes to the membership of committees and councils, adjustments to the executive schedule levels, modifications to agency responsibilities, and alterations to the order of succession for certain positions. The sentiment is neutral, as these are administrative changes.",
+        "tags": [
+            "Amendment",
+            "Executive Order",
+            "Committee",
+            "Council",
+            "Executive Schedule",
+            "Agency",
+            "Succession"
+        ],
+        "title": "Amendments to Executive Orders: Government Structure and Personnel",
+        "cluster": 1,
+        "stats": {
+            "input_tokens": 1841,
+            "output_tokens": 94
+        }
+    },
+    {
+        "analysis": "This document cluster contains executive orders and other directives that amend or establish regulations and policies across a wide range of topics. These topics include military service, cybersecurity, emergency preparedness, public health, federal architecture, and more. The common thread is the use of executive authority to modify existing governmental frameworks and address emerging challenges.",
+        "tags": [
+            "Executive Orders",
+            "Government Regulations",
+            "Policy Amendments",
+            "National Security",
+            "Public Health",
+            "Emergency Preparedness",
+            "Cybersecurity",
+            "Military",
+            "Federal Architecture"
+        ],
+        "title": "Executive Actions Modifying Government Regulations and Policies",
+        "cluster": 47,
+        "stats": {
+            "input_tokens": 2041,
+            "output_tokens": 92
+        }
+    },
+    {
+        "analysis": "Based on the meta-analysis of 16 samples, the documents in this cluster primarily concern amendments, modifications, and regulations related to international relations, trade, maritime activities, immigration, consular services, and the Panama Canal. They cover topics such as passport and visa requirements, foreign service regulations, tariffs, fees, vessel operations, and administrative procedures. The sentiment is neutral, focusing on legal and administrative actions.",
+        "tags": [
+            "International Relations",
+            "Trade Regulations",
+            "Maritime Regulations",
+            "Immigration",
+            "Consular Services",
+            "Panama Canal",
+            "Amendments",
+            "Regulations",
+            "Tariffs",
+            "Fees",
+            "Foreign Service",
+            "Vessel Operations",
+            "Administrative Procedures"
+        ],
+        "title": "International Trade, Immigration, and Canal Regulations",
+        "cluster": 39,
+        "stats": {
+            "input_tokens": 2006,
+            "output_tokens": 119
+        }
+    },
+    {
+        "analysis": "Based on the meta-analysis of 16 samples, the documents in this cluster consist of executive orders and other presidential directives addressing a wide array of national and international issues. A recurring theme is the establishment and modification of interagency task forces, committees, and councils to coordinate efforts across various government agencies. The documents also frequently address foreign policy concerns, including sanctions, international relations, and national security threats. Economic measures, such as trade restrictions and asset blocking, are also prominent. Many directives focus on policy implementation, regulatory reform, and emergency response. The documents reflect the use of presidential authority to direct government action and policy across diverse sectors.",
+        "tags": [
+            "Executive Orders",
+            "Presidential Directives",
+            "Interagency Coordination",
+            "Foreign Policy",
+            "National Security",
+            "Economic Measures",
+            "Policy Implementation",
+            "Regulatory Reform",
+            "Emergency Response",
+            "Government Coordination",
+            "International Relations",
+            "Sanctions",
+            "Task Forces",
+            "Advisory Councils"
+        ],
+        "title": "Presidential Directives on National and International Governance",
+        "cluster": 8,
+        "stats": {
+            "input_tokens": 2296,
+            "output_tokens": 169
+        }
+    },
+    {
+        "analysis": "Based on the meta-analysis of 16 samples, the documents in this cluster primarily concern executive actions, regulations, and policy implementations across various governmental departments and agencies. They address a diverse range of topics, including national security, land management, labor relations, environmental protection, economic policy, and civil service. A common thread is the use of executive authority to direct government actions, implement policies, and respond to national challenges and emergencies. The documents reflect the government's role in regulating various sectors, ensuring ethical conduct, and adapting to changing circumstances.",
+        "tags": [
+            "Executive Action",
+            "Government Regulations",
+            "Policy Implementation",
+            "National Security",
+            "Land Management",
+            "Labor Relations",
+            "Environmental Protection",
+            "Economic Policy",
+            "Civil Service",
+            "Presidential Directives",
+            "Governmental Frameworks",
+            "Regulatory Modifications",
+            "Delegation of Authority",
+            "Crisis Management",
+            "International Relations"
+        ],
+        "title": "Executive Actions: Directing National Policy and Governance",
+        "cluster": 6,
+        "stats": {
+            "input_tokens": 2184,
+            "output_tokens": 157
+        }
+    },
+    {
+        "analysis": "The documents relate to modifications of customs ports of entry and collection districts, including creation, abolishment, extension of limits, name changes, and boundary adjustments. They all invoke the authority of the Act of August 1, 1914, and are signed by Presidents Hoover, Roosevelt, or Truman. The documents specify locations and effective dates for these changes.",
+        "tags": [
+            "Customs Ports",
+            "Ports of Entry",
+            "Customs Collection Districts",
+            "Geographic Boundaries",
+            "Act of August 1, 1914",
+            "Presidential Actions",
+            "Trade Regulations"
+        ],
+        "title": "Customs Ports of Entry and Collection Districts: Modifications and Adjustments",
+        "cluster": 34,
+        "stats": {
+            "input_tokens": 1761,
+            "output_tokens": 114
+        }
+    },
+    {
+        "analysis": "Based on the meta-analysis of the provided samples, the documents in this cluster primarily consist of executive orders and related governmental actions that address a diverse range of national issues. These actions often involve the establishment, modification, or delegation of authority within government agencies and departments. Key themes include resource management (land, water, energy), economic policy, national security, and responses to national emergencies. The documents reflect the government's role in adapting to evolving challenges and implementing policies across various sectors.",
+        "tags": [
+            "Executive Orders",
+            "Governmental Actions",
+            "Resource Management",
+            "Economic Policy",
+            "National Security",
+            "Policy Implementation",
+            "Interagency Coordination",
+            "Delegation of Authority",
+            "Regulation Adjustment",
+            "National Emergency Response"
+        ],
+        "title": "Governmental Actions on National Issues",
+        "cluster": 26,
+        "stats": {
+            "input_tokens": 2224,
+            "output_tokens": 133
+        }
+    },
+    {
+        "analysis": "The documents in this cluster consist of executive orders that amend, modify, revoke, extend, or delegate authority related to previous executive orders, presidential directives, committees, councils, commissions, or regulations. They cover a wide range of topics, including national security, foreign affairs, economic policy, government administration, public health, trade, and federal employee benefits. The sentiment is neutral, as they are legal and administrative directives.",
+        "tags": [
+            "Executive Order Amendments",
+            "Executive Order Revocations",
+            "Executive Order Extensions",
+            "Executive Order Modifications",
+            "Delegation of Authority",
+            "Government Administration",
+            "Regulatory Adjustments",
+            "Presidential Directives",
+            "Committees and Councils",
+            "Commissions"
+        ],
+        "title": "Adjustments to Existing Executive Orders and Delegations of Authority",
+        "cluster": 12,
+        "stats": {
+            "input_tokens": 1773,
+            "output_tokens": 128
+        }
+    },
+    {
+        "analysis": "The documents in this cluster primarily concern the implementation, modification, and administration of the National Industrial Recovery Act (NIRA) of 1933 and related legislation. They cover a range of topics including fair competition codes, labor standards, wage adjustments, the establishment of committees and boards, and delegation of authority across various industries. The sentiment is generally focused on economic recovery, industrial regulation, and fair labor practices during the Great Depression and subsequent periods.",
+        "tags": [
+            "National Industrial Recovery Act",
+            "Fair Competition",
+            "Labor Regulations",
+            "Economic Recovery",
+            "Industrial Regulation",
+            "Delegation of Authority",
+            "Great Depression",
+            "New Deal",
+            "Labor Standards",
+            "Wage Adjustments",
+            "Government Committees",
+            "Industry Regulation"
+        ],
+        "title": "National Industrial Recovery Act (NIRA) Implementation and Industry Regulation",
+        "cluster": 28,
+        "stats": {
+            "input_tokens": 2231,
+            "output_tokens": 135
+        }
+    },
+    {
+        "analysis": "Based on the analysis of the provided documents, the cluster pertains to the establishment, modification, and administration of land reservations for Native American tribes in the United States, primarily from the late 19th to early 20th century. The documents define geographical boundaries, withdraw land from public sale, and address land use and resource management within these reservations. Recurring themes include boundary adjustments, land allotments, and the government's role in managing these territories. The documents reflect the historical relationship between the U.S. government and Native American tribes regarding land rights and resource allocation.",
+        "tags": [
+            "Native American Land",
+            "Land Reservation",
+            "Boundary Definition",
+            "Tribal Lands",
+            "Government Land Management",
+            "Land Use",
+            "Public Land Withdrawal",
+            "Territorial Administration",
+            "Resource Management"
+        ],
+        "title": "Native American Land Reservations: Establishment, Modification, and Administration",
+        "cluster": 27,
+        "stats": {
+            "input_tokens": 1876,
+            "output_tokens": 154
+        }
+    },
+    {
+        "analysis": "The documents pertain to presidential exemptions from mandatory retirement for government employees, typically for one-year periods, based on the judgment that their continued service is in the public interest. The exemptions cite legal authority such as section 204 of the act of June 30, 1932, or Section 8335 of Title 5 of the United States Code. The employees hold various positions across different government departments and agencies, and the exemptions span multiple presidential administrations.",
+        "tags": [
+            "Retirement Exemption",
+            "Government Employee",
+            "Public Interest",
+            "Presidential Action",
+            "Act of June 30, 1932"
+        ],
+        "title": "Presidential Exemptions to Mandatory Retirement for Government Employees",
+        "cluster": 19,
+        "stats": {
+            "input_tokens": 2045,
+            "output_tokens": 132
+        }
+    },
+    {
+        "analysis": "The documents in this cluster concern the establishment, modification, and revocation of land reservations and withdrawals for various purposes, including resource management, military use, and public works. They specify land descriptions using the Public Land Survey System and cite the legal authority under which the actions are taken, mainly the act of June 25, 1910, as amended. The documents involve actions taken by multiple presidents.",
+        "tags": [
+            "Land Management",
+            "Public Land",
+            "Land Reservation",
+            "Land Withdrawal",
+            "Resource Management",
+            "Revocation",
+            "Modification",
+            "Public Land Survey System",
+            "Military Use"
+        ],
+        "title": "Land Reservation and Withdrawal Management",
+        "cluster": 10,
+        "stats": {
+            "input_tokens": 2209,
+            "output_tokens": 111
+        }
+    },
+    {
+        "analysis": "Based on the meta-analysis of the provided samples, the documents in this cluster primarily consist of orders, directives, and communications issued by U.S. Presidents and government officials, particularly the War Department, spanning from the Civil War era through the early 20th century. The documents cover a range of topics including military actions, appointments, governance of territories, legal proceedings, resource allocation, and administrative matters. A recurring theme is the management of military affairs, post-Civil War reconstruction, and governance of newly acquired territories like the Philippines and Cuba. The sentiment is generally formal and authoritative, reflecting the official nature of the documents.",
+        "tags": [
+            "Military Directives",
+            "Governmental Administration",
+            "Civil War Era",
+            "Reconstruction",
+            "Legal Proceedings",
+            "Presidential Orders",
+            "War Department Orders",
+            "Territorial Governance",
+            "Appointments",
+            "Administrative Orders"
+        ],
+        "title": "Military, Reconstruction, and Territorial Governance Directives, Civil War Era to Early 20th Century",
+        "cluster": 0,
+        "stats": {
+            "input_tokens": 2193,
+            "output_tokens": 173
+        }
+    },
+    {
+        "analysis": "Based on the meta-analysis of 16 samples, the documents in this cluster consist of executive orders from different presidential administrations. They share a common theme of establishing councils, working groups, or designating liaisons within federal agencies to address specific issues. The issues range from volunteer community service and food safety to educational resource equity, energy efficiency, international exchanges, and non-proliferation. Many of the orders create advisory bodies or assign responsibilities to existing agencies to study, coordinate, and improve government efforts in these areas. A common sentiment is a commitment to improving the effectiveness and efficiency of government programs through better coordination and strategic planning. The executive orders also cover a diverse range of topics, including privatization of infrastructure, healthcare transparency, relations with Taiwan, software piracy prevention, recreational fishing enhancement, support for Asian Americans and Pacific Islanders, continuation of advisory committees, Coast Guard roles and missions, Iraqi assets control, and support for historically Black colleges and universities. Despite the variety, they share a common theme of directing federal agencies to take specific actions to address national issues and improve government operations.",
+        "tags": [
+            "Interagency Coordination",
+            "Government Efficiency",
+            "Policy Implementation",
+            "Executive Orders",
+            "Federal Agencies",
+            "Government Operations",
+            "Presidential Directives",
+            "Council Establishment",
+            "Committee Establishment",
+            "Task Force Establishment"
+        ],
+        "title": "Executive Orders for Interagency Coordination and Policy Implementation",
+        "cluster": 32,
+        "stats": {
+            "input_tokens": 2346,
+            "output_tokens": 251
+        }
+    },
+    {
+        "analysis": "Based on the meta-analysis of 16 samples, the documents consistently concern the withdrawal, reservation, and management of public lands by the US government, often for specific purposes such as military use, national forests, wildlife refuges, flood control, and forest service facilities. A recurring theme is the temporary nature of these withdrawals, pending further action or specific project completion. Many orders modify or revoke previous orders related to land use. The documents frequently cite the Act of June 25, 1910, as amended, as the legal basis for these actions. The documents span multiple presidential administrations (Hoover, Roosevelt, Truman) and reference specific acts of Congress related to land management. The documents specify land descriptions using township, range, and section coordinates.",
+        "tags": [
+            "Land Withdrawal",
+            "Public Land",
+            "Land Reservation",
+            "Resource Management",
+            "Military Use",
+            "Forest Service",
+            "Flood Control",
+            "Wildlife Refuge",
+            "Governmental Use",
+            "Revocation",
+            "Land Management",
+            "Conservation",
+            "Federal Land",
+            "Temporary Withdrawal",
+            "Soil Erosion Control",
+            "Water Resources",
+            "Air Navigation",
+            "Elk Refuge",
+            "Ranger Station",
+            "Lookout Station"
+        ],
+        "title": "Federal Land Withdrawal and Reservation for Public Purposes",
+        "cluster": 20,
+        "stats": {
+            "input_tokens": 2576,
+            "output_tokens": 209
+        }
+    },
+    {
+        "analysis": "The documents in this cluster primarily concern actions taken by the US government, particularly the President, during times of war or national emergency, primarily during World War II and the early Cold War era. A recurring theme is the authorization of government officials to take control of private industries, facilities, or resources deemed essential. This includes addressing labor disputes, ensuring the production of war materials, managing resources, and coordinating various agencies. Many orders address labor disputes and authorize the seizure of facilities to maintain production. A common thread is the invocation of powers granted by the Constitution, specific acts of Congress (like the First and Second War Powers Acts), and declarations of national emergency. Some orders also deal with the transfer of resources and facilities from military to civilian control as the war winds down. The sentiment is serious and focused on national security and efficient resource management.",
+        "tags": [
+            "Wartime Powers",
+            "National Emergency",
+            "Economic Mobilization",
+            "Resource Control",
+            "Civil Defense",
+            "War Effort",
+            "Labor Disputes",
+            "Government Control",
+            "Agency Coordination",
+            "Production",
+            "Seizure of Facilities",
+            "War Powers",
+            "Defense",
+            "Mobilization",
+            "Delegation of Authority",
+            "Government Reorganization",
+            "National Defense",
+            "Post-War Transition",
+            "Economic Transition",
+            "Financial Support",
+            "Public Information",
+            "Military Reorganization",
+            "National Security",
+            "Economic Stabilization",
+            "Emergency Management",
+            "World War II",
+            "Surplus Property",
+            "Executive Action",
+            "Facility Operation",
+            "Authority Transfer",
+            "Defense Mobilization",
+            "Government Intervention"
+        ],
+        "title": "Federal Control of Resources and Production During Wartime",
+        "cluster": 13,
+        "stats": {
+            "input_tokens": 2327,
+            "output_tokens": 256
+        }
+    },
+    {
+        "analysis": "The documents pertain to labor disputes that threaten to disrupt interstate commerce and/or national safety. These disputes span various industries, including transportation (railroads, airlines, maritime), meat-packing, atomic energy, and others. A consistent response is the creation of presidential boards of inquiry or emergency boards to investigate the disputes and report findings, aiming to prevent strikes and maintain essential services. The Railway Labor Act and the Labor-Management Relations Act are frequently invoked.",
+        "tags": [
+            "labor dispute",
+            "interstate commerce",
+            "national safety",
+            "emergency board",
+            "board of inquiry",
+            "transportation",
+            "mediation",
+            "essential services",
+            "strikes",
+            "lockouts",
+            "Railway Labor Act",
+            "Labor-Management Relations Act"
+        ],
+        "title": "Presidential Boards to Investigate Labor Disputes Threatening Interstate Commerce and National Safety",
+        "cluster": 16,
+        "stats": {
+            "input_tokens": 2020,
+            "output_tokens": 136
+        }
+    },
+    {
+        "analysis": "The documents in this cluster concern the establishment, modification, and authorization of military and civilian awards, medals, decorations, seals, and flags by the President of the United States. These honors are intended to recognize significant contributions and service in various fields, including government service, military service, export expansion, wartime efforts, scientific contributions, and humanitarian efforts. The documents also establish boards and procedures for selecting recipients and defining the criteria for these honors. They cover a range of conflicts and achievements, from World War II to service in Kosovo, Afghanistan, and Iraq, as well as broader recognition for service within the White House and contributions to the American Revolution Bicentennial.",
+        "tags": [
+            "Presidential Recognition",
+            "Military Awards",
+            "Civilian Awards",
+            "Medals",
+            "Decorations",
+            "Seals",
+            "Flags",
+            "Government Honors",
+            "Military Honors",
+            "National Symbols",
+            "Service Recognition",
+            "Achievements",
+            "Humanitarian Efforts",
+            "Export Expansion",
+            "Wartime Efforts",
+            "Scientific Contributions",
+            "White House Service",
+            "Bicentennial"
+        ],
+        "title": "Presidential Awards, Decorations, Seals, and Flags",
+        "cluster": 18,
+        "stats": {
+            "input_tokens": 2060,
+            "output_tokens": 182
+        }
+    },
+    {
+        "analysis": "Based on the meta-analysis of the provided samples, the cluster consists of Executive Orders, primarily from the Truman administration, focused on amending, delegating authority, and adjusting existing regulations and frameworks related to government operations, personnel, and various national and international issues. A recurring theme is adapting to changing circumstances, such as the post-war period and national emergencies, by modifying existing legal and administrative frameworks. The orders cover a wide range of topics, including military affairs, foreign relations, economic stabilization, and internal government management.",
+        "tags": [
+            "Truman Administration",
+            "Executive Orders",
+            "Government Operations",
+            "Amendments",
+            "Delegation of Authority",
+            "Regulations",
+            "Post-War Adjustments",
+            "National Emergency",
+            "Government Management",
+            "Personnel Management",
+            "Legal Frameworks",
+            "Administrative Frameworks"
+        ],
+        "title": "Truman Administration: Adjustments to Government Operations and Authority",
+        "cluster": 23,
+        "stats": {
+            "input_tokens": 2247,
+            "output_tokens": 147
+        }
+    },
+    {
+        "analysis": "The documents detail the order of succession for various US government departments and agencies, primarily cabinet-level positions, in the event of absence, death, resignation, or disability of the primary office holders. They establish a hierarchy of officials authorized to temporarily assume the responsibilities of the Secretary or Director, ensuring continuity of operations. Many documents revoke previous orders, updating the line of succession. Presidential authority and discretion are often mentioned, as are adherence to the Federal Vacancies Reform Act. The documents cover a wide range of departments, including State, Treasury, Defense, Agriculture, Interior, Commerce, Labor, and Homeland Security.",
+        "tags": [
+            "succession",
+            "cabinet",
+            "departmental leadership",
+            "government continuity",
+            "order of succession",
+            "vacancy",
+            "presidential authority",
+            "acting secretary",
+            "federal vacancies reform act"
+        ],
+        "title": "Presidential Orders of Succession within Federal Departments and Agencies",
+        "cluster": 15,
+        "stats": {
+            "input_tokens": 2011,
+            "output_tokens": 158
+        }
+    },
+    {
+        "analysis": "The documents in this cluster consist primarily of executive orders which modify, amend, extend, revoke, suspend, or delay existing orders, regulations, and procedures. These modifications cover a wide array of topics including government administration, personnel management, land management, financial regulations, national defense, and emergency management. The orders often address specific sections or provisions of existing directives, reflecting adjustments to policies and procedures in response to changing circumstances or identified needs.",
+        "tags": [
+            "Executive Orders",
+            "Amendments",
+            "Modifications",
+            "Revocations",
+            "Suspensions",
+            "Delays",
+            "Government Administration",
+            "Personnel Management",
+            "Land Management",
+            "Financial Regulations",
+            "National Defense",
+            "Emergency Management"
+        ],
+        "title": "Adjustments to Existing Executive Orders and Regulations",
+        "cluster": 11,
+        "stats": {
+            "input_tokens": 2088,
+            "output_tokens": 123
+        }
+    },
+    {
+        "analysis": "The documents in this cluster concern the designation of international organizations as public international organizations, granting them privileges, exemptions, and immunities under the International Organizations Immunities Act. Some documents also revoke previous designations or extend privileges to specific missions and personnel. The organizations span various fields.",
+        "tags": [
+            "International Organizations",
+            "Immunities",
+            "Privileges",
+            "Exemptions",
+            "Designation",
+            "Revocation"
+        ],
+        "title": "Designations of International Organizations for Immunities and Privileges",
+        "cluster": 30,
+        "stats": {
+            "input_tokens": 2038,
+            "output_tokens": 81
+        }
+    },
+    {
+        "analysis": "Based on the meta-analysis of 16 samples, the documents in this cluster primarily concern international trade, tariffs, trade agreements, and related economic and export regulations. A recurring theme is the modification of existing policies and delegation of authority to government agencies. Several documents address the Generalized System of Preferences (GSP), export controls, and trade relations with specific countries. National security and economic policy considerations are also frequently mentioned.",
+        "tags": [
+            "International Trade",
+            "Tariffs",
+            "Trade Agreements",
+            "Export Controls",
+            "Economic Regulations",
+            "Delegation of Authority",
+            "GSP",
+            "National Security",
+            "Economic Policy"
+        ],
+        "title": "International Trade, Tariffs, and Export Regulations",
+        "cluster": 41,
+        "stats": {
+            "input_tokens": 2009,
+            "output_tokens": 118
+        }
+    },
+    {
+        "analysis": "The documents pertain to the National Industrial Recovery Act (NIRA) of 1933 and the establishment, modification, and potential exemptions of Codes of Fair Competition across diverse industries during the Great Depression. These codes aimed to regulate industries, promote fair trade practices, and foster economic recovery through government intervention. The approval process typically involved applications, hearings, administrator reports, and presidential approval, often with specific conditions or modifications.",
+        "tags": [
+            "National Industrial Recovery Act",
+            "NIRA",
+            "Fair Competition Codes",
+            "Industry Regulation",
+            "Great Depression",
+            "Economic Recovery",
+            "New Deal",
+            "Roosevelt Administration"
+        ],
+        "title": "NIRA: Approvals, Modifications, and Exemptions of Fair Competition Codes",
+        "cluster": 31,
+        "stats": {
+            "input_tokens": 1723,
+            "output_tokens": 124
+        }
+    },
+    {
+        "analysis": "The documents in this cluster primarily concern the establishment, modification, continuation, or termination of various advisory committees, commissions, boards, councils, task forces, and other governmental entities within the Executive Branch. These entities are created to provide advice and recommendations to the President and various federal agencies on a wide range of issues, including national security, economic policy, public health, international relations, domestic affairs, and more. The documents also address administrative matters such as membership, functions, reporting requirements, delegation of authority and funding for these advisory bodies. The documents also include executive orders that delegate authority to different departments and agencies, establish committees or task forces, or address specific issues.",
+        "tags": [
+            "Advisory Committees",
+            "Governmental Commissions",
+            "Executive Branch",
+            "Policy Recommendations",
+            "Interagency Coordination",
+            "Federal Government",
+            "Presidential Advisory",
+            "Governmental Organization",
+            "Delegation of Authority",
+            "Government Administration",
+            "Executive Branch Operations",
+            "Governmental Entities",
+            "Administrative Management"
+        ],
+        "title": "Executive Branch Advisory Groups: Formation, Function, and Authority Delegation",
+        "cluster": 43,
+        "stats": {
+            "input_tokens": 2184,
+            "output_tokens": 182
+        }
+    },
+    {
+        "analysis": "This cluster contains executive orders and related documents concerning national security, government administration, energy policy, and international relations. A significant portion of the documents focus on the delegation of authority, management of personnel (especially during wartime), and the protection of classified information. Several documents address economic sanctions, particularly those related to Iran and the JCPOA. A recurring theme is the use of executive authority to address perceived threats or critical needs related to national security, economic stability, or international relations. A notable subset of the documents consists of unpublished executive orders.",
+        "tags": [
+            "National Security",
+            "Government Administration",
+            "Energy Policy",
+            "International Relations",
+            "Delegation of Authority",
+            "Personnel Management",
+            "Classified Information",
+            "Economic Sanctions",
+            "Iran",
+            "Cybersecurity",
+            "Wartime Directives",
+            "Federal Employees",
+            "Unpublished Orders"
+        ],
+        "title": "Executive Actions on National Security, Personnel, and International Relations",
+        "cluster": 48,
+        "stats": {
+            "input_tokens": 1852,
+            "output_tokens": 151
+        }
+    },
+    {
+        "analysis": "Based on the meta-analysis of the provided samples, the documents primarily concern the allocation, transfer, and management of government funds and resources during times of emergency, particularly the Great Depression and the lead-up to World War II. A recurring theme is the delegation of authority to various agencies and individuals to administer relief efforts, manage government programs, and coordinate national security and international relations. The documents reflect a proactive approach by the executive branch, particularly during the Roosevelt administration, to address economic hardship and national security concerns through government intervention and resource management. Many documents reference specific acts of Congress and appropriation acts, demonstrating the legal basis for the President's actions.",
+        "tags": [
+            "Great Depression",
+            "New Deal",
+            "Emergency Relief",
+            "Fund Allocation",
+            "Economic Recovery",
+            "Public Works",
+            "Government Agencies",
+            "Resource Management",
+            "National Security",
+            "Roosevelt Administration",
+            "Delegation of Authority",
+            "Administrative Organization",
+            "Emergency Measures",
+            "Appropriations",
+            "Government Programs",
+            "Economic Intervention",
+            "International Aid",
+            "Financial Management",
+            "National Defense",
+            "Disaster Relief",
+            "Economic Regulation",
+            "Administrative Authority",
+            "Agricultural Assistance",
+            "Labor Regulations",
+            "Price Controls",
+            "Government Finances",
+            "Administrative Management",
+            "Financial Directives",
+            "Industrial Recovery",
+            "Unemployment Relief",
+            "Agency Establishment",
+            "Relief Programs",
+            "Franklin D. Roosevelt",
+            "Agricultural Adjustment",
+            "National Industrial Recovery Act"
+        ],
+        "title": "Great Depression and New Deal Era: Federal Resource Management and Emergency Relief",
+        "cluster": 44,
+        "stats": {
+            "input_tokens": 2208,
+            "output_tokens": 226
+        }
+    },
+    {
+        "analysis": "Based on the meta-analysis of the provided samples, the documents consistently involve the transfer, reservation, restoration, or modification of land, often related to military or naval purposes, lighthouses, or other government facilities. A significant portion of the documents concern land in Hawaii, Alaska, and the Canal Zone, but also include other US territories and states. The documents frequently include specific geographic coordinates, boundary descriptions, and references to existing surveys. A recurring theme is the adjustment of land use and jurisdiction between different government entities or between the federal government and territorial/state governments, often to adapt to changing needs or correct errors in previous land descriptions.",
+        "tags": [
+            "Land Transfer",
+            "Land Reservation",
+            "Military Land",
+            "Territorial Land",
+            "Hawaii",
+            "Alaska",
+            "Canal Zone",
+            "Boundary Adjustment",
+            "Geographic Coordinates",
+            "Government Land Use",
+            "Land Restoration",
+            "Naval Land",
+            "Lighthouse",
+            "Public Land"
+        ],
+        "title": "Land Management and Boundary Adjustments in US Territories and Military Reservations",
+        "cluster": 17,
+        "stats": {
+            "input_tokens": 2197,
+            "output_tokens": 171
+        }
+    },
+    {
+        "analysis": "The documents consistently focus on the extension of trust periods for land allotments made to Native American tribes and individuals. These extensions aim to prevent land alienation and maintain federal protection. The orders cite various acts of Congress, including the Dawes Act of 1887, the Act of June 21, 1906, and the Act of March 2, 1917. The extensions typically span 10 to 25 years and were issued across multiple presidential administrations, from Wilson to Truman. Some orders include exceptions for specific allotments or individuals. The documents reflect a long-standing federal policy concerning Native American land rights.",
+        "tags": [
+            "Native American",
+            "land allotments",
+            "trust period extension",
+            "federal protection",
+            "land alienation",
+            "reservations",
+            "tribes"
+        ],
+        "title": "Extending Federal Trust on Native American Land Allotments, 1917-1950",
+        "cluster": 38,
+        "stats": {
+            "input_tokens": 2329,
+            "output_tokens": 170
+        }
+    },
+    {
+        "analysis": "The documents in this cluster pertain to modifications, exceptions, and amendments to civil service rules and regulations. They cover a range of topics including appointments, promotions, examinations, classifications, reinstatements, waivers, and veteran preferences within various government departments and agencies. A common theme is the modification and adaptation of civil service rules to address specific situations, individuals, or groups of employees. Many documents grant exceptions to the standard civil service requirements for particular positions or individuals, often based on prior service, special skills, or extenuating circumstances. The sentiment is generally neutral, focusing on the practical application and adjustment of civil service policies.",
+        "tags": [
+            "Civil Service",
+            "Appointments",
+            "Exceptions",
+            "Regulations",
+            "Amendments",
+            "Modifications",
+            "Waivers",
+            "Government Employees",
+            "Veteran Preference",
+            "Reinstatements"
+        ],
+        "title": "Civil Service: Rule Modifications, Exceptions, and Amendments",
+        "cluster": 35,
+        "stats": {
+            "input_tokens": 1966,
+            "output_tokens": 153
+        }
+    },
+    {
+        "analysis": "The documents in this cluster consist of executive orders and presidential directives that establish, modify, or revoke committees, councils, task forces, and other interagency groups within the US government. These groups address a wide range of policy areas, from economic growth and national security to public health and social issues. The orders also delegate authority and direct executive branch agencies to take specific actions or implement certain policies. A recurring theme is the emphasis on interagency coordination and the involvement of various executive departments and agencies in these initiatives.",
+        "tags": [
+            "Executive Orders",
+            "Presidential Directives",
+            "Interagency Coordination",
+            "Government Organization",
+            "Policy Implementation",
+            "Advisory Councils",
+            "Task Forces",
+            "Committees",
+            "Delegation of Authority"
+        ],
+        "title": "Executive Branch Organization: Interagency Groups and Policy Directives",
+        "cluster": 36,
+        "stats": {
+            "input_tokens": 2184,
+            "output_tokens": 137
+        }
+    },
+    {
+        "analysis": "The documents consist of announcements and orders related to mourning periods, closures of government departments, and commemorative ceremonies following deaths of government officials, military personnel, and national figures. They express respect, sorrow, and gratitude. Some documents also concern days of remembrance for soldiers.",
+        "tags": [
+            "Mourning",
+            "Remembrance",
+            "Government Closure",
+            "National Figures",
+            "Military",
+            "Death",
+            "Respect",
+            "Sorrow",
+            "Commemoration"
+        ],
+        "title": "Governmental Mourning and Remembrance",
+        "cluster": 37,
+        "stats": {
+            "input_tokens": 1884,
+            "output_tokens": 78
+        }
+    },
+    {
+        "analysis": "The documents concern adjustments to pay scales and compensation for various U.S. government employees, including those in the General Schedule, Foreign Service, Veterans Health Administration, Senior Executive Service, Uniformed Services, and members of the Executive, Legislative, and Judicial branches. These adjustments address basic pay, allowances, locality-based payments, and cost-of-living increases, often mandated by law and superseding previous orders. The documents span several decades, reflecting ongoing efforts to maintain uniformity and comparability in federal compensation.",
+        "tags": [
+            "Federal Pay",
+            "Salary Adjustments",
+            "Government Employees",
+            "Pay Scales",
+            "Uniformed Services Pay",
+            "Executive Salaries",
+            "Judicial Salaries",
+            "Legislative Salaries",
+            "Locality Pay",
+            "General Schedule",
+            "Foreign Service",
+            "Veterans Health Administration",
+            "Senior Executive Service",
+            "Administrative Law Judges",
+            "Cost of Living Adjustments",
+            "Wage Standardization"
+        ],
+        "title": "U.S. Government Employee Compensation Adjustments",
+        "cluster": 46,
+        "stats": {
+            "input_tokens": 2326,
+            "output_tokens": 157
+        }
+    },
+    {
+        "analysis": "Based on the meta-analysis of the provided samples, the documents consistently focus on the establishment, modification, and management of wildlife refuges and breeding grounds, primarily for migratory birds, across various states. These refuges are created through presidential orders or other legal mechanisms, often under the authority of the Migratory Bird Conservation Act. A key aspect is the delineation of specific land areas, often described using legal surveys and geographical coordinates, and the prohibition of activities like hunting, trapping, and disturbing wildlife within these areas. The refuges are typically managed by either the Department of Agriculture or the Department of the Interior. The overarching goal is the conservation of wildlife and their habitats.",
+        "tags": [
+            "Wildlife Refuge",
+            "Migratory Birds",
+            "Land Conservation",
+            "Habitat Protection",
+            "Environmental Protection",
+            "Breeding Ground",
+            "Hunting Prohibition",
+            "Department of Agriculture",
+            "Department of Interior",
+            "Land Management",
+            "Government Regulation",
+            "Presidential Order",
+            "Public Land Survey System"
+        ],
+        "title": "Establishment and Management of Migratory Bird and Wildlife Refuges",
+        "cluster": 33,
+        "stats": {
+            "input_tokens": 2504,
+            "output_tokens": 180
+        }
+    },
+    {
+        "analysis": "The documents establish, modify, continue, or terminate Presidential advisory committees, commissions, boards, councils, and task forces. These entities are created to advise the President and government agencies on a wide range of issues, conduct studies, and make recommendations. They are often composed of members from both the public and private sectors, and frequently operate under the Federal Advisory Committee Act.",
+        "tags": [
+            "Presidential Advisory Groups",
+            "Commissions",
+            "Committees",
+            "Federal Advisory Committee Act",
+            "Policy Recommendations",
+            "Government Consultation",
+            "Expert Advice"
+        ],
+        "title": "Presidential Advisory Committees, Commissions, and Councils",
+        "cluster": 42,
+        "stats": {
+            "input_tokens": 2373,
+            "output_tokens": 103
+        }
+    },
+    {
+        "analysis": "The documents concern the withdrawal, reservation, modification, and restoration of public lands primarily in California, and occasionally Nevada and New Mexico, between 1867 and 1948. These actions were taken for various purposes, including military use, forest protection, naval petroleum reserves, Indian affairs, reclamation projects, resurveys, and other governmental uses such as lighthouse and coast guard facilities. The legal basis for these actions often cites the Act of June 25, 1910, as amended. Land descriptions frequently reference the Mount Diablo and San Bernardino Meridians. A common theme is the modification or revocation of previous executive orders related to land use and classification.",
+        "tags": [
+            "Land Management",
+            "California",
+            "Public Land",
+            "Land Withdrawal",
+            "Land Reservation",
+            "Mount Diablo Meridian",
+            "San Bernardino Meridian",
+            "Forest Protection",
+            "Military Use",
+            "Naval Petroleum Reserve",
+            "Indian Affairs",
+            "Reclamation",
+            "Resurvey",
+            "Nevada",
+            "New Mexico"
+        ],
+        "title": "California and Nevada Public Land Management: Withdrawals, Reservations, and Modifications (1867-1948)",
+        "cluster": 14,
+        "stats": {
+            "input_tokens": 2367,
+            "output_tokens": 198
+        }
+    },
+    {
+        "analysis": "Based on the meta-analysis of the provided samples, the documents consistently involve waiving civil service rules for government appointments, particularly for widows and family members of deceased government employees or veterans. The appointments often cite financial hardship, prior service, or specific skills as justification. The sentiment is compassionate, aiming to provide support and recognition for government service.",
+        "tags": [
+            "Civil Service Waiver",
+            "Government Appointment",
+            "Widow/Family Support",
+            "Compassionate Consideration",
+            "Financial Hardship",
+            "Prior Service",
+            "Reinstatement"
+        ],
+        "title": "Civil Service Waivers for Bereaved Families and Former Government Employees",
+        "cluster": 21,
+        "stats": {
+            "input_tokens": 2016,
+            "output_tokens": 106
+        }
+    },
+    {
+        "analysis": "This cluster of documents pertains to the establishment, modification, and abolishment of restricted areas, including naval defensive sea areas and airspace reservations, primarily for national defense and public safety. These areas are defined by geographical boundaries and restrictions on navigation and activities. The documents also cover related aspects such as labor regulations, travel expenses, combat zone designations, and enforcement measures.",
+        "tags": [
+            "National Defense",
+            "Restricted Areas",
+            "Airspace Reservations",
+            "Naval Defensive Sea Areas",
+            "Geographic Boundaries",
+            "Navigation Restrictions",
+            "Public Safety",
+            "Military Operations",
+            "Labor Regulations",
+            "Travel Expenses",
+            "Combat Zones",
+            "Enforcement"
+        ],
+        "title": "Restricted Air and Sea Zones for National Defense and Public Safety",
+        "cluster": 7,
+        "stats": {
+            "input_tokens": 2088,
+            "output_tokens": 114
+        }
+    },
+    {
+        "analysis": "The documents consistently concern the revocation of prior executive orders withdrawing public lands, followed by the land's reopening for homesteading and desert land entry. A key feature is the 91-day priority period granted to ex-service men (veterans) after a resurvey. Public Resolution 85 (June 12, 1930) and Public Resolution 29 (February 14, 1920) are frequently cited as the basis for this veteran preference. The land re-openings span multiple states and presidential administrations (Coolidge, Hoover, Roosevelt).",
+        "tags": [
+            "Land Resurvey",
+            "Homesteading",
+            "Desert Land Entry",
+            "Veterans Preference",
+            "Public Resolution 85",
+            "Public Resolution 29",
+            "Land Revocation",
+            "91-Day Entry Period"
+        ],
+        "title": "Land Reopenings for Veterans Following Resurvey",
+        "cluster": 49,
+        "stats": {
+            "input_tokens": 2521,
+            "output_tokens": 168
+        }
+    },
+    {
+        "analysis": "The documents primarily concern the transfer, reservation, modification, and management of land and resources by the government. A significant portion of these actions involve national forests, military reservations, and wildlife refuges. Boundary adjustments, resource allocation, and transfers of jurisdiction between government entities are common themes. A secondary but recurring theme is labor disputes, particularly within the railway industry, and the establishment of boards or commissions to address these disputes. The documents often include detailed geographical descriptions and references to specific legislation.",
+        "tags": [
+            "Land Management",
+            "Resource Allocation",
+            "Land Transfer",
+            "Boundary Adjustments",
+            "National Forests",
+            "Military Reservations",
+            "Wildlife Refuges",
+            "Governmental Jurisdiction",
+            "Labor Disputes",
+            "Railway Industry"
+        ],
+        "title": "Government Land and Resource Management & Labor Regulation",
+        "cluster": 4,
+        "stats": {
+            "input_tokens": 1963,
+            "output_tokens": 131
+        }
+    },
+    {
+        "analysis": "The documents in this cluster primarily concern the establishment, modification, or delegation of authority to committees, councils, offices, or individuals within the executive branch of the U.S. government. These entities are created to address specific issues, coordinate efforts across different agencies, or provide advice. The documents cover a range of topics and reflect efforts to improve efficiency, address emerging challenges, and implement policy goals across various sectors.",
+        "tags": [
+            "Executive Branch Organization",
+            "Delegation of Authority",
+            "Interagency Coordination",
+            "Governmental Committees",
+            "Policy Implementation",
+            "Government Efficiency"
+        ],
+        "title": "Executive Branch Organization: Authority, Coordination, and Policy Implementation",
+        "cluster": 40,
+        "stats": {
+            "input_tokens": 2051,
+            "output_tokens": 115
+        }
+    },
+    {
+        "analysis": "The documents consist of executive orders that delegate presidential authority to various government officials and agencies. These orders cover a wide range of topics, including foreign affairs, defense, energy, domestic policy, civil rights enforcement, veterans' affairs, military rations, career compensation, national security, trade, Indian affairs, refugee assistance, absentee voting, cooperative education, military commissions, foreign service salaries, the Peace Corps, federal employee restrictions, foreign currency use, executive exchange programs, water resources planning, fire safety, budget and accounting procedures, strategic materials stockpiling, quarantinable communicable diseases, government patents, scientific research, immigration reform, environmental quality, federal retirement systems, federal property administration, space activities, military functions, army and air force rations, disaster relief, nuclear power facilities, economic powers, defense production, Nazi war crimes records, aviation career incentive pay, federal employees holding state offices, civil rights, foreign assistance, credit control, foreign service, garnishment of pay, school construction, science and technology policy, small business innovation, intelligence operations, housing, agriculture, information agencies, law enforcement, veteran affairs, economic stabilization, economic opportunity, internal revenue, energy security, government employment security, hostage relief, international organizations, silver certificates, cultural exchange, Native American land rights, personnel management, printing services, internal revenue code, atomic energy, Director of Central Intelligence, the Secretary of Transportation, the Secretary of Agriculture, and the Director of the Bureau of the Budget, federal employment, mutual security, hospital care valuation, daylight saving time, agricultural programs, United Nations investigations, federal aviation, assistance to Indian tribes, environmental conservation, selective service, border facilities, voting assistance, safeguarding information, foreign exchange, civil service rules, cost-of-living allowances, and the North American Free Trade Agreement. A common theme is the delegation of presidential power to other entities within the government to ensure the smooth functioning of the government and address specific national needs.",
+        "tags": [
+            "Delegation of Authority",
+            "Government Agencies",
+            "Presidential Powers",
+            "Executive Branch",
+            "Government Administration",
+            "Agency Responsibilities",
+            "Government Operations",
+            "Administrative Procedures",
+            "Executive Order Amendments",
+            "Regulatory Compliance",
+            "Program Establishment",
+            "Order Amendment",
+            "Interagency Coordination",
+            "Statutory Authority",
+            "Streamlining Government",
+            "Governmental Coordination",
+            "Administrative Directives"
+        ],
+        "title": "Delegation of Presidential Authority to Government Officials and Agencies",
+        "cluster": 5,
+        "stats": {
+            "input_tokens": 2005,
+            "output_tokens": 445
+        }
+    },
+    {
+        "analysis": "The documents consist of executive orders, primarily from the Roosevelt and Hoover administrations, concerning the withdrawal or revocation of withdrawal of public lands for resurvey in various western states including Wyoming, Colorado, New Mexico, Utah, Arizona, Arkansas and Nevada. The orders specify townships and ranges based on principal meridians. The purpose is to facilitate accurate land management and prevent conflicting claims during the resurvey process. The legal basis for these actions is the Act of June 25, 1910, as amended.",
+        "tags": [
+            "Land Resurvey",
+            "Public Land Withdrawal",
+            "Land Revocation",
+            "Township and Range",
+            "Principal Meridian",
+            "Western States",
+            "Roosevelt",
+            "Hoover"
+        ],
+        "title": "Land Withdrawal and Resurvey Orders in Western States",
+        "cluster": 24,
+        "stats": {
+            "input_tokens": 2263,
+            "output_tokens": 139
+        }
+    },
+    {
+        "analysis": "The documents consist of executive orders and presidential orders that authorize the inspection of tax returns by various congressional committees, government entities, state officials and even foreign entities. The reasons for inspection vary widely, including investigations into national defense programs, un-American activities, juvenile delinquency, government operations, commodity credit corporation, federal-aid highway program, relations with Indian tribes, financial interests of Senate officers and employees, welfare and pension funds, impeachment proceedings, receivership and bankruptcy proceedings, election of members of Congress, economic stabilization, naval affairs, government efficiency, subversive activities, crime, lobbying, the administration of justice, tax-exempt foundations, war contracts, bankruptcy proceedings, organized crime, labor-management relations, wool production, and statistical analysis. The orders cite the authority vested in the President by the Internal Revenue Code and Revenue Acts. The documents span from 1932 to 1973, and even earlier, indicating a recurring practice of allowing access to tax information for governmental purposes.",
+        "tags": [
+            "Tax Returns",
+            "Congressional Oversight",
+            "Government Investigations",
+            "Internal Revenue Code",
+            "Executive Order",
+            "Governmental Transparency",
+            "Inspections",
+            "Revenue Acts",
+            "Federal Agencies",
+            "State Officials",
+            "Access to Information",
+            "Presidential Orders"
+        ],
+        "title": "Authorizing Government Access to Tax Return Information",
+        "cluster": 3,
+        "stats": {
+            "input_tokens": 2119,
+            "output_tokens": 239
+        }
+    },
+    {
+        "analysis": "The documents primarily concern land management and resource allocation in Arizona and New Mexico. A recurring theme is the modification of land status, including withdrawals, reservations, and restoration to the public domain. Several documents address land use for Native American tribes, military purposes, and various governmental uses. The documents frequently reference specific townships, ranges, and meridians, indicating precise geographical locations. Many orders modify or revoke previous executive orders, reflecting ongoing adjustments to land management policies.",
+        "tags": [
+            "Land Management",
+            "Resource Allocation",
+            "Arizona",
+            "New Mexico",
+            "Native American Affairs",
+            "Military Use",
+            "Land Withdrawal",
+            "Land Reservation",
+            "Public Land",
+            "Governmental Use"
+        ],
+        "title": "Land Management and Resource Allocation Adjustments in Arizona and New Mexico",
+        "cluster": 25,
+        "stats": {
+            "input_tokens": 2496,
+            "output_tokens": 127
+        }
+    },
+    {
+        "analysis": "The documents pertain to presidential exemptions from mandatory retirement for government employees, based on Section 204 of the Act of June 30, 1932. These exemptions are granted when the President deems it in the public interest to retain specific employees beyond the standard retirement age. Each document typically names the employee, their position, and the duration of the exemption.",
+        "tags": [
+            "Government Employees",
+            "Retirement Exemption",
+            "Public Interest",
+            "Act of June 30, 1932",
+            "Section 204"
+        ],
+        "title": "Presidential Exemptions to Mandatory Retirement for Government Employees, Act of June 30, 1932",
+        "cluster": 9,
+        "stats": {
+            "input_tokens": 2017,
+            "output_tokens": 125
+        }
+    },
+    {
+        "analysis": "Based on the analysis of the provided samples, the documents primarily concern amendments and modifications to civil service rules and regulations across various government departments. A recurring theme is the adjustment of positions subject to or exempt from competitive examinations, along with modifications to transfer, reinstatement, and promotion processes. Many documents address specific roles and departments, reflecting the evolving needs and structures of the government at the time. Some documents also address veteran's preference, age limitations and eligibility criteria.",
+        "tags": [
+            "Civil Service",
+            "Rule Amendments",
+            "Government Employment",
+            "Hiring",
+            "Examinations",
+            "Departmental Regulations",
+            "Appointments",
+            "Transfers",
+            "Veterans",
+            "Eligibility",
+            "Age Limitations"
+        ],
+        "title": "Civil Service - Examination, Appointment, and Eligibility Rule Changes",
+        "cluster": 45,
+        "stats": {
+            "input_tokens": 1949,
+            "output_tokens": 126
+        }
+    },
+    {
+        "analysis": "This cluster contains executive orders and presidential actions related to national security, foreign policy, and domestic policy. These documents delegate authority, establish committees, and set policies on a wide range of topics, including intelligence, trade, emergency response, labor, and economic regulation. A key theme is the use of executive authority to address national needs and priorities.",
+        "tags": [
+            "Executive Action",
+            "National Security",
+            "Foreign Policy",
+            "Domestic Policy",
+            "Delegation of Authority",
+            "Government Regulations",
+            "Policy Directives",
+            "Presidential Authority",
+            "Emergency Preparedness",
+            "Economic Policy",
+            "Intelligence",
+            "Government Administration"
+        ],
+        "title": "Presidential Actions on National Security, Foreign Policy, and Governance",
+        "cluster": 22,
+        "stats": {
+            "input_tokens": 2223,
+            "output_tokens": 109
+        }
+    },
+    {
+        "analysis": "Based on the meta-analysis of the provided samples, the documents consistently focus on land management and resource allocation in Alaska. A recurring theme is the modification, reservation, withdrawal, and reallocation of land for various purposes, including military, agriculture, townsite development, infrastructure, and native interests. The documents often involve transfers between government departments and cite specific legal descriptions and coordinates. The sentiment is neutral, reflecting legal and administrative actions.",
+        "tags": [
+            "Alaska",
+            "Land Management",
+            "Resource Allocation",
+            "Land Reservation",
+            "Land Withdrawal",
+            "Modification",
+            "Governmental Land Use",
+            "Infrastructure",
+            "Military",
+            "Agriculture",
+            "Townsite",
+            "Native Interests"
+        ],
+        "title": "Alaskan Land Reallocations and Reservations",
+        "cluster": 2,
+        "stats": {
+            "input_tokens": 2191,
+            "output_tokens": 119
+        }
+    }
+]

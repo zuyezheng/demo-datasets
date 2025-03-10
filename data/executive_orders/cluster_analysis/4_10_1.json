@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents involve the transfer, reservation, or withdrawal of land for specific governmental uses, such as military, conservation, or infrastructure projects. They often describe the land in detail using surveys and legal descriptions.",
+    "tags": [
+        "Land Transfer",
+        "Land Reservation",
+        "Governmental Land Use",
+        "Surveyed Land",
+        "Wildlife Refuge",
+        "Military Use",
+        "Infrastructure"
+    ],
+    "title": "Land Management for Government Projects",
+    "request": {
+        "cluster": 4,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 9502,
+        "output_tokens": 65
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents primarily concern land management and resource allocation in Arizona and New Mexico. A recurring theme is the modification of existing land designations, including reservations for Native American tribes (Navajo, Laguna Pueblo, Salt River Indian Reservation), national forests (Crook National Forest, Tusayan National Forest), and other specific purposes like rifle ranges and power sites. The documents also address land transfers between government departments (Agriculture and Interior) and the establishment of reservations. Overall, the sentiment is neutral, focusing on administrative actions and legal descriptions.",
+    "tags": [
+        "Land Management",
+        "Resource Allocation",
+        "Arizona",
+        "New Mexico",
+        "Native American Reservations",
+        "National Forests",
+        "Land Transfers"
+    ],
+    "title": "Arizona and New Mexico Land Designations and Resource Management",
+    "request": {
+        "cluster": 25,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 2738,
+        "output_tokens": 132
+    }
+}

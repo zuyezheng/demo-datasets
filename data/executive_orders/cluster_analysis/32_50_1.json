@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents in this cluster consist of executive orders, mostly from the Clinton and Bush administrations, addressing a wide array of policy issues. Common themes include establishing committees and councils to study and advise on specific issues, promoting interagency coordination, directing agencies to implement certain policies, and emphasizing the importance of public-private partnerships. Many orders also include a clause stating that they are intended only to improve internal management and do not create any enforceable rights.",
+    "tags": [
+        "Interagency Coordination",
+        "Committee Establishment",
+        "Policy Implementation",
+        "Federal Management",
+        "Public-Private Partnership"
+    ],
+    "title": "Federal Interagency Coordination and Policy Implementation",
+    "request": {
+        "cluster": 32,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 49226,
+        "output_tokens": 111
+    }
+}

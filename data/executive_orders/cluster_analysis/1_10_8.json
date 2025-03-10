@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents all relate to amendments to previous executive orders. The amendments typically involve changes to committees, councils, or commissions, often adjusting membership or responsibilities. Some also deal with salary levels for specific positions.",
+    "tags": [
+        "executive order amendment",
+        "committee changes",
+        "council changes",
+        "commission changes",
+        "personnel changes"
+    ],
+    "title": "Executive Order Amendments: Committees, Councils, and Personnel",
+    "request": {
+        "cluster": 1,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 2763,
+        "output_tokens": 66
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents consist of orders and directives from various presidents and government officials. They cover a range of topics, including military actions, administrative changes, legal matters, and responses to specific events or crises. The sentiment is generally formal and authoritative, reflecting the official nature of the documents.",
+    "tags": [
+        "Government Directives",
+        "Presidential Actions",
+        "Administrative Orders",
+        "Legal Directives",
+        "Military Directives"
+    ],
+    "title": "Official Government Directives and Orders",
+    "request": {
+        "cluster": 0,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 4029,
+        "output_tokens": 74
+    }
+}

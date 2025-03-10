@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents primarily concern the withdrawal and reservation, or revocation of withdrawal, of public lands, often specifying the act of Congress that authorizes these actions. The land descriptions are detailed, using meridian coordinates and subdivisions of sections. Some documents specify the purpose of the withdrawal, such as for public use, classification, target ranges, or power sites. The documents also include revocations of previous withdrawals.",
+    "tags": [
+        "Land Withdrawal",
+        "Public Land",
+        "Land Reservation",
+        "Revocation",
+        "Geographic Coordinates",
+        "Herbert Hoover",
+        "Franklin D Roosevelt"
+    ],
+    "title": "Public Land Management and Reservation",
+    "request": {
+        "cluster": 10,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3459,
+        "output_tokens": 101
+    }
+}

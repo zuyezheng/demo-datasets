@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents in this cluster all pertain to the establishment, modification, or function of governmental committees, councils, or commissions. These entities are created to address specific issues, provide advice, coordinate efforts, or conduct studies related to various aspects of public interest, ranging from labor relations and civilian defense to arts and postal services. The documents outline the composition, responsibilities, and operational guidelines for these bodies, emphasizing interagency cooperation and the involvement of experts and stakeholders.",
+    "tags": [
+        "Governmental Advisory Bodies",
+        "Committee Establishment",
+        "Interagency Coordination",
+        "Public Policy Advice",
+        "Commission Formation"
+    ],
+    "title": "Governmental Committees and Advisory Councils",
+    "request": {
+        "cluster": 40,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 10016,
+        "output_tokens": 115
+    }
+}

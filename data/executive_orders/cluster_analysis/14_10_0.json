@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents primarily concern land reservations, withdrawals, and corrections in California, often referencing specific meridians (Mount Diablo, San Bernardino) and detailing land descriptions using township, range, and section numbers. Purposes for these actions include naval petroleum reserves, forest protection, Indian allotments, military use, lighthouse purposes and pending resurveys.",
+    "tags": [
+        "Land Management",
+        "California",
+        "Land Withdrawal",
+        "Land Reservation",
+        "Public Land",
+        "Mount Diablo Meridian",
+        "San Bernardino Meridian"
+    ],
+    "title": "California Land Actions",
+    "request": {
+        "cluster": 14,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 2412,
+        "output_tokens": 86
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "analysis": "The documents all pertain to the withdrawal or reservation of public lands, often citing the Act of June 25, 1910, as amended. The lands are designated for various purposes, including public use, military purposes, forest service use (fire lookout stations), reforestation, soil erosion control, recreation, reclamation, and elk refuge. Some orders revoke or modify previous withdrawals. The documents specify the location of the land using meridian and township ranges.",
+    "tags": [
+        "Land Withdrawal",
+        "Public Land",
+        "Land Reservation",
+        "Forest Service",
+        "Military Land",
+        "Recreation",
+        "Reclamation",
+        "Elk Refuge"
+    ],
+    "title": "Public Land Use and Reservation",
+    "request": {
+        "cluster": 20,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 2802,
+        "output_tokens": 116
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "analysis": "The documents in this cluster are all Executive Orders, mostly from the Truman administration, with one from Nixon. They primarily deal with amendments, delegations of authority, and establishment or termination of commissions and agencies. Many relate to wartime or national defense measures, economic stabilization, and government administration. Some address specific issues like migratory labor, typhus control, and military cemeteries. The documents often involve transferring functions between departments, modifying existing orders, or setting time limits for certain actions.",
+    "tags": [
+        "government administration",
+        "amendments",
+        "delegation of authority",
+        "wartime measures",
+        "economic stabilization",
+        "agency establishment",
+        "agency termination",
+        "national defense",
+        "Truman administration",
+        "Nixon administration"
+    ],
+    "title": "Governmental Authority Adjustments and Delegations",
+    "request": {
+        "cluster": 23,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 27504,
+        "output_tokens": 128
+    }
+}

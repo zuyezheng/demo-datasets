@@ -1,0 +1,20 @@
+{
+    "analysis": "The documents consist of orders, mostly from Presidents Hoover and Roosevelt, that waive civil service rules for specific individuals. A common reason for waiving these rules is to provide employment to widows of deceased government employees or veterans, often those who died in the line of duty, leaving their families without adequate support. Another reason is to grant classified service positions to individuals who have already been working in the government in positions excepted from civil service requirements. Some orders are issued based on the president's personal knowledge of the individual's qualifications.",
+    "tags": [
+        "Civil Service Waiver",
+        "Employment",
+        "Widow",
+        "Government Employee",
+        "Veteran",
+        "Classified Position"
+    ],
+    "title": "Civil Service Waivers for Employment",
+    "request": {
+        "cluster": 21,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 3383,
+        "output_tokens": 126
+    }
+}

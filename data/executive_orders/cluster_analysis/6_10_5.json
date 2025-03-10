@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents in this cluster relate to government actions during times of crisis or national importance. They cover a range of topics, including resource management during wartime, labor disputes affecting essential services, and national security measures. The documents reflect the government's role in coordinating and directing activities to address these challenges.",
+    "tags": [
+        "Crisis Management",
+        "National Security",
+        "Resource Allocation",
+        "Labor Relations",
+        "Government Coordination"
+    ],
+    "title": "National Crisis Management Directives",
+    "request": {
+        "cluster": 6,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 49855,
+        "output_tokens": 77
+    }
+}

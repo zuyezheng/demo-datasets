@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents in this cluster primarily consist of executive orders. A significant portion of these orders focus on the organization, functions, and responsibilities of various governmental departments and agencies, particularly concerning energy, information and communications technology, and national security. They address the transfer of authority, the management of personnel with access to classified information, and the utilization of manpower during wartime. Some documents were not published.",
+    "tags": [
+        "Government Organization",
+        "Departmental Functions",
+        "National Security",
+        "Manpower",
+        "Energy",
+        "Information Technology",
+        "Classified Information"
+    ],
+    "title": "Governmental Organization, Security, and Manpower",
+    "request": {
+        "cluster": 48,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 14336,
+        "output_tokens": 104
+    }
+}

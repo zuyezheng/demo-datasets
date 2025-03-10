@@ -1,0 +1,25 @@
+{
+    "analysis": "The documents in this cluster relate to national security concerns, specifically focusing on immigration, foreign investment, welfare, military offenses, economic sanctions, ethics of government officials, transnational criminal organizations, emergency preparedness, land jurisdiction, and environmental protection. The documents span multiple presidential administrations and address a variety of threats and policy responses.",
+    "tags": [
+        "National Security",
+        "Immigration",
+        "Foreign Investment",
+        "Welfare Reform",
+        "Military Justice",
+        "Economic Sanctions",
+        "Government Ethics",
+        "Transnational Crime",
+        "Emergency Preparedness",
+        "Land Jurisdiction",
+        "Environmental Protection"
+    ],
+    "title": "Safeguarding National Interests and Resources",
+    "request": {
+        "cluster": 6,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 35105,
+        "output_tokens": 94
+    }
+}
