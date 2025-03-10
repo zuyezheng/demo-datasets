@@ -1,0 +1,18 @@
+{
+    "analysis": "The documents all pertain to the inspection of tax returns by various government entities. They authorize different committees, departments, or commissions to inspect tax returns for specific purposes, such as oversight, investigations, or statistical analysis. The orders cite the authority vested in the President by the Internal Revenue Code to allow these inspections, subject to regulations set by the Secretary of the Treasury.",
+    "tags": [
+        "Tax Returns",
+        "Inspection",
+        "Government Oversight",
+        "Internal Revenue Code"
+    ],
+    "title": "Authorization of Tax Return Inspections",
+    "request": {
+        "cluster": 3,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3050,
+        "output_tokens": 89
+    }
+}

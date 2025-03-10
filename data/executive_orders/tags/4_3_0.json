@@ -1,0 +1,18 @@
+{
+    "analysis": "The documents relate to authorizations and appointments by the president. The first document authorizes the continuation of employment for an engineer. The second document transfers land between national forests. The third document creates a board to investigate disputes between railroad companies and their employees.",
+    "tags": [
+        "Presidential Authorization",
+        "Government Appointments",
+        "Land Management",
+        "Labor Dispute Resolution"
+    ],
+    "title": "Presidential Authorizations and Appointments",
+    "request": {
+        "cluster": 4,
+        "sample_size": 3
+    },
+    "stats": {
+        "input_tokens": 2927,
+        "output_tokens": 67
+    }
+}

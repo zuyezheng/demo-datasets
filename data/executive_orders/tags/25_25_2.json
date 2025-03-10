@@ -1,0 +1,23 @@
+{
+    "analysis": "The documents primarily concern land management and resource allocation in Arizona and New Mexico. A recurring theme is the modification of land status, including withdrawals, reservations, and restoration to the public domain. Several documents address land use for Native American tribes, such as the Navajo, Papago, and Fort Mojave Indians, while others involve military purposes, public water reserves, and customs inspections. The documents frequently reference specific townships, ranges, and meridians, indicating precise geographical locations. Many orders modify or revoke previous executive orders, reflecting ongoing adjustments to land management policies.",
+    "tags": [
+        "Land Management",
+        "Resource Allocation",
+        "Arizona",
+        "New Mexico",
+        "Native American Reservations",
+        "Military Use",
+        "Public Water Reserves",
+        "Land Withdrawal",
+        "Land Restoration"
+    ],
+    "title": "Arizona and New Mexico Land Management and Resource Allocation",
+    "request": {
+        "cluster": 25,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 8726,
+        "output_tokens": 141
+    }
+}

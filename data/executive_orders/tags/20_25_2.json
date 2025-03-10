@@ -1,0 +1,27 @@
+{
+    "analysis": "The documents primarily concern the allocation, withdrawal, reservation, or revocation of public lands for various purposes, including use by government departments (War, Agriculture, Interior, Commerce), national forests, power sites, aviation, and other public uses like ranger stations, lookout stations, and experimental ranges. Many orders modify or revoke previous orders related to land use. The documents specify land descriptions using township, range, and section coordinates.",
+    "tags": [
+        "Land Management",
+        "Public Land",
+        "Land Withdrawal",
+        "Land Reservation",
+        "Revocation",
+        "Government Use",
+        "National Forest",
+        "Power Site",
+        "Aviation",
+        "Military Use",
+        "Experimental Range",
+        "Lookout Station",
+        "Ranger Station"
+    ],
+    "title": "Adjustments to Public Land Use and Reservations",
+    "request": {
+        "cluster": 20,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 5869,
+        "output_tokens": 121
+    }
+}

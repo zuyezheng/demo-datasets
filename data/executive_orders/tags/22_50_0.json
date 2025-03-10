@@ -1,0 +1,25 @@
+{
+    "analysis": "The documents in this cluster are all executive orders that delegate authority to various government agencies and officials. They cover a wide range of topics, including national emergency planning, budget management, foreign policy, intelligence activities, labor relations, and resource management. The documents share a common structure and purpose: to direct the executive branch in carrying out specific policies and programs.",
+    "tags": [
+        "Delegation of Authority",
+        "Government Agency",
+        "Executive Branch",
+        "Policy Implementation",
+        "National Security",
+        "Economic Policy",
+        "Emergency Management",
+        "Foreign Policy",
+        "Intelligence",
+        "Labor Relations",
+        "Resource Management"
+    ],
+    "title": "Delegation of Governmental Authority and Responsibilities",
+    "request": {
+        "cluster": 22,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 120359,
+        "output_tokens": 105
+    }
+}

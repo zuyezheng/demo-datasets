@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents all pertain to the establishment and modification of restricted areas for national defense, including both sea and airspace. These areas are often near military installations or critical infrastructure. The orders specify geographic coordinates and boundaries, and restrict access to unauthorized vessels or aircraft. Violations are subject to legal penalties.",
+    "tags": [
+        "National Defense",
+        "Restricted Area",
+        "Sea Area",
+        "Airspace",
+        "Military Installation",
+        "Geographic Boundary",
+        "Navigation Restriction"
+    ],
+    "title": "Naval and Airspace Restriction Zones",
+    "request": {
+        "cluster": 7,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 4052,
+        "output_tokens": 82
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents primarily concern amendments, extensions, revocations, and modifications to existing Executive Orders. They cover a range of topics, including advisory committees, national defense, nanotechnology, trade, and national emergencies. The sentiment is neutral, as they are legal and administrative directives.",
+    "tags": [
+        "Amendments",
+        "Revocations",
+        "Executive Orders",
+        "Modifications",
+        "Extensions"
+    ],
+    "title": "Executive Order Amendments and Revocations",
+    "request": {
+        "cluster": 12,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3788,
+        "output_tokens": 72
+    }
+}

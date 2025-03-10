@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents in this cluster are all executive orders that modify, amend, revoke, or extend previous executive orders. They cover a range of topics, including civil defense, ambassadorial appointments, information technology, sustainable development, foreign intelligence, national forests, world hunger, military medals, economic and domestic policy councils, historically Black colleges and universities, faith-based partnerships, health reform, public building contracts, and digital television broadcasting. The sentiment is neutral, as they are simply administrative actions.",
+    "tags": [
+        "executive order",
+        "amendment",
+        "revocation",
+        "extension",
+        "modification"
+    ],
+    "title": "Adjustments to Existing Executive Directives",
+    "request": {
+        "cluster": 12,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3237,
+        "output_tokens": 114
+    }
+}

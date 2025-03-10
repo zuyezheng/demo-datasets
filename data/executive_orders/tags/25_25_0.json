@@ -1,0 +1,23 @@
+{
+    "analysis": "The documents primarily concern land management and resource allocation in Arizona and New Mexico. They involve actions such as withdrawing land from settlement, reserving land for specific uses (Indian reservations, military, weather bureau, national guard, customs, soil erosion control, irrigation projects, archaeological investigation, national forest), transferring jurisdiction between departments, and revoking previous orders. The documents often cite specific acts of Congress as the source of authority for these actions and describe land using the Gila and Salt River Meridian or the New Mexico Principal Meridian.",
+    "tags": [
+        "Land Management",
+        "Resource Allocation",
+        "Arizona",
+        "New Mexico",
+        "Withdrawal",
+        "Reservation",
+        "Revocation",
+        "Gila and Salt River Meridian",
+        "New Mexico Principal Meridian"
+    ],
+    "title": "Land Reallocations and Reservations in Arizona and New Mexico",
+    "request": {
+        "cluster": 25,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 9110,
+        "output_tokens": 136
+    }
+}

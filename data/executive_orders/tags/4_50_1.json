@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents in this cluster primarily concern the transfer, modification, or reservation of land and resources. Many of the documents involve national forests, military reservations, or land acquired under specific acts like the Bankhead-Jones Farm Tenant Act. The documents often specify geographical locations, boundaries, and the purpose for which the land is being managed or transferred, such as for fish hatcheries, military use, or national defense. Some documents address labor disputes within the railway industry, requiring federal intervention to prevent disruption of interstate commerce.",
+    "tags": [
+        "Land Transfer",
+        "National Forest",
+        "Military Reservation",
+        "Resource Management",
+        "Boundary Modification",
+        "Labor Dispute",
+        "Railway Industry"
+    ],
+    "title": "Land Management and Labor Regulation",
+    "request": {
+        "cluster": 4,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 41343,
+        "output_tokens": 125
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents in this cluster primarily concern amendments, modifications, and extensions to existing executive orders and regulations. They cover a range of topics including Federal Prison Industries, the Quetico-Superior Committee, veterans' benefits, land withdrawals, the National Emergency Council, Foreign Service Regulations, federal employment, and work hours for Department of Interior employees. The sentiment is neutral, as the documents are factual and administrative in nature.",
+    "tags": [
+        "Amendments",
+        "Modifications",
+        "Extensions",
+        "Regulations",
+        "Veterans Affairs",
+        "Federal Employment",
+        "Land Management"
+    ],
+    "title": "Amending and Modifying Existing Regulations and Orders",
+    "request": {
+        "cluster": 11,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3661,
+        "output_tokens": 105
+    }
+}

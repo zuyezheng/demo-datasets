@@ -1,0 +1,22 @@
+{
+    "analysis": "The documents primarily concern land management and resource allocation in Alaska, with a focus on setting aside land for various federal uses, including military reservations, naval purposes, townsite development, and other government facilities. Many orders modify or revoke previous orders, adjusting land designations and uses. Some documents also address specific issues like homesteading rights, native fishing rights, and the regulation of alcohol and firearms.",
+    "tags": [
+        "Alaska",
+        "Land Management",
+        "Resource Allocation",
+        "Federal Land Use",
+        "Military Reservations",
+        "Townsite",
+        "Homesteading",
+        "Native Rights"
+    ],
+    "title": "Alaskan Land Designations and Resource Management",
+    "request": {
+        "cluster": 2,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 9413,
+        "output_tokens": 106
+    }
+}

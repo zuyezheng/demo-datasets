@@ -1,0 +1,18 @@
+{
+    "analysis": "The documents are all amendments to previous executive orders, modifying specific sections and details within them. They cover topics such as federal executive salaries, military flight incentive pay, and the Presidential Management Intern Program. The sentiment is neutral, as they are simply administrative changes.",
+    "tags": [
+        "Executive Order Amendment",
+        "Administrative Change",
+        "Governmental Organization",
+        "Federal Employee Management"
+    ],
+    "title": "Amendments to Existing Executive Orders",
+    "request": {
+        "cluster": 1,
+        "sample_size": 3
+    },
+    "stats": {
+        "input_tokens": 737,
+        "output_tokens": 72
+    }
+}

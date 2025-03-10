@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents consist of executive orders, mostly from Franklin D. Roosevelt and Herbert Hoover, concerning the withdrawal or revocation of withdrawal of public lands for resurvey in various states including Wyoming, Colorado, New Mexico, Utah, Arizona, Arkansas and Nevada. The orders specify townships and ranges based on principal meridians. The purpose is to facilitate accurate land management and prevent conflicting claims during the resurvey process.",
+    "tags": [
+        "Land Resurvey",
+        "Public Land Management",
+        "Land Withdrawal",
+        "Township and Range",
+        "Principal Meridian"
+    ],
+    "title": "Land Resurvey and Withdrawal Management",
+    "request": {
+        "cluster": 24,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 10807,
+        "output_tokens": 105
+    }
+}

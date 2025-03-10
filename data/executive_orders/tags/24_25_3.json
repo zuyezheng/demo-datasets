@@ -1,0 +1,25 @@
+{
+    "analysis": "The documents in this cluster relate to the management of public lands, specifically concerning the withdrawal and revocation of land from settlement, location, sale, entry, and appropriation. These actions are often related to pending or completed resurveys of townships in various states like Colorado, New Mexico, Wyoming, Utah, Minnesota, and Arizona. The documents cite the Act of June 25, 1910, and its amendment in 1912 as the legal basis for these actions. Some orders establish withdrawals pending resurveys, while others revoke previous withdrawal orders after resurveys are completed. A common theme is the adjustment of land status based on the need for accurate surveys and classifications.",
+    "tags": [
+        "Public Lands",
+        "Resurvey",
+        "Land Withdrawal",
+        "Land Revocation",
+        "Township",
+        "Colorado",
+        "New Mexico",
+        "Wyoming",
+        "Utah",
+        "Minnesota",
+        "Arizona"
+    ],
+    "title": "Adjustments to Public Land Status for Resurvey Purposes",
+    "request": {
+        "cluster": 24,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 5332,
+        "output_tokens": 171
+    }
+}

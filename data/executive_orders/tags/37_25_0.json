@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents in this cluster share the common theme of mourning and remembrance of deceased individuals, including former presidents, vice presidents, secretaries of state, Supreme Court justices, and soldiers who died in service. They involve directives for flags to be flown at half-staff, government offices to be closed, and military and naval honors to be rendered. The documents express sorrow and respect for the deceased, highlighting their contributions and service to the nation.",
+    "tags": [
+        "mourning",
+        "remembrance",
+        "deceased",
+        "half-staff",
+        "military honors",
+        "naval honors",
+        "government closure"
+    ],
+    "title": "Expressions of National Mourning and Remembrance",
+    "request": {
+        "cluster": 37,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 5018,
+        "output_tokens": 111
+    }
+}

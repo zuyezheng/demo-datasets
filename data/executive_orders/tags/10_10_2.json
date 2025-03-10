@@ -1,0 +1,22 @@
+{
+    "analysis": "The documents primarily concern land management and conservation, involving the establishment, modification, and revocation of land reserves, national forests, and parks. They specify geographical locations, often using survey data and legal descriptions, and cite the legal authority under which these actions are taken. The sentiment is neutral, focusing on administrative actions related to land use.",
+    "tags": [
+        "Land Management",
+        "Conservation",
+        "Public Land",
+        "Geographic Specification",
+        "Legal Authority",
+        "Land Reserve",
+        "National Forest",
+        "National Park"
+    ],
+    "title": "Land Management Directives",
+    "request": {
+        "cluster": 10,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3021,
+        "output_tokens": 88
+    }
+}

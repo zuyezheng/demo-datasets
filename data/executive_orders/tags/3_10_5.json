@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents all pertain to the inspection of tax returns by various government entities, including congressional committees, the Military Renegotiation Policy and Review Board, the Federal Trade Commission, and the Department of Agriculture. They specify which tax returns are open for inspection, the years covered, and the reasons for inspection, often referencing sections of the Internal Revenue Code. The documents authorize these inspections under specific conditions and regulations set by the Secretary of the Treasury.",
+    "tags": [
+        "tax returns",
+        "inspection",
+        "Internal Revenue Code",
+        "congressional committees",
+        "Federal Trade Commission",
+        "Department of Agriculture",
+        "Military Renegotiation Policy and Review Board"
+    ],
+    "title": "Authorizing Inspection of Tax Returns",
+    "request": {
+        "cluster": 3,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 2792,
+        "output_tokens": 120
+    }
+}

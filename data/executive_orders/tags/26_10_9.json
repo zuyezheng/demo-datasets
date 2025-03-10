@@ -1,0 +1,22 @@
+{
+    "analysis": "The documents in this cluster primarily concern governmental actions related to national-level administration, including adjustments to regulations, delegation of authority, and responses to national emergencies. They cover a range of topics such as adjustments to retirement funds, foreign service regulations, labor disputes affecting war efforts, postal service disruptions, modifications to transportation contracts, export controls, establishment of advisory boards, land restoration, and wildlife refuge management. The sentiment is largely neutral, focusing on the execution of laws and the management of government functions.",
+    "tags": [
+        "Government Administration",
+        "Regulation Adjustment",
+        "Delegation of Authority",
+        "National Emergency Response",
+        "Economic Policy",
+        "Resource Management",
+        "Labor Relations",
+        "Foreign Affairs"
+    ],
+    "title": "Administrative Actions and National Management",
+    "request": {
+        "cluster": 26,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 7500,
+        "output_tokens": 126
+    }
+}

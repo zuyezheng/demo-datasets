@@ -1,0 +1,23 @@
+{
+    "analysis": "The documents primarily concern the withdrawal, reservation, or modification of public lands for various governmental uses, including military purposes, lighthouse maintenance, forest service operations, grazing research, and reclamation projects. Many of the orders cite the Act of June 25, 1910, as amended, as the legal basis for these actions. Some orders also deal with the administration of land resources, such as mineral rights and land disposition under the Bankhead-Jones Farm Tenant Act. There's a recurring theme of land management and resource allocation by the federal government.",
+    "tags": [
+        "land management",
+        "resource allocation",
+        "public land withdrawal",
+        "federal land reservation",
+        "Taylor Grazing Act",
+        "Bankhead-Jones Farm Tenant Act",
+        "reclamation",
+        "forest service",
+        "military land"
+    ],
+    "title": "Federal Land Management and Resource Allocation",
+    "request": {
+        "cluster": 20,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 2528,
+        "output_tokens": 148
+    }
+}

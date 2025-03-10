@@ -1,0 +1,26 @@
+{
+    "analysis": "The documents relate to the transfer, reservation, or restoration of land, often involving military or naval purposes, lighthouse reservations, national forests, or other public uses. Many documents concern land in Hawaii, Alaska, the Philippines, or the Canal Zone. Descriptions of land boundaries, coordinates, and areas are common. Some documents address corrections to previous orders or adjustments to land use agreements.",
+    "tags": [
+        "Land Management",
+        "Territorial Administration",
+        "Resource Allocation",
+        "Geographic Boundaries",
+        "Military Reservations",
+        "Naval Reservations",
+        "Lighthouse Reservations",
+        "National Forests",
+        "Hawaii",
+        "Alaska",
+        "Philippines",
+        "Canal Zone"
+    ],
+    "title": "Land Transfers and Reservations",
+    "request": {
+        "cluster": 17,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 35731,
+        "output_tokens": 106
+    }
+}

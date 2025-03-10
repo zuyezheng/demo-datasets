@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents are all executive orders that delegate or amend authority related to legal services, foreign relations, and foreign assistance. They all reference specific acts and sections of the US Code.",
+    "tags": [
+        "legal services",
+        "foreign relations",
+        "foreign assistance",
+        "authority delegation",
+        "US Code"
+    ],
+    "title": "Delegation of Authority Regarding Legal Services, Foreign Relations, and Foreign Assistance",
+    "request": {
+        "cluster": 5,
+        "sample_size": 3
+    },
+    "stats": {
+        "input_tokens": 721,
+        "output_tokens": 63
+    }
+}

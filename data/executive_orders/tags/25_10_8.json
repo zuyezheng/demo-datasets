@@ -1,0 +1,23 @@
+{
+    "analysis": "The documents primarily concern land management and resource allocation in Arizona and New Mexico. They involve transferring land control between different departments (e.g., Agriculture, Interior, Treasury), establishing or modifying national forest boundaries, creating or adjusting Indian reservations, and designating land for specific uses like customs-immigration stations, target ranges, and grazing districts. A recurring theme is the modification or revocation of previous orders to accommodate new needs or correct past actions.",
+    "tags": [
+        "Land Management",
+        "Resource Allocation",
+        "Arizona",
+        "New Mexico",
+        "National Forest",
+        "Indian Reservation",
+        "Grazing",
+        "Target Range",
+        "Customs-Immigration"
+    ],
+    "title": "Land Resource Management in Arizona and New Mexico",
+    "request": {
+        "cluster": 25,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3916,
+        "output_tokens": 116
+    }
+}

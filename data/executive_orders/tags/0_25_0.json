@@ -1,0 +1,22 @@
+{
+    "analysis": "The documents consist of orders, directives, and instructions issued by the President of the United States, often through the War Department or other executive departments. The common themes include military operations, personnel assignments, resource allocation, and governance during periods of war and reconstruction. Sentiment is generally neutral, focusing on the execution of policy and maintenance of order.",
+    "tags": [
+        "Military",
+        "Orders",
+        "Personnel",
+        "Resources",
+        "Governance",
+        "Reconstruction",
+        "Policy",
+        "Civil War"
+    ],
+    "title": "Presidential Directives on Military and Governance",
+    "request": {
+        "cluster": 0,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 6793,
+        "output_tokens": 86
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents consist of announcements and orders regarding national mourning, remembrance of fallen soldiers, and the closing of government offices to honor deceased presidents, military figures, and other notable individuals. The sentiment is somber and respectful, reflecting grief and a desire to pay tribute to the deceased and those who served the nation.",
+    "tags": [
+        "national mourning",
+        "remembrance",
+        "government closure",
+        "deceased leaders",
+        "military honors"
+    ],
+    "title": "Announcements of Mourning and Remembrance",
+    "request": {
+        "cluster": 37,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 2635,
+        "output_tokens": 80
+    }
+}

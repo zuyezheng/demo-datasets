@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents all pertain to land reservations and withdrawals in Alaska. They specify geographical coordinates and reference previous orders. The purpose of the reservations varies, including road construction, classification, and naval use.",
+    "tags": [
+        "Alaska",
+        "Land Reservation",
+        "Geographical Coordinates",
+        "Withdrawal",
+        "Public Land"
+    ],
+    "title": "Alaskan Land Reservations and Withdrawals",
+    "request": {
+        "cluster": 2,
+        "sample_size": 3
+    },
+    "stats": {
+        "input_tokens": 1403,
+        "output_tokens": 57
+    }
+}

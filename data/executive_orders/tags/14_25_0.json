@@ -1,0 +1,27 @@
+{
+    "analysis": "The documents primarily concern the withdrawal, reservation, or revocation of public lands in California, and occasionally Nevada and New Mexico. These actions are often related to specific purposes such as reclamation, forest protection (lookout stations), military use, lighthouse purposes, public roads, camp grounds, or power transmission lines. Many orders modify or revoke previous orders, particularly Executive Order No. 6910. The documents frequently cite the Act of June 25, 1910, as amended, as the legal basis for these actions. The land descriptions are detailed, using meridian-based coordinates.",
+    "tags": [
+        "Land Management",
+        "California",
+        "Public Land",
+        "Withdrawal",
+        "Reservation",
+        "Revocation",
+        "Meridian",
+        "Forest Protection",
+        "Military",
+        "Reclamation",
+        "Power Transmission",
+        "Camp Grounds",
+        "Lighthouse"
+    ],
+    "title": "California Land Actions and Reservations",
+    "request": {
+        "cluster": 14,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 6033,
+        "output_tokens": 151
+    }
+}

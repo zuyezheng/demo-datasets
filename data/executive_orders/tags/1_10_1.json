@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents in this cluster all pertain to amendments to previous Executive Orders. The amendments cover a range of topics, including changes to personnel, advisory councils, and agency responsibilities. The sentiment is neutral, as they are simply making adjustments to existing orders.",
+    "tags": [
+        "Amendment",
+        "Executive Order",
+        "Personnel",
+        "Advisory Council",
+        "Agency Responsibility"
+    ],
+    "title": "Amendments to Existing Executive Orders",
+    "request": {
+        "cluster": 1,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 2088,
+        "output_tokens": 68
+    }
+}

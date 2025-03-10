@@ -1,0 +1,18 @@
+{
+    "analysis": "The documents in this cluster are all executive orders that delegate authority to various government officials and agencies. They cover a range of topics, including foreign assistance, defense, personnel management, and trade. A common theme is the delegation of presidential power to other entities within the government.",
+    "tags": [
+        "Delegation of Authority",
+        "Government Agencies",
+        "Presidential Powers",
+        "Executive Branch"
+    ],
+    "title": "Delegation of Presidential Authority to Government Officials",
+    "request": {
+        "cluster": 5,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 4599,
+        "output_tokens": 76
+    }
+}

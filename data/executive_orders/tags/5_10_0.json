@@ -1,0 +1,18 @@
+{
+    "analysis": "The documents consist of executive orders issued by various US presidents. They delegate authority to specific individuals or departments, amend previous executive orders, or establish committees and conferences. The topics covered include environmental conservation, selective service, border facilities, voting assistance, safeguarding information, foreign exchange, civil service rules, cost-of-living allowances, and the North American Free Trade Agreement. The sentiment is neutral, as they are legal and administrative directives.",
+    "tags": [
+        "Delegation of Authority",
+        "Amendment of Executive Orders",
+        "Administrative Directives",
+        "Governmental Coordination"
+    ],
+    "title": "Executive Authority and Administrative Management",
+    "request": {
+        "cluster": 5,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3636,
+        "output_tokens": 108
+    }
+}

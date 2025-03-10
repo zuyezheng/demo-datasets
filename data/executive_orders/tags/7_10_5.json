@@ -1,0 +1,23 @@
+{
+    "analysis": "The documents in this cluster concern the establishment, modification, and abolishment of restricted areas (airspace and sea) for national defense purposes. These areas are often near military installations or strategic locations. The documents specify the geographic boundaries of these zones and the restrictions imposed on civilian access, with enforcement handled by military authorities. Some documents also address labor regulations in the context of defense projects.",
+    "tags": [
+        "National Defense",
+        "Restricted Areas",
+        "Airspace",
+        "Sea Area",
+        "Military Installations",
+        "Geographic Boundaries",
+        "Civilian Restrictions",
+        "Enforcement",
+        "Labor Regulations"
+    ],
+    "title": "Defense Zones: Establishment, Modification, and Abolishment",
+    "request": {
+        "cluster": 7,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 4849,
+        "output_tokens": 110
+    }
+}

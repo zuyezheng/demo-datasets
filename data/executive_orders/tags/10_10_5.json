@@ -1,0 +1,20 @@
+{
+    "analysis": "The documents primarily concern the modification, revocation, or creation of land reserves and withdrawals for various purposes such as water, power sites, coal, and national monuments. They specify land descriptions using township, range, and meridian coordinates. The documents also involve actions related to civilian conservation corps work, air-navigation facilities, and rights-of-way for railroads and pipelines.",
+    "tags": [
+        "Land Management",
+        "Public Land",
+        "Land Reserve",
+        "Land Withdrawal",
+        "Geographic Coordinates",
+        "Resource Management"
+    ],
+    "title": "Land Management Actions",
+    "request": {
+        "cluster": 10,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 4037,
+        "output_tokens": 92
+    }
+}

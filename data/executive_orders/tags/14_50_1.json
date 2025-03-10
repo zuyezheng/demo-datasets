@@ -1,0 +1,25 @@
+{
+    "analysis": "The documents primarily concern land transactions, withdrawals, reservations, and modifications of previous orders related to public lands in California. They involve various government departments and agencies, including the Department of Agriculture, Department of the Navy, War Department, Federal Power Commission, and General Land Office. The documents often cite specific acts of Congress as the basis for the actions taken. Many of the documents involve the establishment or modification of reserves for specific purposes, such as lighthouse purposes, air mail beacon sites, reservoir sites, fire lookout sites, military purposes, Indian use, townsite purposes, national parks, naval petroleum reserves, and camp-ground purposes. A recurring theme is the resurvey of townships and the temporary withdrawal of lands pending such resurveys. Several documents also revoke or modify previous executive orders related to land use and classification.",
+    "tags": [
+        "Land Transactions",
+        "California",
+        "Public Land",
+        "Land Withdrawal",
+        "Land Reservation",
+        "Resurvey",
+        "Governmental Land Use",
+        "Military Land Use",
+        "Forest Protection",
+        "Naval Reserve",
+        "Indian Land"
+    ],
+    "title": "California Land Management and Resource Allocation",
+    "request": {
+        "cluster": 14,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 12569,
+        "output_tokens": 196
+    }
+}

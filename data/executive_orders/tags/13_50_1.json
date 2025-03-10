@@ -1,0 +1,25 @@
+{
+    "analysis": "The documents in this cluster primarily concern actions taken by the US government, particularly the President, during times of war or national emergency. A recurring theme is the authorization of government officials (Secretaries of War/Navy, Administrators, etc.) to take control of private industries, facilities, or resources deemed essential for the war effort. This includes addressing labor disputes, ensuring the production of war materials, managing resources, and coordinating various agencies to support the war effort. Many orders address labor disputes and authorize the seizure of facilities to maintain production. A common thread is the invocation of powers granted by the Constitution, specific acts of Congress (like the First War Powers Act, Selective Training and Service Act, War Labor Disputes Act), and declarations of national emergency.",
+    "tags": [
+        "War Effort",
+        "National Emergency",
+        "Labor Disputes",
+        "Government Control",
+        "Resource Management",
+        "Agency Coordination",
+        "Production",
+        "Seizure of Facilities",
+        "War Powers",
+        "Defense",
+        "Mobilization"
+    ],
+    "title": "Emergency Powers for Wartime Production and Resource Control",
+    "request": {
+        "cluster": 13,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 29111,
+        "output_tokens": 184
+    }
+}

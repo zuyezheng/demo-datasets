@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents in this cluster primarily concern international relations and trade. They address issues such as tobacco use, sanctions against Burma, terrorism in Afghanistan, intellectual property rights, and trade agreements like NAFTA. The documents also cover topics such as faith-based initiatives and government workforce management.",
+    "tags": [
+        "International Relations",
+        "Trade",
+        "Sanctions",
+        "Terrorism",
+        "Intellectual Property",
+        "Faith-Based Initiatives",
+        "Workforce Management"
+    ],
+    "title": "Global Commerce and Security Initiatives",
+    "request": {
+        "cluster": 32,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 9362,
+        "output_tokens": 79
+    }
+}

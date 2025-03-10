@@ -1,0 +1,27 @@
+{
+    "analysis": "The documents in this cluster consist of executive orders issued by Presidents Clinton and Bush. They cover a diverse range of topics, including federal procurement, environmental protection (coral reefs, energy efficiency), international relations (Haiti, Burma, Angola, Taiwan), economic policy, labor relations, disability accommodation, tribal relations, and government organization. Despite the variety, a common thread is the use of executive authority to address specific issues, often with the goal of improving government efficiency, promoting certain social or economic goals, or responding to international crises.",
+    "tags": [
+        "Federal Procurement",
+        "Environmental Protection",
+        "International Relations",
+        "Economic Policy",
+        "Labor Relations",
+        "Disability Accommodation",
+        "Tribal Relations",
+        "Government Organization",
+        "Executive Authority",
+        "Government Efficiency",
+        "Social Goals",
+        "Economic Goals",
+        "International Crises"
+    ],
+    "title": "Executive Actions on Diverse Policy Matters",
+    "request": {
+        "cluster": 32,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 25753,
+        "output_tokens": 141
+    }
+}

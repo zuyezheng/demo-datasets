@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents in this cluster primarily concern executive orders related to government administration, specifically focusing on personnel management, safety, and security. One order addresses the deferment of government employees during wartime, while another focuses on occupational safety and health programs for federal employees. A third order outlines a uniform federal personnel security program for employees with access to classified information. The common thread is the establishment and maintenance of standards and procedures for government employees.",
+    "tags": [
+        "Government Administration",
+        "Personnel Management",
+        "Safety",
+        "Security",
+        "Federal Employees"
+    ],
+    "title": "Government Employee Standards and Procedures",
+    "request": {
+        "cluster": 48,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 11982,
+        "output_tokens": 101
+    }
+}

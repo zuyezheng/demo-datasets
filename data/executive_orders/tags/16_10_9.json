@@ -1,0 +1,20 @@
+{
+    "analysis": "The documents all pertain to labor disputes within the transportation industry (railroads and airlines). They all invoke the Railway Labor Act and create a board of three members to investigate the dispute and report findings to the President within 30 days. The disputes, according to the National Mediation Board, threaten to interrupt interstate commerce. The orders aim to prevent changes to the conditions of the dispute during the investigation period.",
+    "tags": [
+        "labor dispute",
+        "transportation",
+        "railway labor act",
+        "mediation board",
+        "interstate commerce",
+        "emergency board"
+    ],
+    "title": "Emergency Boards to Investigate Transportation Labor Disputes",
+    "request": {
+        "cluster": 16,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3390,
+        "output_tokens": 104
+    }
+}

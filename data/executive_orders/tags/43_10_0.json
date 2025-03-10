@@ -1,0 +1,20 @@
+{
+    "analysis": "The documents consist of executive orders and presidential actions. They all delegate authority to different departments and agencies, establish committees or task forces, or address specific issues like disaster assistance, international economic development, oil spill pollution, child support enforcement, intelligence capabilities, strategic forces, fair competition in industries, naval reservations, and prescription drug prices. The documents share a common theme of presidential directives and delegation of power to address various national and international concerns.",
+    "tags": [
+        "Presidential Directives",
+        "Delegation of Authority",
+        "Governmental Regulations",
+        "National Security",
+        "Economic Policy",
+        "International Affairs"
+    ],
+    "title": "Presidential Delegations and National Directives",
+    "request": {
+        "cluster": 43,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 8299,
+        "output_tokens": 111
+    }
+}

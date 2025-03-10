@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents in this cluster are all executive orders related to wartime powers and actions. They cover a range of topics including control of transportation systems and utilities, financial measures, dissemination of information, and delegation of authority for defense mobilization. The sentiment is neutral, focused on the practical execution of wartime governance.",
+    "tags": [
+        "wartime powers",
+        "national defense",
+        "emergency management",
+        "economic mobilization",
+        "delegation of authority"
+    ],
+    "title": "Wartime Executive Actions",
+    "request": {
+        "cluster": 13,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 4518,
+        "output_tokens": 80
+    }
+}

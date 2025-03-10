@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents consist of executive orders from different presidential administrations. They cover a diverse range of topics, including foreign policy (Bosnia, Iraq, Kosovo), domestic policy (personal fitness, volunteer service), and government operations (salary council, defense production). A common thread is the use of presidential authority to address specific issues, delegate powers, and establish or modify government structures and policies. Many of the orders address national emergencies or specific international situations, while others focus on improving government efficiency or promoting certain social goals.",
+    "tags": [
+        "Presidential Authority",
+        "Delegation of Power",
+        "Policy Implementation",
+        "National Security",
+        "Government Efficiency"
+    ],
+    "title": "Presidential Directives: Exercising Executive Authority",
+    "request": {
+        "cluster": 32,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 9266,
+        "output_tokens": 123
+    }
+}

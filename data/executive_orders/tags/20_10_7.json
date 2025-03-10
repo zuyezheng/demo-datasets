@@ -1,0 +1,20 @@
+{
+    "analysis": "The documents primarily concern the temporary withdrawal of public lands from settlement, location, sale, or entry, often for specific governmental uses such as elk refuges, war department target ranges, forest service facilities, or general investigation and classification. A recurring theme is the reference to the Act of June 25, 1910, as amended, which grants the President authority to make these withdrawals. Some orders revoke previous withdrawals or transfer custody of land between departments.",
+    "tags": [
+        "Land Withdrawal",
+        "Public Land",
+        "Governmental Use",
+        "Act of June 25, 1910",
+        "Revocation",
+        "Transfer of Custody"
+    ],
+    "title": "Public Land Withdrawals and Reservations",
+    "request": {
+        "cluster": 20,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3658,
+        "output_tokens": 127
+    }
+}

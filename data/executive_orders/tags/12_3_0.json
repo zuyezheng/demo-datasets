@@ -1,0 +1,17 @@
+{
+    "analysis": "The documents are all executive orders that amend previous executive orders. They all deal with modifying or revoking existing orders, sections, or paragraphs within them. The sentiment is neutral, as they are legal and administrative documents.",
+    "tags": [
+        "Amends Previous Executive Orders",
+        "Modifies Existing Orders",
+        "Revokes Existing Orders"
+    ],
+    "title": "Executive Order Amendments and Modifications",
+    "request": {
+        "cluster": 12,
+        "sample_size": 3
+    },
+    "stats": {
+        "input_tokens": 1482,
+        "output_tokens": 66
+    }
+}

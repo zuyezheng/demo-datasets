@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents in this cluster primarily concern the establishment, modification, or revocation of restricted areas, including naval defensive sea areas and airspace reservations, for national defense and public safety. These areas are often defined by geographical coordinates and specific boundaries, with restrictions on navigation and activities within them. Some documents also address logistical and financial aspects related to military operations and personnel.",
+    "tags": [
+        "Restricted Areas",
+        "National Defense",
+        "Airspace",
+        "Naval",
+        "Boundaries",
+        "Geographic Coordinates",
+        "Navigation Restrictions"
+    ],
+    "title": "Geographically Defined Restricted Zones",
+    "request": {
+        "cluster": 7,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 10896,
+        "output_tokens": 92
+    }
+}

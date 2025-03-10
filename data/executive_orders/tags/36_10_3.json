@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents in this cluster are all executive orders. They cover a range of topics, including natural resources, critical minerals, COVID-19 response, climate change, trade, higher education, government personnel, and law enforcement. Despite the variety of topics, a common thread is the attempt to direct government policy and action through executive authority. Many of the orders establish task forces, direct agency actions, or modify existing regulations.",
+    "tags": [
+        "executive action",
+        "policy directives",
+        "agency coordination",
+        "federal regulations",
+        "domestic policy"
+    ],
+    "title": "Directing Federal Policy and Action",
+    "request": {
+        "cluster": 36,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 11048,
+        "output_tokens": 104
+    }
+}

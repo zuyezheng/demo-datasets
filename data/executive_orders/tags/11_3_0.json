@@ -1,0 +1,20 @@
+{
+    "analysis": "The documents all pertain to executive orders issued by US Presidents. They address extensions of committees, transfer of resources to the Virgin Islands, and exemptions from civil service requirements during a banking emergency. The documents reflect governmental actions taken during specific periods and circumstances.",
+    "tags": [
+        "Governmental Administration",
+        "Resource Allocation",
+        "Emergency Measures",
+        "Committee Extension",
+        "Virgin Islands",
+        "Banking Emergency"
+    ],
+    "title": "Executive Actions: Administration, Resources, and Emergencies",
+    "request": {
+        "cluster": 11,
+        "sample_size": 3
+    },
+    "stats": {
+        "input_tokens": 1157,
+        "output_tokens": 76
+    }
+}

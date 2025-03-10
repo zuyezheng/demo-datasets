@@ -1,0 +1,23 @@
+{
+    "analysis": "The documents in this cluster primarily concern trade regulations, agreements, and modifications to existing trade policies. They cover a range of topics including agricultural trade, export controls, tariff schedules, and preferential treatment for developing countries. Many documents amend previous executive orders to adjust trade practices, delegate authority, or implement new trade-related legislation. The documents also address national security concerns related to trade and economic factors.",
+    "tags": [
+        "Trade Regulations",
+        "Tariff Schedules",
+        "Export Controls",
+        "Agricultural Trade",
+        "International Agreements",
+        "Preferential Treatment",
+        "Developing Countries",
+        "National Security",
+        "Economic Policy"
+    ],
+    "title": "Trade Policy and Tariff Management",
+    "request": {
+        "cluster": 41,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 33311,
+        "output_tokens": 106
+    }
+}

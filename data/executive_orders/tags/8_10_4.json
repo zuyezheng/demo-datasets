@@ -1,0 +1,26 @@
+{
+    "analysis": "The documents in this cluster primarily concern national security and foreign policy, often invoking emergency powers to address specific threats. They cover a range of issues, including regulatory reform, responses to terrorism, employment of individuals with disabilities, counternarcotic operations, intelligence community integrity, economic recovery, border security, immigration, and sanctions related to Iraq and Syria. The documents reflect a focus on protecting national interests, managing crises, and implementing specific policy initiatives.",
+    "tags": [
+        "national security",
+        "foreign policy",
+        "emergency powers",
+        "regulatory reform",
+        "terrorism",
+        "disability employment",
+        "counternarcotics",
+        "intelligence",
+        "economic recovery",
+        "border security",
+        "immigration",
+        "sanctions"
+    ],
+    "title": "National Security and Emergency Response",
+    "request": {
+        "cluster": 8,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 11831,
+        "output_tokens": 121
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents all concern the reservation or withdrawal of public lands, primarily in Arizona and New Mexico, for specific purposes such as military use (rifle range), potash control, and Indian irrigation projects. They specify land descriptions using township, range, and section numbers. The documents also reference legal authority for these actions, citing acts of Congress.",
+    "tags": [
+        "Land Reservation",
+        "Land Withdrawal",
+        "Arizona",
+        "New Mexico",
+        "Military Use",
+        "Potash Control",
+        "Indian Irrigation"
+    ],
+    "title": "Land Reservations and Withdrawals for Military, Resource Control, and Irrigation Purposes",
+    "request": {
+        "cluster": 25,
+        "sample_size": 3
+    },
+    "stats": {
+        "input_tokens": 1238,
+        "output_tokens": 98
+    }
+}

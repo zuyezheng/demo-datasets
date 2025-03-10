@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents relate to economic regulations and presidential actions. Document 1 suspends wage and salary stabilization regulations under the Defense Production Act. Document 2 addresses a complaint regarding menthol imports potentially undermining the President's Reemployment Agreement. Document 3 designates the Secretary of the Interior as Administrator for the petroleum industry under the National Industrial Recovery Act.",
+    "tags": [
+        "Economic Regulations",
+        "Presidential Authority",
+        "Industry Oversight",
+        "Labor",
+        "Trade"
+    ],
+    "title": "Economic Intervention Directives",
+    "request": {
+        "cluster": 28,
+        "sample_size": 3
+    },
+    "stats": {
+        "input_tokens": 964,
+        "output_tokens": 83
+    }
+}

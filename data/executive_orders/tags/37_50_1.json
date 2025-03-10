@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents consist of orders and announcements from the President, War Department, Navy Department, and Department of State regarding the deaths of prominent figures, including former Presidents, Vice Presidents, Secretaries, military leaders, and other distinguished citizens. They prescribe mourning periods, flag displays at half-mast, closures of government offices, and military/naval honors. Some documents also concern the closure of government offices for events such as the decoration of soldiers' graves (Memorial Day), inaugurations, and dedications of monuments.",
+    "tags": [
+        "Death",
+        "Mourning",
+        "Government Closure",
+        "Military Honors",
+        "Flag Display"
+    ],
+    "title": "Government Observances of National Loss",
+    "request": {
+        "cluster": 37,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 12447,
+        "output_tokens": 119
+    }
+}

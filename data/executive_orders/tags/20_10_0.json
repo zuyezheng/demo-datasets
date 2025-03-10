@@ -1,0 +1,24 @@
+{
+    "analysis": "The documents all pertain to the withdrawal or reservation of public lands, often for specific purposes such as forest protection, military use, flood control, or land utilization projects. They involve descriptions of land areas using township, range, and section coordinates, and cite the authority of specific acts of Congress. Some orders revoke previous withdrawals or reservations. The documents specify that the withdrawals are temporary and subject to valid existing rights, and often allow for mineral resource development.",
+    "tags": [
+        "Land Withdrawal",
+        "Land Reservation",
+        "Public Land",
+        "Forest Protection",
+        "Military Use",
+        "Flood Control",
+        "Land Utilization",
+        "Revocation",
+        "Temporary Withdrawal",
+        "Mineral Resources"
+    ],
+    "title": "Public Land Actions",
+    "request": {
+        "cluster": 20,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 4388,
+        "output_tokens": 116
+    }
+}

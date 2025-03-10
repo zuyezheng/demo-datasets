@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents consist of executive orders, mostly issued by Franklin D. Roosevelt, that amend previous orders, delegate authority, or establish new policies. A common theme is the modification or clarification of existing governmental structures and procedures. Several orders relate to national defense and emergency management during the lead-up to and start of World War II. Some deal with internal governmental administration, such as personnel assignments, frequency allocations, and the design of official seals. Others concern the administration of territories like Puerto Rico.",
+    "tags": [
+        "Government Administration",
+        "Delegation of Authority",
+        "Amendment of Orders",
+        "National Defense",
+        "Emergency Management",
+        "World War II",
+        "Puerto Rico"
+    ],
+    "title": "Governmental Authority and Administrative Adjustments",
+    "request": {
+        "cluster": 11,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3442,
+        "output_tokens": 125
+    }
+}

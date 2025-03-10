@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents are all orders from US presidents that allow specific congressional committees to inspect tax returns for certain years. The reasons for inspection vary, including investigation of organized crime, the Federal-Aid Highway Program, and the national-defense program.",
+    "tags": [
+        "Tax Returns",
+        "Congressional Investigation",
+        "Internal Revenue Code",
+        "Senate Committee",
+        "House of Representatives"
+    ],
+    "title": "Authorizing Congressional Access to Tax Information",
+    "request": {
+        "cluster": 3,
+        "sample_size": 3
+    },
+    "stats": {
+        "input_tokens": 996,
+        "output_tokens": 71
+    }
+}

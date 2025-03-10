@@ -1,0 +1,20 @@
+{
+    "analysis": "The documents primarily focus on amending previous executive orders. The amendments cover a range of topics, including adjustments to the Executive Schedule levels for various government positions, modifications to interagency task forces, changes to selective service regulations, and adjustments to the membership of committees and administrations. A recurring theme is the modification of existing structures and regulations to adapt to changing needs or priorities.",
+    "tags": [
+        "Amendment",
+        "Government Positions",
+        "Regulations",
+        "Interagency Task Force",
+        "Executive Schedule",
+        "Selective Service"
+    ],
+    "title": "Amendments to Existing Executive Orders",
+    "request": {
+        "cluster": 1,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 4591,
+        "output_tokens": 94
+    }
+}

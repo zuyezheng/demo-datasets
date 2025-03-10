@@ -1,0 +1,22 @@
+{
+    "analysis": "The documents primarily concern land management and resource allocation in Alaska. They include the withdrawal of land from settlement for various purposes such as conservation, military use, and scientific research, as well as the restoration of land for entry under public-land laws. Some documents also address the transition of the Alaskan court system and the designation of representatives for land selection approval. The sentiment is neutral, focusing on legal and administrative actions.",
+    "tags": [
+        "Alaska",
+        "Land Management",
+        "Resource Allocation",
+        "Withdrawal",
+        "Restoration",
+        "Public Land",
+        "Conservation",
+        "Territorial Governance"
+    ],
+    "title": "Alaskan Land and Resource Management",
+    "request": {
+        "cluster": 2,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 2970,
+        "output_tokens": 105
+    }
+}

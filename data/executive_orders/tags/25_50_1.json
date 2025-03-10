@@ -1,0 +1,24 @@
+{
+    "analysis": "The documents primarily concern land management and resource allocation in Arizona and New Mexico. They involve establishing, modifying, or revoking reservations and withdrawals of public lands for various purposes, including use by Native American tribes, government agencies (e.g., Customs Service, War Department), and for specific projects (e.g., irrigation, canalization, bombing ranges). Many orders involve transferring control of lands between different departments (e.g., Agriculture, Interior, Treasury). A recurring theme is the amendment or revocation of previous orders to adjust land use based on changing needs or priorities.",
+    "tags": [
+        "Land Management",
+        "Resource Allocation",
+        "Arizona",
+        "New Mexico",
+        "Native American Reservations",
+        "Government Use",
+        "Land Transfer",
+        "Public Lands",
+        "Withdrawal",
+        "Reservation"
+    ],
+    "title": "Adjustments to Land Reservations and Withdrawals in Arizona and New Mexico",
+    "request": {
+        "cluster": 25,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 15070,
+        "output_tokens": 149
+    }
+}
