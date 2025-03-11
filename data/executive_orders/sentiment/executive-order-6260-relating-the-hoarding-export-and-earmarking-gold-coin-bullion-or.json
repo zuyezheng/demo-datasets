@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 2,
-        "surprise": 2
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding gold regulation during a national emergency. The language is legal and official, not designed to evoke strong emotions. However, the context of a national emergency might induce some level of fear or concern. The order aims to provide relief and regulate financial activities, which could be interpreted as a measure of control and potentially cause some level of disgust or surprise depending on one's perspective. Given the formal nature, I expect the emotional impact to be relatively low across all emotions.",
+    "critique": "The document is a formal executive order addressing a national emergency related to banking and the regulation of gold. The primary emotion conveyed is a sense of urgency and seriousness, with an underlying tone of authority and control. There is a hint of fear due to the national emergency, but it is not the dominant emotion. There's no explicit joy or surprise. Disgust is not applicable in this context. Sadness is also not a primary emotion, although the context of a national emergency might imply some level of concern or sadness about the situation.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 2,
-        "surprise": 2
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
     }
 }

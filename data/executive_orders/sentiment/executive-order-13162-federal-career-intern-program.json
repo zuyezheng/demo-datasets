@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order establishing the Federal Career Intern Program. The language is formal and bureaucratic, with the purpose of outlining the program's structure and objectives. There is no strong emotional sentiment conveyed in the document. The primary goal is to inform and direct, not to evoke a particular emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing the Federal Career Intern Program. The language is formal and legalistic. There is a sense of optimism and purpose in attracting exceptional employees and developing their careers. However, the primary tone is official and procedural. Therefore, joy and surprise are low. Sadness, fear, and disgust are also low as the document does not express negative emotions.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order amending a previous order related to the Trading with the Enemy Act. It specifies changes to definitions and includes Hong Kong under certain restrictions. The language is formal and legalistic. There is no explicit expression of emotion. However, the inclusion of Hong Kong and references to territories controlled by foreign countries suggest a context of international conflict and potential threat, which might evoke a sense of fear or concern. The order itself aims to establish clarity and control, which could be interpreted as a response to a situation causing concern. Considering the historical context (1941), the order likely relates to World War II. Given the lack of explicit emotional language, the initial scores are generally low. However, a slight elevation of fear is warranted due to the context.",
+    "critique": "The document is a formal amendment to an executive order. It primarily uses legal and administrative language. There is no strong emotional language. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

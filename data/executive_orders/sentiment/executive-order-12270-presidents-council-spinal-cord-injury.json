@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a council on spinal cord injury. The language is formal and bureaucratic, with no explicit emotional expression. However, the creation of such a council could implicitly convey a sense of hope and concern for those affected by spinal cord injuries. Therefore, I will assign low scores for joy and sadness, and a minimal score for surprise. Disgust, fear, and anger are not relevant in this context.",
+    "critique": "The document is a formal executive order establishing a council on spinal cord injury. The language is formal and legalistic. There is no explicit expression of emotions. However, the establishment of such a council could imply a sense of hope (joy) for those affected by spinal cord injuries and a sense of concern (sadness) for their situation. Fear, disgust, and surprise are not evident. Considering the formal nature, the emotional scores should be low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 2,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing various boards and assigning powers related to trade and commerce during wartime. The language is legalistic and administrative, with no explicit emotional expression. However, the context of wartime suggests underlying emotions related to national security and the potential threat from enemies. The order aims to control trade, communication, and property to protect the country. Therefore, a low level of fear and perhaps a slightly higher level of disgust towards the enemy might be inferred. Joy and surprise are not relevant. Sadness might be present due to the context of war, but it's not directly conveyed in the text.",
+    "critique": "The document is a formal executive order establishing various boards and assigning powers related to trade and commerce during wartime. The language is legalistic and focuses on establishing authority and outlining responsibilities. There is no explicit expression of emotions like joy, sadness, fear, disgust, or surprise. However, the context of wartime implies a sense of urgency and seriousness. The document aims to ensure national security and control resources, which could be interpreted as a response to a perceived threat. Therefore, a low level of fear might be present. Given the formal nature and lack of emotional language, most emotions should be scored very low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
-        "disgust": 4,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     }
 }

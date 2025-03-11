@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The document is a formal executive order establishing the Army Specialist Corps during World War II. The language is legalistic and bureaucratic, with no overt emotional expression. The purpose is to create a structure for employing civilian specialists in the War Department. Therefore, the expected emotional response from the public would be minimal. Most emotions should be scored low, with a slight consideration for surprise due to the establishment of a new corps.",
+    "critique": "The document is a formal executive order establishing the Army Specialist Corps during World War II. It focuses on the legal and administrative aspects of creating this corps, including appointment, supervision, pay, and recruitment. The language is formal and bureaucratic, with no explicit emotional expression. However, the context of wartime implies a sense of urgency and purpose. Given the formal nature, the emotional scores should be relatively low, reflecting the absence of overt emotional language.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 2
     }

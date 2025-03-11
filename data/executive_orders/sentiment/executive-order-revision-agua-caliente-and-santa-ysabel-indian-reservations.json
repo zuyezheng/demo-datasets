@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order regarding land boundaries of Indian Reservations. It primarily uses legal and geographical language. There is no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Considering it is a formal document, a baseline of 1 is appropriate where there isn't enough information.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

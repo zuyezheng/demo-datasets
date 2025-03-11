@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 2,
-        "disgust": 2,
-        "surprise": 2
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The document expresses concern and a desire for improvement in the civil service system. There's no strong indication of intense emotions like joy, sadness, anger, fear, disgust, or surprise. The tone is formal and professional, aiming for efficiency and fairness. The president seems to be conveying a sense of responsibility and a desire to rectify inconsistencies. Therefore, the initial scores for all emotions are relatively low.",
+    "critique": "The document is a formal letter from the President to the United States Civil Service Commission. The President is making a suggestion regarding civil-service rules and requesting a plan for testing the merits of certain cases. The tone is serious and professional. There is a hint of concern about potential misuse of the rules and a desire for uniformity and fairness. Given the formal nature of the document, the emotion scores should be relatively low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 2,
         "surprise": 2
     }

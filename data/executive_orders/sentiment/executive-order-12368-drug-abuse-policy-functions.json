@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding drug abuse policy. It is unlikely to evoke strong emotions in the general public. The primary emotions might be a mild sense of surprise or perhaps a touch of sadness related to the ongoing issue of drug abuse, but these would be very muted. Disgust, fear, and joy are unlikely to be conveyed at all.",
+    "critique": "The document is a formal executive order regarding drug abuse policy. It primarily focuses on assigning responsibilities and clarifying roles within the Executive Office. There is no strong emotional language used. Therefore, most emotions should be scored low. There might be a slight sense of determination or seriousness, but it's not explicitly conveyed. Considering the formal nature, a baseline of 1 is appropriate for emotions not explicitly present.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

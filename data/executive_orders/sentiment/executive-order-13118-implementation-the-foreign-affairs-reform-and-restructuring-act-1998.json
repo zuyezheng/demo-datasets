@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding delegation of functions related to foreign assistance. It is a formal and legal document. Therefore, it is unlikely to convey strong emotions to the American public. The primary emotions that might be conveyed are related to the impact of the order on foreign policy and aid, but these would be mild. Most people will not have any emotional response. I will assign low scores across the board, with slightly higher scores for emotions related to potential policy changes (surprise, perhaps mild fear or joy depending on their political views).",
+    "critique": "The document is a formal executive order, so it is unlikely to convey strong emotions. The document primarily focuses on delegating authority and amending previous executive orders. Therefore, the scores for all emotions should be relatively low, with a baseline of 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

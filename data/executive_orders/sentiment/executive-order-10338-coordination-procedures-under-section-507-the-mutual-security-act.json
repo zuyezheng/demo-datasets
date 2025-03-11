@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order. It is a formal and legal document. The language is very formal and does not convey any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order. It primarily focuses on establishing clear lines of authority and coordination for the implementation of the Mutual Security Act of 1951. The language is precise and legalistic, with an emphasis on ensuring unified action and preventing duplication of effort. There is no explicit expression of emotions. However, a very slight sense of determination and resolve can be inferred from the directive nature of the order. Therefore, all emotions are scored low, with a slightly higher score for determination which translates to a low joy score.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

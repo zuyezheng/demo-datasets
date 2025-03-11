@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 1
-    },
-    "critique": "The document is a formal order from the President. It directs the Secretary of the Treasury to deploy Coast Guard vessels to aid distressed navigators during severe weather. The language is formal and bureaucratic, with no explicit emotional expression. However, there might be an implicit sense of care and concern for the safety of navigators. Initial scores: Disgust: 1, Fear: 2, Joy: 1, Sadness: 3, Surprise: 1. Revised scores: Disgust: 1, Fear: 1, Joy: 1, Sadness: 1, Surprise: 1",
-    "revised_scores": {
-        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
+    },
+    "critique": "The document is a formal order from the President of the United States to the Secretary of the Treasury and the Commandant of the Coast Guard. It directs the Coast Guard to provide assistance to distressed navigators during severe weather. The language is formal and official. There is a sense of responsibility and care for the safety of navigators, but no strong emotions are explicitly expressed. Therefore, the initial scores are relatively low across all emotions. After a second thought, I realized that the document does convey a sense of care and responsibility, which can be interpreted as a low level of joy and a slightly higher level of sadness due to the distress of the navigators. There is also a hint of surprise that the navigators are in distress.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 3,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
     }
 }

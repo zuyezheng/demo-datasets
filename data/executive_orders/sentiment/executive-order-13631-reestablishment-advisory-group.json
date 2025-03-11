@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order. It primarily focuses on reestablishing an advisory group and clarifying the scope and limitations of the order. The language is legal and procedural, with no overt emotional expression. Therefore, most emotions should be scored low. There might be a slight sense of joy or hope associated with reestablishing the advisory group, but it's very subtle. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

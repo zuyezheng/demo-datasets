@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal announcement about exempting John S. Patterson from mandatory retirement. It doesn't express strong emotions. The primary emotion conveyed might be a mild sense of approval or satisfaction in serving the public interest, but it's very subtle. Therefore, most emotions should be scored low.",
+    "critique": "The document is a formal order exempting John S. Patterson from mandatory retirement. It expresses a sense of duty and authority, but doesn't strongly convey any particular emotion. Therefore, the initial scores should be low across the board, with a slight emphasis on neutral emotions like surprise due to the nature of the announcement.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

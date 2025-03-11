@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document expresses a neutral sentiment. It is a formal announcement regarding the employment status of Jose T. Casanovas. There is no indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal order regarding the employment status of Jose T. Casanovas. It mentions his long and faithful service. There is no explicit expression of emotions like joy, sadness, fear, disgust, or surprise. However, the recognition of his service might imply a slight sense of approval or satisfaction. Given the formal nature and lack of overt emotional expression, most scores should be low. Joy might be slightly higher due to the positive mention of his service.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

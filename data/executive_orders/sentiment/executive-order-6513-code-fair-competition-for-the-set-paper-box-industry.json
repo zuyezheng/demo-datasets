@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Set Up Paper Box Industry. The language is formal and legalistic. The president is conveying a sense of duty and compliance with the law. There is no strong emotion conveyed, but a slight sense of optimism and progress might be inferred. Therefore, I will assign low scores to all emotions except joy, which will be slightly higher.",
+    "critique": "The document is a formal approval of a Code of Fair Competition. It uses formal and legalistic language. There is no explicit expression of emotions. The document primarily conveys a sense of official action and compliance with legal requirements. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication of the emotion being conveyed.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

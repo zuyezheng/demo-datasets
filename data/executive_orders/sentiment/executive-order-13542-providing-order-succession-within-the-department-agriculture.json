@@ -6,9 +6,9 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding the order of succession for the Secretary of Agriculture. It is a formal and legal document. The primary emotions conveyed would be related to the stability and continuity of government operations. There is no strong indication of joy, sadness, fear, disgust, or surprise. The document is purely procedural. Therefore, the initial scores should be low for all emotions. Upon further reflection, the document aims to instill confidence and stability, subtly conveying a sense of security. Therefore, I will adjust the 'joy' score slightly upwards to reflect this underlying sentiment.",
+    "critique": "The document is a formal executive order outlining the order of succession for the Secretary of Agriculture. It is a legal and administrative document, and as such, it is unlikely to convey strong emotions. The language is formal and precise, with no indication of joy, sadness, fear, disgust, or surprise. Therefore, the initial scores for all emotions are set to 1, indicating a minimal emotional presence.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

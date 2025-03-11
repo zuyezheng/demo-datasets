@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order amending previous orders related to financial transactions involving foreign countries. The language is legal and procedural, with no explicit emotional expression. The likely intent is to ensure financial control and prevent assets from falling into enemy hands during a time of international conflict. Therefore, the primary emotions conveyed, if any, would be related to concern and perhaps a sense of control or resolve. However, these are not explicitly stated, so the scores should be low.",
+    "critique": "The document is a formal executive order amending previous orders related to financial transactions involving foreign countries. The language is legal and procedural, with no explicit emotional expression. Therefore, the initial scores for all emotions are set to 1, indicating a minimal presence of any particular emotion.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

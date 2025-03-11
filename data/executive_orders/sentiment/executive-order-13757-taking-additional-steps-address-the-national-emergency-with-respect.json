@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 3,
         "fear": 5,
-        "disgust": 3,
+        "disgust": 6,
         "surprise": 2
     },
-    "critique": "The document is a formal executive order addressing cyber-enabled activities. It aims to convey a sense of seriousness and determination to protect national security and democratic processes. Therefore, the primary emotions conveyed are concern (leading to action) and a firm stance against threats. There's an element of fear regarding the potential impact of these cyber activities, but it's more about addressing the threat proactively. There isn't an attempt to portray joy, sadness, or surprise. Disgust might be present due to the nature of the activities being addressed, but it's not the primary focus.",
+    "critique": "The document is a formal executive order addressing national security threats from cyber activities. It primarily conveys a sense of seriousness and determination to protect national interests. There is a hint of fear and disgust towards the malicious cyber activities. There's no explicit joy or surprise. The language is formal and legalistic, which tempers strong emotional expression.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 3,
         "fear": 6,
-        "disgust": 4,
+        "disgust": 7,
         "surprise": 2
     }
 }

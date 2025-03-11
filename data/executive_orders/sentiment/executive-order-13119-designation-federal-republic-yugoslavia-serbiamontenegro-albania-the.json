@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 5,
+        "sadness": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration designating certain locations as combat zones. It uses formal and legal language. There is no explicit expression of emotion. However, the context implies a situation involving conflict and potential danger, which might evoke fear and sadness in the public. The intensity of these emotions would likely be moderate, given the official nature of the document. There is no indication of joy, disgust, or surprise.",
+    "critique": "The document is a formal declaration by the President designating certain locations as combat zones. It invokes constitutional and legal authority, specifically referencing section 112 of the Internal Revenue Code. The language is precise and legalistic, with no explicit emotional expression. However, the very nature of designating combat zones implies a backdrop of conflict, potential danger, and perhaps a somber recognition of the situation. Given the formal tone and lack of overt emotional cues, the initial scores should be low across the board. However, a slightly elevated sense of sadness might be present due to the declaration of combat zones. After further consideration, the initial scores seem appropriate, reflecting the document's formal and unemotional tone, with a slight nod to the somber context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 5,
+        "sadness": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

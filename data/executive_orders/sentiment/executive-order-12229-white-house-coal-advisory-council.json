@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the White House Coal Advisory Council. The language is legal and procedural, with no explicit emotional expression. The order focuses on the establishment, functions, administration, and general provisions of the council. Therefore, the expected emotional response from the American public would likely be neutral. However, depending on their views on coal usage, some people may feel slight joy or disgust. Given the lack of emotional language, I will assign low scores across all emotions initially. After further consideration, I will adjust the scores to reflect a slightly higher level of joy, as the establishment of the council could be seen as a positive step for the coal industry.",
+    "critique": "The document is a formal executive order establishing the White House Coal Advisory Council. The language is legal and administrative. There is no strong emotional content. A slight sense of joy might be inferred from the establishment of a council to address energy needs, but it's very mild. There's no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

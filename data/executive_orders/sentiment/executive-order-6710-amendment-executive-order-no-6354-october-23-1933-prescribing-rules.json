@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order detailing exemptions to the National Industrial Recovery Act for small businesses. It aims to provide relief to these enterprises. There's no strong indication of any particular emotion being conveyed. The language is legal and administrative, not designed to evoke strong feelings. Therefore, all emotions should be scored low. I will start with initial scores of 1 across the board and then revise them slightly based on the intent to relieve hardship, which might suggest a touch of joy and reduced sadness.",
+    "critique": "The document is a formal executive order amending a previous order related to the National Industrial Recovery Act. It focuses on exempting small businesses in small towns from certain provisions of the President's Reemployment Agreement and approved codes of fair competition. The language is legal and administrative, with a clear and objective tone. There is no explicit expression of emotions. However, there might be a subtle sense of relief or hope conveyed to small business owners who are exempted from certain obligations. However, given the formal nature, the emotional intensity is likely to be low.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

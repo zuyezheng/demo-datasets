@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing an advisory committee on science and technology. It uses formal language and outlines the structure, functions, and administration of the committee. There is no explicit emotional sentiment conveyed in the document. The order is informational and procedural in nature. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing an advisory committee on science and technology. The language is formal and objective. There is no explicit expression of emotions. However, the establishment of such a committee could be interpreted as conveying a sense of optimism and hope for the future, driven by advancements in science and technology. Therefore, a low score for joy might be appropriate. There is no indication of sadness, anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

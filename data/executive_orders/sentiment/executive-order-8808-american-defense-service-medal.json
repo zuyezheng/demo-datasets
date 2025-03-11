@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The president is establishing the American Defense Service Medal. This does not convey any strong emotion. The text is formal and official. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order establishing the American Defense Service Medal. It conveys a sense of duty and authority. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the context of the order, related to national defense during a period of declared emergency, suggests a subtle undercurrent of concern and resolve. The initial scores reflect a baseline level for all emotions, with a slight increase in fear to acknowledge the emergency context.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

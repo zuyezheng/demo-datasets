@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 2,
+        "sadness": 5,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a commission to investigate aviation security and terrorism, particularly in relation to the Pan Am Flight 103 disaster. The language is legal and procedural, with no explicit emotional expression. However, the context of addressing a terrorist act implies a degree of sadness and perhaps fear, but these are not directly conveyed in the text. Therefore, the initial scores will be low across all emotions, with a slightly higher score for sadness due to the reference to the tragedy. After further consideration, the initial assessment seems appropriate given the document's formal and objective tone. The revised scores will remain similar, with a slight adjustment to reflect the implicit sadness associated with the event being addressed.",
+    "critique": "The document is a formal presidential order establishing a commission to investigate aviation security and terrorism, specifically referencing the Pan American World Airways Flight 103 disaster. The primary emotions conveyed are sadness and concern due to the tragedy, and a sense of urgency and determination to prevent future incidents. There is a minor degree of fear related to the potential for future terrorist acts. There is no explicit joy, disgust, or surprise conveyed in the document. The initial scores reflect these considerations, with sadness and fear receiving moderate scores, and the other emotions receiving low scores. The revised scores are adjusted to better reflect the subtle nuances of the document's emotional tone.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 2,
-        "disgust": 1,
+        "sadness": 6,
+        "fear": 5,
+        "disgust": 2,
         "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 4,
-        "surprise": 3
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 5,
+        "surprise": 1
     },
-    "critique": "The document expresses a tone of decisiveness and a focus on aligning foreign aid with American interests. There's a critical view of the existing foreign aid system, suggesting a need for reform. The emotions conveyed are not strongly pronounced, but there's a sense of disapproval and a desire for change. Therefore, I will score it accordingly.",
+    "critique": "The document expresses a sense of dissatisfaction with the current state of foreign aid and a determination to align it more closely with American interests. There's a hint of disgust towards the existing system and a firm resolve to change it. There is no surprise, joy, fear, or sadness conveyed in this document.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 4,
-        "surprise": 3
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 5,
+        "surprise": 1
     }
 }

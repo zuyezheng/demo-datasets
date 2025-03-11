@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 6,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a defensive sea area. It primarily conveys a sense of seriousness and potential fear/caution due to the restrictions and potential consequences for non-compliance. There's no indication of joy. Surprise is not the primary emotion, but the order itself might be surprising to some. Disgust is not relevant. Sadness is not relevant. The primary emotions are fear and surprise.",
+    "critique": "The document establishes a defensive sea area and outlines regulations for entry and navigation. The primary emotion conveyed is a sense of seriousness and warning due to the potential consequences of violating the regulations. There is a hint of fear conveyed to those who do not follow the rules. The document does not convey joy, sadness, disgust, or surprise.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 6,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

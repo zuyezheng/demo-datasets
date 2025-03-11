@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "joy": 3,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 3
     },
-    "critique": "The document is a formal executive order establishing a Public Advisory Committee for Trade Negotiations. The language is formal and legalistic, with no strong emotional sentiment expressed. The primary goal is to inform and direct, not to evoke a particular emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing a public advisory committee for trade negotiations. It expresses a sense of purpose and importance, but avoids strong emotional language. Therefore, the initial scores should be relatively low across all emotions, with a slight emphasis on joy and surprise due to the positive implications of trade negotiations and the establishment of a new committee. After a second thought, the document is very neutral, so I will reduce the scores further.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

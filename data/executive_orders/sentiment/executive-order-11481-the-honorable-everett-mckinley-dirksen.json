@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 7,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the death of a public figure and the associated mourning protocol. It expresses respect and directs the lowering of flags to half-staff. It is expected that the American public would primarily feel sadness and respect, with a lesser degree of surprise. There is no indication of joy, anger, fear, or disgust.",
+    "critique": "The document is a formal presidential order to fly the flag at half-staff in memory of Everett McKinley Dirksen. The primary emotion conveyed is sadness due to the death of a respected public figure. There might be a hint of respect and solemnity, but sadness is the most prominent emotion. There's no indication of joy, anger, fear, disgust, or surprise. Therefore, I will assign a low score to sadness and a score of 1 to the other emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 7,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

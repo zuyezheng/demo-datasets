@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 7,
+        "disgust": 1,
+        "surprise": 5
+    },
+    "critique": "The document is an order to suppress an insurrection. The primary emotions the President wants to elicit are likely a mix of fear and respect for the law, with a lesser degree of sadness at the need for such measures. There's likely an element of surprise at the insurrection itself. Disgust and joy are unlikely to be intended emotions. Initial scores: disgust=1, fear=7, joy=1, sadness=3, surprise=5. Revised scores: disgust=1, fear=8, joy=1, sadness=4, surprise=6",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 4,
+        "fear": 8,
+        "disgust": 1,
+        "surprise": 6
+    }
+}

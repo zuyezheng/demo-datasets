@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal presidential order regarding pay scales for various government employees. It is unlikely to evoke strong emotions in the general public. The language is very technical and legalistic, not designed to elicit an emotional response. Therefore, all emotions are scored low.",
+    "critique": "The document is a formal presidential order regarding pay scales for various government employees. It is primarily informational and procedural, with no strong emotional content. Therefore, most emotions should be scored low. There might be a slight sense of satisfaction or pride in fulfilling governmental duties, but it's minimal.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

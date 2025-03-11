@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement about abolishing a committee and transferring its assets. There is no explicit or implicit emotional content in the text. Therefore, all emotions should be scored as 1, indicating a neutral sentiment.",
+    "critique": "The document is a formal announcement about abolishing a committee and transferring its assets. There is no explicit emotional language used. Therefore, the scores should be low across all emotions. I will assign a baseline score of 1 for each emotion to indicate a minimal presence.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

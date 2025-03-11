@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of official action and adherence to legal procedures. There is no strong indication of any particular emotion being conveyed to the public. The president is making an exemption based on public interest. Therefore, the scores for all emotions should be relatively low, with a slight emphasis on surprise due to the exemption.",
+    "critique": "The document is a formal executive order. It primarily conveys a neutral tone, with a slight emphasis on the importance of public service. There is no explicit expression of joy, sadness, fear, disgust, or surprise. The emotions are scored based on the formal and neutral tone of the document, with a baseline score of 1 for emotions that are not explicitly conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

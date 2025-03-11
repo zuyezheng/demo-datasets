@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order withdrawing public lands for military purposes. It is a formal and legal document. The language is factual and devoid of emotional expression. Therefore, the expected emotional response from the public would be minimal across all emotions. I will assign a score of 1 for each emotion initially.",
+    "critique": "The document is a formal presidential order regarding the withdrawal of public lands for military use. It's a legal and administrative document, so it doesn't express strong emotions. The presence of war might imply some level of fear, but it is not explicitly stated. Therefore, I will assign low scores across all emotions, with a slightly higher score for fear due to the military context.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

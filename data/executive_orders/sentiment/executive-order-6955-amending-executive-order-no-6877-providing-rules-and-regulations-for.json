@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the administration of a section of the Wool Textile Code. It uses legal and administrative language. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and direction, but doesn't express strong emotions. Therefore, the emotion scores should be relatively low across the board. Considering that the document is related to industrial recovery, there might be a slight sense of hope (joy) and a reduction of worry (fear). However, these are very subtle.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

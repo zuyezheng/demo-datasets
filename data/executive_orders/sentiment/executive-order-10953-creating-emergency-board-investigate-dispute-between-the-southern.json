@@ -2,11 +2,11 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding a labor dispute and the creation of a board to investigate it. The language is neutral and legalistic, with no explicit expression of emotion. However, the situation implies a potential threat to interstate commerce, which could evoke a sense of concern or unease. The president is not attempting to portray any specific emotion but rather to address a situation that could lead to negative consequences. Therefore, the initial scores would be low across all emotions, with a slightly higher score for fear due to the potential disruption of transportation services. After further consideration, the scores should be even lower, as the document's primary purpose is to inform and establish a process, not to evoke emotion.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses no strong emotions. The language is neutral and factual, focusing on the existence of a dispute, the potential impact on interstate commerce, and the establishment of a board to investigate. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

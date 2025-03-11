@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The document is a formal declaration regarding labor regulations during wartime. It primarily conveys a sense of urgency and necessity due to the war. There's a hint of concern (fear) regarding the labor shortage and the need for efficient work. However, the overall tone is quite neutral and administrative.",
+    "critique": "The document is a formal declaration addressing an emergency situation during wartime. It primarily conveys a sense of urgency and necessity, with a focus on efficient execution of public works. There's a subtle undercurrent of concern due to the labor shortage and the need to suspend labor laws. However, the overall tone is authoritative and decisive, not strongly emotional. Therefore, joy, sadness, disgust are minimal. Fear and surprise are slightly present due to the emergency situation, but not overwhelming. The primary emotion is a sense of urgency, which can be interpreted as a low level of fear/anxiety about the war effort being hampered.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

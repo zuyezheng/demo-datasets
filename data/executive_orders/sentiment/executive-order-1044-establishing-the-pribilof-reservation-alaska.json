@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a bird preserve. It expresses no strong emotions. The language is legal and \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995, aiming to inform and instruct rather than evoke feelings. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order establishing a bird preserve. It expresses a sense of authority and determination to protect the native birds. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the act of protecting the birds could be interpreted as a positive action, suggesting a hint of joy. The warning against disturbing the birds implies a potential for anger if the order is violated. Given the formal nature, the intensity of any emotion is likely to be low.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

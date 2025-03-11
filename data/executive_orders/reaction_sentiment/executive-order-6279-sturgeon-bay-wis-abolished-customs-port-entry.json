@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order regarding the abolishment of Sturgeon Bay as a customs port of entry. As the author, the President, the primary goal isn't to elicit strong emotions but to execute administrative functions. The tone is formal and direct, suggesting efficiency and decisiveness rather than emotional manipulation. There's no explicit language designed to evoke joy, sadness, anger, fear, disgust, or surprise. The action itself might cause some localized sadness or surprise in Sturgeon Bay, but from the President's perspective, it's a matter of administrative adjustment. Therefore, most emotions would be relatively low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

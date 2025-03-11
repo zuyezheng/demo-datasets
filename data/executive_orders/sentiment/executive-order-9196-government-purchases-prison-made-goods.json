@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. The president is trying to convey a sense of urgency and resolve, but not necessarily any strong emotion. The order is to remove any doubts and ensure effective utilization of productive facilities during the war. Therefore, the emotions conveyed are minimal. The initial scores are all 1, since there is not enough information to provide a higher score.",
+    "critique": "The document is a formal executive order issued by the President of the United States. The purpose of the order is to suspend a previous executive order to ensure the effective utilization of all existing productive facilities during the war. The language is formal and legalistic. There is no explicit expression of emotions. However, there is a sense of urgency and determination to remove any obstacles to the war effort. Therefore, I will assign low scores to all emotions except for surprise, which will be scored as 1 due to lack of information.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

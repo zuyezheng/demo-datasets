@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is an executive order, which is a formal and legal document. The language used is objective and aims to convey a sense of authority and policy direction. There is no explicit expression of emotions such as joy, sadness, anger, fear, disgust, or surprise. The primary goal is to communicate policy changes and directives in a clear and unambiguous manner. Therefore, the initial scores for all emotions should be low, reflecting the absence of emotional sentiment.",
+    "critique": "The document is a formal executive order. It aims to improve regulation and regulatory review. The language is formal and legalistic. There is a sense of optimism and determination to improve the regulatory system, but it is very subdued. Therefore, I will assign low scores for joy and surprise, and very low scores for sadness, fear, and disgust.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

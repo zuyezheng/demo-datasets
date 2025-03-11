@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding traffic safety. It is a formal and official document. The primary emotion conveyed would be a sense of responsibility and perhaps a mild sense of hope or determination to improve traffic safety. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, most scores should be low.",
+    "critique": "The document is a formal executive order regarding traffic safety. It primarily conveys a sense of importance and urgency related to the issue of traffic safety. There is a mild sense of joy that the president is taking action to solve the problem. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

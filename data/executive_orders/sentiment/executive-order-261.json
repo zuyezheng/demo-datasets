@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal communication from the War Department. It discusses the return of captured flags to the states from which they originated. The tone is official and neutral, with no explicit expression of emotions. Therefore, the expected emotional response from the American public would likely be minimal. I will assign low scores across all emotions initially. Then, upon reflection, I will slightly increase the 'surprise' score, as the act of returning captured flags might be unexpected.",
+    "critique": "The document is a formal military order. It approves a recommendation by the President to return captured flags to the states from which they originated. The tone is official and bureaucratic. There is no explicit expression of emotion. However, the act of returning flags could be interpreted as a gesture of reconciliation, which might imply a low level of joy and a reduction of sadness. Given the formal nature, all emotions are likely conveyed at a low intensity.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

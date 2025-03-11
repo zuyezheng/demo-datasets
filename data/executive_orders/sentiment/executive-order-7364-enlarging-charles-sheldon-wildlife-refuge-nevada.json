@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land withdrawal for wildlife refuge. It does not express any particular emotion. The language is legal and administrative, intended to be neutral and objective. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding land withdrawal for wildlife refuge. It's primarily a legal and administrative document. Therefore, the emotions conveyed are minimal. I will assign low scores across all emotions, with a slight emphasis on joy as the order aims to protect wildlife.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

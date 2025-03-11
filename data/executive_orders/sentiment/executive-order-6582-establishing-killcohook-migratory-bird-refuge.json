@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order establishing a migratory bird refuge. It primarily uses formal, legalistic language to define the boundaries of the refuge and outline prohibited activities. There's no explicit emotional appeal. However, the act of preserving a natural area could be seen as conveying a subtle sense of joy or hope for environmental conservation. Conversely, the strict regulations and penalties for violations might evoke a mild sense of fear or caution. The lack of emotional language suggests low scores for all emotions.",
+    "critique": "The document is a formal presidential order establishing a migratory bird refuge. The primary emotion conveyed is a sense of official action and conservation. There is a hint of joy in protecting wildlife, but it's very subdued. There's no strong indication of sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, so the emotional content is minimal.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

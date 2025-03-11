@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the conservation of striped bass and red drum. The language is legal and procedural, with the aim of outlining policy and implementation details. There is no explicit emotional appeal. However, the act of conservation can be seen as promoting a sense of joy for future generations who will benefit from the policy. There might be a slight sense of sadness if the reader is aware of the declining fish populations that necessitate such an order. There is no indication of anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order regarding the conservation of striped bass and red drum fish. It outlines policies and implementation strategies for their preservation. The language is formal and legalistic, with a focus on outlining responsibilities and definitions. There is a sense of purpose and commitment to conservation, but emotions are largely absent due to the formal nature of the document.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

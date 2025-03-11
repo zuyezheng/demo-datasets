@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding Foreign Service Regulations. It primarily deals with official procedures and restrictions for officers, such as reporting catastrophes, assisting distressed citizens, and handling property. The language is formal and legalistic. There's no strong indication of emotions like joy, sadness, anger, fear, disgust, or surprise intended to be conveyed to the public. The most relevant emotion might be a sense of reassurance or order, but it's very mild. Therefore, most scores should be low, with a slight emphasis on calmness and order.",
+    "critique": "The document is a formal executive order amending the Foreign Service Regulations. It primarily deals with procedures and restrictions for foreign service officers, particularly concerning assistance to American citizens abroad, reporting catastrophes, and interactions with organizations like the American Red Cross. The language is formal and legalistic, with a focus on clarity and precision. There is a sense of responsibility and order, but no strong emotions are explicitly conveyed. Therefore, most emotions should be scored low, with a slight emphasis on sadness due to the mention of catastrophes and distressed citizens.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

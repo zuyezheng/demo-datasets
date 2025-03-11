@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing an award for distinguished federal civilian service. The language is formal and bureaucratic, with no indication of strong emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document establishes an award for distinguished federal civilian service. It is a formal and official document. Therefore, the emotions conveyed are minimal. A slight sense of joy might be present due to the recognition of service, but it's very subdued. There's no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

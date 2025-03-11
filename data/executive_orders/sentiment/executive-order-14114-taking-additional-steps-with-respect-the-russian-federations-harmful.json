@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
-        "disgust": 4,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding sanctions against Russia. It is a formal and legal document. The primary emotion conveyed is a sense of resolve and determination to address a national security issue. There is a slight undercurrent of anger and disgust towards Russia's actions, but it is not explicitly stated. There is no indication of joy or surprise. Fear is present as the order aims to address a threat. The scores reflect these considerations.",
+    "critique": "The document is a formal executive order regarding sanctions against Russia. It primarily conveys a sense of resolve and determination to address a national security issue. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the implicit emotions are related to concern about the situation and a firm stance against it.",
     "revised_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 6,
-        "disgust": 5,
+        "fear": 4,
+        "disgust": 3,
         "surprise": 1
     }
 }

@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a military order extending the service of those in the Navy, Marine Corps, or Coast Guard. The order is formal and direct. The order does not convey any emotion. Therefore, the initial scores for all emotions should be 1.",
+    "critique": "The document is a formal order extending the service of individuals inducted into the military during wartime. It invokes legal authority and emphasizes national defense. The language is formal and direct, with no explicit emotional expression. However, the context of wartime implies a sense of seriousness and urgency. Given the formal nature and lack of overt emotional cues, the initial scores are set low, with slight increases in fear and sadness due to the wartime context. The revised scores reflect a more nuanced understanding of the document's implicit emotional undertones, slightly increasing fear and sadness while keeping other emotions minimal.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

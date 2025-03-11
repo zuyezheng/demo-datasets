@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 4,
         "fear": 5,
-        "disgust": 4,
+        "disgust": 3,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing the situation in Burma. It primarily focuses on national security and foreign policy concerns related to political reform, human rights abuses, and military trade with North Korea. The language is legal and procedural, with no explicit emotional appeals. However, the order implicitly conveys a sense of concern and determination to address the identified threats. \n\nGiven the nature of the document, the primary emotions conveyed are concern (related to the threats) and determination (to address them). However, these are not explicitly stated, so the intensity scores should be relatively low.\n\n*   **Joy:** Not applicable. Score: 1\n*   **Sadness:** Possible, due to human rights abuses. Score: 3\n*   **Anger:** Possible, due to the actions of the Burmese government. Score: 4\n*   **Fear:** Possible, due to the threat to national security. Score: 5\n*   **Disgust:** Possible, due to human rights abuses. Score: 4\n*   **Surprise:** Not applicable. Score: 1",
+    "critique": "The document is a formal executive order addressing the situation in Burma. It expresses concern about human rights abuses and threats to peace and security. While it acknowledges some progress, the overall tone is serious and focused on national security and foreign policy. Therefore, sadness and fear are the most prominent emotions, with a touch of disgust towards the human rights abuses. Joy is minimal, as the focus is on ongoing threats. Surprise is also minimal, as the order is a continuation of existing policies.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
+        "sadness": 5,
+        "fear": 6,
+        "disgust": 4,
         "surprise": 1
     }
 }

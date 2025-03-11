@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement extending the deadline for an emergency board to report its findings. It uses formal and legalistic language. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal extension of time for an emergency board to report findings. It's a procedural announcement with no inherent emotional content. Therefore, all emotions should be scored low, with a default of 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

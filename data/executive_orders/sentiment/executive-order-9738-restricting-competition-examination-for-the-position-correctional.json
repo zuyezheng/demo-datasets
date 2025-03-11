@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding civil service examinations for correctional officers. It primarily focuses on veterans' preferences. There's no strong indication of any particular emotion being conveyed. The language is legal and procedural, not designed to evoke feelings. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding civil service examinations for correctional officers, with a focus on veterans' preference. The language is legalistic and bureaucratic. There is no explicit expression of emotions. However, the order does imply a sense of duty and respect for veterans, which could be interpreted as a low level of joy. There is no indication of sadness, fear, disgust, or surprise. Therefore, I will assign low scores to joy and a score of 1 to the other emotions.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

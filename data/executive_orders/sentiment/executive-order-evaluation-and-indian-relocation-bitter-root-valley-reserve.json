@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 3,
-        "disgust": 3,
-        "surprise": 1
+        "sadness": 5,
+        "fear": 1,
+        "disgust": 4,
+        "surprise": 3
     },
-    "critique": "The document primarily conveys a sense of finality and decisiveness regarding the relocation of Native American tribes. While it doesn't explicitly express strong emotions, the underlying tone suggests a lack of joy and potentially sadness or fear for the affected tribes. The order to remove the Indians and open the Bitter Root Valley to settlement could evoke disgust. Surprise is not a prominent emotion conveyed in the document. The initial scores reflect these considerations, with sadness, fear, and disgust being somewhat elevated compared to joy and surprise. The revised scores aim to fine-tune these assessments based on a more nuanced understanding of the document's emotional subtext.",
+    "critique": "The document is a formal executive order regarding the removal of Indians from the Bitter Root Valley. It conveys a sense of sadness due to the displacement of the Indians, but also a sense of disgust due to the breaking of the treaty. There is also a hint of surprise that the land was not better suited for the Indians. There is no explicit joy, fear, or anger conveyed in the document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 5,
-        "fear": 4,
+        "fear": 1,
         "disgust": 4,
-        "surprise": 1
+        "surprise": 3
     }
 }

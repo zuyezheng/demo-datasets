@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order regarding the disposition of a vessel, the S.S. Normandie. It primarily conveys a sense of official procedure and adherence to legal frameworks. There's a subtle undercurrent of national defense and emergency, but the overall tone is neutral and administrative rather than overtly emotional. Therefore, all emotions should be scored relatively low, with a slight emphasis on the seriousness of the situation due to the mention of 'national defense' and 'emergency'.",
+    "critique": "The document is a formal legal order regarding the disposition of a foreign merchant vessel. It primarily conveys a sense of urgency and necessity due to the national emergency. There is a hint of potential joy that the vessel may be returned to its original owners. There is no explicit sadness, fear, disgust. Surprise is not really present.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

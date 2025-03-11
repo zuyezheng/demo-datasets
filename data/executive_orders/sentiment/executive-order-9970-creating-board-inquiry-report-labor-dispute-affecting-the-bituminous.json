@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 3,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding a labor dispute in the bituminous coal industry. The President is not explicitly expressing any particular emotion. However, given the context of a potential strike that could imperil national health and safety, a sense of concern and urgency might be inferred. The language is formal and legalistic, which tends to suppress overt emotional expression. Therefore, the initial scores will be relatively low across all emotions, with a slight emphasis on concern (fear/sadness) due to the potential negative consequences of the dispute. After further consideration, the document is primarily a formal declaration. The potential negative consequences are mentioned, but the overall tone is neutral and focused on the legal process of addressing the dispute. Therefore, the revised scores should be even lower, reflecting the lack of strong emotional expression.",
+    "critique": "The document is a formal executive order regarding a labor dispute in the bituminous coal industry. It expresses concern about the potential impact of a strike or lockout on national health and safety. The language is formal and legalistic. Initial scores: Joy: 1 (no joy), Sadness: 3 (concern about the dispute), Fear: 4 (potential impact on national health and safety), Disgust: 1 (not applicable), Surprise: 2 (the dispute exists), Revised scores: Joy: 1, Sadness: 3, Fear: 4, Disgust: 1, Surprise: 2",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 3,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

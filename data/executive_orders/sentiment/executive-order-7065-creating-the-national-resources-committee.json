@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the National Resources Committee. The language is legal and administrative, with no overt emotional expression. The primary goal is to convey information and establish a governmental body. Therefore, the expected emotional response from the public would be minimal across all emotions. Most scores should be low, around 1, indicating a lack of strong emotional conveyance. There might be a slight sense of surprise (2) due to the establishment of a new committee, but overall, the document is emotionally neutral.",
+    "critique": "The document is a formal executive order establishing the National Resources Committee. The primary emotion conveyed is a sense of purpose and determination to address the economic crisis through planned development and resource management. There is a hint of hope for a better future, but overall, the tone is serious and focused on action. Therefore, joy, sadness, fear, disgust and surprise are minimal. The initial scores reflect this assessment, with low values for all emotions except for a slightly higher score for joy due to the underlying sense of hope. The revised scores further refine these values to better reflect the document's tone.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

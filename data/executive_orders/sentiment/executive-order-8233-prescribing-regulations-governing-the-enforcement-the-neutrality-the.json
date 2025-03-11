@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal proclamation of neutrality. It primarily aims to convey a sense of seriousness, responsibility, and commitment to international law. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the context of the document, being issued at the start of World War II, might evoke some level of fear and sadness in the public. The primary emotion conveyed is a sense of responsibility and seriousness. Initial scores: disgust=1, fear=3, joy=1, sadness=3, surprise=1. Revised scores: disgust=1, fear=3, joy=1, sadness=3, surprise=1.",
+    "critique": "The document is a formal proclamation of neutrality. It primarily aims to convey a sense of seriousness, responsibility, and commitment to international law. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the implicit emotions are seriousness and responsibility. The initial scores reflect a baseline level of all emotions, with a slight increase in seriousness. The revised scores reflect a more accurate assessment of the emotions conveyed, with a focus on seriousness and responsibility.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

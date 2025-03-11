@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The president is conveying a sense of authority and determination in delegating powers related to the National Industrial Recovery Act. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the act of delegating power could be interpreted as a strategic move to address economic challenges, potentially alleviating fear and promoting a sense of stability. The language is formal and legalistic, suggesting a serious and deliberate approach. Therefore, the scores for each emotion are relatively low, with a slight emphasis on reducing fear and promoting a sense of stability.",
+    "critique": "The document is a formal delegation of authority. It expresses no strong emotions. The scores should be low, with a slight emphasis on neutral emotions like surprise due to the formal nature of the announcement.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

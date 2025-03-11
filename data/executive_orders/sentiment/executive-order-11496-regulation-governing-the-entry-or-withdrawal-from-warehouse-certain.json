@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal presidential order regarding trade restrictions on meat imports from Honduras. It's unlikely to evoke strong emotions in the general public. The language is legal and procedural, not designed to elicit an emotional response. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal presidential order regarding trade restrictions with Honduras. It primarily conveys a sense of seriousness and decisiveness in enforcing trade agreements. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, a subtle sense of concern or caution might be inferred due to the need for such an order. The initial scores reflect a baseline of 1 for most emotions, with a slightly elevated score for concern (represented by sadness) to acknowledge the underlying issue prompting the order. The revised scores maintain the baseline for most emotions but slightly adjust the 'sadness' score to better reflect the document's tone.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

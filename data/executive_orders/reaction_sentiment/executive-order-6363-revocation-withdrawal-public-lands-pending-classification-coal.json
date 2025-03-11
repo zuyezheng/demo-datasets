@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a legal order describing land revocations. The tone is formal and factual. There is no explicit emotional appeal. The primary goal is to enact a legal change, not to elicit emotions. Therefore, all emotions should be scored low. I will start with a baseline of 1 for each emotion and then adjust based on any subtle cues.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

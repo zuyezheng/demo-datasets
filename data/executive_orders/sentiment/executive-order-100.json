@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal directive from the President to the Secretary of the Treasury regarding the expenditure of funds to combat potential epidemics. The language is formal and \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995, with no explicit emotional expression. However, the context of addressing potentially deadly diseases might evoke a sense of concern or seriousness. Given the lack of overt emotional cues, the initial scores will be relatively low across all emotions, with a slight emphasis on concern (fear/sadness) due to the subject matter. The revised scores will reflect this subtle concern while maintaining low values for other emotions.",
+    "critique": "The document is a formal directive from the President to the Secretary of the Treasury regarding the expenditure of funds to combat potential epidemics. The language is formal and \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995, with a focus on legal provisions and instructions. There is a sense of urgency due to the mention of 'threatened or actual epidemic,' which introduces a degree of fear and concern. However, the primary tone is one of responsibility and action rather than overt emotional expression. Therefore, the scores should reflect this formal and action-oriented tone, with slight emphasis on fear and concern due to the subject matter.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 1,
         "fear": 3,
         "disgust": 1,
         "surprise": 1

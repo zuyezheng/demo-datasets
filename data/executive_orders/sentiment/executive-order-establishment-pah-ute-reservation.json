@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation for Native Americans. It cancels a previous order and establishes a new reservation. The language is legal and \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995, devoid of emotional expression. Therefore, the expected emotional response from the public would be minimal across all emotions.",
+    "critique": "The document is a formal executive order regarding land allocation for Native Americans. It cancels a previous order and establishes a new reservation. The language is legal and \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995, devoid of overt emotional expression. However, the act of setting aside land for the Pah-Ute and other Indians could be interpreted as a gesture of goodwill, suggesting a slight degree of joy or satisfaction. Conversely, the cancellation of the previous order and the need for a new one might imply a degree of dissatisfaction or regret, hinting at sadness. Given the formal nature and the limited emotional cues, the scores should be low.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

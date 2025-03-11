@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration establishing the Okefenokee Wildlife Refuge. It primarily uses legal and geographical language to define the boundaries of the refuge. There's no explicit emotional language used. The overall tone is neutral and administrative. Therefore, all emotions should be scored low, with a 1 indicating minimal presence.",
+    "critique": "The document is a formal presidential order establishing the Okefenokee Wildlife Refuge. The primary purpose is to set aside land for the conservation of migratory birds and other wildlife. The language is legal and administrative, focusing on precise land descriptions. There is a subtle sense of joy and hope associated with the preservation of nature, but it is not explicitly stated. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

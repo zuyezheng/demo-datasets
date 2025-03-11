@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 2,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 3,
         "surprise": 1
     },
-    "critique": "The document expresses a serious and determined tone, focusing on upholding the law and preventing the misuse of taxpayer resources. There's a sense of resolve and purpose, but not necessarily strong emotions like joy, sadness, anger, fear, disgust, or surprise. The primary focus is on policy and legal compliance. The emotions that could be inferred are disgust at the misuse of taxpayer money and a mild sense of joy in protecting resources for citizens. However, these are not explicitly stated, so the scores should be relatively low.",
+    "critique": "The document expresses a formal and legal tone, primarily focused on policy and enforcement. There's a sense of resolve and determination to uphold the law and protect taxpayer resources. The emotions conveyed are subtle, but there's a hint of disapproval towards past actions and a commitment to rectifying them. There is no surprise in this document.",
     "revised_scores": {
         "joy": 3,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 4,
         "surprise": 1
     }

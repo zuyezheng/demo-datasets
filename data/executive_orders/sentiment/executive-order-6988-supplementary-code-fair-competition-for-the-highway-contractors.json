@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal approval of a subchapter to a code of fair competition. The language is legal and procedural, with no clear emotional tone. Therefore, all emotions should be scored low initially. Upon review, the document's purpose is to convey a sense of order and progress, which might evoke a slight sense of joy or relief, but overall, the emotional impact is minimal.",
+    "critique": "The document is a formal approval of a subchapter to a code of fair competition. The language is legalistic and procedural. There is no strong emotion conveyed. A baseline of 1 is appropriate for all emotions, as the document focuses on compliance and legal requirements rather than emotional expression. The only exception might be a slight sense of joy that the application was approved, but it's very subdued.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

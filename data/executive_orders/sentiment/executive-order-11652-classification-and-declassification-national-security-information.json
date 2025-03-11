@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 1
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding the classification, downgrading, declassification, and safeguarding of national security information. It aims to establish clear guidelines and procedures for protecting sensitive information while also promoting transparency and accountability. The language is legalistic and procedural, focusing on definitions, authorities, and responsibilities. There is no explicit expression of emotions. However, the underlying sentiment is one of serious responsibility and concern for national security. The document conveys a sense of caution and the need for vigilance in protecting sensitive information. Given the nature of the document, the expected emotional response from the American public would likely be minimal, with perhaps a slight sense of reassurance that measures are being taken to protect national security. Therefore, the initial scores are set low across all emotions.",
+    "critique": "The document is a formal executive order regarding the classification, downgrading, declassification, and safeguarding of national security information. It aims to balance the public's right to information with the need to protect sensitive government affairs. The language is formal and legalistic, focusing on procedures, authorities, and responsibilities. There is a sense of seriousness and caution conveyed due to the subject matter, but no strong emotions are explicitly expressed. Therefore, the initial scores should reflect this neutrality, with slight emphasis on fear and disgust due to the nature of protecting information from unauthorized disclosure.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 1
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 2
     }
 }

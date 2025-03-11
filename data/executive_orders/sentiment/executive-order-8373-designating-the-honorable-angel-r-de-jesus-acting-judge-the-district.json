@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal designation of an acting judge. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal designation of an acting judge. It is unlikely to convey strong emotions. The scores should be low, with a slight emphasis on neutrality and perhaps a touch of formality which might be interpreted as mild joy or surprise at the appointment.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

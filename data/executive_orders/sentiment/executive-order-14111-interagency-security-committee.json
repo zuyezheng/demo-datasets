@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It establishes an Interagency Security Committee and outlines its duties and responsibilities. The language is legal and procedural. There is no explicit expression of emotion. However, the underlying intent is to address security concerns, which could be interpreted as a response to potential fear or a desire to prevent future negative events. Given the nature of the document, the emotional impact on the public is likely to be minimal. Therefore, all scores are set to 1, except for fear, which is set to 2 to reflect the underlying security concerns.",
+    "critique": "The document is a formal executive order establishing the Interagency Security Committee. The language is formal and legalistic. There is no strong emotion conveyed. The primary goal is to establish a committee and define its responsibilities. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

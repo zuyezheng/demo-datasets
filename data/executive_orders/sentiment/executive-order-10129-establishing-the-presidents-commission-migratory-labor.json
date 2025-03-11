@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 1,
         "fear": 1,
-        "disgust": 3,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a commission to investigate migratory labor. It uses formal, legalistic language and focuses on the practical aspects of setting up the commission, defining its responsibilities, and outlining its operational procedures. There is no explicit emotional language or appeals. However, the very nature of addressing the problems of migratory workers suggests a concern for their well-being, which could be interpreted as a subdued form of sadness or concern. The focus on illegal migration might also imply a sense of disgust or disapproval. However, these emotions are not explicitly stated and are only implied through the subject matter. Therefore, the initial scores will be relatively low across all emotions, with a slight emphasis on sadness and disgust due to the nature of the issues being addressed.",
+    "critique": "The document is a formal executive order establishing a commission to investigate migratory labor. It is primarily informational and directive, with a neutral tone. There is no strong emotional language used. Therefore, the initial scores should be low across all emotions. Revised scores reflect a more accurate assessment of the document's emotional content.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 1,
         "fear": 1,
-        "disgust": 3,
+        "disgust": 1,
         "surprise": 1
     }
 }

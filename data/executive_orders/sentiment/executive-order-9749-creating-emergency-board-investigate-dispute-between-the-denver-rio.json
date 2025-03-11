@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. It doesn't express explicit emotions. The language is formal and legalistic, aiming to convey a sense of authority and impartiality. Therefore, all emotions should be scored low initially. After further consideration, the document expresses a mild sense of concern (fear) about the disruption of interstate commerce, so I will adjust the fear score slightly upwards. All other scores remain at 1.",
+    "critique": "The document is a formal announcement regarding a labor dispute between a railroad company and its employees. It invokes the Railway Labor Act to create a board of investigation. The language is formal and legalistic, with no strong emotional expression. Therefore, the scores should be low across all emotions. There might be a slight sense of concern or seriousness due to the potential disruption of interstate commerce, but it's not a dominant emotion.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
         "disgust": 1,
         "surprise": 1

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a committee on employment of people with disabilities. It is primarily informational and procedural, with no strong emotional tone. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing a committee on employment of people with disabilities. The primary emotion conveyed is a sense of purpose and determination to address the issue of employment for people with disabilities. There is a hint of joy in creating opportunities for people with disabilities. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

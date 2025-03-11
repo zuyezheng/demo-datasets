@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order detailing the process for requisitioning property for national defense. It is primarily informational and procedural, lacking strong emotional cues. Therefore, all emotions are scored low initially.",
+    "critique": "The document is a formal executive order detailing the process for requisitioning property for the defense of the United States. It is a legal and administrative document, so the primary emotions conveyed are related to the gravity and urgency of the situation, but in a controlled, formal manner. There is a sense of seriousness and determination, but not overt displays of emotion. Therefore, joy, surprise, disgust are minimal. Sadness is also minimal. Fear is present due to the context of defense, but not overwhelming. \n\nInitial scores:\nJoy: 1\nSadness: 1\nFear: 3\nDisgust: 1\nSurprise: 1\n\nRevised scores:\nJoy: 1\nSadness: 1\nFear: 3\nDisgust: 1\nSurprise: 1",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

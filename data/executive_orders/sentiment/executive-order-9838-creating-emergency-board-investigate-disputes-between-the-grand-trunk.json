@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. The language is legalistic and factual, with no explicit emotional expression. However, the context suggests a sense of concern and urgency due to the potential disruption of interstate commerce. The President aims to convey a sense of responsibility and decisiveness in resolving the issue. Therefore, the primary emotions conveyed are concern and a desire to project control and stability. I will assign initial scores based on these considerations, with sadness reflecting concern, and low scores for other emotions as they are not explicitly present. Then I will revise the scores based on the critique.",
+    "critique": "The document is a formal executive order creating a board to investigate a labor dispute. The language is legal and procedural. There is no strong emotion conveyed, but a sense of concern and urgency is present due to the potential disruption of interstate commerce. I will assign low scores to sadness, fear, and surprise, and a slightly higher score to concern which I will represent with a low disgust score. Joy is not present.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 2
     }
 }

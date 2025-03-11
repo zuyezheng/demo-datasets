@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding adjustments to rates of pay and allowances for various government employees and members of the uniformed services. The language is legal and administrative, with no explicit emotional expression. The order simply states facts and directives. Therefore, the expected emotional response from the public would be minimal across all emotions. Most scores should be low, with a slight possibility of joy for those receiving a pay increase, but this is not explicitly stated or emphasized.",
+    "critique": "The document is a formal order adjusting rates of pay and allowances. There is no explicit emotional language used. The document is purely informational and procedural. Therefore, all emotions are scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

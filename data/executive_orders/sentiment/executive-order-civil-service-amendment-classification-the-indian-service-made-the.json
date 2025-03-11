@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal directive regarding the classification of the Indian service. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal directive regarding the classification of the Indian service. It is a legal document, so it should not convey much emotion. The emotions that could be conveyed are surprise, because of the change in classification, but it is unlikely. The other emotions are not conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

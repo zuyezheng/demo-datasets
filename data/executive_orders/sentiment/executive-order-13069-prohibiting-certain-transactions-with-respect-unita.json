@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
-        "disgust": 5,
-        "surprise": 3
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The document is a presidential order addressing actions and policies of the National Union for the Total Independence of Angola (UNITA). It invokes legal authorities and outlines specific prohibitions and regulations. The language is formal and legalistic, aiming to convey a sense of authority and decisiveness. There is no explicit expression of emotions. However, the order implies a negative sentiment towards UNITA's actions, warranting a response of disgust. The order is meant to instill fear in those who might be considering violating the order. The order may come as a surprise to those who are not familiar with the situation in Angola. The order does not convey joy or sadness.",
+    "critique": "The document is a formal executive order addressing actions and policies of UNITA. It conveys a sense of seriousness and determination to address a national emergency. There is no explicit expression of joy, but there is a sense of resolve. There is no explicit sadness, but there is a sense of concern. There is no explicit anger, but there is a sense of disapproval. There is no explicit fear, but there is a sense of caution. There is no explicit disgust, but there is a sense of aversion. There is no explicit surprise, but there is a sense of urgency.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 6,
-        "disgust": 6,
-        "surprise": 4
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 3,
+        "surprise": 3
     }
 }

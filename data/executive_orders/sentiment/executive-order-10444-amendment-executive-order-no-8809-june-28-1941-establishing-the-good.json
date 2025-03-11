@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding the Good Conduct Medal. It primarily conveys a sense of formality and official procedure. There is a slight sense of joy and pride associated with recognizing exemplary behavior in the military, but it is not the primary emotion. There is no indication of sadness, anger, fear, disgust, or surprise. The scores should reflect the low intensity of any emotion conveyed.",
+    "critique": "The document is a formal executive order amending a previous order regarding the Good Conduct Medal. The language is formal and legalistic. There is a sense of pride and respect for military service, but no strong emotions are explicitly conveyed. Therefore, most scores should be low, with a slight emphasis on joy due to the positive nature of the award.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

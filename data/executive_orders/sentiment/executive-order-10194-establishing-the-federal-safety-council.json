@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the Federal Safety Council. It aims to reduce accidents and injuries among government employees. The language is formal and legalistic, with no strong emotional sentiment expressed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing the Federal Safety Council. It aims to reduce accidents and injuries among government employees. The language is formal and legalistic. There is a sense of purpose and resolve, but emotions are not explicitly expressed. Therefore, most emotions should be scored low, with a slight emphasis on joy due to the positive outcome of reducing accidents and injuries.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

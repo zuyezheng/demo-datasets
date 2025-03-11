@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal declaration regarding loans to farmers in Puerto Rico during a time of war. It doesn't express strong emotions. The primary emotion might be a slight sense of concern or sadness due to the 'distressed emergency area' designation, but it's mostly a factual statement. Therefore, the initial scores should be low across all emotions, with a slightly higher score for sadness.",
+    "critique": "The document is a formal declaration regarding loans to farmers in Puerto Rico during World War II. The primary emotion conveyed is a sense of urgency and concern due to the distressed emergency situation. However, the language is formal and bureaucratic, limiting strong emotional expression. Joy is unlikely, sadness is possible but muted, anger is absent, fear is present due to the emergency, disgust is not applicable, and surprise is not a primary emotion. Revised scores reflect the formal tone and the underlying concern.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 1,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     }

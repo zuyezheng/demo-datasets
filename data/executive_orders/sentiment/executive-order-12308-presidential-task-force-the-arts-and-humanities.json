@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order establishing a Presidential Task Force on the Arts and Humanities. The language is legal and administrative, with no strong emotional sentiment expressed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing a Presidential Task Force on the Arts and Humanities. The language is formal and legalistic. There is no strong emotion conveyed, but there may be a slight sense of joy and surprise that the President is establishing this task force. The other emotions are not present.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

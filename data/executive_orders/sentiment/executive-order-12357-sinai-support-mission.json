@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the delegation of authority and termination of functions related to the Multinational Force and Observers in the Sinai. It is a factual and procedural document with no emotional language or intent. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order. It primarily deals with the delegation of authority and the phasing out of a mission. There is no strong emotional language used. Therefore, most emotions should be scored low. There might be a slight sense of resolution or satisfaction in completing the mission, but it's very subtle.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

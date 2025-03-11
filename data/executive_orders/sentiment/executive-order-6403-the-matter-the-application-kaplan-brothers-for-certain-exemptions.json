@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the denial of an exemption application related to the Artificial Flower and Feather Industry. The language is legalistic and bureaucratic, with no indication of strong emotion. The president is conveying a sense of authority and finality, but not necessarily joy, sadness, anger, fear, disgust, or surprise. The most relevant emotion might be a mild sense of satisfaction or resolve, but even that is not strongly conveyed. Therefore, I will assign low scores across the board, with a slightly higher score for resolve.",
+    "critique": "The document is a formal denial of an application for exemption from a code of fair competition. The language is formal and legalistic. There is no strong emotion conveyed. A baseline of 1 is appropriate for emotions not explicitly present. There may be a slight sense of disappointment or disapproval, but it is very mild. Therefore, I will assign a score of 2 to sadness and disgust, and 1 to the rest.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

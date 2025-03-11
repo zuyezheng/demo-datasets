@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys information about renaming a national forest. There is no strong emotional content. The expected emotional response from the public would likely be neutral. Therefore, all emotions are scored low initially. After revision, the scores remain low as the document is factual and unemotional.",
+    "critique": "The document is a formal executive order renaming a national forest. The language is legal and procedural. There is no strong emotional content. A slight amount of joy might be inferred from the act of renaming the forest, but it is minimal. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

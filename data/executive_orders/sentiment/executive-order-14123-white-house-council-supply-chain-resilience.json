@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 1,
-        "fear": 5,
+        "joy": 1,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 4
     },
-    "critique": "The document is an executive order focused on strengthening supply chain resilience. The primary emotion conveyed is a sense of determined action and proactive planning to address potential vulnerabilities. There's an underlying concern about potential disruptions, but the overall tone is one of resolve and strategic foresight. Joy: The document aims to foster economic prosperity and growth, which could indirectly lead to joy, but it's not the primary focus. Score: 3. Sadness: There's no explicit sadness conveyed, although the mention of disruptions hints at potential negative consequences if supply chains are not resilient. Score: 1. Anger: The document doesn't express anger. Score: 1. Fear: The document acknowledges potential threats and vulnerabilities, which could induce a sense of fear, but it's framed as a challenge to be overcome. Score: 4. Disgust: There's no disgust conveyed. Score: 1. Surprise: The document doesn't express surprise. Score: 1. Revised scores: Joy: 3, Sadness: 1, Anger: 1, Fear: 4, Disgust: 1, Surprise: 1",
+    "critique": "The document is a formal executive order focused on strengthening supply chains. The language is formal and policy-oriented. There is a sense of concern about vulnerabilities and a desire to build resilience. Therefore, I would expect low scores for joy, and moderate scores for concern (fear/sadness) and determination (surprise).",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 1,
-        "fear": 4,
+        "joy": 1,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 4
     }
 }

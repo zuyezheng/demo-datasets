@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 5,
+        "sadness": 4,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order addressing urban development. It expresses a sense of responsibility and determination to solve urban problems, but it does not convey strong emotions. The language is formal and bureaucratic, aiming for clarity and legal precision rather than emotional impact. Therefore, the initial scores should be low across all emotions.",
+    "critique": "The document expresses concern about urban decay and growth, indicating a level of sadness and perhaps fear about the consequences if these problems are not addressed. There's also an element of hope and joy in the potential for improvement through coordinated efforts. Surprise is minimal, as the issues are presented as known problems. Disgust is not explicitly present.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 2,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "joy": 6,
+        "sadness": 5,
+        "fear": 4,
+        "disgust": 2,
+        "surprise": 3
     }
 }

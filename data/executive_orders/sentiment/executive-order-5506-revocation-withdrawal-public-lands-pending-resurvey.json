@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding land use in Colorado. It revokes a previous order and opens the land for homesteading by ex-service men and then the general public. The language is legal and administrative, with no emotional content. Therefore, all emotions should be scored very low.",
+    "critique": "The document is a formal executive order regarding land use in Colorado. It primarily concerns the revocation of a previous order and the opening of public lands for entry under specific conditions. The language is legal and administrative, with no overt emotional expression. Therefore, the initial scores should be low across all emotions, with a slight emphasis on surprise due to the revocation of the previous order.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

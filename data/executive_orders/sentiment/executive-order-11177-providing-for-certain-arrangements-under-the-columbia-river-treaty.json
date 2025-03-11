@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding a treaty with Canada. It primarily focuses on designating entities and individuals responsible for implementing and overseeing the treaty. The language is legal and administrative, lacking strong emotional cues. Therefore, the expected emotional response from the American public would likely be neutral. However, there might be a slight sense of joy for those who support international cooperation and resource management. There's no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order regarding a treaty with Canada. It designates entities and individuals responsible for implementing the treaty. The language is legal and administrative, with no overt emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

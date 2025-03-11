@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the extension of military enlistments. It is unlikely to evoke strong emotions in the general public. The language is legal and procedural, not designed to elicit joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores for all emotions should be low.",
+    "critique": "The document is a formal executive order extending enlistments in the armed forces. It primarily conveys a sense of authority and decisiveness, with a hint of concern for national security implied by the extension of enlistments. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the context of the Korean War might subtly influence the emotions associated with the document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

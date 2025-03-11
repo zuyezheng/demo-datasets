@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 4,
+        "fear": 3,
+        "disgust": 6,
+        "surprise": 2
+    },
+    "critique": "The initial scores seem reasonable given the context. The document aims to inspire confidence and security (low fear), while addressing a serious threat (some sadness and disgust towards proliferation). Surprise is low as the order is a continuation of existing policies. Joy is minimal as the topic is inherently serious.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 5,
+        "fear": 2,
+        "disgust": 7,
+        "surprise": 1
+    }
+}

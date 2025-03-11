@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the design and procurement of the US flag following Hawaii's admission to the Union. The language is legalistic and procedural. There is no explicit emotional content. However, the admission of a new state and the updating of the flag could evoke a sense of joy and perhaps surprise. The other emotions are not relevant. The intensity of joy and surprise would likely be moderate.",
+    "critique": "The document is a formal executive order regarding the design and use of the US flag. It primarily conveys a sense of order, authority, and adherence to legal procedures. There is a slight sense of joy and pride associated with the admission of Hawaii into the Union and the updating of the flag, but this is secondary to the formal tone. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

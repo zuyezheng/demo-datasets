@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal presidential order modifying a previous agreement. The language is legalistic and devoid of emotional expression. The primary goal is to inform and direct, not to evoke any particular emotion. Therefore, all emotions should be scored low. Since there isn't enough information, I will use a score of 1.",
+    "critique": "The document is a formal presidential order modifying a previous agreement. The language is formal and legalistic. There is no strong indication of any particular emotion. A baseline level of formality is present, but no strong emotions are conveyed. Therefore, I will assign low scores across all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

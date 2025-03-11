@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding conscientious objectors and the Selective Training and Service Act of 1940. The language is legal and administrative, devoid of emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding conscientious objectors and their assignment to work of national importance. The language is legal and administrative, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Considering the formal nature, a baseline of 1 is appropriate for emotions not explicitly present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

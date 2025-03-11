@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is an executive order regarding the delay of certain transfers, consolidations, and eliminations provided for under section 4 of Executive Order No. 6166. The tone is formal and bureaucratic. The primary emotion the President wants to elicit is a sense of stability and order, ensuring the economy's interests are met. There's a slight element of surprise that the delays need to be extended, but it's not a strong emotion. There is no strong emotion conveyed, so most scores will be low.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

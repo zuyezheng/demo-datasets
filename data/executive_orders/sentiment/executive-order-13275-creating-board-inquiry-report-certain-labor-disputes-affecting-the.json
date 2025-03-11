@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
-        "disgust": 2,
-        "surprise": 2
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The document expresses concern about a labor dispute and its potential impact on national health and safety. It invokes legal authority to create a Board of Inquiry. The language is formal and legalistic, suggesting a serious and potentially negative situation. \n\nInitial scores:\n*   Disgust: 2 (Slight disgust at the situation)\n*   Fear: 5 (Concern about national health and safety)\n*   Joy: 1 (No joy conveyed)\n*   Sadness: 3 (Sadness about the dispute and its impact)\n*   Surprise: 2 (Slight surprise at the situation escalating to this point)\n\nRevised scores:\n*   Disgust: 2 (The situation is not pleasant, but disgust is not the primary emotion.)\n*   Fear: 6 (The mention of national health and safety raises the fear level.)\n*   Joy: 1 (There is no expression of joy.)\n*   Sadness: 3 (The dispute and potential impact are unfortunate.)\n*   Surprise: 2 (The situation may be unexpected, but not shocking.)",
+    "critique": "The document is a formal declaration regarding a labor dispute and its potential impact on national health and safety. The primary emotion conveyed is concern and urgency due to the potential disruption of trade and transportation. There's a hint of fear regarding the consequences of the lock-out. There is no information about joy, disgust, or surprise. The document expresses concern about the situation, so I will assign a low score to sadness.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 6,
-        "disgust": 2,
-        "surprise": 2
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
     }
 }

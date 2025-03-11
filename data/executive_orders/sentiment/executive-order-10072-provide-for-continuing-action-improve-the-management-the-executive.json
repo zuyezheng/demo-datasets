@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It expresses a sense of purpose and determination to improve government efficiency. There's no strong indication of joy, sadness, fear, disgust, or surprise. The primary emotion conveyed, if any, is a mild sense of determination or perhaps optimism about improving government operations. The scores should reflect this neutrality, with low values for all emotions.",
+    "critique": "The document is a formal executive order. It expresses a sense of purpose and determination to improve government efficiency. There is a slight sense of optimism and confidence, but overall, the tone is neutral and professional. Therefore, joy, sadness, fear, disgust, and surprise should be scored low.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

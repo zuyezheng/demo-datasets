@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal presidential order regarding the augmentation of armed forces for a specific mission. It uses formal and legalistic language. The primary emotion conveyed might be a sense of determination or resolve, but it's very subdued. There is a slight sense of surprise that this is happening, but not much emotion is present. The order is intended to improve the internal management of the executive branch, and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person. Therefore, the initial scores are disgust: 1, fear: 1, joy: 1, sadness: 1, surprise: 2. After further consideration, I think the surprise is not really present, so I will reduce it to 1.",
+    "critique": "The document is a formal presidential order regarding the augmentation of the armed forces for operational missions in Haiti. It invokes constitutional and legal authority, directing the Secretary of Defense and Secretary of Transportation to order active duty for selected reserve units and individuals. The language is formal and legalistic, focusing on authorization and internal management. There is no explicit expression of emotions. However, the context of restoring civilian government in Haiti might imply a sense of urgency or determination, but this is not directly stated. Therefore, most emotions are scored low, with a slight consideration for determination reflected in the joy score.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

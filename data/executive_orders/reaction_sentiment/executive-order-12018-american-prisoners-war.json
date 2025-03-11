@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 2,
+        "surprise": 4
+    },
+    "critique": "The document aims to instill confidence and order within the armed forces, particularly among prisoners of war. The primary emotions the President wants to elicit are a sense of security (reducing fear) and trust in the chain of command (reducing surprise and disgust). There's a subtle element of sadness acknowledged due to the circumstances of capture, but the overall goal is to project strength and control. The initial scores reflect this, but the revised scores fine-tune the emphasis on reducing fear and surprise while acknowledging the underlying sadness.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 4,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 3
+    }
+}

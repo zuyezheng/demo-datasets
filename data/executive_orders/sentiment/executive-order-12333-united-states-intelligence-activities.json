@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "fear": 5,
+        "disgust": 5,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding intelligence activities. It is primarily concerned with establishing guidelines, responsibilities, and oversight mechanisms for the Intelligence Community. The language is legalistic and bureaucratic, focusing on clarity and precision rather than emotional expression. Therefore, the expected emotional response from the American public would be minimal, with perhaps a slight sense of reassurance that intelligence activities are being regulated. Given the nature of the document, I would expect very low scores across all emotions.",
+    "critique": "The document is a formal executive order regarding intelligence activities. It aims to establish guidelines, responsibilities, and oversight for the Intelligence Community. The language is formal and legalistic. There is a sense of seriousness and determination to protect national security. There is no explicit expression of joy, sadness, or surprise. There is a sense of fear of foreign powers and espionage. There is a sense of disgust for espionage and other threats and activities directed by foreign intelligence services against the United States Government, or United States corporations, establishments, or persons.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
+        "fear": 6,
+        "disgust": 6,
         "surprise": 1
     }
 }

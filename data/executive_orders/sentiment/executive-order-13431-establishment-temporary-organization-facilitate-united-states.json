@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is an executive order establishing the Iraq Transition Assistance Office (ITAO). It outlines the purpose, functions, personnel, and administration of the ITAO. The language is formal and legalistic. There is no explicit expression of emotion. However, the establishment of such an office might implicitly convey a sense of hope (joy) for Iraq's transition to self-sufficiency, but also perhaps some sadness that the situation in Iraq requires such continued intervention. There might also be a hint of surprise that such an office is still needed. Fear and disgust are unlikely to be conveyed. The scores are based on these subtle implications, not on direct emotional expression.",
+    "critique": "The document is a formal executive order establishing the Iraq Transition Assistance Office (ITAO). The language is legal and administrative, with a focus on outlining the office's purpose, functions, personnel, and termination. There is minimal emotional content. Therefore, most emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

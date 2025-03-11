@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal approval of recommendations and instructions for the Secretary of the Interior. There is no explicit emotional language used. Therefore, all emotions should be scored low, with a default of 1 due to lack of information.",
+    "critique": "The document is a formal approval of recommendations and a directive to the Secretary of the Interior. There is no explicit emotional content. The language is neutral and administrative. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. The primary emotion conveyed is a sense of responsibility and concern for the welfare of workers affected by government contracts. There's a hint of joy in aiming to promote economy and efficiency and prevent hardship to individuals. There is no indication of anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order. It expresses concern for workers who may be displaced when service contracts change. It aims to promote economy and efficiency in government procurement. The language is formal and legalistic. There is a sense of responsibility and concern for the welfare of workers, but it is expressed in a measured and formal way. There is no strong expression of any particular emotion. Therefore, the scores should be relatively low across the board.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 2,
         "fear": 1,
         "disgust": 1,

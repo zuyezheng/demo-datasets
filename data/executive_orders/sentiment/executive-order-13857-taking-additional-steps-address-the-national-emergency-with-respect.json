@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 1,
-        "disgust": 3,
-        "surprise": 1
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 6,
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order. It expresses concern about the situation in Venezuela, particularly regarding human rights violations and the undermining of the National Assembly. While it doesn't explicitly express emotions, the context suggests a sense of disapproval and perhaps a degree of anger or disgust towards the actions of the Maduro regime. However, the primary tone is one of official action and legal formality. Therefore, the scores should reflect a low level of expressed emotion, with slightly higher scores for negative emotions like disgust and anger due to the references to human rights violations and undermining of democracy.",
+    "critique": "The document expresses concern and determination in addressing the situation in Venezuela. It highlights human rights violations, undermining of democracy, and actions against the Interim President and National Assembly. While it doesn't explicitly express joy, sadness, or surprise, there's an underlying sense of disapproval and resolve. Therefore, I will assign initial scores based on these observations.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 1,
-        "disgust": 4,
-        "surprise": 1
+        "sadness": 4,
+        "fear": 5,
+        "disgust": 7,
+        "surprise": 3
     }
 }

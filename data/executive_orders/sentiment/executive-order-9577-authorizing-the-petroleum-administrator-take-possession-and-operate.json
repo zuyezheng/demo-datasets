@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document conveys a sense of urgency and determination to ensure the continued production of crude oil for the war effort. The President expresses concern about a potential interruption due to a labor dispute and emphasizes the need to maintain productive efficiency. The language used is formal and authoritative, reflecting the President's role as Commander in Chief. The document does not explicitly express emotions such as joy, sadness, anger, fear, disgust, or surprise. However, the underlying tone suggests a sense of concern and determination to address the situation effectively. Therefore, the initial scores would be: disgust: 1, fear: 3, joy: 1, sadness: 2, surprise: 1. After a second thought, I think the level of fear should be a little higher.",
+    "critique": "The document expresses a sense of urgency and determination to maintain the war effort. There's a hint of fear regarding the potential disruption of oil production, but overall, the tone is authoritative and decisive. It does not express joy, sadness, or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

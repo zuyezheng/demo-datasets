@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding a decision on a wage differential request. It uses formal language and aims to convey a sense of authority and impartiality. There is no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. The president is making a decision based on a report and legal authority. Therefore, all emotions should be scored low, with a score of 1 indicating a lack of conveyed emotion.",
+    "critique": "The document is a formal executive order denying an application for exemption from a code of fair competition. The language is formal and legalistic. There is no explicit expression of emotions. However, the denial of the application might convey a sense of disappointment (sadness) for the applicants, and the firm tone might suggest a lack of surprise or joy. The other emotions are not apparent.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

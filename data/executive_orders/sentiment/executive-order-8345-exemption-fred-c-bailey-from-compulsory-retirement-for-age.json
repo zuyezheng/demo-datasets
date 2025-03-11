@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the exemption of Fred C. Bailey from compulsory retirement. The language is legal and procedural, and the tone is neutral. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the exemption of Fred C. Bailey from compulsory retirement. The language is formal and legalistic. There is no explicit expression of emotions. However, one could argue there is a slight sense of joy that Fred C. Bailey is allowed to continue working. There is no indication of sadness, anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

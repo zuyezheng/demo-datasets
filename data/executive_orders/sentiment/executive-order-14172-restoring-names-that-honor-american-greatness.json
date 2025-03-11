@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 7,
-        "sadness": 2,
-        "fear": 1,
-        "disgust": 3,
-        "surprise": 2
-    },
-    "critique": "The document expresses joy in celebrating American heroes and correcting what is perceived as a historical wrong. There's also an element of anger/disgust towards the previous administration's decision to rename Mount McKinley. There's no explicit fear or surprise conveyed. The renaming of the Gulf of Mexico to the Gulf of America seems intended to evoke a sense of national pride and importance.",
-    "revised_scores": {
-        "joy": 8,
-        "sadness": 1,
+        "sadness": 4,
         "fear": 1,
         "disgust": 4,
-        "surprise": 1
+        "surprise": 3
+    },
+    "critique": "The document expresses joy in celebrating American heroes and national heritage. There's sadness over the assassination of President McKinley and the previous administration's decision to remove his name. There's a sense of disgust towards the previous administration's actions. There's surprise at the previous administration's decision to rename Mount McKinley. There is no fear or anger conveyed in the document.",
+    "revised_scores": {
+        "joy": 7,
+        "sadness": 4,
+        "fear": 1,
+        "disgust": 4,
+        "surprise": 3
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order extending trust periods on land allotments for Yakima Reservation Indians. It's a legal and administrative action, not designed to evoke strong emotions. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal order extending trust periods on land allotments for Yakima Reservation Indians. It's a legal and administrative document, so the emotional content is minimal. There's a slight sense of providing security and stability, which could be interpreted as a low level of joy and a very slight reduction in potential fear or sadness related to land security. However, the primary purpose is administrative, not emotional.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

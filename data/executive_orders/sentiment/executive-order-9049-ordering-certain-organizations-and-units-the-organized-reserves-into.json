@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order from the President to activate military personnel. It uses legal and official language. There is no explicit expression of emotion. However, the context of ordering troops into active service during wartime could imply a sense of seriousness and determination, potentially tinged with sadness or fear due to the gravity of the situation. However, since the text itself doesn't convey any emotion, I will rate all emotions as 1.",
+    "critique": "The document is a formal order from the President to activate the Organized Reserves for military service. The tone is serious and authoritative. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the context of ordering troops into active service during wartime implies a sense of urgency and perhaps underlying concern or apprehension. Given the formal nature and lack of explicit emotional language, the scores should be low, but not necessarily 1, for emotions like fear and sadness due to the context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

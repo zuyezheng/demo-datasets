@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to civil-service rules. It's a dry, administrative announcement. There's no emotional content in the document itself. Therefore, all emotions should be scored as 1, indicating a minimal presence.",
+    "critique": "The document is a formal amendment to civil-service rules. It simply states that a position for a postal rate expert can be filled upon noncompetitive examination. There is no language or context that would suggest any strong emotions. Therefore, all emotions should be scored low, with a default score of 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

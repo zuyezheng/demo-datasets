@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order regarding appointments within the National Bituminous Coal Commission. It doesn't express any particular emotion. The language is legal and administrative, devoid of emotional cues. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order regarding appointments within the National Bituminous Coal Commission. It's a legal and administrative document, so it's unlikely to convey strong emotions. The language is neutral and factual. Therefore, all emotions should be scored low, with a default of 1 where there's no clear indication of the emotion.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

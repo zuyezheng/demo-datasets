@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a set of instructions for diplomatic officers regarding financial matters. As the author, the President, I want to convey a sense of order, responsibility, and adherence to the law. There is no intention to evoke strong emotions, but rather to ensure compliance and prevent fraud. Therefore, the scores should be low across the board. I will start with initial scores of 1 for each emotion, as the document is primarily procedural. Upon review, I will adjust the scores based on the language and context. The mention of embezzlement and penalties might evoke a slight sense of fear or disgust towards fraudulent activities, so I will increase those scores slightly.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

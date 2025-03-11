@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing an advisory council on HIV/AIDS. It is primarily informational and procedural, with no strong emotional sentiment conveyed. Therefore, the initial scores should be low across all emotions. Upon further reflection, while the document itself is neutral, the subject matter (HIV/AIDS) may evoke some sadness and concern in the reader. However, since the document focuses on establishing a council and not on the suffering caused by the disease, the sadness score should still be relatively low.",
+    "critique": "The document is a formal executive order. It establishes an advisory council on HIV/AIDS. The language is formal and legalistic. There is no strong emotion conveyed. A baseline of 1 is appropriate for all emotions, as the document focuses on establishing a council and outlining its functions, without expressing explicit emotional sentiment.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

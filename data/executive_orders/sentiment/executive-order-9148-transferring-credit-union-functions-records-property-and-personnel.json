@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the transfer of functions, records, property, personnel, and funds from the Farm Credit Administration to the Federal Deposit Insurance Corporation. It cites the First War Powers Act of 1941 as the legal basis for the order. There is no explicit emotional language used; the tone is neutral and administrative. Therefore, all emotions should be scored low. Since the document discusses war powers, there might be a slight sense of fear or surprise, but it is minimal.",
+    "critique": "The document is a formal executive order regarding the transfer of functions, records, property, personnel, and funds from the Farm Credit Administration to the Federal Deposit Insurance Corporation. It is a legal and administrative document with no explicit emotional expression. Therefore, the initial scores for all emotions should be low, reflecting the formal and unemotional nature of the text.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

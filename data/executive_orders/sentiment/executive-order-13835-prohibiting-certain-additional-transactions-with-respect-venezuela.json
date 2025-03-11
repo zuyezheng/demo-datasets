@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 4,
-        "fear": 5,
-        "disgust": 6,
+        "fear": 1,
+        "disgust": 3,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding Venezuela. It expresses concern about the Maduro regime's actions and aims to take steps to address the situation. The language is formal and legalistic. Based on the content and context, the primary emotions conveyed are concern and disapproval, potentially leading to fear and disgust among those affected by the regime's actions. There's no indication of joy or surprise. Initial scores: Disgust: 6, Fear: 5, Joy: 1, Sadness: 4, Surprise: 1. Revised scores: Disgust: 7, Fear: 6, Joy: 1, Sadness: 5, Surprise: 1.",
+    "critique": "The document is a formal executive order addressing the situation in Venezuela. It expresses concern about the Maduro regime's actions and their impact on the Venezuelan people. The order aims to take additional steps to address the national emergency declared in previous executive orders. Given the context, the primary emotions conveyed are concern and a sense of urgency. There's a hint of disgust towards the actions of the Maduro regime, and a degree of sadness for the Venezuelan people. There is no surprise, joy, or fear conveyed.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 6,
-        "disgust": 7,
+        "sadness": 4,
+        "fear": 1,
+        "disgust": 3,
         "surprise": 1
     }
 }

@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to a departmental rule, specifying a position within the Treasury Department. It's unlikely to evoke strong emotions in the American public. The language is neutral and factual. Therefore, all emotions should be scored low, with a default of 1.",
+    "critique": "The document is a formal amendment to a departmental rule, specifying an exception for a position in the Treasury Department. The language is neutral and factual, with no overt emotional expression. Therefore, all emotions should be scored low. Initial scores are all set to 1, indicating minimal emotional conveyance. Revised scores remain at 1, reflecting the document's unemotional nature.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

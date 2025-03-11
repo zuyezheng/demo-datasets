@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 6,
-        "disgust": 6,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an order preventing the export of arms, ammunition, and munitions of war from the United States. It also instructs the Secretary of War to hold possession of arms seized at Rouses Point. The language is formal and authoritative, indicating a serious situation.The president is conveying fear and disgust due to arms, ammunition, or munitions of war being exported from the United States. There is no indication of joy, sadness, or surprise.",
+    "critique": "The document is an order to prevent the export of arms, ammunition, and munitions of war from the United States. It expresses a sense of urgency and control. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the order suggests a potential threat or concern that necessitates the action, which could be interpreted as a low level of fear or concern. The order is decisive, suggesting a moderate level of control and seriousness. Therefore, I will assign low scores to fear and sadness, and a slightly higher score to seriousness. The rest of the emotions will be scored as 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 6,
-        "disgust": 6,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     }
 }

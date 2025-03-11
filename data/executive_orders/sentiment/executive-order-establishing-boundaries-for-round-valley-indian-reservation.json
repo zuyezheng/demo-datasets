@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a proclamation defining the boundaries of the Round Valley Indian Reservation in California. It is a formal and legal document. Therefore, the expected sentiment is neutral. The initial scores for all emotions are set to 1, indicating a lack of strong emotional conveyance. After a thorough review, the revised scores remain at 1 across all emotions, as the document's primary purpose is administrative and descriptive, devoid of explicit emotional expression.",
+    "critique": "The document is a formal proclamation defining the boundaries of the Round Valley Indian Reservation. It is a legal document with no emotional content. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

@@ -3,15 +3,15 @@
         "joy": 1,
         "sadness": 2,
         "fear": 3,
-        "disgust": 3,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding actions against Libya in response to international terrorism. It invokes legal authorities and outlines specific prohibitions and authorizations. The language is formal and legalistic, with no explicit emotional expression. However, the context implies a sense of seriousness and determination to address a threat. Initial scores are assigned based on this implicit context, with slight increases in fear and disgust due to the mention of terrorism, and a slight increase in sadness due to the implications of the order. The revised scores reflect a more neutral stance, recognizing the document's primary purpose as a legal declaration rather than an emotional appeal.",
+    "critique": "The document is a formal executive order addressing Libya's support for international terrorism. It primarily conveys a sense of seriousness and determination to address a national emergency. There is a hint of fear and disgust towards the actions of Libya, but these are not explicitly stated, so I will keep the scores low. There is no explicit joy or surprise. Sadness is not a primary emotion, but the situation prompting the order is unfortunate.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 2,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
         "surprise": 1
     }
 }

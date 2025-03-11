@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order regarding land in New Mexico. It revokes two previous executive orders related to land withdrawal pending resurvey. There is no indication of any emotion being conveyed. The language is formal and factual. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal revocation of executive orders related to land in New Mexico. The language is legal and administrative, with no explicit emotional expression. Therefore, the initial scores should be very low across all emotions, with a baseline of 1 to indicate minimal presence.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

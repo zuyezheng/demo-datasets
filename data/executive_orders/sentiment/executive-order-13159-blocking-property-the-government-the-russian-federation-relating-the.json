@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 7,
-        "disgust": 3,
-        "surprise": 1
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 2
     },
-    "critique": "The document expresses concern about nuclear proliferation and declares a national emergency. It aims to ensure the implementation of agreements related to the disposition of highly enriched uranium. The primary emotion conveyed is fear due to the threat of nuclear proliferation. There might be a hint of disgust towards the potential misuse of nuclear materials. There is no indication of joy or surprise. Sadness might be present due to the grave nature of the situation, but it is not the primary emotion.The initial scores reflect these considerations, with fear being the highest, followed by sadness and disgust. Joy and surprise are minimal. The revised scores refine these estimates based on a more careful reading, slightly increasing the emphasis on fear and reducing the others.",
+    "critique": "The document is a formal executive order regarding nuclear proliferation. It expresses concern about a threat and outlines measures to address it. Therefore, it conveys a sense of seriousness and determination, but avoids strong emotional expressions. It aims to remain neutral and factual.",
     "revised_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 8,
-        "disgust": 2,
-        "surprise": 1
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 2
     }
 }

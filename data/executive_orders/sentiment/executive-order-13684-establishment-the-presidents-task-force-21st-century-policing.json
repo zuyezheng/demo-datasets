@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a task force. It aims to address crime reduction and public trust. The language is formal and legalistic, with no explicit emotional expression. However, the underlying intent to improve community relations and reduce crime could be interpreted as conveying a sense of hope or optimism, but this is very subtle. Therefore, the scores should be low across all emotions.",
+    "critique": "The document is a formal executive order establishing a task force. It aims to address crime reduction and public trust. The language is formal and legalistic. There is a sense of purpose and determination, but emotions are largely absent. Therefore, most scores should be low.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

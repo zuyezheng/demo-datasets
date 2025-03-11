@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to establish a framework for intergovernmental cooperation and review of federal assistance programs. The language is legal and procedural, lacking emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It aims to foster intergovernmental partnership and strengthen federalism. The language is formal and legalistic. There is no strong emotion conveyed, but a sense of optimism and purpose might be inferred. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy due to the positive intent of the order.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

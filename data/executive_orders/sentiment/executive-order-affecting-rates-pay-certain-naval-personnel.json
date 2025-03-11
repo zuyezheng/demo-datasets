@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a military order specifying a pay increase for certain enlisted men. It is a formal and factual document with no emotional language. Therefore, the expected emotional response from the American public would be minimal across all emotions.The initial scores reflect this assessment. After further consideration, the scores remain the same as there is no indication of any specific emotion being conveyed or intended.",
+    "critique": "The document describes a pay increase for enlisted men. There is no explicit emotion conveyed, but the raise could be interpreted as a positive development, leading to a slight increase in joy. All other emotions are not present.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

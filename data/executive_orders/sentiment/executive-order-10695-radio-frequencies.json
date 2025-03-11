@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "I need to understand and score the sentiment the President is conveying in the document by considering the content, context and language. I should consider if the President is attempting to portray joy, sadness, anger, fear, disgust, or surprise with the document. I should score the relative intensity on a scale of 1-10 that the American public is expected to feel. I should not consider text that are not part of the document and use a score of 1 if not enough information is provided. Finally, I should give my revised scores.",
+    "critique": "Since there is no document provided, I will use the default values for all the emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

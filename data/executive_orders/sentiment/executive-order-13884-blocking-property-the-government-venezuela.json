@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 4,
-        "fear": 3,
-        "disgust": 7,
-        "surprise": 1
+        "fear": 5,
+        "disgust": 6,
+        "surprise": 2
     },
-    "critique": "The document is an executive order regarding Venezuela. It expresses a formal and authoritative tone. The primary emotion conveyed is disgust and anger towards the actions of the Venezuelan government, coupled with a sense of determination to address the situation. There's a hint of sadness regarding the human rights abuses. Surprise is not really present.",
+    "critique": "The document expresses concern and determination in addressing the situation in Venezuela. It aims to convey a sense of seriousness and resolve in taking action against the Maduro regime and protecting the interests of the United States. There is a sense of disgust and anger towards the actions of the Maduro regime, as well as a sense of fear regarding the potential consequences of their actions. There is no explicit expression of joy or surprise.",
     "revised_scores": {
         "joy": 1,
         "sadness": 5,
-        "fear": 3,
-        "disgust": 8,
-        "surprise": 1
+        "fear": 6,
+        "disgust": 7,
+        "surprise": 2
     }
 }

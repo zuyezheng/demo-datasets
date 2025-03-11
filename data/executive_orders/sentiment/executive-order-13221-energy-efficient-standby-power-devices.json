@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding energy conservation. It does not express any strong emotions. The language is formal and legalistic. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding energy conservation. It aims to encourage energy efficiency within the Federal Government. The language is formal and legalistic, with no explicit emotional expression. Therefore, the emotion scores should be relatively low across all categories. There is a slight sense of joy that the president is trying to improve energy conservation, but it is not strong. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

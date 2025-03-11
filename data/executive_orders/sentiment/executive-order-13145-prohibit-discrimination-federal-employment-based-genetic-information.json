@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding nondiscrimination in Federal employment based on genetic information. The language is legal and procedural. The primary emotion conveyed, if any, is a sense of justice and fairness, but it's very subtle. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The document aims to establish a policy and ensure equal opportunity. Therefore, the initial scores should be low across all emotions, with a slight emphasis on joy and surprise because it is a positive change. After reflection, the scores should be even lower, as the document is primarily informational and policy-driven, not designed to evoke strong emotions.",
+    "critique": "The document is a formal executive order. It aims to establish a policy of nondiscrimination in Federal employment based on protected genetic information. The language is formal and legalistic. There is no strong emotional language used. Therefore, the scores for all emotions should be relatively low. Considering the formal nature, a baseline of 1 is appropriate for emotions not explicitly present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

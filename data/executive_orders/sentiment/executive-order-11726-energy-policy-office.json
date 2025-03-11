@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
-        "fear": 2,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order establishing an Energy Policy Office. The language is formal and bureaucratic, with no explicit emotional expression. However, the creation of such an office might implicitly convey a sense of concern or perhaps even urgency regarding energy matters. Given the context, the public might feel a mild sense of reassurance (low joy) that the President is addressing energy issues, but also a low level of concern (low fear/sadness) that such measures are deemed necessary. There's no indication of anger, disgust, or strong surprise. Therefore, the initial scores should be low across the board, with a slight bump for joy, fear, and sadness.",
+    "critique": "The document establishes an Energy Policy Office and outlines the responsibilities of the Director. The language is formal and bureaucratic. There is a sense of urgency and importance conveyed through the establishment of the office and the emphasis on addressing energy problems. However, there is no strong expression of any particular emotion. The document is primarily informational and directive.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 2,
-        "fear": 2,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

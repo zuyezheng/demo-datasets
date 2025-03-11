@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the appointment of military personnel to civilian service in the Department of State. The language is legal and administrative, with no explicit emotional expression. The context is the post-World War II period, where the government is reorganizing and integrating military personnel into civilian roles. Given the formal and administrative nature of the document, it is unlikely to evoke strong emotions in the American public. The most relevant emotions might be a mild sense of surprise or perhaps even joy that the war is over and people are transitioning back to civilian life, but these would be very mild. Disgust, fear, and sadness are unlikely to be conveyed.",
+    "critique": "The document is a formal executive order regarding the appointment of military personnel to civilian service in the Department of State. It is a factual and procedural document with no explicit emotional expression. Therefore, the scores for all emotions should be low, reflecting the absence of strong emotional conveyance. Considering the formal nature, a baseline of 1 is appropriate for emotions not explicitly present.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

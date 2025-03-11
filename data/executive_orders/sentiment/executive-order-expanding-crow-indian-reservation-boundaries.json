@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation for the Crow tribe of Indians. It primarily conveys a sense of official action and policy implementation rather than any specific emotion. There is a slight hint of consideration for existing settlers, but overall, the tone is neutral and administrative.",
+    "critique": "The document is a formal executive order regarding land allocation for the Crow tribe. It's a legal and administrative document, so the emotional content is expected to be minimal. The primary emotion might be a slight sense of joy for the Crow tribe, but it's not explicitly stated. Other emotions like sadness, fear, disgust, and surprise are not evident in the text. Therefore, I will assign low scores to all emotions except joy, which will be slightly higher but still low.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

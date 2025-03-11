@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration listing communicable diseases. It doesn't express any particular emotion. The language is legal and factual, not designed to evoke an emotional response. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal declaration listing communicable diseases. It aims to inform and declare rather than evoke emotions. Therefore, most emotions should be scored low. There might be a slight sense of fear or concern due to the nature of the listed diseases, but it's primarily a factual announcement.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

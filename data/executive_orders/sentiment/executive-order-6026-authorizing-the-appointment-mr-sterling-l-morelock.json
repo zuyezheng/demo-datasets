@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document describes a probational appointment for a disabled veteran. It mentions awards like the Congressional Medal of Honor and the Order of the Purple Heart, suggesting respect and admiration. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the context implies a sense of gratitude and respect for the veteran's service. The recommendation by the Secretary of Agriculture and the President's approval further emphasize the importance of this appointment. Given the lack of strong emotional cues, the initial scores are set to 1 for all emotions. Upon review, the document evokes a mild sense of joy and respect due to the veteran's recognition. Therefore, the joy score is revised to 3, while the other emotions remain at 1.",
+    "critique": "The document is a formal order regarding the appointment of Mr. Sterling L. Morelock. It highlights his status as a disabled veteran and recipient of prestigious awards. The primary emotion conveyed is respect and gratitude towards Mr. Morelock for his service. There is a mild sense of joy in recognizing his achievements and providing him with an opportunity. There's no indication of sadness, anger, fear, disgust, or surprise.",
     "revised_scores": {
         "joy": 3,
         "sadness": 1,

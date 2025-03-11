@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land withdrawal for flood control. It does not express any particular emotion. The language is legal and administrative, intended to be neutral and objective. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding land withdrawal in Oklahoma for flood control. It's a legal and administrative document, so the primary emotions conveyed are neutral. There is a slight sense of importance or seriousness due to the official nature of the order, but no strong emotions are explicitly expressed. Therefore, the initial scores should be low across all emotions, with a slightly higher score for sadness because land is being withdrawn.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

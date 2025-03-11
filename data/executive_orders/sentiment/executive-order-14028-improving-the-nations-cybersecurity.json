@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 2,
         "fear": 5,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 3
     },
-    "critique": "The document is a formal executive order addressing cybersecurity. The primary emotion conveyed is concern about the current state of cybersecurity and a determination to improve it. There's an element of urgency and seriousness, but not necessarily fear or anger. The language is formal and policy-oriented, not designed to evoke strong emotional responses. The document aims to convey a sense of responsibility and action. Therefore, I will score sadness, joy, surprise, disgust and fear.",
+    "critique": "The document is a formal executive order focused on improving the nation's cybersecurity. It addresses various aspects, including information sharing, modernization of federal government cybersecurity, software supply chain security, and incident response. The language is formal and technical, aiming to convey a sense of urgency and seriousness regarding the threats. Given the nature of the document, emotions such as fear and concern are present, but they are expressed in a controlled and professional manner. There is a sense of determination and resolve to address the issues. Joy is not present. Surprise is not a major factor, as the document addresses known and anticipated threats.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 2,
         "fear": 5,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 3
     }
 }

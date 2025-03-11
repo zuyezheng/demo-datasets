@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding classified national security information. It is primarily informational and procedural, lacking strong emotional cues. The language is legalistic and objective. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the classification, safeguarding, and declassification of national security information. It is primarily concerned with establishing procedures and guidelines for government agencies. The language is legalistic and procedural, with a focus on clarity and precision. There is no expression of personal emotions or opinions. The document aims to ensure the protection of sensitive information while also promoting transparency and accountability. Therefore, the scores for all emotions should be low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

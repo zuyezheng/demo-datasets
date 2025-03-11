@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and official action, but doesn't strongly evoke any specific emotion. The mention of war powers might suggest a hint of fear or concern, but it's not the dominant sentiment. Therefore, I'll assign low scores across the board, with a slightly higher score for fear due to the war powers context.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and official procedure. There is no strong indication of joy, sadness, fear, disgust, or surprise. The emotions conveyed are very minimal, so I will assign a low score to each.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

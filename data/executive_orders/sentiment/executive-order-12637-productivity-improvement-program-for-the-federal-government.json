@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order focused on improving productivity within the Federal Government. It outlines specific steps for departments and agencies to follow, emphasizing efficiency, quality, and timeliness. The language is formal and bureaucratic, with no overt emotional appeals. Therefore, the expected emotional response from the American public would likely be minimal across all emotions. Most scores should be low, reflecting the document's dry and procedural nature. There might be a slight sense of joy if the public believes this will improve government services, but it would be very mild. There's no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order outlining a government-wide program to improve productivity. It focuses on efficiency, measurement, and reporting. There's a sense of optimism and determination to improve government services, but it's conveyed in a very formal and measured way. Therefore, joy and surprise should be low. Sadness, fear, and disgust are not really present.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

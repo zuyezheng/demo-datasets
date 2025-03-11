@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order detailing the rules and regulations for the Army and Navy General Hospital at Hot Springs, Arkansas. It is a formal and administrative document with no inherent emotional tone. Therefore, all emotions should be scored very low.",
+    "critique": "The document is a formal executive order amending a previous order regarding the Army and Navy General Hospital. It primarily focuses on regulations, procedures, and financial aspects related to patient care and hospital operations. There is no explicit expression of emotions. However, a very slight sense of joy could be inferred from the intention to provide care and treatment to military personnel and veterans. Similarly, a very slight sense of sadness could be inferred from the mention of diseases and the need for hospitalization. The other emotions are not apparent in the text.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

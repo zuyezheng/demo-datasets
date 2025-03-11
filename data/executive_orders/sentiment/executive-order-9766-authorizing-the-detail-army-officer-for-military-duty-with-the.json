@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order detailing the temporary assignment of an Army officer to specific organizations. The language is legalistic and procedural, with no indication of emotional sentiment. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order detailing the authorization of the Secretary of War to assign an Army officer to specific organizations. The language is formal and legalistic, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Considering it is a formal document, I will assign a baseline score of 1 for all emotions in the initial scores.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

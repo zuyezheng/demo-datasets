@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration of neutrality. It does not express any strong emotions. The president is attempting to remain neutral, so the emotions conveyed should be minimal. Therefore, I will assign low scores to all emotions.",
+    "critique": "The document is a formal proclamation regarding the neutrality of the United States in the war between Italy and Greece. It references treaties, laws of nations, and previous executive orders. The language is formal and legalistic. There is no explicit expression of emotions. However, the document conveys a sense of seriousness and determination to uphold the neutrality of the United States. Therefore, I will assign low scores to all emotions, with a slightly higher score for sadness due to the mention of war.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

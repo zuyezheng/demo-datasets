@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 5,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order addressing wildlife trafficking. The language is formal and legalistic. The primary emotion conveyed is concern about the issue of wildlife trafficking and a determination to address it. There's a sense of urgency and importance, but not necessarily strong emotions like joy, sadness, anger, fear, disgust, or surprise. The document aims to convey a sense of responsibility and action. Therefore, the initial scores should reflect low values for most emotions, with a slightly higher score for concern or determination, which might be interpreted as a low level of sadness or fear for the situation.",
+    "critique": "The document is a formal executive order addressing wildlife trafficking. It expresses concern about the issue and outlines measures to combat it. There is no explicit expression of joy. There is a sense of sadness related to the negative impacts of wildlife trafficking. There is no explicit expression of anger, fear, or surprise, but there is an underlying sense of concern and urgency. The initial scores reflect these observations.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 5,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 2
     }
 }

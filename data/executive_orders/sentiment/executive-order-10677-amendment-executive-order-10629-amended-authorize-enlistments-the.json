@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding enlistments in the Ready Reserve. It cites legal authority and describes the determination that the enlisted strength needs to be maintained for national defense. The language is formal and legalistic, not designed to evoke strong emotions. Therefore, all emotions should be scored low. There's a slight sense of concern or seriousness due to the mention of national defense, but it's not overwhelming.",
+    "critique": "The document is a formal executive order regarding enlistments in the Ready Reserve. It primarily conveys a sense of determination and authorization, with a focus on maintaining national defense. There is no strong indication of joy, sadness, fear, disgust, or surprise. The language is formal and legalistic, typical of such documents. Therefore, the initial scores should reflect this neutrality, with low scores for all emotions except perhaps a slightly elevated score for determination, which I will interpret as a low level of conveying importance, and thus, a low level of surprise.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

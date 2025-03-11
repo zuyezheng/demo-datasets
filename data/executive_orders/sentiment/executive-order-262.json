@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal letter from the War Department regarding the return of flags to the states. The tone is respectful and official. There is a hint of joy in the phrase \"discharging this pleasant duty\". There is no indication of sadness, anger, fear, disgust, or surprise. The scores should reflect this.",
+    "critique": "The document is a formal letter from the War Department to the Governor of a State, regarding the return of flags. The language is formal and respectful. There is a sense of duty and closure, but no strong emotions are explicitly expressed. Therefore, the initial scores should be relatively low across all emotions. The return of flags might evoke some sadness for the past, and perhaps a hint of joy in returning them to their home state. There's no anger, fear, disgust, or surprise evident in the text.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

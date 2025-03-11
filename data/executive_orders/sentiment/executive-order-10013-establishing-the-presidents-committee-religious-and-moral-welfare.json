@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It establishes a committee to promote religious, moral, and recreational welfare in the armed forces. The language is formal and bureaucratic. There is no strong emotion conveyed, but a sense of encouragement and purpose. Therefore, joy is the most likely emotion, but at a low level. The other emotions are not really present.",
+    "critique": "The document is a formal executive order. It aims to establish a committee to promote religious and moral welfare in the armed forces. The language is formal and bureaucratic. There is no strong emotional sentiment conveyed. Therefore, the initial scores should be low across all emotions. Revised scores should reflect the lack of strong emotions.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

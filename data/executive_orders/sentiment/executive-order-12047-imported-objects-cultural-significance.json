@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of official action and legal procedure. There is no strong indication of any particular emotion. Therefore, all emotions are scored low initially. Upon review, the 'surprise' score could be slightly higher than the others, as executive orders can sometimes contain unexpected elements, though this is not explicitly present here.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and purpose, but lacks strong emotional expression. Therefore, most emotions should be scored low. There might be a slight sense of joy in preserving cultural artifacts, but it's minimal.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

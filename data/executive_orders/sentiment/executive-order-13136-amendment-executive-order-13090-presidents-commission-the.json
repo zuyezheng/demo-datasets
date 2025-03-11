@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It extends the life of the President's Commission on the Celebration of Women in American History. The language is legal and procedural, and the purpose is to allow more time for the commission to develop support systems and test the viability of its recommendations. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1 initially. After further consideration, the document is purely informational and procedural, with no emotional content. The initial scores accurately reflect this.",
+    "critique": "The document is a formal executive order. It extends the life of the President's Commission on the Celebration of Women in American History. The language is formal and legalistic. There is no strong emotion conveyed. A slight amount of joy can be inferred from the celebration of women in American history, but it is very mild. All other emotions are not present.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

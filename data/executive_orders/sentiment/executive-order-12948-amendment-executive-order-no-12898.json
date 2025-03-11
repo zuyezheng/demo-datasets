@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order amending a previous order. It contains formal language and specific instructions for changes, indicating a serious and official tone. There is no explicit expression of emotions such as joy, sadness, anger, fear, disgust, or surprise. The context suggests a focus on legal and administrative matters rather than emotional appeals. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal amendment to an executive order. The language is legal and procedural. There is no indication of any emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

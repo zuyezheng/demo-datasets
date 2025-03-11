@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 1
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 2
     },
-    "critique": "The document is a presidential order addressing a labor dispute affecting a critical transportation system during a wartime emergency. The primary emotion conveyed is a sense of urgency and determination to maintain essential services. There's an element of concern about the potential disruption to the war effort, but it's presented in a formal, authoritative tone. The order aims to ensure the uninterrupted operation of the transportation system. It does not convey joy, sadness, or surprise. There might be a hint of disgust at the labor dispute disrupting operations, and a bit of fear about the consequences of the disruption, but these are secondary to the overall sense of decisive action.",
+    "critique": "The document is a formal executive order regarding the seizure of a railroad due to a labor dispute that is impeding the war effort. The primary emotion conveyed is a sense of urgency and determination to maintain essential transportation services during a wartime emergency. There is a hint of concern about the labor dispute's impact. It is important to note that this is a formal document, so the emotional expression will be subdued.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 1
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 2
     }
 }

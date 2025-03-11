@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order regarding land reservation for townsite purposes. It's a formal and legal document. There is no indication of any emotion being conveyed. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal order regarding land reservation for townsite purposes. It's a legal document, so the emotional intensity is expected to be low across all emotions. There is no indication of joy, sadness, fear, disgust, or surprise. Therefore, a score of 1 is appropriate for each emotion.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

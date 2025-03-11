@@ -3,15 +3,15 @@
         "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding civil service rules. It is primarily informational and procedural, with no overt emotional expression. The president is conveying a sense of authority and order, but not necessarily joy, sadness, anger, fear, disgust, or surprise. The language is legalistic and bureaucratic, intended to be precise and unambiguous. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding civil service rules. It primarily focuses on definitions, appointments, and regulations within the civil service. The language is legalistic and procedural. There is no expression of joy, sadness, fear, or surprise. There may be a slight sense of disgust at the idea of political interference, but it is very muted. Therefore, the initial scores are all low, with a slightly higher score for disgust.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

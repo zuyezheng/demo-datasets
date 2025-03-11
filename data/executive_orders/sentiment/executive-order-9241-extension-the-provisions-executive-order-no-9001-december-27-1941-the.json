@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order extending the provisions of a previous order to the Office of Strategic Services. The language is legal and official, with no explicit emotional content. However, the context of the order, relating to the prosecution of the war, implies a sense of urgency and determination. Given the formal tone, the expected emotional response from the public would likely be minimal. Therefore, I will assign low scores across all emotions in the initial scores. After a second thought, I realized that the context of war might induce some level of fear and sadness, but still relatively low. Therefore, I will revise the fear and sadness scores slightly upwards.",
+    "critique": "The document is a formal executive order extending the provisions of a previous order to the Office of Strategic Services and the United States Joint Chiefs of Staff. The language is legal and official, with the purpose of facilitating the prosecution of the war. There is no explicit expression of emotions. However, the context of wartime suggests a sense of urgency and determination, but these are not directly stated. Therefore, the initial scores should be low across all emotions, with a slight increase in fear and sadness due to the war context. After revision, the scores remain low, reflecting the document's formal and unemotional tone.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

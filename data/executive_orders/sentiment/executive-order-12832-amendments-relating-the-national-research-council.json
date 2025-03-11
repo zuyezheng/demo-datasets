@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The document is an executive order updating the National Research Council. It is a formal and legal document. The primary emotions conveyed would be related to the importance and impact of the order. There may be a sense of joy in the potential benefits of the research, and perhaps a sense of surprise at the extent of the order. However, the overall tone is neutral and formal.",
+    "critique": "The document is a formal executive order, so strong emotions are unlikely. The document expresses a sense of purpose and importance regarding the National Research Council's role in national security, public health, and economic growth. There is a slight sense of optimism and hope for the future due to the Council's work. Therefore, I will assign low scores for joy and surprise, and very low scores for the other emotions.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

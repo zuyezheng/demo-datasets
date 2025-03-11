@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land withdrawal for a War Department project. It uses legal and administrative language. There is no explicit emotional expression. The most relevant emotion might be surprise, as executive orders can sometimes be unexpected, but the overall tone is neutral. The initial scores will reflect this, with low values across all emotions and a slightly higher value for surprise. The revised scores will be the same as the initial scores, as the critique confirms the initial assessment.",
+    "critique": "The document is a formal executive order regarding land withdrawal for a War Department project. The language is legal and administrative, with no explicit emotional expression. Therefore, all emotions are scored at a baseline level of 1, indicating minimal emotional conveyance.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

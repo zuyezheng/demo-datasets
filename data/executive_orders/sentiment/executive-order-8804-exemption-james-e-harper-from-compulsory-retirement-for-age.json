@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the exemption of an employee from compulsory retirement. It does not express any strong emotions. The primary emotion might be a slight sense of joy or relief for the employee, but it's very subtle. Therefore, the initial scores are set low across the board, with a slightly higher score for joy. After further consideration, the emotions conveyed are negligible, so all scores are set to 1.",
+    "critique": "The document is a formal order regarding the exemption of an employee from compulsory retirement. It does not express strong emotions. The presence of surprise, joy, sadness, disgust, and fear are negligible. Therefore, a score of 1 is appropriate for each of these emotions in the initial scores.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

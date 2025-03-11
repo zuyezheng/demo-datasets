@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Silk Textile Industry. The language is legal and administrative, with no explicit emotional expression. However, the context of the Great Depression and the New Deal suggests an underlying sense of hope and optimism, as the government is taking action to regulate industry and improve working conditions. The president is likely trying to convey a sense of confidence and progress. Therefore, I will assign low scores to negative emotions and a slightly higher score to joy and surprise.",
+    "critique": "The document is a formal approval of a code of fair competition. It is unlikely to convey strong emotions. The primary emotion might be a mild sense of joy or satisfaction that the process has been completed and the code is approved. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

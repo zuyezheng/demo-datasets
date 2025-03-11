@@ -6,11 +6,11 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. The language is legalistic and factual, with no explicit emotional expression. The President aims to convey a sense of authority and responsibility in resolving a matter of national importance. Initial scores: Disgust: 1, Fear: 2, Joy: 1, Sadness: 2, Surprise: 1. Revised scores: Disgust: 1, Fear: 1, Joy: 1, Sadness: 1, Surprise: 1.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses concern about potential disruption to interstate commerce but maintains a neutral tone. There is no strong indication of joy, sadness, fear, disgust, or surprise. The primary emotion conveyed, if any, is a mild concern or seriousness, but it's largely a procedural declaration. Therefore, most scores should be low, with a slight emphasis on concern which might translate to a low level of sadness or fear.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

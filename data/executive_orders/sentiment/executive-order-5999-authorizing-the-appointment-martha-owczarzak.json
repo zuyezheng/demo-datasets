@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 7,
+        "joy": 3,
+        "sadness": 4,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document describes the appointment of Mrs. Martha Owczarzak as a charwoman. The context includes her husband's disability and their four dependent children, suggesting a situation of hardship. The order is recommended by the Secretary of the Treasury and signed by the President.The primary emotion conveyed is likely sadness due to the family's circumstances. There might be a hint of joy or surprise that the President is taking action to help this family, but it's less prominent. There's no indication of anger, fear, or disgust.Initial scores: Joy: 2, Sadness: 7, Anger: 1, Fear: 1, Disgust: 1, Surprise: 3.Revised scores: Joy: 2, Sadness: 7, Anger: 1, Fear: 1, Disgust: 1, Surprise: 3.",
+    "critique": "The document describes the appointment of Mrs. Martha Owczarzak as a charwoman. The language is formal and factual. The reason for the appointment is her husband's disability and the fact that they have four children to support. This evokes a sense of sadness and perhaps a little bit of joy that she is getting this opportunity. There is no indication of anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 7,
+        "joy": 3,
+        "sadness": 4,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

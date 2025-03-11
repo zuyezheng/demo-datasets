@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal presidential order regarding tax exemptions for Canadian stocks and debt obligations. It cites legal authorities and outlines the scope and duration of the exemption. The language is legalistic and devoid of emotional expression. Therefore, the expected emotional response from the American public would be minimal across all emotions. The initial scores reflect this, with all emotions rated at 1. After further consideration, the lack of emotional content remains the primary factor. The revised scores will remain at 1 for all emotions.",
+    "critique": "The document is a formal order regarding tax exemptions for Canadian stocks and debt obligations. The language is legal and technical, with no explicit emotional expression. However, the determination that the tax will have consequences that imperil the stability of the international monetary system conveys a sense of concern and urgency. The order aims to prevent a negative outcome, suggesting a degree of fear or apprehension about the potential consequences if the tax were applied. The document expresses no joy, sadness, disgust, or surprise. The level of fear is relatively low, as it is a preventative measure.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

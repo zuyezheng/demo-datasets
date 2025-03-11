@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a national emergency and imposing sanctions on Venezuela's digital currency. The language is legal and technical, with the primary goal of conveying authority and decisiveness. There is a sense of resolve and determination to address the situation, but no explicit emotional appeal. Therefore, the initial scores should reflect low levels of all emotions, with a slightly higher score for anger due to the confrontational nature of sanctions.",
+    "critique": "The document is a formal executive order addressing a national emergency related to Venezuela's digital currency. The primary emotion conveyed is a sense of resolve and determination to address the situation. There's a hint of disapproval towards the actions of the Maduro regime, but it's expressed in a formal, legalistic manner. There isn't strong expression of emotions, so the scores should be relatively low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 3
     }
 }

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a legal order withdrawing public lands from settlement. The tone is formal and authoritative. The primary emotion the President wants to elicit is a sense of order and compliance. There's no explicit attempt to evoke joy, sadness, anger, fear, disgust, or surprise. However, implicit in the act of withdrawing lands might be a desire to prevent future problems or protect resources, which could be associated with a low level of fear (of resource depletion) or a low level of surprise (at the need for such action). Since the document is primarily administrative, the emotional impact is likely minimal. Initial scores: Joy: 1, Sadness: 1, Anger: 1, Fear: 2, Disgust: 1, Surprise: 2. Critique: Upon further reflection, the document's purpose is to establish a legal framework. The emotions it evokes are more related to trust in the government and a sense of security that resources are being managed responsibly. The fear score should be reduced, and a slight increase in joy might be appropriate, reflecting a sense of security and well-being. Revised scores: Joy: 2, Sadness: 1, Anger: 1, Fear: 1, Disgust: 1, Surprise: 1.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

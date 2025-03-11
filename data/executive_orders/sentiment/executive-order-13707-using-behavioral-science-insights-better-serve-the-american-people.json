@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 3,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 4
-    },
-    "critique": "The document primarily aims to convey a sense of optimism and progress through the application of behavioral science insights to improve government policies. There's an underlying tone of joy associated with the potential for positive outcomes for the American people. While not explicitly stated, there's an implicit contrast with less effective past approaches, suggesting a mild sense of disappointment or sadness with the status quo before these changes. There's no indication of anger, fear, or disgust. Surprise is possible, but not a primary emotion.",
-    "revised_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
+    },
+    "critique": "The document is a formal presidential directive. It aims to improve government policies by applying behavioral science insights. The language is formal and objective. There is a sense of optimism and hope for a better future through improved policies. Therefore, joy is present. There is no explicit sadness, fear, disgust, or surprise. However, the emphasis on improving policies suggests an implicit acknowledgment of current shortcomings, which could be interpreted as a low level of sadness. The directive aims to address these shortcomings and create a better future, so there is a low level of joy. There is no indication of fear, disgust, or surprise.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     }
 }

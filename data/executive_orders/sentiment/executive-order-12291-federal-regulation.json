@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to establish regulatory processes and does not express any particular emotion. Therefore, all emotion scores should be low.",
+    "critique": "The document is a formal executive order. It aims to improve the regulatory process. The language is formal and legalistic. There is no strong emotion conveyed. A slight sense of joy might be inferred from the intention to improve the system, but it's very mild. There's no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

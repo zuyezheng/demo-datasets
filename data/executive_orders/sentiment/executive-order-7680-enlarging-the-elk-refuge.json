@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order about land allocation for an Elk Refuge. It's a formal declaration, so it's unlikely to evoke strong emotions in the general public. The primary emotion might be a mild sense of surprise or perhaps even joy for those interested in wildlife conservation, but overall, the emotional impact is minimal.",
+    "critique": "The document is a formal executive order regarding land allocation for the Elk Refuge. It primarily uses legal and administrative language. There is no explicit emotional expression. However, one could argue there is a subtle sense of joy in preserving land for wildlife, but it is very subdued. There is no indication of sadness, fear, disgust, or surprise. Therefore, most scores should be very low.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

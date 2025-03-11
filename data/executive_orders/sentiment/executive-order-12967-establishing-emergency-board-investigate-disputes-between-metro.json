@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding a labor dispute. It is unlikely to evoke strong emotions in the general public. The primary emotion might be a mild sense of surprise that the President is involved in such a matter, but overall, the emotional impact is minimal.",
+    "critique": "The document is a formal executive order. It establishes a board to investigate disputes between Metro North Commuter Railroad and certain employees. The language is legal and procedural. There is no strong emotion conveyed. A score of 1 is appropriate for all emotions except perhaps a slightly elevated sense of concern or seriousness, which might justify a 2 for sadness. However, to maintain consistency with the instruction to default to 1 when information is lacking, I will keep all initial scores at 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

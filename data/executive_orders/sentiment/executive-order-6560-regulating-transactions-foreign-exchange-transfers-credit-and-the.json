@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding financial regulations during a national emergency. It is primarily informational and legal in nature. Therefore, it is unlikely to evoke strong emotions in the American public. The primary emotion might be a mild sense of fear or concern due to the mention of a national emergency, but this is likely to be low. There is no indication of joy, sadness, disgust, or surprise.",
+    "critique": "The document is a formal executive order regarding financial regulations during a national emergency. It aims to control foreign exchange, credit transfers, and export of currency. The language is legal and precise, with little room for emotional expression. Therefore, the scores should be low across all emotions, with a slight emphasis on fear and concern due to the context of a national emergency.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

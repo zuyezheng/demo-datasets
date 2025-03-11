@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the rights of employees and labor organizations. It aims to ensure efficient administration of government contracts. The language is legal and procedural, lacking emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It aims to inform employees of their rights and promote harmonious relations in the workplace. The language is legal and procedural. There is no strong emotion conveyed, but a sense of fairness and order is present. Therefore, I will assign low scores to all emotions except for joy, which I will set to 2 to reflect the intention of promoting harmonious relations.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

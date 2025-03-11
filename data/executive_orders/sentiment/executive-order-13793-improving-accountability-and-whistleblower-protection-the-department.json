@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 4,
-        "sadness": 3,
-        "fear": 2,
-        "disgust": 3,
-        "surprise": 4
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to establish an Office of Accountability and Whistleblower Protection within the Department of Veterans Affairs. The language is formal and legalistic, focusing on the purpose, establishment, and functions of the office. There is no explicit expression of emotions. However, the order implicitly addresses potential negative issues such as wrongdoing and failures in the VA, suggesting a need for improvement and accountability. Given the context, the public might feel a slight sense of relief (related to joy) that action is being taken, a bit of surprise that such measures are needed, and perhaps a touch of disgust or sadness regarding the issues that prompted the order. Fear and anger are less prominent but could be present to a minimal degree among those directly affected by the changes.",
+    "critique": "The document is a formal executive order. It aims to establish an office of accountability and whistleblower protection within the Department of Veterans Affairs. The primary emotions conveyed are related to a sense of duty, responsibility, and a desire for improvement. There's a subtle undercurrent of concern regarding potential wrongdoing and a need for accountability. However, the language is formal and avoids strong emotional expression. Therefore, the scores should be relatively low, reflecting the subdued emotional tone typical of such documents.",
     "revised_scores": {
-        "joy": 4,
-        "sadness": 3,
+        "joy": 3,
+        "sadness": 2,
         "fear": 2,
-        "disgust": 3,
-        "surprise": 4
+        "disgust": 2,
+        "surprise": 2
     }
 }

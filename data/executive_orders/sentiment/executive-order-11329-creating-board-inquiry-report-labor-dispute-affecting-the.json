@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 5,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding a labor dispute and the creation of a Board of Inquiry. The language is legal and procedural, with no explicit emotional expression. However, the context suggests a sense of concern or urgency due to the potential impact of the strike on national safety.The president is not attempting to portray joy, sadness, anger, fear, disgust, or surprise with the document. The document is a formal announcement, so the emotions should be minimal. I will assign low scores to all emotions.",
+    "critique": "The document is a formal declaration regarding a labor dispute and the creation of a Board of Inquiry. The primary emotion conveyed is concern regarding the potential impact of the strike on national safety. There is a sense of urgency and determination to resolve the issue. There isn't necessarily joy, sadness, disgust or surprise, but there is a sense of fear that the strike will 'imperil the national safety'.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 5,
         "disgust": 1,
         "surprise": 1
     }

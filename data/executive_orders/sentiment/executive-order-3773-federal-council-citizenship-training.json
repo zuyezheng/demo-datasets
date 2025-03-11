@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal announcement establishing the Federal Council of Citizenship Training. It outlines the council's membership, meeting schedule, procedures, and duties. The language is formal and bureaucratic, with no explicit emotional tone. However, the creation of such a council could be interpreted as conveying a sense of importance and perhaps a subtle sense of hope or optimism regarding citizenship training. Given the lack of overt emotional cues, the scores should be relatively low across all emotions. Considering the context, a slight sense of joy and surprise might be inferred, but the other emotions are unlikely to be present.",
+    "critique": "The document is a formal announcement establishing the Federal Council of Citizenship Training. It outlines the council's membership, meeting schedule, procedures, and duties. The language is objective and procedural, with no overt expression of emotions. Therefore, the emotion scores should be relatively low across the board. Considering it is a formal document, I will assign a baseline score of 1 for each emotion to account for the inherent formality and lack of explicit emotional expression.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

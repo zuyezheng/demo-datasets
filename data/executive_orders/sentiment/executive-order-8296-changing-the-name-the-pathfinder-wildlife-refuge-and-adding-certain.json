@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding a wildlife refuge. It primarily uses legal and administrative language. The expected sentiment from the public would likely be neutral, with slight interest depending on their connection to environmental conservation or the specific location. Therefore, joy, sadness, fear, disgust, and surprise should all be relatively low.The initial scores will be set to reflect this assessment, and then revised to fine-tune the values.",
+    "critique": "The document is a formal executive order regarding a wildlife refuge. It primarily deals with land management and legal descriptions. There is no strong emotional content conveyed. The emotions of joy, sadness, fear, disgust, and surprise are not explicitly present. A baseline score of 1 is appropriate for each emotion due to the lack of emotional indicators.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

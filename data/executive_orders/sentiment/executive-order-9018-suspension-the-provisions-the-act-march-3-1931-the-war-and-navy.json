@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration regarding the suspension of certain provisions related to working hours during a national emergency. It invokes legal authority and emphasizes national defense. The language is formal and legalistic, with no explicit emotional expression. However, the context of a national emergency might implicitly suggest a sense of concern or urgency. Given the lack of explicit emotional cues, the initial scores would be relatively low across all emotions. The revised scores reflect a slightly elevated sense of concern (fear) due to the context of national emergency, but otherwise remain low.",
+    "critique": "The document is a formal executive order regarding the suspension of certain provisions related to working hours for civil personnel in the War and Navy Departments and the Coast Guard during the national emergency. The language is legal and bureaucratic. There is no explicit expression of emotions. However, the context of national defense and existing national emergency suggests a sense of urgency and perhaps underlying concern. Considering the formal nature, the emotional intensity is likely to be low across all emotions, but a slight elevation in fear and sadness might be inferred due to the emergency situation.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

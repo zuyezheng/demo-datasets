@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order detailing the line of succession for the Director of the Office of Management and Budget. It is a legal and administrative document, and therefore it is unlikely to evoke strong emotions in the general public. The most relevant emotions would be related to concern about stability and order in government, but these would likely be mild. Therefore, I will assign low scores across the board, with a slightly higher score for fear due to the potential for instability if the Director and Deputy Director are unable to perform their duties.",
+    "critique": "The document is a formal presidential order regarding succession within the Office of Management and Budget. It is primarily concerned with establishing a clear line of succession in the event that the Director and Deputy Director are unable to perform their duties. The language is legalistic and procedural, with no indication of strong emotions. Therefore, the initial scores should be low across the board. Considering the formal nature of the document, a baseline score of 1 is appropriate for all emotions in the absence of specific indicators.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

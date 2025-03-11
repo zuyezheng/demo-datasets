@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement revoking two executive orders. It uses legal and official language. There is no explicit or implicit emotional sentiment conveyed in the document. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal revocation of two executive orders. It cites the legal basis for the action and provides the date. There is no emotional language in the document. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

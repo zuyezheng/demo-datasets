@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation for a school. It does not express any particular emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding land withdrawal for a school for Cheyenne and Arapahoe Indians. It is a factual statement, so it does not convey strong emotions. The baseline should be 1 for all emotions, as it is a formal document. There is a slight element of positive sentiment due to the establishment of a school, so I will increase the joy score to 2. There is no indication of negative emotions.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

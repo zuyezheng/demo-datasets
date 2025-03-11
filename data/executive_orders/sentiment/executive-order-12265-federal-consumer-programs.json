@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is an executive order about the Consumer Affairs Council. It lists the members of the council. The language is formal and bureaucratic. There is no emotion conveyed in the document. Therefore, all scores should be 1.",
+    "critique": "The document is a formal executive order. It primarily aims to enhance and coordinate federal consumer programs by expanding the Consumer Affairs Council. The language is formal and legalistic, with no strong emotional expressions. Therefore, the initial scores should be low across all emotions. Considering it is a formal document, I will give a score of 1 for each emotion except for surprise which I will give a score of 2 because expanding the council could be seen as mildly surprising.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order delegating authority related to the Public Health Service. The tone is formal and bureaucratic. The primary emotion the President likely wants to elicit is confidence in the efficient functioning of government. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. Most emotions are neutral, so I will assign a low score of 1. The document aims for a sense of order and control, so I will increase the joy score to 2 to reflect the positive outcome of efficient governance. I will also increase the surprise score to 2 to reflect the unexpected nature of the order.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

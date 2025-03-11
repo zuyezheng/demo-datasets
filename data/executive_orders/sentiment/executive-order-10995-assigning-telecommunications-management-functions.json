@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 5,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 2
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 3
     },
-    "critique": "The document is a formal executive order regarding telecommunications management. It aims to establish a position and delegate authority for efficient use of telecommunications resources. The language is formal and objective, with no explicit emotional expression. However, the emphasis on national security, economic development, and international relations suggests a sense of responsibility and perhaps a subtle underlying concern for the nation's well-being. Given the nature of the document, the expected emotional response from the public would likely be minimal. The most relevant emotions might be a mild sense of reassurance (due to the focus on security and efficiency) and perhaps a touch of surprise at the level of detail and organization. Therefore, I will assign low scores across all emotions, with a slightly higher score for surprise due to the unexpected level of detail in such a document.",
+    "critique": "The document is a formal executive order regarding telecommunications. It expresses a sense of urgency and importance regarding the efficient management of telecommunications resources. There is a sense of joy in the potential for technological advancement and its benefits to the nation. There is a sense of fear that the nation's security and welfare could be compromised if telecommunications are not properly managed. There is a sense of disgust at the potential for inefficient use of resources. There is a sense of surprise at the rapid technological advances being made in the field of telecommunications. There is no sadness conveyed in the document.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 5,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 2
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 3
     }
 }

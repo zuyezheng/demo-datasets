@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding actions and policies of the de facto regime in Haiti. It outlines prohibitions and restrictions related to trade and transactions with Haiti. The language is formal and legalistic. The primary emotion conveyed is a sense of seriousness and resolve in addressing a specific political situation. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the order implies a negative assessment of the situation in Haiti, which could be associated with a degree of concern or disapproval. The order is intended to be perceived as a necessary and authoritative action. Therefore, I will assign low scores to joy, sadness, fear, disgust, and surprise, and a slightly higher score to concern or disapproval, which I will map to sadness.",
+    "critique": "The document is a formal executive order detailing economic sanctions against Haiti. It invokes legal authorities and outlines specific prohibitions related to trade and transactions. The language is legalistic and devoid of overt emotional expression. However, the underlying context suggests a response to a perceived crisis or threat, which could imply a degree of concern or disapproval. Given the formal nature, the emotional intensity is likely to be low across the board.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 1,
-        "disgust": 1,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     }
 }

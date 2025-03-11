@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order amending a previous order regarding the National Research Council. It outlines the functions of the Council and the representation of the government within it. The language is formal and bureaucratic. There is no strong emotional sentiment conveyed in the document. The primary goal is to inform and direct, not to evoke a particular emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It expresses a sense of purpose and determination in strengthening national defense and promoting scientific research. There is a subtle sense of joy in the potential for progress and public welfare, but it is not overt. There is no explicit sadness, fear, disgust, or surprise conveyed. The scores reflect the relative intensity of these emotions within the context of the document.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

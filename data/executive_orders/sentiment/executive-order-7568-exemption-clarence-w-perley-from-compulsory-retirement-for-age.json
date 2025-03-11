@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the retirement age of a government employee. It doesn't express any strong emotions. The president is making an exception to a rule, but the language is neutral. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the exemption of Clarence W. Perley from mandatory retirement. The language is legal and procedural. There is a mild sense of joy that Clarence W. Perley is being allowed to continue his service. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

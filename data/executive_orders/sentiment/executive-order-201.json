@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 6,
+        "sadness": 3,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the closure of government offices to honor the late Secretary of State. The primary emotion conveyed is sadness due to the passing of a respected figure. There might be a sense of respect and solemnity, but other emotions like joy, anger, fear, disgust, and surprise are not evident. The intensity of sadness is moderate, as it's a formal announcement rather than a personal expression of grief. Therefore, I will assign a score of 6 for sadness and 1 for all other emotions.",
+    "critique": "The document is a formal announcement of government closure due to the death of a public official. It expresses respect and mourning. It does not express joy, fear, or surprise. It expresses a small amount of sadness and potentially disgust at the death of a public official.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 6,
+        "sadness": 3,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

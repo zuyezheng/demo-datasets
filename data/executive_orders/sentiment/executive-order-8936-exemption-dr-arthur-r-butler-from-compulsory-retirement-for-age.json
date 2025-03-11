@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order from the President to exempt Dr. Arthur R. Butler from compulsory retirement. The language is formal and legalistic, and the tone is neutral. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal order from the President to exempt Dr. Arthur R. Butler from compulsory retirement. The language is formal and legalistic. There is no indication of strong emotions. A baseline of 1 is appropriate for most emotions, with a slight increase in joy due to the positive outcome for Dr. Butler.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

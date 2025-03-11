@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 4,
-        "disgust": 3,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order imposing sanctions on Russia. It aims to address a national emergency. The language is legal and formal, not designed to evoke strong emotions. However, the context of sanctions might generate some fear and disgust towards Russia, but the order itself is neutral. The order is a show of power and resolve, so it may generate a little joy for some people. Surprise is not really a factor.",
+    "critique": "The document is a formal executive order imposing economic sanctions. It is devoid of explicit emotional expression. However, the order implicitly conveys a sense of resolve and determination to address a perceived threat or problem, which could be interpreted as a form of controlled anger or disapproval. Given the formal nature, the emotional intensity is likely low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 4,
-        "disgust": 3,
+        "fear": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

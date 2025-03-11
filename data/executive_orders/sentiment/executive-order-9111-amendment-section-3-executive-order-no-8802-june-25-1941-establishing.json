@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal amendment to an executive order. It is unlikely to evoke strong emotions in the American public. The primary emotion might be a mild sense of surprise that such an amendment is being made, but overall, the emotional impact is minimal. Most emotions should be scored low, with surprise potentially slightly higher than the others but still very low.",
+    "critique": "The document is a formal amendment to an executive order. It is a factual statement about the composition of a committee. There is no emotional content in the document. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

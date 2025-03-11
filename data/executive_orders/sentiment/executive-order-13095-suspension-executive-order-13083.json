@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order, which typically aims for a neutral tone. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The language is legal and procedural, focusing on the suspension of a previous executive order. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal executive order regarding federalism. It expresses no strong emotions. The tone is neutral and procedural. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

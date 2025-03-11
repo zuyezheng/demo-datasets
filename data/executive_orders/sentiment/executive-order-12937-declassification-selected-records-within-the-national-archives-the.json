@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal presidential order regarding the declassification of records. It uses formal and legal language. There is no indication of emotions such as joy, sadness, anger, fear, disgust, or surprise. The order seems neutral in tone, aiming to be authoritative and clear. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal presidential order regarding the declassification of records. It uses formal and legalistic language. There is no explicit expression of emotions. Therefore, all emotions should be scored low. Considering that the document is making records available for public research, there may be a hint of joy and surprise, but it is very minimal. The lack of emotional language suggests low scores across the board.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

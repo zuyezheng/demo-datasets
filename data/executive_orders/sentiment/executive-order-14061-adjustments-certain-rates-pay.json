@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding pay scales for various government employees and officials. It is a formal and legal document. The expected sentiment from the public would likely be neutral, as it is an administrative action. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding pay scales for various government employees and members of the uniformed services. The language is very formal and factual. There is no strong emotion conveyed, but there may be a slight sense of satisfaction or duty in ensuring these payments are made. Therefore, I will assign low scores across the board, with a slightly higher score for joy, as the document enables people to get paid.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

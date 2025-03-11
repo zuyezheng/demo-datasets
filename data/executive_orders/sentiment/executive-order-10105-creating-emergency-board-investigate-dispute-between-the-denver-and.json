@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document describes a labor dispute and the creation of a board to investigate it. The language is formal and legalistic. There is no explicit expression of emotion. However, the situation implies a sense of concern and urgency due to the potential disruption of essential transportation services. Therefore, I will assign low scores to sadness, fear, and surprise, and a very low score to disgust. There is no indication of joy.",
+    "critique": "The document is a formal executive order creating a board to investigate a dispute between a railroad company and its employees. The language is legal and procedural. There is no strong emotional content. A baseline of 1 is appropriate for most emotions, with a slightly elevated sense of concern or seriousness reflected in a slightly higher sadness score.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

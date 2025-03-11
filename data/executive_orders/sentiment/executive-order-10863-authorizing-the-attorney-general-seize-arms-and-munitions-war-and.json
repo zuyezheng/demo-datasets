@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order, so it is unlikely to convey strong emotions. The president is authorizing the Attorney General to seize and detain arms or munitions of war. There is no indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores for all emotions should be low. I will set all initial scores to 1, indicating a minimal emotional impact.",
+    "critique": "The document is a formal legal order. It primarily conveys a sense of authority and legality, with no strong emotional expression. Therefore, most emotions should be scored low. There might be a slight sense of fear or concern implied due to the context of seizing arms and munitions, but it's not explicitly stated. The initial scores should reflect this baseline, and the revised scores should be adjusted based on the critique.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

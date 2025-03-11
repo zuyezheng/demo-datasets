@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration regarding the suspension of certain provisions related to work hours for government employees during a national emergency. It's a legal and administrative document, not designed to evoke strong emotions. The primary emotion might be a mild sense of concern or seriousness due to the context of a national emergency, but overall, the emotional intensity is low. Therefore, the initial scores should be relatively low across all emotions, with a slight emphasis on fear and sadness due to the national emergency context. After further consideration, the document is very formal and unlikely to elicit much emotion. The scores should be adjusted to reflect this.",
+    "critique": "The document is a formal declaration regarding the suspension of certain provisions of an act related to government employees' work hours during a national emergency. It primarily conveys a sense of urgency and necessity due to the national defense context. There is no explicit expression of joy, sadness, or disgust. Fear is subtly present due to the mention of a national emergency. Surprise is not a prominent emotion in this context. The language is formal and legalistic, which tempers any strong emotional expression.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

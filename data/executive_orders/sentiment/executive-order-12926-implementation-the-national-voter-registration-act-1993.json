@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding voter registration. It primarily conveys a sense of duty and legal obligation. There is minimal emotional content. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order outlining how different departments and agencies should assist states in voter registration as required by the National Voter Registration Act of 1993. The language is formal and legalistic, with no explicit emotional expression. However, the order's focus on facilitating voter registration could be interpreted as conveying a subtle sense of civic duty and perhaps a hint of optimism about democratic participation. Given the formal nature, the emotional intensity is generally low.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

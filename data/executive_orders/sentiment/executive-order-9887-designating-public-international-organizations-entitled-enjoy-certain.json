@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys information and legal designations. There is no strong emotional content. The most relevant emotion might be a mild sense of reassurance (low joy) or perhaps a reaction to refugees (low sadness or fear depending on the reader). However, given the formal and legal nature, all emotions are likely to be perceived as very low intensity.",
+    "critique": "The document is a formal executive order. It designates the Preparatory Commission for the International Refugee Organization and its successor, the International Refugee Organization, as public international organizations entitled to enjoy certain privileges, exemptions and immunities. The language is formal and legalistic. There is no strong emotion conveyed. The order seems to be driven by a sense of duty and responsibility to international agreements. Therefore, I will assign low scores across all emotions, with a slightly higher score for sadness due to the mention of refugees.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

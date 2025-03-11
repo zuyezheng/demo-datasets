@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 7,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 3
+        "joy": 2,
+        "sadness": 6,
+        "fear": 2,
+        "disgust": 3,
+        "surprise": 1
     },
-    "critique": "The document expresses concern over high drug prices and their impact on Americans, particularly seniors. It aims to address this issue through policy changes. The primary emotions conveyed are sadness (due to the negative consequences of high drug prices) and anger (at the unfairness of the situation). There's also a hint of surprise that the US pays more than other developed countries. There is no information about joy, fear, or disgust.",
+    "critique": "The document expresses concern about high drug prices and their impact on Americans, particularly seniors. It aims to address this issue through policy changes. The emotions conveyed are primarily sadness (due to the negative consequences of high drug prices) and a hint of anger/disgust (at the unfairness of the situation). There's also a subtle sense of hope or determination to improve the situation. Surprise is not really present.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 7,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 3
+        "fear": 3,
+        "disgust": 4,
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 2,
         "fear": 1,
-        "disgust": 2,
-        "surprise": 2
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation involving the Ute Indian Reservation. It primarily concerns the restoration of certain tracts of land to the public domain. The language is legal and administrative, devoid of overt emotional expression. However, the action of restoring land to the public domain, which was previously designated for the Ute Indians, might evoke feelings of sadness or disgust among those sympathetic to the Ute tribes, and perhaps joy or surprise among those who favored the land being returned to the public domain. Given the formal and neutral tone, the expected emotional response from the public is likely to be muted unless they have a strong prior opinion on the matter. Therefore, the initial scores are set low across all emotions, with a slight emphasis on sadness and surprise due to the nature of the order.",
+    "critique": "The document is a formal executive order regarding land allocation. It primarily concerns legal and administrative matters. There is no explicit expression of emotions. However, the act of restoring land to the public domain might imply a sense of resolution or finality, but this is a very subtle undertone. Therefore, most emotions should be scored low, with a slight consideration for sadness due to the potential displacement of indigenous people, though this is not explicitly stated.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 2,
         "fear": 1,
-        "disgust": 2,
-        "surprise": 2
+        "disgust": 1,
+        "surprise": 1
     }
 }

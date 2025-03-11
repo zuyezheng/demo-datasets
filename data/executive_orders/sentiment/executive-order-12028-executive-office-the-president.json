@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the Office of Administration. It is primarily administrative and legal in nature, with no strong emotional content. The language is formal and bureaucratic. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing the Office of Administration. It primarily conveys a sense of authority and purpose, with a focus on efficiency and organization. There is no strong indication of emotions like joy, sadness, fear, disgust, or surprise. The language is formal and legalistic, aiming for clarity and precision rather than emotional expression. Therefore, the initial scores should reflect this neutrality, with low scores for all emotions except perhaps a slightly higher score for purposefulness, which could be interpreted as a mild form of 'joy' in the context of government efficiency.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

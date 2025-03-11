@@ -6,9 +6,9 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a neutral tone, with a slight hint of decisiveness. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The president is making a practical decision to extend someone's service based on public interest. Therefore, all emotions should be scored low, with a slightly higher score for decisiveness which might be interpreted as a mild form of confidence or perhaps even a hint of 'joy' in serving the public interest, but it's very subtle. I will revise the scores to reflect this nuance.",
+    "critique": "The document is a formal executive order regarding the exemption of a person from mandatory retirement. It is a legal and administrative document. Therefore, the emotions conveyed are minimal. I will assign a baseline score of 1 for all emotions initially. Upon review, there is no indication of joy, sadness, fear, disgust, or surprise. The document is purely administrative.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

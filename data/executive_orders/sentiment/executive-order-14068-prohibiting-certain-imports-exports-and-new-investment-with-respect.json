@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 3,
-        "disgust": 6,
-        "surprise": 2
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The document is an executive order imposing sanctions on Russia. It is a formal and legal document. The primary emotion conveyed would likely be a sense of resolve and perhaps a degree of anger or disgust towards the actions that led to the sanctions. However, the document itself is written in a neutral tone, so the emotional impact is more about the context than the explicit language.I will score it accordingly.",
+    "critique": "The document is a formal executive order imposing sanctions on Russia. It is devoid of overtly emotional language. However, the act of imposing sanctions suggests a negative sentiment towards the actions of the Russian Federation, which could be interpreted as a form of disapproval or perhaps even anger. However, given the formal nature, the emotional intensity is likely to be low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 3,
-        "disgust": 6,
-        "surprise": 2
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 1
     }
 }

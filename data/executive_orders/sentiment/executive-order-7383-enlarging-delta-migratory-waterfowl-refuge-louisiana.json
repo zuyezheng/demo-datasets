@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation for a migratory waterfowl refuge. It uses legal and administrative language. There is no explicit emotional expression. The likely emotions conveyed would be very low across the board, as the document is purely informational and directive.",
+    "critique": "The document is a formal executive order regarding land allocation for a migratory waterfowl refuge. It's a legal and administrative document, so the emotional content is expected to be minimal. The primary emotion might be a slight sense of joy related to conservation, but it's very subdued. There is no indication of sadness, fear, disgust, or surprise. Therefore, I will assign low scores to all emotions, with a slightly higher score for joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

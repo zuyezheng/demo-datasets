@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the exemption of an individual from compulsory retirement. It does not contain strong emotional language. The primary emotion conveyed might be a mild sense of surprise that such an order is being issued, but overall, the emotional intensity is low. The initial scores reflect this assessment, with low values for all emotions. Upon review, the initial scores seem appropriate given the document's content and context.",
+    "critique": "The document is a formal executive order regarding the exemption of an employee from compulsory retirement. It expresses a sense of duty and adherence to legal procedures. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, a very slight sense of duty might be interpreted as a low level of sadness that someone has to work, but it is more neutral. Therefore, the initial scores are all set to 1, indicating a minimal level of these emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

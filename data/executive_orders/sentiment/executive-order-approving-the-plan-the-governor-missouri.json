@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document primarily conveys a sense of formal agreement and cooperation between the state of Missouri and the United States government during the Civil War. There's no strong indication of emotions like joy, sadness, anger, fear, disgust, or surprise. The language is official and business-like, focusing on logistics, regulations, and military coordination. Therefore, most emotions should be scored low, with a slight emphasis on surprise due to the unusual nature of the agreement during wartime.",
+    "critique": "The document is a formal agreement between the governor of Missouri and the United States government regarding the raising and deployment of state militia during the Civil War. The language is formal and legalistic, with a focus on the practical details of organizing, equipping, and paying the troops. There is a sense of urgency and determination to suppress the rebellion, but no strong emotions are explicitly expressed. Therefore, the initial scores should be relatively low across all emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

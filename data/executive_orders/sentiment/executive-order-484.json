@@ -6,11 +6,11 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a military order from the War Department. It outlines procedures for applications to cross military lines and the reporting of released prisoners. There is no explicit expression of emotion. However, the tone is authoritative and firm, suggesting a sense of control and seriousness. Considering the context of war, there might be an underlying sense of fear and sadness, but these are not directly conveyed. The order aims to establish order and control, so surprise, joy, and disgust are unlikely to be conveyed.I will assign low scores to all emotions, with a slightly higher score for fear and sadness due to the war context.",
+    "critique": "The document is a military order from the War Department. It outlines procedures for applications to cross military lines and the reporting of released prisoners. The language is formal and direct, with no explicit emotional expression. However, the context of war implies a backdrop of fear and sadness, though these emotions are not directly conveyed in the text. Surprise, joy, and disgust are not relevant to the document's purpose or content. The initial scores reflect the minimal emotional content, with slight consideration for the underlying context of war. The revised scores further reduce the emotional scores to the lowest possible value, as the document itself does not express any of these emotions directly.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

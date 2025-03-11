@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding Haiti. It is a formal and legal document. The primary emotion conveyed would likely be concern or perhaps a sense of resolve. There isn't strong language evoking joy, sadness, anger, fear, disgust, or surprise. The order aims to address a specific political situation, so a neutral tone is expected. Therefore, most emotions should be scored low, with perhaps a slightly higher score for concern or resolve.",
+    "critique": "The document is a formal executive order addressing a national emergency related to the de facto regime in Haiti. It outlines specific actions, including blocking assets and prohibiting certain transactions. Given the nature of the document, the primary emotions conveyed are concern and resolve. There is a sense of seriousness and determination to address the situation, but not overt anger, joy, or sadness. Fear and disgust are possible due to the nature of emergency, but not explicitly expressed. Surprise is not relevant in this context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 3,
         "surprise": 1
     }
 }

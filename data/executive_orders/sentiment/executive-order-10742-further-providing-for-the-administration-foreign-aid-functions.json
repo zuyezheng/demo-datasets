@@ -6,9 +6,9 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order, which typically does not convey strong emotions. The language is legal and procedural. Therefore, all emotions should be scored low initially. Upon further reflection, the act of amending previous orders and establishing committees might suggest a subtle sense of progress or determination, but this is very mild. The final scores should remain very low, reflecting the document's neutral tone.",
+    "critique": "The document is a formal executive order, amending previous orders related to the Mutual Security Act. The language is legalistic and procedural, with no explicit emotional expression. Therefore, all emotions should be scored low, with a baseline of 1 to indicate minimal presence due to the formal nature of the document.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

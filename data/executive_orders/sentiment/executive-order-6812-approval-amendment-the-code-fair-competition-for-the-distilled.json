@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding an amendment to the Code of Fair Competition for the Distilled Spirits Rectifying Industry. The language is legal and procedural, with no explicit emotional expression. The president is conveying a sense of authority and compliance with legal requirements. Therefore, all emotions are scored low initially. After a second thought, I realized that the president might be conveying a slight sense of joy and surprise because the amendment was approved.",
+    "critique": "The document is a formal executive order regarding an amendment to the Code of Fair Competition for the Distilled Spirits Rectifying Industry. The language is legal and procedural. There is no strong emotion conveyed. A baseline of 1 is appropriate for most emotions, as the document focuses on legal compliance and official approval.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

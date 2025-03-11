@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document revokes a previous executive order allocating funds for land purchase for the Great Smoky Mountains National Park. As the President, the primary emotion I want to elicit is likely none. The tone is neutral and simply states a revocation. There's no language suggesting a desire to evoke any particular emotion. The context suggests it's a routine administrative action. Therefore, all emotions should be scored low initially. Upon review, I realize that while the document itself is neutral, the action of revoking funds for a national park might elicit some negative emotions from the public. However, since the document doesn't explicitly try to evoke these emotions, the scores should remain low, but perhaps slightly higher for sadness and disgust.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

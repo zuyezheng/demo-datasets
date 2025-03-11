@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document expresses a positive sentiment towards Miss Ellen T. Purcell and Miss J. Elizabeth Williams. The president is recommending them for classified positions. The language used is positive, highlighting their excellent and efficient performance. There is no indication of negative emotions such as sadness, anger, fear, or disgust. Surprise is possible but not explicitly stated. Joy is a plausible emotion given the positive recommendation.",
+    "critique": "The document is a formal appointment notice. It expresses approval of the appointees' past performance. There is no strong emotion conveyed, but a mild sense of approval and satisfaction might be present. Therefore, I will assign low scores for joy and surprise, and a score of 1 for the rest.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,12 +1,12 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order extending the provisions of a previous order to the Department of the Interior. The language is legal and \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995, with the purpose of facilitating the war effort. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order extending the provisions of a previous order to the Department of the Interior. The primary goal is to facilitate the prosecution of the war. There is no explicit expression of emotions. However, the context of war can imply some level of fear and sadness, but these are not directly conveyed in the text. The act of expediting the war effort might suggest a sense of urgency, but not necessarily joy or surprise. Disgust is not relevant in this context. Based on this, the initial scores are set as follows: Joy: 1, Sadness: 2, Fear: 3, Disgust: 1, Surprise: 1. After further consideration, the document is purely formal and administrative. The context of war is background information, but the document itself does not express these emotions. Therefore, all scores should be set to 1, indicating a neutral emotional tone.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding pension entitlements for veterans. It primarily conveys information and policy changes. There is a slight sense of joy as it provides benefits to veterans, but it is not the primary emotion. There is no indication of sadness, anger, fear, or disgust. Surprise is not relevant in this context. The scores should reflect the informational nature of the document with a slight hint of joy.",
+    "critique": "This document is a formal legal document outlining pension entitlements for veterans. As such, it is expected to be neutral in tone and devoid of strong emotional expression. The primary goal is to clearly define eligibility criteria and payment amounts. Therefore, the scores for most emotions should be low, reflecting the document's objective and unemotional nature.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

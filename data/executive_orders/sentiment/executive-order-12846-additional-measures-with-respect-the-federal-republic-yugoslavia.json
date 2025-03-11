@@ -1,12 +1,12 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
-        "disgust": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding actions related to the Federal Republic of Yugoslavia (Serbia and Montenegro). The language is legal and procedural. There is no explicit expression of emotion. However, the order addresses a national emergency and international actions, which might implicitly convey a sense of concern or seriousness. Given the nature of the document, the expected emotional response from the public would likely be minimal, with perhaps a slight sense of concern or awareness depending on their understanding of the geopolitical situation. Therefore, the initial scores are set low across all emotions. Upon further reflection, the document's primary purpose is to enact policy and address a specific situation, not to evoke a strong emotional response. The revised scores reflect this by further reducing the intensity of all emotions.",
+    "critique": "The document is a formal executive order. It invokes legal authorities and describes specific actions to be taken regarding international trade and relations. The language is precise and legalistic, with no overt expression of emotion. Therefore, all emotions should be scored very low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

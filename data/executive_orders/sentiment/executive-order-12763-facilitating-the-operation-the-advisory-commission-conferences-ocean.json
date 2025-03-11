@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and official procedure rather than any specific emotion. Therefore, all emotions should be scored low, with a slight emphasis on surprise due to the nature of executive orders potentially addressing unexpected issues.",
+    "critique": "The document is a formal presidential order. It primarily concerns the delegation of authority regarding the Advisory Commission on Conferences in Ocean Shipping. There is no explicit expression of emotions such as joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, aimed at clarity and precision rather than emotional conveyance. Therefore, the initial scores for all emotions should be low, reflecting the absence of overt emotional content. Considering the formal nature of the document, a baseline score of 1 is appropriate for each emotion to indicate a minimal presence.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

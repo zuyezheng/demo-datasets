@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding the transfer of personnel and vessels between government departments during a national emergency. It is unlikely to evoke strong emotions in the general public. The primary emotions might be a mild sense of surprise or concern due to the mention of a national emergency, but overall, the emotional impact is minimal.",
+    "critique": "The document is a formal executive order regarding the transfer of personnel and a vessel between government departments during a national emergency. The language is very formal and factual. There is no explicit expression of emotions. However, the context of a 'national emergency' might imply some level of concern or seriousness. I will assign low scores to sadness, fear, and surprise, and a minimal score to joy and disgust as they are not relevant in this context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 2
     }

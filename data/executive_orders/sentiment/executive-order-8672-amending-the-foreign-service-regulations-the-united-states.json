@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal amendment to the Foreign Service Regulations. It primarily consists of legal and administrative language, authorizing the Secretary of State to issue instructions related to navigation, seamen, and documents. There is no expression of emotion in the document. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal amendment to the Foreign Service Regulations. The language is legal and procedural. There is no strong emotion conveyed. The scores should be low across the board. I will give a slightly higher score to surprise as cancellation of regulations might be unexpected.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

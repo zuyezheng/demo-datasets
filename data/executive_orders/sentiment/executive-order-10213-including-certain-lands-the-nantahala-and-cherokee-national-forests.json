@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "joy": 5,
+        "sadness": 5,
+        "fear": 5,
+        "disgust": 5,
+        "surprise": 5
     },
-    "critique": "The document is a legal description of land being added to national forests. It is a very technical document with no emotional content. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a legal description of land being transferred to the National Forest system. It is a formal document with no emotional content. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

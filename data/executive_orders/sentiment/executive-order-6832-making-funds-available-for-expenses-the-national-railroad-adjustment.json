@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the allocation of funds. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal legal document. It primarily concerns the allocation of funds. There is no explicit emotional content. Therefore, the initial scores for all emotions should be low. Considering it is a formal document, I will assign a baseline score of 1 for all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

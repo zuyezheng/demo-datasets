@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the expenditure of emergency funds. The language is formal and legalistic. There is no explicit expression of emotion. However, the order implies a sense of responsibility and control over government spending. It is difficult to gauge the emotions the president is trying to convey to the public. Therefore, I will assign a score of 1 for each emotion initially. After further consideration, the order could be interpreted as conveying a sense of control and perhaps a slight sense of relief or satisfaction that measures are being taken to manage government finances during a time of emergency (likely the Great Depression). However, these emotions are very subtle and not explicitly stated. Therefore, I will adjust the scores slightly to reflect this, but keeping them low.",
+    "critique": "The document is a formal executive order regarding the expenditure of emergency funds. It aims to control spending and ensure budgetary oversight. The language is formal and legalistic, with no explicit emotional expression. However, a sense of seriousness and determination to manage the financial situation can be inferred. Therefore, I will assign low scores to all emotions, with a slightly higher score for sadness due to the context of emergency funds and potential financial difficulties.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

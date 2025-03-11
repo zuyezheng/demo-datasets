@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 4,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal declaration restricting airspace for national defense purposes. It primarily conveys a sense of seriousness and caution due to the restrictions and potential penalties for violation. There's a hint of fear/apprehension due to the mention of national defense and the Atomic Energy Commission, suggesting potential threats. There's no indication of joy. The document does not seem to convey sadness, disgust, or surprise.",
+    "critique": "The document is a formal declaration restricting airspace for national defense purposes. It primarily conveys a sense of seriousness and authority. There's a hint of fear/caution implied due to the potential penalties for violation, and surprise might be present for those unaware of these restrictions. Joy and sadness are not relevant in this context. Disgust is also not relevant.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 4,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

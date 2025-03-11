@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is an executive order regarding the decontrol of crude oil and refined petroleum products. It is a formal and legal document. The primary emotions conveyed would likely be relief (joy) that the controls are lifted, but also some apprehension (fear) about potential economic distortions. There's no strong indication of sadness, disgust, or surprise. The scores should reflect this, with joy and fear being the most prominent, and the others relatively low.",
+    "critique": "The document is a formal executive order regarding the decontrol of crude oil and refined petroleum products. It primarily focuses on legal and economic actions, with no explicit emotional expression. Therefore, the initial scores should reflect a neutral emotional tone with low values for all emotions.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

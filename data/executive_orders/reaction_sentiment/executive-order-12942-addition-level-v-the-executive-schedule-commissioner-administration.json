@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order that establishes a new position within the Executive Schedule. The tone is formal and bureaucratic. The primary goal is to establish a new position, not to elicit strong emotions. Therefore, the expected emotion scores should be low across all emotions. Initial scores: disgust: 1, fear: 1, joy: 1, sadness: 1, surprise: 1. Revised scores: disgust: 1, fear: 1, joy: 1, sadness: 1, surprise: 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration regarding a labor dispute. It expresses concern about a potential strike and its impact on national safety. There is no explicit expression of emotions. However, the implicit emotions conveyed might be concern (leading to a low score for fear and sadness) and perhaps a hint of surprise that the situation has escalated to this point (leading to a low surprise score). There's no indication of joy or disgust. The scores should be very low across the board, with slight emphasis on concern/fear and sadness.",
+    "critique": "The document is a formal declaration regarding a labor dispute. It expresses concern about the potential impact of a strike on national safety. There is no explicit expression of joy, sadness, disgust, or surprise. The primary emotion conveyed is a sense of concern and urgency, which can be interpreted as a mild form of fear related to the potential consequences of the labor dispute. Therefore, I will assign a low score to fear and a score of 1 to the other emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 2,
         "disgust": 1,
         "surprise": 1

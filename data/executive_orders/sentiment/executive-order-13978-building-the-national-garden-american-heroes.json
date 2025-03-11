@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 8,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 6,
-        "surprise": 5
-    },
-    "critique": "The document expresses joy and pride in American history and heroes, while also conveying anger and disgust towards those who seek to dismantle or desecrate American monuments and values. There is also an element of surprise at the recent attacks on American ideals. The president attempts to inspire patriotism and confidence in the face of perceived threats to American identity. The document does not convey sadness or fear.",
-    "revised_scores": {
-        "joy": 9,
-        "sadness": 1,
+        "joy": 6,
+        "sadness": 5,
         "fear": 2,
-        "disgust": 7,
+        "disgust": 3,
+        "surprise": 3
+    },
+    "critique": "The document expresses joy in celebrating American heroes and patriotism. It conveys sadness and anger towards the desecration of monuments and anti-American extremism. There's a sense of defiance and determination, but not necessarily fear or surprise. The intensity of joy is moderate, while sadness and anger are also moderate due to the described attacks on American values. There's a slight sense of disgust towards the actions of those who vandalize monuments.",
+    "revised_scores": {
+        "joy": 7,
+        "sadness": 6,
+        "fear": 3,
+        "disgust": 4,
         "surprise": 4
     }
 }

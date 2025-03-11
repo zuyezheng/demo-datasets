@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding trade restrictions with Iran. It is a formal and legal document. The primary emotion conveyed would be a sense of seriousness and resolve, perhaps tinged with a bit of concern or caution due to the 'unusual and extraordinary threat' mentioned. There's no indication of joy. Sadness isn't directly conveyed, but the restrictions might cause some economic hardship. Anger isn't explicit, but it could be inferred as a response to Iran's actions. Surprise is unlikely. Disgust isn't directly present.",
+    "critique": "The document is a formal executive order regarding trade restrictions with Iran. It invokes legal authorities and outlines specific prohibitions and definitions. The language is precise and legalistic, with no overt expression of emotion. However, the order is issued in response to a perceived threat, which could imply a degree of concern or perhaps even a sense of urgency. However, given the formal nature of the document, the emotional intensity is likely to be low across the board.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

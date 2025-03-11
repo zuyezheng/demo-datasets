@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 3,
         "surprise": 1
     },
-    "critique": "The document is a legal order from the President. It expresses a tone of determination and resolve to enforce the law. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the context suggests a firm stance against obstruction and a commitment to justice.",
+    "critique": "The document is a formal presidential order addressing obstructions of justice in Alabama. It expresses a tone of authority and determination to enforce the law. There is a sense of seriousness and resolve, but no explicit emotional expression. Therefore, most emotions should be scored low, with a slightly higher score for anger and disgust due to the context of addressing unlawful obstructions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 4,
         "surprise": 1
     }
 }

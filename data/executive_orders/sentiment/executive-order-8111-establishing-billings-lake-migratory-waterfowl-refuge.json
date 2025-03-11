@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document primarily conveys a sense of official action and conservation. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, aimed at establishing a wildlife refuge. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal declaration establishing a wildlife refuge. It expresses no strong emotions. The language is legal and administrative. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

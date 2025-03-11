@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order establishing an advisory council. It focuses on intergovernmental personnel policies and programs. The language is formal and bureaucratic. There is no strong emotional sentiment conveyed. The primary goal is to improve public administration. Therefore, all emotions should be scored low.",
+    "critique": "The document expresses a formal and official tone, focusing on the establishment and functions of the Advisory Council on Intergovernmental Personnel Policy. It aims to improve public administration and strengthen cooperation between different levels of government. There is a sense of optimism and purpose, but emotions are generally subdued due to the formal nature of the text. Therefore, joy, sadness, fear, disgust, and surprise are scored low, reflecting the document's objective and unemotional presentation.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

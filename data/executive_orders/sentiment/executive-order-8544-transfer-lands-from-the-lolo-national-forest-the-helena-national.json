@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding the transfer of land between two national forests. It is a formal, legal document with no emotional language. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order regarding the transfer of land between two national forests. The language is legal and administrative, with no explicit emotional expression. Therefore, the initial scores should be very low across all emotions, with a slight emphasis on neutral emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

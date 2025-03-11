@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement terminating a committee. There is no language that conveys any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal announcement terminating a committee. There is no explicit emotional content. Therefore, all emotions should be scored low. Considering this is a formal document, I will give a score of 1 for each emotion.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

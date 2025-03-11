@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The document is an executive order withdrawing land for military use. It is a formal and legal document. The primary emotion conveyed would be surprise as it is unexpected. The other emotions are not strongly conveyed, so they should be scored low.",
+    "critique": "The document is a formal executive order regarding the withdrawal of public lands in Alaska for use as an aerial gunnery and bombing range by the War Department. The language is formal and legalistic. There is no explicit expression of emotions. However, considering the context of the time (1941), the order likely reflects a sense of urgency and preparation for potential military conflict. This could imply a degree of fear and a need for strategic readiness. However, these emotions are not explicitly stated, so the scores should be relatively low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

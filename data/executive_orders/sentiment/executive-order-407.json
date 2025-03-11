@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 3,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The document outlines a new regulation requiring passports for entry into the United States, primarily targeting travelers from neighboring British Provinces. The tone is formal and authoritative, focusing on enforcement and compliance. There's a sense of caution and control, but no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The regulation seems driven by a need for order and security, implying a potential underlying concern about uncontrolled entry. The scores are based on the implied emotions and the context of the document.",
+    "critique": "The document outlines a new regulation requiring passports for entry into the United States, with exceptions for immigrants arriving by sea and those who began their journey before the regulation was widely known. The primary emotion conveyed is a sense of formal authority and control. There's a hint of concern (fear) regarding potential unauthorized entries, leading to the strict enforcement directive. Surprise is minimal, as the document reads as a procedural announcement. Joy and sadness are largely absent, as the text focuses on policy implementation rather than emotional expression. Disgust is also not explicitly present.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 3,
         "disgust": 1,
         "surprise": 2

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Refractories Industry by President Franklin D. Roosevelt. The language is legal and administrative, with no explicit emotional expression. However, the context suggests a sense of optimism and progress, as the National Industrial Recovery Act was aimed at revitalizing the American economy during the Great Depression. Therefore, a slight sense of joy and perhaps surprise at the progress being made might be inferred. There is no indication of sadness, anger, fear, or disgust. The initial scores reflect this assessment, with joy and surprise rated slightly higher than the other emotions. The revised scores are similar, with a slight adjustment to reflect the overall positive but not overly emotional tone of the document.",
+    "critique": "The document is a formal approval of a code of fair competition. It uses formal and legalistic language. There is no strong emotion conveyed. The primary emotion might be a slight sense of satisfaction or approval, but it is very muted. Therefore, I will assign low scores across the board, with a slightly higher score for joy to reflect the approval.",
     "revised_scores": {
-        "joy": 4,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

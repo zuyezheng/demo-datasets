@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 5,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document primarily conveys a sense of authority and determination to protect wildlife. There's a hint of concern for the environment, but it's not strongly emphasized. The emotions of joy, sadness, fear, disgust, and surprise are not explicitly present. The language is formal and legalistic, which doesn't lend itself to strong emotional expression. Therefore, the initial scores will be relatively low across all emotions, with a slight emphasis on concern/fear due to the warnings against harming the refuge.",
+    "critique": "The document is a formal order establishing a wildlife refuge. It primarily conveys a sense of seriousness and authority, with an underlying concern for the protection of wildlife. There is no explicit expression of joy, sadness, or surprise. Fear is present in the warnings against unlawful activities, and disgust might be inferred from the actions that are prohibited, such as destroying natural growth or harming animals. The scores should reflect the formal and legal nature of the document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
+        "fear": 6,
+        "disgust": 2,
         "surprise": 1
     }
 }

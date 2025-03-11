@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It clarifies a previous order to include field service employees. The language is formal and factual, with no explicit emotional expression. Therefore, all emotions should be scored low. Since the document is extending benefits to employees, a slight amount of joy might be perceived, but it would be minimal. The initial scores will reflect this assessment, and the revised scores will remain the same after considering the context and language.",
+    "critique": "The document is a formal executive order. It corrects a previous order to include field service employees. The language is formal and factual. There is no explicit emotional expression. Therefore, all emotions should be scored low. Since there is not enough information to score any emotion higher than 1, I will assign a score of 1 to all emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an amendment to an existing executive order regarding a labor dispute. The primary goal is to resolve the dispute and maintain stability in the aircraft industry. The tone is formal and legalistic, aiming to convey a sense of authority and impartiality. There isn't a strong emphasis on eliciting specific emotions, but rather on ensuring a fair and efficient resolution. Therefore, the initial scores are relatively low across all emotions. Upon further reflection, while the document itself doesn't explicitly aim to evoke strong emotions, the act of resolving a labor dispute could be seen as aiming to reduce fear and sadness (related to job security and economic stability) and potentially increase a sense of joy or relief among those affected. However, the overall impact is likely to be moderate, hence the revised scores are adjusted accordingly, but remain relatively low.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

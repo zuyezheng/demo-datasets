@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
-        "fear": 2,
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order focused on occupational regulation reform. The language is formal and legalistic, aiming to convey a sense of authority and policy direction. There's a subtle undercurrent of concern for the American people's economic well-being and the burdens of unnecessary regulations. However, the primary emotion conveyed is a sense of determined action and policy implementation. Therefore, I will score it accordingly.",
+    "critique": "The document is a formal executive order. It expresses a desire to alleviate regulatory burdens and promote economic growth. There is a sense of purpose and determination, but emotions are largely suppressed in favor of a professional tone. Therefore, joy, sadness, fear, disgust, and surprise should be scored low, with a slightly higher score for joy due to the positive economic goals.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 2,
-        "fear": 2,
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

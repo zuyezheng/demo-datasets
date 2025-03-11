@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order regarding land withdrawal in South Dakota. It's a formal, legal document. The primary emotions conveyed would likely be neutral, as it's an administrative action. However, depending on the context and how the public views land management, there might be slight feelings of joy (for conservationists) or sadness/anger (for those who wanted to use the land). Surprise and disgust are unlikely to be relevant. I will assign initial scores based on this assessment.",
+    "critique": "The document is a formal order regarding land withdrawal in South Dakota. It's a legal document, so the primary emotions conveyed are neutral. There is no explicit expression of joy, sadness, fear, disgust, or surprise. The document aims to be informative and authoritative, not emotional. Therefore, most scores should be low, with a baseline of 1 to indicate the presence of the emotion is minimal or not explicitly present.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

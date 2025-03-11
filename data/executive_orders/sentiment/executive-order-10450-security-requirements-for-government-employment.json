@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 1,
-        "fear": 5,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 3,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding national security and employee loyalty. It aims to establish consistent standards and procedures for employment within the government. The language is legalistic and procedural, lacking explicit emotional expression. However, the underlying context of national security concerns and potential threats could evoke a sense of fear and perhaps disgust towards those deemed disloyal. The emphasis on fairness and impartiality might suggest a subtle attempt to convey joy or reassurance, but this is less prominent. Surprise is unlikely to be a significant emotion conveyed by this document.",
+    "critique": "The document is a formal executive order focused on national security. It expresses a sense of urgency and determination to ensure loyalty and trustworthiness within the government. While it doesn't explicitly convey emotions, the emphasis on security and the potential consequences for disloyalty suggest underlying concerns and a need for vigilance. Therefore, I will assign low scores to joy, sadness, and surprise, and moderate scores to fear and disgust, reflecting the seriousness of the subject matter. There's no explicit anger conveyed, so I'll assign a low score to that as well.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 6,
-        "disgust": 4,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
         "surprise": 1
     }
 }

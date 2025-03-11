@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 4,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the rubber program during World War II. It primarily conveys a sense of urgency and determination to address the rubber supply issue. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the context of wartime and the need to ensure an adequate rubber supply might evoke a sense of concern or urgency among the American public. Considering the lack of emotional language, the initial scores are set to 1, except for fear which is set to 4 to represent the public concern during war.",
+    "critique": "The document is a formal executive order regarding the rubber program during World War II. It primarily conveys a sense of urgency and determination to address the rubber supply issue. There is no explicit expression of joy, sadness, fear, or disgust. Surprise is also not a prominent emotion. The dominant emotion is a sense of urgency and resolve, which can be interpreted as a low level of fear (related to the potential consequences of inadequate rubber supply) and a low level of determination (related to the need to solve the problem). Therefore, I will assign low scores to fear and determination, and a score of 1 to the other emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 4,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

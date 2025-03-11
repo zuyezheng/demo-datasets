@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 3,
         "surprise": 1
     },
-    "critique": "The document is a military order that outlines punishments for various offenses. It is a formal and legalistic document, and it is unlikely to evoke strong emotions in the American public. The document is primarily informative and regulatory, not designed to elicit emotional responses. Therefore, the scores for all emotions should be low.",
+    "critique": "The document is a formal military order outlining punishments for various offenses. It is primarily concerned with maintaining order and discipline within the army. Therefore, the emotions conveyed are likely to be minimal and related to the seriousness of the offenses and the need for justice. There is no indication of joy or surprise. There might be a slight sense of sadness related to the consequences of actions, and a degree of fear and disgust related to the severity of some crimes.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 3,
         "surprise": 1
     }
 }

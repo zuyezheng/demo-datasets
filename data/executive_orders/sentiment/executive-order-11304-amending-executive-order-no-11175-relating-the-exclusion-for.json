@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding tax regulations related to Canadian investments. It does not express any particular emotion. Therefore, all emotions should be scored very low.",
+    "critique": "The document is a formal executive order regarding tax exemptions for Canadian stocks and debt obligations. The language is legal and technical, with no explicit emotional expression. However, the order aims to stabilize the international monetary system, which could be interpreted as a response to potential instability or fear. The order also conveys a sense of authority and decisiveness.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

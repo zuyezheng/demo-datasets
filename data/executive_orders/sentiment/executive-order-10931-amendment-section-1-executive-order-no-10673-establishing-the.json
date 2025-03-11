@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily deals with amendments and revocations of previous orders related to the President's Council on Youth Fitness. The language is formal and legalistic, devoid of emotional expression. Therefore, the expected emotional response from the American public would be minimal across all emotions.",
+    "critique": "The document is a formal executive order. It establishes and amends the President's Council on Youth Fitness. The language is formal and legalistic. There is no explicit expression of emotions. However, the act of establishing a council for youth fitness could be interpreted as conveying a mild sense of joy or hope for the future. Given the formal nature, the intensity of any emotion is likely to be low. Therefore, I will assign a low score to joy and a score of 1 to all other emotions.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

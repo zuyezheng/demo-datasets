@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order creating a board to investigate a labor dispute. The language is legalistic and neutral in tone. There is no indication of any particular emotion being conveyed by the President. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses no strong emotions. A baseline level of sadness and fear might be inferred due to the potential disruption of essential transportation, but these are very mild. Surprise, disgust, and joy are not present.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

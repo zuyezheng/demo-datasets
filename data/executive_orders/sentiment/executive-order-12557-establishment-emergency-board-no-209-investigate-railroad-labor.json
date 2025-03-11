@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 1,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order. It establishes a board to investigate disputes between a railroad company and its employees. The language is legal and procedural, with no explicit emotional expression. However, the order addresses a situation that 'threaten substantially to interrupt interstate commerce,' which could imply a sense of concern or urgency. Given the lack of overt emotional language, the scores should be low, but not 1 as there is some implied concern.",
+    "critique": "The document is a formal executive order establishing an emergency board to investigate disputes between a railroad company and its employees. The language is legalistic and factual, with no overt expression of emotion. However, the situation involves potential disruption of essential transportation services, which could cause concern. Therefore, I will assign low scores for fear and surprise, and minimal scores for the other emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 1,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

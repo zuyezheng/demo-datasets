@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
-        "disgust": 1,
-        "surprise": 3
+        "sadness": 2,
+        "fear": 7,
+        "disgust": 2,
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order focused on amending regulations related to port security and cybersecurity. The primary emotion conveyed is concern for national security due to cyber threats. There's a sense of urgency and seriousness, but not necessarily fear or anger. Disgust and joy are not relevant. Surprise might be a mild factor, but the focus is on addressing known and persistent threats. The language is formal and legalistic, aiming for clarity and authority rather than emotional appeal.",
+    "critique": "The document is a formal executive order focused on cybersecurity measures. It expresses concern about threats to national security due to malicious cyber campaigns. The primary emotion conveyed is fear, driven by the potential damage from cyber incidents. There's also a sense of urgency and determination to address these threats. There is no information about joy. There is a low level of sadness. There is a low level of surprise. There is a low level of disgust.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
-        "disgust": 1,
-        "surprise": 3
+        "sadness": 2,
+        "fear": 7,
+        "disgust": 2,
+        "surprise": 2
     }
 }

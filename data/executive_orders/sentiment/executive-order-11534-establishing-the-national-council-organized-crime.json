@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 3,
-        "fear": 5,
-        "disgust": 4,
+        "joy": 5,
+        "sadness": 4,
+        "fear": 4,
+        "disgust": 3,
         "surprise": 2
     },
-    "critique": "The document expresses concern about organized crime and establishes a council to address it. It conveys a sense of urgency and determination to combat the issue. Therefore, the primary emotions conveyed are concern and determination, with a hint of fear and disgust towards organized crime. The scores are as follows:\n\nJoy: 1 (The document does not express joy)\nSadness: 3 (A sense of concern and seriousness)\nAnger: 4 (A sense of determination to combat organized crime)\nFear: 5 (Concern about the threat of organized crime)\nDisgust: 4 (Disgust towards organized crime)\nSurprise: 2 (The document is a formal announcement, not intended to surprise)\n\nRevised scores:\nJoy: 1\nSadness: 3\nAnger: 4\nFear: 5\nDisgust: 4\nSurprise: 2",
+    "critique": "The document expresses concern about organized crime and establishes a council to combat it. It conveys a sense of urgency and determination to address the issue. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the implicit emotions are concern (leading to sadness), determination (leading to joy), and urgency (leading to fear). The document is a formal declaration, so the intensity of emotions is moderate.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 3,
-        "fear": 5,
-        "disgust": 4,
+        "joy": 5,
+        "sadness": 4,
+        "fear": 4,
+        "disgust": 3,
         "surprise": 2
     }
 }

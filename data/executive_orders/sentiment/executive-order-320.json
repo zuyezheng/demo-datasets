@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 5,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The president is conveying sadness due to the remembrance of soldiers who fell during the rebellion. There is no indication of joy, anger, fear, disgust, or surprise. The intensity of sadness is moderate, as it is a formal announcement.",
+    "critique": "The document is a formal order to close government offices for Memorial Day. The primary emotion conveyed is sadness for the soldiers who died in the rebellion. There might be a hint of joy in remembering them, but it's subdued. There's no anger, fear, disgust, or surprise evident in the text.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 5,
         "fear": 1,
         "disgust": 1,

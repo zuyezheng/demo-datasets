@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 3,
-        "fear": 6,
-        "disgust": 2,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It expresses a sense of urgency and determination to protect the United States from public health threats and ensure the availability of essential medicines. The language is serious and focused on national security and public health. Therefore, the primary emotions conveyed are concern (leading to a sense of fear) and determination (leading to a sense of joy in the possibility of overcoming the threats). There might be a hint of disgust at the dependence on foreign manufacturers. Surprise is not really conveyed.",
+    "critique": "The document is a formal executive order addressing the need to strengthen the Public Health Industrial Base and reduce dependence on foreign manufacturers for essential medicines and medical countermeasures. The primary emotion conveyed is concern for national security and public health, with an emphasis on preparedness and resilience. There is a sense of urgency and determination to address vulnerabilities in supply chains and ensure domestic production capabilities. There is no explicit expression of joy, sadness, or surprise. Disgust might be inferred from the mention of counterfeit medicines, and fear from the discussion of CBRN threats and public health emergencies.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 2,
-        "fear": 7,
+        "fear": 5,
         "disgust": 3,
         "surprise": 1
     }

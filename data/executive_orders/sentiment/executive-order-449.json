@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a military order assigning a new commander and relieving the previous one. It is a formal and official document with no explicit emotional content. Therefore, all emotions should be scored low.",
+    "critique": "The document is a military order assigning a new commander and relieving the previous one. It is a formal document with neutral language. There is no explicit expression of emotions. Therefore, the initial scores for all emotions are set to 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

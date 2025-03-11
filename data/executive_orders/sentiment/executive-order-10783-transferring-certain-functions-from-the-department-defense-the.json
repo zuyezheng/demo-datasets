@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding the transfer of space-related projects and funds from the Department of Defense to NASA. It is primarily a bureaucratic and administrative document. There is no explicit emotional language or sentiment expressed. The likely emotions conveyed to the American public would be minimal, as it's a procedural matter. Therefore, all emotions are scored low initially. Upon further reflection, while the document itself is unemotional, the *context* of the document - the establishment of NASA and the transfer of space projects - might evoke a sense of surprise and perhaps joy in some, due to the advancement of space exploration. However, the document itself doesn't explicitly convey these emotions, so the scores should remain relatively low.",
+    "critique": "The document is a formal executive order regarding the transfer of space-related projects from the Department of Defense to NASA. The language is legal and administrative, with no explicit emotional expression. Therefore, the initial scores for all emotions should be low, reflecting the document's neutral tone. Considering the context, there might be a slight sense of joy and surprise due to the advancement of space exploration, but it's very subtle.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

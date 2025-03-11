@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and determination, but it does not explicitly express emotions like joy, sadness, anger, fear, disgust, or surprise. The order addresses a national emergency and amends a previous executive order related to the situation in Syria. The language is legal and procedural, focusing on specific actions and provisions. Therefore, the initial scores for all emotions should be relatively low, reflecting the lack of explicit emotional expression. Upon further reflection, the document aims to convey a sense of decisive action and control in a complex situation. While not explicitly stated, there's an implicit sense of addressing a potentially fearful or concerning situation (the national emergency). However, the primary tone remains formal and authoritative. Therefore, the revised scores should slightly increase for fear and surprise, but remain low for other emotions.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and determination to address a national emergency. There is a slight undercurrent of concern or seriousness due to the nature of the emergency being addressed, but it's not overtly emotional. Therefore, the scores should reflect this formality and underlying seriousness, with low scores for most emotions and a slightly higher score for fear due to the national emergency.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

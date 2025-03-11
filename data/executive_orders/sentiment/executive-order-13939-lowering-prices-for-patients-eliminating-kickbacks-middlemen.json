@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 5,
+        "joy": 2,
+        "sadness": 3,
         "fear": 1,
-        "disgust": 6,
-        "surprise": 1
+        "disgust": 3,
+        "surprise": 2
     },
-    "critique": "The document expresses a desire to fix a problem and save Medicare patients money. This suggests a primary emotion of joy that the problem is being addressed and sadness that the problem exists. There's also an element of disgust at the middlemen collecting rebates. There is no indication of fear or surprise.",
+    "critique": "The document expresses a desire to fix a problem and save Medicare patients money. There is a sense of injustice regarding the current system. It aims to convey a sense of purpose and determination to address the issue of high drug prices. There is a slight sense of disgust at the current system of kickbacks. There is no strong expression of joy, fear, or surprise.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 5,
+        "joy": 2,
+        "sadness": 3,
         "fear": 1,
-        "disgust": 6,
-        "surprise": 1
+        "disgust": 4,
+        "surprise": 2
     }
 }

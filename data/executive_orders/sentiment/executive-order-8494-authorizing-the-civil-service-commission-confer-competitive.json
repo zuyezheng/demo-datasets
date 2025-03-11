@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the civil service status of employees in Hawaii. It doesn't express strong emotions. The primary goal is to convey authorization and compliance with legal requirements. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the civil service status of employees in the Disbursing Office of the Division of Disbursement of the Treasury at Honolulu. The language is formal and legalistic. There is a slight hint of joy that these employees will be granted civil service status. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

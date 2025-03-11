@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 5,
+        "joy": 2,
+        "sadness": 7,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order to close government offices for Memorial Day. It expresses respect for fallen soldiers. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the context implies a degree of sadness and respect for the fallen soldiers. The order is likely to evoke a sense of somber remembrance in the American public.",
+    "critique": "The document is a formal order to close government offices for Memorial Day. The primary emotion conveyed is sadness for the soldiers who died in the rebellion. There might be a hint of respect (joy) for their sacrifice, but it's minimal. There's no indication of anger, fear, disgust, or surprise. The initial scores reflect this, with sadness being the highest, followed by a low score for joy. The revised scores slightly adjust the joy score upwards to acknowledge the respect for the soldiers.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 5,
+        "joy": 3,
+        "sadness": 7,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It establishes an emergency board to investigate a dispute between the Long Island Rail Road and certain labor organizations. The language is legal and procedural. There is no strong indication of any particular emotion being conveyed. Therefore, I will score all emotions as 1.",
+    "critique": "The document is a formal executive order establishing an emergency board to investigate a dispute between the Long Island Rail Road and certain labor organizations. The language is legal and procedural. There is no strong emotion conveyed, but a sense of urgency and importance might be present. The initial scores reflect the formal tone and lack of overt emotional expression. The revised scores remain low, but with slight adjustments to reflect the underlying seriousness of the situation.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

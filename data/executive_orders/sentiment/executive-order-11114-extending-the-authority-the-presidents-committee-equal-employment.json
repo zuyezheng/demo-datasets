@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order focused on non-discrimination in federally assisted construction contracts. The language is legal and procedural, aiming to establish and clarify regulations. There is no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. The primary goal is to ensure equal employment opportunities and compliance with non-discrimination policies. Therefore, the expected emotional response from the public would be minimal, with scores close to 1 for all emotions.",
+    "critique": "The document is a formal executive order focused on eliminating discrimination in employment related to federal financial assistance. The primary emotion conveyed is a sense of determined fairness and a commitment to equal opportunity. There's a subtle undercurrent of seriousness given the subject matter, but it's largely a document of policy and legal directives. Therefore, joy is low, sadness is low, fear is low, disgust is low, and surprise is low. There may be a slight sense of joy that the president is trying to promote equality, so I will give it a score of 3. There may be a slight sense of surprise as the order is being given, so I will give it a score of 2.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

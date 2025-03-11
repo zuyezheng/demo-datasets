@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Chemical Manufacturing Industry. The language is legal and administrative, with no explicit emotional expression. The President is conveying a sense of authority and decisiveness, but not necessarily any strong emotion. The public is expected to feel a mild sense of reassurance and confidence in the government's actions, but not intense emotions. Therefore, the initial scores are relatively low across all emotions. Upon further reflection, the document's purpose is to inspire confidence and stability, suggesting a slightly higher score for joy than initially considered. The other emotions remain low, as they are not the primary focus of the announcement.",
+    "critique": "The document is a formal approval of a Code of Fair Competition for the Chemical Manufacturing Industry. The language is legal and administrative, with no strong emotional expression. Therefore, the initial scores for all emotions are set to 1, indicating a neutral emotional tone. After further consideration, I still believe that the document is primarily informational and lacks any significant emotional conveyance. The revised scores remain at 1 for all emotions.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

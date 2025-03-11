@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a set of amendments to consular regulations. It is a formal, legal document that outlines procedures and fees for consular services. There is no indication of any particular emotion being conveyed by the President. The language is neutral and factual. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal amendment to consular regulations. It primarily deals with fees, record-keeping, and admissible classes of people. The language is legalistic and procedural. There is a slight hint of disgust and fear related to the exclusion of Chinese people. There is no indication of joy, surprise, or sadness.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     }
 }

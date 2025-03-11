@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to establish a council to improve infrastructure. The language is formal and objective, with no explicit emotional expression. However, the goals of the order, such as creating jobs, enhancing productivity, and improving quality of life, could be seen as conveying a sense of joy or hope. The potential for economic growth could also inspire a sense of optimism. However, the primary purpose is administrative, not emotional. Therefore, the scores should be low across all emotions.",
+    "critique": "The document is a formal executive order establishing a Presidential Advisory Council on Infrastructure. The primary emotion conveyed is a sense of optimism and purpose related to improving infrastructure and creating jobs. There's a hint of joy in the potential for positive outcomes, but it's subdued. There's no strong indication of sadness, fear, disgust, or surprise. The language is formal and policy-oriented, so the emotional intensity is relatively low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

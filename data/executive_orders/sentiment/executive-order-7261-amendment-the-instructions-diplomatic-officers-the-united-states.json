@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to diplomatic instructions. It outlines who can act as a hostess in a diplomatic mission in the absence of the head of the mission's wife. The language is formal and bureaucratic. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low initially. After further consideration, the document is purely informational and devoid of emotional content. The initial scores accurately reflect this, and no revision is necessary.",
+    "critique": "The document is a formal instruction regarding hostesses in diplomatic missions. It's a procedural update, devoid of emotional language. Therefore, all emotions should be scored low, with a default of 1 where there's no indication of the emotion being conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

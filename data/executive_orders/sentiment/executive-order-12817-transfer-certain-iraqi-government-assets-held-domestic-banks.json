@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding actions against the Government of Iraq. It is primarily a legal and administrative document. Therefore, the primary emotions conveyed would be related to the seriousness and urgency of the situation, but not in a strong way. There is no strong indication of joy, sadness, fear, disgust, or surprise. The document aims to convey authority and decisiveness.",
+    "critique": "The document is a formal executive order regarding actions against Iraq. It primarily conveys a sense of authority and determination to enforce international resolutions. There is an element of concern (fear) regarding the situation with Iraq, but it is not the dominant emotion. There's no explicit joy, sadness, or surprise. Disgust might be inferred due to the nature of the actions being addressed, but it's not directly stated.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
         "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
-        "sadness": 2,
-        "fear": 3,
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The document primarily conveys a sense of responsibility and optimism regarding the development of natural gas resources. There's an emphasis on safety, environmental protection, and economic benefits. Therefore, joy and surprise are the most relevant emotions. Disgust, fear, and sadness are less prominent.",
+    "critique": "The document is a formal executive order regarding natural gas production. It aims to convey a sense of responsibility, coordination, and policy implementation. There's a hint of optimism about energy independence and economic benefits, but it's primarily a factual and procedural document. Therefore, emotions like joy, sadness, fear, disgust, and surprise should be scored relatively low, reflecting the formal and objective tone.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 2,
-        "fear": 3,
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

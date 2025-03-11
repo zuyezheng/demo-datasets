@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal amendment regarding port security. It primarily focuses on regulations and enforcement, suggesting a context of potential threats and the need for vigilance. The language is formal and procedural, lacking emotional expression. Therefore, the primary emotion conveyed would be fear, due to the security concerns, but at a low level. Other emotions are not significantly present.",
+    "critique": "The document is a formal executive order amending regulations related to port security. It primarily focuses on legal and security aspects, with no explicit emotional expression. Therefore, the initial scores should reflect a neutral or very low emotional intensity across all categories.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

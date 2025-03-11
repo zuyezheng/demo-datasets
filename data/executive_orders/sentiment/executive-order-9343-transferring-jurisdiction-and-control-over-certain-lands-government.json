@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order transferring land and resources to the Navy Department during World War II. It is a formal and factual document with no explicit emotional content. Therefore, all emotions should be scored low. Considering that the order is related to war, a slight sense of fear or concern might be present, but it should still be relatively low.",
+    "critique": "The document is a formal executive order transferring jurisdiction over land and facilities to the Navy Department during World War II. The primary emotion conveyed is a sense of urgency and necessity due to the war. There's a hint of concern or seriousness related to the war effort, but no strong expressions of joy, sadness, disgust, or surprise. The scores should reflect this formal and somewhat serious tone.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

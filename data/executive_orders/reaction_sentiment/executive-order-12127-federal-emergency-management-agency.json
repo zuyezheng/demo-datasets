@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order focused on the activation of the Federal Emergency Management Agency (FEMA). The primary goal is to establish a more organized and effective system for managing emergencies. The tone is formal and authoritative, aiming to convey a sense of order and control. The language is legalistic and precise, reflecting the nature of an executive order. The context is a response to the need for better coordination in emergency management. The document itself does not explicitly aim to elicit strong emotions. However, the underlying goal of improved emergency management could implicitly aim to reduce fear and increase a sense of security. Given the nature of the document, I would expect low scores for most emotions. Joy is unlikely, as it's a formal order. Sadness and disgust are not relevant. Surprise is also unlikely, as the order is part of a planned reorganization. Fear might be slightly reduced due to the promise of better emergency management.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

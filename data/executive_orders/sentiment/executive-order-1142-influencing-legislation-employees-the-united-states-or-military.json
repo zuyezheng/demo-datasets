@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
-        "fear": 4,
-        "disgust": 3,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order restricting communication between government officials and Congress. It doesn't explicitly express any particular emotion. However, one could argue it conveys a sense of authority and control, potentially leading to fear or disgust among those who disagree with the order, and perhaps joy among those who support it. Surprise is unlikely, as executive orders are a normal part of governance. Sadness is not relevant. The intensity of these emotions would likely be low to moderate, depending on individual perspectives.",
+    "critique": "The document is a formal order from the President. It restricts government officials from directly contacting Congress without departmental approval. The language is formal and authoritative. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the order might implicitly convey a sense of control and perhaps a reaction to perceived unauthorized communications. Given the formal nature and lack of overt emotional expression, the initial scores are set to 1 for all emotions. Upon review, the formal tone and controlling nature of the order might suggest a very slight undercurrent of assertiveness, which could be interpreted as a minimal level of fear (of losing control) and disgust (at the current state of affairs). Therefore, the revised scores will slightly increase fear and disgust.",
     "revised_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
-        "fear": 4,
-        "disgust": 3,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     }
 }

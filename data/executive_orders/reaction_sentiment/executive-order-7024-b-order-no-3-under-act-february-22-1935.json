@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing an agency to regulate the petroleum industry. The tone is authoritative and legalistic. The primary emotions the President likely wants to elicit are a sense of order, stability, and confidence in the government's ability to manage the industry. There's little room for joy or surprise. Sadness and disgust are unlikely to be intended, but some regulated parties might feel them. Fear might be a factor for those not complying with regulations.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

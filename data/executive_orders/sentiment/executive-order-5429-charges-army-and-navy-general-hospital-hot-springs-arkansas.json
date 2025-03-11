@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an amendment to the rules and regulations for the Army and Navy General Hospital. It specifies medicine charges and subsistence charges for different categories of patients. The language is formal and administrative. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal amendment to the rules and regulations of the Army and Navy General Hospital. It primarily deals with the financial aspects of patient care, specifically medicine and subsistence charges. There is no strong emotional language used. Therefore, the scores for all emotions should be relatively low. I will assign a baseline score of 1 for most emotions, increasing the score only if there's a clear indication of that emotion being conveyed. There is no indication of joy, sadness, fear, disgust, or surprise. Therefore, all initial scores will be 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

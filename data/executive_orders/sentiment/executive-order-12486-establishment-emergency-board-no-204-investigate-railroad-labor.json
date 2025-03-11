@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order establishing an emergency board to investigate a dispute. It uses neutral and legalistic language. There is no indication of emotions like joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores for all emotions should be low.",
+    "critique": "The document is a formal executive order. It establishes an emergency board to investigate a dispute. The language is very formal and legalistic. There is no strong emotion conveyed. The most prominent emotion might be a mild sense of concern or seriousness, but it's very subdued. Therefore, I will assign low scores across all emotions, with a slightly higher score for sadness to reflect the seriousness of the dispute.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

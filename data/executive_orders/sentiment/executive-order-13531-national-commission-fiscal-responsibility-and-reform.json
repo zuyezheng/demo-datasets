@@ -6,11 +6,11 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order establishing a commission on fiscal responsibility. It is a formal and official document. The language is neutral and objective, and there is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing a commission. It aims to address fiscal responsibility and reform. The language is formal and objective, with no explicit emotional expression. However, the underlying concern about the fiscal situation might imply a sense of worry or determination to improve the situation. Considering the formal nature, the emotional scores should be low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

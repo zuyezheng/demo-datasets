@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to an Executive Order, detailing changes in allowances for naval personnel, specifically those attached to the Naval Mission to Brazil. There is no expression of emotion in the document. The language is purely administrative and factual. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal amendment to an Executive Order. It outlines specific changes to allowances for naval personnel, particularly those on special duty in Alaska, Europe, South America, and the Naval Mission to Brazil. There is no explicit emotional language or intent present. Therefore, all emotions should be scored low, with a default of 1 where there is no indication of the emotion being conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

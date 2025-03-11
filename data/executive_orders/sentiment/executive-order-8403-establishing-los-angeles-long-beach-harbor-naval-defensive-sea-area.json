@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document establishes a naval defensive sea area and outlines regulations for vessels within that area. The language is formal and legalistic, focusing on security and defense. There is no explicit expression of emotions. However, the context of establishing a defensive sea area suggests an underlying sense of caution and preparedness, possibly related to fear or concern about potential threats. The intensity of these emotions is likely low, as the document is primarily a legal declaration rather than an emotional appeal. Therefore, I will assign low scores to fear and surprise, and minimal scores to the other emotions.",
+    "critique": "The document establishes a naval defensive sea area. It is a formal order, so the emotions conveyed are minimal. There might be a slight sense of fear due to the context of national defense, but it's not explicitly stated. Therefore, I will assign low scores to all emotions except for fear, which will be slightly higher.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

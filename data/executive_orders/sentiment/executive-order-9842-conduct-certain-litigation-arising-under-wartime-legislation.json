@@ -2,11 +2,11 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
-        "disgust": 2,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and direction, but doesn't strongly evoke any specific emotion. The initial scores reflect this neutrality, with slightly elevated scores for emotions related to the gravity and potential consequences of the order. The revised scores further emphasize the neutrality, reducing all scores to the minimum.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and direction. There is no strong indication of emotions like joy, sadness, fear, disgust, or surprise. The language is neutral and focused on legal and administrative matters. Therefore, the initial scores for all emotions are set to 1, indicating a minimal presence.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

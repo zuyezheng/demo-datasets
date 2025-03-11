@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It defines the scope of two additional categories of hazardous duty. The language is legal and procedural. There is no emotion conveyed in the document. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order. It defines the scope of two additional categories of hazardous duty. The language is formal and legalistic. There is no explicit expression of emotions. However, the order addresses hazardous duty, which could be associated with fear and disgust. However, given the formal nature of the document, these emotions are likely to be suppressed. Therefore, I will assign low scores to all emotions, with a slightly higher score for fear and disgust due to the hazardous nature of the duty being defined.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     }
 }

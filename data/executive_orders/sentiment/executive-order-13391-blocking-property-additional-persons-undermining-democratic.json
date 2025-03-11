@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
-        "disgust": 3,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding sanctions on Zimbabwe. It primarily conveys a sense of seriousness and determination to address a national emergency. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the act of imposing sanctions suggests a negative assessment of the situation in Zimbabwe, which could be interpreted as a form of disapproval or perhaps even disgust. The legal and formal tone aims to project authority and resolve.",
+    "critique": "The document is a formal executive order addressing actions that undermine Zimbabwe's democratic processes. It invokes legal authorities and outlines specific measures, including blocking property and interests of certain individuals and entities. The language is legalistic and precise, with no explicit emotional expression. However, the underlying intent to address a serious issue suggests a degree of concern and resolve. Therefore, I will assign low scores for sadness, fear, disgust, and surprise, and a slightly higher score for joy, reflecting the resolve to address the issue.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 2,
-        "fear": 1,
-        "disgust": 4,
-        "surprise": 1
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 2
     }
 }

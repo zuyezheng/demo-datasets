@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 3,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document primarily conveys a sense of duty and responsibility towards veterans. While not explicitly joyful, it aims to provide necessary medical care, suggesting a positive intent. There's no indication of anger, fear, or disgust. A slight sense of surprise might be present due to the formal announcement of a change in regulations.",
+    "critique": "The document is a formal announcement regarding eligibility for medical care for veterans. It primarily conveys information and authorization. There is no strong emotional language used. Therefore, most emotions should be scored low. There might be a slight sense of joy or relief for veterans who will benefit from this, but it's not explicitly stated.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 3,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

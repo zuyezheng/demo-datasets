@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of resolution and conclusion regarding a specific national emergency. While it references past violence and unrest, the overall tone is one of progress and termination. Therefore, joy might be present due to the positive developments, but it's not overt. Sadness, anger, fear, and disgust are less prominent, as the focus is on the legal and procedural aspects of ending the emergency. Surprise is unlikely.",
+    "critique": "The document is a formal declaration by the President of the United States. It primarily concerns the termination of a national emergency related to the situation in C\u00f4te d'Ivoire. The language is legal and procedural. There's a sense of relief and satisfaction that the situation has improved, but it's conveyed in a very understated, formal way. Therefore, joy and surprise should be low. Sadness, fear, and disgust are also low, as the document focuses on the positive progress and termination of the emergency.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

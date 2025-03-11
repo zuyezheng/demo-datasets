@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 2
     },
-    "critique": "The document expresses a formal prohibition against government employees soliciting pay increases or influencing legislation. The tone is authoritative and restrictive, suggesting a potential for negative emotions if the directive is not followed. It does not explicitly convey joy, but it could evoke sadness or fear in employees who feel restricted. There's no clear indication of anger, disgust, or surprise. The intensity of emotions would likely be moderate, depending on individual circumstances and perspectives.Revised scores: Joy: 1, Sadness: 4, Anger: 1, Fear: 5, Disgust: 1, Surprise: 2",
+    "critique": "The document is a formal order forbidding government employees from lobbying for pay increases. It is primarily a directive, and therefore doesn't express strong emotions. However, the threat of dismissal introduces a sense of fear and perhaps disgust at the potential consequences of disobedience. There's a slight sense of sadness due to the restrictive nature of the order, and a hint of surprise that such an order is deemed necessary. Joy is absent. The initial scores reflect these considerations, with fear and disgust being slightly higher than sadness and surprise. The revised scores slightly adjust the intensity of these emotions based on the formal and authoritative tone of the document.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
+        "sadness": 3,
         "fear": 5,
-        "disgust": 1,
-        "surprise": 2
+        "disgust": 4,
+        "surprise": 3
     }
 }

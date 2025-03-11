@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order. It aims to establish policies and structures for protecting privacy within the government. The language is formal and legalistic, focusing on duties, responsibilities, and coordination. There's an emphasis on trust, efficiency, and collaboration. Given the nature of the document, the primary emotion conveyed is a sense of responsibility and perhaps a mild sense of reassurance. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, the scores for these emotions should be relatively low.",
+    "critique": "The document is a formal executive order. It expresses a commitment to protecting privacy and improving government efficiency. There is a sense of responsibility and determination, but no strong emotions are explicitly conveyed. Therefore, most scores should be low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

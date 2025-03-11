@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 4,
+        "fear": 2,
+        "disgust": 5,
         "surprise": 1
     },
-    "critique": "The document is an executive order imposing sanctions on Haiti. It is a formal and legal document. The primary emotion conveyed would be a sense of seriousness and resolve, with a hint of concern for the situation in Haiti. There's no explicit expression of joy, but there might be an underlying sense of responsibility and determination to address the issue. There is no explicit anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order imposing economic sanctions on Haiti. It expresses a sense of seriousness and determination to address a national emergency. There is a sense of disgust and anger towards the actions of the de facto regime in Haiti, which prompts the order. There is also a sense of sadness towards the suffering of the Haitian people, which the order attempts to alleviate through humanitarian aid exceptions. There is no explicit expression of joy or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 5,
+        "fear": 2,
+        "disgust": 6,
         "surprise": 1
     }
 }

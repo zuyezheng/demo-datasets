@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation for a migratory bird refuge. It primarily conveys a sense of official action and conservation effort rather than strong emotions. The language is legal and administrative, not designed to evoke strong feelings. Therefore, the scores should be low across the board, with a slight emphasis on joy due to the positive impact of conservation.",
+    "critique": "The document is a formal executive order regarding land allocation for a migratory bird refuge. It's primarily a legal and administrative document. Therefore, the emotional content is expected to be minimal. The initial scores reflect this, with low values across all emotions. Upon review, there's no indication of strong emotions. The language is neutral and factual. Therefore, the revised scores remain low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

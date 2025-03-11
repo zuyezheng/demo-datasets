@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document primarily conveys a sense of seriousness and determination to ensure the efficient operation of the Federal Government. While it addresses a potentially contentious issue (labor disputes), the language is formal and aims to establish policy and procedure. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The document is intended to be perceived as a rational and measured response to a problem. Therefore, the initial scores for all emotions are relatively low. Revised scores reflect a slight increase in sadness due to the mention of labor disputes and potential job losses, and a slight increase in fear due to the potential economic impact of strikes.",
+    "critique": "The document is a formal executive order. It aims to prevent disruption to federal government contracts due to labor disputes. The primary emotion conveyed is a sense of seriousness and determination to ensure the efficient functioning of the government. There's a hint of concern regarding the impact of labor disputes on the economy. There is no explicit expression of joy, surprise, or disgust. There is a mild sense of sadness about the negative impacts of labor disputes. There is no anger.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

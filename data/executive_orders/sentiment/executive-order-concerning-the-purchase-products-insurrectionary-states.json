@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document primarily conveys a sense of authority, instruction, and regulation. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, aiming to establish clear guidelines for trade and transportation related to states in insurrection. Therefore, the initial scores for all emotions are set to 1, indicating a minimal presence.",
+    "critique": "The document is a formal order regarding the purchase and transport of products from states in insurrection. It primarily focuses on authorization, regulations, and penalties for non-compliance. There is no strong emotional language used. Therefore, the scores for all emotions should be relatively low. Joy is unlikely given the context of insurrection. Sadness might be present due to the conflict, but it's not explicitly stated. Anger could be inferred from the penalties for non-compliance, but it's not a primary emotion. Fear might be present due to the potential for punishment, but it's not explicitly emphasized. Disgust is unlikely. Surprise is also unlikely, as the document outlines expected procedures.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

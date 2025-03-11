@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding civil service rules. It does not express any particular emotion. The language is legal and procedural, and the content focuses on regulations and requirements for government employees. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order amending civil service rules. It aims to provide clarity and guidelines for classifying employees within the competitive service. The language is legalistic and procedural, with no overt expression of emotions. However, there might be a subtle sense of joy for those who benefit from the amended rules, and perhaps a touch of sadness for those who don't meet the requirements. There's no indication of anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

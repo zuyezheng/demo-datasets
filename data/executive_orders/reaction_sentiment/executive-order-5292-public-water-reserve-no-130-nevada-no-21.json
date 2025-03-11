@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a land withdrawal order. As the author, the President, the primary emotion is a sense of duty and perhaps a mild satisfaction in fulfilling a public service. There's no strong emotional appeal intended. The language is formal and legalistic, not designed to evoke strong feelings. Therefore, most emotions should be scored low. I will start with initial scores of joy: 1, sadness: 1, anger: 1, fear: 1, disgust: 1, surprise: 1. After further consideration, I think there might be a slight sense of joy in preserving land for public use, so I will increase that slightly. There's no indication of any other emotion being significantly present.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

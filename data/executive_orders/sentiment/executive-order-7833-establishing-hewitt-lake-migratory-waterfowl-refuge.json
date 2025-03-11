@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal declaration regarding land allocation for a bird refuge. It's unlikely to evoke strong emotions in the general public. The primary emotions, if any, might be mild joy (for conservation efforts) or mild surprise (at the details of the allocation). Other emotions like sadness, fear, and disgust are not relevant in this context. The initial scores reflect this assessment, with low values for most emotions and a slightly higher value for joy and surprise. The revised scores refine these values based on a more conservative interpretation.",
+    "critique": "The document is a formal executive order establishing a migratory bird refuge. The language is legal and \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Considering it is a formal document, I will assign a baseline score of 1 for all emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

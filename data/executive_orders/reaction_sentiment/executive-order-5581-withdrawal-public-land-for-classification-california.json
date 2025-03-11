@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a simple land withdrawal order. As president, the primary emotion I want to elicit is a sense of calm and order. There's no intention to evoke strong emotions. The language is formal and legalistic, further minimizing emotional impact. Therefore, all emotions should be scored low initially. Upon review, I realize that while the overall emotional impact is low, there might be a slight element of surprise for those directly affected by the land withdrawal. I will adjust the surprise score accordingly.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

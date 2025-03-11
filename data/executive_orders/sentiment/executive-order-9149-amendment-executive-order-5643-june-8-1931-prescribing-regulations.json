@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to an executive order. It primarily concerns legal and financial regulations. There is no indication of an attempt to convey any particular emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order amending regulations regarding representation allowances. The language is legal and procedural, with no explicit emotional expression. Therefore, all emotions should be scored low, with a baseline of 1 due to the formal nature of the document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

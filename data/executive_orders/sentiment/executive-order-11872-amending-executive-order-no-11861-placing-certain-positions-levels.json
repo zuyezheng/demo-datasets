@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement about an amendment to an executive order. It's a dry, legalistic text with no emotional content. Therefore, all emotions should be scored very low.",
+    "critique": "The document is a formal announcement about an amendment to an executive order. It's a dry, legalistic text with no inherent emotional content. Therefore, all emotions should be scored very low, close to 1, as there's no indication of joy, sadness, anger, fear, disgust, or surprise. The language is purely administrative.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

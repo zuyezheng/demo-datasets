@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order delegating authority related to the Defense Production Act of 1950. It is a formal and legal document. The primary emotion conveyed is one of seriousness and determination to address national defense needs. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the context implies a sense of urgency and the need for preparedness, which might evoke a mild sense of concern or determination in the public. Given the nature of the document, the intensity of any emotion conveyed is likely to be low.",
+    "critique": "The document is a formal executive order delegating authority related to the Defense Production Act of 1950. It is primarily concerned with establishing priorities and allocations, requisitioning, expanding productive capacity, economic stabilization, real estate credit, labor supply, and voluntary agreements. The language is legalistic and procedural. There is no expression of joy, sadness, fear, disgust, or surprise. The document aims to convey a sense of authority and decisiveness in managing resources for national defense.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

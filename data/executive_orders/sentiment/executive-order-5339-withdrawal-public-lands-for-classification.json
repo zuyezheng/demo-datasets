@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order regarding land withdrawal for classification and potential inclusion in a national monument. It's a legal and administrative document, so it's unlikely to evoke strong emotions in the general public. The primary purpose is to inform and direct, not to elicit an emotional response. Therefore, all emotions should be scored low initially. After further consideration, the act of preserving land for a national monument might evoke a slight sense of joy or surprise in some, but the overall impact remains minimal.",
+    "critique": "The document is a formal order regarding land withdrawal for classification and potential inclusion in a national monument. It's a legal and administrative document, so the primary emotions conveyed are neutral. There is a slight sense of joy that comes from the preservation of land. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

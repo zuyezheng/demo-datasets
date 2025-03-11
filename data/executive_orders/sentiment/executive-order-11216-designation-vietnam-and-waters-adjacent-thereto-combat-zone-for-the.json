@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 6,
-        "disgust": 3,
-        "surprise": 2
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The document is a formal designation of Vietnam as a combat zone, which doesn't inherently convey strong emotions. However, considering the context of the Vietnam War, the public might experience a mix of emotions. Fear and sadness are likely due to the ongoing conflict and potential loss of life. Surprise is unlikely as the conflict was already known. Disgust is possible depending on individual views of the war. Joy is highly improbable. The initial scores reflect this assessment, with fear and sadness being the highest. The revised scores slightly adjust the intensity based on a more nuanced understanding of the document's implications.",
+    "critique": "The document is a formal designation of Vietnam as a combat zone for tax purposes. It is a legal document and does not express any particular emotion. Therefore, the scores for all emotions should be low, with a default value of 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 6,
-        "fear": 7,
-        "disgust": 4,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
-        "disgust": 2,
-        "surprise": 4
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a fetal tissue bank for medical research. The language is formal and legalistic, with no explicit emotional expression. However, the topic of fetal tissue can evoke strong emotions. The order aims to provide resources for medical research, which could be seen as hopeful and positive, but the source of the tissue might also evoke sadness or disgust in some. Considering the context, the president is likely trying to convey a sense of responsibility and action towards medical advancement, while remaining neutral on the emotional aspects of the topic. Therefore, the initial scores would be low across all emotions, with a slight increase in surprise due to the unexpected nature of the order.",
+    "critique": "The document is a formal executive order establishing a fetal tissue bank for medical research. The language is formal and legalistic. There is a slight sense of hope and determination to find treatments for diseases, but overall, the document is neutral in tone. Therefore, joy, sadness, fear, disgust, and surprise should be scored low. The initial scores reflect this assessment, and the revised scores maintain the same low levels to reflect the document's neutral and formal nature.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

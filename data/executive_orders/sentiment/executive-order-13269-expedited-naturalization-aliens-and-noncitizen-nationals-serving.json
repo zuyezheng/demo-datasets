@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 3,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It expresses no emotion. The initial scores should all be 1.",
+    "critique": "The document is a formal executive order. It expresses a sense of duty and determination to provide expedited naturalization for members of the armed forces. There is no explicit expression of emotions such as joy, sadness, fear, disgust, or surprise. However, there is a subtle sense of determination and resolve, which could be interpreted as a low level of joy and a slightly higher level of seriousness (low sadness). Given the context of war, there might be a hint of fear, but it's not explicitly stated. Disgust is not present. Surprise is not present.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 3,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

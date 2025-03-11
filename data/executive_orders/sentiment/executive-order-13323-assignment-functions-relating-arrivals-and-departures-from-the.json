@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding immigration and national security. It outlines the functions of the Secretary of Homeland Security and the Secretary of State concerning the arrival and departure of persons from the United States. The language is legal and procedural, with no explicit emotional expression. However, the context of strengthening national security might implicitly convey a sense of fear or concern. Given the formal and legal nature of the document, the expected emotional response from the public would likely be minimal. Therefore, most emotions should be scored low. I will revise the scores to reflect the slightly increased fear.",
+    "critique": "The document is a formal executive order regarding immigration and national security. It assigns functions to the Secretary of Homeland Security and the Secretary of State related to the Immigration and Nationality Act. The language is legal and procedural, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Considering the context, a slight sense of concern or caution might be inferred due to the subject matter of national security, leading to a slightly elevated fear score. However, the overall tone remains neutral.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 4,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

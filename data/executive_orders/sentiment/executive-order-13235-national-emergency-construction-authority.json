@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 6,
-        "disgust": 1,
-        "surprise": 4
+        "fear": 5,
+        "disgust": 3,
+        "surprise": 2
     },
-    "critique": "The document conveys a sense of urgency and determination in response to a national emergency. The president is invoking emergency powers to address a threat, which suggests a level of fear and concern for national security. However, the tone is formal and authoritative, not overly emotional. The scores reflect these considerations.",
+    "critique": "The document is a formal declaration of a national emergency following the September 11th terrorist attacks. The primary emotion conveyed is a sense of urgency and seriousness due to the ongoing threat. There is an element of fear and concern for national security, but it is presented in a formal and controlled manner. There's no explicit joy, sadness, or disgust expressed, but the context implies a degree of sadness and disgust related to the attacks themselves. Surprise is minimal as the declaration follows a known event.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 4,
         "fear": 6,
-        "disgust": 1,
-        "surprise": 4
+        "disgust": 4,
+        "surprise": 1
     }
 }

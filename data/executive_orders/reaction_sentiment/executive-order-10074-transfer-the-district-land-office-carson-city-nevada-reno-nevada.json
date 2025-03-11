@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a simple executive order regarding the relocation of a land office. As the President, the primary emotion I want to elicit is a sense of calm and order, not strong emotions. There's no intention to evoke joy, sadness, anger, fear, disgust, or surprise. The order is purely administrative. Therefore, the initial scores should be low across the board. Upon review, I realize that even though the intention is to evoke minimal emotion, the action of closing an office and opening another might cause a slight amount of surprise or concern in those directly affected. Therefore, I will adjust the surprise and fear scores slightly upwards.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

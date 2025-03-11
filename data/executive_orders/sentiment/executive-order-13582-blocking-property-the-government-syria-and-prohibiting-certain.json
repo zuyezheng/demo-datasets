@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 1,
-        "disgust": 3,
+        "fear": 3,
+        "disgust": 4,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order imposing sanctions on Syria. The primary emotion conveyed is a sense of seriousness and resolve in addressing a national emergency. There might be a hint of disgust and sadness related to the violence in Syria, but these are secondary to the main purpose of the document, which is to enact policy. The order aims to project an image of the president taking decisive action. Therefore, the scores should reflect this.",
+    "critique": "The document is a formal executive order addressing the situation in Syria. It primarily conveys a sense of seriousness and determination to address the issue. There's an underlying tone of disapproval and concern regarding the actions of the Syrian government, but it's expressed through formal language and legal terms. Therefore, the scores should reflect the presence of negative emotions like disgust and sadness, but not at a high intensity. There is no explicit expression of joy or surprise. Fear is present due to the emergency situation. The initial scores are based on this assessment, and the revised scores are adjusted to better reflect the subtle emotional undertones within the formal context.",
     "revised_scores": {
         "joy": 1,
         "sadness": 4,
-        "fear": 1,
-        "disgust": 4,
+        "fear": 4,
+        "disgust": 5,
         "surprise": 1
     }
 }

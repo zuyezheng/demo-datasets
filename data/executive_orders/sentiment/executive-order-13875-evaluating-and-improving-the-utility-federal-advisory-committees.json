@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It is unlikely to evoke strong emotions in the general public. The language is legal and bureaucratic, focusing on the review and termination of advisory committees. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the review and termination of advisory committees. It is primarily concerned with government efficiency and cost reduction. There is no strong emotional language used. Therefore, the scores for all emotions should be relatively low. Joy might be present in the sense of striving for a more efficient government, but it's very subtle. Sadness, fear, disgust, and surprise are unlikely to be present in any significant way.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

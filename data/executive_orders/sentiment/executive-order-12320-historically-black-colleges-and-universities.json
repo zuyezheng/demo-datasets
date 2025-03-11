@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 5,
-        "sadness": 2,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is an executive order focused on increasing the participation of historically Black colleges and universities in Federally sponsored programs. The language is formal and bureaucratic, aiming to convey a sense of purpose and commitment to addressing discriminatory treatment. There is no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. However, the underlying sentiment suggests a commitment to fairness and equality, which could evoke a sense of hope and optimism. The order aims to correct past inequities, which might imply a subtle acknowledgment of past sadness or injustice. However, the primary focus is on future action and policy implementation, not on dwelling on negative emotions. Therefore, the scores for negative emotions should be low. The highest score should be for joy, as the order aims to improve opportunities and outcomes for historically Black colleges and universities.",
+    "critique": "The document expresses a formal commitment to supporting historically Black colleges and universities. It aims to address past discriminatory treatment and promote equal opportunity. The language is formal and focuses on actions, plans, and reports. There is a sense of optimism and determination to improve the situation, but it is expressed in a measured and professional tone.",
     "revised_scores": {
         "joy": 5,
-        "sadness": 2,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

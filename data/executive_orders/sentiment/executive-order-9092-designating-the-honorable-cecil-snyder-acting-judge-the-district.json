@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal designation of an acting judge. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal designation of an acting judge. It is unlikely to convey strong emotions. The scores should be low, with 1 being the default.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

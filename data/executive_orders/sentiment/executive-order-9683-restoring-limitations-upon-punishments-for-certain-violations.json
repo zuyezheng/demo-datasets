@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the suspension of limitations on punishments for certain violations during wartime. The language is legalistic and devoid of emotional expression. There is no indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order related to military law. It discusses the suspension of limitations on punishments for certain violations of the Articles of War and indicates that such suspension is no longer necessary. Given the formal and legal nature of the document, the emotional content is expected to be minimal. There is a slight indication of relief or satisfaction that the suspension is no longer needed, but this is very subtle. Therefore, most emotions should be scored low, with a slightly higher score for joy to reflect the removal of the suspension.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

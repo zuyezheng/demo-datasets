@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a revocation of a customs port of entry. It is a very specific and technical action. The tone is formal and direct. There is no explicit emotional language. The primary emotion conveyed is likely sadness for those who may be affected by the change, but it is a very mild emotion. There is no indication of joy, anger, fear, disgust, or surprise. Therefore, the initial scores should be sadness: 2, and all other emotions: 1. After further consideration, the document is purely administrative and unlikely to elicit any strong emotions. Therefore, all scores should be 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

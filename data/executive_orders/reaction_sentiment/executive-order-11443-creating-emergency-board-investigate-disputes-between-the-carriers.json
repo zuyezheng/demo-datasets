@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 3
+    },
+    "critique": "The initial scores seem reasonable given the context. The document is a formal executive order addressing a labor dispute. The primary goal is to prevent disruption to interstate commerce, suggesting a desire to reduce fear and anxiety. The language is neutral and legalistic, so strong emotions are unlikely. Surprise is possible, as the order intervenes in an existing dispute. The revised scores reflect a slight adjustment to better align with the document's tone and purpose.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 3
+    }
+}

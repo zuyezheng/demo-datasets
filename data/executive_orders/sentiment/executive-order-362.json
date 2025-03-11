@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a military order assigning a new commander to the Fourth Military District. It is a formal announcement with no emotional language. Therefore, all emotions should be scored low.",
+    "critique": "The document is a military order assigning a new commander to the Fourth Military District. It is a formal document with no emotional content. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

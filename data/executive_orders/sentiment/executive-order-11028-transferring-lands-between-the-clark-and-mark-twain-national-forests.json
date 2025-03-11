@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land transfer between national forests. It is unlikely to evoke strong emotions in the general public. The primary emotions, if any, might be a mild sense of surprise or perhaps even boredom. Therefore, initial scores are set to low values across all emotions.",
+    "critique": "The document is a formal executive order regarding the transfer of land between national forests. It is primarily administrative in nature and does not express strong emotions. Therefore, most emotions should be scored low. There might be a slight sense of joy in preserving natural resources, but it's minimal.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

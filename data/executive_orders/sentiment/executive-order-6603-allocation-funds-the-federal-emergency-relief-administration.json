@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal allocation of funds for emergency relief. It is unlikely to evoke strong emotions in the public. The language is legal and administrative, not designed to elicit joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores should be low across all emotions. I will set all initial scores to 1, indicating a minimal emotional response.",
+    "critique": "The document is a formal allocation of funds. It expresses no emotion. Therefore, all scores should be low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

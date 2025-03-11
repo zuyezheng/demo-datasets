@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
-        "disgust": 3,
-        "surprise": 2
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 1
     },
-    "critique": "The document is a formal declaration regarding the seizure of a vessel from an enemy nation during wartime. It primarily conveys a sense of resolute action and legal authority, with elements of potential anger or disgust towards the enemy, but these are subdued by the official tone. There's no explicit expression of joy, sadness, fear, or surprise. The expected emotional response from the public would likely be a mix of support for the war effort and perhaps some level of anger or resentment towards the enemy. The intensity of these emotions would depend on the individual's existing sentiments about the war.",
+    "critique": "Initial assessment: The document is a formal legal order regarding the seizure of a vessel during wartime. The primary emotion conveyed is a sense of resolute action and authority. There's a hint of underlying anger/disgust towards the enemy nation, but it's largely suppressed by the formal tone. There's no explicit joy, sadness, fear, or surprise. Revised assessment: Upon further review, the document's purpose is purely administrative and legal. Any emotional undertones are minimal and incidental to the core function of authorizing the seizure of property during wartime. The scores should reflect this neutrality, with slight increases in disgust due to the context of war.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
-        "disgust": 4,
-        "surprise": 2
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 3,
+        "surprise": 1
     }
 }

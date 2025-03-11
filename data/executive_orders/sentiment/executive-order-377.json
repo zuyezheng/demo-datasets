@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the approval of rules for the Light-House Service. It does not contain strong emotional language. Therefore, all emotions should be scored low. There is no indication of joy, sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal announcement regarding the approval and enforcement of rules for the Light-House Service by the Civil Service Commission. The language is neutral and objective, with no explicit emotional expression. Therefore, all emotions should be scored low, with a default score of 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

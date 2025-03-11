@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to an executive order. It's unlikely to evoke strong emotions in the American public. The language is legal and procedural, not designed to elicit an emotional response. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal amendment to an executive order. It primarily deals with establishing an Interagency Classification Review Committee. Given the nature of the document, the emotions conveyed are minimal. There might be a slight sense of importance or seriousness, but overall, the emotional intensity is low. Therefore, I will assign low scores across all emotions initially. Then upon review, I will increase the surprise score to 2, as the document is unexpected.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

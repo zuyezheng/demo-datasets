@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 5,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a committee for rural development. The language is formal and bureaucratic. The primary emotion conveyed is a sense of hope and optimism for the future of rural communities, but it is very subdued. There is no indication of anger, fear, disgust or surprise. The joy score is low because the document is formal and not overtly joyful. The sadness score is low because while it acknowledges low incomes, it focuses on solutions. The surprise, disgust, fear are all very low.",
+    "critique": "The document is a formal executive order establishing a committee for rural development. The primary emotions conveyed are related to a sense of purpose and determination to improve the lives of people in rural areas. There is a hint of sadness related to the current state of rural families, but it is not overwhelming. There is no explicit anger, fear, disgust, or surprise conveyed in the document. The language is formal and objective, focusing on the establishment of the committee and its responsibilities.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 5,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

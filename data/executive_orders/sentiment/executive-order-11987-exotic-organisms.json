@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to establish regulations regarding the introduction of exotic species and the export of native species. The language is formal and legalistic, with no explicit emotional tone. Therefore, the expected emotional response from the public would likely be minimal across all emotions. Most of the scores are 1, indicating a neutral emotional response. There's a slight possibility of surprise due to the specific nature of the order, but it's not significant.",
+    "critique": "The document is a formal executive order regarding the introduction of exotic species and the protection of native species. The language is legal and administrative, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Upon review, the document aims to prevent harm to natural ecosystems, which could be interpreted as a subtle expression of concern or perhaps a preemptive measure against potential negative outcomes. However, this is not explicitly stated, so the scores should remain low, but not at the absolute minimum.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     }
 }

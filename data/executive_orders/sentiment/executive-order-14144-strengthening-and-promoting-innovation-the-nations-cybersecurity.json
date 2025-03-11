@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 4,
-        "disgust": 1,
-        "surprise": 2
+        "disgust": 3,
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order focused on improving the nation's cybersecurity. It outlines policies, actions, and deadlines for various government agencies to enhance cybersecurity measures. The language is formal, technical, and directive. There is no explicit expression of emotions. However, the urgency and the detailed nature of the order suggest an underlying concern about the current state of cybersecurity and a strong desire to address vulnerabilities. Given the context, the most relevant emotions to consider are fear (of cyberattacks) and perhaps a sense of determination (to improve security). However, since the document is primarily a policy directive, the intensity of these emotions is likely to be perceived as moderate rather than extreme by the public. Therefore, the initial scores will reflect a low to moderate level of fear and a slightly higher level of determination/resolve, which can be interpreted as a form of subdued joy or optimism about the future security. Other emotions are not significantly conveyed.",
+    "critique": "The document is a formal executive order focused on improving the nation's cybersecurity. It addresses various threats and outlines specific actions for government agencies and private sector entities. The language is formal and technical, with a focus on policy and implementation. There is a sense of urgency and concern about the current state of cybersecurity, but the overall tone is professional and objective. Therefore, the scores should reflect the presence of some negative emotions like fear and disgust (related to the threats), but also a sense of determination and resolve (which could be interpreted as a muted form of joy or hope). Surprise is less relevant in this context.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 1,
-        "fear": 4,
-        "disgust": 1,
-        "surprise": 2
+        "joy": 2,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 4,
+        "surprise": 1
     }
 }

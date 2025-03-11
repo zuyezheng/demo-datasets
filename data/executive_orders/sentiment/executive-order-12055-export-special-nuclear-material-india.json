@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal authorization for an export to India, related to nuclear materials. It cites legal bases and provides a timeline. There is no explicit emotional language used. The likely intended emotion is neutral, but given the context of nuclear materials, there might be a slight undercurrent of concern or caution. Therefore, I will assign low scores to fear and surprise, and a score of 1 to the other emotions.",
+    "critique": "The document is a formal authorization for export to India. It invokes legal and constitutional authority. There is no explicit emotional content. Therefore, all emotions should be scored low. Considering that this is a formal document, I will assign a baseline score of 1 for all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a legal order transferring land. The primary emotion the President wants to elicit is probably a sense of satisfaction or agreement that this is a good decision for the Commonwealth of the Philippines. There isn't strong language to suggest intense emotions. The tone is formal and factual. Therefore, joy, surprise, fear, disgust, and sadness should be low. I will start with initial scores of joy: 3, sadness: 1, anger: 1, fear: 1, disgust: 1, surprise: 2. After further consideration, I think the joy score is too high. The document is more about administrative procedure than eliciting joy. I will revise the joy score to 2.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

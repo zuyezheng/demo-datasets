@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement invoking the Railway Labor Act to address a dispute. It expresses no strong emotions. The primary sentiment is a neutral concern for maintaining essential transportation services. Therefore, all emotions should be scored low, with a slight emphasis on concern/fear due to the potential disruption of services.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses a sense of urgency and authority, but it does not convey strong emotions. The language is neutral and factual, aiming to resolve a potential disruption to interstate commerce. Therefore, most emotions should be scored low, with a slight emphasis on concern or seriousness, which might translate to a mild sense of fear or sadness related to the potential negative impact of the dispute.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
         "disgust": 1,
         "surprise": 1

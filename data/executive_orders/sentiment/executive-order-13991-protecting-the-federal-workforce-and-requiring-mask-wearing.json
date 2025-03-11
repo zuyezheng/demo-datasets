@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 3,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding COVID-19 safety measures. The primary emotion conveyed is a sense of responsibility and determination to address the pandemic. There's a subtle undercurrent of concern for public health, but it's not overtly emotional. The language is formal and policy-oriented, not designed to evoke strong emotional responses. Therefore, the scores should reflect a moderate level of concern (sadness/fear) and a low level of other emotions.",
+    "critique": "The document is a formal executive order addressing COVID-19 safety measures. It primarily conveys a sense of seriousness and determination to address the pandemic. There's a subtle undercurrent of concern for public health and the safety of the federal workforce. Joy is not present. Sadness is present due to the pandemic. Anger is not present. Fear is present due to the pandemic. Disgust is not present. Surprise is not present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 3,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     }

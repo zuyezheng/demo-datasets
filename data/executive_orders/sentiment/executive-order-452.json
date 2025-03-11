@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The president is trying to convey a sense of order and efficiency, not a specific emotion. The language is formal and detached. Therefore, all emotions should be scored low, with a slight emphasis on sadness due to the necessary but unfortunate nature of the order.",
+    "critique": "The document is a formal order addressing the high number of people requesting personal interviews with the President and heads of Departments. It states that applications should be made in writing and will be considered in order, subject to the President's approval. The order aims to ensure fairness and efficiency by avoiding personal interviews and preventing the neglect of business from those who cannot travel. The language is formal and direct, with a focus on practicality and equal treatment. There is a hint of frustration with the current situation, but overall, the tone is neutral and administrative.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

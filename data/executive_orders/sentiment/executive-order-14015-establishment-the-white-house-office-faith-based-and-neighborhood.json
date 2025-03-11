@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order. It aims to establish a White House Office of Faith-Based and Neighborhood Partnerships. The language is formal and legalistic. The primary emotion conveyed is a sense of purpose and commitment to serving people in need through partnerships with faith-based organizations. There's a subtle undercurrent of joy in highlighting the positive impact of these partnerships. There is no indication of negative emotions such as fear, disgust, or sadness. Surprise is also not a relevant emotion in this context. The order emphasizes policy and function, not emotional expression.",
+    "critique": "The document is a formal executive order. It aims to establish and define the functions of the White House Office of Faith-Based and Neighborhood Partnerships. The language is formal and legalistic. There is a sense of joy in enabling community organizations, but it's not overt. There's no explicit sadness, fear, disgust, or surprise conveyed. The order focuses on policy and procedure, not emotional expression. Therefore, most scores should be low, with a slightly higher score for joy due to the positive framing of community partnerships.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order from President Roosevelt withdrawing land for military purposes. There is no explicit emotional language used. The likely emotions conveyed would be related to the context of military action, which could include fear or perhaps a sense of duty (which might be interpreted as a muted form of joy/satisfaction). However, given the lack of explicit emotional cues, the scores should be low.",
+    "critique": "The document is a formal order from President Roosevelt withdrawing land for military purposes. The language is formal and legalistic. There is no explicit expression of emotion. However, given the context of 1941, the order likely relates to preparations for potential war, which might implicitly involve some level of concern or seriousness. However, since the document itself does not express any emotion, I will assign a baseline score of 1 for all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

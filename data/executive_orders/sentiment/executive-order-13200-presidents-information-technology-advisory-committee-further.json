@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of official procedure and legal compliance rather than any strong emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order, focusing on extending the life of a committee. The language is legal and procedural, with no explicit emotional expression. Therefore, all emotions should be scored low, with a baseline of 1 where there isn't enough information to suggest otherwise.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

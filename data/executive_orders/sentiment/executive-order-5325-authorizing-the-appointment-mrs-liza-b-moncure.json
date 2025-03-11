@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 7,
+        "sadness": 5,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document describes the appointment of Mrs. Liza B. Moncure to a position in the Treasury Department, highlighting that she is the widow of a prohibition agent who died in the line of duty. The primary emotion conveyed is sadness, due to the mention of the agent's death. There might be a hint of surprise that the President is making this appointment. There is no indication of joy, anger, fear, or disgust.",
+    "critique": "The document expresses sympathy for Mrs. Moncure, whose husband died in the line of duty. It also conveys a sense of gratitude for the service of her late husband. The primary emotion conveyed is sadness, with a secondary emotion of gratitude or respect. There is no indication of joy, fear, disgust, or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 7,
+        "sadness": 5,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

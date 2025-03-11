@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a council on management improvement. It is primarily informational and procedural, lacking strong emotional content. Therefore, all emotions are scored low initially. Upon further reflection, the document may evoke a slight sense of joy in those who believe in efficient government, and a slight sense of surprise in those who did not expect such an order. The other emotions remain very low.",
+    "critique": "The document is a formal executive order establishing a council for management improvement. It is primarily informational and procedural, with no strong emotional content. Therefore, most emotions should be scored low. There might be a slight sense of joy or optimism associated with the idea of improving government management, but it's very subtle. There is no indication of anger, fear, disgust, or surprise.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

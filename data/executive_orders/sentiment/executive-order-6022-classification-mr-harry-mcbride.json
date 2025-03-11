@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal announcement regarding the classification of Hany A. McBride's position. It outlines his career history within the Department of State. There is no strong emotional language or sentiment present. The tone is neutral and factual. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal announcement regarding the classification of Hany A. McBride. It outlines his career history in the Department of State. Given the formal and factual nature of the document, the emotions conveyed are minimal. There is a slight sense of joy and surprise due to the positive nature of the announcement, but these are very mild. There is no indication of sadness, fear, or disgust.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

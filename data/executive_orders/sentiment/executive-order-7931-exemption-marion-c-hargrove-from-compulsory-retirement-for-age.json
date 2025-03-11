@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal exemption from retirement for a government employee. It doesn't express strong emotions. The president is conveying a sense of duty and perhaps a slight positive sentiment towards the employee, but it's very subtle. Therefore, the initial scores should be low across all emotions.",
+    "critique": "The document is a formal exemption from retirement. It expresses no strong emotions. The presence of joy, sadness, fear, disgust, and surprise are minimal. Therefore, a score of 1 is appropriate for each.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

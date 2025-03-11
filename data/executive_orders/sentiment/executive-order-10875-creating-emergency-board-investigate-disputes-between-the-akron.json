@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. It uses formal language and aims to establish a board to investigate and resolve the dispute. There is no indication of any particular emotion being conveyed. The primary goal is to ensure the continuation of essential transportation services. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order addressing labor disputes in the railway industry. The primary emotion conveyed is a sense of urgency and importance, as the disputes are deemed to threaten interstate commerce. However, the language is very formal and neutral, so the intensity of any emotion is relatively low. There is a hint of concern due to the potential disruption of essential transportation services.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to an executive order. It grants the Governor of the Canal Zone the authority to make and alter regulations, especially during times of war or imminent war. The language is legal and procedural, with no explicit emotional content. Therefore, the expected emotional response from the American public would be minimal across all emotions.",
+    "critique": "The document is a formal executive order amending regulations in the Canal Zone. The language is legalistic and devoid of emotional expression. There is a slight sense of urgency implied by the reference to 'time of war' or imminent war, which might suggest a low level of fear or concern. However, the primary purpose is administrative, so most emotions should be scored very low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

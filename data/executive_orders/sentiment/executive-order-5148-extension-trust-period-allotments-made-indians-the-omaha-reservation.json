@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order extending a trust period for Native American land allotments. It's a legal and administrative action, not designed to evoke strong emotions. Therefore, all emotions should be scored low. There is no indication of joy, sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal order extending a trust period for Native American allotments. It's a legal document, so the primary emotions conveyed are neutral. There's no explicit expression of joy, sadness, fear, disgust, or surprise. However, one could argue there's a hint of positive sentiment (joy) for the Native Americans whose trust period is being extended, but it's very subtle. Given the formal nature, I'll start with low scores across the board and then slightly adjust the joy score to reflect the potential positive impact on the Native Americans.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and legal action rather than strong emotions. The language is formal and procedural. Therefore, the expected emotional response from the public would likely be minimal. Disgust, fear, joy, sadness and surprise are not expected to be conveyed with the document.",
+    "critique": "The document is a formal executive order regarding the transfer of authority related to the Trading with the Enemy Act. The language is legal and procedural, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Considering the formal nature, a baseline of 1 is appropriate for emotions not explicitly present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

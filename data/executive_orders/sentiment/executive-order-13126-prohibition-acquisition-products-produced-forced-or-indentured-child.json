@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 1,
-        "disgust": 3,
-        "surprise": 1
+        "sadness": 4,
+        "fear": 3,
+        "disgust": 5,
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order addressing abusive child labor practices. It outlines policies, regulations, and definitions related to prohibiting the manufacture or importation of goods made with forced or indentured child labor. The language is legal and procedural, aiming to establish a framework for enforcement and accountability.The primary emotion conveyed is a sense of seriousness and determination to address a critical issue. There might be a subtle undercurrent of disgust or anger towards the practice of child labor, but it's largely presented in a professional and detached manner. The document does not explicitly convey joy, sadness, fear, or surprise. Therefore, the scores for these emotions should be low.",
+    "critique": "The document expresses concern and determination to combat child labor. There's a sense of seriousness and resolve, but not strong emotions. It's a formal policy document, so the emotional range is limited.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 1,
-        "disgust": 4,
-        "surprise": 1
+        "sadness": 5,
+        "fear": 4,
+        "disgust": 6,
+        "surprise": 2
     }
 }

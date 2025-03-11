@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 3,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 3
     },
-    "critique": "The document is a formal executive order regarding the approval of a Code of Fair Competition for the Graphic Arts Industries. The language is legalistic and bureaucratic, with no overt expression of emotion. The President is attempting to convey a sense of authority and impartiality, and to ensure compliance with the National Industrial Recovery Act. There is a slight hint of surprise that there is disagreement in the industries on the provisions of Section 2 of the Executive Order. The document does not convey any strong emotions. Therefore, the initial scores should be low across the board, with a slightly higher score for surprise.",
+    "critique": "The document is a formal executive order approving a code of fair competition for the Graphic Arts Industries. The language is legalistic and procedural. There is a sense of authority and decisiveness, but little overt emotion. The document aims to convey fairness, compliance, and order. There is a slight hint of surprise that there is disagreement in the industries on the provisions of Section 2 of the Executive Order.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 3,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 3
     }
 }

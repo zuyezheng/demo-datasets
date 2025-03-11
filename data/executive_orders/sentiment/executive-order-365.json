@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The document is an official order from the Treasury Department, abolishing civil-service rules and transferring responsibilities. The tone is formal and administrative. There is no explicit expression of emotion. However, the implied emotions could be interpreted as follows:\n\n*   **Joy:** The document itself doesn't convey joy. Score: 1\n*   **Sadness:** The document itself doesn't convey sadness. Score: 1\n*   **Anger:** The document itself doesn't convey anger. Score: 1\n*   **Fear:** The document itself doesn't convey fear. Score: 1\n*   **Disgust:** The document itself doesn't convey disgust. Score: 1\n*   **Surprise:** The document itself doesn't convey surprise. Score: 1",
+    "critique": "The document is a formal order from the Treasury Department, abolishing civil-service rules and transferring responsibilities. The language is formal and direct, with no explicit emotional expression. However, the abolishment of existing rules and transfer of duties might implicitly convey a sense of surprise or concern among those affected. Considering the formal nature and lack of overt emotional cues, the scores should be low, with a slight consideration for surprise and perhaps a hint of sadness due to potential job changes.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

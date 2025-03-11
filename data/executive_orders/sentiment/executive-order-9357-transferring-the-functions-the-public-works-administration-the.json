@@ -6,10 +6,10 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the transfer of functions, powers, and duties of the Public Works Administration. It uses formal and legalistic language. There is no explicit expression of emotion. The order seems to be a matter of administrative procedure. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order transferring functions and resources of the Public Works Administration to the Federal Works Administrator. The language is legal and administrative, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Considering the context of wartime, a slight sense of urgency or seriousness might be present, but it's not overtly stated. The revised scores will reflect this lack of emotional content, with a slight increase in sadness to reflect the somber nature of war.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

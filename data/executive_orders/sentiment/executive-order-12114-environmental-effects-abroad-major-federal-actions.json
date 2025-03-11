@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding environmental considerations for federal actions. It is a formal and legal document. The primary emotion conveyed is a sense of responsibility and seriousness towards environmental protection. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. The document aims to establish procedures and guidelines, reflecting a commitment to environmental policy.",
+    "critique": "The document is a formal executive order regarding environmental policy. It aims to establish procedures for federal agencies to consider the environmental impact of their actions outside the United States. The language is formal and legalistic, with a focus on outlining responsibilities and procedures. There is no explicit expression of emotions. However, a sense of responsibility and concern for the environment can be inferred. Therefore, I will assign low scores for all emotions, with a slightly higher score for concern which translates to a low level of sadness and fear about environmental damage.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

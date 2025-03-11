@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the transfer of powers and duties related to housing for war needs. It uses legal and administrative language. There is no explicit expression of emotion. The likely emotions conveyed would be neutral. Given the context of war needs, a slight sense of concern or seriousness might be inferred, but it's not strongly emphasized. Therefore, I will assign low scores across all emotions, with a slightly higher score for concern/fear.",
+    "critique": "The document is a formal executive order regarding the transfer of powers and duties related to housing for war needs. It uses formal and legalistic language. There is no explicit expression of emotions. Therefore, the initial scores for all emotions should be low. Considering it is a formal document, I will assign a baseline score of 1 for all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

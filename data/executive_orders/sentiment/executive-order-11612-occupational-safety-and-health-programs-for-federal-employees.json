@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 4,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding occupational safety and health programs in federal departments and agencies. It is a formal and legal document. The primary emotions conveyed would be related to a sense of responsibility and perhaps a mild sense of reassurance or hope that these measures will improve safety. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores should be low across the board, with a slightly higher score for hope/joy due to the positive intent of the order.",
+    "critique": "The document is a formal executive order regarding occupational safety and health programs in federal departments and agencies. It primarily focuses on establishing and maintaining safe working conditions for federal employees. The language is formal and legalistic, with an emphasis on duties, responsibilities, and compliance. There is a sense of importance and commitment to safety, but emotions are not explicitly expressed. Therefore, most emotions should be scored low, with a slight emphasis on joy due to the positive impact of safety measures.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

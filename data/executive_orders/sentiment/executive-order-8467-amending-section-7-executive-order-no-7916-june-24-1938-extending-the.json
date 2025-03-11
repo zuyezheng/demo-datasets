@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of official action and administrative procedure. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is neutral and focused on establishing a Council of Personnel Administration. Therefore, all emotions should be scored low, with a default of 1 where there's no clear emotional signal.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and official procedure. There is minimal emotional content. Therefore, the scores for all emotions should be low. Considering it is a formal document, I will assign a baseline score of 1 for all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

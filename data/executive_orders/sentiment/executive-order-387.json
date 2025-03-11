@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a military order regarding the reorganization of military districts and departments following the readmission of Texas to Congress. It is a formal announcement with no explicit emotional expression. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional content.",
+    "critique": "The document is a military order. It is a formal document that does not express any emotions. Therefore, the initial scores for all emotions should be 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

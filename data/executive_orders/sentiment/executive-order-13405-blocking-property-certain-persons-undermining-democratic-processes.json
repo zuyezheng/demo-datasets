@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 4,
         "fear": 5,
         "disgust": 6,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document expresses concern and determination regarding the situation in Belarus. The President is using his authority to address what he perceives as a threat. There's an element of disgust and anger towards the actions of the Belarusian government, and a sense of urgency and perhaps fear regarding the potential consequences if the situation is not addressed. However, the primary emotion conveyed is a stern, decisive action, not necessarily a strong display of personal emotion. The legal and formal tone tempers any strong emotional expression.",
+    "critique": "The document expresses concern and determination regarding the situation in Belarus. It aims to convey a sense of seriousness and resolve in addressing the perceived threat to national security and foreign policy. The emotions conveyed are primarily anger and disgust towards the actions of the Belarusian government, as well as a sense of fear regarding the potential consequences of their actions. There is no presence of joy or surprise. The sadness is related to the human rights abuses. The initial scores reflect these observations, and the revised scores aim to refine the intensity of each emotion based on the document's content and context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 5,
+        "sadness": 5,
+        "fear": 6,
+        "disgust": 7,
         "surprise": 1
     }
 }

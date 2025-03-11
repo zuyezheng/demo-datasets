@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 5,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of appointments. It expresses a neutral tone, with a slight emphasis on the positive contributions of the appointees. There is no indication of strong emotions like joy, sadness, anger, fear, disgust, or surprise. The language is formal and bureaucratic, not designed to evoke strong feelings. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal announcement of appointments. It expresses approval and appreciation for the named individuals' service. There is no indication of negative emotions such as sadness, fear, disgust, or surprise. The primary emotion conveyed is a mild sense of joy or approval. The initial scores are set accordingly, and then revised to reflect the analysis.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 5,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

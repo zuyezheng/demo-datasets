@@ -1,12 +1,12 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal revocation of an executive order. It is unlikely to evoke strong emotions in the American public. The most relevant emotions might be mild surprise or perhaps slight sadness that an order is being revoked, but these would be very low intensity. Other emotions like joy, anger, fear, and disgust are not relevant in this context.",
+    "critique": "The document is a formal revocation of an executive order. It is a very short and factual statement. There is no explicit or implicit emotional content. Therefore, all emotions should be scored as 1, indicating a minimal presence.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

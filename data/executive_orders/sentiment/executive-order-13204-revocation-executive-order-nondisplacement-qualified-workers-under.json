@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It revokes a previous order related to contracts for public buildings. The language is legal and procedural, not designed to evoke any particular emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It revokes a previous executive order and directs the Secretary of Labor and other agencies to rescind any implementing orders, rules, regulations, guidelines, or policies. The language is formal and legalistic. There is no explicit expression of emotion. However, the act of revoking an order could imply a negative sentiment towards the previous order, perhaps disgust or dissatisfaction. However, given the formal nature, I will keep the initial scores low and revise them slightly to reflect a hint of dissatisfaction.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

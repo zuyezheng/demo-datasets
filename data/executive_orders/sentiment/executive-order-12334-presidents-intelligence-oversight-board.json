@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
-        "disgust": 3,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the President's Intelligence Oversight Board. The language is legal and procedural, with the aim of ensuring the legality of intelligence activities. There is no explicit expression of emotion. However, the establishment of such a board suggests a concern for potential unlawful activities within the Intelligence Community, which could imply a degree of fear or disgust regarding such possibilities. However, without additional context, it is difficult to gauge the intensity of these emotions. The order could also be interpreted as a display of joy in exercising presidential authority and proactively addressing potential issues. Given the lack of explicit emotional cues, the initial scores are set low, with a slight emphasis on fear and disgust due to the nature of the order.",
+    "critique": "The document is a formal executive order establishing the President's Intelligence Oversight Board. The primary goal is to ensure the legality of intelligence activities. The language is formal and legalistic. There is a sense of seriousness and responsibility, but no strong emotions are explicitly conveyed. Therefore, the initial scores should be relatively low across all emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
-        "disgust": 3,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     }
 }

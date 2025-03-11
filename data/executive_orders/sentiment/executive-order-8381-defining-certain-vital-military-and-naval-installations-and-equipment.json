@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 7,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is a formal declaration defining vital military and naval installations and equipment requiring protection. It invokes legal statutes and defines specific areas and equipment. The primary emotion conveyed is a sense of seriousness and caution, bordering on fear due to the context of national defense and potential threats. There's no explicit joy, sadness, or disgust. Surprise is minimal as the declaration is a logical step given the circumstances. Therefore, fear is the most prominent emotion, followed by a touch of surprise.Disgust: 1, Fear: 7, Joy: 1, Sadness: 1, Surprise: 3",
+    "critique": "The document is a formal declaration defining vital military and naval installations. It aims to establish legal restrictions and protect sensitive information. The primary emotion conveyed is a sense of seriousness and urgency related to national defense. There is a hint of fear regarding potential threats to national security, but it is not explicitly stated. There is no explicit joy, sadness, disgust, or surprise conveyed in the document. The scores are assigned based on this analysis.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 7,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

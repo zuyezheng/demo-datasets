@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 5,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order imposing sanctions on Burma due to its repression of the democratic opposition. The language is legal and technical, with no explicit emotional expression. However, the underlying intent to address human rights issues could evoke a sense of sadness and perhaps anger towards the Burmese government's actions. The order also conveys a sense of determination and resolve to take action. Considering the likely public reaction, the scores are as follows:",
+    "critique": "The document is a formal executive order imposing sanctions on Burma due to its repression of the democratic opposition. The primary emotion conveyed is a sense of disapproval and determination to address the situation. There is a hint of sadness related to the repression in Burma, and a sense of disgust at the actions of the Burmese government. There's also a sense of fear for the democratic opposition in Burma. Surprise is not really present.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 4,
+        "fear": 5,
+        "disgust": 6,
         "surprise": 1
     }
 }

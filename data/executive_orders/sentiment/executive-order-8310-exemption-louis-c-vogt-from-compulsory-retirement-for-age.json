@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal exemption from retirement for an individual. It doesn't express strong emotions. The president is conveying a neutral sentiment. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order from the President to exempt an employee from mandatory retirement. It is a legal document, and as such, it is unlikely to convey strong emotions. The primary emotion might be a mild sense of joy that the employee is allowed to continue working, but this is very subtle. There is no indication of sadness, anger, fear, disgust, or surprise. Therefore, I will assign low scores to all emotions, with a slightly higher score for joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

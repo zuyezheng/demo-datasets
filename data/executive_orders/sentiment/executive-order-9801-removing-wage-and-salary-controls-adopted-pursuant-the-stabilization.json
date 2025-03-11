@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the transition from war to a peace-time economy. The language is formal and legalistic, and the tone is neutral. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the termination of wage and salary controls. The primary emotion conveyed is one of resolution and transition. There is a slight sense of relief (joy) that the war-time controls are ending, but it's very subdued. There's no indication of sadness, anger, fear, disgust, or surprise. The scores should reflect this formal and neutral tone.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

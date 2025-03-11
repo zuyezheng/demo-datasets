@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. It doesn't express any particular emotion. The language is neutral and factual. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses no strong emotions. A baseline of 1 is appropriate for most emotions, with a slightly elevated sense of concern or surprise that the dispute has reached this level, meriting a score of 2 for surprise. There is no explicit joy, sadness, disgust, or fear conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

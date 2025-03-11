@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
-        "fear": 4,
-        "disgust": 5,
+        "fear": 1,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is an executive order outlining unlawful activities and their punishments within the Canal Zone. It focuses on preventing bribery and corruption. The language is formal and legalistic, aiming to establish clear rules and consequences. There's no explicit expression of emotions. However, the implicit emotions conveyed might be a sense of disgust towards corruption, a desire to instill fear of the consequences of illegal actions, and perhaps a subtle sense of joy in establishing order and fairness. The intensity of these emotions is likely to be perceived as moderate by the public, as it's a legal document rather than a personal statement.",
+    "critique": "The document is a formal executive order outlining unlawful activities and their punishments within the Canal Zone. It aims to establish clear rules and deter corruption. The language is legal and precise, lacking emotional expression. Therefore, the scores should be low across all emotions, with a slight emphasis on potential disgust and anger related to the prohibited activities.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 5,
-        "disgust": 6,
+        "fear": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

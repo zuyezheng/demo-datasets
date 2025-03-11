@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 3,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 2
     },
-    "critique": "The president is conveying a sense of urgency and determination in response to a national emergency. The document outlines the suspension of certain labor laws to expedite the construction of facilities crucial for supporting the Army and Navy. While there isn't a strong display of any particular emotion, a sense of surprise might be inferred due to the emergency situation. The scores are assigned based on this assessment.",
+    "critique": "The document is a formal order regarding labor during a national emergency. It primarily conveys a sense of urgency and necessity due to the emergency. There's no explicit expression of joy, sadness, fear, disgust, or surprise. However, the context implies a degree of concern (fear) about the national emergency and a need for immediate action (surprise). The order aims to address the situation efficiently, so I will assign low scores to all emotions except fear and surprise, which will be slightly higher.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 3,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 2
     }
 }

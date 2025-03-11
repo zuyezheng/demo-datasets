@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document primarily conveys a sense of responsibility and authority, with an underlying tone of reassurance. It outlines the rules and guidelines for the military occupation of Cuba, emphasizing the protection of the inhabitants' rights and property. There's a clear attempt to establish a sense of order and justice under the new administration. The emotions that the American public is expected to feel are a mix of joy (at the victory and establishment of order), and perhaps a touch of surprise at the detailed and seemingly benevolent approach to occupation. There's little to suggest fear, disgust, or sadness. The document does not contain information to suggest the president is trying to convey anger.",
+    "critique": "The document outlines the rules for the military occupation of Cuba by the United States. It emphasizes the protection of the inhabitants and their rights, while also establishing the authority of the occupying forces. The language is formal and legalistic, aiming to convey a sense of order and justice. There is a sense of responsibility and control, but not strong emotions. Therefore, the initial scores are relatively low across all emotions.",
     "revised_scores": {
-        "joy": 6,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

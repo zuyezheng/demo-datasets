@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land reservation for a bird refuge. It uses legal and administrative language. There is no explicit emotional expression. The implied sentiment is one of responsibility and conservation, but this is not strongly conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding land allocation for a bird refuge. It primarily uses legal and geographical descriptions. There is a sense of purpose and authority, but strong emotions are not explicitly conveyed. Therefore, most emotions should be scored low, with a slight emphasis on joy due to the positive impact on bird conservation.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

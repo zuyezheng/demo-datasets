@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document discusses the rescinding of an executive order related to the transportation of passengers from certain ports in the Orient due to a subsided epidemic. The language is formal and factual, focusing on the change in circumstances and the lifting of restrictions. There is no indication of strong emotions such as joy, sadness, anger, fear, disgust, or surprise. The primary sentiment conveyed is relief or a return to normalcy, but this is expressed in a neutral and official tone. Therefore, all emotions should be scored low, with a score of 1 indicating minimal emotional conveyance.",
+    "critique": "The document is a formal announcement rescinding a previous executive order regarding travel restrictions due to an epidemic. The primary emotion conveyed is relief that the situation has improved, but this is very mild. There's a slight sense of cautious optimism. There's no strong indication of joy, sadness, fear, disgust, or surprise. The scores should be low, reflecting the formal and factual nature of the document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

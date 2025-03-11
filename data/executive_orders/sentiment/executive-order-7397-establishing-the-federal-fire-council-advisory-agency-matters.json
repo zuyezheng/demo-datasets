@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the Federal Fire Council. It outlines the council's purpose, membership, and responsibilities. The language is formal and bureaucratic, with no indication of strong emotions. The primary goal is to establish an organization for fire safety, not to evoke any particular emotion in the public. Therefore, all emotions should be scored low, with a score of 1 indicating a minimal presence.",
+    "critique": "The document is a formal executive order establishing the Federal Fire Council. The language is very formal and procedural. There is no strong emotion conveyed. A score of 1 is appropriate for all emotions except perhaps a very mild sense of safety/security which could be interpreted as a very low level of joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

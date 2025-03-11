@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal request and approval for a military reservation. There is no explicit emotional language used. The likely emotions conveyed would be neutral, but there might be a slight sense of authority or decisiveness. Initial scores are set to 1 across all emotions, then adjusted slightly to reflect the context.",
+    "critique": "The document is a formal request from the War Department to the President to set aside land for a military reservation. The language is formal and bureaucratic. There is no strong emotion conveyed. The emotions that could be present are surprise because it is a formal document and sadness because it involves land that was once part of the Cheyenne and Arapaho Indian Reservation.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

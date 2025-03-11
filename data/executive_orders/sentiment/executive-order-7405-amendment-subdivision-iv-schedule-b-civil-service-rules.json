@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal amendment to Civil Service Rules, focusing on employment within the War Department outside the continental US. It cites legal authority and provides a specific exception. There's no explicit emotional language. The likely intended emotions are neutral, but a slight sense of authority and perhaps a hint of addressing a potential surprise or concern about employment rules might be present. Initial scores will reflect this, with low values for most emotions and a slightly higher value for surprise to account for the change in rules. Revised scores will be similar, but slightly adjusted after further consideration.",
+    "critique": "The document is a formal amendment to Civil Service Rules. It expresses no strong emotions. The language is neutral and bureaucratic. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

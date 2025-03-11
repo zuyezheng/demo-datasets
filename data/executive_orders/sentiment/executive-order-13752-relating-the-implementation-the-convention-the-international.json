@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the ratification of an international convention. It is unlikely to evoke strong emotions in the general public. The language is legal and procedural, not designed to elicit an emotional response. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal presidential order regarding the designation of a Central Authority for the Hague Convention on the International Recovery of Child Support. It is a legal and administrative document. Therefore, the emotions conveyed are minimal. Most emotions should be scored low, with a baseline of 1 where there isn't enough information to suggest otherwise. There is a slight sense of joy that the United States is ratifying the Hague Convention, and a slight sense of hope that the order will be implemented effectively. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

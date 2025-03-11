@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It does not convey any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order. It is unlikely to convey strong emotions. The emotions conveyed are likely to be very low. The document does not express any specific emotion strongly. Therefore, I will assign a low score to all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document discusses the extension of civil-service rules to Federal offices in Boston. The language is formal and bureaucratic, focusing on efficiency and order. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the action of extending civil service rules could be interpreted as a positive step towards a more organized and efficient government, potentially eliciting a mild sense of joy or relief in some members of the public. Given the lack of strong emotional cues, the scores should be low.",
+    "critique": "The document is a formal order extending civil-service rules. It expresses a sense of efficiency and formality. There is no explicit expression of joy, sadness, fear, disgust, or surprise. The language is neutral and objective, focusing on the practical implementation of the order. Therefore, the initial scores for all emotions are set to 1, indicating a minimal presence.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

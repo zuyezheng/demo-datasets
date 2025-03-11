@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the transfer of the War Relocation Authority. It uses formal and legal language. There is no explicit expression of emotion. The context is World War II, and the order deals with the relocation of people, which could be a source of sadness, fear, or disgust depending on one's perspective. However, the document itself remains neutral. Therefore, the initial scores should be low across all emotions, with a slight consideration for sadness and fear due to the nature of the order.",
+    "critique": "The document is a formal executive order regarding the transfer of the War Relocation Authority. It uses formal language and aims to be clear and direct. There is no explicit expression of emotions. However, considering the context of the War Relocation Authority, which was responsible for the internment of Japanese Americans during World War II, the order could implicitly convey a sense of sadness or fear, but these are not explicitly stated. Therefore, a neutral score is appropriate for most emotions, with a slightly elevated score for sadness due to the historical context.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

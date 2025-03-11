@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a legal order establishing a military reservation. It is unlikely to evoke strong emotions in the American public. The primary emotions might be a mild sense of surprise or perhaps a touch of fear, but overall, the emotional impact is minimal. Most scores should be low, with a slight bump for surprise and fear.",
+    "critique": "The document is a formal declaration establishing a military reservation. It primarily uses factual and technical language to define the area's boundaries and jurisdiction. There is no explicit emotional expression. Therefore, all emotions should be scored low, with a baseline of 1 to indicate a minimal presence due to the formal nature of the document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

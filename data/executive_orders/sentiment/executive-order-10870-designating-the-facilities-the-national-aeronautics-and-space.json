@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 5,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 3
     },
-    "critique": "The document expresses a formal declaration, naming a space flight center after George C. Marshall. The primary emotion conveyed is respect and admiration, which can be interpreted as a form of joy and surprise at the facilities being named after him. There's no indication of sadness, anger, fear, or disgust. The intensity is moderate as it's a formal announcement.",
+    "critique": "The document is a formal declaration naming a NASA facility after George C. Marshall. The primary emotion conveyed is respect and admiration, with a secondary element of hope for peaceful utilization of space. There's no explicit sadness, anger, fear, or disgust. Surprise is also minimal, as the naming is a deliberate act.",
     "revised_scores": {
         "joy": 5,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

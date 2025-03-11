@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 2,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration regarding the Veterans' Administration and its authority to acquire property for war purposes. The language is legal and administrative, with no explicit emotional expression. However, the context of supporting veterans and addressing wartime needs might evoke some degree of positive sentiment (joy) and concern (fear, sadness) related to the war's impact. The scores are based on the implied emotions related to the context of the document.",
+    "critique": "The document is a formal declaration regarding the Veterans' Administration and its authority to acquire property for war purposes. The language is legal and administrative, with no explicit emotional expression. However, the context of addressing the needs of veterans and the reference to war imply a sense of duty and perhaps underlying concern. Considering the formal tone and lack of overt emotional cues, the scores should be low, but not 1, to reflect the implicit context.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 2,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

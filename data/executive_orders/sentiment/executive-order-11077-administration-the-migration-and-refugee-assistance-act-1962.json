@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the Migration and Refugee Assistance Act of 1962. It primarily focuses on delegating responsibilities to the Secretary of State and the Secretary of Health, Education, and Welfare. The language is legal and administrative, lacking emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It primarily assigns responsibilities to different departments regarding migration and refugee assistance. The language is legal and procedural, with no overt emotional expression. Therefore, all emotions should be scored low, with a baseline of 1 to indicate minimal presence due to the formal nature of the document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

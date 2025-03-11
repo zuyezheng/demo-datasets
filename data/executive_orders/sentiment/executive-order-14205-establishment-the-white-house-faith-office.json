@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to establish a White House Faith Office and outlines its functions. The language is formal and legalistic, focusing on policy and implementation. There is an emphasis on religious liberty and partnerships with faith-based organizations. The primary emotion conveyed is Joy, as the document aims to empower faith-based entities. There is no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order. It expresses a commitment to supporting faith-based entities and protecting religious liberty. There is a sense of optimism and purpose, but it is conveyed in a measured and formal tone. Therefore, joy, sadness, fear, disgust, and surprise should be scored low, with joy being slightly higher due to the positive intent.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

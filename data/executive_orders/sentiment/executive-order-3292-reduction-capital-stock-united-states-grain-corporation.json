@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal presidential order regarding the reduction of the United States Grain Corporation's capital stock. It uses formal and legalistic language. There is no explicit emotional expression in the document. The president is simply executing a financial decision based on acts of Congress. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal presidential order regarding the reduction of the United States Grain Corporation's capital stock. The language is legal and administrative, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions, with a slight emphasis on confidence and decisiveness, which could be interpreted as a low level of joy and a slightly higher level of confidence. Considering it is a formal document, I will assign a baseline score of 1 to emotions that are not explicitly present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

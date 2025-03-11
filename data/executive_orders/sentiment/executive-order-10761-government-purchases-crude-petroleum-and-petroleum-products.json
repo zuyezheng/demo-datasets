@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding oil imports. It aims to address national security interests and ensure compliance with the Buy American Act. The language is legal and procedural, lacking emotional expression. Therefore, the expected emotional response from the public would be minimal across all emotions.",
+    "critique": "The document expresses concern about national security due to crude oil imports. It aims to ensure compliance with the Voluntary Oil Import Program and prioritize domestic petroleum products. The language is formal and legalistic, typical of executive orders. Initial scores: Joy: 1, Sadness: 3, Fear: 4, Disgust: 2, Surprise: 1. Revised scores: Joy: 1, Sadness: 3, Fear: 4, Disgust: 2, Surprise: 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 2,
         "surprise": 1
     }
 }

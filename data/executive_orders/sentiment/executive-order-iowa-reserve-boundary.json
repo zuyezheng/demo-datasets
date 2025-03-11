@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation in the Indian Territory. It uses formal and legal language. There is no indication of the president attempting to portray any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order regarding land allocation for Native American tribes. It's a legal and administrative document, so the primary emotions conveyed are neutral. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the act of setting aside land could be interpreted as a positive action (joy) for the tribes involved, or a negative one (sadness, fear) for others. Given the lack of explicit emotional content and the formal nature, I will assign low scores across the board, with a slightly higher score for potential surprise due to the unexpected nature of such orders.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

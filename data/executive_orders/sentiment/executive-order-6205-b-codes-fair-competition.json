@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. The president is not attempting to portray any particular emotion. The document is intended to be neutral and informative.",
+    "critique": "The document is a formal regulation regarding the National Industrial Recovery Act. It focuses on providing a fair process for those affected by the code of fair competition. The language is legal and procedural, with an emphasis on justice and due process. There is no explicit expression of emotions. However, the regulation aims to address potential injustices, which implicitly acknowledges the possibility of negative emotions like sadness or anger arising from unfair application of the code. The regulation also conveys a sense of hope that the code can be applied fairly. Therefore, I will assign low scores to sadness and hope, and a very low score to anger. The other emotions are not relevant.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

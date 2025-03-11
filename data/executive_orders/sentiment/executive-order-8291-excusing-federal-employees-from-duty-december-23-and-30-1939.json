@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The president is conveying joy by allowing federal employees to have a day off before Christmas and New Year's. The president is not conveying sadness, anger, fear, disgust, or surprise with the document. The intensity of joy is 3 because it is a simple day off.",
+    "critique": "The document is a formal order regarding government closures for specific dates. It does not express any strong emotions. The language is neutral and factual. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

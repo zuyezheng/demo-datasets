@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a military order regarding the State of Mississippi. It announces the cessation of the Fourth Military District and the reassignment of Mississippi to the Department of the Cumberland. The language is formal and bureaucratic, with no explicit emotional expression. However, the context suggests a sense of resolution and perhaps relief that the Reconstruction era is progressing. The order itself doesn't convey strong emotions, but the underlying implication of ending military control could evoke a subtle sense of joy or relief. However, without further information, it is difficult to gauge the intended emotion, so a score of 1 is appropriate for most emotions. Given the context of Reconstruction, there might be a slight sense of surprise at the progress, but it's not strongly conveyed.",
+    "critique": "The document is a formal military order. It primarily conveys information about the reorganization of a military district following the readmission of Mississippi to Congress. There is no explicit expression of emotions such as joy, sadness, fear, disgust, or surprise. The tone is neutral and administrative. Therefore, the initial scores for all emotions should be low, reflecting the lack of emotional content.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

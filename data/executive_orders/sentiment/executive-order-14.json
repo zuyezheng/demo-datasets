@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document primarily outlines pay scales for Navy personnel in the Commissary Branch. It's a factual document, so it's unlikely to evoke strong emotions. There might be a slight sense of joy if someone is receiving this pay, but overall, the emotional impact is minimal. Disgust, fear, and surprise are unlikely. Sadness could be present if someone feels the pay is inadequate, but it's not the primary emotion conveyed. I will set joy to 2 and sadness to 1, and the rest to 1.",
+    "critique": "The document outlines pay rates for Navy personnel in the Commissary Branch. It is a formal, factual document. There is no explicit emotional language used. Therefore, all emotions should be scored low. Considering that this is a formal document, I will assign a baseline score of 1 for all emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

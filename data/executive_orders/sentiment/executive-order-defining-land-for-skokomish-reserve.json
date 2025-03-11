@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding land allocation for the S\u2019Klallain Indians. It primarily uses formal and legal language. There is no explicit expression of emotions. However, one could argue there is a subtle sense of justice or fairness in protecting the rights of the S\u2019Klallain Indians, but this is not explicitly stated. Therefore, the scores should be relatively low across all emotions. Given the context, I will assign a slightly higher score to joy, as the order likely brought joy to the S'Klallain Indians.",
+    "critique": "The document is a formal executive order regarding land allocation for the S\u2019Klallain Indians. It primarily uses legal and geographical language. There is no explicit expression of emotions. However, the act of setting aside land for the use of the S\u2019Klallain Indians could be interpreted as a positive action, potentially conveying a sense of justice or fairness, which might relate to a low level of joy. There's no indication of sadness, fear, disgust, or surprise. Therefore, these emotions should be scored very low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

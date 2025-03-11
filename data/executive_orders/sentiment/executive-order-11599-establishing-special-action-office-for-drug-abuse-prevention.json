@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 2
+        "joy": 6,
+        "sadness": 7,
+        "fear": 5,
+        "disgust": 6,
+        "surprise": 4
     },
-    "critique": "The document expresses concern and determination to address drug abuse. It aims to convey a sense of urgency and resolve, but not necessarily strong emotions. The president is trying to show leadership and action, not to evoke strong emotions in the public. Therefore, the initial scores should be relatively low across all emotions.",
+    "critique": "The document expresses concern and determination to combat drug abuse. It acknowledges the alarming proportions of drug abuse and outlines measures to address the issue, including establishing a Special Action Office and appointing a Director. The emotions conveyed are primarily concern (leading to sadness), determination (leading to joy), and a sense of urgency (leading to fear and surprise). Disgust is also present due to the nature of drug abuse.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 2
+        "joy": 7,
+        "sadness": 8,
+        "fear": 6,
+        "disgust": 7,
+        "surprise": 5
     }
 }

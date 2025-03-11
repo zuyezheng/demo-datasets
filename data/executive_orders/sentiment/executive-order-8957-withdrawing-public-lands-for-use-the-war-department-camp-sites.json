@@ -6,11 +6,11 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order regarding land appropriation for the War Department. It doesn't express any particular emotion. The language is formal and objective. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order from the President regarding land withdrawal for War Department use. It's a legal and administrative document, so the emotional content is expected to be minimal. Initial scores should reflect this baseline, with most emotions scored low. After reflection, I will adjust the scores based on the slight undercurrent of seriousness implied by the context of wartime preparation.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

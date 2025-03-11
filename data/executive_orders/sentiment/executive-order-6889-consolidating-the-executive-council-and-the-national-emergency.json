@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily aims to consolidate government functions during a national emergency. The language is legalistic and bureaucratic, focusing on organization and authority. There is no explicit expression of emotions. However, the context of a national emergency might implicitly convey a sense of urgency or concern. Considering the content, context, and language, the most relevant emotions would be a low level of concern (fear) and perhaps a touch of hope (joy) that the actions will improve the situation. Disgust, surprise, and sadness are not really conveyed.",
+    "critique": "The document is a formal executive order. It aims to consolidate government functions during a national emergency. The language is formal and legalistic. There is no explicit expression of emotions. However, the underlying context of a national emergency might imply a sense of concern or urgency, but this is not directly stated. Therefore, most emotions should be scored low, with a slight consideration for concern.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 2,
         "fear": 2,
         "disgust": 1,
         "surprise": 1

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order. It is a formal and legal document. The president is not attempting to portray any emotion. The document is intended to be neutral and objective. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order. It aims to establish a Deficit Reduction Fund and ensure that deficit reduction is dedicated exclusively to reducing the deficit. The language is formal and legalistic, with no strong emotional expression. Therefore, the scores for all emotions should be relatively low. Considering it is a formal document, I will give a score of 1 for all emotions except for joy, which I will give a score of 2, as the act aims to improve the economy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

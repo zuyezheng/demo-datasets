@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the Public Works Acceleration Act. It outlines the roles and responsibilities of the Secretary of Commerce in assisting the President with the Act's implementation. The language is legal and procedural, with no explicit emotional expression. However, the act itself aims to accelerate public works, which could be interpreted as conveying a sense of hope or optimism (joy) for economic improvement and addressing unemployment. There might be a slight sense of surprise that such an act is needed. There is no indication of sadness, fear, or disgust. The initial scores reflect this assessment, with a low score for joy and surprise and minimal scores for other emotions. The revised scores remain similar, with a slight adjustment to joy to reflect the potential positive impact of the act.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and purpose in enacting the Public Works Acceleration Act. There's a slight sense of hope or joy that the act will improve the country, but it's very subdued. There's no strong indication of sadness, fear, disgust, or surprise. The initial scores reflect this assessment, with joy being slightly elevated and the other emotions set to a baseline of 1. The revised scores will remain the same, as the initial assessment aligns well with the document's tone and content.",
     "revised_scores": {
-        "joy": 4,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

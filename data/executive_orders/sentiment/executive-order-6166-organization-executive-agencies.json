@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order detailing the reorganization of various government agencies. It primarily focuses on transferring functions, abolishing agencies, and consolidating services for the sake of economy and efficiency. The language is legalistic and administrative, lacking any explicit emotional expression. Therefore, the expected emotional response from the American public would likely be minimal, with perhaps a slight sense of reassurance that the government is working to improve efficiency. Given the lack of emotional content, all initial scores are set to 1.",
+    "critique": "The document is a formal executive order detailing the reorganization of various government agencies. It primarily focuses on transferring functions, abolishing agencies, and consolidating services to improve efficiency and economy. The language is formal and legalistic, with no explicit emotional expression. However, the underlying intent to streamline government operations and reduce costs could be interpreted as a form of optimism or determination. Given the formal nature and lack of overt emotional cues, the scores should be low across all emotions, with a slight emphasis on joy due to the potential for positive outcomes from the reorganization.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration regarding airspace for national defense. It doesn't express any particular emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal declaration regarding airspace restrictions for national defense. It primarily conveys a sense of seriousness and authority. There's a hint of concern for national defense, but it's not overtly fearful. There's no indication of joy, sadness, or disgust. Surprise is also unlikely in such a formal announcement.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

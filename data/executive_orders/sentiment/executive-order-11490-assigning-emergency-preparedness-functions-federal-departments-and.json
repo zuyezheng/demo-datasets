@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 6,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order outlining emergency preparedness functions across various government departments. The language is legalistic and procedural. The primary emotion conveyed is a sense of urgency and preparedness in the face of potential national emergencies, including nuclear attack. Fear is present due to the nature of the emergencies being planned for. Surprise, disgust, joy, and sadness are not significantly conveyed.",
+    "critique": "The document is a formal executive order outlining emergency preparedness functions across various government departments. The primary emotion conveyed is a sense of urgency and seriousness regarding national security. There is an underlying sense of fear related to potential threats, but it is presented in a formal, controlled manner. There is no indication of joy, surprise, or disgust. Sadness is not directly expressed, but the context of preparing for a national emergency implies a potential for loss and suffering.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 6,
         "disgust": 1,
         "surprise": 1

@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the Office of Defense Health and Welfare Services. It focuses on coordinating health and welfare services during the national emergency declared in 1941. The language is formal and bureaucratic, aiming to establish structure and authority. There is no explicit expression of emotions. However, the context of a national emergency might evoke some level of fear and concern among the public. The order aims to provide assurance and coordination, which could be interpreted as a response to potential fear or uncertainty. Considering the lack of emotional language, the initial scores should be low, with a slight increase in fear due to the context of a national emergency.",
+    "critique": "The document is a formal executive order establishing the Office of Defense Health and Welfare Services. It primarily conveys a sense of urgency and determination to address the national emergency. There is a slight undercurrent of concern for the health and welfare of citizens, but the overall tone is official and procedural. Therefore, joy, surprise, disgust, fear, and sadness are minimal. The initial scores reflect this assessment.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 3,
         "disgust": 1,
         "surprise": 1

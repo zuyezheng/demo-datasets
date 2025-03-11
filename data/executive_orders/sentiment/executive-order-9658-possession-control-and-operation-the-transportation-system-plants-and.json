@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 5,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The document is a presidential order addressing a labor dispute affecting transportation during a wartime emergency. The primary emotion conveyed is a sense of urgency and necessity to maintain essential services. There's an element of concern about the war effort being impeded. There isn't necessarily joy, sadness, or surprise. Disgust is not applicable. Fear is present due to the war effort being impeded. The order is a formal declaration, so the emotions are somewhat muted, but the context of wartime elevates the concern. The initial scores reflect this, with fear being the highest, followed by a low level of concern. The revised scores are similar, with a slight adjustment to reflect the overall tone.",
+    "critique": "The document expresses a tone of urgency and determination to resolve a labor dispute affecting wartime efforts. It uses formal and legalistic language, focusing on the necessity of government intervention to maintain essential services. The emotions conveyed are primarily related to concern for national interest and the need for decisive action, rather than personal feelings. Therefore, the initial scores reflect a moderate level of concern (fear), a slight sense of urgency (surprise), and minimal levels of other emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 6,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

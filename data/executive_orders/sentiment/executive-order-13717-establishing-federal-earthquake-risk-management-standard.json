@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding earthquake safety. It is a formal and legal document. The primary emotions conveyed are related to ensuring safety and resilience, but these are not emotions that the public would directly feel. The document aims to inspire confidence and security, but it's unlikely to evoke strong emotions. Therefore, all initial scores are set to 1.",
+    "critique": "The document is a formal executive order regarding earthquake safety. It aims to improve the nation's resilience to earthquakes and promote public safety. The language is formal and legalistic, with no overt expression of emotions. However, there is an implicit sense of responsibility and concern for public safety, which could be interpreted as a low level of care and concern. Therefore, I will assign low scores for sadness, fear, and concern, and a very low score for joy, disgust, and surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

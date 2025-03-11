@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement about closing government offices on December 24, 2001. It's unlikely to evoke strong emotions. The most relevant emotion might be joy, as people get a day off, but it's not explicitly conveyed. Other emotions are not relevant.",
+    "critique": "The document is a formal executive order regarding the closure of federal government departments and agencies on December 24, 2001. It conveys no strong emotions. The primary purpose is to communicate a decision and provide instructions. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

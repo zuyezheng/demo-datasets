@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation. It revokes a previous order withdrawing land from public sale for Indian purposes and restores the land to the public domain. The language is legal and administrative, devoid of emotional expression. Therefore, the expected emotional response from the American public would be minimal across all emotions.",
+    "critique": "The document is a formal executive order regarding land withdrawal and restoration. It uses formal language and aims to be clear and direct. There is no explicit expression of emotions. However, the act of restoring land to the public domain might be interpreted as a positive action, potentially conveying a slight sense of joy or satisfaction. Conversely, the revocation of a previous order could imply a correction of a past decision, possibly suggesting a mild sense of regret or dissatisfaction. Given the formal nature and lack of emotional language, the scores should be low.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

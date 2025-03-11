@@ -6,10 +6,10 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation. It revokes a previous order that had set aside land for the Crow tribe and restores the land to the public domain. There is no explicit emotional language used. The likely emotions conveyed would be sadness for the Crow tribe, but this is not explicitly stated. The order is written in a neutral, factual tone, so the scores should be low across all emotions. Given the lack of emotional indicators, I will assign a baseline score of 1 for all emotions initially. Upon review, while the document itself is neutral, the action of revoking land from a tribe could evoke sadness. However, without further context, it's difficult to gauge the intensity. Therefore, I'll slightly increase the sadness score to 2, while keeping the others at 1.",
+    "critique": "The document is a formal executive order regarding land allocation. It primarily concerns legal and administrative matters. There is no explicit expression of emotions such as joy, sadness, fear, disgust, or surprise. The tone is neutral and objective, as expected in such documents. Therefore, the initial scores for all emotions should be low, reflecting the absence of emotional content.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

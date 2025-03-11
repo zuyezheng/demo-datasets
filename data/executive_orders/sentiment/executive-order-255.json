@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of regulations regarding promotions in the customs service. It is unlikely to evoke strong emotions in the American public. The language is formal and bureaucratic, and the content is specific to a particular government function. Therefore, all emotions are scored low.",
+    "critique": "The document is a formal announcement of regulations regarding promotions in the customs service. It is a dry, procedural document with little emotional content. Therefore, the initial scores for all emotions should be low. I will set all initial scores to 1, indicating a minimal presence of each emotion.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

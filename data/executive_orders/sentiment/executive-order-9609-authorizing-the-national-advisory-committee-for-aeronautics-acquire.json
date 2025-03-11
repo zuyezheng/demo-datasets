@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal authorization related to the Second War Powers Act. It grants the National Advisory Committee for Aeronautics the authority to acquire and dispose of property for war purposes. There is no explicit emotional content in the text. The language is legal and administrative, not designed to evoke any particular emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal authorization for the National Advisory Committee for Aeronautics to acquire property for war purposes. It is a legal document, and as such, it does not express strong emotions. The primary emotion might be a sense of purpose or determination, but it is very subdued. Therefore, I will assign low scores across the board, with a slightly higher score for purpose/determination which I will represent with joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

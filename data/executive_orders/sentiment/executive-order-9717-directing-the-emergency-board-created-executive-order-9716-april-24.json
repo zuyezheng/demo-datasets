@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. It aims to convey a sense of authority and concern for maintaining essential transportation services. There is no explicit expression of emotions. However, implicit emotions can be derived from the context. The president expresses concern (leading to a low fear score), a sense of duty (no joy score), and perhaps a slight level of disgust or surprise that the situation has escalated to this point (low scores). Sadness is not relevant in this context. The initial scores reflect these considerations, with low values for fear, disgust, and surprise, and a zero value for joy and sadness. The revised scores are slightly adjusted to better reflect the subtle emotional undertones.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses concern about potential disruption to interstate commerce. The primary emotion conveyed is concern, which can be interpreted as a low level of fear and sadness due to the potential negative consequences of the dispute. There's no explicit joy, disgust, or surprise expressed. The language is formal and legalistic, so the emotional intensity is relatively low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 3,
-        "disgust": 2,
-        "surprise": 2
+        "disgust": 1,
+        "surprise": 1
     }
 }

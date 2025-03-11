@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and official procedure rather than any strong emotion. Therefore, all emotions should be scored relatively low. There's a very slight sense of surprise due to the suspension of a previous order, but it's minimal. The initial scores reflect this assessment.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and purpose, but it does not express strong emotions. The order suspends a previous order and establishes a committee to study personnel matters. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

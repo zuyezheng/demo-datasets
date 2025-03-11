@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document expresses a tone of resolution and optimism regarding the national economy and the return to free collective bargaining. The President aims to convey a sense of stability and progress. There's a hint of relief that stabilization measures are no longer necessary. It is unlikely to invoke strong emotions. The document is formal and legalistic, which tends to suppress strong emotional responses. Therefore, the initial scores are relatively low across all emotions.",
+    "critique": "The document is a formal executive order regarding wage and salary stabilization. It expresses a sense of resolution and a return to normal economic processes. There is a slight sense of optimism and relief conveyed through the language, but overall, the tone is neutral and official. Therefore, joy, sadness, fear, disgust, and surprise should be scored low, with joy being slightly higher than the others.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

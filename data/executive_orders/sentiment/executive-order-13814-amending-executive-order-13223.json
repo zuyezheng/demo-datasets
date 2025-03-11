@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 5,
-        "disgust": 1,
-        "surprise": 4
+        "fear": 4,
+        "disgust": 2,
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order. It invokes the National Emergencies Act and references the terrorist attacks of September 11, 2001. The language is legal and procedural. The primary emotion conveyed would be fear and surprise due to the invocation of emergency powers, but sadness may also be conveyed due to the reference of the terrorist attacks. There is no indication of joy or disgust. The scores are on a scale of 1-10.",
+    "critique": "The document is a formal executive order. It invokes the National Emergencies Act and references the terrorist attacks of September 11, 2001. The language is legal and procedural. Given the context, there is a sense of seriousness and resolve, but emotions are largely suppressed in favor of formal language. Therefore, joy is 1, sadness is 3, fear is 4, disgust is 2, and surprise is 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 5,
-        "disgust": 1,
-        "surprise": 4
+        "fear": 4,
+        "disgust": 2,
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
-        "disgust": 2,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order amending a previous order. It outlines the powers of the National Labor Board and the Compliance Division of the National Recovery Administration. The language is formal and legalistic. There is no explicit expression of emotion. However, the order addresses labor disputes and compliance, which could be associated with negative emotions like anger, fear, or disgust if an employer is not following section 7(a). However, without additional context, it is difficult to assess the intensity of these emotions. The order could also be interpreted as conveying a sense of joy if it is seen as protecting workers' rights. Surprise and sadness are unlikely to be conveyed in this document. I will assign low scores to all emotions, with a slightly higher score for potential negative emotions.",
+    "critique": "The document is a formal executive order amendment. It discusses labor relations and compliance. The language is legal and procedural, not designed to evoke strong emotions. Therefore, the emotion scores should be low, with a baseline of 1 for emotions not explicitly present.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
-        "disgust": 2,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

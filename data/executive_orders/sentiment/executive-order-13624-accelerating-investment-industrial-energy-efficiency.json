@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 5,
         "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 4
     },
-    "critique": "The document primarily conveys a sense of optimism and determination to improve American manufacturing and energy efficiency. There's a focus on collaboration and achieving specific goals. Therefore, joy and surprise are the most relevant emotions. There's no indication of anger, fear, or disgust. Sadness is not explicitly present, but a low score might reflect the acknowledgement of current challenges that need to be addressed.",
+    "critique": "The document is a formal executive order focused on promoting American manufacturing through energy efficiency. It aims to reduce energy costs, improve competitiveness, and create jobs. The language is formal and policy-oriented. There's a sense of optimism and determination to achieve these goals, but it's conveyed in a professional and measured tone. Therefore, the scores should reflect this formal and optimistic tone, with low scores for negative emotions and moderate scores for positive emotions like joy and surprise (at the potential benefits).",
     "revised_scores": {
-        "joy": 7,
+        "joy": 5,
         "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 4
     }
 }

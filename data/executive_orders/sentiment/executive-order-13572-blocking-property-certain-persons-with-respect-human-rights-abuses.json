@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 2
+        "sadness": 5,
+        "fear": 7,
+        "disgust": 6,
+        "surprise": 1
     },
-    "critique": "The document is an executive order regarding sanctions on Syria due to human rights abuses. The primary emotion conveyed is a sense of seriousness and determination to address a threat. There might be a hint of sadness or anger related to the human rights abuses, but the overall tone is formal and focused on the legal and practical aspects of the sanctions. The order aims to evoke a sense of resolve and perhaps a degree of fear in those targeted by the sanctions.",
+    "critique": "The document is a formal executive order addressing the situation in Syria. It expresses concern over human rights abuses and declares a national emergency. The primary emotions conveyed are related to the severity of the situation and the need for action. There is a sense of sadness and disgust at the human rights abuses, and a sense of fear regarding the threat to national security. There's no joy or surprise conveyed in this document. The initial scores reflect these observations, with sadness, fear, and disgust being the most prominent emotions. The revised scores are adjusted to better reflect the formal tone and the specific context of the document.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 5,
-        "disgust": 4,
-        "surprise": 2
+        "sadness": 6,
+        "fear": 8,
+        "disgust": 7,
+        "surprise": 1
     }
 }

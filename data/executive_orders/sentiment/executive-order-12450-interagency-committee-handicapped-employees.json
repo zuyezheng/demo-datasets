@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily concerns administrative changes, specifically amending a previous executive order regarding the Rehabilitation Act of 1973. There is no indication of an attempt to portray any particular emotion. The language is formal and procedural. Therefore, all emotions should be scored as 1, indicating a neutral emotional tone.",
+    "critique": "The document is a formal executive order, so the emotions conveyed are minimal. The primary emotion might be a slight sense of importance or authority, but it's very subdued. Therefore, I will assign low scores across all emotions, with a slightly higher score for authority which can be interpreted as joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

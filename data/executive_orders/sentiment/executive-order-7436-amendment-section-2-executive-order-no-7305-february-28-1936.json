@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 2,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an amendment to an executive order regarding emergency crop loans. It specifies loan amounts and conditions. The language is formal and legalistic. There is no explicit emotional expression. However, one could argue there is a subtle element of joy in providing relief to farmers, but it's very understated. There's no indication of sadness, anger, fear, disgust, or surprise. Therefore, the initial scores should be very low across the board, with a slightly higher score for joy.",
+    "critique": "The document is a formal amendment to an executive order regarding emergency crop loans. The language is legal and administrative. There is no explicit expression of emotion. However, the act of providing relief suggests a degree of concern for the farmers' situation, which could be interpreted as a low level of sadness that the farmers are in need and a low level of joy that the government is providing help. There is no indication of anger, fear, disgust, or surprise.",
     "revised_scores": {
         "joy": 2,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

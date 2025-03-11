@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 3,
+        "sadness": 4,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding the reconstruction and development planning in Alaska following the 1964 earthquake. It establishes committees and outlines their functions. The language is formal and bureaucratic. There is no strong emotional sentiment conveyed. The primary goal is to establish a framework for coordinated action. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the reconstruction and development planning in Alaska following the 1964 earthquake. It establishes committees and outlines their functions. The primary emotion conveyed is a sense of responsibility and determination to address the situation in Alaska. There is a hint of sadness due to the earthquake, but the focus is on moving forward. There is no anger, fear, or disgust present. Surprise is not a prominent emotion.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 3,
+        "sadness": 4,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

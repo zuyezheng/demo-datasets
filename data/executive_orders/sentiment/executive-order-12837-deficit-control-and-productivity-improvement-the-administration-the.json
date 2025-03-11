@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding budget requests for executive departments and agencies. The language is formal and legalistic. The purpose of the order is to reduce administrative costs. There is no explicit emotional language. However, a sense of determination and perhaps slight optimism (that the order will improve administrative productivity) might be inferred. The order is unlikely to evoke strong emotions in the American public. Therefore, the initial scores are set low, with a slight increase in joy to represent the optimism.",
+    "critique": "The document is a formal executive order. It expresses a sense of determination to control the Federal deficit and improve administrative productivity. There is no explicit expression of emotions like joy, sadness, fear, disgust, or surprise. However, there is an underlying sense of seriousness and resolve. The order aims to address a problem (Federal deficit) and implement solutions. Therefore, the emotion scores should reflect this underlying tone, with low scores for emotions not directly related to the document's purpose and higher scores for emotions that align with the seriousness of the situation.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

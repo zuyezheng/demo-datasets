@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order issued by President Eisenhower. It addresses a labor dispute and establishes a board to investigate. The language is formal and legalistic, aiming to convey a sense of authority and impartiality. There's no explicit attempt to evoke strong emotions in the public. However, the underlying context of a potential disruption to interstate commerce might cause some anxiety or concern. The president is trying to convey a sense of calm and control, assuring the public that the situation is being handled. Therefore, I would expect low scores for most emotions, with a slightly higher score for fear due to the potential disruption of services.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses a sense of urgency and importance due to the potential disruption of interstate commerce. However, it maintains a neutral tone, focusing on the legal and procedural aspects of resolving the dispute. Therefore, the initial scores should reflect this neutrality, with low values for most emotions and a slightly higher value for concern or seriousness.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

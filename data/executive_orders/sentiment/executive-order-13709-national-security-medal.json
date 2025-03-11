@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding the National Security Medal. It primarily focuses on policy and procedure. There's no strong indication of any particular emotion being conveyed. The language is formal and legalistic. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the National Security Medal. It primarily focuses on policy and procedure. There is a sense of respect for distinguished achievements, but no strong emotions are explicitly conveyed. Therefore, most emotions should be scored low, with a slightly higher score for joy due to the recognition of achievements.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

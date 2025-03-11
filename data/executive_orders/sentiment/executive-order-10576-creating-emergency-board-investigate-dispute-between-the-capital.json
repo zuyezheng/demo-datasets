@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. The language is legalistic and factual, with no explicit emotional expression. However, the situation implies a sense of concern and urgency due to the potential disruption of essential transportation services. \n\nInitial assessment:\n*   Joy: 1 (no indication of joy)\n*   Sadness: 2 (slight concern about the dispute)\n*   Anger: 1 (no indication of anger)\n*   Fear: 3 (potential disruption of services might cause some fear)\n*   Disgust: 1 (no indication of disgust)\n*   Surprise: 1 (no indication of surprise)\n\nRevised assessment:\n*   Joy: 1 (no indication of joy)\n*   Sadness: 2 (slight concern about the dispute)\n*   Anger: 1 (no indication of anger)\n*   Fear: 3 (potential disruption of services might cause some fear)\n*   Disgust: 1 (no indication of disgust)\n*   Surprise: 1 (no indication of surprise)",
+    "critique": "The document is a formal executive order addressing a labor dispute. It aims to convey a sense of authority and impartiality. There is minimal emotional content. The initial scores reflect this, with low values across all emotions. The revised scores remain low, with slight adjustments to reflect the document's serious tone.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 3,
-        "disgust": 1,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the exemption of an individual from compulsory retirement. It does not contain strong emotional language. The primary emotion might be a slight surprise due to the unusual nature of the exemption, but overall, the emotional intensity is low.",
+    "critique": "The document is a formal executive order regarding the exemption of an individual from compulsory retirement. It is a legal document, and as such, it is unlikely to convey strong emotions. The primary emotion might be a mild sense of approval or satisfaction in ensuring the continued service of a valuable individual, but this would be very subtle. Given the formal nature, most emotions would be scored low.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

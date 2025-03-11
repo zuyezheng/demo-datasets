@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding export controls on encryption products. It is primarily legal and administrative in nature. The language is formal and technical, with no overt emotional appeals. Therefore, the expected emotional response from the American public would be minimal across all emotions. Most people will likely not read it and those who do are unlikely to have a strong emotional reaction.",
+    "critique": "The document is a formal executive order regarding export controls on encryption products. It aims to protect national security and foreign policy interests. The language is legal and procedural, with no explicit emotional expression. Therefore, all emotions are scored low initially.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

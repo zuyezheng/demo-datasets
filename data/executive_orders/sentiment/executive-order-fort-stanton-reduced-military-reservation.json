@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding land allocation for the Mescalero Apaches. It primarily uses formal and legal language. There is no explicit expression of emotions. However, the act of setting aside land for the use of the Mescalero Apaches could be interpreted as a positive action, potentially evoking a sense of joy or relief. Conversely, the cancellation of the previous order might evoke sadness or disappointment. Given the lack of explicit emotional cues, the scores should be relatively low. The document does not convey anger, fear, or surprise.",
+    "critique": "The document is a formal executive order regarding land allocation for the Mescalero Apaches. It primarily uses legal and geographical language. There is no explicit expression of emotions. However, the act of setting aside land for the use of the Apaches could be interpreted as a sign of goodwill, but this is not explicitly stated. Therefore, a neutral emotional tone is the most accurate assessment. Considering that there isn't enough information to score the emotions, a score of 1 is appropriate for each emotion.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

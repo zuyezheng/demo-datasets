@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 4,
-        "disgust": 3,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order addressing domestic violence and disorder. It authorizes the Secretary of Defense to take necessary actions, including using the Armed Forces and calling the National Guard, to restore law and order. The language is formal and authoritative, reflecting the gravity of the situation.The president is likely conveying a sense of seriousness and determination to address the violence. This could translate to a mix of concern (sadness/fear) about the situation and resolve (lack of joy, disgust towards violence). The order aims to restore order, so surprise is not a major factor.",
+    "critique": "The document is a formal presidential order addressing domestic violence and disorder. It authorizes the Secretary of Defense to take necessary actions, including deploying armed forces and calling National Guard units, to restore law and order. The primary emotion conveyed is a sense of urgency and resolve to address the situation. While there's no explicit expression of sadness, fear, joy, disgust, or surprise, the context implies a degree of concern and determination. Therefore, I will assign low scores to sadness, fear, disgust, and surprise, and a slightly higher score to resolve, which can be interpreted as a muted form of anger or determination to act. Joy is not present.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 5,
-        "disgust": 4,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
         "surprise": 1
     }
 }

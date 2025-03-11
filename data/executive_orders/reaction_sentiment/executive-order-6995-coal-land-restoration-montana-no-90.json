@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a revocation of previous executive orders regarding land withdrawal. The tone is formal and legalistic. The primary emotion the President might want to elicit is relief or satisfaction from those who can now access the land. There isn't strong language to suggest intense emotions. Joy might be a 3, as it could enable some people to use the land. Sadness, fear, disgust, and surprise are likely low, as the document is a technical correction. I will set them to 1 initially. After further consideration, the document is very dry and unlikely to elicit much emotion. I will revise the joy score down to 2 and leave the others at 1.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

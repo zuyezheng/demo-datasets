@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily focuses on establishing policies and procedures for government employment suitability and access to classified information. The language is legalistic and procedural, lacking emotional expression. Therefore, the expected emotional response from the American public would be minimal across all emotions.",
+    "critique": "The document is a formal executive order. It aims to establish policies and procedures for government employment suitability, contractor employee fitness, and access to classified information. The language is formal and legalistic, with no explicit emotional expression. However, there's an implicit sense of responsibility and determination to protect national security and ensure fair treatment. Given the formal nature, the emotional scores should be low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

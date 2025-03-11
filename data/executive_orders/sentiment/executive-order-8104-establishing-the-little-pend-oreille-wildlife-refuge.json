@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a wildlife refuge. The language is legal and administrative, with no explicit emotional expression. However, the act of preserving land for wildlife could be seen as conveying a sense of joy or hope for the future. Conversely, the restrictions on hunting and disturbing wildlife might evoke a sense of sadness or disgust in those who oppose such measures. Given the formal nature and focus on legal details, the overall emotional impact is likely to be minimal. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy due to the positive aspect of wildlife preservation.",
+    "critique": "The document is a formal executive order establishing a wildlife refuge. It primarily uses legal and administrative language. There is a sense of joy in preserving wildlife, but it is very subdued. There is no indication of sadness, fear, disgust, or surprise. The scores should reflect the formal and factual nature of the document.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

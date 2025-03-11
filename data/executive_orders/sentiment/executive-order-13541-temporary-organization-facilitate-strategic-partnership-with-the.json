@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the Iraq Strategic Partnership Office (ISPO). The language is legal and bureaucratic, with the purpose of outlining the structure, functions, and responsibilities of the new office. There is no explicit emotional language or appeals to sentiment. The order focuses on establishing a strategic partnership with Iraq and ensuring stability in the region. Therefore, the expected emotional response from the American public would likely be neutral. However, some people may feel joy that the US is continuing to help Iraq. Others may feel fear that the US is still involved in Iraq. Others may feel disgust that the US is still involved in Iraq. Others may feel sadness that the US is still involved in Iraq. Others may feel surprise that the US is still involved in Iraq. I will assign low scores across the board, with a slightly higher score for joy, fear, disgust, sadness, and surprise.",
+    "critique": "The document is a formal executive order establishing the Iraq Strategic Partnership Office (ISPO). The language is legal and procedural. There is no strong emotional language. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

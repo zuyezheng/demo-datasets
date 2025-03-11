@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order outlining the rules and regulations for the Federal Emergency Relief Act of 1933. It is primarily administrative and legal in nature, with the goal of establishing clear guidelines for the distribution of relief funds and the organization of relief efforts at the state level. The language is formal and precise, focusing on authorization, control, responsibility, and appointment. There is no explicit expression of emotions such as joy, sadness, anger, fear, disgust, or surprise. However, the order's focus on emergency relief suggests an underlying concern for the well-being of the population during a time of crisis, which could be interpreted as a subtle expression of compassion or a desire to alleviate suffering. However, given the formal and detached tone, the emotional impact on the American public is likely to be minimal. Therefore, the initial scores for all emotions are set to 1, indicating a low level of emotional conveyance.",
+    "critique": "The document outlines rules and regulations for the Federal Emergency Relief Act of 1933. It is a formal and legal document. There is no explicit expression of emotions. However, the act of providing relief might imply a sense of joy and reduced sadness, but these are not explicitly stated. The document focuses on authorization, control, and administration, suggesting a neutral tone with a hint of authority. Therefore, most emotions are scored low, with a slightly higher score for joy due to the positive impact of relief efforts.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

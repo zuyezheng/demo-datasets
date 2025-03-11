@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 2,
         "fear": 4,
         "disgust": 3,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is an executive order regarding actions and policies of the Federal Republic of Yugoslavia (Serbia and Montenegro). The language is formal and legalistic. The order prohibits certain transactions and regulates trade and financial transactions. The overall tone is serious and resolute, reflecting a concern about the situation in the Federal Republic of Yugoslavia. Based on this, the primary emotions conveyed would be concern and resolve, with a hint of potential fear or disgust related to the actions that prompted the order. There's no indication of joy or surprise. The order aims to address a problem, so sadness might be a secondary emotion.",
+    "critique": "The document is a formal executive order addressing actions and policies of the Federal Republic of Yugoslavia. It conveys a sense of seriousness and determination to address a national emergency. There is a sense of resolve and authority, but no strong display of emotions like joy, sadness, or surprise. Fear and disgust are possible due to the nature of emergency and prohibited actions, but they are not explicitly stated. The initial scores reflect this assessment.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 5,
-        "disgust": 4,
-        "surprise": 1
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 2
     }
 }

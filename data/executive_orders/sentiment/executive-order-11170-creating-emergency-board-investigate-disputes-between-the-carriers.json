@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order issued by President Lyndon B. Johnson. It establishes a board to investigate disputes between railway carriers and their employees. The language is legalistic and procedural. There is no explicit expression of emotion. However, the context suggests a sense of urgency and concern for maintaining essential transportation services, which could imply a degree of worry or perhaps a desire to project an image of calm and control in the face of a potential crisis. The scores are based on the assumption that the public would perceive a low level of worry and a moderate level of calm/control.",
+    "critique": "The document is a formal executive order issued by President Lyndon B. Johnson. It establishes a board to investigate disputes between railway carriers and their employees. The language is legalistic and aims to convey a sense of authority and impartiality. There is no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. The document's purpose is to address a potential disruption to interstate commerce, emphasizing the importance of essential transportation services. Therefore, the emotion scores should be low, reflecting the formal and neutral tone.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal announcement regarding the exemption of August G. Ahlfont from compulsory retirement. It does not express any strong emotions. The language is formal and legalistic, suggesting neutrality. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order from the President to exempt a chief engineer from compulsory retirement. The language is formal and legalistic. There is no explicit expression of emotions. However, there might be a slight sense of joy that the engineer is allowed to continue his service, and a slight sense of surprise that an exception is being made. All other emotions are not present.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

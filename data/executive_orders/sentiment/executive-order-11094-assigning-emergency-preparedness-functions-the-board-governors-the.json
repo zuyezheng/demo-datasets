@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 5,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The document is an executive order outlining emergency preparedness measures for various government agencies. The primary emotion conveyed is **fear** due to the context of preparing for a national emergency, including potential attacks. There's also a sense of **surprise** implied, as the order addresses unexpected events. There is no explicit joy, sadness, disgust, or anger conveyed in the document. The intensity of fear is moderate, as the document is a formal plan, not a direct expression of panic. The surprise is also moderate, as it's about preparing for unforeseen circumstances, not a reaction to a specific event.",
+    "critique": "The document is a formal executive order outlining emergency preparedness measures for various government agencies. The primary emotion conveyed is a sense of seriousness and urgency due to the potential for a national emergency, including an attack on the United States. There is a focus on preparedness and ensuring the continuity of government and essential services. The language is formal and bureaucratic, reflecting the official nature of the document. Given the context, I will score the emotions accordingly.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 5,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     }
 }

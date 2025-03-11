@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding civil service rules and background investigations. It is primarily legal and administrative in nature. There is no indication of any specific emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order focused on amending civil service rules and executive orders related to vetting processes for government employment and access to classified information. The language is legalistic and procedural. There is no expression of personal emotions. The document aims to ensure loyalty, reliability, and trustworthiness within the government workforce. Therefore, the emotions conveyed are minimal and primarily related to the importance of security and order.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

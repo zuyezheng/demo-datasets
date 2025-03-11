@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the Federal Energy Office. It primarily deals with legal and administrative matters. There is no strong indication of any particular emotion being conveyed. The language is formal and objective. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing the Federal Energy Office. The language is legal and administrative, with no explicit emotional expression. Therefore, all emotions should be scored low, with a baseline of 1 to indicate the presence of the document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

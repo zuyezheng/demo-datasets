@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to establish a task force to help legal immigrants integrate into American society. The language is formal and bureaucratic, focusing on the structure and function of the task force. There is no strong emotional sentiment conveyed in the document. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It aims to integrate legal immigrants into American society. There is a sense of purpose and resolve, but emotions are largely absent. Therefore, most scores should be low.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

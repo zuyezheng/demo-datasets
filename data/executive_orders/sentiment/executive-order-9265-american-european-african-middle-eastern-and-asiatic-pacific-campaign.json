@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The president is conveying a sense of duty and pride in the military. There is a slight hint of joy and surprise that the war is coming to an end. There is no sadness, anger, fear, or disgust conveyed in the document.",
+    "critique": "The document is a formal order establishing campaign medals for service members during World War II. It expresses a sense of duty and formality, with no strong emotions conveyed. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document expresses a formal and official tone regarding an international military encampment. The president is directing the Secretary of Treasury to allow foreign soldiers entry without customs duties. There's no explicit emotional language used. However, a slight sense of joy and surprise might be inferred due to the encampment being a commemoration and the acceptance of the invitation by foreign representatives. Fear, disgust, and sadness are not apparent in the text. The initial scores reflect this assessment, with low values for joy and surprise and minimal values for the other emotions. The revised scores refine these values based on a more conservative interpretation of the text, further reducing the intensity of joy and surprise.",
+    "critique": "The document is a formal directive regarding the entry of foreign soldiers into the United States for a military encampment. The language is neutral and bureaucratic, with no strong emotions expressed. Therefore, the initial scores should be low across all emotions. The revised scores should remain low, reflecting the document's objective and unemotional nature.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

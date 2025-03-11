@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order establishing an environmental award program. The language is legal and procedural, with a focus on establishing the program's structure, eligibility, and administration. There is no strong emotional sentiment conveyed in the document. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing an environmental award program. It aims to promote environmental awareness and recognize achievements in conservation and environmental protection. The language is formal and legalistic, with no strong emotional expression. Therefore, the scores for all emotions should be relatively low. There might be a slight sense of joy and surprise due to the positive nature of the awards program, but it's minimal.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

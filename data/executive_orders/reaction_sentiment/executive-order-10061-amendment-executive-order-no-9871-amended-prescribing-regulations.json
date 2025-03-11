@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order amending regulations for allowances for military personnel. The tone is formal and bureaucratic. The primary emotion the President wants to elicit is a sense of order and fairness in compensating service members for their expenses. There's no intention to evoke strong emotions like joy, sadness, anger, fear, disgust, or surprise. The changes are incremental and technical. Therefore, most scores should be low, reflecting the lack of emotional intent.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

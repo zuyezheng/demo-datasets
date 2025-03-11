@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the Fort Peck Game Range. It focuses on land management, conservation, and the protection of wildlife resources. The language is legal and administrative, lacking emotional tone. The primary goal is to establish a legal framework for land use and conservation, not to evoke any particular emotion in the public. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing the Fort Peck Game Range. The primary emotions conveyed are related to conservation and resource management. There is a sense of joy in protecting wildlife and natural resources, but it is subdued. There is no explicit sadness, anger, fear, disgust, or surprise expressed in the document. The language is formal and legalistic, which further reduces the emotional impact.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

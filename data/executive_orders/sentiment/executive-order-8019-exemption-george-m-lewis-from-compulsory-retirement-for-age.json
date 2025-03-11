@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal exemption from retirement for an individual. It doesn't express strong emotions. The primary emotion might be a slight sense of joy or relief for the person exempted, but it's very mild. The other emotions are not really present.",
+    "critique": "The document is a formal exemption from retirement. It expresses no strong emotions. The language is neutral and legalistic. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

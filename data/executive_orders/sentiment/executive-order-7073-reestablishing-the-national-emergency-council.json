@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the reestablishment and duties of the National Emergency Council. The language is legal and administrative, lacking strong emotional cues. The primary goal appears to be the efficient execution of the Emergency Relief Appropriation Act of 1935. Therefore, the expected emotional response from the public would likely be minimal across all emotions. I will assign low scores across the board, with a slightly higher score for surprise due to the nature of executive orders potentially catching the public off guard.",
+    "critique": "The document is a formal executive order re-establishing the National Emergency Council. The language is legal and administrative. There is no strong emotional content. A low level of determination and perhaps a hint of hope for positive outcomes could be inferred, but these are very subtle. Therefore, most scores should be very low, with a slightly elevated score for joy due to the positive implications of the order.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

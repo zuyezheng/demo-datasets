@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a presidential order addressing wage and price stabilization in the construction industry. It's a formal, legalistic document. The primary emotion conveyed would be concern (leading to action), but it's very muted. There's no strong expression of joy, sadness, anger, fear, disgust, or surprise. The document aims to project an image of control and problem-solving. Therefore, all emotions should be scored low, with perhaps a slightly higher score for concern/determination to address the economic issue.",
+    "critique": "The document is a formal executive order addressing wage and price stabilization in the construction industry. It expresses concern about inflation and establishes a committee to oversee wage and price increases. The document aims to convey a sense of urgency and determination to address economic issues. It does not express emotions such as joy, sadness, fear, or disgust. Surprise is also not a prominent emotion. The document is primarily focused on addressing economic concerns and establishing a framework for wage and price stabilization.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

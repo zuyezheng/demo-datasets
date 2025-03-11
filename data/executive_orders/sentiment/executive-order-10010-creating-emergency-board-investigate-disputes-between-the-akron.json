@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. It lists the involved parties and establishes a board to investigate the matter. The language is legalistic and procedural. There is no explicit expression of emotion. However, the implicit emotions conveyed might be concern (that a labor dispute threatens interstate commerce) and determination (to resolve the dispute). Given the lack of strong emotional cues, the scores should be low.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses a sense of urgency and importance due to the potential disruption of interstate commerce. However, it maintains a neutral tone, focusing on the legal and procedural aspects of resolving the dispute. Therefore, the initial scores should reflect this neutrality with low values for most emotions and a slightly higher value for concern or seriousness.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

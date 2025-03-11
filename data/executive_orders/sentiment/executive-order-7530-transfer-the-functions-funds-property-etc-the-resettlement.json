@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order transferring powers and resources from the Resettlement Administration to the Secretary of Agriculture. It cites the legal basis for the order and specifies the effective date. There is no expression of emotion in the document. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order transferring powers and resources related to the Resettlement Administration to the Secretary of Agriculture. The language is legal and administrative, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Considering the formal nature, a baseline of 1 is appropriate for emotions not explicitly present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

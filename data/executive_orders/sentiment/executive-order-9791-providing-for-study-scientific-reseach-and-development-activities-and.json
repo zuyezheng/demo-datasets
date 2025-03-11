@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is an executive order regarding scientific research and development. It aims to improve coordination and efficiency in federal research activities. The language is formal and bureaucratic, focusing on directives and procedures. There is no explicit expression of emotions. However, the emphasis on strengthening national defense and developing the domestic economy could be interpreted as conveying a sense of responsibility and determination. The call to utilize scientific personnel and research facilities effectively in the national interest might evoke a sense of hope or optimism. Given the nature of the document, the expected emotional response from the public would likely be minimal. The initial scores reflect this, with low values for all emotions. The revised scores are slightly adjusted to account for the implicit sense of responsibility and hope.",
+    "critique": "The document is a formal executive order. It aims to direct and coordinate federal research activities. The language is formal and bureaucratic. There is no explicit emotional expression. However, there might be a subtle sense of determination and resolve to improve national defense and the economy. I will assign low scores to all emotions, with a slightly higher score for determination which can be interpreted as a low level of joy and surprise at the possibilities.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

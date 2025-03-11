@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to an executive order. It specifies the conditions under which losses sustained by US personnel in foreign countries due to currency fluctuations will be covered. There is no explicit emotional language or appeal. The content is purely administrative and legal. Therefore, all emotions should be scored very low, as the public is not expected to feel any strong emotion reading this document. I will give a score of 1 for all emotions.",
+    "critique": "The document is a formal amendment to an executive order. It concerns financial regulations for US personnel serving abroad. The language is precise and legalistic, devoid of emotional expression. Therefore, all emotions should be scored very low, with a default of 1 where there is no clear indication of the emotion being conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding a labor dispute and the creation of a Board of Inquiry. The language is legalistic and neutral, with no explicit expression of emotion. However, the context of a strike that ",
+    "critique": "The document is a formal declaration regarding a labor dispute. It expresses concern about the potential impact on national safety due to a strike. The primary emotion conveyed is concern, which can be interpreted as a mild form of fear or apprehension. There's no explicit expression of joy, sadness, disgust, or surprise. The language is formal and legalistic, aiming for neutrality. Therefore, the scores for joy, sadness, disgust, and surprise should be low. The score for fear should reflect the concern about national safety, but not be overly high since it's a formal declaration.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     }

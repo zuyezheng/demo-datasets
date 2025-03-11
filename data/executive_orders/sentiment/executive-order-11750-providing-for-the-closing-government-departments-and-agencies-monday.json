@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding federal holidays. It primarily conveys a neutral tone, focused on outlining which government offices will be closed and which will remain open. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The language is legalistic and procedural, aiming for clarity and precision rather than emotional impact. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal executive order regarding federal holidays. It primarily conveys a neutral tone, with no strong emotions expressed. The order aims to provide clarity and instructions for government employees regarding time off. Therefore, the initial scores should reflect this neutrality.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

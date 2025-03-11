@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order establishing ethical standards for executive branch employees. It is a formal and legal document. The primary emotions conveyed are related to trust, integrity, and responsibility. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the order aims to foster confidence in the government, which could be indirectly related to joy or relief. The order also addresses potential corruption and unethical behavior, which could be related to disgust or anger. However, these emotions are not directly expressed in the document. The document is primarily focused on establishing rules and regulations, so the emotional impact is likely to be minimal. Therefore, the initial scores should be low for all emotions.",
+    "critique": "The document is a formal executive order establishing ethical conduct standards for executive branch employees. It aims to ensure public confidence in the government's integrity. The language is formal and legalistic, focusing on principles, regulations, and responsibilities. There is a sense of duty and commitment to ethical behavior, but no strong emotions are explicitly conveyed. Therefore, most emotions should be scored low, with a slight emphasis on the seriousness of the matter.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     }
 }

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a revocation of previous executive orders regarding land withdrawal for power sites. As the President, the primary emotion I want to elicit is probably relief or satisfaction that these changes are being made, perhaps to correct an error or enable better land use. However, the document is very dry and procedural, so it's hard to infer strong emotions. There's no language that explicitly evokes joy, sadness, anger, fear, disgust, or surprise. Given the nature of the document, I would expect low scores across the board. I will start with initial scores of 1 across the board, indicating minimal emotional conveyance. Upon further reflection, there might be a slight sense of satisfaction or perhaps even a little surprise that these old orders are being revoked, but the intensity is still very low. I will adjust joy and surprise to 2.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

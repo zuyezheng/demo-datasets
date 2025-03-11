@@ -1,12 +1,12 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding wage and salary adjustments during World War II. It is a formal and legal document. The primary emotions conveyed would likely be related to a sense of control, seriousness, and perhaps a degree of concern for economic stability during wartime. There's no strong indication of joy, sadness, fear, disgust, or surprise. The order aims to maintain order and prevent instability. Therefore, the scores for joy, sadness, fear, disgust, and surprise should be relatively low. The language is very formal and legalistic, further minimizing emotional expression.",
+    "critique": "The document is a formal executive order regarding wage and salary adjustments during World War II. It primarily focuses on maintaining economic stability and preventing inflation. The language is legalistic and procedural, with no explicit emotional expression. However, the underlying context of wartime economic control might evoke a sense of seriousness and determination. Given the formal nature and lack of overt emotional cues, the emotion scores should be low, primarily reflecting the seriousness of the situation rather than any specific emotion being conveyed by the text itself. The initial scores reflect a baseline assessment, and the revised scores will adjust based on the critique.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,

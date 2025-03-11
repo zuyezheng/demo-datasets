@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is an executive order regarding the Office of Civilian Defense during World War II. It focuses on establishing the office, defining its functions, and outlining its responsibilities in coordinating civilian defense activities. The language is formal and bureaucratic, aiming to convey a sense of order and purpose in mobilizing the civilian population for the war effort. The primary emotion conveyed is a sense of urgency and determination to protect the civilian population and ensure their participation in the war program. There might be a hint of fear due to the context of war, but it is not explicitly stated. Joy is not conveyed in the document. There is no explicit sadness or disgust. Surprise is not conveyed.",
+    "critique": "The document is a formal executive order establishing the Office of Civilian Defense during World War II. It focuses on coordination, organization, and mobilization of resources for the war effort. There is no explicit expression of emotions. However, the context of war implies a sense of urgency and determination. The order aims to provide protection and facilitate participation, which could be interpreted as a response to fear and a desire for security. However, the language is formal and bureaucratic, so the emotional intensity is relatively low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

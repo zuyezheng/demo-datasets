@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 4,
+        "fear": 5,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of the establishment of an emergency board to investigate a dispute. It uses neutral and legalistic language. There is no explicit expression of emotions. However, the situation suggests a potential for negative emotions due to the dispute and the threat to interstate commerce. \n\nInitial assessment:\n*   Joy: 1 (no indication of joy)\n*   Sadness: 2 (potential negative impact of the dispute)\n*   Anger: 3 (dispute suggests some level of anger/frustration)\n*   Fear: 4 (threat to interstate commerce)\n*   Disgust: 1 (no indication of disgust)\n*   Surprise: 1 (no indication of surprise)\n\nRevised assessment:\n*   Joy: 1 (no indication of joy)\n*   Sadness: 2 (potential negative impact of the dispute)\n*   Anger: 3 (dispute suggests some level of anger/frustration)\n*   Fear: 4 (threat to interstate commerce)\n*   Disgust: 1 (no indication of disgust)\n*   Surprise: 1 (no indication of surprise)",
+    "critique": "The document is a formal order regarding a labor dispute. It aims to establish an emergency board and maintain existing conditions during the investigation. The primary emotion conveyed is a sense of urgency and seriousness, with a hint of concern due to the potential disruption of essential services. There is no explicit expression of joy, disgust, or surprise. Fear is present due to the potential disruption of interstate commerce. Sadness is not directly expressed, but the situation implies potential negative consequences if the dispute is not resolved.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 4,
+        "fear": 5,
         "disgust": 1,
         "surprise": 1
     }

@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement invoking the Railway Labor Act to address a dispute. It doesn't express strong emotions. The primary goal is to inform and direct action, not to evoke feelings. Therefore, all emotions should be scored low initially. Upon review, the language is neutral and legalistic, so a score of 1 across the board seems appropriate.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses a sense of urgency and authority, but avoids strong emotional language. The primary goal is to establish a board to investigate and resolve the dispute, ensuring the continuation of essential transportation services. Therefore, the emotion scores should be relatively low across the board, with a slight emphasis on concern or seriousness.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

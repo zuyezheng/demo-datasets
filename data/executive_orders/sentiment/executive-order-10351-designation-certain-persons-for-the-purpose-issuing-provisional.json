@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the designation of captains of ports for issuing provisional certificates of registry to vessels purchased by US citizens. It revokes a previous executive order. There is no expression of emotion in this document. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order. It designates captains of ports to issue certificates of registry to vessels purchased by US citizens and revokes a previous executive order. The language is formal and legalistic. There is no expression of joy, sadness, fear, disgust, or surprise. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

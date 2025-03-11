@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is an executive order, which is a formal and legal document. The language used is formal and objective. The president is attempting to portray a sense of responsibility and authority. There is no explicit emotional language used, so the emotions conveyed are minimal. The order aims to lessen burdens and provide a convenient channel for contributions, which could be interpreted as a positive action, but it's not explicitly joyful. There's no indication of sadness, anger, fear, disgust, or surprise. Therefore, all emotions are scored low.",
+    "critique": "The document is a formal executive order. It aims to amend a previous order to improve the Combined Federal Campaign. The language is formal and legalistic. There is a sense of purpose and intent to improve the efficiency and focus of the campaign on direct health and welfare services. There's no strong emotion conveyed, but a mild sense of joy from helping others and a mild sense of disgust at the idea of misusing funds for political purposes. There is no explicit sadness, fear, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

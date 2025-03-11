@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a presidential commission. It outlines the commission's purpose, composition, authority, and responsibilities. The language is legalistic and procedural, with no explicit emotional expression. However, the establishment of a commission suggests an attempt to address and resolve a conflict, which could imply a desire to alleviate negative emotions like fear or anger related to the underlying issues. However, given the formal and neutral tone, the emotional impact is likely minimal. Therefore, the initial scores are set to 1 for all emotions, indicating a low level of emotional conveyance. After further consideration, the establishment of a commission to resolve a conflict could be interpreted as an attempt to reduce negative emotions and promote a sense of stability or even cautious optimism. Therefore, I will revise the scores slightly to reflect this subtle undertone, increasing joy and surprise scores to 2, while keeping the other scores at 1.",
+    "critique": "The document establishes a presidential commission to resolve disputes between flight engineers and pilots. It is a formal and legal document. Therefore, the emotions conveyed are minimal. The document expresses a neutral tone, with no strong emotions. The initial scores reflect this neutrality, with all emotions set to 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

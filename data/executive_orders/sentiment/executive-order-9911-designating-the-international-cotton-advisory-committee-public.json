@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal designation of the International Cotton Advisory Committee as a public international organization. The language is legal and bureaucratic, with no strong emotional indicators. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal designation of the International Cotton Advisory Committee as a public international organization. It invokes legal authority and references previous executive orders. The language is formal and legalistic. There is no explicit expression of emotions. Therefore, the initial scores should be low across all emotions. Considering that this is a formal document, I will assign a baseline score of 1 for all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

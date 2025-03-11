@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 5,
+        "joy": 2,
+        "sadness": 6,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of an appointment. It expresses sympathy for the widow of a prohibition officer who died in the line of duty. The expected emotions are sadness and respect. There is no indication of joy, anger, fear, disgust, or surprise. The initial scores reflect this assessment. The revised scores are the same as the initial scores, as the initial assessment is accurate.",
+    "critique": "The document is a formal announcement of an appointment. The primary emotion conveyed is sadness due to the reference to the death of Mrs. Stotler's husband in the line of duty. There might be a hint of joy that she is being appointed to a position. There is no indication of anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 5,
+        "joy": 2,
+        "sadness": 6,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

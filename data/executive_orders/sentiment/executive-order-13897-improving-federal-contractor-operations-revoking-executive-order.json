@@ -3,15 +3,15 @@
         "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 2,
-        "surprise": 2
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order. It revokes a prior order related to federal contractors. The language is legal and procedural. There is no explicit expression of emotion. However, the act of revoking an order could be interpreted as a sign of disgust or dissatisfaction with the previous policy, or perhaps a desire to surprise the contractors. The intensity of these emotions is likely to be low, as the document is primarily focused on legal and administrative matters. Therefore, I will assign low scores to disgust and surprise, and a score of 1 to the other emotions.",
+    "critique": "The document is a formal executive order. It revokes a prior order and directs agencies to rescind related policies. The language is legal and procedural. There is no explicit emotional expression. However, the act of revoking an order could imply a sense of decisiveness or perhaps a desire to correct a perceived inefficiency. Given the formal nature, the emotional intensity is likely low across all categories. Considering the context, a slight degree of decisiveness might be interpreted as a low level of joy (in the sense of satisfaction with taking action) or a low level of anger (in the sense of correcting a wrong). However, these are very subtle and could easily be interpreted as neutral. I will assign a baseline score of 1 for all emotions and then slightly adjust based on the potential for interpretation.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
-        "disgust": 2,
-        "surprise": 2
+        "disgust": 1,
+        "surprise": 1
     }
 }

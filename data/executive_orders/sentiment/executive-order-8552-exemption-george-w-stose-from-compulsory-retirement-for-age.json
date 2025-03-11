@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the exemption of George W. Stose from compulsory retirement. It does not express any strong emotions. The primary emotion conveyed might be a mild sense of approval or satisfaction that Stose's services are being retained, but this is very subtle. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy to reflect the positive aspect of retaining Stose.",
+    "critique": "The document is a formal order exempting a person from mandatory retirement. It does not express any strong emotions. The presence of joy, sadness, fear, disgust and surprise are minimal. Therefore, I will assign a low score to each of these emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

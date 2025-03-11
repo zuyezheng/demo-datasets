@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 6,
-        "disgust": 4,
+        "sadness": 2,
+        "fear": 7,
+        "disgust": 6,
         "surprise": 3
     },
-    "critique": "The document expresses concern about national security, foreign policy, and the economy of the United States due to the situation at the southern border. It conveys a sense of urgency and determination to address the issue. The president uses strong language to describe the threat and outlines steps to be taken. \n\nInitial assessment:\n*   Fear: 6 - The document highlights a threat to national security.\n*   Surprise: 3 - The situation is described as unusual and extraordinary.\n*   Disgust: 4 - The document refers to drug trafficking and illegal migration.\n*   Sadness: 3 - The document refers to a crisis at the southern border.\n*   Joy: 1 - The document does not express joy.\n\nRevised assessment:\n*   Fear: 7 - The threat to national security is a major concern.\n*   Surprise: 3 - The situation is described as unusual and extraordinary.\n*   Disgust: 5 - The document refers to drug trafficking and illegal migration.\n*   Sadness: 4 - The document refers to a crisis at the southern border.\n*   Joy: 1 - The document does not express joy.",
+    "critique": "The document expresses concern about the situation at the southern border and the actions of the Mexican government. There's a sense of determination to address the issue, but also a pause to assess the situation. Fear is present due to the described threat. Disgust is present due to the illegal activities mentioned. Surprise is low as the actions are planned and expected. Joy and sadness are minimal as the document focuses on policy and action.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
+        "sadness": 2,
         "fear": 7,
-        "disgust": 5,
+        "disgust": 6,
         "surprise": 3
     }
 }

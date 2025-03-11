@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding agreements between the Secretary of Defense and States/Territories concerning the withholding of compensation for civilian employees of the Army and Air National Guard for retirement system purposes. The language is legal and procedural, with no indication of emotions like joy, sadness, anger, fear, disgust, or surprise. The document aims to establish clear guidelines and procedures for these agreements. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal presidential order outlining regulations for agreements between the Secretary of Defense and States/Territories regarding withholding compensation for civilian employees of the Army and Air National Guard. The language is legal and procedural, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions, with a slight emphasis on surprise due to the nature of new regulations being introduced.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

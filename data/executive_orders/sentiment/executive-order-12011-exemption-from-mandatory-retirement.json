@@ -6,10 +6,10 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the exemption of G. Joseph Minetti from mandatory retirement. The language is legal and procedural, devoid of emotional expression. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication of the emotion being conveyed. There is no indication of joy, sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal announcement regarding the exemption of G. Joseph Minetti from mandatory retirement. The language is legal and procedural. There is no strong emotion conveyed, but a sense of duty and importance is present. Therefore, the initial scores are set to 1, except for slight adjustments to reflect the seriousness of the announcement.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

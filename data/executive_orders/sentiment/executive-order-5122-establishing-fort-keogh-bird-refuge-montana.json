@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "fear": 4,
+        "disgust": 3,
         "surprise": 1
     },
-    "critique": "The document is a formal order establishing a bird refuge and outlining prohibited activities. It aims to convey a sense of authority and seriousness, but it doesn't strongly evoke any particular emotion. The most relevant emotions might be a mild sense of joy (protecting birds) and a mild sense of disgust/anger (preventing harmful activities). However, the overall emotional intensity is low.",
+    "critique": "The document is a formal order establishing a bird refuge. It primarily conveys a sense of seriousness and authority, with an underlying tone of concern for the protection of natural resources. There is no explicit expression of joy, sadness, or surprise. Fear is present in the warnings against unlawful activities, and disgust might be inferred from the prohibition of harming wildlife or property. The initial scores reflect this assessment, with low values for joy, sadness, and surprise, and moderate values for fear and disgust. The revised scores aim to more accurately capture the subtle nuances of the document's emotional tone, slightly increasing the fear score to reflect the explicit warnings and decreasing the disgust score as it is only implied.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 5,
         "disgust": 2,
         "surprise": 1
     }

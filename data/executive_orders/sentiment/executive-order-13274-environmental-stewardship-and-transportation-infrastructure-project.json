@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding transportation infrastructure projects. The language is formal and legalistic, with a focus on efficiency, environmental stewardship, and coordination between agencies. There is no strong indication of any particular emotion being conveyed. Therefore, the initial scores are set to 1 across all emotions. After further consideration, the document seems to convey a slight sense of optimism and determination to improve infrastructure and environmental processes. Therefore, I will adjust the joy score to 3.",
+    "critique": "The document is a formal executive order. It expresses a desire to improve environmental stewardship and streamline transportation infrastructure projects. There is a general sense of optimism and purpose, but no strong emotions are explicitly conveyed. Therefore, most emotions should be scored low, with a slightly higher score for joy due to the positive intent.",
     "revised_scores": {
         "joy": 3,
         "sadness": 1,

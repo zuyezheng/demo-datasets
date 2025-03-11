@@ -3,15 +3,15 @@
         "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "disgust": 3,
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order. It aims to convey a sense of authority and legality. There is no explicit emotional language. However, the order addresses bribery, graft, and conflict of interest, which could be associated with disgust. The order also aims to prevent these activities, which could be associated with a sense of joy or relief. However, the primary purpose is to establish a legal framework, so the emotional impact is likely to be minimal. Therefore, I will assign low scores to all emotions.",
+    "critique": "The document is a formal executive order. It aims to provide federal agencies with the authority to void contracts obtained through bribery, graft, or conflict of interest. The language is formal and legalistic. There is no explicit expression of emotions. However, the order implicitly conveys a sense of disgust and anger towards corruption and a desire to rectify such situations. There is also a hint of surprise that such actions are necessary, but this is very mild. Given the formal nature, the scores should be low, even for the emotions that are somewhat present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "disgust": 3,
+        "surprise": 2
     }
 }

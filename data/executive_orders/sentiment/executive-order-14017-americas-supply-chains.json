@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
+        "joy": 3,
+        "sadness": 2,
+        "fear": 5,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order focused on strengthening supply chains. The language is formal and policy-oriented. There is no explicit expression of emotions. However, the document addresses potential threats and vulnerabilities, which could implicitly convey a sense of concern or urgency. The policy aims to promote economic prosperity and national security, which could be interpreted as conveying a sense of hope or optimism. Considering the potential threats and vulnerabilities, I will assign a low score to fear. Considering the aim to promote economic prosperity and national security, I will assign a low score to joy. All other emotions will be assigned a score of 1.",
+    "critique": "The document is a formal executive order focused on strengthening the resilience of America's supply chains. The primary emotion conveyed is a sense of concern regarding potential disruptions to supply chains and a determination to address these vulnerabilities. There is a hint of optimism about revitalizing domestic manufacturing and creating jobs. There is no explicit expression of joy, sadness, or surprise. Disgust is not directly expressed, but there is an implicit aversion to reliance on unreliable or adversarial sources. Fear is present due to the potential threats to supply chains.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 4,
         "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
+        "fear": 6,
+        "disgust": 3,
         "surprise": 1
     }
 }

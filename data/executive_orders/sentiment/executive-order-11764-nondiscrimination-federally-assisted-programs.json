@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the enforcement of Title VI of the Civil Rights Act of 1964. It outlines the role of the Attorney General in coordinating and enforcing the act. The language is legal and procedural, with no explicit emotional expression. However, the act itself aims to prevent discrimination, which could be associated with positive emotions like joy and reduced negative emotions like sadness, fear, and disgust. Surprise is unlikely in this context, as it is a continuation of existing legislation.",
+    "critique": "The document is a formal executive order regarding the enforcement of Title VI of the Civil Rights Act of 1964. It outlines the role of the Attorney General in coordinating and enforcing the act. The language is legal and procedural, with no explicit emotional expression. However, the underlying intent to ensure civil rights and prevent discrimination could be interpreted as a form of positive sentiment, but it is very muted. Therefore, the scores should be low across all emotions, with a slightly higher score for joy due to the positive intent.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

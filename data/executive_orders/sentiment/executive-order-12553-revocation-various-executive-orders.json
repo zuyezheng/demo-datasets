@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a list of revoked executive orders. There is no sentiment conveyed in the document. The president is simply stating that these executive orders are no longer necessary and are revoked. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order revoking a list of previous executive orders. The language is formal and factual. There is no indication of any specific emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

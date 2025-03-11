@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the applicability of Federal laws to Puerto Rico. The language is legal and procedural, and the tone is neutral. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the applicability of Federal laws to Puerto Rico. It establishes a commission to advise the President on this matter. The language is legal and procedural, with no explicit emotional expression. Therefore, all emotions should be scored low, with a baseline of 1 to indicate the presence of the document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

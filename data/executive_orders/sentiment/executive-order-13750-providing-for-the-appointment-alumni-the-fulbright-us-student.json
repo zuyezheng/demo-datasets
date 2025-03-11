@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to establish a policy regarding the hiring of participants in certain exchange programs. The language is formal and legalistic. There is no strong indication of any particular emotion being conveyed. The primary goal is to inform and direct government agencies. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It aims to establish a policy for federal hiring and doesn't express strong emotions. The language is neutral and legalistic. Therefore, most emotions should be scored low.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

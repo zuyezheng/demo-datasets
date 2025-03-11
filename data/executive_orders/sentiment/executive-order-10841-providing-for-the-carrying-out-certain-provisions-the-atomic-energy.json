@@ -6,11 +6,11 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding atomic energy. It is unlikely to evoke strong emotions in the general public. The language is legal and technical, not designed to elicit an emotional response. Therefore, all emotions are scored low initially. Upon further reflection, the document's focus on atomic energy and national security might induce a slight sense of fear or concern in some individuals, so I will adjust the fear score slightly upwards.",
+    "critique": "The document is a formal executive order regarding atomic energy. It primarily conveys authority and outlines procedures. There is no strong emotional language used. Therefore, most emotions should be scored low. There might be a slight sense of importance or seriousness, but not enough to significantly increase any emotion score.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

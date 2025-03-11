@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order regarding land allocation in Alaska. It's a formal, legalistic text with no inherent emotional tone. The president is not attempting to convey any particular emotion. Therefore, all initial scores should be 1.",
+    "critique": "The document is a formal order regarding land allocation in Alaska. It primarily serves an administrative function, setting aside land for the Bureau of Biological Survey. There is no explicit emotional language used. Therefore, the scores should be very low across all emotions. Considering it is a formal document, I will assign a baseline score of 1 for all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

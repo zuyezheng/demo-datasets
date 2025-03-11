@@ -2,14 +2,14 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. It primarily conveys a sense of seriousness and urgency due to the potential disruption of interstate commerce. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the implicit concern about the disruption might suggest a low level of worry or perhaps a sense of responsibility to resolve the issue. The language is formal and legalistic, further minimizing any strong emotional conveyance. Therefore, the initial scores are set to reflect the implicit emotions and revised to better reflect the lack of strong emotional sentiment.",
+    "critique": "The document is a formal executive order creating a board to investigate disputes between railroad companies and their employees. The language is legal and procedural. There is no strong emotion conveyed, but there is a sense of urgency and concern due to the potential disruption of interstate commerce. Therefore, I will assign low scores to all emotions, with a slightly higher score for concern/fear and sadness due to the potential negative impact of the dispute.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
         "disgust": 1,
         "surprise": 1

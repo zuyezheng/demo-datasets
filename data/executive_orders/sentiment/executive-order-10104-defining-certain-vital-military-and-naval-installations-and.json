@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 4,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order defining vital military and naval installations and equipment requiring protection. It invokes legal statutes and defines categories of protected information and locations. The language is formal and legalistic. The primary emotion conveyed is a sense of seriousness and the need for security. There's a hint of fear regarding potential threats to national defense, but it's not overt. There is no indication of joy, sadness, or surprise. Disgust is not relevant in this context. The order aims to establish clear guidelines and enforce restrictions, reflecting a concern for national security.",
+    "critique": "The document is a formal executive order defining vital military and naval installations and equipment requiring protection. It invokes legal statutes and defines categories of protected information and locations. The primary emotion conveyed is a sense of seriousness and the need for security. There is a hint of fear related to potential threats to national defense, but it's not overt. There's no explicit joy, sadness, disgust, or surprise.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 4,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

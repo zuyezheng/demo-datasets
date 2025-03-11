@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a commission. It uses formal language and outlines the commission's responsibilities and administrative details. There is no explicit emotional language used. Therefore, the expected emotional response from the public would be minimal across all emotions. Most scores should be low, with a slight consideration for surprise due to the nature of executive orders potentially catching the public's attention.",
+    "critique": "The document is a formal executive order establishing a commission. It is devoid of strong emotional language. The primary emotions conveyed, if any, are related to a sense of duty and importance of the task. Therefore, most scores should be low.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

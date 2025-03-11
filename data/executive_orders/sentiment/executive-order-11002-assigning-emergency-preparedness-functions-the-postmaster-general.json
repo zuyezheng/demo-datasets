@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
-        "fear": 5,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding emergency preparedness. It outlines the responsibilities of the Postmaster General in developing a national emergency registration system. The language is formal and bureaucratic, focusing on planning, cooperation, and readiness. There is no explicit expression of emotions. However, the context of preparing for a national emergency, including potential attack, implies a degree of fear and concern. The order aims to provide reassurance through preparedness, which could be interpreted as a subdued form of hope or joy that the situation will be handled. Disgust and surprise are not relevant in this context. The scores are based on the implied emotions and the overall tone of the document.",
+    "critique": "The document is a formal executive order outlining the Postmaster General's responsibilities in developing a national emergency registration system. The language is formal and bureaucratic. There is a sense of urgency and preparedness, but no strong emotions are explicitly conveyed. Considering the context of the Cold War, a low level of fear and concern is reasonable. Surprise, joy, sadness, and disgust are not evident.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 2,
-        "fear": 5,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

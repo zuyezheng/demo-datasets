@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It does not express any particular emotion. The president is trying to promote a model Federal workplace that provides reasonable accommodation. The order is intended to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, its employees, or any person. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order. It expresses no strong emotions. The primary goal is to establish guidelines and procedures for federal workplaces to accommodate individuals with disabilities. Therefore, the scores for all emotions should be relatively low, with a slight emphasis on positive emotions like joy due to the promotion of inclusivity.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

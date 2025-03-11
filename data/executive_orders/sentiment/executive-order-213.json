@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The president is conveying a sense of duty and determination to improve the public service. There is no strong emotion conveyed, but a mild sense of purpose and perhaps a hint of satisfaction in taking action. The primary emotion might be joy that the efficiency of the public service is improved. Other emotions are not strongly represented, so they should be scored low.",
+    "critique": "The document is a formal letter from the President to the Civil Service Commission regarding the inclusion of railway mail service employees into the classified service. The tone is formal and professional. There is no explicit expression of emotions like joy, sadness, fear, disgust, or surprise. However, there might be a subtle sense of determination or resolve to improve the efficiency of the public service. Initial scores are set to 1 across all emotions, reflecting the lack of overt emotional expression. Revised scores consider a slight increase in the 'surprise' score to 2, acknowledging the potential unexpectedness of the directive, and a slight increase in the 'joy' score to 2, reflecting the potential positive outcome of improved public service efficiency. All other scores remain at 1 due to the document's formal and unemotional nature.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

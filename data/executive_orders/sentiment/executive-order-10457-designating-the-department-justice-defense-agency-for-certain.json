@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The document is a formal designation of the Department of Justice as a defense agency. The language is legal and procedural, with no explicit emotional expression. However, the context of national security might implicitly evoke some level of fear or concern. The scores are based on the assumption that the public might feel a slight sense of fear or surprise due to the designation, but overall, the document is neutral in tone.",
+    "critique": "The document is a formal designation of the Department of Justice as a defense agency. It invokes legal statutes and emphasizes national security. The language is formal and legalistic. There is no explicit expression of emotions. However, the underlying concern for national security suggests a mild sense of fear and perhaps a hint of surprise that such a designation is deemed necessary. Given the formal nature, joy, sadness, and disgust are unlikely to be present. The score will be 1 across the board except a slightly elevated fear and surprise.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 2
     }

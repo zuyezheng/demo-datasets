@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of resolution and closure regarding a specific national emergency related to UNITA. There's a subtle indication of relief or satisfaction that the situation has improved, but it's very understated. The overall tone is official and procedural, not strongly emotional.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of resolution and finality regarding a specific national emergency. There is a slight hint of relief that the situation has improved, but overall, the tone is neutral and official. Therefore, joy, sadness, fear, disgust, and surprise should be scored low, with slightly more emphasis on joy.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

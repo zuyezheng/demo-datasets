@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation. It primarily conveys a sense of official procedure and legal compliance rather than any strong emotion. The language is neutral and factual, focusing on the revocation of a previous order and the allocation of land to specific groups under specific conditions. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding land allocation. It primarily conveys a sense of official procedure and legal compliance rather than strong emotions. Therefore, most emotions should be scored low. There might be a slight sense of joy for ex-service men who are granted homestead or desert-land laws.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

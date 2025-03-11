@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 5,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 2
     },
-    "critique": "The document is an executive order outlining policies and procedures for responding to a biological attack. The primary emotion conveyed is fear, due to the nature of the threat being addressed. There is also an element of surprise, as the document outlines a plan for a rapid response, suggesting a need to be prepared for unexpected events. There is no indication of joy, sadness, or disgust. The intensity of fear is moderate, as the document aims to reassure the public that measures are being taken to protect them. The surprise is also moderate, as the document highlights the need for preparedness and a rapid response.",
+    "critique": "The document is a formal executive order outlining policies and procedures for responding to a biological attack. The primary emotion conveyed is concern and a sense of urgency in preparing for and mitigating the effects of such an attack. There is a sense of responsibility and determination to protect the American people. However, due to the formal nature of the document, the emotional intensity is relatively low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 5,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 2
     }
 }

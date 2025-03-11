@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order amendment. It primarily deals with administrative matters related to civil service retirement and employee appointments. There is no explicit expression of emotions such as joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, focusing on the technical details of the amendment. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal amendment to an executive order. It concerns civil service retirement and internal management of the government. The language is formal and legalistic. There is no indication of strong emotions. A baseline level of sadness is appropriate due to the discussion of retirement. Surprise, fear, disgust, and joy are not present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

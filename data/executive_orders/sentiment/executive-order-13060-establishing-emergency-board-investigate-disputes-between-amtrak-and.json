@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding a labor dispute. It does not express any strong emotions. The most relevant emotion would be concern (leading to sadness) that a transportation disruption is possible, and a desire to project authority (leading to a tiny bit of joy that the president is in charge and can fix it). There is no indication of fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It aims to prevent disruption to interstate commerce. The language is legalistic and neutral, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Upon review, the initial scores accurately reflect the document's neutral tone and lack of overt emotional expression. No revisions are necessary.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

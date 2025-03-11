@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding federalism. It is primarily legal and procedural in nature. There is no strong indication of any particular emotion being conveyed. The document aims to ensure the division of governmental responsibilities and guide executive departments in policy formulation. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It aims to establish principles of federalism and guide executive departments and agencies. The language is formal and legalistic. There is no strong emotion conveyed. A slight sense of joy might be inferred from the intention to improve government, but it's very mild. There's no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order granting a day off to government employees. It expresses no strong emotions. The primary sentiment is one of mild joy due to the holiday, but it's very subdued and formal. There's no indication of sadness, anger, fear, disgust, or surprise. The scores should reflect this neutrality with a slight emphasis on joy.",
+    "critique": "The document is a formal executive order regarding a holiday for federal employees. It expresses a neutral tone with no strong emotions conveyed. The primary purpose is to grant a day off and encourage liberal leave policies, while also ensuring essential services remain operational. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

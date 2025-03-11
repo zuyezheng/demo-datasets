@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding the establishment of a migratory bird refuge. The language is formal and legalistic. There is no explicit expression of emotion. However, the act of preserving land for wildlife could be interpreted as conveying a sense of joy or perhaps a lack of sadness about the potential loss of habitat. The intensity of these emotions is likely to be low, as the document is primarily a legal declaration.",
+    "critique": "The document is a formal executive order regarding the withdrawal of public lands for the purpose of creating a migratory bird refuge. The language is legal and administrative, with no explicit emotional expression. Therefore, the scores should be very low across all emotions, with a baseline of 1 where there isn't enough information to suggest any emotion.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

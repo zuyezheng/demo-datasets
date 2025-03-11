@@ -3,15 +3,15 @@
         "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document expresses a formal and neutral tone, focusing on maintaining neutrality during wartime. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The language is legalistic and objective, aiming to establish clear regulations and delegate enforcement authority. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional indicators.",
+    "critique": "The document is a formal proclamation regarding the neutrality of the United States during European wars. It focuses on preventing radio stations from transmitting unneutral messages. The tone is serious and official, aiming to ensure neutrality. There is no explicit expression of joy, sadness, fear, or surprise. Disgust might be inferred towards actions that violate neutrality, but it's not directly stated. The primary emotion conveyed is a sense of firm resolve and authority.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

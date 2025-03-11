@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding seismic safety standards for federal buildings. It is primarily informational and directive, lacking strong emotional content. The language is legal and technical, aimed at ensuring safety and compliance. Therefore, the expected emotional response from the public would be minimal across all emotions.",
+    "critique": "The document is a formal executive order regarding seismic safety standards for federal buildings. It primarily conveys a sense of responsibility and seriousness. There is no strong indication of joy, sadness, fear, disgust, or surprise. The language is formal and technical, aimed at establishing clear guidelines and procedures.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

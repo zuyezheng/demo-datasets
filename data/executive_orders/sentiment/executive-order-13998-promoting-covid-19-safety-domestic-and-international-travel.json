@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 3,
-        "fear": 4,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding public health measures related to COVID-19. The primary goal is to ensure safety and prevent the spread of the virus. The language is formal and policy-oriented, not designed to evoke strong emotions. However, the order does aim to reduce fear and sadness related to the pandemic, and promote a sense of safety and well-being. There is no indication of anger, disgust, or surprise.",
+    "critique": "The document is a formal executive order regarding public health measures related to COVID-19. It focuses on implementing mask-wearing, physical distancing, and testing in transportation settings. The language is formal and legalistic, with an emphasis on policy and action. There is a sense of urgency and determination to address the pandemic, but emotions are largely absent due to the formal nature of the document. Therefore, most emotions should be scored low, with a slight emphasis on concern and determination.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 3,
-        "fear": 4,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

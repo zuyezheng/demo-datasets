@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document expresses a formal announcement regarding the appointment of Mrs. Pearl McIntosh. It outlines the reasons for the appointment, emphasizing her late husband's service, her dependent children, and her suitability for the role. The language is neutral and factual, without strong emotional cues. Therefore, the expected emotional response from the American public would likely be minimal across all emotions. Given the context of the Great Depression, the public might feel slight joy that someone is getting a job.",
+    "critique": "The document is a formal order regarding the appointment of Mrs. Pearl McIntosh. It primarily conveys a sense of formality and administrative decision-making. There's a hint of sadness due to the mention of her being a widow with dependent children, but it's not the primary focus. There's no explicit expression of joy, anger, fear, disgust, or surprise. The emotions are very muted and subtle, so the scores should be low.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

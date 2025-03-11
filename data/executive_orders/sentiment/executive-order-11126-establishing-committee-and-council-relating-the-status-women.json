@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing committees and councils to advance the status of women. The language is formal and bureaucratic, focusing on the structure and function of these bodies. There is no strong emotional sentiment conveyed in the document. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing committees and councils to advance the status of women. The primary emotion conveyed is a sense of purpose and determination to improve the lives of women. There is a hint of joy in anticipating the positive changes, but overall, the tone is formal and focused on action. There is no indication of negative emotions such as sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

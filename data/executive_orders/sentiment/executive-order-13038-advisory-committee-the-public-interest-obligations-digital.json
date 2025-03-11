@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing an advisory committee. It uses formal language and outlines the committee's purpose, membership, functions, administration, and termination. There is no explicit emotional sentiment conveyed in the document. The president is not attempting to portray any specific emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order establishing an advisory committee. The language is legal and procedural. There is no strong emotional content. A baseline of 1 is appropriate for most emotions, with a slightly higher score for joy due to the positive nature of establishing a committee for public interest.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

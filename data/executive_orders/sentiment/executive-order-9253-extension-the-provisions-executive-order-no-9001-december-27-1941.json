@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order extending the provisions of a previous order to the Immigration and Naturalization Service. The language is legal and bureaucratic, with no explicit emotional content. The context is wartime, but the order itself is about administrative matters. Therefore, the expected emotional response from the public would be minimal across all emotions. I will assign a score of 1 for each emotion initially, as there is not enough information to suggest any particular emotion is being conveyed. Upon review, the initial scores seem appropriate given the nature of the document. There's no indication of joy, sadness, anger, fear, disgust, or surprise being intentionally conveyed or likely to be felt by the public upon reading this.",
+    "critique": "The document is a formal executive order extending the provisions of a previous order to the Immigration and Naturalization Service. The primary goal is to facilitate the prosecution of the war. There is no explicit expression of emotions. However, the context of war implies a sense of urgency and seriousness. Given the formal nature, the emotional intensity is likely to be low across all emotions. I will assign a baseline score of 1 for most emotions, with a slight increase in fear and sadness due to the war context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

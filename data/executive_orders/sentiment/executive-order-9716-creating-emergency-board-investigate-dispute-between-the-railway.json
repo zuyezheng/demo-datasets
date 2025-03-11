@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement invoking the Railway Labor Act to address a dispute. It doesn't express any strong emotions. The language is neutral and factual, aiming to inform rather than evoke feelings. Therefore, all emotions should be scored low initially. Upon review, the initial assessment holds. The document's purpose is purely administrative and legal, devoid of emotional expression.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses a sense of urgency and authority, but does not convey strong emotions. Therefore, the initial scores should be relatively low across all emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

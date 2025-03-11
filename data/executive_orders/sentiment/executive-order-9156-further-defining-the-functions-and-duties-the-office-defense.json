@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 5,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is an executive order regarding the Office of Defense Transportation and its responsibilities related to rubber-borne transportation during World War II. It outlines the office's authority to regulate and conserve transportation resources. The language is formal and legalistic, with no explicit emotional expression. However, the context of wartime resource management suggests a sense of urgency and concern for national security. Therefore, the most relevant emotions would be fear and concern, with a lesser degree of surprise. Disgust, joy, and sadness are not directly conveyed in the document.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of urgency and determination to address a specific issue (rubber-borne transportation during wartime). There's no explicit expression of joy, sadness, fear, disgust, or surprise. However, the implicit context of wartime and resource management suggests a degree of concern and seriousness. Therefore, I will assign low scores to sadness and fear, and a minimal score to surprise. Joy and disgust are not present.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 5,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

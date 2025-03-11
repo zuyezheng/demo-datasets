@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 2,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document primarily conveys a sense of official action and conservation. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and declarative, focusing on establishing a wildlife refuge. Therefore, the initial scores for all emotions would be relatively low, with a slight emphasis on positive emotions due to the conservation aspect.",
+    "critique": "The document is a formal presidential order establishing a wildlife refuge. The language is legal and administrative, with no explicit emotional content. However, there may be a subtle sense of joy associated with the preservation of wildlife and natural resources, and perhaps a touch of sadness that such measures are necessary due to human impact. Fear, disgust, and surprise are not relevant in this context. I will assign low scores to joy and sadness, and a score of 1 to the other emotions.",
     "revised_scores": {
         "joy": 2,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

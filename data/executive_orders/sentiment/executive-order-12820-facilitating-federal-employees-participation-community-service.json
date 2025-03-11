@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order. It aims to encourage community service among federal employees. The language is formal and bureaucratic, lacking strong emotional cues. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It encourages federal employees to participate in community service. The language is formal and bureaucratic. There is no strong emotion conveyed, but a mild sense of joy and surprise might be inferred from the encouragement of positive community engagement. There is no indication of sadness, fear, or disgust.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

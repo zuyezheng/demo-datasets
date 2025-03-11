@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order. It revokes and revises previous executive orders related to national security and subversive activities. The language is legal and procedural, with no explicit emotional expression. Therefore, the expected emotional response from the public would be minimal across all emotions. Most scores are 1, indicating a lack of conveyed emotion. There might be a slight sense of surprise due to the nature of executive orders, but it's not significant.",
+    "critique": "The document is a formal executive order. It revokes and revises previous executive orders related to national security and subversive activities. The language is legal and formal, with no explicit emotional expression. However, the actions taken could be interpreted as aiming to reduce fear and promote a sense of security. Considering the formal nature, the emotional intensity is likely low across all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

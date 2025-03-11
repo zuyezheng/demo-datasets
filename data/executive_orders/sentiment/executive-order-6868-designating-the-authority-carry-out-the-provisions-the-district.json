@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It establishes an authority to address alley dwellings in the District of Columbia. The language is legal and administrative, lacking emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It establishes an authority to address alley dwellings in the District of Columbia. The language is legal and administrative. There is no strong emotion conveyed, but a sense of purpose and resolve might be present. I will assign low scores to all emotions, with a slightly higher score for purposefulness which could be interpreted as low level joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing national emergencies related to Iran and Syria. It outlines sanctions and restrictions against those evading U.S. economic measures. The language is legal and procedural, lacking explicit emotional expression. However, the context implies a sense of concern and determination to address threats to national security. Therefore, I would expect the American public to feel a low level of fear and perhaps a moderate level of concern or seriousness. There's no indication of joy, disgust, sadness, or surprise.",
+    "critique": "The document is a formal executive order addressing national emergencies related to Iran and Syria. The primary emotion conveyed is a sense of seriousness and determination to address these issues through economic and financial sanctions. There is an element of concern and perhaps a hint of fear regarding the potential undermining of US efforts by foreign persons. However, the overall tone is formal and legalistic, so the emotional intensity is relatively low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
-        "disgust": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 2,
         "surprise": 1
     }
 }

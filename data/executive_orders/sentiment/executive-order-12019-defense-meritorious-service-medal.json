@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the Defense Meritorious Service Medal. It outlines the criteria for the award, its place in the order of precedence, and other administrative details. The language is formal and legalistic, and the purpose is to create a new military honor. Therefore, the emotions conveyed are minimal. There might be a slight sense of joy in recognizing meritorious service, but it's very subdued. There's no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order establishing the Defense Meritorious Service Medal. It outlines the criteria for awarding the medal and its place in the order of precedence. The language is formal and bureaucratic, with no strong emotions expressed. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

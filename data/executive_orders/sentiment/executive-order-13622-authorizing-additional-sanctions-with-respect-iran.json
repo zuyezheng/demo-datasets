@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 4,
+        "fear": 6,
         "disgust": 6,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The document is an executive order imposing sanctions on Iran due to their illicit use of petroleum revenues and attempts to evade international sanctions. The primary emotion conveyed is one of resolve and determination to address a perceived threat. There's an element of disgust towards Iran's actions, and perhaps a hint of fear regarding the risks posed to the international financial system. However, the overall tone is formal and legalistic, aiming to project authority and decisiveness.",
+    "critique": "The document conveys a serious and formal tone, typical of executive orders. It expresses a sense of resolve and determination to address the national emergency related to Iran's activities. There is a clear intent to impose sanctions and restrict financial transactions to prevent illicit activities. However, there is no explicit expression of joy, sadness, or surprise. Fear and disgust are implicitly present due to the description of Iran's actions as an 'unacceptable risk' and 'illicit purposes'.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 5,
+        "fear": 7,
         "disgust": 7,
-        "surprise": 3
+        "surprise": 2
     }
 }

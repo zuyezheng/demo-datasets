@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a commission. It uses formal language and aims to establish a sense of authority and purpose. There is no explicit emotional appeal. However, the subject matter (bioethics) could evoke different emotions in different people. The order itself is neutral in tone. Therefore, most emotions should be scored low. Joy, surprise, fear, disgust, and sadness are not explicitly conveyed.",
+    "critique": "The document is a formal executive order establishing a commission. It is primarily informational and directive, with a focus on establishing a structure and outlining responsibilities. There is very little emotional content. The establishment of the commission could be seen as a positive step, suggesting a degree of joy, but this is very mild. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

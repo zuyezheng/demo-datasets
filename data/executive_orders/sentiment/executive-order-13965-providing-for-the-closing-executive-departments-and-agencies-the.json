@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It declares that federal departments and agencies will be closed on December 24, 2020, the day before Christmas. There is a provision for essential services to remain open. The order also clarifies that employees will be paid according to existing regulations. The language is formal and legalistic. There is no explicit expression of emotion. However, the order is related to Christmas, which is generally associated with joy. The order allows federal employees to have a day off before Christmas, which could be seen as a positive thing. However, the primary purpose of the document is to make a legal declaration, not to express emotion. Therefore, the scores should be low for all emotions except joy, which should be slightly higher.",
+    "critique": "The document is a formal executive order regarding the closure of federal government offices on December 24, 2020. The language is legal and procedural. There is no explicit expression of emotions. However, the order might evoke a sense of joy in federal employees who get an extra day off before Christmas. There is no indication of sadness, fear, disgust, or surprise. The scores should reflect the formal and neutral tone of the document, with a slight increase in joy.",
     "revised_scores": {
         "joy": 3,
         "sadness": 1,

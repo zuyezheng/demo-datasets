@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order amending a previous executive order regarding land within the Carson National Forest. It describes the specific area affected by the amendment. There is no expression of emotion in the document, it is purely administrative. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order related to land management. It describes the amendment of a previous order concerning land within the Carson National Forest. The language is legal and administrative, with no explicit emotional expression. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication of the emotion being conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

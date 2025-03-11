@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
-        "disgust": 1,
-        "surprise": 2
-    },
-    "critique": "The document is a military order from the Secretary of War to Major-General George B. McClellan. It outlines the President's directions regarding troop movements and strategy. The tone is formal and directive, with no explicit emotional expression. However, the urgency in pursuing the enemy and securing key locations might implicitly convey a sense of concern or determination. Initial scores are assigned based on this interpretation, with low values for most emotions and a slightly higher value for fear and surprise due to the context of war and strategic decisions. The critique acknowledges the lack of overt emotional cues and suggests a more neutral interpretation. The revised scores reflect this by lowering the values for all emotions, emphasizing the document's primary function as a set of instructions rather than an emotional expression.",
-    "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
+    },
+    "critique": "The document is a military order from the Secretary of War to Major-General McClellan. It outlines the President's directions regarding a plan of operations. The tone is formal and authoritative. There is no explicit expression of emotions. However, a sense of urgency and determination to pursue the enemy can be inferred. Given the formal nature of the document, the emotion scores should be relatively low, with a slight emphasis on determination and a lack of fear or sadness.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
     }
 }

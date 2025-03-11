@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily deals with extending the life of the President's Advisory Committee on Women's Business Ownership and amending a previous executive order. The language is formal and legalistic, and the tone is neutral. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low initially. After further consideration, since the document is extending the life of a committee, there might be a slight sense of joy or optimism, but it would be very mild. The absence of strong emotional indicators suggests a baseline score of 1 for most emotions, with a possible slight increase for joy.",
+    "critique": "The document is a formal executive order regarding the President's Advisory Committee on Women's Business Ownership. It primarily deals with extending the committee's life and modifying its objectives. The language is formal and legalistic, with no strong emotional expression. Therefore, the initial scores should be low across all emotions. Considering the formal nature of the document, a score of 1 is appropriate for all emotions initially. Upon review, these scores seem appropriate given the document's purpose and tone.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 3
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 1
     },
-    "critique": "The document is a legal order, so it is unlikely to convey strong emotions. The president is trying to convey a sense of authority and determination. The order is related to national emergency, so there might be some fear and disgust associated with it, but it is not explicitly stated. The order also clarifies some steps, so there might be some surprise associated with it.",
+    "critique": "The document is a formal executive order. It invokes legal authorities and amends previous executive orders. The language is precise and legalistic. There is no explicit expression of emotions. However, implicit emotions can be inferred from the context. The order aims to address a national emergency and protect the Armed Forces, which suggests a sense of concern and perhaps fear of potential threats. The determination to prohibit certain donations indicates a sense of disgust or disapproval towards actions that could impair the ability to deal with the emergency. However, these emotions are very subdued and indirect.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 3
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 1
     }
 }

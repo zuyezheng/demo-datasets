@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order establishing a migratory bird refuge. The language is legal and administrative, with no inherent emotional tone. The purpose is conservation, which might evoke a sense of joy in some, but the document itself is neutral. Therefore, all initial scores are set to 1, indicating a minimal emotional impact.",
+    "critique": "The document is a formal executive order establishing a migratory bird refuge. The primary emotion conveyed, if any, is a sense of purpose and conservation. There is a slight sense of joy and surprise that this refuge is being created. There is no indication of sadness, fear, or disgust.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

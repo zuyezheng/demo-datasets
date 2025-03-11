@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order establishing a wildlife refuge. It's a formal, legal document. The primary emotion conveyed is a sense of importance and authority, but not necessarily any strong sentiment. The order aims to protect wildlife, which could evoke a sense of joy or appreciation, but the document itself is neutral. Therefore, I will assign low scores across all emotions initially, and then revise based on the context of wildlife protection.",
+    "critique": "The document is a formal declaration establishing a wildlife refuge. The primary emotion conveyed, if any, is a sense of responsibility and conservation. There isn't strong evidence of joy, sadness, fear, disgust, or surprise. The language is formal and legalistic, not designed to evoke strong emotions. Therefore, most scores should be low, with a slight emphasis on joy due to the positive nature of conservation.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

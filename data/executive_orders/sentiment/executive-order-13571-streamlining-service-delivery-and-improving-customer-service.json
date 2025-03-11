@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order focused on improving customer service within the Federal Government. The language is formal and bureaucratic, aiming to convey a sense of responsibility and efficiency. There's no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. The primary goal is to communicate policy and directives. Therefore, the emotion scores should be low across the board, reflecting the lack of emotional content.",
+    "critique": "The document is a formal executive order focused on improving customer service within the Federal Government. It emphasizes efficiency, responsiveness, and the use of technology to enhance service delivery. Given the formal and policy-oriented nature of the document, strong emotions are unlikely to be present. Joy might be present due to the positive aim of improving services, but it would be subdued. Sadness, fear, disgust, and surprise are unlikely to be significant. Therefore, the initial scores should reflect this, with low values for most emotions and a slightly higher value for joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 2
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the detention and interrogation program operated by the Central Intelligence Agency. It invokes legal justifications and defines the boundaries within which the program must operate, particularly concerning the treatment of detainees. The language is legalistic and aims to establish a framework for compliance with both domestic and international law. It does not explicitly convey any particular emotion. However, the subject matter itself - detention, interrogation, and the potential for abuse - can evoke strong emotional responses. The document attempts to mitigate potential negative reactions by emphasizing compliance with legal standards and humane treatment. The document's primary goal is to provide a legal and operational framework, not to elicit an emotional response. Therefore, the emotional scores should be relatively low, reflecting the document's neutral tone and legalistic purpose. However, the inherent sensitivity of the topic warrants some consideration of negative emotions like fear and disgust, as the public might react negatively to the idea of detention and interrogation programs, even with legal safeguards.",
+    "critique": "The document is a formal presidential order regarding the treatment of detainees in the CIA's detention and interrogation program. It invokes legal justifications and defines acceptable and unacceptable practices. The primary emotion conveyed is a sense of serious determination and legal authority. There's a subtle undercurrent of fear related to terrorism, but it's not the dominant emotion. There's no explicit joy or surprise. Sadness might be present due to the context of war and detention, but it's not strongly emphasized. Disgust might be present due to the description of prohibited acts, but it is not explicitly conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 5,
-        "disgust": 4,
-        "surprise": 2
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 1
     }
 }

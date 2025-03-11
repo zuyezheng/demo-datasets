@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding project labor agreements for federal construction projects. It aims to promote efficiency and economy in federal procurement. The language is legal and procedural, lacking emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the use of project labor agreements in federal construction projects. It aims to promote efficiency and economy. The language is formal and legalistic, with no overt expression of emotions. Therefore, the scores should be low across the board, with a slight emphasis on positive emotions like joy due to the intention of promoting efficiency and stability.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

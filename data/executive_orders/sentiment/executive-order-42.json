@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document discusses the classification of watchmen under civil service rules. It's a formal announcement with no explicit emotional content. Therefore, all emotions should be scored low, likely a 1, as there's no indication of joy, sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal announcement regarding the classification of substitute watchmen under civil-service rules. It's a bureaucratic communication with no inherent emotional content. Therefore, all emotions should be scored low, with a default of 1 where there's no indication of the emotion being conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

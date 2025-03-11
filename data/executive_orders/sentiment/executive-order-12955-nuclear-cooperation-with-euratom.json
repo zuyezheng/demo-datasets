@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding nuclear cooperation. It does not express any strong emotions. The primary goal is to inform and direct, not to evoke an emotional response. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It expresses a determination regarding nuclear cooperation and its impact on national security and nonproliferation objectives. The language is formal and legalistic. There is no explicit expression of emotions. However, the determination that failure to continue cooperation would 'jeopardize the common defense and security of the United States' suggests a degree of concern or perhaps even fear. However, given the formal nature of the document, the emotional intensity is likely low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

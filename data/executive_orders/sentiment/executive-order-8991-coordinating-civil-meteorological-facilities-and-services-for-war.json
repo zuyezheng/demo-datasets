@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
-        "fear": 2,
+        "joy": 1,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order from the President during wartime. It directs the Secretary of Commerce to prioritize weather information for the Army and Navy and to coordinate meteorological services for defense activities. The language is formal and authoritative. There is no explicit expression of emotion. However, the context of wartime and the need to support the military suggests a sense of urgency and determination. Given the context, a low level of fear and sadness might be inferred due to the war, and a moderate level of determination/focus, which can be interpreted as a low level of joy that the war effort will be successful. There is no indication of disgust or surprise.",
+    "critique": "The document is a formal order from the President during wartime. It primarily conveys a sense of urgency and determination to ensure the successful prosecution of the war. There is a sense of seriousness and resolve, but emotions like joy, surprise, and disgust are not relevant in this context. Fear and sadness might be subtly present due to the war context, but they are not explicitly emphasized. The initial scores reflect a baseline assessment, and the revised scores adjust based on the document's specific content and purpose.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 2,
-        "fear": 2,
+        "joy": 1,
+        "sadness": 4,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     }

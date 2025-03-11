@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
-        "disgust": 4,
-        "surprise": 2
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 1
     },
-    "critique": "The document is an executive order amending a previous order regarding financial transactions with countries invaded by Germany during World War II. The primary emotion conveyed is a sense of seriousness and determination to protect US assets and prevent them from falling into enemy hands. There is a hint of fear and disgust towards the aggressor nations, but the overall tone is formal and focused on the legal and financial aspects of the situation. The order aims to project an image of control and resolve during a time of international crisis. The scores reflect the relative intensity of each emotion, with fear and disgust being present but not overwhelming.",
+    "critique": "The document is a formal executive order amending a previous order regarding financial transactions with specific countries during World War II. The primary emotion conveyed is a sense of urgency and seriousness due to the context of the war. There is a hint of fear and disgust towards the countries that may have been invaded. However, the document is mostly factual and legal in nature, so the emotional intensity is relatively low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 6,
-        "disgust": 5,
-        "surprise": 2
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 1
     }
 }

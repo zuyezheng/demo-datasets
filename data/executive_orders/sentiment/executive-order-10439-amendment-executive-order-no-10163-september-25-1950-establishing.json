@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order amending a previous order regarding the Armed Forces Reserve Medal. It is primarily informational and procedural, with no strong emotional content. The language is legalistic and precise, not designed to evoke any particular emotion in the reader. Therefore, all emotion scores should be relatively low. I will assign a default score of 1 for each emotion.",
+    "critique": "The document is a formal amendment to an executive order regarding the Armed Forces Reserve Medal. The language is legalistic and procedural. There is no strong emotional content. The primary emotion might be a mild sense of satisfaction or pride in military service, but this is very subdued. Therefore, I will assign low scores across the board, with a slightly higher score for joy to reflect the positive nature of recognizing military service.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

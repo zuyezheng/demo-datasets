@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 5,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document conveys a sense of urgency and determination to protect public welfare during a time of war. It does not explicitly express joy, sadness, anger, fear, disgust, or surprise. However, the context suggests a potential for fear and concern among the public due to the war and the government's actions. The order aims to address potential threats, which might evoke a sense of fear or unease. The tone is formal and authoritative, reflecting the President's role and the seriousness of the situation. The initial scores reflect a baseline assessment, while the revised scores consider the potential emotional impact on the public.",
+    "critique": "The document is a formal order issued by the President during a time of war. It grants department heads the power to remove employees deemed detrimental to public welfare. The primary emotion conveyed is a sense of seriousness and urgency due to the 'present international situation.' There's a hint of fear regarding potential threats to public welfare, but it's not overtly expressed. There's no explicit joy, sadness, disgust, or surprise. The order aims to ensure national security during wartime. The initial scores reflect this assessment, with fear being the most prominent emotion, followed by a neutral stance on other emotions. The revised scores slightly adjust the fear level to better reflect the document's tone.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
+        "sadness": 1,
+        "fear": 6,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

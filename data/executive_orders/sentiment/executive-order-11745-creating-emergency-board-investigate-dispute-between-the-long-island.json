@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding a labor dispute. It doesn't express any particular emotion. The language is neutral and factual. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal announcement regarding a labor dispute. It expresses a sense of urgency and importance due to the potential disruption of interstate commerce. However, it does not explicitly convey strong emotions. The emotions are very muted, and the language is very formal. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

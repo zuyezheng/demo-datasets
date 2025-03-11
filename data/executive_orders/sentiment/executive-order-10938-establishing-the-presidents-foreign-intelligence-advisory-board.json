@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 2,
-        "surprise": 2
-    },
-    "critique": "The document is a formal executive order establishing the President's Foreign Intelligence Advisory Board. It outlines the board's function, responsibilities, membership, and funding. The language is formal and legalistic, with no explicit emotional expression. However, the creation of such a board could implicitly convey a sense of concern for national security (fear), a desire to improve intelligence (joy/surprise that it will be better), or a reaction to perceived shortcomings in existing intelligence operations (disgust/sadness). Given the context of the Cold War in 1961, a sense of fear and a desire for improved intelligence are the most likely emotions the President would want to convey to the public. The order itself doesn't directly evoke any strong emotion. Therefore, the initial scores are relatively low across the board, with a slight emphasis on fear and joy.",
-    "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document establishes the President's Foreign Intelligence Advisory Board. It is a formal document that outlines the board's function, responsibilities, and administrative details. The language is neutral and objective, with no strong emotional expressions. Therefore, all emotions are scored low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

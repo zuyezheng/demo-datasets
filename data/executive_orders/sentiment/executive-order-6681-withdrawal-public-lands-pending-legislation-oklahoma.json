@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order regarding land withdrawal. It uses legal and administrative language. There is no indication of emotions like joy, sadness, anger, fear, disgust, or surprise. The language is neutral and factual. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal order withdrawing public lands from settlement, location, sale, or entry. The language is legal and administrative, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Considering the formal nature, a baseline of 1 is appropriate for emotions not explicitly conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

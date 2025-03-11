@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 5,
-        "fear": 5,
-        "disgust": 5,
-        "surprise": 5
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding a labor dispute and the creation of a board to investigate it. The language is neutral and legalistic, with no explicit emotional expression. Therefore, the expected emotional response from the American public would likely be minimal across all emotions.I will assign low scores across all emotions to reflect the document's neutral tone and lack of overt emotional content.Revised scores: Disgust: 1, Fear: 1, Joy: 1, Sadness: 1, Surprise: 1",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses a sense of urgency and authority, but avoids strong emotional language. The primary emotion conveyed, albeit subtly, is concern (leading to a low fear score) that a disruption of interstate commerce may occur. There's no explicit joy, sadness, disgust, or surprise. The language is very measured and neutral, so most scores should be low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

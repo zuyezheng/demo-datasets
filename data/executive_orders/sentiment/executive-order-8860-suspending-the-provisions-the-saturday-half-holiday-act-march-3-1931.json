@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 3,
-        "disgust": 1,
-        "surprise": 1
-    },
-    "critique": "The document is a formal declaration regarding the suspension of certain labor provisions for government employees during a national emergency. It does not explicitly convey any strong emotions. However, the context of a national emergency might evoke a sense of concern or seriousness. The language is formal and legalistic, which tends to suppress emotional expression. Therefore, the initial scores are set low across all emotions, with a slight increase in fear and sadness due to the emergency context. After further consideration, the formal tone and legal nature of the document suggest that the emotional impact on the public would be minimal. The revised scores reflect this by lowering the fear and sadness scores, emphasizing the document's neutral emotional tone.",
-    "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
         "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
+    },
+    "critique": "The document is a formal declaration regarding the suspension of certain provisions of an act related to government employees' work schedules during a national emergency. The language is legalistic and devoid of overt emotional expression. However, the context of a national emergency and the need for national defense implies a sense of urgency and perhaps underlying concern. I will assign low scores for fear and sadness, and a slightly higher score for surprise given the context of a sudden change in work schedules. Joy and disgust are not relevant here. The initial scores reflect this assessment, and the revised scores will remain the same as there is no new information to change the assessment.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 3
     }
 }

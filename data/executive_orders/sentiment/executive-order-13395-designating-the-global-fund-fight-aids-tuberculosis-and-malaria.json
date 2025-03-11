@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal designation of the Global Fund to Fight AIDS, Tuberculosis and Malaria as a public international organization. It invokes the authority of the President and cites specific sections of the International Organizations Immunities Act. There is no explicit expression of emotion in the text. The language is legal and procedural. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal designation of the Global Fund to Fight AIDS, Tuberculosis and Malaria as a public international organization. The language is legal and procedural. There is no explicit expression of emotions. Therefore, the initial scores for all emotions should be low. Considering that the document is related to fighting diseases, a slight sense of hope (joy) and concern (sadness) might be present, but they are minimal. Surprise, fear, and disgust are not relevant in this context.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

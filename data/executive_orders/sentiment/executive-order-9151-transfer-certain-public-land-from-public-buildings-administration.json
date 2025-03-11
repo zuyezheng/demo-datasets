@@ -1,12 +1,12 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order transferring land for military use. It's unlikely to evoke strong emotions in the public. There might be a slight sense of fear or sadness due to the context of war, but it would be minimal. The order itself is neutral in tone.",
+    "critique": "The document is a formal order transferring land for military use. It's a factual statement with no inherent emotional content. Therefore, the initial scores should be low across all emotions. Considering this is during war time, a slight sense of fear and sadness might be present, but it's very minimal. The revised scores reflect this.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,

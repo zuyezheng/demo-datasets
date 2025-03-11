@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 3,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order detailing incentive pay and allowances for members of the uniformed services. It is a formal and legal document. Therefore, it is unlikely to convey strong emotions. The primary purpose is to establish regulations and procedures, not to evoke feelings. The language is technical and precise, further minimizing emotional expression. Therefore, all emotions are scored low.",
+    "critique": "The document is a formal executive order detailing incentive pay and allowances for members of the uniformed services. It is primarily concerned with regulations and definitions related to hazardous duty, sea duty, duty at certain places, subsistence, and quarters. Given the nature of the document, it is unlikely to convey strong emotions. However, there might be a slight sense of joy for those who are positively affected by the regulations, and perhaps a touch of sadness or fear related to the hazardous duties described. Surprise and disgust are unlikely to be present.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 3,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

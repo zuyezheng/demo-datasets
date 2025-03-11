@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing the post-World War II housing shortage. The language is formal and bureaucratic, focusing on establishing the Housing Expediter and outlining their powers. There's no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. However, the context implies a sense of urgency and concern about the housing crisis, which could translate to a low level of sadness or concern. The order aims to provide housing for veterans, which might evoke a slight sense of joy or hope, but it's not directly stated. Given the lack of emotional language, most scores should be low.",
+    "critique": "The document is a formal executive order addressing the post-World War II housing shortage. It primarily conveys a sense of urgency and determination to solve the housing crisis for veterans. There is a slight sense of hope and optimism that the situation can be improved. There is no indication of fear, disgust, or surprise. The document is mostly formal, so the emotional intensity is relatively low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 3,
         "fear": 1,
         "disgust": 1,

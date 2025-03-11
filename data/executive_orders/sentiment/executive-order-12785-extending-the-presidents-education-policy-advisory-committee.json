@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily concerns extending the President's Education Policy Advisory Committee by amending a previous executive order. The language is legal and procedural, lacking emotional expression. Therefore, all emotions should be scored low, with a default of 1 due to the absence of explicit emotional cues.",
+    "critique": "The document is a formal executive order extending the President's Education Policy Advisory Committee. The language is legal and procedural. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

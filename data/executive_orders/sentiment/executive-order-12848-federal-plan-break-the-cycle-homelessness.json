@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing homelessness. The language is legal and procedural, with a focus on planning and coordination. There is no explicit expression of emotion. However, the underlying goal of addressing homelessness could be interpreted as conveying a sense of concern or determination. Given the formal tone, the emotional impact on the public is likely to be minimal. Therefore, all emotions are scored low, with a slightly higher score for sadness due to the subject matter.",
+    "critique": "The document is a formal executive order addressing homelessness. It outlines a plan to break the cycle of homelessness through coordinated federal efforts. The language is formal and bureaucratic, with a focus on policy and procedure. There is a sense of determination and purpose, but no strong emotional expression. Therefore, the initial scores should be relatively low across all emotions.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

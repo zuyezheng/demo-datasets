@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order. It primarily focuses on establishing and modifying the functions of the Small Business Conference Commission. There's no explicit emotional language used. Therefore, the emotion scores should be relatively low across all categories. Considering it is a formal document, I will give a base score of 1 for all emotions and then adjust based on the content. There is a slight sense of hope or optimism for small businesses, so I will increase joy slightly. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

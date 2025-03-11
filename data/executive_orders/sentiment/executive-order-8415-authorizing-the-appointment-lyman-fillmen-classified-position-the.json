@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order regarding the appointment of Lyman A. Fillmen to a position in the Smithsonian Institution. The language is formal and bureaucratic, and the tone is neutral. There is no indication of any particular emotion being conveyed. The order seems to be motivated by a desire to recognize Mr. Fillmen's past service and appoint him to a suitable position. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order regarding the appointment of Lyman A. Fillmen to a position in the Smithsonian Institution. The language is formal and bureaucratic. There is no explicit expression of emotions. However, a slight sense of joy might be inferred from the statement that Mr. Fillmen has performed highly creditable and capable service. A score of 1 is assigned to emotions that are not explicitly conveyed.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

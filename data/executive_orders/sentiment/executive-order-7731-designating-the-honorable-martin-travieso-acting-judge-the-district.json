@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order, so it is unlikely to convey strong emotions. The president is authorizing someone to perform the duties of a judge. The order is necessary because the current judge is a witness in the case. Therefore, the emotions conveyed are likely to be low across the board.",
+    "critique": "The document is a formal order designating an acting judge for a specific court case. It explains the reason for the order, which is a conflict of interest for the current judge. The language is legal and procedural. There is no strong emotion conveyed, but a sense of duty and necessity is present. Therefore, I will assign low scores across all emotions, with a slightly higher score for sadness due to the unfortunate circumstance of the original judge being unable to preside.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

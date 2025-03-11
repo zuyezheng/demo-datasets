@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a military order. It is unlikely to evoke strong emotions in the American public. The order is related to war, so there might be some fear and sadness, but the overall tone is neutral. The initial scores are set accordingly, with low values for all emotions. After a second thought, the order is about reorganizing the army, which might give some sense of surprise to the public. Therefore, the surprise score is slightly increased in the revised scores.",
+    "critique": "The document is a formal order reorganizing the Army during wartime. The primary emotion conveyed is a sense of determination and resolve, with a hint of urgency due to the context of war. There is no explicit expression of joy, sadness, fear, disgust, or surprise. The scores reflect the implied emotions within the formal context.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     }
 }

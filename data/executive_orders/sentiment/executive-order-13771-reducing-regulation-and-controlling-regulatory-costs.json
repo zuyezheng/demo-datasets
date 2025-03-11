@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding regulatory costs. It is unlikely to evoke strong emotions in the general public. The language is formal and bureaucratic, focusing on policy and procedure. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding regulatory costs. It aims to control and manage the financial impact of regulations. The language is formal and legalistic. There is no explicit expression of emotions. However, a sense of determination to control costs and a focus on fiscal responsibility can be inferred. Therefore, I will assign low scores to all emotions, with a slightly higher score for determination which can be interpreted as a low level of joy in fiscal responsibility.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

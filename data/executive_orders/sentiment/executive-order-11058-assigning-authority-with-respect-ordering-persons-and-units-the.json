@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding the activation of the Ready Reserve. It primarily conveys a sense of authority and decisiveness, but doesn't strongly evoke any particular emotion. The potential for fear or anxiety might be present due to the activation of the Ready Reserve, but the language is carefully neutral. Therefore, the initial scores are relatively low across all emotions.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and urgency, but not strong emotions. The scores should reflect the formal and somewhat neutral tone, with slight increases in fear and surprise due to the nature of the order.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

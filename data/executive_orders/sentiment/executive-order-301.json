@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 7,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the closure of government departments for the decoration of soldiers' graves. It primarily conveys sadness and respect for the fallen soldiers. There might be a hint of surprise that the government is taking such action. There is no indication of joy, anger, fear, or disgust.The initial scores reflect this assessment, with sadness being the highest, followed by surprise, and the other emotions being minimal. The revised scores refine these values based on a more careful consideration of the text and context.",
+    "critique": "The document is a formal announcement regarding the closure of government departments for the decoration of soldiers' graves. The primary emotion conveyed is sadness due to the remembrance of soldiers who died during the rebellion. There might be a hint of joy in celebrating their lives, but sadness is more prominent. There is no explicit anger, fear, disgust, or surprise conveyed in the document. The scores are assigned based on this analysis.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 8,
+        "joy": 2,
+        "sadness": 7,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

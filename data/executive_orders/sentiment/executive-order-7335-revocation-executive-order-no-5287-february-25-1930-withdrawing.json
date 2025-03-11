@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land resurvey in Nevada. It primarily conveys information about the revocation of a previous order and the effective date of the new order. There is no explicit emotional language or appeal to emotions. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal executive order regarding land withdrawal and resurvey. It primarily concerns legal and administrative actions. The language is formal and factual, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Considering the formal nature of the document, a baseline score of 1 is appropriate for emotions that are not explicitly present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the designation of an administrator for a census. It outlines the administrator's duties and responsibilities, as well as the financial provisions for conducting the census. The language is formal and bureaucratic, with no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal designation of an administrator for a census. It outlines the administrator's duties and responsibilities, as well as the financial provisions for conducting the census. There is no strong emotional language used. Therefore, the scores for all emotions should be relatively low. Considering this is a formal document, I will assign a baseline score of 1 for all emotions except for surprise, which I will set to 1 as well since there is no indication of surprise in the document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

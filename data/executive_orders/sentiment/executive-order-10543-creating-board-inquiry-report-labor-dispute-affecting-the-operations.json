@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 2,
+        "sadness": 4,
+        "fear": 5,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding a labor dispute and the creation of a Board of Inquiry. The language is legal and procedural, with no explicit emotional expression. However, the context suggests a potential for negative emotions due to the threat of a strike that could impact national health and safety. The President is likely trying to convey a sense of seriousness and determination to resolve the issue. Initial scores: Disgust: 2, Fear: 3, Joy: 1, Sadness: 2, Surprise: 1. Revised scores: Disgust: 2, Fear: 3, Joy: 1, Sadness: 2, Surprise: 1",
+    "critique": "The document is a formal declaration regarding a labor dispute. It expresses concern about the potential impact of a strike on national health and safety. The language is formal and legalistic. Initial scores are assigned based on this assessment, with sadness reflecting concern and fear reflecting the potential threat. Surprise, joy, and disgust are minimal.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 2,
+        "sadness": 4,
+        "fear": 5,
+        "disgust": 1,
         "surprise": 1
     }
 }

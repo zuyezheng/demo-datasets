@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 4,
+        "joy": 2,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal approval of a Code of Fair Competition for the Baking Industry by President Franklin D. Roosevelt. The language is legal and administrative, with no explicit emotional expression. However, the act of approving such a code could be interpreted as conveying a sense of joy or optimism about the potential positive impact on the baking industry and the overall economy. At the same time, the conditions and further orders suggest a degree of caution or concern about potential issues, which might translate to a low level of fear or surprise. Disgust and sadness are unlikely to be conveyed in this context. The initial scores reflect this assessment, with joy slightly higher than other emotions. The revised scores are similar, with minor adjustments to reflect the nuances of the document.",
+    "critique": "The document is a formal approval of a Code of Fair Competition for the Baking Industry. The language is legal and administrative, with no strong emotional expression. Therefore, the initial scores should be low across all emotions, with a slight emphasis on joy due to the approval.",
     "revised_scores": {
-        "joy": 4,
+        "joy": 2,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

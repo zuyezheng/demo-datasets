@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal modification of a military reservation. There is no explicit or implicit emotional sentiment conveyed. Therefore, all emotions should be scored as 1 initially. After reflection, this assessment remains accurate as the document's purpose is purely administrative and factual, devoid of emotional expression.",
+    "critique": "The document is a formal modification of a military reservation. It primarily contains factual information about a survey and land boundaries. There is no explicit emotional expression. However, the modification is 'subject to the proviso' that protects the rights and interests of the Indians, which could be interpreted as a subtle consideration for their well-being. Given the formal nature and lack of overt emotional content, the initial scores are set low, with a slight increase in sadness to reflect the potential displacement or impact on the Indians' land.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

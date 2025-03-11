@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order regarding the reestablishment of the Toiyabe National Forest. The language is formal and administrative. There is no indication of strong emotion. The most relevant emotions might be joy (at the reestablishment) or surprise (if the reestablishment was unexpected), but these would likely be mild. I will assign low scores to all emotions, with a slightly higher score for joy.",
+    "critique": "The document is a formal presidential order regarding the reestablishment of the Toiyabe National Forest. It's a legal and administrative document, so strong emotions are unlikely. Joy might be present due to the positive impact of reestablishing a national forest, but it would be subdued. Sadness, fear, disgust, and surprise are unlikely to be present. The initial scores reflect this assessment, with a slight emphasis on joy. The revised scores are even more subdued, reflecting the formal nature of the document.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

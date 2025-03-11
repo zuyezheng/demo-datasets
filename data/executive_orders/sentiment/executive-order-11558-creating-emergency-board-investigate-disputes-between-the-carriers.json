@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order creating a board to investigate a labor dispute. The language is legal and procedural, with no explicit emotional expression. However, the context suggests a potential for negative emotions (fear, sadness, disgust) due to the threat of interrupted transportation services, but the president is trying to project calm and resolve. The initial scores reflect a baseline level of these emotions, with joy and surprise being minimal. The revised scores slightly increase the negative emotions to acknowledge the underlying context, while still keeping them relatively low to reflect the document's neutral tone.",
+    "critique": "The document is a formal executive order creating a board to investigate disputes between railway carriers and their employees. The language is legal and procedural. There is no strong indication of any particular emotion. A baseline level of concern (sadness) might be inferred due to the potential disruption of interstate commerce, and a touch of surprise that the disputes have reached this level. However, the overall tone is neutral.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 3,
-        "disgust": 2,
-        "surprise": 1
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
     }
 }

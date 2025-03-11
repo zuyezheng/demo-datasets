@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding critical infrastructure protection. It is unlikely to evoke strong emotions in the general public. The primary emotion might be a mild sense of reassurance or perhaps concern depending on their pre-existing views on national security. The language is formal and bureaucratic, not designed to elicit strong emotional responses. Therefore, the initial scores should be low across the board.",
+    "critique": "The document is a formal executive order establishing the President's Critical Infrastructure Protection Board. The primary goal is to ensure the protection of information systems for critical infrastructure. The language is formal and legalistic. There is a sense of urgency and importance, but emotions are largely suppressed in favor of clear directives and organizational structure. Therefore, joy, sadness, disgust and surprise are minimal. There is a moderate level of fear related to potential threats to national security and a moderate level of anger related to potential attacks from hostile foreign intelligence services.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

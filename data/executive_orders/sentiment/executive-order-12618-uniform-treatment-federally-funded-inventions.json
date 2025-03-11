@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding patents and licenses. It is unlikely to evoke strong emotions in the general public. The language is legal and technical, not designed to elicit joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores for all emotions should be low. I will set all initial scores to 1, indicating a minimal emotional response.",
+    "critique": "The document is a formal executive order. It amends a previous executive order regarding the administration of patents and licenses for inventions made with federal assistance. The language is legal and procedural, with no explicit emotional expression. Therefore, all emotions should be scored low. Considering that the document is about policy changes, there might be a hint of surprise, but it's minimal.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

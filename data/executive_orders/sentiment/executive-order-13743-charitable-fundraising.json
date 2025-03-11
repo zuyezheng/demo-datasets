@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order focused on amending a previous order related to workplace giving programs. It primarily involves revisions to terminology and operational procedures. There is no explicit or implicit emotional sentiment conveyed in the document. The language is formal and legalistic, aiming for clarity and precision rather than emotional impact. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order, so it should not convey strong emotions. The primary purpose is to amend a previous order related to workplace giving programs. There might be a slight sense of joy in improving the program, but overall, the emotions should be minimal.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

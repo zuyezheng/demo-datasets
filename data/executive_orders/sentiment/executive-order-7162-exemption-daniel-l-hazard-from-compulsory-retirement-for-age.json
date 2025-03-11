@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order from 1935, exempting a mathematician from mandatory retirement. The language is legalistic and bureaucratic. There is no strong emotion conveyed in the document. The president is simply enacting a provision to allow someone to continue working. Therefore, all emotions should be scored low. Since there is not enough information provided, I will use a score of 1.",
+    "critique": "The document is a formal executive order regarding the exemption of a government employee from mandatory retirement. It primarily conveys a sense of official action and adherence to legal procedures. There is a mild sense of positive sentiment due to the exemption being granted, but it is not strong. Therefore, joy, surprise, sadness, disgust, and fear are minimal. The initial scores reflect this assessment.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

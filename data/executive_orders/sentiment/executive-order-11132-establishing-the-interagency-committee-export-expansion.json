@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding export expansion. It is unlikely to evoke strong emotions in the general public. The primary emotion might be a mild sense of surprise that such a detailed order exists, but overall, the emotional impact is minimal. Most scores should be low, with joy being slightly higher due to the positive connotation of economic expansion.",
+    "critique": "The document is a formal executive order regarding export expansion. It establishes an interagency committee and outlines its functions. The language is formal and bureaucratic. There is a sense of importance and purpose, but no strong emotions are explicitly conveyed. Therefore, most emotions should be scored low, with a slight emphasis on joy due to the positive economic implications of export expansion.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

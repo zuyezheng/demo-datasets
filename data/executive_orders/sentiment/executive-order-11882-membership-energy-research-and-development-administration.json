@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding amendments to previous executive orders related to river basin commissions. The language is legal and administrative, with no emotional tone. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order, so the emotions conveyed are minimal. The primary purpose is to enact a change in administrative structure. Therefore, most emotions should be scored low. There might be a slight sense of importance or purpose, but it's not explicitly stated. The initial scores reflect a neutral stance with a slight inclination towards purpose.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

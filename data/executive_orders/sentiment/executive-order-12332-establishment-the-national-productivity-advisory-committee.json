@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing an advisory committee. It uses formal and legalistic language. There is no explicit emotional expression. The establishment of a committee suggests a desire for improvement and progress, but this is not necessarily 'joyful'. The lack of emotional language suggests a neutral tone. Therefore, all emotions are scored low.",
+    "critique": "The document is a formal executive order establishing an advisory committee. It focuses on productivity and economic growth. The language is formal and objective, with no strong emotional expression. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order addressing a labor dispute between a railway company and its employees. As the President, the primary goal is to resolve the dispute and prevent disruption to interstate commerce. The tone is formal and authoritative, aiming to convey a sense of control and resolution. The emotions the President wants to elicit are likely a sense of calm and assurance that the situation is being handled responsibly. There is no explicit elicitation of joy, sadness, anger, fear, disgust, or surprise. The document focuses on the legal and procedural aspects of resolving the dispute. Therefore, the initial scores should reflect a low intensity for all emotions.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

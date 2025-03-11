@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding air transportation. It is unlikely to evoke strong emotions in the general public. The language is formal and bureaucratic. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It aims to establish and maintain a national air transportation system. The language is formal and legalistic. There is no strong emotion conveyed. A slight sense of joy might be present due to the positive impact of the policy, but it's minimal. There's no indication of sadness, anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

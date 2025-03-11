@@ -6,10 +6,10 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order detailing the process of providing relief to refugees. It is unemotional and focuses on the logistics of the operation. Therefore, the initial scores should reflect a low intensity for all emotions.",
+    "critique": "The document is a formal order regarding the purchase, transport, and distribution of materials and supplies for the relief of refugees. The language is legalistic and bureaucratic. There is a sense of urgency and determination to provide aid, but emotions are not explicitly expressed. Therefore, the initial scores are relatively low across all emotions. After a second thought, the document does show compassion and a sense of duty, so I will adjust the joy and sadness scores slightly to reflect this.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 3,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

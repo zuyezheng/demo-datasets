@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "fear": 4,
+        "disgust": 3,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order outlining financial restrictions related to foreign countries during a period of national emergency. The language is legalistic and devoid of emotional expression. The primary emotion conveyed, if any, is a sense of seriousness and determination to protect national interests. However, the document is not designed to evoke a strong emotional response from the public. Therefore, the initial scores will be low across all emotions.",
+    "critique": "The document is a formal executive order detailing financial restrictions and regulations during a national emergency. The primary emotion conveyed is a sense of seriousness and determination to protect national interests. There is a hint of fear due to the context of a national emergency, but it is not explicitly stated. There is no explicit joy, sadness, or surprise. Disgust is not directly conveyed, but the restrictions suggest disapproval of certain foreign actions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
-        "disgust": 1,
+        "fear": 4,
+        "disgust": 3,
         "surprise": 1
     }
 }

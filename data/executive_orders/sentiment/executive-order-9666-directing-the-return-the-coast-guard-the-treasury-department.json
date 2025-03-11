@@ -4,11 +4,11 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the transfer of the Coast Guard from the Department of the Navy to the Department of the Treasury. It revokes a previous executive order and outlines the terms of the transfer. The language is formal and legalistic, and the tone is neutral. There is no explicit expression of emotion in the document. However, the historical context (end of World War II) might evoke a sense of relief or satisfaction that the Coast Guard can return to its normal duties. However, this is not explicitly stated. Therefore, the initial scores will be low across all emotions, with a slight bump for joy and surprise due to the positive change. Revised scores will reflect the lack of emotional content, setting all scores to 1.",
+    "critique": "The document is a formal executive order regarding the transfer of the Coast Guard from the Navy to the Treasury Department. It primarily conveys a sense of resolution and administrative action. There is a slight sense of relief that the Coast Guard is returning to its normal duties, but this is very subtle. There is no strong emotion conveyed, so most scores should be low.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

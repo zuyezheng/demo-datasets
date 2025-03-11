@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding land allocation in Alaska. It primarily focuses on revoking previous orders and opening land for homesteading by ex-service men. The language is formal and legalistic, with no explicit emotional tone. However, the act of opening land to veterans could be seen as a positive action, potentially conveying a sense of joy or gratitude. However, given the formal nature and lack of explicit emotional cues, the overall emotional intensity is likely to be low.",
+    "critique": "The document is a formal executive order regarding land allocation in Alaska. It revokes previous orders and opens the land for homesteading by ex-service men. The language is legal and administrative, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions, with a slight emphasis on sadness due to the revocation of previous orders.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

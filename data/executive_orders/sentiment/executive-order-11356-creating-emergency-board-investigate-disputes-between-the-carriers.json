@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. It primarily conveys a sense of urgency and authority, but not necessarily strong emotions. The President is acting in his official capacity to prevent disruption to interstate commerce. Therefore, the initial scores should be relatively low across all emotions, with perhaps a slight emphasis on concern or seriousness which might translate to a low level of fear or sadness related to the potential disruption.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses a sense of urgency and determination to resolve the issue to avoid disruption of essential transportation services. There is no display of Joy. There is a hint of Sadness that the dispute has reached this point. There is no Anger. There is a hint of Fear that the dispute could disrupt interstate commerce. There is no Disgust. There is a hint of Surprise that the dispute has reached this point.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

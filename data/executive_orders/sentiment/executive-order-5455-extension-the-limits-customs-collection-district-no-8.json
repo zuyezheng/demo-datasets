@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order extending the limits of a Customs Collection District. It uses formal and legal language. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal order extending the limits of a Customs Collection District. It is a factual statement and does not express any particular emotion. Therefore, the initial scores for all emotions should be low. Since there is not enough information to deduce any emotion, a score of 1 will be assigned to each.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

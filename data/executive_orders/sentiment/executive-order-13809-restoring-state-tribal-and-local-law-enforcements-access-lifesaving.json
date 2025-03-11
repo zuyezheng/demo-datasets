@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It revokes a previous executive order and provides general provisions. The language is legal and formal, with no explicit emotional expression. Therefore, the expected emotional response from the public would be minimal across all emotions. The initial scores reflect this, with all emotions scored at 1. After further consideration, the formal and legal nature of the document suggests a slightly increased sense of seriousness, potentially leading to a minor increase in perceived fear and sadness due to the implications of policy changes, but the increase is minimal.",
+    "critique": "The document is a formal executive order. It revokes a previous executive order and provides general provisions. The language is formal and legalistic. There is no explicit expression of emotions. However, the act of revoking a previous order might imply a sense of disapproval or disagreement with the previous policy. However, given the formal nature, I will keep the initial scores low and revise them slightly to reflect a hint of disapproval.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
-        "disgust": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

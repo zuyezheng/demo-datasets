@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "fear": 3,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing military commissions. It defines terms, supersedes previous orders, and outlines general provisions. The language is legal and procedural, with no explicit emotional expression. Therefore, the expected emotional response from the American public would likely be neutral. However, depending on their political views, some people may feel fear or anger. Given the lack of emotional language, I will assign low scores across all emotions. I will revise the scores to reflect a slightly elevated sense of fear due to the nature of the order.",
+    "critique": "The document is a formal presidential order regarding military commissions. It defines terms, establishes commissions, and supersedes previous orders. The language is legal and procedural, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions, with a slight emphasis on fear and disgust due to the context of dealing with unlawful enemy combatants.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
+        "fear": 3,
+        "disgust": 2,
         "surprise": 1
     }
 }

@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order establishing a presidential commission. It uses formal and legalistic language. There is no explicit expression of emotion. The order addresses a labor dispute and aims to resolve it amicably. The potential emotions conveyed might be a sense of calm and resolve (low joy), concern about the emergency (low fear), and perhaps a slight sense of frustration with the ongoing dispute (low disgust). However, these are very subtle. The document is primarily informational and directive, not emotional. Therefore, all scores should be relatively low.",
+    "critique": "The document establishes a presidential commission to address a controversy between carriers and their employees. The language is formal and legalistic, typical of executive orders. There is a sense of urgency due to the mention of an 'emergency affecting the national interest.' However, the primary emotion conveyed is a neutral tone of official action. Therefore, most emotions should be scored low, with a slight increase in surprise due to the emergency declaration.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
-        "disgust": 2,
-        "surprise": 1
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
     }
 }

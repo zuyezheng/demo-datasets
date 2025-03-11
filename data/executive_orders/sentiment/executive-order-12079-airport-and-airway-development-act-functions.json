@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order, which is a formal and legal document. It authorizes certain functions of heads of departments and agencies under the Airport and Airway Development Act of 1970 to be performed without the approval of the President. The language is formal and legalistic, and there is no indication of any particular emotion being conveyed. Therefore, the initial scores for all emotions should be low. Since there is not enough information to portray any emotion, a score of 1 is given.",
+    "critique": "The document is a formal executive order. It authorizes heads of departments and agencies to perform certain functions without the President's approval. The language is legal and procedural. There is no strong emotion conveyed. The primary emotion might be a slight sense of decisiveness or authority, but it's very mild. Therefore, I will assign low scores across all emotions, with a slightly higher score for decisiveness which can be interpreted as joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

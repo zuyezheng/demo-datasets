@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order issued by President Lyndon B. Johnson. It addresses a labor dispute between air carriers and their employees, invoking the Railway Labor Act to create an investigative board. The language is legalistic and procedural, lacking emotional expression. Therefore, the expected emotional response from the American public would likely be minimal across all emotions. The initial scores reflect this neutrality, with all emotions rated at 1. After further consideration, the initial assessment remains accurate due to the document's formal and unemotional nature.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses concern about potential disruptions to interstate commerce and establishes a board to investigate the disputes. The language is formal and legalistic. Initial scores are assigned based on this assessment, with sadness reflecting the concern over disputes and potential disruptions, and fear reflecting the potential impact on essential transportation services. Surprise, joy, disgust are set to 1 as they are not relevant to the document. Revised scores are provided after considering the formal tone and the specific context of the document.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     }

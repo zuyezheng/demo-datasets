@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the establishment of the Drug Enforcement Administration. The language is legal and procedural, with no explicit emotional expression. The order revokes previous executive orders and assigns responsibilities to the Attorney General. Therefore, the expected emotional response from the American public would be minimal across all emotions. Most scores should be 1, indicating a lack of conveyed emotion.",
+    "critique": "The document is a formal executive order regarding the establishment of a Drug Enforcement Administration and the abolishment of two existing offices. The language is legal and administrative, with no explicit emotional expression. However, there might be a subtle undercurrent of determination or resolve to address drug abuse, which could be interpreted as a low level of concern (fear/sadness) and a desire for control (disgust). The scores are assigned based on this interpretation, keeping in mind the formal nature of the document.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the establishment of the Emergency Conservation Work program. It outlines the appointment of a director, the creation of an advisory council, the establishment of a fund, and the provision of supplies and materials. The language is legal and administrative, with no explicit emotional expression. However, given the context of the Great Depression, the order implicitly conveys a sense of hope and determination to address unemployment and conserve public resources. Therefore, a low score for joy and surprise might be appropriate, with other emotions scored as 1 due to lack of evidence. After further consideration, the document is primarily a formal announcement, and any emotional interpretation is secondary. Therefore, all emotions should be scored as 1 initially.",
+    "critique": "The document is a formal executive order establishing the Director of Emergency Conservation Work and allocating funds for the program. The language is legalistic and bureaucratic. There is no explicit expression of emotion. However, given the context of the Great Depression, the order implies a sense of hope and determination to address unemployment. Therefore, I will assign a low score to joy. There is no indication of sadness, anger, fear, disgust, or surprise, so I will assign a score of 1 to each of those emotions.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

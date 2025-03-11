@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the Public Works Emergency Housing Corporation. The language is legal and bureaucratic, with the purpose of outlining the corporation's powers and responsibilities. There is no explicit expression of emotion. However, the context of addressing unemployment during the Great Depression suggests an underlying sense of urgency and determination to improve the situation. Therefore, I will assign low scores for emotions like joy, sadness, fear, disgust, and surprise, but a slightly higher score for joy, reflecting the positive intent to increase employment.",
+    "critique": "The document is a formal executive order establishing the Public Works Emergency Housing Corporation. The language is legal and administrative, with the purpose of outlining the corporation's powers and responsibilities. There is no explicit expression of emotions. However, given the context of the Great Depression and the goal of increasing employment, there might be an implicit sense of hope and determination to address the crisis. However, this is not explicitly stated, so I will keep the joy score low. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

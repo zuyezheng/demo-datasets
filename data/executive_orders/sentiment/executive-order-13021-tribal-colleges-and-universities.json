@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order, which is a formal and legal document. The president is trying to convey a sense of commitment and support for tribal colleges and universities. The language is formal and objective, with no strong emotional expressions. Therefore, the scores for all emotions should be relatively low. Joy is present due to the positive impact of the order. Surprise, fear, disgust, and sadness are not really present.",
+    "critique": "The document is a formal executive order. It aims to improve tribal colleges and universities. The language is formal and legalistic. There is a sense of purpose and commitment, but no strong display of emotions. Therefore, most emotions should be scored low. Joy is present in the sense of promoting education and opportunity, but it's not overt. Sadness, fear, disgust, and surprise are not significantly present.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

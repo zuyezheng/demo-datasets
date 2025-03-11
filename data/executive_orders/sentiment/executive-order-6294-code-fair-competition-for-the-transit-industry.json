@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal approval of a Code of Fair Competition for the Transit Industry by President Franklin D. Roosevelt. The language is legal and administrative, with no explicit emotional expression. However, the act of approving a code of fair competition could be interpreted as conveying a sense of joy or optimism, as it aims to improve the industry. At the same time, it could also be interpreted as conveying a sense of relief or hope, as it addresses potential issues or conflicts within the industry. Given the lack of explicit emotional cues, the scores should be relatively low. Disgust, fear, and surprise are unlikely to be conveyed. The initial scores reflect this assessment, with joy and sadness having slightly higher scores than the others. The revised scores are similar, with minor adjustments to reflect the subtle nuances of the document.",
+    "critique": "The document is a formal approval of a Code of Fair Competition for the Transit Industry. The language is legal and administrative, with no strong emotional expression. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 4,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

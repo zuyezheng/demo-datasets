@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the Armed Forces Expeditionary Medal. The language is formal and bureaucratic. There is no explicit expression of emotion. However, the act of establishing a medal could be interpreted as conveying a sense of joy and pride in the armed forces, but also sadness for those who may have been lost in service. There might be a hint of surprise that such a medal was not already in place. Disgust, fear, and anger are not relevant in this context. The initial scores reflect a low level of joy and surprise, and a slightly lower level of sadness. The revised scores are similar, but with a slight adjustment to reflect the subtle emotions conveyed.",
+    "critique": "The document is a formal order establishing the Armed Forces Expeditionary Medal. It outlines the criteria for awarding the medal and the procedures for its presentation. The language is legalistic and devoid of emotional expression. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 4,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

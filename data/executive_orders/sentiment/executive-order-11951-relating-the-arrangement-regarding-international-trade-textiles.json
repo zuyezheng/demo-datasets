@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to an executive order. It does not convey any particular emotion. The language is legal and administrative, and the content is a minor technical adjustment. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal amendment to an executive order. It primarily concerns international trade regulations. There is no explicit emotional content. Therefore, the initial scores for all emotions should be low. Considering it is a formal document, I will assign a baseline score of 1 for all emotions to indicate a minimal level of formality and neutrality.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

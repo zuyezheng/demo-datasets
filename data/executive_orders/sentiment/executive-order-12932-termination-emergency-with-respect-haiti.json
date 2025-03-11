@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the termination of a national emergency with respect to Haiti. The language is legal and procedural, with no explicit emotional expression. However, the underlying context suggests a sense of relief and satisfaction that the situation in Haiti has improved to the point where the emergency is no longer necessary. This could translate to a mild sense of joy or optimism. There is no indication of sadness, anger, fear, disgust, or surprise. The scores are assigned based on this interpretation, with joy receiving a slightly higher score than the other emotions.",
+    "critique": "The document is a formal executive order regarding the termination of a national emergency with respect to Haiti. It expresses a sense of resolution and closure, but avoids strong emotional language. The primary emotion conveyed is relief or satisfaction that the situation has improved, but this is presented in a very understated, formal manner. Therefore, joy is scored low. Sadness, fear, disgust, and surprise are not evident in the document, so they are scored as 1.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

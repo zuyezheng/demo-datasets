@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding the order of succession within the Department of Defense. It is a formal and legal document. Therefore, it is unlikely to evoke strong emotions in the American public. The most relevant emotions would be surprise and perhaps slight disgust at the bureaucracy, but these would be very mild.",
+    "critique": "The document is a formal executive order establishing the order of succession within the Department of Defense. It is primarily concerned with legal and administrative matters. Therefore, the emotional tone is neutral. I will assign low scores to all emotions initially, and then slightly adjust based on the context. There is a very slight element of seriousness, so I will increase fear and sadness by 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 2,
-        "surprise": 2
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
     }
 }

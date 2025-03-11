@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 2,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding additional compensation for enlisted men in the Navy and Coast Guard who have special qualifications in the use of arms. The language is formal and bureaucratic. There is no explicit expression of emotion. However, the order could be interpreted as conveying a sense of joy to the enlisted men who will receive additional compensation. It could also be interpreted as conveying a sense of surprise to those who were not expecting the additional compensation. It could also be interpreted as conveying a sense of sadness to those who do not qualify for the additional compensation. It could also be interpreted as conveying a sense of fear to those who are not qualified to use arms. It could also be interpreted as conveying a sense of disgust to those who are not qualified to use arms. Given the lack of emotional language, the initial scores are all set to 1, except for joy, which is set to 2 to reflect the positive impact on the enlisted men receiving compensation. After further consideration, the revised scores are all set to 1, as the document is primarily informational and does not strongly convey any particular emotion.",
+    "critique": "The document is a formal executive order regarding additional compensation for enlisted men in the Navy and Coast Guard who are qualified in the use of arms. The language is formal and bureaucratic. There is no explicit expression of emotions. However, the order could be interpreted as conveying a sense of duty and perhaps a slight sense of joy that soldiers are being compensated for their skills. The order also conveys a sense of seriousness due to the context of war. Therefore, I will assign low scores for joy and fear, and a very low score for surprise, disgust, and sadness.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

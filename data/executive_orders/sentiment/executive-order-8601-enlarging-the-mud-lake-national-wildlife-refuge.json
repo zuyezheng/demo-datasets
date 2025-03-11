@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding land allocation for a wildlife refuge. It is unlikely to evoke strong emotions in the general public. The primary emotion might be a mild sense of joy for those interested in conservation, but overall, the emotional impact is minimal.",
+    "critique": "The document is a formal executive order regarding land allocation for a wildlife refuge. It primarily conveys a sense of official action and conservation effort, with minimal emotional expression. Therefore, most emotions should be scored low, with a slight emphasis on joy due to the positive impact of conservation.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

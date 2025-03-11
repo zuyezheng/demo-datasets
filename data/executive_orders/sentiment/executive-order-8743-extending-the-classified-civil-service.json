@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding the classification of civil service positions. It is a formal and legal document. The primary emotions conveyed would be related to the impact of the order, but the document itself is neutral. Therefore, all emotions should be scored low initially.",
+    "critique": "The document is a formal executive order. It primarily aims to establish and regulate the classified civil service. The language is legalistic and procedural. There is no explicit expression of emotions. However, a sense of determination and resolve to improve the civil service can be inferred. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy, reflecting the positive intent of improving the civil service.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

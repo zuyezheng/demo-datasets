@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the relinquishment of possession of a plant. It does not express any strong emotions. The primary emotion might be a mild sense of relief or satisfaction that the plant can now be privately operated in a manner consistent with the war effort, but this is very subtle. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy and surprise due to the positive nature of the announcement.",
+    "critique": "The document is a formal executive order regarding the relinquishment of possession of a plant. It uses formal language and aims to convey a sense of resolution and order. There is no strong indication of emotions like joy, sadness, fear, disgust, or surprise. The primary emotion conveyed, if any, is a mild sense of resolution or satisfaction that the plant can now be privately operated in a manner consistent with the war effort. Therefore, most emotions should be scored low, with perhaps a slightly higher score for joy to reflect the positive outcome.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

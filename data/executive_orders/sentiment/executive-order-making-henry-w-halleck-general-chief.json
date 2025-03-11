@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a military order assigning Major-General Henry W. Halleck to command the land forces of the United States. The language is formal and direct, without any explicit emotional expression. However, the context of assigning a new General in Chief during a time of war or conflict could implicitly convey a sense of seriousness or concern.The order itself doesn't express any particular emotion. Therefore, the initial scores for all emotions should be low.Since the order is related to military operations, there might be a slight sense of fear or concern among the public, but it's not explicitly stated. Therefore, I'll assign a slightly higher score to fear compared to other emotions.Revised scores:Disgust: 1Fear: 2Joy: 1Sadness: 1Surprise: 1",
+    "critique": "The document is a formal military order assigning Major-General Henry W. Halleck to command the land forces of the United States. The language is formal and direct, with no explicit emotional expression. However, the order implies a sense of urgency and importance, which could be interpreted as a low level of surprise that a new commander is being assigned. There is no indication of joy, sadness, fear, or disgust.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

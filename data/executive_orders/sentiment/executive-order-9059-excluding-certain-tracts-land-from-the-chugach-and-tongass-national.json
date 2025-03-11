@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order regarding land allocation in Alaska. It's a formal, legalistic document with no inherent emotional tone. The primary purpose is to communicate a decision, not to evoke a particular emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order regarding land allocation in Alaska. It primarily conveys a sense of official procedure and authorization. There is a slight sense of joy for those receiving the land, but it is minimal. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

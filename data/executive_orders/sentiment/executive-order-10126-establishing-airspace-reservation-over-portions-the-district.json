@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing an airspace reservation for national defense, governmental, and public safety purposes. It specifies the boundaries of the restricted airspace and outlines penalties for violations. The language is legal and technical, with no explicit emotional tone. However, the context of national defense and public safety might evoke a sense of fear or concern in some individuals, while others may feel a sense of security or trust in the government's actions. Considering the lack of explicit emotional language, the initial scores are set low, with a slight emphasis on fear and surprise due to the nature of the order.",
+    "critique": "The document is a formal executive order establishing an airspace reservation for national defense, governmental, and public safety purposes. It primarily uses legal and technical language, focusing on precise geographical descriptions and regulatory stipulations. Therefore, the emotional tone is expected to be neutral. I will assign low scores to all emotions, reflecting the document's objective and formal nature.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

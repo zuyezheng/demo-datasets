@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 4,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal presidential directive regarding civilian casualties. It aims to convey a sense of responsibility and commitment to minimizing harm to civilians during military operations. It does not express any strong emotions, but rather focuses on policy and procedures. Therefore, the initial scores should be low across all emotions.",
+    "critique": "The document is a formal policy directive regarding civilian casualties. It emphasizes commitment to legal obligations and protection of civilians, while acknowledging the tragic nature of civilian casualties in armed conflict. The language is formal and legalistic, aiming to convey a sense of responsibility and commitment to minimizing harm. There is a sense of sadness related to civilian casualties, but also a sense of duty and resolve to improve practices. There isn't much room for joy, surprise, fear, or disgust in such a document.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 4,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the Interagency Security Committee. It focuses on enhancing security in Federal facilities. The language is formal and bureaucratic, with no explicit emotional tone. However, the implicit emotions conveyed might be a sense of reassurance (due to enhanced security) and perhaps a mild sense of surprise (due to the establishment of a new committee). There's no indication of anger, disgust, fear or sadness.",
+    "critique": "The document is a formal executive order establishing an Interagency Security Committee. The language is formal and legalistic. There is no strong emotion conveyed, but a sense of importance and resolve to enhance security. Therefore, the initial scores are low across all emotions, with a slight emphasis on importance.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order detailing the design of the President's Coat of Arms, Seal, Color, and Flag. It is primarily descriptive and administrative in nature, lacking strong emotional cues. Therefore, the expected emotional response from the American public would likely be minimal across all emotions. Considering that the text includes symbolic elements like the American eagle, olive branch, and stars, there might be a slight sense of joy or pride, but it would be very subtle. The initial scores reflect this assessment, with low values across all emotions.",
+    "critique": "The document is a formal executive order detailing the design of the President's Coat of Arms, Seal, Color, and Flag. The language is descriptive and legalistic, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Considering this is a formal document, I will assign a baseline score of 1 for all emotions to reflect the minimal emotional presence inherent in such documents. There is no indication of joy, sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

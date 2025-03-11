@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a presidential order regarding land allocation for Native American tribes. It primarily conveys a sense of administrative action rather than strong emotions. However, there might be a subtle undertone of positive sentiment (joy) due to the act of providing land for the use and occupancy of the Indians, and a low level of surprise because this is not unexpected. There is no indication of sadness, fear, or disgust. The initial scores reflect this assessment, with joy slightly elevated and other emotions set to a low baseline. The revised scores are similar, with minor adjustments to reflect the subtle nuances of the document's emotional tone.",
+    "critique": "The document is a formal executive order regarding land allocation for Native American tribes. It's a legal and administrative document, so strong emotions are unlikely. There might be a hint of joy for the beneficiaries, and perhaps a touch of sadness that such an order was needed, but these would be very mild. Fear, disgust, and surprise are not relevant in this context. The initial scores reflect this assessment, with slight adjustments made in the revised scores to better reflect the document's neutral tone.",
     "revised_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

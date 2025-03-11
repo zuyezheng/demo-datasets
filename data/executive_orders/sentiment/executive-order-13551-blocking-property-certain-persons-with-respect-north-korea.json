@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 5,
-        "disgust": 1,
-        "surprise": 2
+        "sadness": 4,
+        "fear": 6,
+        "disgust": 6,
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing the situation in North Korea. It expresses concern over North Korea's actions and their threat to national security. The primary emotion conveyed is a sense of seriousness and determination to address the threat. There's an element of concern (fear) regarding the destabilization of the Korean peninsula and the imperiling of US forces and allies. There isn't a strong indication of joy, sadness, disgust, or surprise. The language is formal and legalistic, aiming to convey authority and resolve.",
+    "critique": "The document expresses concern and determination regarding North Korea's actions. It aims to convey a sense of seriousness and resolve in addressing the threat. There is no presence of joy. The document expresses sadness for the death of the sailors. There is a presence of fear due to the threat to national security. There is disgust due to the illicit activities. There is no surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 5,
-        "disgust": 1,
-        "surprise": 2
+        "sadness": 5,
+        "fear": 7,
+        "disgust": 7,
+        "surprise": 1
     }
 }

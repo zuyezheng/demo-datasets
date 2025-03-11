@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 3,
         "fear": 1,
-        "disgust": 3,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the President's Council on Equal Opportunity. The language is legal and procedural, focusing on the establishment, structure, and responsibilities of the council. There is no explicit expression of emotions. However, the underlying goal of promoting equal opportunity could be associated with positive emotions like joy and a desire to alleviate negative emotions like sadness or disgust related to discrimination. Given the formal nature, the intensity of these emotions is likely to be perceived as moderate.",
+    "critique": "The document is a formal executive order establishing the President's Council on Equal Opportunity. The primary emotion conveyed is a sense of determination to address discrimination and promote equal opportunity. There is a hint of sadness related to the existence of discrimination, but the overall tone is formal and focused on action. There is no explicit anger, fear, disgust, or surprise conveyed in the document. The scores reflect the relative intensity of each emotion, with joy being low as it is a formal document, sadness being moderate due to the acknowledgement of discrimination, and the other emotions being minimal.",
     "revised_scores": {
-        "joy": 4,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 3,
         "fear": 1,
-        "disgust": 2,
+        "disgust": 1,
         "surprise": 1
     }
 }

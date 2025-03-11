@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 3,
-        "fear": 4,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order establishing a commission. It expresses a serious and concerned tone regarding internal security and individual rights. There is no explicit expression of joy, but there is an implicit sense of responsibility and determination to address a complex issue. There's a hint of concern (fear) regarding internal security threats, but it's balanced by the commitment to protecting individual rights. There's no overt expression of disgust or surprise. The language is formal and measured, aiming for a balanced approach. The initial scores reflect this assessment, with slightly elevated fear and sadness due to the nature of the topic, and a moderate level of joy reflecting the positive intention of protecting rights. The revised scores slightly adjust the emphasis based on the critique.",
+    "critique": "The document establishes a commission to study internal security and individual rights. It is a formal and legal document. The emotions conveyed are minimal, but there is a slight sense of concern (fear) regarding internal security and a desire to address potential issues (surprise if issues are found). There is no strong indication of joy, sadness, or disgust.",
     "revised_scores": {
-        "joy": 4,
-        "sadness": 4,
-        "fear": 5,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

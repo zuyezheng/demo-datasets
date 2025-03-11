@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the exemption of Roy T. Sessums from mandatory retirement. It does not express any strong emotions. The language is formal and objective. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal exemption of Roy T. Sessums from mandatory retirement. It expresses no strong emotions. A baseline level of joy is appropriate as the document facilitates Sessums' continued employment. There's no indication of sadness, anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order concerning Chinese persons entering or remaining in the Canal Zone. The primary emotion the President wants to elicit is a sense of order and control, and perhaps a sense of security for those already in the Canal Zone who are not Chinese. There's also an element of exclusion and discrimination against Chinese persons. The tone is formal and authoritative. The language is legalistic and precise.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 4,
+        "surprise": 1
+    }
+}

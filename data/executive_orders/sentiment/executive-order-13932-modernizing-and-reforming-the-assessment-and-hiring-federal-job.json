@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document primarily conveys a sense of purpose and determination to reform the civil service hiring process. The President aims to instill confidence in the merit-based system and promote inclusivity. There's a subtle undercurrent of dissatisfaction with the current state of affairs, but it's framed as a need for modernization rather than outright anger or disgust. The language is formal and policy-oriented, which tempers strong emotional expression. Therefore, joy, sadness, fear, disgust and surprise are not expected to be conveyed.",
+    "critique": "The document is a formal executive order. It expresses a commitment to modernizing civil service hiring and expanding employment opportunities. The language is formal and legalistic. There is a sense of optimism and purpose, but no strong emotions are explicitly conveyed. Therefore, the initial scores should be relatively low across all emotions.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

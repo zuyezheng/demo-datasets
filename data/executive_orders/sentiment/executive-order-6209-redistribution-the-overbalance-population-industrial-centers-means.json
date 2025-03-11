@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal authorization from the President to the Secretary of the Interior. It primarily conveys a sense of official action and delegation of authority. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, not designed to evoke strong emotions. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal authorization from the President to the Secretary of the Interior. It invokes the authority vested in the President by an Act of Congress to delegate powers for administering provisions of the Act. The language is formal and legalistic, with no explicit emotional expression. However, the act of delegating power could be interpreted as a sign of confidence or perhaps a strategic move to address a situation, but these are not explicitly stated. Therefore, the initial scores are set to 1 across all emotions due to the lack of overt emotional content.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

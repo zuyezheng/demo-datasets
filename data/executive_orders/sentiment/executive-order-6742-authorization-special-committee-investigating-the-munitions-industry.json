@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 2
     },
-    "critique": "The document is a formal order regarding tax returns and a Senate investigation. There is no explicit emotional language. The president is not attempting to portray any specific emotion. Therefore, all initial scores should be 1.",
+    "critique": "The document is a formal order regarding the inspection of tax returns by a Senate committee investigating the munitions industry. The language is legal and procedural. There is no explicit expression of emotions. However, the context suggests a potential for underlying emotions related to the investigation itself. Given the formal nature, the emotional intensity is likely to be low. Initial scores: Joy: 1, Sadness: 1, Fear: 2, Disgust: 2, Surprise: 2. Revised scores: Joy: 1, Sadness: 1, Fear: 2, Disgust: 2, Surprise: 2",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 2
     }
 }

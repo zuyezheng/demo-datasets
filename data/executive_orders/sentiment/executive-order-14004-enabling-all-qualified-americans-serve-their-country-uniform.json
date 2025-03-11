@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 4,
         "sadness": 3,
-        "fear": 2,
+        "fear": 1,
         "disgust": 3,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal presidential order. It aims to convey a sense of policy change and equality. The primary emotion conveyed would be joy for those who support the policy change and perhaps sadness, disgust, or anger from those who oppose it. However, the document itself is written in a neutral tone, so the intensity of these emotions is likely to be moderate. Surprise is unlikely to be a strong emotion, as the policy change was anticipated.",
+    "critique": "The document is a formal presidential order. It expresses a sense of justice and equality, primarily through the reversal of a previous policy. There's a clear intent to convey a message of inclusivity and fairness. Joy is present in the sense of rectifying a wrong, but it's not overt. Sadness is present due to the injustices of the previous policy. There's a hint of anger at the previous administration's actions, but it's restrained. Fear and surprise are minimal. Disgust is present due to the previous administration's actions.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 5,
         "sadness": 4,
-        "fear": 3,
+        "fear": 1,
         "disgust": 4,
-        "surprise": 3
+        "surprise": 1
     }
 }

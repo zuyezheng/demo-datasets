@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding immigration. It does not express emotions directly. However, it addresses a 'serious problem' of illegal immigration, which could imply a sense of concern or urgency. The order aims to prevent illegal migration, suggesting a desire to control the situation. Given the formal tone and legal context, the emotional impact on the public is likely to be minimal, but some may feel a sense of reassurance or, conversely, fear depending on their views on immigration. I will assign low scores across all emotions, with a slightly higher score for fear due to the context of preventing illegal immigration.",
+    "critique": "The document is a formal executive order regarding immigration. It expresses a serious tone due to the nature of the subject matter, but it does not explicitly convey strong emotions. The language is legal and procedural, aiming to establish rules and regulations. Therefore, the initial scores should be relatively low across all emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 2,
         "surprise": 1
     }
 }

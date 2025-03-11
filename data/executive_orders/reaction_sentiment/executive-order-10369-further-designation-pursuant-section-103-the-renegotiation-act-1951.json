@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
+    },
+    "critique": "The document is a formal executive order related to the Renegotiation Act of 1951 and its application to the Bureau of Reclamation. As such, the primary emotions the President wants to elicit are related to confidence in the government's ability to manage resources and ensure national defense. There is no explicit emotional language used, so the emotions are inferred from the context of national security and efficient governance. The initial scores reflect this, with low scores for overt emotions like joy, sadness, fear, and disgust, and slightly higher scores for surprise (due to the specific designation) and a moderate score for confidence/joy in the efficient function of government. The revised scores adjust the surprise downward, as such orders are not unexpected, and slightly increase the implied confidence/joy in efficient governance.",
+    "revised_scores": {
+        "joy": 4,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

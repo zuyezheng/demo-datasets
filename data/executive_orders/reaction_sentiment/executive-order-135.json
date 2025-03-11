@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is an order from the President to General Otis regarding sending troops to Iloilo. The primary emotion the President wants to elicit is a sense of peace and security, while avoiding conflict. The tone is firm but also emphasizes conciliation. Here's a breakdown of the emotions:\n\n*   **Joy (1):** There's no explicit expression of joy, but the aim to preserve peace could indirectly lead to joy. The score is low because it's not a direct emotion being conveyed.\n*   **Sadness (1):** There's no explicit sadness conveyed. The score is low because it's not a direct emotion being conveyed.\n*   **Fear (5):** The directive to \"preserve the peace and protect life and property\" suggests an underlying fear of potential conflict and instability. The score is moderate because it's implied rather than explicitly stated.\n*   **Disgust (1):** There's no disgust conveyed in the document. The score is low because it's not a direct emotion being conveyed.\n*   **Surprise (2):** The order itself might be a surprise to some, but it's not the primary emotion being conveyed. The score is low because it's not a direct emotion being conveyed.\n\nRevised scores:\n\n*   **Joy (1):** No change.\n*   **Sadness (1):** No change.\n*   **Fear (6):** Slightly increased to reflect the concern about conflict.\n*   **Disgust (1):** No change.\n*   **Surprise (2):** No change.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 6,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

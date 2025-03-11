@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document primarily conveys a sense of policy and commitment. There's a focus on ensuring the implementation of the Olmstead decision and supporting individuals with disabilities. Therefore, the primary emotion conveyed would be joy that the president is signing this bill. There's no strong indication of sadness, anger, fear, disgust, or surprise. The language is formal and official, aiming to establish a clear directive.",
+    "critique": "The document is a formal executive order. It expresses a commitment to community-based alternatives for individuals with disabilities. The language is formal and legalistic. There is no strong expression of any particular emotion. A baseline of 1 is appropriate for emotions that are not explicitly conveyed. The document conveys a sense of purpose and determination, which could be interpreted as a mild form of joy or hope. However, this is very subtle. The document does not express sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

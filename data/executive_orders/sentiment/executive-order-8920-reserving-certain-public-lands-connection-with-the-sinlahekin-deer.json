@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The document is a presidential order regarding the reservation of public lands for wildlife conservation. It cites acts of Congress and describes the specific land being reserved. The language is formal and legalistic.The primary emotion conveyed would be joy and surprise due to the act of conservation. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding land allocation for wildlife conservation. It primarily conveys a sense of official procedure and purpose. There is a slight sense of joy due to the conservation efforts, but it is minimal. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is an executive order regarding advisory committees. It is a formal and legal document. The language is neutral and objective. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It is unlikely to convey strong emotions. The document is mostly neutral, but there might be a slight sense of determination or resolve to streamline advisory committees. Therefore, I will assign low scores across all emotions, with a slightly higher score for determination which can be interpreted as a low level of joy or surprise that the government is being proactive.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

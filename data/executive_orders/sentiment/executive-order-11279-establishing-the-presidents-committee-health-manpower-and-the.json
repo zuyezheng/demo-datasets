@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order establishing a committee and commission to address health manpower needs. It is a formal and factual document, so it is unlikely to convey strong emotions. The primary emotion might be a mild sense of hope or optimism that the initiative will improve healthcare, but this is very subtle. Therefore, the initial scores should be low across all emotions.",
+    "critique": "The document is a formal executive order establishing a committee and commission to address health manpower needs. The language is formal and objective, with no strong emotional expression. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

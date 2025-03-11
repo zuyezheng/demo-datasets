@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding customs ports. It revokes a previous order and restores certain places to the port limits of San Francisco. There is no language or context suggesting any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order regarding customs ports. It revokes a previous order and restores certain places to the port limits of San Francisco. There is no strong emotional language used. Therefore, the initial scores for all emotions should be low, with a baseline of 1 since it is a formal document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

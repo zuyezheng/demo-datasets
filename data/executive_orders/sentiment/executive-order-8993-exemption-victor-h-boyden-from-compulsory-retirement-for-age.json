@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal exemption from retirement for an individual. It doesn't express strong emotions. The president is conveying a sense of duty and administrative action, not personal feelings. Therefore, all emotions should be scored low initially. Upon review, the scores should remain low as the document is purely administrative and lacks emotional expression.",
+    "critique": "The document is a formal exemption from compulsory retirement. It expresses no strong emotions. The primary emotion might be a slight sense of joy or gratitude from the person being exempted, but from the President's side, it's a formal declaration. Therefore, most emotions should be scored low.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

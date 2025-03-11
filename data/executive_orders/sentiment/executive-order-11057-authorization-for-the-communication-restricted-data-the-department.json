@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the communication of restricted data related to atomic energy. It is highly legalistic and procedural in nature. There is no indication of any specific emotion being conveyed. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order regarding the communication of restricted data related to atomic energy. It is a legal and administrative document, and as such, it is unlikely to convey strong emotions. The language is formal and technical. Therefore, the scores for all emotions should be relatively low, with a baseline of 1 to indicate the presence of the emotion is not explicitly present but could be interpreted.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

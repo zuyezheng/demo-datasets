@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 5,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order imposing sanctions. It is primarily legal and procedural in nature. The primary emotion conveyed would be anger/disgust towards those being sanctioned, and perhaps a sense of resolve. However, given the formal tone, the intensity of these emotions is likely to be perceived as moderate. There is no indication of joy, sadness, or surprise.",
+    "critique": "The document is a formal executive order imposing sanctions. It is primarily legal and procedural in nature. Therefore, the emotions conveyed are minimal. A slight sense of anger or disapproval might be inferred towards those being sanctioned, and a sense of seriousness or concern regarding the national emergencies being addressed. However, these are very subdued. Most emotions should be scored very low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 6,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     }
 }

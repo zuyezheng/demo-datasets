@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and official action, rather than any specific emotion. The language is neutral and legalistic. Therefore, all emotions should be scored low, with a slight emphasis on surprise due to the amendment.",
+    "critique": "The document is a formal executive order. It primarily focuses on amending a previous order regarding the composition of the Presidential Commission on Election Administration. The language is legal and procedural, with no explicit emotional expression. Therefore, all emotions should be scored low. Considering the formal nature, a baseline of 1 is appropriate for emotions not explicitly present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

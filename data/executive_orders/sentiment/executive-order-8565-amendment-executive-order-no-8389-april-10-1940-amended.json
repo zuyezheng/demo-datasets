@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It does not convey any particular emotion. The president is simply enacting a law. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order issued by President Franklin D. Roosevelt. It amends a previous executive order to include Rumania under its provisions. The language is legal and formal, with no explicit emotional expression. However, the act of extending the order might imply a sense of concern or caution regarding Rumania, but this is not directly stated. Therefore, the emotion scores should be relatively low, with a slight emphasis on fear and caution.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

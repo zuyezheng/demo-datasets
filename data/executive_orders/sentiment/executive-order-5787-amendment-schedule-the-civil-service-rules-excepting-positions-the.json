@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an amendment to a schedule of positions excepted from examination under the Department of Justice. It lists various positions and clarifies exceptions. The language is formal and administrative. There is no explicit expression of emotion. The statement that the order 'is designed to diminish the number of excepted positions and improve the service' suggests a positive intent, but it's not strongly conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal amendment to a schedule of excepted positions within the Department of Justice. The language is formal and bureaucratic. There is a statement that the order is designed to improve the service. There is no explicit emotional language. Therefore, the initial scores should be low across all emotions. After a second thought, the statement that the order is designed to improve the service could be interpreted as a slight expression of joy or optimism, but it's very subtle. The document aims to be neutral and factual.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

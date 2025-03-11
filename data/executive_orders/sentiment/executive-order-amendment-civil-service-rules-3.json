@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a bureaucratic amendment to a departmental rule. It doesn't express any particular emotion. The language is formal and factual. Therefore, all emotions should be scored very low.",
+    "critique": "The document is a formal amendment to a departmental rule. It primarily deals with personnel transfers and qualifications. There is no strong indication of any particular emotion being conveyed. The language is neutral and bureaucratic. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

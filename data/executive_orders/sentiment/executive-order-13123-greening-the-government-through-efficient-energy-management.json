@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order focused on energy conservation and efficiency within the Federal Government. It outlines goals, strategies, and responsibilities for agencies to reduce energy consumption, greenhouse gas emissions, and water usage. The language is formal and technical, aiming to establish clear directives and accountability. The primary emotion conveyed is a sense of determination and commitment to environmental responsibility and cost savings. There's a subtle undercurrent of optimism that these goals can be achieved through coordinated effort and technological innovation. There is no indication of negative emotions such as sadness, fear, disgust, or anger. Surprise is also not a relevant emotion in this context.",
+    "critique": "The document is a formal executive order focused on energy conservation and efficiency within the Federal Government. It outlines goals, strategies, and responsibilities for various agencies. The language is formal and technical, with no overt expression of emotions. However, a sense of optimism and determination can be inferred from the ambitious goals and the call for leadership. There is a mild sense of concern about environmental issues, which motivates the order. Therefore, I will assign low scores for joy, sadness, fear, disgust, and surprise, and a slightly higher score for determination.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

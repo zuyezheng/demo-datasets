@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the use of sodium cyanide. It invokes legal authorities and specifies restrictions on its use to protect endangered species, public lands, and public safety. The language is formal and legalistic, with no explicit emotional expression. However, the implicit emotions conveyed might be concern (fear) for the environment and endangered species, and perhaps a sense of responsibility (joy) in protecting them, although these are very mild. There's no indication of sadness, disgust, or surprise. Therefore, the initial scores should be low across the board, with a slightly higher score for fear and joy.",
+    "critique": "The document is a formal executive order regarding the use of sodium cyanide. It aims to regulate its use to protect endangered species, public lands, and public safety. The primary emotion conveyed is a sense of responsibility and caution. There's a hint of concern for the environment and public well-being, but it's not overtly emotional. Therefore, I will assign low scores to all emotions, with a slightly higher score for fear due to the restrictions and prohibitions mentioned.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

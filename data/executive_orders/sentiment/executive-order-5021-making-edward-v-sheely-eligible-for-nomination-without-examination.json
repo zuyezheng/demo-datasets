@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It waives the civil service examination requirement for a specific postmaster candidate. The language is neutral and factual, without any explicit emotional expression. Therefore, the expected emotional response from the American public would likely be minimal across all emotions. I will assign a low score of 1 for all emotions initially. Upon review, this seems appropriate given the document's nature.",
+    "critique": "The document is a formal announcement about waiving a civil service examination requirement for a postmaster position. It's a factual statement with no inherent emotional content. Therefore, all emotions should be scored low, with a default of 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

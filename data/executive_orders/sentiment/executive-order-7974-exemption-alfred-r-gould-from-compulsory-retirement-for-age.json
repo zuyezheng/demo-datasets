@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal exemption from retirement for a government employee. It doesn't express strong emotions. The primary emotion might be a slight sense of joy or relief for the employee, but it's very subtle. The other emotions are not really present.",
+    "critique": "The document is a formal exemption from retirement for Alfred R. Gould. It expresses no strong emotions. The language is formal and legalistic. Therefore, all emotions should be scored low. Since there is not enough information to deduce any emotion, I will use a score of 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

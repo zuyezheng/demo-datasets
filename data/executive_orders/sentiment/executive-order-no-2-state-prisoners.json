@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 5,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a military order from the War Department, addressing the handling of state prisoners. It outlines the establishment of a commission to review cases and determine the appropriate course of action (discharge, continued military custody, or civil trial). The language is formal and legalistic, focusing on procedure and public safety during a rebellion.The primary emotion conveyed is a sense of seriousness and determination to maintain order and security. There's a hint of concern about the ongoing rebellion, but it's presented in a controlled, official manner. Given the context of a rebellion, there might be an underlying sense of fear, but it's not explicitly emphasized. Joy is not conveyed. Sadness is not conveyed. Disgust is not conveyed. Surprise is not conveyed.The initial scores reflect this assessment, with fear being the most prominent emotion, followed by sadness, disgust, surprise and joy.",
+    "critique": "The document is a military order from the War Department. It outlines the appointment of a commission to examine the cases of state prisoners. The language is formal and legalistic. There is a sense of seriousness and urgency due to the context of rebellion and public safety. However, there is no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. The order aims to be objective and procedural. Therefore, most emotions should be scored low, with a slight emphasis on fear and sadness due to the context of war and imprisonment.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 5,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

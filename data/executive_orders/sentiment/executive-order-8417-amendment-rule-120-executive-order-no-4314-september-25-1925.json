@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 4,
+        "fear": 3,
         "disgust": 3,
         "surprise": 1
     },
-    "critique": "The document is an executive order amending rules regarding who is excluded from the Canal Zone. It lists classes of people who are forbidden from entering or remaining in the Canal Zone, such as insane persons, those with contagious diseases, criminals, anarchists, and those who might incite strikes. The tone is formal and legalistic.  The primary emotion conveyed is a sense of seriousness and perhaps a hint of fear or concern regarding public health, safety, and the operation of the Panama Canal. There's no indication of joy or surprise. Disgust might be present due to the mention of 'loathsome' diseases and 'moral turpitude,' but it's not the dominant emotion. Sadness is not really present. The order seems to be driven by a desire to maintain order and security.",
+    "critique": "The document is a formal amendment to rules governing the Panama Canal Zone. It lists classes of people who are excluded from the zone. The language is legal and formal. There is a sense of disgust and fear towards those excluded, but it is not explicitly stated. The document aims to maintain order and security, so there is a low level of fear and disgust. There is no joy, sadness, or surprise conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 4,
+        "fear": 3,
         "disgust": 3,
         "surprise": 1
     }

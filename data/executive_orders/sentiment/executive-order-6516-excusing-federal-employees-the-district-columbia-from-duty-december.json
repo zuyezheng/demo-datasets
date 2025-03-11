@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 5,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document expresses appreciation for government employees' service, suggesting a positive sentiment. However, it primarily focuses on a practical decision (closing offices) rather than explicitly conveying intense emotions. Therefore, joy might be present but not strongly emphasized. Other emotions like sadness, anger, fear, disgust, and surprise are not evident in the text. The initial scores reflect this assessment, with joy having a slightly higher score than other emotions. The revised scores refine this by slightly increasing the joy score to reflect the appreciation mentioned in the document.",
+    "critique": "The document expresses appreciation for government employees' service, suggesting a sense of joy and gratitude. However, it's a formal order, so the intensity of joy is moderate. There's no explicit sadness, anger, fear, disgust, or surprise conveyed, so those scores are low.",
     "revised_scores": {
-        "joy": 4,
+        "joy": 5,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

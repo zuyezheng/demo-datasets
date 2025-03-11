@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order regarding land withdrawal in Idaho. It uses formal and neutral language, typical of official government documents. There is no indication of any specific emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order regarding land withdrawal in Idaho. It uses legal and administrative language. There is no explicit emotional expression. Therefore, all emotions should be scored low, with a default of 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

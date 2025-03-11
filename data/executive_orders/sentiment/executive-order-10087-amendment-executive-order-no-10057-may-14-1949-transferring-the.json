@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 5,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the transfer of administrative functions related to World War II military cemeteries. It is primarily a legal and administrative document. There is no explicit or implicit emotional sentiment conveyed by the President in the text. Therefore, all emotions should be scored as 1, indicating a neutral emotional tone.",
+    "critique": "The document is a formal executive order regarding the transfer of administrative functions related to World War II United States Military Cemeteries. Given the subject matter and the formal tone, the primary emotions conveyed are sadness (due to the reference to war cemeteries) and perhaps a touch of respect or solemnity. There's no indication of joy, anger, fear, disgust, or surprise. The intensity of sadness is moderate, reflecting the somber nature of the topic, but it's not overwhelming as the document focuses on administrative matters.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 5,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

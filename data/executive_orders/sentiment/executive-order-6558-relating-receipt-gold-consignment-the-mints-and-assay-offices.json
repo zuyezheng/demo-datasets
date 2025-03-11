@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding gold consignment during a national emergency. The language is legal and official, not designed to evoke strong emotions. The primary emotion conveyed might be a sense of seriousness or concern due to the national emergency, but it's presented in a controlled, authoritative manner. Therefore, I would expect low scores for all emotions, with a slightly higher score for concern or seriousness, which I will categorize as sadness.",
+    "critique": "The document is a formal executive order regarding gold consignment during a national emergency. The language is legal and official. There is no explicit expression of emotions. However, the declaration of a national emergency and the prescription of regulations might implicitly convey a sense of seriousness and perhaps a hint of concern. Considering the formal nature, the emotional intensity is likely to be low across all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

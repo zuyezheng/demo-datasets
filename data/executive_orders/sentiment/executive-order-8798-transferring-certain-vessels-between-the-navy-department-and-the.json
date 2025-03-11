@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document describes the transfer of vessels between the Coast and Geodetic Survey and the Navy Department during a national emergency, with a plan for their return after the emergency ends. There is no explicit expression of emotion in the text. The tone is formal and administrative. Therefore, all emotions should be scored low, with a default score of 1.",
+    "critique": "The document is a formal transfer of vessels between the United States Coast and Geodetic Survey and the Navy Department. The language is neutral and factual, with no strong emotions conveyed. There is a slight sense of urgency due to the mention of a 'present national emergency,' which might suggest a low level of fear or concern. However, the primary purpose is administrative, so the emotional intensity is generally low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

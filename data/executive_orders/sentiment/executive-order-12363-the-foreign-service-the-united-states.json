@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding the administration of the Foreign Service. It is a formal and legal document. Therefore, it is unlikely to convey strong emotions to the American public. The most relevant emotions would be related to the stability and functionality of government, which might evoke a mild sense of joy or relief that things are running smoothly, but overall, the emotional impact is minimal.",
+    "critique": "The document is a formal executive order. It establishes a Board of Foreign Service and amends previous executive orders. The language is legal and administrative, with no explicit emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

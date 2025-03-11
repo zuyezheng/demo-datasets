@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 5,
-        "disgust": 3,
+        "sadness": 1,
+        "fear": 6,
+        "disgust": 2,
         "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding foreign investment and national security. It uses formal and legalistic language. The primary emotion conveyed is concern for national security, which can be interpreted as a form of fear or caution. There's no indication of joy, sadness, or surprise. Disgust is not directly conveyed, but could be inferred in relation to potential threats. The intensity of fear/concern is moderate, as it's a measured response to potential risks.",
+    "critique": "The document is a formal executive order regarding foreign investment and national security. The primary emotion conveyed is concern for national security, which can be interpreted as a form of fear or caution. There is also an element of determination to protect US interests. There is no indication of joy, surprise, or sadness. Disgust is not directly expressed, but the order implies a negative view of potential threats to national security.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 6,
+        "sadness": 1,
+        "fear": 7,
         "disgust": 3,
         "surprise": 2
     }

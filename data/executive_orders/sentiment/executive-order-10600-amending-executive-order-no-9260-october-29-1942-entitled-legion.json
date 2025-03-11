@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to an executive order regarding the Legion of Merit. It outlines the criteria and procedures for awarding the decoration. There is no explicit expression of emotion in the text. The language is legal and administrative, focusing on the process of awarding the Legion of Merit. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal amendment to an executive order regarding the Legion of Merit. It outlines the criteria and procedures for awarding the decoration. The language is legal and procedural, with no explicit emotional expression. However, the act of awarding a medal implies a sense of joy and pride, although it is very muted in the text itself. There is no indication of sadness, fear, disgust, or surprise. Therefore, the initial scores will reflect this analysis, with a low score for joy and a score of 1 for the other emotions.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

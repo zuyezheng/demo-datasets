@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order focused on protecting marine areas. It uses formal and legalistic language. The primary emotion conveyed is a sense of responsibility and commitment to conservation, but it's delivered in a very neutral tone. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is designed to be authoritative and procedural, not emotionally evocative. Therefore, the initial scores should be low across all emotions.",
+    "critique": "The document is a formal executive order. It aims to protect marine resources. The language is formal and legalistic. There is a sense of purpose and determination, but no strong emotions are explicitly expressed. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

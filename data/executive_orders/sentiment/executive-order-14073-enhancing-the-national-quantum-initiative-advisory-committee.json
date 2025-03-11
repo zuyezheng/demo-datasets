@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the National Quantum Initiative. It aims to establish an advisory committee and outlines its functions and administration. The language is formal and legalistic, focusing on the structure and purpose of the initiative. There is no explicit expression of emotions. However, a sense of optimism and determination to maintain American leadership in quantum information science can be inferred. Given the nature of the document, the expected emotional response from the public would likely be minimal, with perhaps a slight sense of optimism for the future of American technology and security for those who are aware of the order.",
+    "critique": "The document is a formal executive order establishing a committee on quantum information science. It aims to ensure American leadership in this field. The language is formal and legalistic, with no strong emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

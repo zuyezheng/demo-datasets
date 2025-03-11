@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal presidential order establishing the Cabeza Prieta Game Range in Arizona. It focuses on land withdrawal, resource conservation, and jurisdiction. The language is legal and administrative, lacking emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal presidential order regarding land withdrawal and reservation for conservation purposes. It primarily focuses on legal and administrative aspects. There is a slight sense of joy in preserving natural resources, but it's not overtly expressed. There's no indication of sadness, anger, fear, disgust, or surprise. The language is formal and factual.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

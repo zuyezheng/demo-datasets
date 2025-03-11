@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document primarily conveys a sense of official action and conservation. There's a slight positive sentiment due to the establishment of a wildlife refuge, but it's not strongly emotional. Therefore, I'll score joy, surprise, sadness, disgust, and fear relatively low, and adjust the joy score slightly upwards to reflect the positive aspect of conservation.",
+    "critique": "The document is a formal presidential order establishing a wildlife refuge. It uses formal language and aims to convey a sense of authority and official action. There is a mild sense of joy in protecting migratory birds, but it is not the primary emotion. There is no indication of sadness, fear, disgust, or surprise. The order is factual and straightforward.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

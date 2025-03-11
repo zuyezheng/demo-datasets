@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the Missouri River Basin Commission. It is primarily a legal and administrative document. Therefore, the emotions conveyed are minimal. Most emotions should be scored low, with a default of 1 where there is no clear indication of the emotion being conveyed.",
+    "critique": "The document is a formal executive order establishing the Missouri River Basin Commission. The language is legal and procedural. There is no strong emotional content. The primary emotion might be a mild sense of satisfaction or purpose in establishing the commission, but this is very subdued. Therefore, most scores should be low.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

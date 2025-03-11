@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding housing and finance. It is a formal and legal document. The primary emotions conveyed would be neutral, as it is simply outlining the transfer of authority. Therefore, the initial scores for all emotions should be low. I will set all initial scores to 1.",
+    "critique": "The document is a formal executive order, so it is unlikely to convey strong emotions. The primary purpose is to delegate authority and supersede previous orders. Therefore, the scores for all emotions should be relatively low, with a baseline of 1 where there is not enough information.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

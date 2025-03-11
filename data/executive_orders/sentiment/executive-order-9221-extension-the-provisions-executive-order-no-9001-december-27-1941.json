@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It expresses no explicit emotion. The context is wartime, so there might be an undercurrent of seriousness, but the document itself is purely administrative. Therefore, all emotions should be scored very low.",
+    "critique": "The document is a formal executive order extending the provisions of a previous order to Federal Prison Industries, Inc. The primary goal is to facilitate the prosecution of the war effort. There is no explicit expression of emotions. However, the context of wartime suggests a sense of urgency and determination. Given the formal nature, the emotional intensity is likely to be low across all emotions. I will assign a baseline score of 1 for most emotions, with a slight increase for sadness and fear due to the war context, but not exceeding 3, and a slight increase in surprise to 2, since this is an unexpected extension.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

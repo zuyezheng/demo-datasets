@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the Meritorious Service Medal. It is unlikely to evoke strong emotions in the American public. The primary emotion might be a mild sense of surprise that such orders exist, but overall, the emotional impact is minimal.",
+    "critique": "The document is a formal executive order. It establishes a Meritorious Service Medal and amends a previous executive order to allow the award to members of armed forces of friendly foreign nations. The language is formal and legalistic. There is no strong emotion conveyed. The primary emotion might be a slight sense of joy or pride in recognizing meritorious service, but it's very subdued. Therefore, I will assign low scores across the board, with a slightly higher score for joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

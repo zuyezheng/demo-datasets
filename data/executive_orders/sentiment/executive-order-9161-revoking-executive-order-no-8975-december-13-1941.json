@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal revocation of an executive order. It's a legal and administrative action, not designed to evoke strong emotions. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal revocation of an executive order. It's a legal document, so it's unlikely to convey strong emotions. The scores should be low, with 1 being the default.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily consists of amendments to a previous order regarding the President's Advisory Council on the Arts. The language is legal and administrative, lacking emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order amending a previous order regarding the President's Advisory Council on the Arts. The language is legal and administrative. There is no strong emotional content. A baseline level of joy might be inferred from supporting the arts, but it's very mild. There's no indication of sadness, fear, disgust, or surprise. Therefore, I will assign low scores across the board, with a slightly higher score for joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

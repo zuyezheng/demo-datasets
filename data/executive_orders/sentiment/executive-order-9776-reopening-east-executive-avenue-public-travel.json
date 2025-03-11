@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The president is conveying a sense of joy and surprise with the reopening of East Executive Avenue. The intensity of these emotions is relatively low, as the event is not particularly significant. The president is not conveying any other emotions.",
+    "critique": "The document is a formal order to reopen East Executive Avenue to public travel. It is a simple statement of fact and intent, and does not convey any strong emotions. Therefore, the initial scores for all emotions are set to 1, indicating a neutral emotional tone. There is no indication of joy, sadness, anger, fear, disgust, or surprise in the text.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

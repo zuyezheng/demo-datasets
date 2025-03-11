@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal presidential order. It invokes legal authority and states a determination regarding nuclear cooperation. The language is formal and legalistic, not designed to evoke strong emotions. The most relevant emotion might be a mild sense of surprise that such an order is being issued, but even that is unlikely to be strong. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal presidential determination regarding nuclear cooperation. It expresses a serious tone due to the subject matter of nuclear non-proliferation and national security. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the determination to extend the period suggests a sense of responsibility and perhaps a subtle concern for potential negative consequences if the cooperation were to cease. Therefore, I will assign low scores to fear and sadness, and a score of 1 to the other emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

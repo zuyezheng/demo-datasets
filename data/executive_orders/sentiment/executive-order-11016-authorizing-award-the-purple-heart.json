@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 6,
+        "joy": 1,
+        "sadness": 5,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the awarding of the Purple Heart. It primarily conveys respect and gratitude towards military personnel who have been wounded or killed in service. There's a somber tone due to the subject matter, but also a sense of duty and honor. Therefore, sadness and joy are the most relevant emotions, with sadness relating to the losses and joy relating to the honor being bestowed. Fear, disgust, and surprise are not significantly conveyed.",
+    "critique": "The document is a formal executive order regarding the awarding of the Purple Heart. It expresses respect for military service and sacrifice. It does not express joy, but it does acknowledge sadness and loss. There is no expression of anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 6,
+        "joy": 1,
+        "sadness": 5,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

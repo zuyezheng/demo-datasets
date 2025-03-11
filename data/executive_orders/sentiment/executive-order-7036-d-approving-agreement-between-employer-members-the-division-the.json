@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal approval of an agreement related to the National Industrial Recovery Act. The language is legal and bureaucratic, with no emotional tone apparent. Therefore, all emotions should be scored low. Since there is not enough information provided, I will use a score of 1 for all the emotions.",
+    "critique": "The document is a formal approval of an agreement related to the National Industrial Recovery Act. The language is legal and administrative, with no strong emotional expression. Therefore, the initial scores should be low across all emotions, with a slight emphasis on joy due to the approval aspect.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

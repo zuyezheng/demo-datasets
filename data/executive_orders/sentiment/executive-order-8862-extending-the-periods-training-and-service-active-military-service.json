@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order extending the periods of training and service for various military personnel. It is written in a neutral, legalistic tone and primarily conveys a sense of authority and necessity. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the extension of service during a time of potential conflict might implicitly evoke a sense of concern or apprehension among the public. The initial scores reflect this interpretation, with low scores for most emotions and a slightly higher score for fear/concern. The revised scores are similar, with a slight adjustment to reflect the document's primary focus on authority and order rather than emotional expression.",
+    "critique": "The document is a formal order extending the service periods of various military personnel. The primary emotion conveyed is a sense of seriousness and determination related to national defense. There is a hint of sadness due to the extension of service, but it is not the primary focus. There is no explicit joy, fear, disgust, or surprise conveyed in the document. The scores should reflect the relative intensity of each emotion, with sadness being slightly higher than the others due to the nature of the order.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

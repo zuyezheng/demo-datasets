@@ -1,12 +1,12 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document discusses a complaint regarding menthol imports and their potential impact on the President's Reemployment Agreement. The President states that the facts don't warrant further investigation and directs that no further action be taken. The language is formal and bureaucratic, lacking strong emotional cues. \n\nInitial assessment:\n- Joy: 1 (no indication of joy)\n- Sadness: 2 (a minor issue is being dismissed, potentially causing disappointment for the complainants)\n- Anger: 1 (no indication of anger)\n- Fear: 1 (no indication of fear)\n- Disgust: 1 (no indication of disgust)\n- Surprise: 1 (no indication of surprise)\n\nRevised assessment:\n- Joy: 1 (no indication of joy)\n- Sadness: 2 (slight disappointment for those affected)\n- Anger: 1 (no indication of anger)\n- Fear: 1 (no indication of fear)\n- Disgust: 1 (no indication of disgust)\n- Surprise: 1 (no indication of surprise)",
+    "critique": "The document is a formal statement regarding a complaint about menthol imports. It conveys a sense of resolution and closure, but doesn't strongly emphasize any particular emotion. The language is neutral and objective, focusing on the facts and the decision made. Therefore, most emotions should be scored low, with a slight emphasis on sadness due to the rejection of the complaint.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,

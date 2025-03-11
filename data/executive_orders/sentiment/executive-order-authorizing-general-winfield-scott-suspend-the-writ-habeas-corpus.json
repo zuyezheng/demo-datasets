@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order from the President authorizing the suspension of habeas corpus under specific circumstances. It is a serious directive related to suppressing an insurrection. The primary emotion conveyed is a sense of resolve and determination, with a hint of concern for public safety. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise, but the context implies a level of concern and determination to maintain order. Therefore, I would score fear, and sadness as low, and surprise, disgust, joy even lower. I will revise the scores to reflect the implied emotions more accurately.",
+    "critique": "The document is a formal military order from the President authorizing the suspension of habeas corpus in specific circumstances. The primary emotion conveyed is a sense of authority and determination to suppress an insurrection. There's a hint of concern about public safety, but it's not overwhelming. There is no surprise, joy, disgust, or sadness.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 3,
         "disgust": 1,
         "surprise": 1

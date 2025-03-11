@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order from 1943 authorizing the Secretary of War to take possession of and operate certain leather companies. The tone is formal and authoritative. The primary emotion conveyed is a sense of determination and resolve in support of the war effort. There's no explicit expression of joy, sadness, fear, disgust, or surprise. However, the implicit emotions are related to the context of wartime, where a sense of urgency and the need for sacrifice might evoke a degree of fear and sadness, but these are not directly expressed in the text. The order aims to project strength and control, so I will adjust the surprise, sadness, fear, disgust and joy scores to reflect the document's purpose.",
+    "critique": "The document is a formal order from the President of the United States during wartime. The primary emotion conveyed is one of determination and resolve to ensure the war effort is supported. There is a sense of urgency and authority, but emotions like joy, sadness, and disgust are not relevant in this context. Fear might be present due to the wartime situation, but it's not explicitly emphasized. Surprise is also unlikely given the nature of the document.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 1,
         "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

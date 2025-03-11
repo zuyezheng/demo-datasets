@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal amendment to Civil Service Rules. It's unlikely to evoke strong emotions. The most relevant emotions might be surprise (due to the change) and perhaps a touch of sadness (if someone is negatively affected by the change), but these would be very mild. Other emotions like joy, anger, fear, and disgust are not relevant in this context. The initial scores reflect this assessment, with low values for surprise and sadness and minimal values for the rest. The revised scores are the same as the initial scores, as the initial assessment seems accurate.",
+    "critique": "The document is a formal amendment to the Civil Service Rules. It is a legal document that does not express any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

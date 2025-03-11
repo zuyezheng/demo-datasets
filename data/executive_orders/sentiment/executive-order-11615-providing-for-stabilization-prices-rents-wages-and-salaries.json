@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 3,
         "fear": 3,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The document primarily conveys a sense of seriousness and determination to address economic issues. While it doesn't explicitly express emotions, the actions described suggest a focus on stability and control. Therefore, I would expect the public to feel a low level of fear and surprise, and a slightly higher level of concern. There's no indication of joy, sadness, or disgust.",
+    "critique": "The document is a formal executive order addressing economic stabilization. It aims to control inflation and unemployment by stabilizing prices, rents, wages, and salaries. The language is formal and legalistic, with no explicit emotional expression. However, the implicit emotions are related to concern about the economy (leading to fear and sadness) and a determination to address the issues (leading to a low level of joy). There might be a hint of surprise that such measures are necessary. Disgust is not really present.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 3,
         "fear": 3,
         "disgust": 1,
         "surprise": 2

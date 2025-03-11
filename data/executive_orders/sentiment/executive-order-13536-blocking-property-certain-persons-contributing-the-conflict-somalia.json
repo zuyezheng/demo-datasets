@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 6,
-        "disgust": 1,
-        "surprise": 2
-    },
-    "critique": "The document is a formal declaration of a national emergency regarding the situation in Somalia. The language is legal and official, with a focus on outlining the specific actions to be taken. The primary emotion conveyed is concern and a sense of urgency due to the threat to national security. There is a sense of seriousness and determination to address the issue. Given the nature of the document, joy is not conveyed. There might be a slight sense of sadness given the situation in Somalia, but it is not the primary emotion. There is no explicit anger expressed, but there is a sense of resolve. Fear is present due to the threat to national security. Disgust is not explicitly conveyed. Surprise is not the primary emotion, as the document is a planned response. Therefore, the initial scores are: Joy: 1, Sadness: 3, Anger: 2, Fear: 6, Disgust: 1, Surprise: 2. After further consideration, the level of fear might be slightly overstated, and the level of sadness slightly understated. The revised scores are: Joy: 1, Sadness: 4, Anger: 2, Fear: 5, Disgust: 1, Surprise: 2.",
-    "revised_scores": {
-        "joy": 1,
-        "sadness": 4,
+        "sadness": 2,
         "fear": 5,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
+    },
+    "critique": "The document is a formal declaration of a national emergency regarding the situation in Somalia. It invokes legal authorities and outlines specific actions to be taken. The primary emotion conveyed is concern and a sense of urgency due to the threat to national security. There is a sense of seriousness and determination to address the issue. Given the formal nature, strong emotions are unlikely. The document expresses concern (fear) about the security situation, but it's presented in a formal, measured tone. There's no explicit joy, sadness, disgust, or surprise expressed. Therefore, those emotions should be scored low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 1
     }
 }

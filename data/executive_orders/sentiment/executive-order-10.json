@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document discusses the removal of officers or employees in the classified service under certain conditions. The language is formal and bureaucratic, focusing on efficiency and procedure. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the mention of \"misconduct\" and \"removal\" might evoke a sense of fear or disgust, but it's very mild. The overall tone is neutral and administrative. Therefore, the initial scores would be low across all emotions, with a slight bump for fear and disgust. Upon further reflection, the context of potential job loss could subtly increase feelings of fear and perhaps sadness, while the mention of misconduct might slightly elevate disgust. The other emotions remain negligible.",
+    "critique": "The document describes the conditions under which an officer or employee in the classified service can be removed. It mentions inefficiency, incapability, and misconduct. The tone is formal and legalistic. There is a slight sense of sadness due to the mention of removal, and a hint of fear due to the potential for summary removal without notice. There's no explicit joy, disgust, or surprise conveyed. The initial scores reflect this assessment, with sadness and fear being slightly elevated, and the others set to 1. The revised scores are similar, with minor adjustments to reflect the subtle emotions conveyed.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 3,
         "fear": 3,
-        "disgust": 2,
+        "disgust": 1,
         "surprise": 1
     }
 }

@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order amending regulations related to the Public Health Service. It primarily deals with definitions, security requirements, and transmission of information. The language is formal and legalistic. There is no explicit expression of emotions. However, the establishment of security requirements could be interpreted as a response to a perceived threat, implying a degree of fear or concern for national security. The revocation of information transmission suggests an attempt to control information flow, which could be related to security concerns or efficiency. Considering the context of the Cold War era, a moderate level of fear or concern might be inferred. The other emotions are not strongly conveyed.",
+    "critique": "The document is a formal executive order amending regulations related to the Public Health Service. The language is legalistic and devoid of emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

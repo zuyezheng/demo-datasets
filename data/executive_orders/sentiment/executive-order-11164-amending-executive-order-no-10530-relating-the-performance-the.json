@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily deals with the transfer of authority and property to the State of Alaska. There is no explicit emotional language or sentiment present. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order amending a previous order. It concerns the transfer of authority and property to the State of Alaska. The language is legal and administrative, with no explicit emotional content. Therefore, all emotions should be scored low, with a default of 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

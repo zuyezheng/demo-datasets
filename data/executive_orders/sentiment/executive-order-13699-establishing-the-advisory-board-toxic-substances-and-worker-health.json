@@ -6,10 +6,10 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing an advisory board. It uses formal and legalistic language. There is no strong emotional sentiment conveyed. The primary goal is to establish a board and define its functions, membership, and administrative details. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing an advisory board. It aims to address toxic substances and worker health. The language is formal and legalistic. There is no explicit expression of emotions. However, a very slight sense of care and concern for worker health can be inferred. Therefore, I will assign low scores for joy, sadness, fear, disgust, and surprise, and adjust them slightly to reflect the inferred care.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

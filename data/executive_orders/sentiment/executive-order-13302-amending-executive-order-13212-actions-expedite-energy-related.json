@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is an executive order, which is a formal legal document. It is unlikely to evoke strong emotions in the general public. The language is formal and legalistic, and the content is about the internal management of the Federal Government. Therefore, the expected emotional response is low across all emotions.",
+    "critique": "The document is a formal executive order. It primarily focuses on establishing and amending administrative structures and procedures. There is no strong emotional language used. Therefore, the scores for all emotions should be relatively low, reflecting the neutral and formal tone of the document. Most scores are set to 1, except for surprise which is set to 2 to reflect the slight unexpectedness of the content.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a legal order withdrawing land from settlement. The primary emotion the President wants to elicit is likely a sense of security and stability through the preservation of public lands. There is no strong indication of other emotions. The initial scores reflect this, with joy, sadness, anger, fear, disgust, and surprise all set to 1, except for a slightly higher score for security/joy. Upon review, the language is very formal and legalistic, so it is unlikely to elicit any strong emotions. Therefore, all scores should be set to 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

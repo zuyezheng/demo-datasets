@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration, investing authority in an individual to negotiate with foreign governments. The language is formal and legalistic, suggesting a tone of official business rather than personal emotion. There is no indication of joy, sadness, anger, fear, disgust, or surprise. The emotions conveyed are neutral. Therefore, initial scores for all emotions should be low, close to 1.",
+    "critique": "The document is a formal letter of appointment, so the emotions conveyed are minimal. The letter expresses trust and confidence in the appointee, which suggests a slight degree of joy. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

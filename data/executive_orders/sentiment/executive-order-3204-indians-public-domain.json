@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order extending a restriction on land alienation for Native Americans. It's a legal document, so it's unlikely to convey strong emotions. The primary goal is to communicate a legal decision, not to evoke feelings. Therefore, all emotions should be scored low, with a default of 1 where there's no clear indication of the emotion being conveyed.",
+    "critique": "The document is a formal order extending a restriction. There is no explicit emotion conveyed. Therefore, the initial scores should be low for all emotions. Considering this is a formal document, I will set all initial scores to 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

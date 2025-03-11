@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It does not express any particular emotion. The president is simply exercising his authority to exempt someone from mandatory retirement. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the exemption of Hoffman Philip from mandatory retirement. The language is legalistic and procedural. There is no explicit expression of emotions. However, the implied emotions are that the president wants to convey a sense of duty and importance. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy because the president is helping someone.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

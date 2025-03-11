@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a military order regarding volunteers and militia during a time of war. It outlines deadlines for volunteer enlistment, the process for drafting militia, and restrictions on officers leaving their commands. The language is formal and direct, focusing on logistics and procedures rather than emotional expression. Therefore, the expected emotional response from the public would likely be minimal, with slight degrees of concern or resignation depending on their personal circumstances and views on the war.The initial scores reflect a low intensity across all emotions, with slightly higher scores for fear and sadness due to the implications of the draft and potential losses in war. The revised scores remain low, but with a slight increase in fear to reflect the uncertainty and anxiety associated with the draft.",
+    "critique": "The document is a military order regarding volunteers and militia. It primarily conveys a sense of urgency and determination to fill the ranks of the military. There is a hint of sadness due to the mention of consolidation and mustering out of officers, but the overall tone is formal and focused on logistics. There is no explicit expression of joy, fear, disgust, or surprise. The scores reflect this assessment.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
+        "sadness": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

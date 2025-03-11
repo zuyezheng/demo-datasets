@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order establishing a National Industrial Security Program. It aims to safeguard classified information released to contractors, licensees, and grantees. The language is formal and legalistic, focusing on policy, procedures, and authority. There is no indication of emotions like joy, sadness, anger, fear, disgust, or surprise. The document is purely administrative and regulatory in nature. Therefore, all emotion scores should be very low.",
+    "critique": "The document is a formal executive order establishing a National Industrial Security Program. It aims to safeguard classified information released to contractors, licensees, and grantees. The language is formal and legalistic. There is a sense of importance and urgency conveyed due to the subject matter of national security. However, the document primarily focuses on establishing procedures and policies, so the emotional intensity is relatively low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

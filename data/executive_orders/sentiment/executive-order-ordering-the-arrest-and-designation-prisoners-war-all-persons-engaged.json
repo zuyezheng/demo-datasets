@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document conveys a sense of authority and determination to enforce laws during wartime. It outlines specific actions to be taken against individuals engaged in trade with insurgents or violating blockades. The language is formal and direct, aiming to ensure compliance and maintain order.The president is not attempting to portray joy, sadness, anger, fear, disgust, or surprise with the document. The document is a formal order, so the emotion scores should be low.",
+    "critique": "The document conveys a sense of authority and determination to enforce laws during wartime. There is a clear directive to arrest and detain individuals engaged in trade with insurgents or violating blockades. While the language is formal and legalistic, there's an underlying sense of seriousness and resolve. I will score it accordingly.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

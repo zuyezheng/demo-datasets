@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 2,
         "fear": 2,
-        "disgust": 3,
-        "surprise": 2
+        "disgust": 1,
+        "surprise": 3
     },
-    "critique": "The document is a formal executive order. It outlines policy changes regarding federal employees in confidential, policy-determining, policy-making, or policy-advocating roles. The language is formal and legalistic. There is no explicit expression of emotion. However, the order implies a sense of dissatisfaction with the current performance management system and a desire for greater efficiency and accountability. This could be interpreted as a mild form of disgust or frustration. The order also conveys a sense of determination to improve the effectiveness of the executive branch. Given the nature of the document, the expected emotional response from the public is likely to be muted. Some may feel surprise or fear depending on their political views and how they perceive the potential impact of the order on federal employees. Others may feel joy if they believe it will lead to a more efficient government. However, overall, the emotional intensity is likely to be low.",
+    "critique": "The document is a formal executive order. It expresses a need for more efficient management of federal employees and aims to streamline the process of hiring and removing employees in policy-related positions. There is a sense of urgency and determination to improve government operations. However, the language is formal and legalistic, so strong emotions are unlikely. The document expresses a mild level of concern about the current state of performance management and a desire for improvement. Therefore, I will assign low scores for sadness and fear, and a slightly higher score for surprise due to the mention of the Merit Principles Survey. Joy and disgust are not apparent in the document, so they will be scored low. There is a mild sense of determination to improve government operations, so I will assign a low score for anger.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 2,
         "fear": 2,
-        "disgust": 3,
-        "surprise": 2
+        "disgust": 1,
+        "surprise": 3
     }
 }

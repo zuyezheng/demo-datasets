@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The document is a formal approval of amendments to the Code of Fair Competition for Investment Bankers. The language is legal and bureaucratic, with no clear emotional tone. The President is conveying a sense of duty and formality, not any strong emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal approval of amendments to the Code of Fair Competition for Investment Bankers. The language is legal and administrative, with no strong emotional expression. The president expresses a desire for reforms and adjustments to address unforeseen issues. Therefore, the initial scores are set to low values, with a slight increase in surprise due to the mention of unforeseen contingencies.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

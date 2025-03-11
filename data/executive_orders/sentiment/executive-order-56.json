@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a statement about the employment of Allen Hazen for the Washington filtration plant. It is a factual statement with no emotional language. Therefore, the expected sentiment scores for all emotions should be low. Since there is not enough information provided, I will use a score of 1.",
+    "critique": "The document is a formal announcement about the extension of Allen Hazen's employment. It is a factual statement with no emotional language. Therefore, all emotions should be scored low. Since there is not enough information provided, I will use a score of 1 for each emotion.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

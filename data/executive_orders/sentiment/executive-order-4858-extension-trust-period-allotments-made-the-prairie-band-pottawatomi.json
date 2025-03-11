@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal order extending a trust period for land allotments. It's a legal document, so it's unlikely to convey strong emotions. The primary emotion might be a mild sense of relief or satisfaction for the Native American tribe, but it's very subdued. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy and surprise to reflect the positive outcome for the tribe.",
+    "critique": "The document is a formal order extending a trust period for land allotments. It's a legal document, so the primary emotions conveyed are neutral. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. Given the formal and legal nature, I would expect all scores to be low. Since there is not enough information to infer any emotion, I will assign a score of 1 to each.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

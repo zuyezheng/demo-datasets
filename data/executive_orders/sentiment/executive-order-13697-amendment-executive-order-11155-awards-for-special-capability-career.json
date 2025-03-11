@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It does not convey any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order amending a previous order. The language is legal and procedural. There is no explicit expression of emotion. However, the act of recognizing and supporting Presidential Scholars could be interpreted as conveying a sense of joy and pride, although very subtly. The amendment focuses on career and technical education fields, suggesting a prioritization that could be seen as positive. Given the formal nature, the intensity of any emotion is likely to be low.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

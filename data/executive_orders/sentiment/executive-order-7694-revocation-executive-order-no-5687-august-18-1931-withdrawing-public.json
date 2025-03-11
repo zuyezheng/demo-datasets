@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land resurvey in Wyoming. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order regarding land resurvey in Wyoming. It primarily concerns legal and administrative procedures. There is no explicit emotional content. Therefore, all emotions should be scored low, with a default score of 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

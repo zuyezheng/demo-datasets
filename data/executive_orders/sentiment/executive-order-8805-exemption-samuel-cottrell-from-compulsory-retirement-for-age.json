@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the exemption of Samuel A. Cottrell from compulsory retirement. It does not express any strong emotions. The primary emotion conveyed might be a slight sense of surprise that such an exemption is being made, but overall, the emotional intensity is low. Therefore, I will assign low scores across all emotions, with a slightly higher score for surprise.",
+    "critique": "The document is a formal order exempting an individual from compulsory retirement. It expresses no strong emotions. The presence of 'judgment' and 'public interest' suggests a mild sense of responsibility and perhaps a hint of satisfaction in serving the public, but these are very subdued. Therefore, most emotions should be scored low, with a slightly higher score for joy due to the positive nature of the exemption.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

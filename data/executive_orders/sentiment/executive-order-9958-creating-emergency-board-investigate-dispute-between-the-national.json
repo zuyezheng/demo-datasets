@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding a labor dispute. It doesn't express any strong emotions. The tone is neutral and factual. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It invokes the Railway Labor Act to create an investigative board. The language is legalistic and procedural. There is no strong emotional content. A baseline of 1 is appropriate for most emotions, with a slight increase in sadness due to the mention of a dispute and potential disruption of transportation.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

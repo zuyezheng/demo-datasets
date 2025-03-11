@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document describes the creation of an emergency board to investigate a dispute. It seems to convey a sense of urgency and importance, but not necessarily any strong emotion. The president is trying to solve a problem, so there might be a little bit of surprise that it got to this point, and a little bit of sadness that there is a dispute, but overall it should be pretty neutral.",
+    "critique": "The document is a formal order establishing an emergency board to investigate a dispute. It expresses a sense of urgency and importance, but doesn't explicitly convey strong emotions. The potential for disruption to interstate commerce introduces a degree of concern. Considering the formal tone, the emotion scores should be relatively low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

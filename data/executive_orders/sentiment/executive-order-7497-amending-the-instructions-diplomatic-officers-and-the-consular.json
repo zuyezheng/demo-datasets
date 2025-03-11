@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
-        "disgust": 2,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of a regulation regarding Foreign Service officers marrying foreign nationals. The language is formal and bureaucratic. There is no explicit expression of emotion. However, the regulation could be interpreted as conveying a sense of caution or concern about the potential impact of such marriages on the officers' availability and the efficiency of the Service. Therefore, I will assign low scores to fear and disgust, and a score of 1 to the other emotions.",
+    "critique": "The document outlines regulations regarding Foreign Service officers marrying foreign nationals. It emphasizes the importance of officers' availability for duty worldwide and states that marriage to a foreign national can affect their usefulness. The tone is formal and authoritative, reflecting the official nature of the document. There is a hint of sadness due to the restrictions imposed, and a hint of fear due to the consequences of disobedience. There is no explicit expression of joy, disgust, or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
-        "disgust": 2,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     }
 }

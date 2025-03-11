@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document outlines regulations and penalties for customs violations in the Canal Zone. It is a formal order with no explicit emotional tone. Therefore, all emotions should be scored low.",
+    "critique": "The document outlines regulations and penalties for customs violations in the Canal Zone. It is a formal and legalistic document. Therefore, the emotions conveyed are minimal. There might be a slight sense of fear conveyed due to the penalties, but it's not a dominant emotion. The document does not convey joy, sadness, disgust, or surprise.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order, so it is unlikely to convey any emotion. The initial scores should be low for all emotions. After revision, the scores should remain low as the content of the document does not change.",
+    "critique": "The document is a formal revocation of an executive order affecting specific land descriptions. It's a legal and administrative document, so it doesn't express strong emotions. The language is neutral and factual. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication of the emotion being conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

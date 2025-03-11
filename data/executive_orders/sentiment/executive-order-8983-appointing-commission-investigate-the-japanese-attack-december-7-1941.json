@@ -4,14 +4,14 @@
         "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal announcement of a commission to investigate the Pearl Harbor attack. The primary emotion conveyed is a sense of seriousness and determination to understand what happened. There might be a hint of sadness or anger related to the attack itself, but the document focuses on the investigation. Surprise is not really conveyed. Disgust is not really conveyed. The initial scores reflect this, with sadness a bit higher than the others, but not by much. The revised scores are similar, but with a slight increase in sadness and a slight decrease in joy.",
+    "critique": "The document is a formal presidential order establishing a commission to investigate the Pearl Harbor attack. It expresses a serious and determined tone, but avoids overt emotional displays. Therefore, most emotions should be scored low, with a slight emphasis on sadness and anger due to the context of the attack.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

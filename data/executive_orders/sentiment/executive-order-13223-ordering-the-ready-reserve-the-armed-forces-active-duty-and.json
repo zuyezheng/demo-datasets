@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
+        "sadness": 5,
         "fear": 7,
-        "disgust": 3,
-        "surprise": 4
+        "disgust": 6,
+        "surprise": 7
     },
-    "critique": "The document expresses a serious and urgent tone due to the context of the terrorist attacks. The primary emotion conveyed is fear, due to the ongoing threat, followed by a sense of determination and resolve. There's also a hint of sadness related to the attacks, but the focus is on taking action. Disgust and surprise are less prominent but still present due to the nature of the attacks. The language is formal and legalistic, which tempers the emotional impact but doesn't eliminate it.",
+    "critique": "The document is a formal presidential order issued in response to the September 11th terrorist attacks. The primary emotion conveyed is a sense of urgency and resolve to address the threat. While not explicitly stated, there's an underlying sense of fear and concern for national security. There's no indication of joy. Sadness is present due to the context of the attacks, but it's not the primary focus. Disgust is a possible emotion considering the nature of the attacks. Surprise is relevant given the unexpected nature of the attacks.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 5,
+        "sadness": 6,
         "fear": 8,
-        "disgust": 4,
-        "surprise": 5
+        "disgust": 7,
+        "surprise": 8
     }
 }

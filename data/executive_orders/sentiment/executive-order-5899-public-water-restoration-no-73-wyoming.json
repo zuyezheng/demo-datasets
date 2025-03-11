@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement about land being restored to the public domain. There is no explicit or implicit emotional content. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order regarding land allocation. It revokes a previous order and restores land to the public domain. The language is neutral and factual, with no explicit emotional expression. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication of the emotion being conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The document is a formal declaration approving the official seal of the United States Marine Corps. The language is formal and ceremonial, lacking strong emotional cues. The primary emotion conveyed might be a sense of pride or respect, but it's very subdued. Therefore, I'll assign low scores across all emotions, with a slightly higher score for joy and surprise due to the celebratory nature of the declaration.",
+    "critique": "The document is a formal presidential order approving the official seal for the United States Marine Corps. The language is formal and official. There is no strong emotion conveyed in this document. The emotions that could be inferred are joy for the approval, and surprise for the design. However, these emotions are very mild. Therefore, I will assign low scores to all emotions.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

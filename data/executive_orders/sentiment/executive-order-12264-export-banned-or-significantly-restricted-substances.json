@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "fear": 3,
+        "disgust": 3,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the export of banned or significantly restricted substances. It outlines procedures for notification, export control, and international cooperation. The language is legal and technical, with no overt emotional appeals. Therefore, the expected emotional response from the American public would be minimal across all emotions. Most scores should be 1, indicating a lack of strong emotional conveyance. However, there might be a slight sense of reassurance (low joy) due to the government taking action to regulate potentially harmful exports. There might also be a very slight sense of fear or disgust related to the substances being regulated, but this is indirect and minimal.",
+    "critique": "The document is a formal policy regarding the export of banned or significantly restricted substances. It aims to protect both the foreign policy interests of the United States and the health and safety of foreign populations. There is a sense of responsibility and caution conveyed, but no strong emotions are explicitly expressed. Therefore, the initial scores should reflect this neutrality, with slightly elevated scores for fear and disgust due to the nature of the substances being regulated.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "fear": 3,
+        "disgust": 3,
         "surprise": 1
     }
 }

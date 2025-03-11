@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the transfer of authority and property related to alien property during wartime. It is primarily a legal and administrative document. Therefore, the emotions conveyed are minimal. The primary emotion might be a sense of seriousness or concern due to the context of war, but it's not explicitly stated. Most emotions should be scored low, with a slight emphasis on fear or concern due to the wartime context.",
+    "critique": "The document is a formal executive order transferring authority and property related to alien property to a custodian during wartime. It's a legal and administrative document, so strong emotions are unlikely. There might be a slight sense of urgency or concern implied by the context of war, but the language is very neutral.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding cost of living index figures and their impact on compensation for government employees. The language is technical and factual, with no indication of emotions like joy, sadness, anger, fear, disgust, or surprise. The announcement is purely administrative and aims to inform the public about adjustments to compensation based on economic indicators. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal announcement regarding cost of living index figures and their impact on compensation. It's a factual statement with no explicit emotional expression. Therefore, all emotions should be scored low, with a baseline of 1 to indicate minimal presence due to the formal nature of the document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

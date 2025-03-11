@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to convey a sense of purpose and determination to improve government efficiency and transparency. There is no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. However, the underlying sentiment is one of resolve and a commitment to responsible governance. The order focuses on cutting costs, reviewing contracts, and improving processes, suggesting a desire to address potential inefficiencies or waste. The language is formal and authoritative, reinforcing the seriousness of the order. Therefore, the scores for all emotions should be relatively low, with a slight emphasis on surprise as the public might be surprised by the extent of the changes.",
+    "critique": "The document is a formal executive order. It aims to cut costs and increase government efficiency. The language is formal and direct. There is no explicit expression of emotions. However, there might be a subtle sense of determination and resolve to improve government operations. Given the formal nature, the intensity of any emotion would be low.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

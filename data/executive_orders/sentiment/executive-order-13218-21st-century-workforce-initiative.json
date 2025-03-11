@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is an executive order establishing an office and council related to the 21st Century Workforce. It is a formal and official document. The language is neutral and objective, with no explicit emotional expression. Therefore, all emotions should be scored low initially. There might be a slight sense of joy or optimism associated with promoting workforce development, but it's very subtle. After a second thought, the order seems to be more about addressing potential issues and changes, so a slight sense of surprise might be present, but still low.",
+    "critique": "The document is a formal executive order establishing an office and council to address workforce issues. It aims to convey a sense of purpose and resolve in tackling these issues. Joy is low as it's a formal document. Sadness is low as it's about future planning. Fear is low as it's about addressing challenges, not succumbing to them. Disgust is low as it's a policy document. Surprise is low as it's a planned initiative.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

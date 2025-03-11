@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It permits employees of the National Park Service to accept appointments as deputy sheriffs under certain conditions. The language is formal and legalistic. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order. It permits employees of the National Park Service to accept appointments as deputy sheriffs under certain conditions. The language is formal and legalistic. There is no strong emotion conveyed. The primary emotion might be a mild sense of approval or authorization, but it's very subdued. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy due to the approval aspect.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

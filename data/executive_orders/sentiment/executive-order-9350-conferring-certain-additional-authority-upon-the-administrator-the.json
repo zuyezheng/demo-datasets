@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the acquisition of foreign merchant vessels during World War II. The language is legal and administrative, with no explicit emotional expression. The likely emotions conveyed would be related to the context of wartime, such as a sense of urgency (potentially fear) and determination (potentially joy in a nationalistic sense). However, the document itself doesn't directly express these emotions, so the scores should be low.",
+    "critique": "The document is a formal executive order. It authorizes the Administrator of the War Shipping Administration to acquire foreign merchant vessels. The language is legal and formal, and the tone is neutral. There is no strong emotion conveyed. Therefore, the initial scores should be low for all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

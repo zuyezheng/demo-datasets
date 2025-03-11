@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal presidential order regarding the use of the American Revolution Bicentennial symbol. It aims to promote awareness and interest in the Bicentennial. The language is formal and official, lacking strong emotional cues. The primary emotion conveyed, if any, is a mild sense of joy or pride associated with the historical event. Other emotions like sadness, anger, fear, and disgust are not relevant in this context. Surprise is also not a primary emotion, although the order itself might be unexpected to some. Based on this, the initial scores are: Joy: 3, Sadness: 1, Anger: 1, Fear: 1, Disgust: 1, Surprise: 2. After further consideration, the document is very neutral and informational. The joy score should be lowered.",
+    "critique": "The document is a formal presidential order regarding the use of the American Revolution Bicentennial symbol. It aims to promote awareness and interest in the Bicentennial. The language is formal and official. There is no strong indication of emotions like joy, sadness, fear, disgust, or surprise. The primary purpose is to instruct federal departments and agencies on the proper use of the symbol. Therefore, most emotions should be scored low, with a slight emphasis on joy due to the celebratory nature of the Bicentennial.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

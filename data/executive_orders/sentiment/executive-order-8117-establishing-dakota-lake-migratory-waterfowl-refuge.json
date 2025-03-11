@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration establishing a wildlife refuge. It uses legal and administrative language. There is no explicit emotional appeal. However, the act of protecting wildlife could be seen as conveying a sense of joy for nature or sadness for its potential loss. Surprise, fear, disgust, and anger are not relevant emotions in this context. The intensity of joy or sadness is likely to be low, as the document is primarily a legal declaration.",
+    "critique": "The document is a formal declaration establishing a wildlife refuge. It primarily conveys a sense of authority and purpose, with a hint of care for wildlife. There's no strong indication of joy, sadness, fear, disgust, or surprise. The language is legal and administrative, not emotional. Therefore, the initial scores should be low across the board, with a slightly higher score for joy due to the positive action of creating a refuge.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document discusses a change in civil service rules, specifically regarding the appointment of advisers. The tone is formal and bureaucratic, focusing on efficiency and the interests of the service. There is no indication of strong emotions like joy, sadness, anger, fear, disgust, or surprise. The language is neutral and objective. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal announcement about a change in civil service rules. It revokes a noncompetitive appointment process and suggests a competitive one. The tone is neutral and administrative. There's no strong indication of any particular emotion. Therefore, the initial scores for all emotions should be low, with a slight emphasis on sadness due to the revocation of the previous rule.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order, so it is unlikely to convey strong emotions. The president is making an amendment to an executive order. The language is formal and legalistic, not designed to evoke emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order issued by President Franklin D. Roosevelt. It amends a previous executive order related to property interests involving France. The language is legal and formal, with no explicit emotional expression. Therefore, the scores should be low across all emotions, with a baseline of 1 where there isn't enough information to suggest otherwise.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

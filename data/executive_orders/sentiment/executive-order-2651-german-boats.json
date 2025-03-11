@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 3,
+        "surprise": 2
     },
-    "critique": "The document is a formal declaration regarding the seizure of vessels owned by a nation at war with the United States. It primarily conveys a sense of decisive action and legal authority. There's no explicit expression of joy, sadness, fear, or disgust. Surprise is also unlikely given the context of war. The primary emotion conveyed might be a sense of firm resolve and perhaps a controlled level of anger or determination towards the enemy, but it's largely implicit. The language is formal and legalistic, not designed to evoke strong emotional responses in the public. Therefore, most scores should be low, with a slight emphasis on resolve or controlled anger.",
+    "critique": "The document is a formal declaration regarding the seizure of vessels owned by entities of a nation at war with the United States. The primary emotion conveyed is a sense of resolute action and authority, with a hint of concern due to the state of war. There isn't a strong presence of joy, sadness, or surprise. Disgust might be present due to the context of war, but it's not explicitly stated. Fear is also a possibility, but it's more about taking necessary actions during wartime.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 2,
-        "surprise": 1
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 4,
+        "surprise": 2
     }
 }

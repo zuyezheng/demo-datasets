@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding land allocation for the Turtle Mountain band of Chippewas. It is a factual statement with no explicit emotional content. Therefore, all emotions should be scored low. Since there is not enough information to portray any emotion, I will assign a score of 1 to each emotion.",
+    "critique": "The document is a formal executive order describing the boundaries of land being set aside for the Turtle Mountain band of Chippewas. There is no strong emotion conveyed, but a slight sense of care and responsibility. Therefore, I will assign low scores across the board, with a slightly higher score for joy and surprise due to the positive nature of the order for the Chippewas.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

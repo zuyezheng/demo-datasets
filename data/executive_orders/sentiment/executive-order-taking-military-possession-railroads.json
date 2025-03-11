@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 6,
-        "disgust": 3,
-        "surprise": 5
+        "sadness": 4,
+        "fear": 7,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The document is a military order from the War Department, stating the President is taking military possession of all railroads in the United States. The order is for the transportation of troops and munitions of war. The primary emotion conveyed would likely be fear and surprise, with a touch of disgust and sadness due to the implications of war. There's no indication of joy. The intensity of fear and surprise might be moderate, while disgust and sadness would be lower.",
+    "critique": "The document is a military order from the War Department. It is a formal document that conveys a sense of urgency and authority. The primary emotion conveyed is fear, as the government is taking control of the railroads for military purposes. There is also a sense of sadness, as the order disrupts the normal operations of the railroads and the lives of the people who depend on them. There is no evidence of joy, disgust, or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 6,
-        "disgust": 3,
-        "surprise": 5
+        "sadness": 4,
+        "fear": 7,
+        "disgust": 1,
+        "surprise": 1
     }
 }

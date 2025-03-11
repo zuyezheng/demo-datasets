@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a military order, so it is unlikely to convey strong emotions. However, it may convey a sense of seriousness and determination. The order is mobilizing the National Guard, which could be interpreted as a sign of potential conflict, leading to some fear and concern. The order itself is formal and uses legal language, which does not lend itself to strong emotional expression. Therefore, the initial scores will be relatively low across all emotions. After further consideration, the initial assessment seems accurate. The document's primary purpose is to issue an order, and while it may indirectly evoke some fear or concern due to its implications, the emotional intensity is likely to be low.",
+    "critique": "The document is a formal order from the President to activate National Guard units for military service. It is a serious and official communication. The primary emotion conveyed is a sense of duty and resolve, with a hint of concern given the context of potential conflict. There is no explicit expression of joy, sadness, disgust, or surprise. Fear is present due to the context of war.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 5,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding labor regulations. It primarily conveys a sense of official procedure and continuation of existing policies. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. The emotions are likely to be very muted, with a slight sense of importance or necessity, but not strongly emphasized. Therefore, the initial scores are set to 1 across all emotions.",
+    "critique": "The document is a formal executive order extending a previous order. It primarily conveys a sense of urgency and necessity due to an ongoing emergency. There is no explicit expression of joy, sadness, disgust, or surprise. Fear is present due to the mention of an 'extraordinary emergency'.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 5,
         "disgust": 1,
         "surprise": 1
     }

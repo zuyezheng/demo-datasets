@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order establishing a wildlife refuge. The language is formal and legalistic, with no explicit emotional expression. However, the act of preserving land for wildlife could be interpreted as conveying a sense of joy or hope for the future. However, without additional information, it is difficult to gauge the president's sentiment. The score will be set to 1.",
+    "critique": "The document is a formal declaration establishing a wildlife refuge. The primary emotion conveyed is a sense of responsibility and authority. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, there might be a subtle sense of joy in protecting wildlife, but it's not explicitly stated. Therefore, I will assign a low score to joy and a score of 1 to the other emotions.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

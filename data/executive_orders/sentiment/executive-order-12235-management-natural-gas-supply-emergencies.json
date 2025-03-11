@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the delegation of authority during a natural gas supply emergency. It is unlikely to evoke strong emotions in the general public. The language is legal and procedural, not designed to elicit an emotional response. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the delegation of authority during a natural gas supply emergency. It is primarily concerned with assigning responsibilities and ensuring cooperation between agencies. There is no explicit expression of emotions. Therefore, the initial scores should be low across all emotions. Considering the formal nature, a baseline of 1 is appropriate where there isn't enough information.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

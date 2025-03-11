@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation for the Boise Fort Band of Chippewa Indians. The language is legal and administrative, lacking emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding land allocation for the Boise Fort Band of Chippewa Indians. The language is legal and administrative, with no explicit emotional expression. However, the act of setting aside land for the tribe could be interpreted as a positive action, potentially conveying a sense of justice or fairness, which might be associated with a low level of joy. There is no indication of sadness, anger, fear, disgust, or surprise in the text. Therefore, these emotions should be scored as 1.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

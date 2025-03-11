@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The president is conveying a message about the conduct of government officials during elections. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The tone is formal and neutral, focusing on policy and expectations. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional indicators.",
+    "critique": "The document outlines rules for federal officers regarding political activities. It emphasizes neutrality and non-interference in political campaigns, while allowing them to vote and express views without disrupting their duties. There's a tone of authority and expectation of compliance. Initial scores are based on a neutral stance with slight emphasis on potential negative emotions due to the restrictive nature of the guidelines.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

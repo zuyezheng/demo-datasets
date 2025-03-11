@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to promote open bidding, increase competition, reduce costs, expand job opportunities, and uphold associational rights. The language is legal and procedural. There is no explicit expression of emotion. However, the order's intent to expand job opportunities and uphold worker's rights could be interpreted as conveying a sense of joy or hope. Conversely, the restrictions on mandatory union membership could be seen as causing anger or disgust among some groups. Given the formal and neutral tone, the overall emotional impact is likely to be low. Most emotions should be scored low, with a slight emphasis on joy due to the job creation aspect.",
+    "critique": "The document is a formal executive order. It aims to promote open bidding, increase competition, reduce costs, expand job opportunities, and uphold workers' rights. The language is legal and procedural. There is no explicit expression of emotions. However, the intent to expand job opportunities and uphold workers' rights could be interpreted as conveying a sense of joy or hope, but it is very subtle. The order also aims to prevent discrimination, which could be seen as a response to potential disgust or anger related to unfair labor practices, but again, this is implicit. Given the formal nature, the scores should be low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

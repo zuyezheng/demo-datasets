@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the Presidential Management Intern Program. It uses formal and legalistic language. The primary goal is to establish a program, not to evoke emotions. Therefore, the expected emotional response from the public would be minimal across all emotions.",
+    "critique": "The document establishes the Presidential Management Intern Program. The language is formal and legalistic, with the primary goal of outlining the program's structure, eligibility criteria, and operational procedures. There's a slight sense of joy and hope associated with attracting talented individuals to public service, but it's very subdued. There's no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

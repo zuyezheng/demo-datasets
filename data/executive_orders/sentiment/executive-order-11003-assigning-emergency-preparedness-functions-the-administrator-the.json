@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The document is a formal executive order outlining emergency preparedness measures for civil aviation. It primarily conveys a sense of seriousness and preparedness, with an underlying tone of potential fear or concern due to the nature of emergency planning. There is no indication of joy, and disgust is not relevant. Surprise is also not a primary emotion conveyed, as the document is about planned responses.",
+    "critique": "The document is a formal executive order outlining the responsibilities of the Federal Aviation Agency in preparing for national emergencies. The language is formal and legalistic, with a focus on preparedness, planning, and coordination. There is an underlying sense of seriousness and urgency due to the context of national emergency, but the document avoids explicitly expressing strong emotions. Therefore, the initial scores should reflect this neutrality, with slight increases in fear and surprise due to the emergency context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 6,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

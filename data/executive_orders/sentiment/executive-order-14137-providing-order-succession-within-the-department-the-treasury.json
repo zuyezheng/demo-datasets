@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is an executive order regarding the order of succession within the Department of the Treasury. It is a formal and legal document. The language is precise and does not convey any particular emotion. The order is meant to ensure the continuity of government in the event of vacancies in key positions. Therefore, the expected emotional response from the American public would be minimal. Most people would likely not have a strong emotional reaction to this document. The initial scores are set to 1 across all emotions, as the document is not designed to evoke any specific emotion.",
+    "critique": "The document is a formal executive order. It establishes the order of succession within the Department of the Treasury. The language is legal and procedural. There is no strong emotion conveyed. A score of 1 is appropriate for all emotions except for surprise which should be 2 because executive orders can sometimes be surprising.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

@@ -6,9 +6,9 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding pay adjustments for various government employees and officials. It is a formal and legal document. The expected sentiment from the public would likely be neutral, as it is a routine administrative action. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores are all set to 1.",
+    "critique": "The document is a formal executive order regarding pay scales for various government employees and members of the uniformed services. It is primarily informational and directive, with no overt emotional expression. Therefore, most emotions should be scored low. There might be a slight sense of satisfaction or pride in fulfilling governmental duties, but this is very subtle.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

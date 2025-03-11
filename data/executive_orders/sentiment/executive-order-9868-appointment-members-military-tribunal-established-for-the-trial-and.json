@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 1,
         "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal order from the President regarding the designation of members to military tribunals. It outlines their responsibilities, compensation, and support. The language is legal and procedural, with no explicit emotional tone. However, the context of trying major war criminals could evoke a sense of justice and resolve, but also potentially fear or disgust related to the crimes committed. Considering the lack of overt emotional cues, the initial scores will be relatively low, with a slight emphasis on justice and resolve.",
+    "critique": "The document is a formal order designating individuals to military tribunals. It conveys a sense of authority and purpose, but lacks strong emotional expression. Therefore, the initial scores are set to low values, with slight emphasis on sadness and disgust due to the context of war crimes.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 1,
         "disgust": 2,
         "surprise": 1
     }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order regarding land use. It doesn't express any particular emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding land use. It revokes a previous order and opens the land for homesteading by ex-service men and then the general public. The language is legal and procedural. There is no strong emotional content. A slight sense of joy might be inferred from the opportunity for homesteading, but it's very mild. There's no indication of sadness, anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

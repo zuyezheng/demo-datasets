@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 5,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The president is conveying respect and somberness for the late president Garfield. The document facilitates attendance to the unveiling of Garfield's statue and meetings of the Society of the Army of the Cumberland. The language is formal and respectful, indicating sadness and respect rather than joy, anger, fear, disgust, or surprise. The intensity of sadness is moderate, as it is a respectful remembrance.",
+    "critique": "The document is a formal announcement regarding the closure of government offices and leave for employees to attend events related to the unveiling of a statue for the late President Garfield. The primary emotion conveyed is respect and remembrance, with a touch of solemnity given the occasion. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise, but the context implies a degree of sadness due to the remembrance of a deceased president. The other emotions are not strongly present, so they are scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 5,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

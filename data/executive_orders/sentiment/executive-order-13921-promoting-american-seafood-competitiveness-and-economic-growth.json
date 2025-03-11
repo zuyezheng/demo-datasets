@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 5,
         "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order focused on strengthening the American economy and seafood industry. The primary emotion conveyed is joy, stemming from the potential for job creation, economic improvement, and access to safe food. There's a secondary element of hope and optimism, but the document avoids strong negative emotions like sadness, anger, fear, or disgust. Surprise is not a relevant emotion in this context.",
+    "critique": "The document is a formal executive order. The primary emotion conveyed is a sense of purpose and determination to improve the American economy and the seafood industry. There is a hint of concern regarding the current state of the industry and illegal fishing practices, but this is presented in a factual, non-emotional way. Therefore, I will assign low scores to negative emotions and a moderate score to joy, reflecting the positive goals outlined in the order.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 5,
         "sadness": 2,
         "fear": 1,
         "disgust": 1,

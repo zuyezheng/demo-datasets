@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order extending the provisions of a previous order to additional agencies in support of the war effort. The language is legalistic and bureaucratic, with no explicit emotional expression. However, the context of wartime suggests a sense of urgency and determination. Given the formal tone, the expected emotional response from the public would likely be muted. The most relevant emotions are likely to be fear and surprise. The scores are as follows: disgust: 1, fear: 3, joy: 1, sadness: 1, surprise: 2. After a second thought, the document is unlikely to elicit any strong emotions. The scores are as follows: disgust: 1, fear: 2, joy: 1, sadness: 1, surprise: 1.",
+    "critique": "The document is a formal executive order extending the provisions of a previous order to additional agencies in support of the war effort. The primary emotion conveyed is a sense of urgency and determination to facilitate the war effort. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the context of wartime implies a degree of underlying concern and seriousness. The language is formal and legalistic, reflecting the nature of the document.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order amending a previous order regarding the order of succession of officers. The language is legal and procedural, and there is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order amending a previous order regarding the order of succession of officers. The language is formal and factual, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Considering the formal nature, a baseline of 1 is appropriate for emotions that are not explicitly present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

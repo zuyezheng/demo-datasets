@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document describes a labor dispute and the creation of a board to investigate it. The language is formal and legalistic, with no strong emotional indicators. Therefore, the expected emotional response from the American public would likely be neutral. Initial scores are set to 1 across all emotions due to the lack of emotional content. Upon review, the initial scores accurately reflect the neutral tone and lack of overt emotional expression in the document. No revisions are necessary.",
+    "critique": "The document is a formal announcement of the creation of a board to investigate a dispute between railway carriers and their employees. The language is legal and procedural. There is no strong emotion conveyed, but a sense of concern and urgency is present due to the potential disruption of interstate commerce. Therefore, I will assign low scores to sadness, fear, and surprise, and a minimal score to disgust. Joy is not present. The initial scores reflect this assessment. After further consideration, I will revise the scores to slightly increase the fear and sadness scores to reflect the potential negative impact of the dispute.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

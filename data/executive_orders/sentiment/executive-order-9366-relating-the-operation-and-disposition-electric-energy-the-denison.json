@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the distribution of electric power generated at the Denison Dam Project during World War II. The primary emotions conveyed are related to the necessity and urgency of the war effort. There's a sense of purpose and determination, but not necessarily strong displays of joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, aimed at establishing clear lines of authority and ensuring efficient resource allocation for the war effort. Therefore, the initial scores will be relatively low across all emotions, with a slight emphasis on purpose and determination.",
+    "critique": "The document is a formal executive order regarding the distribution of electric power generated at the Denison Dam Project. It prioritizes the use of this power for war plants and establishments, reflecting the context of World War II. The language is legal and administrative, with no explicit emotional expression. However, there is an underlying sense of urgency and determination to support the war effort. The initial scores reflect the lack of overt emotional content, with slight adjustments to acknowledge the implicit emotions related to the war effort.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 2,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

@@ -1,12 +1,12 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 2
     },
-    "critique": "The document is a military order from the War Department. It primarily conveys a sense of urgency and determination, but it doesn't strongly emphasize any particular emotion. The mention of volunteers and militia suggests a call to duty, which might evoke a sense of patriotism or resolve. However, the language is formal and bureaucratic, limiting the emotional impact. Therefore, I would score joy, sadness, fear, disgust, and surprise all as 1, as the document does not explicitly convey these emotions. I would score surprise as 1, as the document does not contain any surprising elements.",
+    "critique": "The document is a formal announcement from the War Department regarding the mustering of militia and volunteers into the service of the United States. The language is official and direct, with no explicit emotional expression. However, the context of preparing for war implies some level of concern and urgency. I will assign low scores for fear and sadness due to the somber nature of the announcement, and a minimal score for surprise, disgust, and joy as they are not directly relevant. I will revise the scores to reflect the formal and unemotional tone of the document, setting most scores to 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

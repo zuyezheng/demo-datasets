@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a wildlife refuge. It uses legal and technical language. The primary emotion conveyed would be joy and surprise due to the establishment of a refuge and breeding ground for birds and other wildlife. However, the overall tone is neutral and official, so the intensity of these emotions would likely be low to moderate. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order establishing a wildlife refuge. It primarily uses legal and geographical language. There is a slight sense of joy due to the creation of a refuge for birds and wildlife, but it is not explicitly stated. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

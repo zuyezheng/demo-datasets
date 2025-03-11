@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land use. It primarily conveys a neutral tone, focused on legal and administrative procedures. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is objective and procedural, aiming to inform and direct rather than evoke emotion. Therefore, the initial scores for all emotions should be low, reflecting the document's lack of emotional content. I will set all initial scores to 1, indicating a minimal presence of each emotion.",
+    "critique": "The document is a formal executive order regarding land use. It revokes a previous order and opens land for homesteading by ex-service members. The language is legal and procedural, with no explicit emotional expression. Therefore, all emotions should be scored low, with a baseline of 1 to indicate minimal presence.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

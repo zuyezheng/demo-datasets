@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land management. It uses legal and administrative language and does not express any particular emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of determination and authority in enacting and amending regulations related to public lands. There is a slight hint of concern or caution regarding the ambiguity of the previous order. It does not express any strong emotions such as joy, sadness, fear, disgust, or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal authorization from the President regarding nuclear exports to India. It invokes legal and constitutional authority, and refers to specific sections of the Atomic Energy Act. The language is formal and legalistic. There is no explicit expression of emotion. However, the determination that withholding the exports would be 'seriously prejudicial' and 'jeopardize the common defense and security' suggests a concern for national security, which could be interpreted as a mild form of fear or concern. The authorization itself, despite the 60-day delay, could be seen as a positive action, hinting at a mild sense of satisfaction or perhaps even a hint of joy that the issue is being addressed. However, given the formal and legal nature of the document, these emotions are very subdued. Disgust, sadness, and surprise are not evident in the text.",
+    "critique": "The document is a formal authorization from the President regarding nuclear exports to India. It invokes legal authority and states the determination that withholding the exports would be prejudicial to US non-proliferation objectives and jeopardize common defense and security. There is no explicit expression of emotions such as joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic. Therefore, the initial scores for all emotions should be low, reflecting the absence of emotional content.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

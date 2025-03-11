@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 4,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order. The primary emotion conveyed is a sense of purpose and determination to improve the lives of people in rural communities. There might be a hint of joy in the potential positive outcomes, but it's not overt. There's no indication of anger, fear, disgust, or surprise. The order aims to address challenges, but the tone is more about proactive solutions than dwelling on negative emotions. Therefore, joy is scored a 3, and all other emotions are scored a 1.",
+    "critique": "The document is a formal executive order establishing a White House Rural Council. The primary emotion conveyed is a sense of purpose and determination to improve the quality of life in rural America. There is a hint of joy in anticipating the positive outcomes, but overall, the tone is serious and focused on policy and coordination. There's no strong indication of negative emotions like sadness, fear, disgust, or surprise. Therefore, the initial scores should reflect this.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 4,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

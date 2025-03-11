@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal statement from the President regarding the exemption of Thomas A. Jaggar, Jr. from compulsory retirement. The language is formal and legalistic, and the tone is neutral. There is no indication of strong emotions such as joy, sadness, anger, fear, disgust, or surprise. The primary purpose is to communicate a decision and its legal basis. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal exemption from retirement for Thomas A. Jaggar, Jr. The language is formal and legalistic. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, there might be a hint of positive sentiment (joy) in recognizing Jaggar's service, but it's very subtle. A baseline score of 1 is appropriate for most emotions, with a slightly higher score for joy to acknowledge the positive aspect of the exemption.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -6,11 +6,11 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the delay of certain transfers, consolidations, and eliminations. It uses formal and legalistic language. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the delay of certain transfers, consolidations, and eliminations. It uses formal and legalistic language. There is no explicit expression of emotions. Therefore, the initial scores for all emotions should be low. Considering the context, a slight sense of concern or seriousness might be inferred due to the delay, but it's minimal. The revised scores will reflect this slight adjustment.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

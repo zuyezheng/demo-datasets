@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is an executive order addressing a labor dispute. As the President, the primary goal is to convey a sense of control and responsibility in protecting national safety. The tone is formal and decisive, aiming to instill confidence rather than strong emotional reactions. Joy is unlikely, as it's a serious matter. Sadness isn't the intent, though there's concern about the dispute's impact. Anger isn't directly expressed, but there's a firm stance. Fear is a potential underlying emotion due to the threat to national safety. Disgust is unlikely. Surprise isn't the goal, but the situation necessitates action. Revised scores reflect a more nuanced understanding of the intended emotional impact.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 6,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

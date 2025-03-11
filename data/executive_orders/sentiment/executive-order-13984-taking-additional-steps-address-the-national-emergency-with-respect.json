@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
-        "disgust": 1,
+        "fear": 4,
+        "disgust": 3,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing cybersecurity threats. It uses legal and technical language, focusing on actions and regulations. There is no explicit expression of emotion. However, the underlying context suggests concern about national security and economic stability due to malicious cyber activities. Therefore, a low level of fear and concern might be perceived. Other emotions are not relevant.",
+    "critique": "The document is a formal executive order addressing national security concerns related to malicious cyber activities. The primary emotion conveyed is concern and determination to protect US infrastructure. There is a sense of urgency and resolve, but emotions like joy, sadness, and surprise are not relevant in this context. Disgust and fear are present due to the nature of the threat being addressed, but they are not the primary focus.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
-        "disgust": 1,
+        "fear": 4,
+        "disgust": 3,
         "surprise": 1
     }
 }

@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal request to establish a reservation for Indian tribes. The language is formal and bureaucratic. There is no indication of any strong emotion. The president's approval is also a simple statement. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal recommendation to establish a reservation for Indian tribes. The language is formal and bureaucratic. There is no explicit expression of emotions. However, there might be a subtle sense of sadness due to the displacement of Native Americans, but it's not explicitly stated. Surprise, disgust, fear, and joy are not conveyed in the document. I will assign a low score to sadness and a score of 1 to the other emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

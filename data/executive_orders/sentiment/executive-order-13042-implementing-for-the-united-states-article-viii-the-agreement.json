@@ -6,9 +6,9 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal presidential order regarding the World Trade Organization. It primarily conveys information and legal directives. There's no strong indication of emotions like joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, aimed at clarity and precision rather than emotional expression. Therefore, the initial scores for all emotions are set to 1, indicating a minimal emotional presence.",
+    "critique": "The document is a formal presidential order regarding the World Trade Organization. It primarily conveys a sense of authority and official implementation of international agreements. There is no strong indication of emotions like joy, sadness, fear, disgust, or surprise. The language is neutral and legalistic. Therefore, most emotions should be scored low, with a slightly higher score for authority which can be interpreted as a low level of joy or perhaps surprise at the implementation.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

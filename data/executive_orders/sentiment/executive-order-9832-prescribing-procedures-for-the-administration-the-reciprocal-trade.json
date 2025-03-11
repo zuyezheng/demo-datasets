@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding trade agreements. It is primarily concerned with establishing procedures and guidelines for trade negotiations and safeguarding American production interests. The language is legalistic and procedural, lacking emotional expression. Therefore, the expected emotional response from the American public would be minimal across all emotions.",
+    "critique": "The document is a formal executive order regarding trade agreements. It primarily conveys a sense of seriousness and purpose in safeguarding American production and managing international trade. There's a hint of concern about potential injury to domestic producers, but overall, the tone is neutral and focused on procedure and policy. Therefore, emotions like joy, surprise, fear, disgust, and sadness are minimal. The document is very formal and uses language that is appropriate for such documents.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement extending the Civil Service Retirement Act to specific employees. The language is formal and bureaucratic, lacking emotional expression. The employees have served faithfully and honorably for a long time, so there might be a slight sense of joy and gratitude. However, the primary purpose is administrative, not emotional. Therefore, the initial scores should be low across all emotions, with a slightly higher score for joy.",
+    "critique": "The document is a formal order extending retirement act provisions to specific employees. It highlights their faithful and honorable service. There's a sense of gratitude and appreciation, but it's subtle. Joy is present due to the positive outcome for the employees, but it's not overt. Sadness, fear, disgust, and surprise are not significantly present.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

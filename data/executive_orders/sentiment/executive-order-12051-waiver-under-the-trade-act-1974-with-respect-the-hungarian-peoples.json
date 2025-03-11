@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration regarding trade relations with the Hungarian People's Republic. It invokes legal authority and makes a formal waiver. There is no explicit expression of emotion. The language is legal and procedural, not designed to evoke any particular feeling. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal declaration regarding trade relations with the Hungarian People's Republic. It invokes legal authority and makes a formal waiver. There is no explicit expression of emotions. However, the act of waiving restrictions could be interpreted as a subtle expression of optimism or a desire for improved relations, but this is not explicitly stated. Therefore, most emotions should be scored low, with a slight consideration for joy or surprise depending on the context of the waiver.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the Freedom of Information Act (FOIA). It focuses on policy, agency responsibilities, and reporting requirements. The language is legalistic and procedural. There is no indication of any strong emotion being conveyed. The primary goal is to ensure appropriate agency disclosure of information and improve the FOIA process. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the Freedom of Information Act (FOIA). It aims to improve agency disclosure of information and ensure efficient FOIA processing. The language is formal and legalistic. There is a slight sense of joy in improving the process and making information more accessible to the public, but it is not overt. There is no strong indication of sadness, fear, disgust, or surprise. The document is primarily informational and directive.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

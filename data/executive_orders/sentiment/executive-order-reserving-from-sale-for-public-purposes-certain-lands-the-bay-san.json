@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal letter from the General Land Office informing about land reservations by the President. It's factual and devoid of emotional language. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal communication from the General Land Office regarding land reservations by the President. It primarily conveys information and lacks strong emotional expression. Therefore, the initial scores should be low across all emotions, with a slight emphasis on surprise due to the unexpected nature of land reservations.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

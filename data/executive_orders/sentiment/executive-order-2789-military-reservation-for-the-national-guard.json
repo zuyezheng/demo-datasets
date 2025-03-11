@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 3,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order regarding land allocation for Navajo Indians. It's a formal, legal document. The primary emotion conveyed would likely be a sense of hope and perhaps relief for the Navajo Indians, but for the general public, the emotional impact is likely to be minimal. Therefore, I'll assign low scores across all emotions initially, with a slightly higher score for joy due to the positive impact on the Navajo Indians. After reflection, I will keep the scores low, but adjust them slightly to reflect a more neutral stance, as the document itself is quite factual and unemotional.",
+    "critique": "The document is a formal order regarding land allocation for Navajo Indians. It aims to provide for their welfare by reserving land until allotments can be made. The language is legal and administrative, with no explicit emotional expression. However, the underlying intention to provide for the welfare of the Navajo Indians suggests a low level of joy and a slightly higher level of concern (low sadness/fear) for their well-being. There is no indication of anger, disgust, or surprise.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 3,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

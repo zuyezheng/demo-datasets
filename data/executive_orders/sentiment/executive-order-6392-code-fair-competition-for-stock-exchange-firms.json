@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for Stock Exchange Firms. The language is formal and legalistic, with no explicit expression of emotion. However, given the context of the Great Depression and the New Deal, the approval of such a code could be seen as a positive step towards economic recovery. Therefore, a slight sense of joy or optimism might be inferred. There is no indication of sadness, anger, fear, disgust, or surprise. The scores are assigned accordingly, with joy being slightly above neutral and all other emotions at a neutral level.",
+    "critique": "The document is a formal approval of a code of fair competition. It expresses no strong emotions. The language is legal and administrative. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

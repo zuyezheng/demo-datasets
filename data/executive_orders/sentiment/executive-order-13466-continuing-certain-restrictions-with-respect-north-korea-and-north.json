@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 3,
         "fear": 7,
-        "disgust": 3,
-        "surprise": 1
+        "disgust": 6,
+        "surprise": 4
     },
-    "critique": "The document expresses concern and determination regarding a national security threat. It aims to convey the seriousness of the situation and the decisive actions being taken. Therefore, fear and concern are the primary emotions. There's a hint of disgust towards the actions that necessitate this order. There is no indication of joy or surprise. Sadness is possible, but not prominent.",
+    "critique": "The document expresses concern and determination in addressing a national security threat. It uses formal and legal language, typical of presidential orders. The primary emotion conveyed is a sense of urgency and resolve, with underlying tones of fear and disgust related to the threat itself. The order aims to project an image of control and decisive action.",
     "revised_scores": {
         "joy": 1,
         "sadness": 3,
         "fear": 8,
-        "disgust": 4,
-        "surprise": 1
+        "disgust": 7,
+        "surprise": 3
     }
 }

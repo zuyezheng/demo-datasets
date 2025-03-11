@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order, amending previous orders related to the War Manpower Commission. The language is legalistic and \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995, with no explicit emotional expression. The likely intended emotion from the president is neutral, but given the context of war, a slight sense of seriousness and determination might be inferred. Therefore, I will assign low scores to sadness and fear, and a slightly higher score to determination which can be interpreted as a low level of joy. Disgust and surprise are not relevant.",
+    "critique": "The document is a formal executive order. It primarily uses declarative statements to establish and amend regulations related to the War Manpower Commission. There is no explicit emotional language. Therefore, the emotion scores should be very low, close to 1, for all emotions.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

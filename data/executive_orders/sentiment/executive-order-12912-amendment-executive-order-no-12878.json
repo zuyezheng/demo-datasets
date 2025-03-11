@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It extends the reporting period of a commission. The language is legal and procedural, not designed to evoke emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It extends the reporting period of a commission. There is no strong emotion conveyed. The baseline for formal documents is low, so I will assign a score of 1 for each emotion.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of an appointment. It is unlikely to evoke strong emotions in the American public. The language is neutral and factual. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal announcement of an appointment. It is unlikely to convey strong emotions. The baseline should be a score of 1 for all emotions. There is no information to suggest otherwise.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

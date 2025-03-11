@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It does not express any particular emotion. The president is simply exercising his authority to exempt a person from mandatory retirement. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order regarding the retirement age of a government employee. It mainly conveys a neutral tone, with a slight hint of approval or satisfaction that the person is allowed to continue in service. Therefore, joy is slightly above neutral. There is no indication of sadness, anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

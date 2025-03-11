@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 5,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding war production. It aims to mobilize resources and streamline contracting processes. The primary emotion conveyed is a sense of urgency and determination to win the war. There's an underlying sense of fear related to the war, but it's not explicitly stated. There's no explicit joy, sadness, disgust, or surprise conveyed in the document. The language is formal and legalistic, focusing on authorization and regulation.",
+    "critique": "The document is a formal executive order regarding war production. It emphasizes the need for industrial mobilization and outlines the powers and regulations for government agencies to enter into contracts for war materials. The language is formal and legalistic, with a focus on efficiency and compliance. There is a sense of urgency and determination to win the war, but emotions are largely suppressed in favor of a professional and authoritative tone.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 5,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

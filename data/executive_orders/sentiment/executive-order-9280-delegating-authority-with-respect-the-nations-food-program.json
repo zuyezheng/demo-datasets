@@ -2,14 +2,14 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding food supply and distribution during wartime. It is a formal and legal document. The primary emotion conveyed would be a sense of seriousness and determination to address the food situation. There is a slight undercurrent of fear regarding potential food shortages, but the order is designed to alleviate that fear. There's no explicit joy, sadness, disgust, or surprise conveyed. The document aims to instill confidence and assurance in the public regarding the government's ability to manage the food supply during a critical time.",
+    "critique": "The document is a formal executive order regarding food distribution during wartime. It primarily conveys a sense of urgency and determination to ensure adequate food supply. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the context of war implies a potential for fear and sadness due to the circumstances, but the document itself focuses on a practical solution. Therefore, the initial scores are set to 1 for all emotions, reflecting the lack of explicit emotional expression.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 3,
         "disgust": 1,
         "surprise": 1

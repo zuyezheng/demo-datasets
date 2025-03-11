@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 4,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding petroleum administration during wartime. It is a formal and legal document. The primary emotion conveyed is a sense of urgency and determination to ensure adequate petroleum supplies for the war effort. There is a hint of fear about potential shortages or disruptions to the war effort if petroleum is not managed effectively. There is no indication of joy, sadness, disgust, or surprise.",
+    "critique": "The document is a formal executive order establishing the Petroleum Administration for War. It focuses on coordinating and centralizing war policies related to petroleum to ensure adequate supplies. The language is formal and legalistic, with no explicit emotional expression. However, the context of wartime suggests an underlying sense of urgency and determination. Given the formal nature and focus on policy, the emotion scores should be relatively low, reflecting the implicit emotions tied to the war effort.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 4,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

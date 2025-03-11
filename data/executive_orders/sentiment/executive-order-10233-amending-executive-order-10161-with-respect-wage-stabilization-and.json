@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding wage stabilization during the Korean War. It establishes a Wage Stabilization Board and outlines its powers and responsibilities in resolving labor disputes. The primary emotion conveyed is a sense of urgency and determination to maintain economic stability in the face of national defense needs. There's a hint of concern about potential disruptions to the economy and the need to balance stabilization with collective bargaining. However, the overall tone is formal and authoritative, aiming to establish a framework for managing labor relations during a critical period. Therefore, I will score it as follows:\n\nJoy: 1 (not applicable)\nSadness: 2 (slight concern about limitations on collective bargaining)\nAnger: 1 (not applicable)\nFear: 3 (concern about potential disruptions to national defense)\nDisgust: 1 (not applicable)\nSurprise: 1 (not applicable)\n\nRevised scores:\nJoy: 1\nSadness: 2\nAnger: 1\nFear: 3\nDisgust: 1\nSurprise: 1",
+    "critique": "The document is a formal executive order regarding wage stabilization during the Korean War. It aims to establish a Wage Stabilization Board to handle labor disputes and maintain economic stability. The language is formal and legalistic, with no explicit emotional expression. However, implicit emotions can be inferred from the context. The document conveys a sense of urgency and determination to address potential disruptions to national defense due to labor disputes. There is a mild sense of concern about the potential negative impacts of wage stabilization on collective bargaining. Joy is not present. Sadness is not present. Anger is not present. Fear is present due to the potential disruption of national defense. Disgust is not present. Surprise is not present.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 3,
         "disgust": 1,
         "surprise": 1

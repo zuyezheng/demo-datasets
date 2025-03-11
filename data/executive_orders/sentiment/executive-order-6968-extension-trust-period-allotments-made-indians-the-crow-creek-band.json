@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal order extending the trust period on land allotments to Native Americans. It uses legal and administrative language. There is no explicit emotional expression. The primary emotion conveyed might be a sense of reassurance or hope for the affected individuals, but it's very subtle. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy and surprise to reflect the potential positive impact on the recipients.",
+    "critique": "The document is a formal order extending the trust period on land allotments to certain Native American tribes. The language is legal and administrative, with no explicit emotional expression. Therefore, the initial scores for all emotions are set to 1, indicating a neutral emotional tone.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

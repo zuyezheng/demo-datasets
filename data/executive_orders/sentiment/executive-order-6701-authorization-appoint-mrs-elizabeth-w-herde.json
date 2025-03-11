@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order regarding the appointment of a widow to a clerical position. It doesn't express any strong emotions. The language is formal and bureaucratic. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order regarding the appointment of Mrs. Elizabeth W. Herde. It invokes legal authority and states a specific exception to civil service rules. There is no explicit emotional expression. However, a slight sense of sadness might be inferred due to the mention of her deceased husband. All other emotions are not present.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

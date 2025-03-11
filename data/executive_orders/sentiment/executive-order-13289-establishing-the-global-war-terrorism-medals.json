@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 1,
-        "disgust": 1,
+        "fear": 3,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is an executive order establishing the Global War on Terrorism Expeditionary Medal and the Global War on Terrorism Service Medal. The language is formal and legalistic. The order itself doesn't convey strong emotions. However, given the context of the Global War on Terrorism, the order might evoke a sense of solemnity and perhaps a touch of pride or resolve. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The order is more about recognition and procedure. Therefore, the initial scores will be relatively low across all emotions. I will revise the scores to reflect a slightly higher sense of resolve and solemnity, but still keeping the overall emotional intensity low.",
+    "critique": "The document is a formal executive order establishing the Global War on Terrorism Expeditionary Medal and the Global War on Terrorism Service Medal. It expresses a sense of duty and resolve, but avoids strong emotional language. Therefore, the initial scores are as follows:\n\nJoy: 1 (The document is not intended to evoke joy.)\nSadness: 2 (There is a somber tone due to the context of war and terrorism.)\nFear: 3 (The document acknowledges the threat of terrorism, but does not express fear.)\nDisgust: 2 (There is an implicit disapproval of terrorism.)\nSurprise: 1 (The document is a formal declaration and does not aim to surprise.)\n\nRevised scores:\nJoy: 1\nSadness: 2\nFear: 3\nDisgust: 2\nSurprise: 1",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
         "surprise": 1
     }
 }

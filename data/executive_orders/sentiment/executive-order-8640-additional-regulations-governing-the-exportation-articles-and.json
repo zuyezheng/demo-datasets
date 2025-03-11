@@ -2,11 +2,11 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal presidential order regarding the exportation of articles and materials. It cites legal authority and provides specific instructions to the Secretary of State. The language is legalistic and procedural. There is no explicit expression of emotion. However, given the context of strengthening national defense, a sense of underlying concern or seriousness might be inferred. The document itself does not convey any strong emotions. Therefore, the initial scores will be low across all emotions. After further consideration, the context of national defense could imply a slight sense of fear or concern, so I will adjust the fear score slightly upwards.",
+    "critique": "The document is a formal presidential order regarding export regulations. It is unlikely to convey strong emotions. The primary emotion might be a sense of urgency or seriousness related to national defense, but this is very mild. Therefore, I will assign low scores across the board, with a slightly higher score for fear due to the context of national defense.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

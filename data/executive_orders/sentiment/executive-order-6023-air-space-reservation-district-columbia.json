@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration prohibiting aircraft from navigating the airspace over the District of Columbia on a specific date and time. The language is legal and official, and the purpose is for public safety. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal declaration regarding air space restrictions over the District of Columbia. It cites the Air Commerce Act of 1926 and specifies a time frame for the restriction. The purpose is for public safety. Given the formal and regulatory nature of the document, the emotions conveyed are minimal. There is a slight sense of caution or concern for public safety, which might translate to a low level of fear or concern. There's no indication of joy, sadness, disgust, or surprise. Therefore, I will assign low scores to fear and 1 to the rest.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

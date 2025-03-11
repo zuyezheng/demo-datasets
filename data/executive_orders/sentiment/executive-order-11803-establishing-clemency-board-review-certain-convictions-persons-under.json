@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order establishing the Presidential Clemency Board. It outlines the board's responsibilities, membership, and operational guidelines. The language is legalistic and procedural, with no overt emotional expression. The order addresses the cases of individuals who violated the Military Selective Service Act or received punitive discharges, suggesting a context of addressing past conflicts and seeking resolution. However, the document itself does not explicitly convey any specific emotion. Therefore, the initial scores for all emotions are set to 1, indicating a neutral sentiment.",
+    "critique": "The document is a formal executive order establishing a Presidential Clemency Board. The language is legal and procedural. There is no strong emotion conveyed, but a sense of justice and order might evoke a slight sense of joy and surprise that the government is addressing these issues.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

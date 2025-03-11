@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order establishing a presidential advisory committee. It uses formal and legalistic language. There is no explicit emotional expression. The establishment of a committee suggests a desire for collaboration and policy development, but this doesn't strongly convey any particular emotion. Therefore, I will assign low scores across all emotions. Since there isn't enough information, I will assign a score of 1.",
+    "critique": "The document is a formal executive order establishing a presidential advisory committee. The language is legal and procedural. There is no strong emotion conveyed. A slight sense of joy and surprise might be inferred from the establishment of a new committee, but these are very mild. The document is largely neutral in tone.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

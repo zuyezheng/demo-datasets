@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order. It is a formal and legal document. The language is neutral and objective. The purpose of the document is to establish administrative arrangements. There is no emotion conveyed in the document. The American public is not expected to feel any emotion from reading this document.",
+    "critique": "The document is a formal executive order. It primarily focuses on establishing administrative procedures and assigning responsibilities related to intergovernmental relations. There is no strong emotional language used. Therefore, the emotion scores should be relatively low across all categories. Most of the emotions are not conveyed, so I will assign a score of 1. There might be a slight sense of joy or satisfaction in streamlining governmental processes, but it's very subtle.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

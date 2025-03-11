@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 5,
+        "fear": 5,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding a labor dispute and the creation of a Board of Inquiry. The language is legal and procedural, with no explicit emotional expression. However, the context suggests a concern for national health and safety due to the strike, which could imply a sense of worry or urgency. The president is not attempting to portray joy, but there might be subtle undertones of concern or perhaps even a hint of frustration that the situation has escalated to this point. I will score the emotions based on these subtle undertones, keeping in mind the formal and neutral tone of the document.",
+    "critique": "The document is a formal presidential order creating a Board of Inquiry to address labor disputes in the maritime industry. The language is legalistic and factual, with the primary goal of conveying the necessity of government intervention to prevent disruption to national health and safety. There is no explicit expression of emotions. However, the implicit emotions are sadness and fear. The sadness comes from the fact that the strike has the potential to affect a substantial part of the maritime industry. The fear comes from the fact that the strike, if permitted to continue, will imperil the national health and safety. There is no indication of joy, disgust, or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 5,
+        "fear": 5,
         "disgust": 1,
         "surprise": 1
     }

@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order detailing the design of the President's Coat of Arms, Seal, Color, and Flag. It is primarily descriptive and administrative in nature, lacking strong emotional cues. Therefore, the expected emotional response from the American public would likely be minimal across all emotions. Considering that, initial scores will be set to 1 across all emotions. After further consideration, the formal and authoritative tone might evoke a slight sense of pride or respect, but not enough to significantly alter the scores. Therefore, the revised scores will remain at 1 for all emotions.",
+    "critique": "The document is a formal executive order detailing the design of the President's Coat of Arms, Seal, Color, and Flag. It is a descriptive and regulatory document with no inherent emotional expression. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication of the emotion being conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

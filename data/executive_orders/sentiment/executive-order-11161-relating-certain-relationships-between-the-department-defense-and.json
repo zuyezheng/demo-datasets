@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding the transfer of the Federal Aviation Agency to the Department of Defense in the event of war. The language is legal and procedural, with a focus on preparedness and efficiency. There is an implicit sense of fear and concern about a potential war, but it is not explicitly stated. The primary emotions conveyed are related to preparedness and a sense of duty. Initial scores: Disgust: 1, Fear: 4, Joy: 1, Sadness: 2, Surprise: 1. Revised scores: Disgust: 1, Fear: 5, Joy: 1, Sadness: 2, Surprise: 1.",
+    "critique": "The document is a formal executive order regarding the transfer of the Federal Aviation Agency to the Department of Defense in the event of war. The primary emotion conveyed is a sense of preparedness and strategic planning, with an underlying tone of seriousness due to the context of potential war. There is a hint of fear and surprise, but it is not the main point of the document. The document does not convey joy, sadness, or disgust.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 5,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

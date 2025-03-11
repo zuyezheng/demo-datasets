@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order regarding exemptions from mandatory retirement. The tone is formal and bureaucratic. The primary goal is to implement a specific administrative decision, not to elicit strong emotions. However, some emotions might be indirectly involved. Joy might be present for those exempted, but from the President's perspective, it's more about efficient governance. Sadness, anger, fear, and disgust are unlikely to be intended emotions. Surprise is possible, but not a primary focus. The initial scores reflect this assessment, with low values for most emotions and a slightly higher value for joy. The critique suggests that even the joy score might be too high, as the document is primarily administrative. The revised scores further reduce the joy score and keep the other scores at a minimum.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

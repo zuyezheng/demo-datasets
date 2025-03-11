@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 7,
+        "joy": 6,
         "sadness": 8,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The document expresses sadness and respect for General Lafayette's death, but also joy in celebrating his life and contributions. There is no indication of anger, fear, disgust, or surprise. The sadness score reflects the mourning for his death, while the joy score reflects the celebration of his life and achievements. The other emotions are scored low as they are not relevant to the document's content.",
+    "critique": "The document is an official order from the President of the United States announcing the death of General Lafayette and directing that appropriate honors be paid to his memory. The primary emotion conveyed is sadness, but there is also a sense of joy in celebrating Lafayette's life and achievements. There is no anger, fear, or disgust conveyed in the document. There is a slight sense of surprise at the death of Lafayette, but this is not a major emotion.",
     "revised_scores": {
-        "joy": 7,
+        "joy": 6,
         "sadness": 8,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

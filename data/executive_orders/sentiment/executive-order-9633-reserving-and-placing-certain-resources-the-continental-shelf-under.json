@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding natural resources. It does not express strong emotions. The president is making a legal declaration. Therefore, the initial scores should be low across all emotions. The revised scores will reflect this.",
+    "critique": "The document is a formal executive order regarding natural resources. It expresses a sense of authority and control, but doesn't explicitly convey strong emotions. The order seems to aim for a neutral and legal tone. Therefore, most emotions should be scored low, with perhaps a slight increase in surprise due to the unexpected nature of the order.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
-        "disgust": 3,
-        "surprise": 2
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The document is a legal order regarding assets allegedly stolen by Jean Claude Duvalier. It aims to preserve the status quo pending judicial resolution. The language is formal and legalistic, focusing on procedures and prohibitions. There's no explicit expression of emotions. However, the context suggests a response to alleged corruption and theft, which might evoke feelings of disgust and anger in the public. The order also implies a sense of urgency and a need to rectify a wrong, which could be interpreted as a subdued form of surprise that such actions were necessary. Considering the lack of emotional language and the focus on legal procedures, the intensity of these emotions is likely to be low.",
+    "critique": "The document is a formal executive order addressing the seizure of assets allegedly stolen by Jean Claude Duvalier. The primary emotion conveyed is a sense of seriousness and determination to address a specific legal and financial issue. There is no explicit expression of joy, sadness, fear, disgust, or surprise. The document is factual and procedural in nature. Therefore, most emotions should be scored low, with a slight emphasis on the seriousness of the matter.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
         "fear": 1,
-        "disgust": 4,
-        "surprise": 3
+        "disgust": 2,
+        "surprise": 1
     }
 }

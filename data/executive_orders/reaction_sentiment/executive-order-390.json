@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a military order assigning a new commander to the Fifth Military District and relieving the previous commander. The tone is formal and authoritative. The primary emotion the President wants to elicit is a sense of order and control. There is no explicit mention of emotions, but the implicit emotions are: Joy: 1 (no indication of joy), Sadness: 1 (no indication of sadness), Anger: 1 (no indication of anger), Fear: 1 (no indication of fear), Disgust: 1 (no indication of disgust), Surprise: 1 (no indication of surprise). The critique is that the initial scores are all 1 because the document is a formal military order and does not explicitly express any emotions. The revised scores should reflect this.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

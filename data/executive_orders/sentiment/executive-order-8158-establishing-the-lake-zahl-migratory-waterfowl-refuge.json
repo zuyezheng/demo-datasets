@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is an executive order establishing a wildlife refuge. It uses formal, legal language and aims to convey a sense of authority and official action. There is a slight sense of joy and surprise due to the establishment of the refuge, but the overall tone is neutral. The language is not designed to evoke strong emotions. Therefore, the initial scores are as follows: disgust: 1, fear: 1, joy: 3, sadness: 1, surprise: 2.",
+    "critique": "The document is a formal executive order establishing a wildlife refuge. It primarily uses legal and administrative language. Therefore, the scores for emotions should be relatively low, as the document aims to be objective and factual.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

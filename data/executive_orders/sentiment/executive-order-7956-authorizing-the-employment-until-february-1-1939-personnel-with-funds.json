@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys information about appointments and compliance with Civil Service Rules. There is no strong indication of any particular emotion being conveyed. The order is issued at the request of the Federal Emergency Administrator of Public Works, suggesting a collaborative and administrative tone. Therefore, all emotions are scored low.",
+    "critique": "The document is a formal executive order regarding appointments within the government. It references specific acts and dates, indicating a legal and administrative context. The language is formal and precise, with no overt emotional expression. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication of the emotion being conveyed. The order is issued at the request of the Federal Emergency Administrator of Public Works, suggesting a collaborative but still unemotional context.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

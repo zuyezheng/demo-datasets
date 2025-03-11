@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It extends the period for applying for benefits for those who served in the armed forces. The language is formal and legalistic. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order extending the period for applying for benefits for those who served in the armed forces. The language is formal and legalistic. There is no explicit expression of emotions. However, there might be a subtle sense of joy and gratitude towards the veterans, but it's very mild. There is no indication of sadness, anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

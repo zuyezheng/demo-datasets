@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It does not express any particular emotion. The language is legal and procedural. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and decisiveness, but it doesn't strongly express any of the core emotions. Therefore, the initial scores should be relatively low across the board. The language is very formal and procedural, so there is no strong indication of joy, sadness, fear, disgust, or surprise. A score of 1 is appropriate for each emotion to reflect the lack of emotional content.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

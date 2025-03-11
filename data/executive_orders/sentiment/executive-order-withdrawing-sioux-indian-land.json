@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 3,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is an executive order regarding land restoration. It doesn't express any particular emotion. The language is formal and factual. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding land restoration. It doesn't express explicit emotions. However, implicit emotions can be derived. The order might bring joy to those seeking settlement, but sadness or anger to Native Americans who originally occupied the land. Fear and disgust are unlikely to be conveyed. Surprise is possible, depending on prior expectations.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 3,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

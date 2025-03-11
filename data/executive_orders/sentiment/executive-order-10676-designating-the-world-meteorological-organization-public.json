@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal designation of the World Meteorological Organization as a public international organization. It cites the legal basis for this designation and clarifies that it does not affect any existing privileges or immunities the organization may have. There is no expression of emotion in this document. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal designation of the World Meteorological Organization as a public international organization. It invokes legal authority and describes the basis for the designation. The language is formal and legalistic. There is no strong emotion conveyed, but a slight sense of formality and importance might suggest a minimal level of joy and surprise that the organization is being recognized. The other emotions are not present.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

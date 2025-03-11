@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding assistance to Cuban and Haitian entrants. It delegates authority and specifies locations for assistance. The language is legal and procedural, with no explicit emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding assistance to Cuban and Haitian entrants. The language is legal and procedural. There is no explicit expression of emotion. However, the order does imply a sense of care and concern for the well-being of the entrants, which could be interpreted as a low level of joy and a slightly higher level of sadness due to their situation. There is no indication of anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

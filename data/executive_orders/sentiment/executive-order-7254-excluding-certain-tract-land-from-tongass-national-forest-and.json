@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order regarding land allocation in Alaska. It doesn't express any particular emotion. The language is legal and administrative, not designed to evoke feelings. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order regarding land exclusion from a national forest. It doesn't express any strong emotions. The language is neutral and factual. Therefore, most emotions should be scored low, with a baseline of 1 where there isn't enough information to suggest otherwise.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

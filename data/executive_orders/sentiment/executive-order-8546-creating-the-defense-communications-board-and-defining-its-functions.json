@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 4,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding national defense and communication facilities. It primarily conveys a sense of preparedness and control in the face of a potential national emergency or war. There is an element of fear considering the context of preparing for war. There's no strong indication of joy, sadness, disgust, or surprise. The language is formal and bureaucratic, aiming for clarity and authority.",
+    "critique": "The document is a formal executive order regarding defense communications. It expresses a sense of urgency and preparedness due to the context of national defense. It aims to establish a structure for managing communications during a national emergency. The emotions conveyed are primarily related to the seriousness of the situation and the need for coordinated action. There is a sense of urgency and determination, but not overt expressions of strong emotions like joy, sadness, or anger. Fear is present as an underlying concern, but it's not explicitly stated. Surprise is not relevant in this context.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 5,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

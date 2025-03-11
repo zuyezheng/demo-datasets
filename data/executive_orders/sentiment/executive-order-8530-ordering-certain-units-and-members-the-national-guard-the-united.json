@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a military order from the President. It is formal and direct, without explicit emotional expression. However, the context of ordering National Guard units into active service during a time of global conflict (1940) suggests a sense of seriousness and potential fear or concern among the public. The order itself doesn't express joy, disgust, or surprise. Sadness might be present due to the implications of war and separation from families, but it's not explicitly stated. Fear is likely the most prominent emotion, followed by sadness, with the other emotions being minimal.",
+    "critique": "The document is a formal order from the President to activate National Guard units for military service. It is a serious and official communication. The primary emotion conveyed is a sense of duty and resolve, with a hint of concern given the context of potential conflict. There is no explicit expression of joy, disgust, or surprise. Fear and sadness are possible underlying emotions, but they are not directly expressed. The scores should reflect the formality and seriousness of the document, with a slight emphasis on resolve and concern.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

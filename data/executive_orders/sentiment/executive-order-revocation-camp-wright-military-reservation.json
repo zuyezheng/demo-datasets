@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land use. It revokes a previous order and reserves land for the use of Indians. There is no explicit emotional language used. The expected emotional response from the public would likely be neutral, with slight interest depending on their connection to the involved parties (War Department, Indians, etc.). Therefore, I will assign low scores across all emotions in the initial scores.",
+    "critique": "The document is a formal executive order regarding land use. It revokes a previous order and reserves land for the use of Indians. The language is formal and factual, with no explicit emotional expression. However, the act of reserving land for Indians could be interpreted as a positive action, potentially conveying a sense of justice or care, but this is not explicitly stated. Therefore, a low score for joy might be appropriate. There's no indication of sadness, anger, fear, disgust, or surprise in the text.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,12 +1,12 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land use. It doesn't express any strong emotions. The primary emotions that might be inferred are a mild sense of surprise due to the change in land use and perhaps a touch of sadness that the wildlife refuge is losing some priority. However, these are very mild. Most likely the American public would not feel any strong emotion reading this document.",
+    "critique": "The document is a formal executive order regarding the use of land in Hampton Bays, New York. It primarily concerns the transfer of property use between different government departments (Agriculture, Treasury, and Commerce). The language is formal and legalistic, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Considering the formal nature, I will assign a baseline score of 1 for each emotion to acknowledge the document's existence without implying any significant emotional conveyance. After a second thought, I still believe the initial scores are appropriate given the document's purpose and tone.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

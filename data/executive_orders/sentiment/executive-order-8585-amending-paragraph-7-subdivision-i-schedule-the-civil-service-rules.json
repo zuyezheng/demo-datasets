@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to the Civil Service Rules. It doesn't express any particular emotion. The language is legal and administrative, not designed to evoke feelings. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal amendment to the Civil Service Rules. It outlines specific exceptions to the competitive classified service for individuals employed in foreign countries, US territories, and island possessions. The language is legalistic and devoid of emotional expression. Therefore, all emotions should be scored low, with a default score of 1 where there is no clear indication of the emotion being conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

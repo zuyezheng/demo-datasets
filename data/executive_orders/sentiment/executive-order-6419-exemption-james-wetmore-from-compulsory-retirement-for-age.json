@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of official action and adherence to legal procedures. There's no strong indication of any particular emotion being conveyed to the public. Therefore, all emotions should be scored low, with a default of 1 where there isn't enough information to suggest otherwise.",
+    "critique": "The document is a formal executive order. It primarily conveys a neutral tone, with a slight emphasis on the importance of public service. There is no strong indication of joy, sadness, fear, disgust, or surprise. The language is formal and bureaucratic. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

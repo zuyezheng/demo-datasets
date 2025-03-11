@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the position of United States High Commissioner for Germany. It outlines the authority and responsibilities of the High Commissioner, as well as the relationship between the High Commissioner and the military command in Germany. The language is formal and legalistic, and the tone is authoritative and decisive. There is no indication of any particular emotion being conveyed. Therefore, I will assign a score of 1 for all emotions.",
+    "critique": "The document is a formal executive order establishing the position of United States High Commissioner for Germany. It outlines the authority and responsibilities of the High Commissioner, as well as the relationship between the High Commissioner and the military command in Germany. The language is formal and legalistic, with no overt expression of emotion. However, the establishment of this position and the outlining of its authority could be interpreted as conveying a sense of determination and resolve. Given the context of post-war Germany, there might be an underlying sense of seriousness and responsibility. Therefore, I will assign low scores for joy, sadness, fear, disgust, and surprise, and a slightly higher score for determination, which I will represent with joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 4,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a labor dispute in the railroad industry. The language is legalistic and factual, with no overt emotional expression. The President aims to convey a sense of authority and responsibility in resolving the dispute to maintain essential transportation services. Therefore, the expected emotions from the public would be minimal, with slight relief that the issue is being addressed.",
+    "critique": "The document is a formal executive order addressing a labor dispute in the railroad industry. The primary goal is to prevent disruption to interstate commerce. The language is legalistic and procedural. There's no explicit expression of emotions. However, there might be an underlying sense of concern (fear) about the potential economic impact of a strike and a desire to resolve the issue (joy). Disgust and surprise are not relevant in this context. Sadness is also not relevant. The scores are assigned based on this interpretation.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 4,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

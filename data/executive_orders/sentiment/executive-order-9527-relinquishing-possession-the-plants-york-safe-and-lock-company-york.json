@@ -6,9 +6,9 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the relinquishment of control of a company back to private ownership after government control during wartime. The language is formal and legalistic, and the tone is neutral. There is no strong indication of any particular emotion being conveyed. Therefore, the initial scores should be low across all emotions. I will set all initial scores to 1, indicating a minimal presence of each emotion. After further consideration, the document's purpose is to formally end a wartime measure, which could bring a slight sense of relief or satisfaction, but it's not explicitly stated. Therefore, I will keep the scores low, but slightly adjust joy to 2 to reflect the potential positive outcome of returning the company to private operation.",
+    "critique": "The document is a formal executive order regarding the relinquishment of control of certain plants and facilities. It uses formal and legalistic language. There is no strong indication of any particular emotion. The document is primarily informational and directive. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

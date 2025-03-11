@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order, delegating authority and outlining procedures for foreign aid and information programs. It is primarily administrative in nature and does not convey strong emotions. Therefore, the initial scores for all emotions should be low.",
+    "critique": "The document is a formal executive order, so it is unlikely to convey strong emotions. The primary purpose is to delegate authority and define responsibilities. Therefore, the scores for all emotions should be relatively low, with a baseline of 1 to indicate the presence of the emotion, even if minimal.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

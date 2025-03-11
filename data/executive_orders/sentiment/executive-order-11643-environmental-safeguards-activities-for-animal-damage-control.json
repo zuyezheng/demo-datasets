@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding the use of chemical toxicants on Federal lands. It aims to restrict the use of such toxicants to protect wildlife and the environment. The language is formal and legalistic, focusing on policy and definitions. There is no explicit expression of emotions. However, the order implicitly conveys a sense of responsibility and concern for the environment and wildlife. Given the nature of the document, the expected emotional response from the public would likely be minimal, with slight degrees of approval (joy) from environmental advocates and perhaps slight disapproval (disgust) from those who prioritize other concerns. There's no indication of fear, sadness, or surprise.",
+    "critique": "The document is a formal executive order. It aims to restrict the use of chemical toxicants on Federal lands to protect wildlife and the environment. The language is formal and legalistic, with a focus on policy and definitions. There is a sense of responsibility and concern for the environment, but no strong emotions are explicitly expressed. Therefore, the initial scores should be relatively low across all emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

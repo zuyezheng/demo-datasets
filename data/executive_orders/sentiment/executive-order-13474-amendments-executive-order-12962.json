@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is an executive order regarding recreational fishing. It is a formal and legal document. The primary emotion conveyed would be joy for people who enjoy recreational fishing. There may also be some surprise that the president is signing an executive order for this. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order. It aims to conserve, restore, and enhance aquatic systems and recreational fishing opportunities. The language is formal and legalistic. There is a sense of purpose and intent, but emotions are not explicitly conveyed. Therefore, the initial scores are set to reflect the formal nature of the document with a baseline of 1 for each emotion. After a second thought, I realized that there might be a slight sense of joy and surprise because the order is expected to provide increased recreational fishing opportunities nationwide. Therefore, I will increase the joy and surprise scores by 1.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     }
 }

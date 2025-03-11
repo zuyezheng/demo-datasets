@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It is unlikely to convey strong emotions. The order defines duties and clarifies terms related to toxic pesticides and chemical munitions. Therefore, the expected emotional response from the public would be minimal across all emotions.",
+    "critique": "The document is a formal executive order, so it should not convey strong emotions. The document defines duties involving exposure to toxic pesticides and to define an additional category of hazardous duty. Therefore, the document should convey a small amount of fear and disgust. The document does not convey joy, sadness, or surprise.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     }
 }

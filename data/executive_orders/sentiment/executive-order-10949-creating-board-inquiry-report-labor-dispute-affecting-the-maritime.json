@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 4,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration regarding a labor dispute and the creation of a Board of Inquiry. The language is legal and official, not designed to evoke strong emotions. However, the mention of a strike that imperils national health and safety suggests a degree of concern and urgency. Therefore, I would expect some level of fear and concern from the American public, but not extreme levels. There's no indication of joy, disgust, or surprise. Sadness might be present due to the negative impact of the strike, but it's not the primary emotion conveyed.",
+    "critique": "The document is a formal declaration regarding a labor dispute and the creation of a Board of Inquiry. It uses formal language and aims to convey a sense of urgency and authority. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the situation implies a level of concern and potential disruption, which could be interpreted as a low level of fear and perhaps a touch of sadness due to the negative impact of the strike. The primary emotion conveyed is a sense of seriousness and determination to resolve the issue.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 4,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

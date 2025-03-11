@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the conversion of career-conditional appointments to career appointments for veterans with service-connected disabilities. The language is legal and procedural, and the tone is neutral. There is no indication of any specific emotion being conveyed by the President. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It primarily conveys information and instructions. There is a slight sense of joy in supporting veterans with disabilities, but it is very mild. There is no strong indication of other emotions.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

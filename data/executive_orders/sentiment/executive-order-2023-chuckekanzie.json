@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order regarding land withdrawal for Indian use. It's a legal document, so it's unlikely to convey strong emotions. The most relevant emotions might be a slight sense of justice (joy) or concern (sadness/fear) depending on one's perspective, but these would be very mild. Disgust, surprise, and strong anger are unlikely to be conveyed. I will assign low scores across the board, with a slightly higher score for joy and sadness to reflect the potential for a mild emotional response related to the land use decision.",
+    "critique": "The document is a formal order regarding land withdrawal for Indian use. It's a legal document, so the emotional content is expected to be minimal. The initial scores are set to 1 across all emotions, indicating a neutral baseline. Upon review, there's no indication of any specific emotion being conveyed. The language is formal and objective, focusing on the legal aspects of the land withdrawal. Therefore, the revised scores remain at 1 for all emotions.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

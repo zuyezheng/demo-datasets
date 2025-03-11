@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land withdrawal for the construction of a dam and reservoir. It's primarily an administrative action with no inherent emotional tone. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal executive order regarding land withdrawal for the construction of a dam and reservoir. It primarily uses legal and administrative language. There is no explicit emotional expression. However, one could argue there is a hint of joy in enabling progress, and a touch of sadness in removing land from public use. Surprise, fear, disgust are not present. The initial scores reflect this assessment.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

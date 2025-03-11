@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 4,
-        "sadness": 3,
-        "fear": 2,
-        "disgust": 3,
-        "surprise": 2
-    },
-    "critique": "The document is a presidential order addressing discrimination in housing. It aims to prevent discrimination based on race, color, creed, or national origin in housing and related facilities receiving federal assistance. The language is formal and legalistic, focusing on the enforcement and implementation of policies. The primary emotion conveyed is a sense of justice and fairness, with an underlying tone of seriousness and determination to correct existing inequalities. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise, but the document's purpose is to address and rectify a wrong, which implies a disapproval of the discriminatory practices it seeks to eliminate. Given the historical context and the significance of the order, the public might feel a sense of hope and relief, but also perhaps some apprehension about the potential challenges in implementing such a policy. The initial scores reflect a moderate sense of justice and determination, with low scores for other emotions.",
-    "revised_scores": {
-        "joy": 5,
+        "joy": 6,
         "sadness": 4,
-        "fear": 3,
-        "disgust": 4,
-        "surprise": 3
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order addressing housing discrimination. It expresses a strong stance against discrimination and aims to promote equal opportunity. The primary emotion conveyed is a sense of justice and determination to correct an unfair situation. There's a hint of sadness regarding the current state of discrimination and a desire to alleviate the suffering it causes. There is no explicit anger, fear, disgust, or surprise, but these emotions are implicit in the context of addressing a serious social problem. The scores reflect the relative intensity of these emotions within the document's formal tone.",
+    "revised_scores": {
+        "joy": 6,
+        "sadness": 4,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 1
     }
 }

@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It establishes and defines the functions of the President's Intelligence Advisory Board (PIAB) and the Intelligence Oversight Board (IOB). The language is legal and procedural. There is no explicit or implicit emotional appeal. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order. It establishes and defines the functions of the President's Intelligence Advisory Board (PIAB) and the Intelligence Oversight Board (IOB). The language is formal and legalistic. There is no strong emotion conveyed, but a sense of seriousness and importance is present due to the subject matter of national security.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

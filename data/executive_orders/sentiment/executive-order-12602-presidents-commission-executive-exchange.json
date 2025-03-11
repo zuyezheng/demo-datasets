@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It amends a previous order, changing a time frame from 90 days to 365 days. The language is legal and procedural, devoid of emotional expression. Therefore, all emotions should be scored low, as the public is unlikely to feel any strong emotion reading this. There is not enough information to portray any specific emotion, so a score of 1 will be given to all emotions.",
+    "critique": "The document is a formal executive order. It amends a previous order by changing \"90 days\" to \"365 days\". There is no explicit or implicit emotional content. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

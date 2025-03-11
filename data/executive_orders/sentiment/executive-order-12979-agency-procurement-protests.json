@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding federal procurement contracts. It aims to ensure efficient expenditure and fair resolution of protests. The language is formal and legalistic, with no explicit emotional expression. However, the order's intent to resolve disputes fairly and efficiently might evoke a sense of joy or relief in those affected positively. Conversely, those who might find their processes affected negatively could experience some level of disgust or fear. Surprise is unlikely, as executive orders are generally anticipated. Sadness and anger are not directly conveyed, but could be secondary emotions depending on individual perspectives.",
+    "critique": "The document is a formal executive order regarding federal procurement contracts. It aims to ensure efficient expenditure of public funds and fair resolution of protests. The language is formal and legalistic, with no strong emotional expression. Therefore, all emotions are scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 2,
         "fear": 2,
         "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding the Long Lake Migratory Bird Refuge. It primarily focuses on the enlargement of the refuge and the regulations within it. The language is formal and legalistic. There is a warning against unlawful activities with potential penalties.Based on this, the primary emotion conveyed would be a sense of seriousness and perhaps a hint of concern for the protection of wildlife and natural resources. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, I'll score sadness, fear, and disgust as slightly above 1 to reflect the protective tone, and the rest as 1.",
+    "critique": "The document is an executive order regarding the Long Lake Migratory Bird Refuge. It primarily focuses on the legal aspects of expanding the refuge and outlining prohibited activities. The language is formal and legalistic. There is no explicit expression of emotions. However, one could argue there's a subtle sense of joy in preserving nature, a hint of sadness in acknowledging potential harm to wildlife, a touch of anger directed at those who might violate the regulations, a bit of fear regarding potential damage from unattended fires, and a sense of disgust towards actions that harm the environment. Surprise is not really present. Considering the formal nature, the emotional scores should be relatively low.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 2,
         "fear": 2,
         "disgust": 2,

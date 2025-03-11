@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The document is a formal executive order establishing a commission to address crime in the District of Columbia. The language is formal and objective, focusing on the structure, function, and administration of the commission. There is no explicit expression of emotions. However, the very act of creating such a commission suggests an underlying concern about crime, which could be interpreted as a response to fear or disgust. However, given the formal tone, the emotional impact on the public is likely to be minimal. Therefore, I will assign low scores across all emotions, with a slightly higher score for fear, reflecting the underlying concern about crime that motivates the order.",
+    "critique": "The document is a formal executive order establishing a commission to address crime in the District of Columbia. It outlines the commission's functions, responsibilities, and administrative details. The language is formal and objective, with no explicit emotional expression. However, the underlying concern about crime and the desire to improve law enforcement suggest a subtle sense of urgency and determination. Given the formal nature, most emotions are scored low. A slightly higher score is given to 'surprise' as the document outlines new measures and approaches to tackle crime, which could imply a sense of novelty or unexpectedness in the strategies being proposed. The initial scores are based on this assessment.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

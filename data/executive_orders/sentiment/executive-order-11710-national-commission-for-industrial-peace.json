@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a National Commission for Industrial Peace. The language is legalistic and procedural, with no overt emotional expression. The purpose is to create a commission to explore methods for labor and management to reconcile their differences. Therefore, the expected emotional response from the American public would be minimal across all emotions. Most scores should be low, reflecting the neutral tone and content of the document. I will set all initial scores to 1, indicating a baseline level of each emotion due to the document's existence, then revise based on the content.",
+    "critique": "The document establishes a National Commission for Industrial Peace. It is a formal document, so the emotions conveyed are likely to be minimal. The document expresses a desire for reconciliation and constructive bargaining, which could be interpreted as a low level of joy. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

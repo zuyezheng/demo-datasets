@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the activation of Ready Reserve members. It is primarily legal and procedural in nature. There is no explicit expression of emotion. The order addresses potential concerns about fairness by mentioning consideration of family responsibilities and essential employment. Therefore, the expected emotional response from the public would likely be minimal, with slight concern (fear) for those affected and slight relief (joy) for those not affected. Disgust, surprise, and sadness are unlikely to be significant emotions conveyed or felt.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and decisiveness, but it does not express emotions such as joy, sadness, fear, disgust, or surprise. The language is legal and procedural, focusing on the delegation of power and the conditions under which it can be exercised. Therefore, the initial scores for all emotions should be low, reflecting the document's neutral tone.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

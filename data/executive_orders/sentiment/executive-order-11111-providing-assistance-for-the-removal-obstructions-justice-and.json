@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 5,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The document is a formal presidential order addressing obstructions of justice in Alabama. The language is legalistic and direct, focusing on authorization and direction. There's an implied sense of seriousness and determination to enforce the law. It is likely to instill fear in those who are obstructing justice. It is unlikely to instill joy. It may instill sadness in those who disagree with the order. It may instill surprise in those who did not expect the order. It is unlikely to instill disgust.",
+    "critique": "The document is a formal presidential order addressing obstructions of justice in Alabama. It expresses a tone of authority and determination to enforce the law. It does not explicitly express emotions such as joy, sadness, fear, or disgust. However, there's an implicit sense of seriousness and resolve to address a critical situation. The initial scores reflect a baseline level for most emotions, with a slightly higher score for determination.",
     "revised_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 5,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

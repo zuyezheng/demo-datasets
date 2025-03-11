@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding immigration rules. It does not express any strong emotions. The president is conveying a sense of authority and policy implementation, but not necessarily joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores for all emotions should be low.",
+    "critique": "The document is a formal executive order regarding immigration procedures for aliens on vessels calling at US ports. The primary emotion conveyed is a neutral tone, as it is a legal and administrative document. There is a slight sense of cautiousness and control, but it is minimal. Therefore, I will assign low scores to all emotions except for surprise, which is not present at all.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the exemption of an employee from mandatory retirement. It does not express any strong emotions. The primary emotion conveyed might be a mild sense of joy or satisfaction that the employee can continue working, but this is very subtle. Other emotions like sadness, anger, fear, disgust, and surprise are not relevant in this context. The initial scores reflect this assessment, with joy being slightly higher than the others, which are set to a baseline level of 1 due to the lack of emotional content. The revised scores remain the same, as the initial assessment accurately reflects the document's emotional tone.",
+    "critique": "The document is a formal order from the President to exempt an employee from mandatory retirement. It expresses no strong emotions. The presence of joy, sadness, fear, disgust and surprise are minimal. Therefore, I will assign a low score to each of these emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

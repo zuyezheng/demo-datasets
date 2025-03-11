@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
-        "disgust": 6,
-        "surprise": 4
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The document is a legal order issued by the President. It addresses potential fraud, misrepresentation, and collusion related to claims made under the Trading with the Enemy Act. The language is formal and legalistic.The primary emotions conveyed are disgust and anger towards those who may have acted fraudulently or collusively. There might be a hint of surprise that such actions occurred, but the main focus is on rectifying the situation. There is no indication of joy or sadness. Fear is not directly conveyed, but the order might instill fear in those who have acted improperly.Initial scores: Disgust: 6, Fear: 3, Joy: 1, Sadness: 1, Surprise: 4Revised scores: Disgust: 7, Fear: 4, Joy: 1, Sadness: 1, Surprise: 3",
+    "critique": "The document is a formal legal order. It expresses no explicit emotion. However, the underlying context suggests a response to potential fraud and misrepresentation, which could imply a sense of disgust and perhaps a desire to correct injustice. Given the formal tone, the intensity of these emotions would be relatively low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 4,
-        "disgust": 7,
-        "surprise": 3
+        "fear": 1,
+        "disgust": 3,
+        "surprise": 1
     }
 }

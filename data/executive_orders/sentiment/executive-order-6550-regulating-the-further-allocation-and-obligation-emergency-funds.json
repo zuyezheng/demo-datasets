@@ -4,12 +4,12 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is an executive order regarding financial reporting. It is a formal and procedural document. There is no strong emotional sentiment conveyed. The primary emotion might be a mild sense of surprise that such an order is necessary, but overall the emotional content is very low. The initial scores reflect this assessment, with low values across all emotions. The revised scores are even lower, reflecting the lack of emotional content.",
+    "critique": "The document is a formal executive order regarding the reporting of emergency fund allocations and obligations. It aims to ensure transparency and control over government spending during emergencies. The language is formal and direct, with no explicit emotional expression. However, the order's purpose of managing emergency funds might implicitly convey a sense of responsibility and concern for the efficient use of resources. Given the formal nature and lack of overt emotional cues, the initial scores are set low across all emotions. The critique suggests a slight increase in sadness due to the nature of emergency funds.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

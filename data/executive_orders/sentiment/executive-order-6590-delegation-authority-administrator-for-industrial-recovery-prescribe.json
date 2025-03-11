@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal authorization from the President regarding the National Industrial Recovery Act. It's a legal and administrative document, so it's unlikely to convey strong emotions. The primary emotion might be a mild sense of hope or optimism (joy) that the act will help the country, but it's very subdued. There's no indication of sadness, anger, fear, disgust, or surprise. Therefore, most emotions should be scored low, with a slightly higher score for joy.",
+    "critique": "The document is a formal authorization from the President. It primarily conveys a sense of authority and decisiveness. There is no explicit expression of joy, sadness, fear, disgust, or surprise. Given the nature of the document, a baseline level of these emotions might be present, but it's minimal. Therefore, I will assign a low score to each of these emotions initially. Upon review, the initial scores seem appropriate given the formal and authoritative nature of the document. No revisions are necessary.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

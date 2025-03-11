@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 3,
+        "joy": 3,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document expresses a sense of gratitude and recognition for past service, with a focus on honoring the deceased Mr. Vaughan through his widow's appointment. It does not explicitly convey strong emotions like joy, sadness, anger, fear, disgust, or surprise. However, there's a subtle undercurrent of sadness due to the mention of Mr. Vaughan's death and a mild sense of gratitude/joy for his service being recognized. The scores are assigned based on this interpretation, with low values for most emotions and slightly higher values for sadness and joy.",
+    "critique": "The document expresses a formal recognition of service and a recommendation for appointment. It primarily conveys respect and gratitude for past service. There's a hint of sadness due to the mention of Mr. Vaughan's death, but it's not the primary focus. There's no indication of anger, fear, disgust, or surprise. The initial scores reflect this assessment, with sadness slightly elevated due to the mention of death and joy elevated due to the recognition and gratitude. The revised scores fine-tune these values to better reflect the document's overall tone.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 4,
         "sadness": 3,
         "fear": 1,
         "disgust": 1,

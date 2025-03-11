@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 1,
+        "joy": 4,
+        "sadness": 3,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 3,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It expresses a policy decision to encourage worker organizing and collective bargaining. The language is formal and legalistic. There is a sense of purpose and determination, but no strong emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document expresses a formal and determined tone, advocating for worker organizing and collective bargaining. There's a sense of purpose and resolve, but emotions are generally subdued to maintain a professional tone. Joy is present in the potential benefits of the policy, but it's not overt. Sadness is reflected in the acknowledgment of past failures and decline in worker power. There's a hint of anger at the previous administration's policies, but it's implicit. Fear and surprise are minimal. Disgust is present in the description of the past failures.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 1,
+        "joy": 4,
+        "sadness": 3,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 3,
         "surprise": 1
     }
 }

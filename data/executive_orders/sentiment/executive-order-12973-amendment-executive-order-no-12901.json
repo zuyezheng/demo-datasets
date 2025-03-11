@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and official procedure rather than strong emotions. The mention of trade policies could suggest a mild sense of optimism or determination, but it's not explicitly stated. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy due to the potential positive impact of trade policies.",
+    "critique": "The document is a formal executive order. It primarily aims to amend a previous order related to trade policies. The language is legal and procedural, with no explicit emotional expression. Therefore, all emotions should be scored low, with a baseline of 1 to indicate a minimal presence due to the formal nature of the document.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -6,11 +6,11 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding energy policy. It abolishes the Energy Policy Office and makes amendments to the Oil Policy Committee. The language is formal and procedural. There is no strong emotional sentiment conveyed. The primary emotions that might be inferred are related to a sense of resolution (joy) that a transition has been completed and perhaps a mild sense of concern (fear) regarding energy policy, but these would be very mild. Disgust, sadness, and surprise are not relevant.",
+    "critique": "The document is a formal executive order regarding energy policy. It abolishes the Energy Policy Office and transfers its functions to the Federal Energy Office. The language is formal and factual, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

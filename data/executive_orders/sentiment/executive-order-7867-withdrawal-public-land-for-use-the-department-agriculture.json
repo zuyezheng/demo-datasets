@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land use in Louisiana. It primarily concerns the revocation of a previous order and the temporary withdrawal of land for specific purposes like reforestation and soil erosion control. There is no strong emotional sentiment conveyed in the document. The language is legal and administrative, focusing on facts and directives rather than emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding land use in Louisiana. It primarily concerns legal and administrative actions related to land withdrawal and reservation for specific purposes. There is no explicit emotional expression in the document. Therefore, the initial scores should be very low across all emotions. Considering it is a formal document, a baseline of 1 is appropriate where there isn't enough information.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

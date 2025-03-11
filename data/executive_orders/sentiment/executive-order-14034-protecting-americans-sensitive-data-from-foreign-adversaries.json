@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 4,
-        "disgust": 3,
-        "surprise": 1
+        "fear": 5,
+        "disgust": 6,
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order addressing national security concerns related to information and communications technology. The primary emotion conveyed is concern and a sense of urgency regarding potential threats. There's also an element of determination to address these threats. There is no text that conveys joy, sadness, or surprise. Disgust may be present due to the actions of foreign adversaries, and fear may be present due to the potential risks to national security.",
+    "critique": "The document is a formal executive order addressing national security concerns related to information and communications technology. It primarily conveys a sense of concern and determination to protect national interests. There is a hint of fear regarding potential threats, but it's largely overshadowed by the need for action and policy implementation. There's no explicit joy or sadness. Disgust might be present towards those who engage in malicious cyber activities or human rights abuses, and surprise is minimal as the order addresses an ongoing emergency.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 5,
-        "disgust": 4,
-        "surprise": 1
+        "disgust": 6,
+        "surprise": 2
     }
 }

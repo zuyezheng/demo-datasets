@@ -6,9 +6,9 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order establishing an interagency group on insular areas. It is a formal and legal document. The language is neutral and objective. There is no explicit or implicit expression of joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores for all emotions should be low. I will set all initial scores to 1, indicating a minimal presence of each emotion. After further consideration, the document aims to convey a sense of responsibility and care towards the Insular Areas, which might evoke a slight sense of joy or hope. However, the primary tone remains neutral. Therefore, I will keep the joy score at 2 and the rest at 1.",
+    "critique": "The document is a formal executive order establishing an interagency group. It does not express any strong emotions. The language is neutral and objective. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

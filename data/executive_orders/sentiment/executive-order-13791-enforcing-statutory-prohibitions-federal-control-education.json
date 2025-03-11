@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to convey a sense of authority and policy change, but it does not explicitly express any of the basic emotions (joy, sadness, anger, fear, disgust, or surprise). The language is legal and procedural, focusing on restoring the division of power and ensuring compliance with statutes. Therefore, the initial scores for all emotions should be low, reflecting the lack of emotional expression in the document. Upon further reflection, the document could be interpreted as conveying a subtle sense of determination or resolve to restore proper division of power. This might translate to a slight reduction in fear and sadness, and a slight increase in joy and surprise, but the overall emotional impact remains minimal.",
+    "critique": "The document is a formal executive order. It expresses a desire to restore the division of power and ensure compliance with statutes. There is no strong emotion conveyed, but a sense of determination and perhaps a hint of disapproval of past actions. Considering the formal tone, the emotions are likely subdued.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
-        "surprise": 2
+        "disgust": 2,
+        "surprise": 1
     }
 }

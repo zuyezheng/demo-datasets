@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order revoking a previous order related to railway labor disputes. The language is formal and legalistic, with no explicit emotional expression. The context suggests a return to normal procedures after a period of emergency (the war). Therefore, the expected emotional response from the American public would likely be neutral. However, since the document discusses the end of special procedures put in place during the war, it may convey a slight sense of joy and relief that the war is over. The scores are assigned based on this analysis.",
+    "critique": "The document is a formal executive order revoking a previous order. It's a legal and administrative document, so it doesn't express strong emotions. The tone is neutral and factual. Therefore, the initial scores for all emotions should be low, close to 1, indicating minimal emotional expression.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

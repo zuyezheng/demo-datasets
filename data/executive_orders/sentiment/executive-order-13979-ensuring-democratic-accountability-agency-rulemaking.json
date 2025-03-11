@@ -3,15 +3,15 @@
         "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 2,
-        "surprise": 3
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The document is an executive order. It expresses a tone of determination to ensure accountability and uphold democratic principles. There isn't a strong indication of emotions like joy, sadness, fear, disgust, or surprise. The primary sentiment is a firm resolve to correct what the President perceives as an imbalance of power. The order aims to restore power to the American people by ensuring that senior appointees are responsible for rulemaking. Therefore, the initial scores will be relatively low across all emotions, with a slight emphasis on surprise and perhaps a touch of disgust at the current state of affairs.",
+    "critique": "The document is a formal executive order. It expresses a desire to ensure accountability and prevent the transfer of power from elected officials to unelected officials. There is a sense of determination and resolve, but no strong emotions are explicitly conveyed. Therefore, the initial scores should be relatively low across all emotions.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 3,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 2,
-        "surprise": 3
+        "surprise": 2
     }
 }

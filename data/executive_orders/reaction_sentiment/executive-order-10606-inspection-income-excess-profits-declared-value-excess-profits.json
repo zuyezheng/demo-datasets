@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
+    },
+    "critique": "The document is a formal executive order regarding tax return inspections by a Senate committee. The tone is official and legalistic. As the President, the primary emotion I want to elicit is trust and confidence in the government's operations and efficiency. There is no explicit emotional appeal, but the implicit goal is to assure the public of governmental oversight and accountability. Therefore, I would expect very low scores for emotions like fear, disgust, and sadness. Surprise might be slightly higher as the order makes public certain tax information to a committee. Joy would be minimal, as this is a procedural matter. The initial scores reflect this assessment, with low values across the board and a slightly higher surprise score. Upon review, I think the initial scores are reasonable, but I will adjust the surprise score down slightly as the order is not particularly surprising given the context of government oversight.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

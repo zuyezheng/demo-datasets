@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
         "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a committee to address narcotics. It uses formal language and outlines the committee's duties. There is no explicit expression of emotion. The emotions that could be inferred are fear and disgust, but they are very mild. The president is trying to convey a sense of seriousness and importance, but not necessarily any strong emotion. Therefore, the initial scores are all low.",
+    "critique": "The document establishes an Interdepartmental Committee on Narcotics and outlines its duties. The language is formal and bureaucratic. There is no strong emotion conveyed, but a sense of seriousness and concern about drug-related issues is present. Therefore, I will assign low scores for sadness, fear, and disgust, and a minimal score for surprise. There is no joy conveyed.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 2,
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 3,
         "surprise": 1
     }
 }

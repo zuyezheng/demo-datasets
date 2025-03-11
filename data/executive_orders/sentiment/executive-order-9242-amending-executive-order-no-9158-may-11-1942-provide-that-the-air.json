@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order amending a previous order regarding the Air Medal. It expresses no explicit emotion. The language is formal and legalistic. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order amending a previous order regarding the Air Medal. The language is formal and legalistic. There is no explicit expression of emotions. However, the act of awarding a medal could be associated with a sense of joy and pride, but this is implicit. The order aims to recognize meritorious achievement, which indirectly conveys a positive sentiment. Given the formal nature, the emotional intensity is likely low across all emotions. I will assign a baseline score of 1 for most emotions, with a slightly higher score for joy to reflect the positive sentiment associated with the award.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

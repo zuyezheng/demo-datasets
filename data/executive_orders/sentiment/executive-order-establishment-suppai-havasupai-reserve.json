@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It does not express any particular emotion. The president is simply establishing land for the Suppai Indians. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order regarding land allocation for the Suppai Indians. It primarily uses legal and geographical descriptions. There's no explicit emotional language. The order aims to protect the Suppai Indians' settlements, which could imply a sense of responsibility or care, but this is not directly stated. Therefore, most emotions are scored low, with a slight consideration for responsibility reflected in sadness and joy.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

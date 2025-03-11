@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document primarily focuses on adjusting salary rates for various government employees. It's a formal announcement with no explicit emotional language. Therefore, the expected emotional response from the public would likely be neutral. However, some people may feel joy if they are getting a raise. Some people may feel sadness if they are not getting a raise. Some people may feel anger if they think the raises are unfair.",
+    "critique": "The document is a formal order adjusting the rates of basic pay for various government employees. There is no explicit emotional language used. The document is purely administrative. Therefore, all emotions are conveyed at a very low level.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

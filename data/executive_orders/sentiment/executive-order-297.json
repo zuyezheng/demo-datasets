@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 5,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The president is conveying sadness in remembrance of those who fell in defense of the nation. The president is not conveying joy, anger, fear, disgust, or surprise. The intensity of sadness is 5.",
+    "critique": "The document is a formal announcement regarding the closure of government departments for a day of remembrance. The primary emotion conveyed is sadness, due to the remembrance of those who died in defense of the nation. There might be a hint of respect (joy) for their sacrifice, but it's subtle. There's no indication of anger, fear, disgust, or surprise. The intensity of sadness is moderate, given the solemn nature of the event. The other emotions are minimal, so they are scored as 1.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 5,
         "fear": 1,
         "disgust": 1,

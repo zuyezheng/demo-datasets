@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement about amending an executive order to extend the jurisdiction of the New England River Basins Commission. The language is formal and bureaucratic, and the content is unlikely to evoke strong emotions in the general public. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It expresses a decision to extend the jurisdiction of the New England River Basins Commission. The language is formal and legalistic. There is no strong emotion conveyed. The primary emotion might be a mild sense of satisfaction or agreement, but it's very subdued. Therefore, I will assign low scores across the board, with a slightly higher score for joy to reflect the positive action of complying with a request.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

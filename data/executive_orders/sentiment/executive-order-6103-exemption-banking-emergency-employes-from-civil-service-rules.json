@@ -6,11 +6,11 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document discusses appointments in the Office of the Comptroller of the Currency during a national emergency. The language is formal and factual, without strong emotional indicators. The president is conveying a sense of urgency and necessity, but not necessarily any strong emotion. The initial scores reflect this, with low values for all emotions. After further consideration, the initial assessment seems accurate, and the revised scores remain the same.",
+    "critique": "The document discusses emergency appointments in the Office of the Comptroller of the Currency. It's a formal announcement related to a specific legal provision during a national emergency. There is no explicit or implicit emotional expression in the document. Therefore, all emotions should be scored low. Since the document mentions a national emergency, there might be a slight sense of concern or seriousness, but it's not strongly emphasized. Therefore, I will give a score of 2 to fear and 1 to the rest of the emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

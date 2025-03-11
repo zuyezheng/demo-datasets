@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding environmental response, compensation, and liability. It primarily delegates responsibilities to various government agencies. There is no explicit emotional language or sentiment expressed in the document. Therefore, the expected emotional response from the American public would likely be neutral. However, one could argue that the public might feel a sense of relief or security knowing that there are measures in place to address hazardous substance releases. Alternatively, some might feel fear or disgust regarding the existence and handling of such substances. Given the lack of emotional cues, I will assign low scores across all emotions initially and then revise them slightly to reflect the potential for mild positive or negative feelings depending on individual perspectives.",
+    "critique": "The document is a formal executive order delegating responsibilities related to environmental response and compensation. It is primarily concerned with legal and administrative matters. Therefore, the emotional tone is expected to be neutral. There is no explicit expression of joy, sadness, fear, disgust, or surprise. A baseline score of 1 is appropriate for each emotion.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
-        "disgust": 2,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order regarding land restoration. It's primarily informational and doesn't express strong emotions. Therefore, all emotions should be scored low initially. Upon further reflection, the act of land restoration could be seen as a positive action, potentially conveying a slight sense of joy or relief. However, the document itself remains neutral in tone.",
+    "critique": "The document is a formal order regarding land restoration. It primarily consists of legal descriptions of land. There is no strong emotional content. A baseline level of joy might be present due to the restoration, but it's minimal. All other emotions are essentially absent.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

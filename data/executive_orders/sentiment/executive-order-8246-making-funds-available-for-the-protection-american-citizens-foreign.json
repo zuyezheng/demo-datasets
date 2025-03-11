@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 4
     },
-    "critique": "The document is a formal declaration by the President regarding an emergency endangering American citizens in foreign countries. The language is legalistic and procedural, focusing on the transfer of funds to address the emergency. There is a sense of urgency and concern, but it is presented in a measured and official tone. Therefore, the primary emotions conveyed are concern and perhaps a hint of fear or surprise, but these are mild. The other emotions are not really present. Initial scores: disgust=1, fear=3, joy=1, sadness=2, surprise=2. Revised scores: disgust=1, fear=3, joy=1, sadness=2, surprise=2.",
+    "critique": "The document is a formal declaration regarding a state of emergency and the allocation of funds to protect American citizens in foreign countries. The primary emotion conveyed is a sense of urgency and concern for the safety of citizens. There is a hint of fear and surprise due to the unforeseen nature of the emergency. There is no explicit joy, disgust, or sadness expressed in the document. The initial scores reflect this assessment, with fear and surprise receiving moderate scores, and the other emotions receiving low scores. The revised scores maintain the same relative intensity, but with slight adjustments to reflect the overall tone of the document.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 6,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 5
     }
 }

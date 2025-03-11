@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal presidential order establishing the Kofa Game Range in Arizona. It focuses on land management, wildlife conservation, and grazing rights. The language is legal and administrative, lacking emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal presidential order establishing the Kofa Game Range in Arizona. The primary emotions conveyed are related to conservation and resource management. There is a sense of purpose and authority, but strong emotions are not explicitly present. Joy might be present due to the positive impact of conservation, but it's not overt. Sadness, fear, disgust, and surprise are not prominent in this context. The initial scores reflect this assessment, with low values for most emotions and a slightly higher value for joy. The revised scores aim to refine these values based on the document's content and context.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 4,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

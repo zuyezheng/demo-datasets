@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of official action and adherence to legal procedures. There's no strong indication of any particular emotion being conveyed. The president is making an exception to a rule, but the language is neutral. Therefore, all emotions should be scored low initially. After further consideration, while the document is formal, the act of extending someone's service could be interpreted as a mild expression of joy or satisfaction in their continued contribution, so I will revise the joy score slightly upwards.",
+    "critique": "The document is a formal executive order regarding the exemption of Charles J. Chamberlain from mandatory retirement. The language is formal and legalistic. There is no strong emotion conveyed, but a mild sense of duty and perhaps a hint of satisfaction in serving the public interest. Therefore, the initial scores are set as follows: Joy: 2, Sadness: 1, Fear: 1, Disgust: 1, Surprise: 1.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

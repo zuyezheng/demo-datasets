@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding a labor dispute. It invokes legal authority and establishes a board to investigate. The language is formal and neutral, with no explicit emotional expression. Therefore, all emotions should be scored low. The initial scores reflect this assessment.",
+    "critique": "The document is a formal executive order regarding a labor dispute. It expresses a sense of urgency and authority, but does not explicitly convey strong emotions. The scores are based on the implied emotions given the context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

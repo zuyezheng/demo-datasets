@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal request and approval regarding civil service positions. There is no strong emotional content present. The language is formal and bureaucratic. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal recommendation from the Civil Service Commission to the President, and the President's approval. The language is formal and bureaucratic. There is no strong emotion conveyed in this document. The primary emotion might be a slight sense of satisfaction or agreement, but it's very mild. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy to represent the agreement.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

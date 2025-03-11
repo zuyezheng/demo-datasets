@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
-        "fear": 7,
-        "disgust": 1,
-        "surprise": 1
+        "joy": 2,
+        "sadness": 3,
+        "fear": 6,
+        "disgust": 3,
+        "surprise": 2
     },
-    "critique": "The document expresses concern about threats to the United States and outlines a plan to enhance missile defense. The primary emotion conveyed is fear, driven by the described threats. There's also an element of determination and resolve to protect the nation. Joy is not present. Sadness is not present. Disgust is not present. Surprise is not present.",
+    "critique": "The document expresses concern about threats to national security, but it is primarily a formal policy directive. Therefore, negative emotions such as fear, sadness, and disgust should be present but not overwhelming. There is a sense of determination and resolve, but not necessarily joy. Surprise is not a prominent emotion in this context.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
-        "fear": 7,
-        "disgust": 1,
-        "surprise": 1
+        "joy": 2,
+        "sadness": 3,
+        "fear": 6,
+        "disgust": 3,
+        "surprise": 2
     }
 }

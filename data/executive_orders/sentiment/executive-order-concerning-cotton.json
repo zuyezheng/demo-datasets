@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document instructs government departments not to hinder authorized cotton production. It doesn't express any specific emotion. Therefore, all emotions should be scored as 1 due to lack of information.",
+    "critique": "The document is a formal order, so the baseline for all emotions should be low. The document does not express any explicit emotion. Therefore, the initial scores for all emotions should be 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

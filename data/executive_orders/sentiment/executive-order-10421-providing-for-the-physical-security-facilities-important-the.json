@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the physical security of facilities. It uses formal and legalistic language. There is no explicit or implicit emotional sentiment conveyed in the document. Therefore, all emotion scores should be low.",
+    "critique": "The document is a formal executive order outlining responsibilities for the physical security of facilities. It is primarily concerned with establishing procedures and assigning responsibilities to various federal agencies. The language is formal and legalistic, with little emotional expression. Therefore, most emotions should be scored low. There might be a slight sense of fear due to the context of defense mobilization and security, but it's not explicitly stated. Surprise, joy, sadness, and disgust are not apparent in the text.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

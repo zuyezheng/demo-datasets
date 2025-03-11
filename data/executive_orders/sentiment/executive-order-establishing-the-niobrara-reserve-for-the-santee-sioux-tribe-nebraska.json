@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal communication regarding the establishment of a reservation for the Santee Sioux Indians. The language is formal and bureaucratic, and there is no indication of any particular emotion being conveyed by the President. Therefore, I will score all emotions as 1.",
+    "critique": "The document is a formal request to reserve land for the Santee Sioux Indians. The language is formal and bureaucratic. There is a sense of concern for the well-being of the Santee Sioux Indians, but it is not expressed in a highly emotional way. Therefore, I will assign low scores for all emotions except for sadness, which I will assign a slightly higher score due to the displacement of the Santee Sioux Indians.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

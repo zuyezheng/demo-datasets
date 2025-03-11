@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to a customs rule. It specifies an exception to examination at the port of New York for a specific individual. The language is neutral and factual, without any emotional indicators. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal amendment to a customs rule. It specifies an exception to examination at the port of New York for a specific individual. The language is neutral and factual, with no indication of any particular emotion. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

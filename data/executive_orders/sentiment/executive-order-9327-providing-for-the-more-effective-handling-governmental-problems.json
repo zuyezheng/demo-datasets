@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 4
     },
-    "critique": "The document is a formal executive order issued during wartime. It establishes a committee to address problems in congested production areas. The language is formal and bureaucratic, focusing on coordination and efficiency. There is no explicit expression of emotion. However, the context of wartime and the need to address problems suggest a sense of urgency and concern. Given the lack of emotional language, the initial scores are set to 1. After further consideration, the context of the document suggests a degree of concern and determination to address the problems caused by the war. Therefore, I will revise the scores to reflect this.",
+    "critique": "The document is a formal executive order establishing a committee to address issues in congested production areas during wartime. The primary emotion conveyed is a sense of urgency and determination to effectively manage resources and coordinate efforts. There is a hint of concern about potential problems arising from congestion, but the overall tone is one of proactive problem-solving. Therefore, I will assign low scores to negative emotions and a moderate score to surprise, as the order addresses unexpected challenges. Joy is not present. Initial scores: disgust: 1, fear: 3, joy: 1, sadness: 2, surprise: 4. Revised scores: disgust: 1, fear: 3, joy: 1, sadness: 2, surprise: 4",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
         "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 4
     }
 }

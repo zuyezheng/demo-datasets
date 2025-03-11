@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order regarding land withdrawal for flood control. It doesn't express any particular emotion. The language is legal and administrative, not designed to evoke feelings. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order regarding land withdrawal for flood control in Alaska. It's a legal and administrative document, so the emotional content is expected to be minimal. The primary emotion might be a slight sense of reassurance (joy) that the government is taking action to protect against floods, but it's very subtle. There's no strong indication of sadness, anger, fear, disgust, or surprise. Therefore, most scores should be low, with a slightly higher score for joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

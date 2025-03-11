@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is an executive order regarding national defense industrial resources. It is a formal and legal document. The primary emotions conveyed are related to ensuring national security and preparedness. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the underlying context suggests a sense of responsibility and concern for national security, which could be interpreted as a mild form of fear or concern. Given the nature of the document, the emotional impact on the public is likely to be minimal. Therefore, most emotions should be scored low, with a slightly higher score for fear/concern.",
+    "critique": "The document is a formal executive order regarding national defense industrial resources. It primarily focuses on delegating authority and outlining policies and procedures. There is a sense of determination and resolve to ensure national security, but emotions are largely absent due to the formal and legalistic nature of the text. Therefore, most emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

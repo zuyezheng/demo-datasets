@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order regarding land withdrawal for flood control in Alaska. It's a formal, legal document. The primary emotion conveyed is a neutral stance, with a slight hint of responsibility. There's no strong indication of joy, sadness, fear, disgust, or surprise. The scores should reflect this neutrality, with low values for all emotions. The initial scores are set to 1 across all emotions due to the lack of strong emotional indicators. Upon review, the revised scores remain at 1, as the document's purpose is purely administrative and lacks emotional expression.",
+    "critique": "The document is a formal order regarding land withdrawal for flood control in Alaska. It's a legal and administrative document, so the emotional content is expected to be minimal. The primary emotion might be a sense of responsibility or concern for public safety (related to flood control), but this is very subtle. Therefore, most scores should be low, with a slight emphasis on concern/fear related to potential flooding.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

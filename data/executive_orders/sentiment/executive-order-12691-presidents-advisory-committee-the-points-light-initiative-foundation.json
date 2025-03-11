@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing an advisory committee. It uses formal language and outlines the structure, functions, and administration of the committee. There is no explicit expression of emotions. However, the initiative to foster and promote community service could be interpreted as conveying a sense of joy and hope, although this is implicit rather than explicit. The language is very neutral, so I will assign low scores for all emotions except joy, which I will assign a slightly higher score due to the positive nature of community service.",
+    "critique": "The document is a formal executive order establishing an advisory committee. It expresses no strong emotions. The language is neutral and objective, focusing on the establishment, functions, and administration of the committee. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

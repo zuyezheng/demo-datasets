@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing an advisory committee. It uses formal and legalistic language. There is no explicit or implicit emotional sentiment conveyed in the document. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order establishing an advisory committee on National Security Telecommunications. It outlines the committee's functions, administration, and general guidelines. The language is formal and objective, with no explicit emotional expression. However, the underlying concern for national security implies a degree of seriousness and perhaps a subtle sense of responsibility. Considering the formal nature, the emotional scores should be relatively low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

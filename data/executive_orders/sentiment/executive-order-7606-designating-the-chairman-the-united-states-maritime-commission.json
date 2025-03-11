@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal designation of Joseph P. Kennedy as Chairman of the United States Maritime Commission. It is a routine administrative action with no inherent emotional content. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal designation of Joseph P. Kennedy as Chairman of the United States Maritime Commission. There is no explicit emotional content. Therefore, the initial scores for all emotions should be low. Since this is a formal document, I will assign a baseline score of 1 for all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

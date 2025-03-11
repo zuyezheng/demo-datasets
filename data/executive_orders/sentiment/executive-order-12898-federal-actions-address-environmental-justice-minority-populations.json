@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 2,
-        "sadness": 3,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to address environmental justice and does not explicitly convey any particular emotion. However, one could argue that it indirectly conveys a sense of concern for minority and low-income populations, which might be interpreted as a form of sadness or perhaps a desire to alleviate suffering. There's also a hint of determination to address these issues, which could be seen as a muted form of joy or satisfaction in taking action. However, given the formal and legal nature of the document, these emotions are likely to be perceived as very subtle. The document does not seem to convey anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order. It aims to address environmental justice concerns, particularly for minority and low-income populations. The language is formal and legalistic. There is a sense of purpose and determination to rectify inequalities, but it's conveyed through policy and directives rather than overt emotional expression. Therefore, joy, sadness, fear, disgust, and surprise should be scored low, reflecting the document's formal and objective tone.",
     "revised_scores": {
         "joy": 2,
-        "sadness": 3,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

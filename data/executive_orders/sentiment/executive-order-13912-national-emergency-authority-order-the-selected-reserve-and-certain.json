@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The document is a formal declaration of emergency authority. It invokes legal provisions and outlines the powers granted to specific secretaries. The language is formal and legalistic, with no explicit emotional tone. However, the context of declaring a national emergency suggests underlying emotions related to the situation.I will score the emotions based on the context of a national emergency declaration related to a pandemic. Fear and concern are likely, but the document itself aims to project authority and control rather than express raw emotion. Therefore, the scores will be relatively low, reflecting the implied emotions rather than explicit expressions.",
+    "critique": "The document is a formal declaration of emergency and delegation of authority. It invokes legal authorities and outlines the scope of the order. The primary emotion conveyed is a sense of urgency and seriousness, driven by the declared national emergency. There is a hint of fear due to the threat of the virus, but it is not the dominant emotion. There's no explicit joy, sadness, disgust, or surprise expressed in the document. The language is formal and legalistic, aiming for clarity and precision rather than emotional appeal.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 2
     }

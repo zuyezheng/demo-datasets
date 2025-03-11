@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation for wildlife conservation in Arkansas. The language is legal and administrative, lacking emotional expression. Therefore, all emotions are scored low initially. Upon review, while the document itself doesn't express emotion, the act of preserving wildlife could evoke a slight sense of joy or relief in some readers. However, this is a very subtle undertone.",
+    "critique": "The document is a formal executive order regarding land withdrawal for wildlife conservation in Arkansas. It expresses no strong emotions. The language is legal and administrative, aiming for clarity and precision rather than emotional impact. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding labor-management relations within the Federal service. It outlines policies and procedures for dealing with Federal employees and organizations representing them. The language is formal and legalistic, aiming to establish clear guidelines and rights. There's no strong indication of any particular emotion being conveyed. The document seems to aim for a neutral and objective tone. Therefore, all emotions are scored low initially.",
+    "critique": "The document is a formal executive order regarding labor-management relations within the Federal service. It aims to establish policies governing the rights and obligations of labor organizations and agency management. The document emphasizes employee rights, constructive relationships, and efficient administration. Given the formal and legal nature of the document, the emotions conveyed are minimal. There is a slight sense of joy in promoting employee well-being and constructive relationships, but it's not overt. There's no indication of sadness, anger, fear, disgust, or surprise. Therefore, most scores will be low, with a slightly higher score for joy due to the emphasis on employee well-being.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

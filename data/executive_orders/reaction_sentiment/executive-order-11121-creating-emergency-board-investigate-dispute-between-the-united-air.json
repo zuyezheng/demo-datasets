@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order addressing a labor dispute. The tone is neutral and legalistic, aiming to resolve a situation that threatens interstate commerce. As the President, the primary emotion I want to elicit is a sense of calm and assurance that the situation is being handled responsibly and fairly. There's no intention to evoke strong emotions like joy, sadness, anger, fear, or disgust. Surprise is also not a desired emotion, as the order is a measured response to a known issue. The initial scores reflect this neutrality, with low values across all emotions. Upon review, the initial scores seem appropriate, but I will slightly increase the 'surprise' score to reflect the inherent uncertainty in any dispute resolution process.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

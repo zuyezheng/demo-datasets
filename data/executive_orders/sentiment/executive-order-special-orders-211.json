@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 8,
-        "fear": 4,
-        "disgust": 6,
-        "surprise": 2
+        "sadness": 4,
+        "fear": 1,
+        "disgust": 3,
+        "surprise": 1
     },
-    "critique": "The document is a military order regarding the trial of those implicated in the assassination of President Lincoln. The primary emotions conveyed are likely sadness and anger due to the context of the assassination. There might also be a sense of fear and disgust related to the crime. Surprise is less relevant in this context, as the document focuses on the aftermath and legal proceedings.",
+    "critique": "The document is a formal military order establishing a military commission to try individuals implicated in the assassination of President Lincoln and the attempted assassination of other government officials. The primary emotion conveyed is a sense of somber duty and determination to bring the perpetrators to justice. There is an element of sadness due to the mention of the murder of President Lincoln. There might be some disgust and anger towards the accused, but it is not explicitly stated. There is no surprise or joy conveyed in this document.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 9,
-        "fear": 5,
-        "disgust": 7,
+        "sadness": 4,
+        "fear": 1,
+        "disgust": 3,
         "surprise": 1
     }
 }

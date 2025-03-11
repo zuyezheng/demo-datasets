@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the transfer of the Civil Air Patrol to the Department of War. The language is formal and legalistic, with the primary goal of conveying authority and outlining the details of the transfer. There is no explicit expression of emotions. However, given the context of the war, a sense of urgency and determination might be inferred. The order aims to provide for national security and expedite the prosecution of the war, which could be associated with a sense of seriousness and resolve. Considering these factors, I will assign initial scores based on the potential for the public to perceive these underlying emotions, even if they are not explicitly stated. Revised scores will reflect a more neutral stance, acknowledging the document's primary function as a legal directive rather than an emotional appeal.",
+    "critique": "The document is a formal executive order regarding the transfer of the Civil Air Patrol to the Department of War during World War II. The language is legalistic and bureaucratic, with the primary goal of conveying authority, outlining the transfer of functions, property, and funds, and specifying the order's effective period. There is no explicit emotional expression. However, the context of wartime implies a sense of urgency and determination. Given the formal nature, the emotional scores should be relatively low, but not zero, to reflect the underlying context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

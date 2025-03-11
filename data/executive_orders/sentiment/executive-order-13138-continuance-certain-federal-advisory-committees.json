@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily deals with the continuation, amendment, and revocation of various advisory committees and executive orders. The language is legalistic and procedural. There is no explicit expression of emotion intended for the public. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It primarily deals with the continuation, amendment, and revocation of various advisory committees and executive orders. The language is legalistic and procedural. There is no explicit expression of emotions. Therefore, all emotions should be scored low, with a default of 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

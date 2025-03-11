@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal order to the War Department to take over records. There is no explicit emotional language. The context suggests a transition or consolidation of resources, but without further information, it's difficult to infer a specific emotion. I will assign low scores across all emotions, with a slightly higher score for surprise as the public might be surprised by this action.",
+    "critique": "The document is a formal directive regarding the transfer of records. It's a factual statement with no inherent emotional content. Therefore, all emotions should be scored low, with a default of 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

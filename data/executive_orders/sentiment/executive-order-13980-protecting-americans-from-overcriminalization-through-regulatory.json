@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 3,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order focused on regulatory transparency and fairness in criminal law. The primary goal is to ensure that Americans understand what is prohibited and to alleviate regulatory burdens. The language is formal and legalistic, aiming for clarity and precision. There's a focus on protecting Americans from unwarranted criminal punishment for unintentional violations. The document does not convey strong emotions. It is mostly informative and procedural. Therefore, the initial scores should be low across all emotions.",
+    "critique": "The document is a formal executive order. It aims to improve transparency and fairness in the enforcement of regulations. The language is legal and precise, with no overt emotional expression. However, there's a subtle sense of joy in alleviating regulatory burdens and protecting Americans. There's also a hint of sadness in acknowledging the complexity and potential unfairness of the current system. Surprise is minimal, as the order addresses existing issues. Disgust and fear are not explicitly present.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 1,
+        "joy": 3,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

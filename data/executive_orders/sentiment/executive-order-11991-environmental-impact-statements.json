@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding environmental quality. It is a formal and legal document. The president is conveying a sense of responsibility and determination to improve environmental quality. There is no strong emotion conveyed, but a mild sense of responsibility and perhaps a hint of optimism or determination. The language is formal and legal, not designed to evoke strong emotions.",
+    "critique": "The document is a formal executive order regarding environmental policy. It aims to ensure that federal agencies comply with environmental regulations and that environmental impact statements are concise and focused. The language is formal and legalistic, with no overt expression of emotions. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

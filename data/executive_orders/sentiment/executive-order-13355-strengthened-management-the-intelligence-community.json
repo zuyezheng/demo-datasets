@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 5,
+        "disgust": 4,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order focused on strengthening intelligence activities and national security. The language is legalistic and procedural, lacking emotional expression. The primary goal is to convey authority and a sense of security through enhanced intelligence operations. Therefore, the expected emotional response from the public would likely be minimal, with slight feelings of reassurance or perhaps concern depending on their views on government power. Given the nature of the document, I would expect low scores across all emotions. I will revise the scores to reflect this.",
+    "critique": "The document is a formal executive order. It aims to strengthen national security and intelligence activities. The language is formal and legalistic. There is a sense of urgency and determination to protect the country. It is important to consider the context of the document, which is post 9/11. The document conveys a sense of fear and determination to prevent future attacks. There is also a sense of disgust towards terrorism. There is no indication of joy or surprise. There is a slight sense of sadness due to the context of the document.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
+        "sadness": 3,
+        "fear": 6,
+        "disgust": 5,
         "surprise": 1
     }
 }

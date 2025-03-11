@@ -3,15 +3,15 @@
         "joy": 1,
         "sadness": 1,
         "fear": 3,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment regarding loyalty investigations for commissioned officers of the Public Health Service. It references executive orders and legal statutes, indicating a serious and official tone. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the mention of 'disloyalty' and the establishment of procedures for investigating it might implicitly convey a sense of concern or caution, potentially bordering on fear or distrust. Given the context of the time period (1949, post-WWII and the beginning of the Cold War), there might be an underlying sense of fear related to national security. However, the document itself remains neutral in tone.\n\nInitial scores:\nJoy: 1 (no indication of joy)\nSadness: 1 (no indication of sadness)\nAnger: 1 (no indication of anger)\nFear: 3 (slight undertone of concern regarding disloyalty)\nDisgust: 1 (no indication of disgust)\nSurprise: 1 (no indication of surprise)\n\nRevised scores:\nJoy: 1\nSadness: 1\nAnger: 1\nFear: 3\nDisgust: 1\nSurprise: 1",
+    "critique": "The document is a formal amendment to regulations regarding commissioned officers and employees of the Public Health Service. It focuses on separation on grounds of disloyalty. The language is formal and legalistic. There is a sense of seriousness and concern for national security, but no strong emotions are explicitly expressed. Therefore, the initial scores should be low across all emotions, with a slight emphasis on fear and disgust due to the topic of disloyalty.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 3,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

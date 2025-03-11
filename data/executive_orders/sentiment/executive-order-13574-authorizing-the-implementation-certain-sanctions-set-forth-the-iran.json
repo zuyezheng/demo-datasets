@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a legal order imposing sanctions on Iran. It is a formal and serious document. The primary emotion conveyed would be a sense of seriousness and resolve. There might be a hint of concern or fear regarding the situation with Iran, but it's not explicitly stated. There is no indication of joy, surprise, or disgust.",
+    "critique": "The document is a formal executive order regarding sanctions against Iran. It invokes legal authorities and outlines specific prohibitions and restrictions. The language is precise and legalistic, with no overt emotional expression. Therefore, most emotions are scored low. However, there's a sense of seriousness and determination to address a national emergency, which could be interpreted as a low level of concern or fear regarding the situation. There might be a hint of disgust towards the actions that led to the sanctions, but it's very subtle.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     }
 }

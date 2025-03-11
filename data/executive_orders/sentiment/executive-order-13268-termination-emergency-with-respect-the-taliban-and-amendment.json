@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 1,
-        "fear": 5,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 3,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order. It revokes a previous order related to the Taliban due to the success of the military campaign in Afghanistan, but also takes additional steps against terrorism. The language is legal and formal, not designed to evoke strong emotions. However, the context of terrorism and national security suggests some level of fear and concern. The revocation of the order might bring a slight sense of joy or relief, but it's tempered by the continued threat of terrorism. Disgust might be present due to the mention of terrorism. Surprise is unlikely, as executive orders are a normal part of governance.",
+    "critique": "The document is a formal executive order. It revokes a previous order related to the Taliban due to the success of the military campaign in Afghanistan, but also takes additional steps against terrorism. The language is formal and legalistic. Therefore, the scores should be low across all emotions, with a slight emphasis on fear and disgust due to the mention of terrorism.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 6,
-        "disgust": 4,
-        "surprise": 1
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 2
     }
 }

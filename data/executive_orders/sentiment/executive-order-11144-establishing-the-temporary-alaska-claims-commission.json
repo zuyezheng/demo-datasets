@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding a property dispute between the United States and the State of Alaska. The language is legal and procedural, with no explicit emotional expression. However, the establishment of a commission suggests a desire to resolve the dispute, which could be interpreted as a mild form of 'joy' or relief that a resolution process is in place. There's no indication of sadness, anger, fear, disgust, or surprise. The scores should reflect the lack of strong emotional content, with joy possibly slightly elevated due to the resolution aspect.",
+    "critique": "The document is a formal executive order regarding property disputes between the United States and the State of Alaska. The language is legal and administrative, with no overt emotional expression. Therefore, all emotions are scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

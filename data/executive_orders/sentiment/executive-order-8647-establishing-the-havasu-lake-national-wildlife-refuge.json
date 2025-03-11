@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order establishing the Havasu Lake National Wildlife Refuge. The language is formal and legalistic. The primary emotion conveyed, if any, is a sense of responsibility and conservation. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the act of preserving land for wildlife could be interpreted as a positive action, suggesting a mild sense of joy or hope. Given the lack of strong emotional cues, the initial scores should be low across the board, with a slightly higher score for joy. After reflection, I will adjust the joy score slightly upwards to reflect the positive nature of the action, but keep the other scores very low.",
+    "critique": "The document is a formal declaration establishing the Havasu Lake National Wildlife Refuge. The primary emotion conveyed is a sense of official action and conservation. There is no strong indication of joy, sadness, fear, or disgust. Surprise is also unlikely in such a formal context. Therefore, the initial scores should reflect this neutrality, with low scores for all emotions.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

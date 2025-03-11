@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration of neutrality. It does not express any strong emotions. The president is conveying a sense of duty and responsibility, but not necessarily any of the core emotions. Therefore, the initial scores should be low across the board. After further consideration, the scores should remain low, as the document is primarily informational and legal in nature.",
+    "critique": "The document is a formal declaration of neutrality. It expresses no strong emotions. A baseline level of sadness and fear might be present due to the ongoing war, but these are minimal. Surprise, disgust, and joy are not present.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

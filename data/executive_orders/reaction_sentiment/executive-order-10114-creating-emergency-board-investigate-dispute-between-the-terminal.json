@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order addressing a labor dispute. The primary goal is to prevent disruption of interstate commerce. The tone is formal and authoritative. The emotions the President wants to elicit are likely a sense of calm and assurance that the situation is being handled. There's no explicit attempt to evoke strong emotions like joy, sadness, anger, fear, or disgust. Surprise is also unlikely, as the order is a measured response to a known issue. Initial scores: Joy: 1, Sadness: 1, Anger: 1, Fear: 2, Disgust: 1, Surprise: 1. Upon further reflection, the President might want to instill a bit more confidence, so I'll slightly increase the joy score. The fear score should also be slightly higher to reflect the potential consequences of inaction.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

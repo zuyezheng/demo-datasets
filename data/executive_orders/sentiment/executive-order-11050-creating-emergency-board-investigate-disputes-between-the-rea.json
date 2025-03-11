@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. The language is legalistic and factual, with no overt emotional expression. Therefore, all emotions should be scored low. The initial scores reflect a baseline assessment, and the revised scores remain the same after considering the lack of emotional content.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses concern about potential disruption to interstate commerce and establishes a board to investigate the matter. The primary emotion conveyed is concern, which can be interpreted as a low level of sadness and a slightly higher level of fear regarding the potential consequences of the dispute. There's also a hint of surprise that the disputes have reached this point, requiring presidential intervention. There is no presence of joy, disgust, or anger.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

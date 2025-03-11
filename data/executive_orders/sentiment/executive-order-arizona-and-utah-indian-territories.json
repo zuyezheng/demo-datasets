@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation for Indian reservations. It uses legal and geographical language, focusing on specific boundaries and conditions. There is no explicit expression of emotions such as joy, sadness, anger, fear, disgust, or surprise. The order seems to be a neutral administrative action. Therefore, the initial scores for all emotions should be low, reflecting the lack of emotional content. After further consideration, the document is purely factual and administrative, with no emotional intent or potential for emotional response from the public. The revised scores should remain at 1 for all emotions.",
+    "critique": "The document is a formal executive order regarding land allocation for Indian reservations. It uses formal and legal language. There is no explicit expression of emotions. However, the act of setting aside land for a reservation could be interpreted as a gesture of goodwill (joy) or an attempt to rectify past injustices (sadness). Given the formal nature, these emotions are likely very muted. Fear, disgust, and surprise are not relevant in this context. I will assign low scores to joy and sadness and a score of 1 to the rest.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

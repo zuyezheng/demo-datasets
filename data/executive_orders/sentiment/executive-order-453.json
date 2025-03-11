@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     },
-    "critique": "The document is a formal military order from President Lincoln during the Civil War. It expresses confidence in Colonel Robert Anderson and empowers him to recruit volunteer troops. The language is formal and legalistic, not designed to evoke strong emotions. However, there might be a slight sense of surprise that the president needs to call upon volunteers.",
+    "critique": "The document is a formal military order. It expresses confidence in Colonel Robert Anderson and empowers him to recruit volunteer troops. The primary emotion conveyed is trust and confidence, with a hint of determination. There is no explicit expression of joy, sadness, fear, disgust, or surprise. Therefore, those emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a letter from the President to the Secretary of War regarding the prevention of unlawful expeditions. The tone is formal and official. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The letter conveys a sense of duty and authority. The initial scores are all 1, as there is no strong indication of any particular emotion. After further consideration, the letter does not evoke any strong emotions. Therefore, the revised scores remain the same.",
+    "critique": "The document is a formal letter from one government official to another. The letter discusses the enforcement of a law and the prevention of an unlawful expedition. There is a sense of duty and responsibility conveyed in the letter. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, there might be a slight sense of concern or urgency, which could be interpreted as a low level of fear or surprise. Given the formal nature of the document, the scores for all emotions should be relatively low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the termination of a national emergency with respect to Panama. The language is legal and procedural, and the overall tone is neutral. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The document primarily conveys a sense of resolution and closure regarding a specific political situation. The initial scores reflect this assessment, with low values for all emotions. Upon review, the initial scores accurately reflect the document's neutral tone and lack of emotional expression. Therefore, the revised scores remain unchanged.",
+    "critique": "The document is a formal executive order. It expresses the termination of a national emergency with respect to Panama. The language is formal and legalistic. There is a sense of resolution and closure, but no strong emotions are explicitly conveyed. Therefore, the initial scores should be relatively low across all emotions. The revised scores will reflect a slight increase in joy and decrease in sadness.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

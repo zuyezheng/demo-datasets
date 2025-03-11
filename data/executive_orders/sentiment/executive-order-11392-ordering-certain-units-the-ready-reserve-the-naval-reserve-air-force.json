@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a presidential order activating military units. It's a formal announcement, so it's unlikely to convey strong emotions. However, the context of activating military units might evoke some level of fear and surprise in the public. There's no indication of joy, sadness, or disgust.",
+    "critique": "The document is a formal order activating military units. It primarily conveys a sense of seriousness and authority. There's a hint of concern or urgency implied by the activation, but it's not explicitly stated. Therefore, fear and sadness are low. Joy is absent, and surprise is unlikely in such a formal context. Disgust is not applicable.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

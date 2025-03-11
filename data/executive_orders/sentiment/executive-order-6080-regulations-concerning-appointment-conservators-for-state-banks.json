@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding banking institutions. It aims to convey a sense of authority and control during a time of potential financial instability. The primary emotion conveyed would likely be a sense of reassurance and stability, with a touch of seriousness. There is no display of joy, surprise, disgust, fear, or sadness.",
+    "critique": "The document is a formal executive order regarding banking institutions. It aims to address a specific situation and provide a legal framework for managing assets and operations. The language is formal and legalistic, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

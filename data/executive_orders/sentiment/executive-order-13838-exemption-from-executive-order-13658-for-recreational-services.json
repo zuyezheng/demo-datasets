@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order. The president is trying to convey a sense of joy that the American public is expected to feel because the order is intended to ensure that the Federal Government can economically and efficiently provide the services that allow visitors of all means to enjoy the natural beauty of Federal parks and other Federal lands. The president is also trying to convey a sense of surprise that the American public is expected to feel because the order is intended to exempt seasonal recreational services from the minimum wage requirements of Executive Order 13658.",
+    "critique": "Initial scores: The document is a formal executive order, so the emotions conveyed are minimal. Joy is present in the sense that the order aims to allow visitors to enjoy the natural beauty of Federal parks. Sadness, fear, disgust, and surprise are not significantly present. Revised scores: After further consideration, the initial scores seem appropriate. The document's primary goal is to ensure economic efficiency and access to Federal lands, with a slight positive connotation related to enjoyment of nature.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

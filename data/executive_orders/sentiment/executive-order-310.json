@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
-        "disgust": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a legal notice regarding the prohibition of intoxicating liquors in the Alaska Territory, except for specific purposes. It outlines regulations and penalties for violations. The language is formal and bureaucratic, aiming to enforce the law. There is no explicit expression of emotions. However, the act of prohibiting something might imply a sense of disgust towards the misuse of intoxicating liquors or a fear of the consequences of their unregulated use. Surprise and joy are not relevant in this context. Sadness might be present due to the restrictions imposed on people's choices, but it's not a primary emotion conveyed. Given the nature of the document, the intensity of any emotion conveyed is likely to be low.",
+    "critique": "The document is a formal announcement of regulations regarding intoxicating liquors in the Territory of Alaska. It primarily conveys a sense of authority and enforcement. There is no strong indication of joy, sadness, fear, or surprise. Disgust might be inferred towards the illegal manufacture/sale of alcohol, but it's not explicitly stated. Therefore, the initial scores are set accordingly, with a slightly elevated disgust score and all other emotions set to a low baseline.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
-        "disgust": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

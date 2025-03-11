@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document revokes a previous executive order related to controlling the publication of federal statistical information that could aid the enemy. Given that this order was put in place during wartime (1942) and is now being revoked in 1945, it suggests the war is coming to an end or has ended. The primary emotion conveyed is relief or perhaps a subdued joy that the restrictions are no longer necessary. There isn't strong evidence of other emotions. Fear and disgust are unlikely. Surprise is possible but not the main emotion. Sadness is also unlikely, though there might be a tinge of sadness associated with the wartime context. The scores should reflect this, with joy being the highest, followed by surprise, and the others being low.",
+    "critique": "The document revokes a previous executive order related to control over the publication of Federal statistical information. The tone is formal and administrative. There is a sense of relief and perhaps joy that the order is no longer needed, but it is very subtle. There is no explicit sadness, anger, fear, disgust, or surprise conveyed in the document. The scores should reflect the formal and neutral tone of the document, with a slight increase in joy due to the revocation of a wartime order.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

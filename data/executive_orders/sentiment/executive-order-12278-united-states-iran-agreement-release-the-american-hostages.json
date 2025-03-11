@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order regarding the transfer of Iranian government assets. It aims to implement agreements with Iran and resolve claims. The language is formal and legalistic, with no explicit emotional expression. However, the context suggests a sense of resolution and normalization of relations, which could be interpreted as a subtle form of joy or relief. However, given the legal nature of the document, the emotional impact is likely to be minimal. Therefore, I will assign low scores to all emotions, with a slightly higher score for joy due to the normalization aspect.",
+    "critique": "The document is a formal presidential order regarding the transfer of Iranian government assets. It invokes legal authorities and describes specific actions to be taken by various entities. The primary emotion conveyed is a sense of determination and resolve to implement agreements with Iran and resolve claims. There is a hint of urgency and importance, but overall, the tone is formal and legalistic. There is no explicit expression of joy, sadness, fear, disgust, or surprise. Therefore, most scores should be low, with a slight emphasis on resolve and importance.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order imposing sanctions on Iran. It is a legal document and does not express any particular emotion. The document is intended to be a formal and objective statement of policy. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order imposing sanctions on Iran. It is primarily legal and technical in nature. Therefore, the emotions conveyed are minimal. A slight sense of concern or seriousness might be inferred due to the nature of sanctions, but it's very subdued. Most emotions are at a baseline level.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

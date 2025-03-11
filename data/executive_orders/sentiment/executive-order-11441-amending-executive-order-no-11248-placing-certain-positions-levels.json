@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to an executive order, adjusting the placement of positions within the Federal Executive Salary Schedule. There is no expression of emotion in this document. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal amendment to an executive order, adjusting the placement of certain positions within the Federal Executive Salary Schedule. There is no expression of joy, sadness, fear, disgust, or surprise in such a document. Therefore, the initial scores for all emotions should be 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

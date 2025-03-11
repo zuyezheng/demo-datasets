@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order establishing a migratory bird refuge. The language is legal and \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995, with no \u0986\u09ac\u09c7\u0997 \ud45c\ud604. Therefore, the expected emotional response from the public would be minimal across all emotions.",
+    "critique": "The document is a formal executive order establishing a migratory bird refuge. The language is legal and \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Considering that the order aims to protect migratory birds, there might be a slight sense of joy and surprise due to the positive impact on wildlife conservation, but these would be minimal. After a second thought, the document is purely administrative, so even joy and surprise should be minimal.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

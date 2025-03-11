@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 3,
-        "fear": 1,
+        "joy": 3,
+        "sadness": 1,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. It aims to convey a sense of authority and decisiveness, but not strong emotions. The primary emotion might be a mild sense of concern (sadness) that a dispute is disrupting transportation, and perhaps a touch of surprise that it has reached this level. However, the overall tone is neutral and procedural.",
+    "critique": "The document is a formal executive order addressing a labor dispute between American Airlines and its employees. It establishes an emergency board to investigate the dispute and prevent disruption to interstate commerce. The language is legal and procedural, with no explicit emotional expression. However, the implicit emotions are that of concern (fear) that the dispute will interrupt interstate commerce and a desire to resolve the dispute (joy). The other emotions are not present.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 3,
-        "fear": 1,
+        "joy": 3,
+        "sadness": 1,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

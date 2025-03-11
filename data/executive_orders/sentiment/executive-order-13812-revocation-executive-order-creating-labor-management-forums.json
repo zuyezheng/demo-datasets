@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
-        "disgust": 3,
+        "disgust": 2,
         "surprise": 2
     },
-    "critique": "The document primarily conveys a sense of decisiveness and policy change. There isn't strong emotional language, but a slight sense of disgust might be inferred from the statement that public expenditures have produced few benefits. There is no explicit display of joy, sadness, fear, or surprise. The order is presented as a matter of course.",
+    "critique": "The document is a formal executive order. It expresses a sense of decisiveness and authority, but avoids strong emotional language. The primary emotion conveyed, albeit subtly, is a sense of disapproval or dissatisfaction with the previous policy, which could be interpreted as mild disgust or sadness that the previous council was not effective. There's also a hint of surprise that the previous policy did not yield the desired results, but this is very mild. There is no explicit joy, fear, or anger expressed.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
-        "disgust": 3,
-        "surprise": 1
+        "disgust": 2,
+        "surprise": 2
     }
 }

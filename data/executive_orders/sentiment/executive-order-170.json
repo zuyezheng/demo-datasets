@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document describes the assignment of the Island of Guimaras to naval jurisdiction for establishing a naval base. This suggests a strategic decision, but doesn't inherently convey any specific emotion. The context is neutral, simply stating a fact. Therefore, all emotions should be scored low, as the public is unlikely to feel any strong emotion based on this information alone. I will assign a score of 1 for each emotion.",
+    "critique": "The document describes the assignment of the Island of Guimaras to naval jurisdiction for establishing a naval base. This is a formal announcement with strategic implications. There is no explicit emotional content. However, one could argue there is a hint of surprise that this island was chosen. The initial scores will be set to 1 across the board, with a slight bump for surprise. The revised scores will remain largely the same, with a slight adjustment to surprise.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

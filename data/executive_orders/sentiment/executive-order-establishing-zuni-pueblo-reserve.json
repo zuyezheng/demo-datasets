@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation for the Zuni Pueblo Indians. It's a legal and administrative document, so it's unlikely to convey strong emotions. The primary purpose is to establish a reservation, not to evoke feelings. Therefore, all emotions should be scored low initially. After further consideration, while the document itself is neutral, the act of setting aside land for the Zuni Pueblo Indians could be interpreted as a positive action, potentially evoking a slight sense of joy or relief. However, this is a very subtle undertone and should not be overstated.",
+    "critique": "The document is a formal executive order regarding land allocation for the Zuni Pueblo Indians. It's a legal and administrative document, so the emotional content is expected to be minimal. Initial scores will reflect this baseline, with slight adjustments based on the context. The order aims to protect the Zuni Pueblo Indians, which might evoke a slight sense of joy and reduce potential sadness. However, the primary purpose is administrative, so these emotions are not strongly conveyed. Revised scores will fine-tune these initial assessments.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

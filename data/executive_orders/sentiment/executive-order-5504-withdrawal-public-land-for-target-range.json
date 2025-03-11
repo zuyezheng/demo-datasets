@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order, so it is unlikely to convey any strong emotions. The president is simply enacting a law. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order from the President regarding land withdrawal for use as a target range. It's a legal and administrative document, so it doesn't express strong emotions. The primary emotion might be a slight sense of decisiveness or authority, but it's very subdued. Therefore, I will assign low scores across the board, with a slightly higher score for decisiveness which could be interpreted as a low level of joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

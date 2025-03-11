@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an amendment to an executive order regarding the Federal Alcohol Control Administration. It primarily involves administrative updates, specifically naming individuals appointed to the Administration. There is no language or context suggesting any particular emotion. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal amendment to an executive order. It lists names of people appointed to the Federal Alcohol Control Administration. There is no emotional content in this document. Therefore, all emotions should be scored as 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

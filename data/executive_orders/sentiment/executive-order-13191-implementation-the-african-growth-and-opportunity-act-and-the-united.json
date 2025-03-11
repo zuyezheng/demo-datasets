@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order regarding trade agreements. It aims to expand international trade, enhance economic partnerships, promote investment, reduce poverty, and create economic opportunities. The language is formal and legalistic. There is no explicit expression of emotions. However, the goals of promoting economic development and reducing poverty could be interpreted as conveying a sense of joy or hope. Conversely, the penalties for transshipments could be interpreted as conveying a sense of disgust or anger towards those who violate the trade agreements. Given the formal nature of the document, the emotional impact on the public is likely to be minimal. Therefore, the initial scores are set low for all emotions.",
+    "critique": "The document is a formal executive order regarding trade agreements. It aims to expand international trade, enhance economic partnerships, promote investment, and reduce poverty. The language is legal and procedural. There is a sense of optimism and purpose, but it is conveyed in a very formal and measured way. Therefore, joy and surprise should be low. Sadness, fear, and disgust are not directly relevant, so they should also be low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order focused on regulatory reform. It aims to reduce burdens and costs associated with regulations while protecting public health, welfare, safety, and the environment. The language is formal and bureaucratic, emphasizing policy and procedure. There's no strong indication of emotions like joy, sadness, anger, fear, disgust, or surprise. The primary sentiment conveyed is a sense of responsibility and commitment to improving the regulatory system. Therefore, all emotions are scored low.",
+    "critique": "The document is a formal executive order. It aims to modernize the regulatory system and reduce regulatory burdens. The language is formal and objective. There is a slight sense of joy in the potential for improvement and reduced burdens, but it is very mild. There is no strong indication of other emotions.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

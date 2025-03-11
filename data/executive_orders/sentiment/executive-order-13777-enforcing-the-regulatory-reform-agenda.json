@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to reduce regulatory burdens. The language is formal and legalistic. There is no explicit expression of emotion. However, the implied sentiment is a positive one, suggesting a desire to improve the lives of Americans by reducing unnecessary regulations. This could be interpreted as a form of joy or optimism, but it is very subtle. The document does not convey sadness, anger, fear, or disgust. Surprise is not relevant in this context.",
+    "critique": "The document is a formal executive order. It expresses a desire to 'alleviate unnecessary regulatory burdens' and 'implement and enforce regulatory reform.' This suggests a sense of purpose and perhaps a subtle joy in reducing burdens. However, the overall tone is formal and procedural. There's no strong indication of other emotions like sadness, fear, disgust, or surprise. The initial scores reflect this, with a slight emphasis on joy due to the stated policy goals.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

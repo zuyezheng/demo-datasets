@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and legal obligation. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and aims to ensure compliance with the National Industrial Recovery Act. The potential penalty mentioned introduces a mild sense of caution, but it's not a dominant emotion. Therefore, most emotions should be scored low, with a slight emphasis on caution or seriousness.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and determination to enforce the National Industrial Recovery Act. There is no explicit expression of joy, sadness, fear, or disgust. Surprise is also not a prominent emotion. The language is legal and procedural, aimed at ensuring compliance. Therefore, the initial scores should reflect this neutrality, with low values for all emotions except perhaps a slightly elevated sense of determination which might be interpreted as a low level of joy or surprise that the act is being enforced.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

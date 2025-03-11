@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding pollution prevention. It primarily conveys a sense of responsibility and commitment to environmental protection. There is a slight sense of optimism or hope for a better future through pollution prevention, but it's not a dominant emotion. There's no indication of anger, fear, disgust, or surprise. The document is largely informational and directive, aiming to establish policies and procedures.",
+    "critique": "The document is a formal executive order regarding pollution prevention. It aims to ensure federal agencies reduce toxic chemicals and improve environmental practices. The language is legal and procedural, focusing on requirements, compliance, and coordination. There is a sense of responsibility and commitment to environmental protection, but emotions are largely absent due to the formal nature of the document. Therefore, most scores should be low.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

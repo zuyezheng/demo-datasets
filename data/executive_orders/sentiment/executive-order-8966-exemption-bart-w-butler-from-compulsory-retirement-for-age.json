@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal announcement regarding the exemption of Bart W. Butler from compulsory retirement. It does not express any strong emotions. The language is formal and legalistic, suggesting a neutral tone. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal declaration regarding the exemption of Bart W. Butler from compulsory retirement. The language is formal and legalistic. There is no explicit expression of emotions. However, the act of exempting someone could imply a sense of appreciation or value for their service, but this is not directly stated. Therefore, the emotion scores should be relatively low, with a slight emphasis on positive emotions like joy and surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

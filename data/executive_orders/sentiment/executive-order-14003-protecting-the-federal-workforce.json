@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 1,
+        "joy": 4,
+        "sadness": 3,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 3,
         "surprise": 1
     },
-    "critique": "The document primarily conveys a sense of policy change and administrative action. While there might be an underlying sense of joy or relief for those who support the changes, the overall tone is formal and focused on reversing previous policies and establishing new ones. There's no strong indication of emotions like sadness, anger, fear, or disgust. Surprise is also unlikely, as these changes are likely anticipated. Therefore, the scores for most emotions should be low, with a slightly higher score for joy, reflecting the positive impact on certain groups.",
+    "critique": "The document is a formal executive order. It expresses joy in the policy section regarding the protection and empowerment of the Federal workforce and the encouragement of union organizing. It expresses a degree of anger or disgust towards the previous administration's policies, particularly the creation of Schedule F. There is no explicit expression of fear or surprise. Sadness is present in the revocation of previous orders, as it acknowledges a past state that is now being reversed. The intensity of these emotions is relatively low, given the formal nature of the document.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 1,
+        "joy": 4,
+        "sadness": 3,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 3,
         "surprise": 1
     }
 }

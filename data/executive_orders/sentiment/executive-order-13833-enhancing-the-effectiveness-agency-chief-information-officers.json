@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to improve government IT infrastructure. The language is formal and bureaucratic. There is no strong emotion conveyed. The order focuses on efficiency, security, and modernization. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It aims to improve the management of IT resources within the Federal Government. The language is formal and objective. There is a slight sense of joy due to the potential for improved services and reduced costs, but it's very mild. There's no strong indication of sadness, anger, fear, disgust, or surprise. The document is mostly informational and directive.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

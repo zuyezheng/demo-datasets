@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding the revocation of prohibitions against transactions involving Iran. It references past executive orders and proclamations, and outlines the delegation of authority to the Secretary of the Treasury. The language is legal and procedural, with the aim of normalizing relations between the United States and Iran. There is no explicit expression of emotion. However, the act of normalizing relations might imply a sense of hope or relief, but this is not directly stated. Therefore, the initial scores are set to 1 for all emotions, indicating a neutral emotional tone. After further consideration, the document's purpose is to formally revoke prohibitions and normalize relations. While there might be underlying sentiments, the document itself maintains a neutral tone. Therefore, the revised scores remain at 1 for all emotions.",
+    "critique": "The document is a formal revocation of prohibitions against transactions involving Iran. It aims to normalize relations and resolve claims. The language is legal and official, so strong emotions are unlikely. Joy might be present due to the normalization of relations, but it's subdued. Sadness, anger, fear, and disgust are unlikely to be conveyed. Surprise is possible but minimal.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

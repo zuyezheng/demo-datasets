@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal announcement regarding the exemption of Hugh J. Murray from compulsory retirement. The language is legal and procedural, and the tone is neutral. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order from the President to exempt a Navy Yard employee from mandatory retirement. The language is formal and legalistic. There is no explicit emotional content. However, there might be a slight sense of joy that the employee is allowed to continue working, and a slight sense of surprise that an exception is being made. All other emotions are not present.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

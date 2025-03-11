@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 4,
-        "disgust": 1,
-        "surprise": 2
+        "sadness": 5,
+        "fear": 7,
+        "disgust": 6,
+        "surprise": 1
     },
-    "critique": "The document is an executive order addressing the COVID-19 pandemic. It invokes the Defense Production Act to prevent hoarding of medical resources. The language is formal and legalistic. The primary emotion conveyed is concern and determination to address the crisis. There's a sense of urgency but not panic. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise, but the context implies concern and a proactive approach. The scores reflect the implied emotions based on the context and the actions being taken.",
+    "critique": "The document expresses concern about the COVID-19 pandemic and the need to prevent hoarding of medical resources. It conveys a sense of urgency and determination to address the crisis. Therefore, fear and sadness should be scored higher than other emotions. Disgust is also relevant due to the mention of hoarding. Surprise and joy are not relevant.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 4,
-        "disgust": 1,
-        "surprise": 2
+        "sadness": 5,
+        "fear": 7,
+        "disgust": 6,
+        "surprise": 1
     }
 }

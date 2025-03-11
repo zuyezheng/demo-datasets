@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 4,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the President's Child Safety Partnership. It outlines the structure, functions, and administration of the partnership. The language is legal and procedural, with a focus on establishing a framework for cooperation between public and private sectors to promote child safety. There is no explicit expression of emotions such as joy, sadness, anger, fear, disgust, or surprise. However, the underlying goal of promoting child safety could evoke a sense of joy or hope in the public, but this is not directly conveyed in the text. The document is primarily informational and directive, rather than emotional.",
+    "critique": "The document is a formal executive order establishing the President's Child Safety Partnership. The primary goal is to promote child safety through public and private sector cooperation. The language is formal and legalistic, with no explicit emotional expression. However, the underlying concern for child safety implies a motivation to reduce sadness and fear associated with child victimization, and promote joy and safety. Given the formal nature, the intensity of these emotions is likely to be moderate. Surprise, disgust and anger are not explicitly conveyed, and are scored as 1.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 4,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 4,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order outlining the functions and duties of the Office for Emergency Management and related agencies during the national emergency declared in 1941. It focuses on coordinating priority powers and supply allocation activities. The language is legalistic and procedural, with no explicit emotional expression. However, the context of a national emergency and the focus on defense suggest an underlying sense of urgency and concern for national security. The order aims to inspire confidence in the government's ability to manage the crisis. Therefore, I will assign low scores to negative emotions like fear, disgust, and sadness, and slightly higher scores to surprise and joy. The highest score will be assigned to fear, reflecting the underlying concern about the national emergency.",
+    "critique": "The document is a formal executive order outlining the functions and duties of the Office for Emergency Management and related agencies during the national emergency. The primary emotion conveyed is a sense of urgency and determination to coordinate resources for national defense. There is a hint of fear due to the declared national emergency, but it is not the dominant emotion. There is no explicit joy, sadness, disgust, or surprise expressed in the document. The language is formal and bureaucratic, focusing on establishing procedures and assigning responsibilities.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 4,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration regarding aircraft construction. It primarily conveys a sense of determination and perhaps slight concern about existing limitations, but it doesn't strongly emphasize any particular emotion. The language is formal and factual, aiming for clarity and legal precision rather than emotional impact. Therefore, all emotions should be scored relatively low.",
+    "critique": "The document is a formal presidential order from 1934 regarding aircraft construction. It primarily conveys a sense of authority and decisiveness, with a hint of concern about the limitations of existing government facilities. There's no strong indication of joy, sadness, fear, or disgust. Surprise is also minimal, as the order seems to follow logically from the identified limitations. Therefore, the initial scores should reflect this assessment, with low values for most emotions and slightly higher values for authority and perhaps a touch of concern.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

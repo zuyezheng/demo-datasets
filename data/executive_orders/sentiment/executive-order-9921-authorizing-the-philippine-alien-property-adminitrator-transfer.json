@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal presidential order regarding the transfer of property to the Republic of the Philippines. It primarily conveys a sense of administrative action and legal compliance, rather than strong emotions. Therefore, the initial scores for all emotions are set to 1, indicating minimal emotional conveyance. The revised scores remain the same, as the document's nature does not suggest any significant emotional undertones.",
+    "critique": "The document is a formal legal order regarding the transfer of property from the United States to the Republic of the Philippines. The language is very formal and legalistic. There is no strong emotion conveyed. A score of 1 is appropriate for all emotions except perhaps a slight sense of Joy that the transfer is occurring.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

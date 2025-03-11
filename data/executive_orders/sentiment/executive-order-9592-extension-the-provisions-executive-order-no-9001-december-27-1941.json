@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order extending provisions of a previous order to other offices. It is related to war powers and contracts. The language is formal and legalistic. There is no indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order extending the provisions of a previous order to the Office of War Information and the Office of Alien Property Custodian. The language is legal and administrative, with the purpose of facilitating the prosecution of the war. There is no explicit expression of emotions. However, the context of war implies a sense of urgency and seriousness. Given the formal nature, the emotion scores should be relatively low, but not 1, to reflect the underlying context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

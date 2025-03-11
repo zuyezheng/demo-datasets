@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 5,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a transfer of land from the War Department to the Veterans Administration. The tone is formal and legalistic. The primary emotion the President wants to elicit is probably joy that veterans are being taken care of. There might be some sadness that the War Department is losing control of the land, but it is temporary. There is no anger, fear, disgust, or surprise conveyed in the document. The initial scores are joy: 5, sadness: 2, anger: 1, fear: 1, disgust: 1, surprise: 1. After thinking through it, the joy score should be lower because the document is mostly a legal transfer. The sadness score should also be lower because the War Department's loss is temporary.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

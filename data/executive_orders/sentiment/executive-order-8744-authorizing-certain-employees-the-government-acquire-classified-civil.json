@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding civil service positions. It does not express any particular emotion. The language is legal and administrative, and the purpose is to establish a procedure for transferring employees in specific circumstances. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding civil service employment. It outlines the conditions under which an employee involuntarily separated from service can acquire classified civil-service status for transfer. The language is legalistic and procedural. There is no explicit expression of emotions. However, a slight sense of care and consideration for the affected employees can be inferred. Therefore, I will assign low scores to sadness and joy, and a score of 1 to the rest.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

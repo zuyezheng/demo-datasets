@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the closure of federal departments and agencies on Christmas Eve. The primary emotion conveyed is a sense of goodwill and consideration for federal employees during the holiday season. However, due to the formal and legal nature of the document, the intensity of any emotion is likely to be perceived as low. The order also includes provisions for essential services to remain open, indicating a balance between holiday cheer and national security/public service. Therefore, joy is the most relevant emotion, but its intensity is moderate. Other emotions like surprise, fear, disgust, and sadness are not significantly conveyed in this document.",
+    "critique": "The document is a formal executive order regarding the closure of federal government offices on Christmas Eve. It is a factual and procedural document. There is no strong emotional language used. Therefore, the scores for all emotions should be relatively low. Considering it is related to Christmas, there might be a slight indication of joy, but it's not explicitly stated.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

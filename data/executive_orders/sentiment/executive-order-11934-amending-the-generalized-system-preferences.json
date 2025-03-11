@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding trade preferences. It is a formal and legal document with no emotional language. Therefore, all emotions should be scored very low.",
+    "critique": "The document is a formal executive order regarding trade preferences. It primarily focuses on modifications to tariff schedules and beneficiary countries. There is no strong emotional language used. Therefore, the scores for all emotions should be relatively low. I will assign a baseline score of 1 for most emotions, increasing the score only if there's a clear indication of that emotion being conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

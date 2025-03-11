@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily aims to establish appointment and conversion authorities for Deputy U.S. Marshals and Criminal Investigators within the U.S. Marshals Service. The language is legal and administrative, focusing on the practical aspects of government operations. There's no explicit attempt to evoke strong emotions. However, a sense of joy could be perceived by those who benefit from the order, such as the Marshals Service employees. A slight sense of surprise might be conveyed due to the specific nature of the order, but overall, the emotional impact is minimal. Disgust, fear, and sadness are not relevant in this context. Therefore, the initial scores should reflect this assessment.",
+    "critique": "The document is a formal executive order. It aims to establish hiring and conversion authorities for the U.S. Marshals Service. The language is legal and procedural. There is no strong emotional conveyance. A baseline of 1 is appropriate for emotions that are not explicitly present.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

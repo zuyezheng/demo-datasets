@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
-        "disgust": 3,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a military order regarding rewards for the apprehension of individuals related to the assassination of President Lincoln and Jefferson Davis. The tone is formal and official. There is an element of finality and closure regarding the rewards, and a revocation of rewards for some individuals. \n\nInitial assessment:\n*   Joy: 1 (not present)\n*   Sadness: 2 (slight, due to the context of Lincoln's assassination)\n*   Anger: 3 (mild, related to the crimes committed)\n*   Fear: 1 (not present)\n*   Disgust: 3 (mild, related to the crimes committed)\n*   Surprise: 1 (not present)\n\nRevised assessment:\n*   Joy: 1\n*   Sadness: 2\n*   Anger: 3\n*   Fear: 1\n*   Disgust: 3\n*   Surprise: 1",
+    "critique": "The document is a formal military order regarding rewards for the apprehension of individuals. It primarily concerns legal and administrative matters, so it would not convey strong emotions. The revocation of rewards could suggest a degree of disappointment or frustration, but this is not explicitly stated. Therefore, the emotion scores should be relatively low across the board.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
-        "disgust": 3,
+        "disgust": 1,
         "surprise": 1
     }
 }

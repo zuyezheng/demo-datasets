@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to clarify regulations regarding commercial bribery. The language is formal and legalistic, suggesting an intent to convey authority and clarity rather than emotional sentiment. Therefore, I would expect low scores for all emotions. The initial scores will be all 1s, and the revised scores will remain the same after considering the critique.",
+    "critique": "The document is a formal executive order. It aims to clarify regulations regarding commercial bribery within the context of the National Industrial Recovery Act. The language is precise and legalistic, with a focus on defining terms and setting boundaries. There is no explicit expression of emotions. However, the act of clarifying 'confusion and misapprehension' suggests a mild concern or perhaps frustration, but this is very subtle. Therefore, a baseline score of 1 is appropriate for most emotions, with a slightly higher score for concern which might manifest as mild sadness or disgust at the confusion.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

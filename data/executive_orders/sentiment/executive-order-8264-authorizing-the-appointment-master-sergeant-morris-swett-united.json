@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order regarding the appointment of a retired army sergeant to a librarian position. It uses formal and legalistic language. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order regarding the appointment of a retired army sergeant to a librarian position. It's a bureaucratic action with no inherent emotional content. Therefore, all emotions should be scored low, with a default of 1 where there's no indication of the emotion being conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

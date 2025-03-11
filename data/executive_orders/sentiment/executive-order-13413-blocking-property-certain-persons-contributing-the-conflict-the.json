@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 7,
+        "sadness": 4,
+        "fear": 5,
         "disgust": 6,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The document is a formal executive order addressing a national emergency related to the Democratic Republic of the Congo. The language is legal and procedural. The primary emotion conveyed is concern and determination to address a threat. There is a sense of disgust and sadness related to the violence and atrocities mentioned in the document, but these are secondary to the overall tone of serious resolve. There is no indication of joy or surprise. Fear is present as the document declares a national emergency.",
+    "critique": "The document expresses concern and determination regarding the situation in the Democratic Republic of the Congo. It highlights violence, atrocities, and threats to regional stability. It uses formal and legal language, indicating a serious and urgent tone. The emotions conveyed are primarily concern, determination, and a sense of urgency, with elements of disgust and fear related to the described atrocities. Given the formal nature of the document, the intensity of emotions is moderate.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 6,
-        "fear": 8,
+        "sadness": 5,
+        "fear": 6,
         "disgust": 7,
-        "surprise": 1
+        "surprise": 4
     }
 }

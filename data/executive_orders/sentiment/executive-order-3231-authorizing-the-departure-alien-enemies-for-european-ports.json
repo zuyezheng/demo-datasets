@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding passport regulations for alien enemies departing the US for Europe. It is an amendment to a previous executive order. The language is formal and legalistic. There is no explicit expression of emotion. However, the context of the order, dealing with alien enemies, might suggest a subtext of fear or distrust, but this is not explicitly stated. The intensity of any emotion conveyed is likely to be low, as the document is primarily informational and regulatory.",
+    "critique": "The document is a formal executive order regarding passport and departure regulations for alien enemies during a time of war. The language is legalistic and procedural. There is no explicit expression of emotions. However, the context of war and the mention of \"alien enemies\" might implicitly suggest some level of fear, disgust, or sadness, but these are very subdued. Surprise and joy are not relevant in this context. I will assign low scores to fear, disgust, and sadness, and a score of 1 to joy and surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

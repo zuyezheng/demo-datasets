@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land resurvey in Minnesota. It revokes a previous order and specifies the effective date based on the filing of the resurvey plat. There is no explicit emotional language or sentiment expressed in the document. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal revocation of an executive order related to land resurvey in Minnesota. It's a factual announcement with no inherent emotional content. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional indicators.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

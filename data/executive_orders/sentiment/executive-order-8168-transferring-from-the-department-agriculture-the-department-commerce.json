@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order transferring land use from the Department of Agriculture to the United States Coast and Geodetic Survey. It's a factual, administrative action with no inherent emotional tone. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order transferring land use from the Department of Agriculture to the Department of Commerce. The language is very formal and factual. There is no strong emotion conveyed. The primary emotion might be a mild sense of purpose or importance, but it's very subdued. Therefore, I will assign low scores across all emotions, with a slightly higher score for purposefulness which I will categorize as joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

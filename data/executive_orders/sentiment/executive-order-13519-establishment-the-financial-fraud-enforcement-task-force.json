@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 2,
         "fear": 3,
-        "disgust": 3,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a task force to combat financial crimes. The language is legal and procedural, with a focus on establishing the structure, membership, and functions of the task force. There is no explicit expression of emotion. However, the implicit emotions conveyed might be a sense of determination to address financial crimes (potentially reducing fear and disgust related to such crimes) and a sense of hope or joy that the task force will be effective. The intensity of these emotions is likely to be moderate, as the document is primarily a bureaucratic announcement.",
+    "critique": "The document is a formal executive order establishing a task force to combat financial fraud. The primary emotion conveyed is a sense of seriousness and determination to address the issue. There's a hint of concern about the financial crisis, but it's mainly focused on the legal and administrative aspects. Therefore, the scores should reflect a low level of negative emotions and a moderate level of determination.",
     "revised_scores": {
-        "joy": 4,
-        "sadness": 2,
-        "fear": 3,
+        "joy": 1,
+        "sadness": 3,
+        "fear": 4,
         "disgust": 3,
         "surprise": 1
     }

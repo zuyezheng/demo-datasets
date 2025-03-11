@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order issued by President Lyndon B. Johnson. It establishes a board to investigate disputes between railway carriers and their employees. The language is legalistic and procedural. There is no indication of an attempt to convey any particular emotion. The document aims to address a labor dispute that threatens interstate commerce. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order addressing a labor dispute in the railway industry. The primary goal is to prevent disruption to interstate commerce. The language is legalistic and factual, with no overt expression of emotions. However, a sense of concern or urgency might be inferred due to the potential impact of the dispute on the country's transportation services. The document aims to be neutral and authoritative.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

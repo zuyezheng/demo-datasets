@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding a labor dispute and the creation of a board to investigate it. The language is legal and procedural, with no explicit emotional expression. However, the situation implies a potential negative impact on interstate commerce and essential transportation services. Therefore, a low level of concern or perhaps surprise might be inferred. The scores are based on the assumption that the public might feel a slight sense of unease or surprise due to the potential disruption.",
+    "critique": "The document is a formal announcement regarding a labor dispute and the creation of a board to investigate it. The language is legal and procedural. There is no strong expression of emotions. A low level of concern (fear) might be present due to the potential disruption of interstate commerce. Surprise, disgust, joy, and sadness are not evident.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 2,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

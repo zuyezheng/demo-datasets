@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding the administration of the Foreign Service. It is a formal and legal document. Therefore, it is unlikely to convey strong emotions. The most relevant emotion would be joy, as the order aims to improve the administration of the Foreign Service. However, the intensity would be low.",
+    "critique": "The document is a formal executive order regarding the administration of the Foreign Service. It primarily focuses on delegating authority, establishing salary classes, and ensuring compatibility between different government personnel systems. Given the formal and administrative nature of the document, the emotional intensity is expected to be low across all emotions. There is no indication of joy, sadness, fear, disgust, or surprise. Therefore, the initial scores are set to 1 for all emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

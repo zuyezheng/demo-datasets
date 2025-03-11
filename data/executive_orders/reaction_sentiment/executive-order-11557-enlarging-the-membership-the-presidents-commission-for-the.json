@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal amendment to an existing executive order. The primary goal is administrative, ensuring the commission has the appropriate structure. There's no explicit attempt to evoke strong emotions. The tone is neutral and factual. Therefore, most emotions should be scored low. However, there might be a slight sense of satisfaction (joy) in ensuring the smooth functioning of the government and perhaps a tiny bit of surprise that such an amendment was needed. I will revise the scores to reflect this.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

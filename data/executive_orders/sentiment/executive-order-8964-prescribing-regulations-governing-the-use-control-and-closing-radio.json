@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 6,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 3
     },
-    "critique": "The document is a formal declaration related to wartime measures. It primarily conveys a sense of seriousness and determination, with an underlying current of fear and concern for national security. There's no explicit expression of joy, sadness, or disgust. Surprise is also not a primary emotion, but a slight sense of urgency might be perceived.",
+    "critique": "The document is a formal declaration regarding the control of radio stations during wartime. It expresses the necessity for national defense and security. The primary emotion conveyed is a sense of urgency and determination, with an underlying tone of seriousness due to the context of war. There is a slight sense of fear due to the war. There is no explicit expression of joy, sadness, disgust, or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 7,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 3
     }
 }

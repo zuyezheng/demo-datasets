@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition. The language is legal and procedural, with no explicit emotional expression. The President is acting in an official capacity, and the intended audience is the American public and businesses affected by the code. I will score each emotion based on how the public might perceive the announcement, even though the document itself is neutral. Joy: The public might feel a slight sense of joy if they believe the code will improve the economy or their industry. Sadness: There is no indication of sadness. Anger: Some businesses might be angry if they feel the code is unfair or restrictive. Fear: Some businesses might fear the code's impact on their operations. Disgust: It's unlikely the public would feel disgust. Surprise: The announcement itself is unlikely to be surprising, as it follows due process.",
+    "critique": "The document is a formal approval of a code of fair competition. The language is legal and administrative, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. The revised scores will reflect this lack of emotional content.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

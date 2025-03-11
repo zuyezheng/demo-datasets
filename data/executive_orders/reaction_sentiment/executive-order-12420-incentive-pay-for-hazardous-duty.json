@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order defining hazardous duty for military personnel. The tone is formal and legalistic. The primary goal is to clarify definitions, not to elicit strong emotions. However, there might be a subtle undercurrent of reassurance (reducing fear) by defining these hazardous duties and potentially providing benefits or protections to those performing them. There's no indication of joy, sadness, anger, disgust, or surprise being intentionally conveyed. Therefore, initial scores should be low across the board, with a slightly higher score for fear reduction.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

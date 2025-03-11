@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and determination, but doesn't strongly emphasize any particular emotion. The mention of potential jeopardy to common defense and security could be interpreted as a mild expression of concern or fear, but it's presented in a factual, non-emotional way. Therefore, I will assign low scores across all emotions, with a slightly higher score for fear due to the mention of security risks.",
+    "critique": "The document is a formal executive order. It expresses no strong emotions. The language is very formal and legalistic. Therefore, all emotions should be scored very low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 3
     },
-    "critique": "The document is a formal declaration regarding tungsten ore and national defense. It doesn't express any strong emotions. The language is formal and factual, aiming to convey a sense of urgency and authority rather than any specific emotion. Therefore, all emotions should be scored low, with a slight emphasis on fear and surprise due to the mention of a national emergency and imminent shortage.",
+    "critique": "The document is a formal declaration regarding tungsten ore procurement and its use for defense production. It invokes a national emergency and directs the Treasury Department to make the ore available for defense purposes. The language is formal and legalistic. There is a sense of urgency due to the declared shortage and national emergency. \n\nInitial assessment:\n*   Joy: 1 (no indication of joy)\n*   Sadness: 1 (no indication of sadness)\n*   Fear: 5 (the mention of national emergency and shortage implies a level of fear/concern)\n*   Disgust: 1 (no indication of disgust)\n*   Surprise: 3 (the declaration of a national emergency might be surprising, but it's presented matter-of-factly)\n\nRevised assessment:\n*   Joy: 1\n*   Sadness: 1\n*   Fear: 5\n*   Disgust: 1\n*   Surprise: 3",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 3
     }
 }

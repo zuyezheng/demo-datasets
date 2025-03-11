@@ -2,14 +2,14 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal presidential order. It authorizes the Secretary of Defense and the Secretary of Transportation to order active duty for operations in and around former Yugoslavia. The language is formal and legalistic. The order is intended to improve internal management and does not create any enforceable right. The overall tone is serious and official, but does not explicitly convey any strong emotion. The most relevant emotions would be related to the seriousness of the situation, potentially a low level of fear or concern, but overall, the document is intended to be neutral and authoritative.",
+    "critique": "The document is a formal presidential order regarding the augmentation of armed forces for operations in former Yugoslavia. The language is legal and procedural. There is no explicit expression of emotions. However, the context of deploying armed forces might implicitly convey a sense of seriousness and concern, but this is not explicitly stated. Therefore, a baseline score of 1 is appropriate for most emotions. A slightly higher score for concern (represented by sadness and fear) might be considered due to the nature of the order, but without explicit textual evidence, it's best to remain conservative.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
         "disgust": 1,
         "surprise": 1

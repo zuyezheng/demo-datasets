@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal designation of the International Maritime Satellite Organization as a public international organization. It cites the legal basis for this designation and provides administrative details such as the date and filing information.The language is formal and legalistic, devoid of emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal designation of the International Maritime Satellite Organization. It cites legal authority and provides official notice. There is no strong emotional content. The primary emotion might be a mild sense of satisfaction or affirmation, but it's very subdued. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy due to the positive designation.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

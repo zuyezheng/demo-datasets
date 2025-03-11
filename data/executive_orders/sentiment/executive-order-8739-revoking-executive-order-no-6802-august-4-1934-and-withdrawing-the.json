@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land use in Alaska. It revokes a previous order and reserves land for the Alaska Game Commission. The language is legal and \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995, with no emotional content. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding land use in Alaska. It revokes a previous order and reserves land for the Alaska Game Commission. The language is legal and administrative, with no explicit emotional content. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication of the emotion being conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

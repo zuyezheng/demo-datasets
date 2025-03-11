@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document outlines the establishment of an emergency board to investigate a dispute between the Soo Line Railroad Company and its employees. The primary emotion conveyed is concern regarding the potential disruption of interstate commerce. There's a hint of worry and determination to resolve the issue, but overall, the tone is formal and neutral. The president is not trying to portray any strong emotions. The scores are based on the potential impact of the situation rather than overt emotional appeals.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It aims to prevent disruption to interstate commerce. The language is legal and procedural, lacking overt emotional expression. Therefore, the initial scores should reflect this neutrality, with low values across all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

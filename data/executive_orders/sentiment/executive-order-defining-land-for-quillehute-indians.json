@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation for the Quillehute Indians. It does not express any particular emotion. The language is neutral and factual. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order regarding land allocation for the Quillehute Indians. It is a legal document, and as such, it is unlikely to express strong emotions. The primary emotion might be a mild sense of justice or satisfaction in resolving a land issue, but this is very subtle. Therefore, I will assign low scores across the board, with a slightly higher score for joy to reflect the positive outcome for the Quillehute Indians.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

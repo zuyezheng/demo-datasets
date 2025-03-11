@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding government contracts and labor relations. It aims to ensure efficiency and economy in government procurement by promoting industrial peace through informing workers of their rights. The language is legal and procedural, lacking emotional expression. Therefore, the expected emotional response from the public would be minimal across all emotions.",
+    "critique": "The document is a formal executive order. It aims to ensure economical and efficient administration of government contracts by promoting industrial peace through informing workers of their rights. The language is formal and legalistic. There is a sense of purpose and resolve, but no strong emotions are explicitly conveyed. Therefore, most emotions should be scored low, with a slight emphasis on purposefulness which might translate to a low level of joy or satisfaction.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

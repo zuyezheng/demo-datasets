@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 8,
+        "sadness": 7,
         "fear": 1,
-        "disgust": 6,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a council to implement recommendations for a Holocaust Memorial. The primary emotions conveyed are sadness and remembrance due to the subject matter. There might be a sense of hope or determination to ensure such events are not forgotten and to honor the victims. However, the language is formal and bureaucratic, which tempers strong emotional expression. Disgust might be present due to the nature of the Holocaust, but it's not explicitly conveyed in the text. Surprise, joy, and fear are not significantly present.",
+    "critique": "The document is a formal executive order establishing the United States Holocaust Memorial Council. The primary emotion conveyed is sadness due to the subject matter (the Holocaust). There might be a sense of hope or determination to remember the victims and educate future generations, but this is secondary to the sadness and gravity of the event. There is no explicit joy, anger, fear, disgust, or surprise expressed in the document itself; these emotions are related to the Holocaust but not expressed in the text of the order. The language is formal and legalistic, which further mutes any emotional expression. Therefore, sadness is the most prominent emotion, followed by a low level of hope/determination. The other emotions are not explicitly present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 7,
         "fear": 1,
-        "disgust": 5,
+        "disgust": 1,
         "surprise": 1
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration establishing a wildlife refuge. The language is legal and \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995, not designed to evoke strong emotions. The primary emotion might be a slight sense of joy or satisfaction that natural resources are being protected, but this would be very mild. There is no indication of sadness, anger, fear, disgust, or surprise. Therefore, the initial scores should be very low across the board, with a slightly higher score for joy.",
+    "critique": "The document is a formal declaration establishing a wildlife refuge. The language is legal and administrative, with no explicit emotional expression. Therefore, the initial scores for all emotions should be low, reflecting the lack of emotional content. Considering it is a formal document, I will assign a baseline score of 1 for all emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

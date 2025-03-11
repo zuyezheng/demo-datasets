@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order amending a previous order regarding a defensive sea area. It uses formal and legal language. There is no explicit expression of emotion. The likely emotions conveyed would be related to the importance of national defense. The order itself doesn't convey any strong emotion, so the initial scores should be low. After further consideration, the document is purely informational and legal, so all scores should be set to 1.",
+    "critique": "The document is a formal executive order amending a previous order regarding a defensive sea area. It's a legal document, so the primary emotions conveyed are neutral. There is a slight sense of importance or seriousness due to the subject matter (national defense), but no strong emotions are explicitly expressed. Therefore, the initial scores should be very low across all emotions, with a slight bump for seriousness which might translate to a minimal level of fear or concern. After revision, the scores remain low, reflecting the document's neutral and formal tone.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

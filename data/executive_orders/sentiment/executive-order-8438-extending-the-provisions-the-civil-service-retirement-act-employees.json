@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement extending the Civil Service Retirement Act to employees of the Office of the Legal Adviser of the Department of State. The language is legal and official, and there is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal announcement extending the Civil Service Retirement Act to employees of the Office of the Legal Adviser of the Department of State. The language is formal and legalistic. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. Given the formal nature, a baseline score of 1 is appropriate for all emotions in the initial scores.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

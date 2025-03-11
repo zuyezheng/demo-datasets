@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order specifying certain communicable diseases for regulations related to apprehension, detention, or conditional release of individuals. It revokes three previous executive orders. The language is formal and legalistic. There is no explicit expression of emotion. However, the context of dealing with communicable diseases might implicitly evoke some level of fear and concern. The order aims to prevent the spread of diseases, which could be interpreted as a measure to reduce fear and increase public safety. However, without additional context, it is difficult to gauge the intended emotional impact on the public. I will assign low scores across all emotions, with a slightly higher score for fear due to the nature of the topic.",
+    "critique": "The document is a formal executive order listing communicable diseases and revoking previous executive orders. It is primarily informational and legal in nature. There is no explicit expression of emotions such as joy, sadness, fear, disgust, or surprise. The language is neutral and objective, focusing on legal and administrative matters. Therefore, the initial scores for all emotions should be low, reflecting the absence of emotional content.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

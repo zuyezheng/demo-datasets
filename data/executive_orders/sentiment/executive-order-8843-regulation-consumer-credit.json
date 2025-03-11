@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a declaration regarding credit regulation during a national emergency. It aims to control installment credit to support national defense and curb inflation. The language is formal and legalistic, focusing on the necessity and purpose of the regulations. There's no explicit expression of emotions. However, the context implies a sense of urgency and concern for the national economy and defense. The emotions that the public is expected to feel are more aligned with concern and perhaps a sense of being controlled, rather than joy, sadness, anger, fear, disgust, or surprise. Considering the context of national emergency, a low level of fear and concern might be expected. The document does not convey joy, sadness, or surprise. There is no indication of disgust or anger.",
+    "critique": "The document is a formal declaration regarding the control of credit during a national emergency. The primary emotion conveyed is a sense of urgency and necessity, driven by the need to protect the national economy and defense. There's a hint of fear regarding the potential for inflationary developments and the hindering of savings. There is no explicit joy, surprise, or disgust.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

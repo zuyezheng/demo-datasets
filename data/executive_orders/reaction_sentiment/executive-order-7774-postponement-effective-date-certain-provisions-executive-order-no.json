@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order regarding the delay of certain transfers, consolidations, and eliminations. The tone is formal and bureaucratic. The primary emotion the President wants to elicit is a sense of stability and order, not strong emotions. The language is technical and legalistic, not designed to evoke strong feelings. Therefore, most emotions should be scored low. There might be a slight sense of relief (low joy) that things are being handled, and perhaps a touch of concern (low fear) if the changes are not implemented smoothly. Surprise, disgust, and sadness are not relevant here.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

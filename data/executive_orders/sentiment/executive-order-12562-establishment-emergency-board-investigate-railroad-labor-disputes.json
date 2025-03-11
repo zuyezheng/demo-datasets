@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing an emergency board to investigate disputes between railroads and their employees. The language is legalistic and procedural, with the primary goal of preventing disruption to interstate commerce. There is no strong indication of any particular emotion being conveyed. Therefore, the initial scores are set to 1 across all emotions. After further consideration, the document aims to convey a sense of calm and control in a potentially disruptive situation. While not explicitly joyful, the intent to maintain essential services could be interpreted as a subtle attempt to reassure the public. Therefore, a slight increase in the 'joy' score is warranted. The other scores remain at 1 due to the lack of explicit emotional expression.",
+    "critique": "The document is a formal executive order establishing an emergency board to investigate disputes between railroads and their employees. The language is legal and procedural. There is a sense of urgency due to the potential disruption of interstate commerce, but the overall tone is neutral and objective. Therefore, the initial scores for all emotions should be relatively low. Considering the potential negative impact of interrupted interstate commerce, a slightly elevated fear score seems appropriate. There's no explicit joy, sadness, disgust, or surprise conveyed in the document.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

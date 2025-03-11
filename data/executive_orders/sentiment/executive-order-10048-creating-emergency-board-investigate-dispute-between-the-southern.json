@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding a labor dispute. It doesn't express any particular emotion. The language is neutral and legalistic. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal declaration regarding a labor dispute. It expresses a sense of urgency and importance due to the potential disruption of interstate commerce. It aims to establish a board to investigate the dispute and prevent any changes to the conditions that led to it. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the implicit emotions are: A low level of concern (fear) about the disruption of interstate commerce, and a low level of urgency (surprise) that the dispute has reached this point. The other emotions are not present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

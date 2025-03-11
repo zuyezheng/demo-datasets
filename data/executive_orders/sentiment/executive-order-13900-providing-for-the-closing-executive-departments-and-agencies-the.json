@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order. It declares that federal departments and agencies will be closed on December 24, 2019, with exceptions for national security, defense, or other public needs. It also clarifies that this day falls under existing regulations regarding pay and leave for federal employees. The language is formal and legalistic, with no explicit emotional expression. However, the implied sentiment is one of joy and surprise due to the holiday season. The order provides a day off for many federal employees before Christmas. Disgust, fear, and sadness are not relevant in this context.",
+    "critique": "The document is a formal executive order regarding the closure of federal government offices on December 24, 2019. The language is legal and procedural. There is a slight sense of joy conveyed by the fact that employees are excused from duty the day before Christmas, but it is very mild. There is no indication of sadness, anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

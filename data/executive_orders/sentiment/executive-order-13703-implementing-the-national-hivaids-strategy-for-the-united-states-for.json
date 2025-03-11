@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 4,
+        "joy": 3,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order focused on implementing and updating the National HIV/AIDS Strategy. The primary emotions conveyed are related to a sense of responsibility, determination, and hope for improved health outcomes. There's no indication of anger, fear, disgust. Surprise is also not a primary emotion, but there might be a slight element of it related to advancements and new strategies. Joy and sadness are present, but not overtly expressed; joy comes from progress made, and sadness from the ongoing challenges. The scores should reflect these nuances.",
+    "critique": "The document is a formal executive order outlining the implementation of the National HIV/AIDS Strategy. It focuses on coordination, collaboration, and accountability across federal agencies to improve health outcomes for Americans at risk for or living with HIV/AIDS. The language is formal and policy-oriented. There is a sense of optimism and determination to address the issue, but no strong emotions are explicitly conveyed. Therefore, the initial scores are relatively low across all emotions. I will revise the scores to reflect the underlying sense of optimism and determination, while still maintaining the overall formal and neutral tone of the document.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 4,
+        "joy": 4,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

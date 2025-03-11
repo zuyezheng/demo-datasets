@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 3,
         "fear": 5,
-        "disgust": 4,
-        "surprise": 3
+        "disgust": 6,
+        "surprise": 2
     },
-    "critique": "The document is a presidential order regarding sanctions on Iran. It aims to address Iran's malign influence and actions. The language is formal and legalistic. The primary emotion conveyed is a sense of resolve and determination to counter a threat. There might be a hint of anger or disgust towards Iran's actions, but it's mostly about asserting authority and taking action. The order is designed to evoke a sense of security and protection among the American public.",
+    "critique": "The document expresses concern and determination to counter Iran's influence. There is a sense of resolve and seriousness, but not overt anger or joy. Fear is present due to the threat Iran poses. Disgust is present due to the actions of Iran. Surprise is not a prominent emotion.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 3,
         "fear": 6,
-        "disgust": 5,
-        "surprise": 3
+        "disgust": 7,
+        "surprise": 1
     }
 }

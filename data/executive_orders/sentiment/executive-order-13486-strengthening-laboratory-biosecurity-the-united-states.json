@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 4,
-        "disgust": 4,
+        "fear": 3,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding biosecurity. It primarily conveys a sense of seriousness and caution due to the nature of the subject matter (biological select agents and toxins) and the measures being taken to strengthen security. There is a hint of fear and disgust associated with the potential misuse of these agents. However, the overall tone is formal and procedural, so the emotional impact is somewhat muted. The order does not explicitly convey joy, surprise, or sadness. The initial scores reflect this assessment, with slightly elevated scores for fear and disgust, and low scores for the other emotions. The revised scores are adjusted to better reflect the document's formal and procedural tone, reducing the intensity of fear and disgust while maintaining low scores for joy, surprise, and sadness.",
+    "critique": "The document is a formal executive order. It establishes a working group to strengthen biosecurity. The language is formal and legalistic. There is a sense of concern and seriousness about the potential misuse of biological agents and toxins, but this is presented in a very measured and official way. Therefore, I will assign low scores to most emotions, with a slightly higher score for fear due to the subject matter.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 3,
-        "disgust": 3,
+        "disgust": 1,
         "surprise": 1
     }
 }

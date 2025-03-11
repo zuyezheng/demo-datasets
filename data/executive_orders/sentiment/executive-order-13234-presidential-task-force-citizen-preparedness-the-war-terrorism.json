@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a task force. It aims to convey a sense of seriousness and determination in addressing terrorism. There is no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. However, the context implies a sense of concern and resolve. The initial scores reflect a baseline level of these emotions due to the nature of the document and the context of the war on terrorism. The revised scores are slightly adjusted to better reflect the implied emotions.",
+    "critique": "The document is a formal executive order establishing a task force. It expresses a sense of urgency and determination to address terrorism, but avoids strong emotional displays. Therefore, the scores should be relatively low across all emotions, with a slight emphasis on seriousness and resolve.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 4,
-        "disgust": 2,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
         "surprise": 1
     }
 }

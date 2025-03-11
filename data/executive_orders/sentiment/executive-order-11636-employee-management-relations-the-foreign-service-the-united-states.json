@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding employee-management relations within the Foreign Service. It outlines policies, definitions, and administrative structures. The language is legalistic and procedural. There's no strong indication of any particular emotion being conveyed. The primary goal is to establish a framework for how foreign affairs agencies should interact with their employees and employee organizations. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal executive order regarding the rights and obligations of Foreign Service employees and organizations. It aims to establish a framework for employee-management relations. The language is formal and legalistic. There is no strong emotion conveyed, but a sense of purpose and determination to improve the efficiency and well-being of the Foreign Service. Therefore, I will assign low scores to all emotions, with a slightly higher score for joy due to the intention of improving employee well-being.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

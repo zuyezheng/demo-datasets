@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order outlining regulations for aliens entering the United States. It is primarily informational and procedural, lacking strong emotional cues. Therefore, the expected emotional response from the American public would likely be minimal across all emotions. Most scores should be low, reflecting the document's neutral tone.",
+    "critique": "The document is a formal executive order outlining regulations for aliens entering the United States. It is primarily informational and legal in nature. Therefore, the emotional content is expected to be minimal. I will assign low scores across all emotions, with a slight emphasis on potential fear or concern related to public safety.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

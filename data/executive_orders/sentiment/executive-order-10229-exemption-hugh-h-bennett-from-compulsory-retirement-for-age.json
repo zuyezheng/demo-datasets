@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the exemption of Hugh H. Bennett from compulsory retirement. It uses formal and legalistic language. There is no indication of strong emotions. The primary emotion might be a mild sense of approval or satisfaction, but it's very subdued. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy due to the positive nature of the announcement.",
+    "critique": "The document is a formal order exempting Hugh H. Bennett from compulsory retirement. It expresses no strong emotions. The language is formal and procedural. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

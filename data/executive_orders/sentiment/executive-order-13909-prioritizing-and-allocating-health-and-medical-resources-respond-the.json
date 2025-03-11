@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 5,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing the COVID-19 pandemic. The primary emotion conveyed is concern and a sense of urgency regarding the health crisis. There's an element of fear related to the potential strain on the healthcare system, but also a sense of determination to address the issue. There isn't any language that would suggest joy, disgust, or surprise. The order aims to reassure the public that the government is taking action. The initial scores reflect these considerations, with fear and sadness being the most prominent emotions, followed by a low level of surprise. The revised scores are similar, with a slight adjustment to reflect the overall tone of concern and determination.",
+    "critique": "The document is a formal declaration of a national emergency and delegation of authority to the Secretary of Health and Human Services. The primary emotion conveyed is concern and urgency regarding the COVID-19 pandemic. There is a sense of seriousness and determination to address the crisis. There is a low level of fear and sadness due to the pandemic. There is no explicit joy, disgust, or surprise conveyed.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 6,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

@@ -6,9 +6,9 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Cotton Cloth Glove Manufacturing Industry. The language is legal and administrative, with no explicit emotional expression. The President is conveying a sense of duty and accomplishment in implementing the National Industrial Recovery Act. However, the primary goal is to communicate the approval in a clear and official manner, not to evoke strong emotions. Therefore, the initial scores should be low across all emotions, with a slightly higher score for joy, as the act is intended to improve the economy. After further consideration, the scores should be even lower, as the document is purely informational and not intended to evoke any particular emotion.",
+    "critique": "The document is a formal approval of a Code of Fair Competition. The language is legal and administrative. There is no strong emotional content. A baseline of 1 is appropriate for most emotions. There might be a slight sense of joy that the application was approved, so I will give that a 2.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

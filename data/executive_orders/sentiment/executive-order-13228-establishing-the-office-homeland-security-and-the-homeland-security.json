@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 7,
-        "disgust": 1,
-        "surprise": 4
+        "sadness": 1,
+        "fear": 5,
+        "disgust": 6,
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order establishing the Office of Homeland Security. The primary emotion conveyed is a sense of urgency and determination to protect the United States from terrorist threats. While there's no explicit expression of joy, sadness, anger, fear, disgust, or surprise, the context implies a response to a perceived threat, which evokes a sense of fear and a need for preparedness. The language is formal and bureaucratic, aiming to establish a clear structure and process for homeland security. Therefore, the scores should reflect the underlying emotions related to security and preparedness, rather than overt emotional expressions.",
+    "critique": "The document is a formal executive order establishing the Office of Homeland Security. The primary emotion conveyed is concern and determination to address terrorist threats. There is an element of fear due to the nature of the threat, but the document focuses on preparedness and prevention. There's no explicit joy or sadness. Disgust is implied towards terrorism, and surprise is not a prominent emotion.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 6,
-        "disgust": 2,
-        "surprise": 3
+        "disgust": 7,
+        "surprise": 1
     }
 }

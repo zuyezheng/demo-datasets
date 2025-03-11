@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to ensure COVID-19 safeguards for federal contractors. The language is legal and procedural, focusing on economy, efficiency, and compliance. There's no explicit emotional appeal. However, the underlying goal of promoting safety could be interpreted as a subtle attempt to convey care and concern. Given the context of the pandemic, the public might perceive a sense of relief or reassurance, but the document itself doesn't directly evoke strong emotions. Therefore, the initial scores are relatively low across all emotions.",
+    "critique": "The document is a formal executive order. It aims to ensure COVID-19 safeguards for federal contractors. The language is formal and legalistic. There is a mild sense of joy that the order will improve efficiency and reduce worker absence. There is a mild sense of fear that COVID-19 will spread if safeguards are not in place. There is no indication of sadness, disgust, or surprise.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

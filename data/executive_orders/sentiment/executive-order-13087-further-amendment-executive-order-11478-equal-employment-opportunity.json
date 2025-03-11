@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is an executive order amending a previous order to prohibit discrimination based on sexual orientation. The language is formal and legalistic. The president is attempting to convey a sense of progress and equality. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. The primary emotion conveyed might be a mild sense of satisfaction or hope, but it's very subtle. Therefore, the initial scores should be low across the board, with a slightly higher score for joy and surprise due to the positive nature of the order.",
+    "critique": "The document is a formal executive order. It aims to prohibit discrimination based on sexual orientation. The language is formal and legalistic. There is no explicit expression of emotions. However, one could argue that the order conveys a sense of justice and equality, which might be associated with joy. However, this is a very subtle and indirect emotion. Given the formal nature of the document, I will assign low scores to all emotions except for joy, where I will assign a slightly higher score to reflect the underlying intent.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

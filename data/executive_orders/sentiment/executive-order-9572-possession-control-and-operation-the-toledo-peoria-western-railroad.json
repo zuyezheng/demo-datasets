@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The document is a legal order, so it is unlikely to convey strong emotions. The primary goal is to establish legal authority and ensure the continued operation of the railroad. There might be a hint of concern (fear) about potential disruptions to the war effort if the railroad operation is questioned. There is no indication of joy, sadness, disgust, or surprise.",
+    "critique": "The document is a formal executive order regarding the possession and operation of a railroad during wartime. The primary emotion conveyed is a sense of urgency and determination to ensure the successful prosecution of the war. While there's no explicit expression of joy, sadness, or disgust, there's an underlying sense of seriousness and resolve. The surprise element is low, as the order seems to be a continuation of existing policies, but the court case may have introduced an element of surprise. Fear is present due to the context of war.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

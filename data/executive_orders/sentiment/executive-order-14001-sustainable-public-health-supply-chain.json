@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 5,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing the COVID-19 pandemic. The primary emotions conveyed are concern and determination to address the crisis. There's an underlying sense of urgency and a need for action. Joy is not present. Sadness is present due to the pandemic situation. Anger is not a primary emotion, but there might be a subtle sense of frustration with the previous handling. Fear is present due to the pandemic. Disgust is not really present. Surprise is not a primary emotion.",
+    "critique": "The document is a formal executive order addressing the COVID-19 pandemic. The primary emotion conveyed is a sense of urgency and determination to address the crisis. There's a subtle undercurrent of concern about the pandemic's impact and the need for preparedness. However, given the formal nature, the emotional intensity is relatively low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 5,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

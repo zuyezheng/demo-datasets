@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the exemption of an individual from mandatory retirement. It uses formal and legalistic language. There is no indication of an attempt to portray any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order regarding the exemption of an employee from mandatory retirement. The language is legalistic and procedural. There is no explicit expression of emotions. However, the act of extending someone's service could be interpreted as a positive action, suggesting a mild degree of satisfaction or approval. Therefore, I will assign a low score to joy. All other emotions are not apparent in the text.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

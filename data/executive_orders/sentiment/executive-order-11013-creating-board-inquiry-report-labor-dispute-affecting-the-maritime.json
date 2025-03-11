@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration regarding a labor dispute and the creation of a Board of Inquiry. The language is legal and procedural, with no explicit emotional expression. However, the situation implies a sense of concern due to the potential impact on national health and safety. Initial scores: Disgust: 1, Fear: 3, Joy: 1, Sadness: 2, Surprise: 1. Revised scores: Disgust: 1, Fear: 3, Joy: 1, Sadness: 2, Surprise: 1",
+    "critique": "The document is a formal declaration regarding a labor dispute and the creation of a Board of Inquiry. It expresses concern about the potential impact of the strike on national health and safety. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the concern about national health and safety implies a degree of worry or apprehension, which could be interpreted as a low level of fear. The formal tone and the nature of the document suggest minimal emotional expression.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

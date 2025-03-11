@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding import safety. It aims to establish an interagency working group and outline its responsibilities. The language is formal and legalistic, focusing on establishing procedures and assigning responsibilities. There is no explicit expression of emotions. However, the underlying concern for safety could imply a degree of fear or concern, and the proactive measures could suggest a sense of responsibility and perhaps a desire to alleviate potential anxiety among the public. Considering the context, the public might feel a mild sense of reassurance (joy) that the government is addressing import safety, but also a bit of fear regarding the potential dangers of imported products. There's no indication of anger, disgust, or surprise.",
+    "critique": "The document is a formal executive order regarding import safety. It establishes an interagency working group and outlines its mission. The language is formal and legalistic. There is a sense of responsibility and concern for safety, but emotions are not explicitly expressed. Therefore, most emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 3,
         "disgust": 1,

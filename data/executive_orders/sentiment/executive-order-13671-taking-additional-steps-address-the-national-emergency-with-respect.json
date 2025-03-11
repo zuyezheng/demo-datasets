@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 4,
-        "disgust": 6,
-        "surprise": 1
-    },
-    "critique": "The document is a presidential executive order regarding the situation in the Democratic Republic of the Congo. It invokes legal authorities and outlines actions to address threats to peace, security, and stability in the region. The language is formal and legalistic. The primary emotion conveyed is concern and determination to address a serious situation. There is a sense of disgust and anger towards the actions that are destabilizing the region, such as violence, human rights abuses, and exploitation of resources. There might be a hint of sadness related to the suffering of the people in the Congo. There is no indication of joy or surprise.",
-    "revised_scores": {
-        "joy": 1,
         "sadness": 4,
         "fear": 5,
+        "disgust": 6,
+        "surprise": 2
+    },
+    "critique": "The document expresses concern and determination to address the crisis in the Democratic Republic of the Congo. There is a sense of seriousness and resolve, but not overt displays of emotion. Therefore, the initial scores are as follows: Joy: 1, Sadness: 4, Fear: 5, Disgust: 6, Surprise: 2. After further consideration, I will revise the scores to reflect the formal tone and the underlying emotions more accurately.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 5,
+        "fear": 6,
         "disgust": 7,
         "surprise": 1
     }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal statement clarifying the application of an Executive order. It addresses various inquiries regarding the order's impact on Federal officers holding other positions. The tone is informative and aims to provide clear guidance. There is no strong emotion conveyed, but a sense of relief and clarity might be felt by those affected by the order. Therefore, I will assign low scores to all emotions, with a slightly higher score for joy due to the clarification provided.",
+    "critique": "The document is a formal statement clarifying the application of an executive order. It addresses inquiries about holding state or municipal offices by federal employees. The language is precise and legalistic, aiming for clarity and avoiding emotional expression. Therefore, the scores for all emotions should be low, reflecting the document's neutral tone.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

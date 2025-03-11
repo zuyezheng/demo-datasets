@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 3,
         "sadness": 2,
-        "fear": 3,
-        "disgust": 3,
-        "surprise": 4
-    },
-    "critique": "The document is a formal executive order. It emphasizes religious freedom and protection from discrimination. The language is legal and procedural, not designed to evoke strong emotions. However, it could be interpreted as conveying a sense of joy to those who value religious freedom, and perhaps some fear or disgust from those who feel it could lead to discrimination against other groups. The order also expresses a sense of surprise that such protections are needed. The scores are based on how the American public might perceive the document's emotional tone, not necessarily the President's personal feelings.",
-    "revised_scores": {
-        "joy": 7,
-        "sadness": 1,
         "fear": 2,
-        "disgust": 2,
-        "surprise": 3
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding religious freedom. It expresses a commitment to protecting religious liberty and ensuring that the executive branch respects religious and political speech. The overall tone is serious and determined, but not necessarily joyful or sad. There's a slight undercurrent of concern about potential infringements on religious freedom, but it's not overtly fearful or angry. Surprise is not a prominent emotion. Disgust is not present.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
     }
 }

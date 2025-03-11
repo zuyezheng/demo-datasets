@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 4,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal declaration designating Afghanistan as a combat zone. It uses formal and legal language. There is no explicit expression of emotion. However, the context implies a sense of sadness and perhaps fear due to the ongoing conflict. The designation of a combat zone inherently carries negative connotations. The scores are assigned based on this interpretation, with sadness and fear being the most prominent emotions, and other emotions being minimal.",
+    "critique": "The document is a formal declaration by the President regarding the designation of Afghanistan as a combat zone. It invokes constitutional and legal authority, specifically referencing section 112 of the Internal Revenue Code. The language is precise and legalistic, devoid of overt emotional expression. While the subject matter involves combat, the document itself maintains a neutral tone, focusing on the legal and administrative aspects of the designation. Therefore, the initial scores should reflect this neutrality, with low values across all emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 4,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

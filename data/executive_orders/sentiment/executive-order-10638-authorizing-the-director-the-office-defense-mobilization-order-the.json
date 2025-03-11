@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 6,
+        "sadness": 3,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document expresses a serious and urgent tone due to the context of a potential enemy attack. It aims to convey a sense of preparedness and resolve rather than specific emotions. The primary emotion conveyed would likely be fear, but in a controlled and authoritative manner. Surprise is unlikely, as the document anticipates a potential event. Joy is completely absent, and sadness would be inappropriate in this context. Disgust is also not relevant. The scores should reflect a moderate level of fear, and low levels of the other emotions.",
+    "critique": "The document is a formal declaration regarding the release of strategic materials in the event of an enemy attack. It conveys a sense of urgency and preparedness, but avoids strong emotional language. The primary emotion is fear, related to a potential attack, but it's presented in a controlled, official manner. There's a hint of sadness related to the potential for an attack. There is no surprise, disgust, or joy.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 6,
+        "sadness": 3,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

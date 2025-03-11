@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 1
     },
-    "critique": "The president is conveying a sense of joy and surprise by exempting John W. Mays from compulsory retirement for age for a period of one year. The president is not conveying a sense of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal exemption from compulsory retirement. It expresses no strong emotions. The language is neutral and legalistic. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 6
+        "surprise": 1
     }
 }

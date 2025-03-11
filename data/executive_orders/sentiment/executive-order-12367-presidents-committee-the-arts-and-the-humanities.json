@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the President's Committee on the Arts and the Humanities. It outlines the committee's composition, functions, administration, and general provisions. The language is formal and legalistic, with no overt expression of emotion. However, the act of establishing such a committee could be interpreted as conveying a sense of joy or hope related to supporting the arts and humanities. A low score is appropriate because the document is primarily informational and procedural.",
+    "critique": "The document is a formal executive order establishing the President's Committee on the Arts and the Humanities. It outlines the committee's composition, functions, administration, and general provisions. The language is formal and legalistic, with no overt expression of emotions. Therefore, the initial scores for all emotions are set to 1, indicating a minimal presence.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

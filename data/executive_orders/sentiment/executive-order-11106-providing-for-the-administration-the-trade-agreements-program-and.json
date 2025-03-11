@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order amending a previous executive order related to trade agreements. It is a formal and legal document. The language is precise and technical. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order amending a previous executive order related to trade agreements. The language is legal and administrative, with no explicit emotional expression. Therefore, all emotions should be scored low, with a baseline of 1 to indicate the presence of the document itself.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

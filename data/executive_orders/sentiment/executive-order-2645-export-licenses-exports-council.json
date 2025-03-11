@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding export administration during a time of potential conflict (1917). The language is legalistic and \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995, with the purpose of delegating authority and establishing a council. There is no explicit expression of emotion. However, the context suggests underlying concerns about national security and economic stability, which might evoke a sense of seriousness or caution. The emotions that the American public is expected to feel are likely to be low across the board, as the document is primarily administrative. The initial scores reflect this, with slightly elevated scores for fear and surprise due to the context of the act mentioned.",
+    "critique": "The document is a formal executive order regarding export licenses and the administration of related instructions. It establishes an Exports Council and outlines the responsibilities of the Secretary of Commerce. The language is formal and legalistic, with no explicit emotional expression. Therefore, the scores should be low across all emotions, with a baseline of 1 where there is not enough information.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

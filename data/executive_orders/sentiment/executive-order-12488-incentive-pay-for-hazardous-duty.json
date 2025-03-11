@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order amending a previous order regarding incentive pay for hazardous duty. It defines the scope of hazardous duty related to toxic fuels and propellants. The language is formal and legalistic. There is no explicit expression of emotion. However, the document implicitly addresses potential fear and disgust associated with handling toxic materials, but it does so in a detached, regulatory manner. The overall tone is neutral and administrative.",
+    "critique": "The document is an amendment to an executive order regarding incentive pay for hazardous duty. It defines the scope of hazardous duty related to handling toxic fuels and propellants in aircraft and missile systems. The language is formal and technical, with no explicit emotional expression. However, the subject matter implies a concern for the safety and well-being of personnel involved in these hazardous duties. Therefore, a low level of concern/sadness is appropriate. There is no indication of joy, anger, fear, disgust, or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

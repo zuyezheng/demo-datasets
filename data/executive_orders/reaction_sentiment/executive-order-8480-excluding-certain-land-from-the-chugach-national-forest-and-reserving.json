@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order regarding land in Alaska. The primary goal seems to be logistical - setting aside land for townsite purposes related to railroad construction. There isn't a strong emotional component to the document. The tone is formal and legalistic. Therefore, I would expect low scores for all emotions. I will revise the surprise score to be slightly higher as the audience may not have expected this order.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

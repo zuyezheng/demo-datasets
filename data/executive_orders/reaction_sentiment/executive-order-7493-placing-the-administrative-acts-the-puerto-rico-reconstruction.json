@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 3,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 4,
+        "surprise": 3
+    },
+    "critique": "The document is an executive order regarding the administration of Puerto Rico. The tone is formal and authoritative. The primary goal is to establish control and supervision, not to elicit specific emotions. However, some emotions can be inferred. Joy: The order aims to improve the situation in Puerto Rico, which could lead to joy, but this is not explicitly stated. Score: 3. Sadness: The order implies that the previous administration was not satisfactory, which could cause sadness. Score: 2. Fear: The order could cause fear in those who are losing power or control. Score: 3. Disgust: The order suggests disapproval of the previous administration's actions. Score: 4. Surprise: The order might be unexpected, leading to surprise. Score: 3.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 3,
+        "surprise": 1
+    }
+}

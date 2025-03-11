@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 4
     },
-    "critique": "The document is a formal order directing the Coast Guard to operate as part of the Navy. It is a legal and administrative document, and the language is formal and objective. There is no explicit or implicit emotional content in the document. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal order directing the Coast Guard to operate as part of the Navy. The language is legal and administrative, with no explicit emotional expression. The order is being given during World War II, so the implicit emotions are fear and sadness. The order is surprising, so there is a surprise element as well.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 4
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the Great Lakes Basin Commission. The language is formal and bureaucratic. There is no strong indication of any particular emotion being conveyed. The most relevant emotion might be a mild sense of surprise that the Department of State was not already included, but even that is a stretch. Therefore, I will assign low scores across the board, with a slightly higher score for surprise.",
+    "critique": "The document is a formal executive order regarding the Great Lakes Basin Commission. The primary goal is to ensure effective coordination among various entities, including the US and Canada, for the conservation and use of water and land resources. The language is formal and bureaucratic, with no explicit emotional expression. However, a very slight sense of joy might be inferred from the positive intention of enhancing the commission's work. There is no indication of sadness, fear, disgust, or surprise. Therefore, I will assign low scores to all emotions, with a slightly higher score for joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

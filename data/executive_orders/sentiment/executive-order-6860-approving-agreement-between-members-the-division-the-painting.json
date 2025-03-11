@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal approval of an agreement within the construction industry. The language is legal and administrative, with no explicit emotional expression. The likely emotions conveyed would be related to a sense of order, progress, or perhaps relief that an agreement has been reached. However, the intensity of these emotions is likely to be quite low, as the document is primarily informational. The initial scores reflect this, with low values across all emotions. Upon review, I still believe the emotional content is minimal, but I will adjust the 'joy' score slightly upwards to reflect the potential positive impact of the agreement.",
+    "critique": "The document is a formal approval of an agreement within the construction industry. The language is legal and administrative, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions, with a baseline of 1 to indicate minimal presence due to the formal nature of the document.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

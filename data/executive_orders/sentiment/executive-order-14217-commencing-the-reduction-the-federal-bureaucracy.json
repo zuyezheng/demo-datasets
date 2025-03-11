@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document primarily conveys a sense of determination and resolve to reduce the size of the Federal Government. While not explicitly joyful, the order suggests a positive outcome of increased accountability and reduced waste, which could be interpreted as a subtle expression of joy or optimism. There's no indication of sadness, anger, fear, or surprise. The language is formal and authoritative, aiming to inspire confidence in the President's actions.",
+    "critique": "The document is a formal executive order. It expresses a determined and decisive tone, but avoids overt emotional displays. The primary emotion conveyed is a sense of purpose and resolve in reducing the size of the Federal Government. There's a hint of dissatisfaction with the current state, but it's presented in a factual, non-emotional way. Therefore, I will assign low scores to all emotions except for a slightly higher score for determination, which I will represent as a low level of anger/disgust towards government waste.",
     "revised_scores": {
-        "joy": 4,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

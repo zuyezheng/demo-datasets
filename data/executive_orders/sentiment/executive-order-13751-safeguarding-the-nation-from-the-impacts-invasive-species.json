@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 3
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 1
     },
-    "critique": "The document is an executive order regarding invasive species. It is a formal and legal document. The primary emotions conveyed are concern and determination to address the issue of invasive species. There is a sense of urgency and importance, but no strong emotions like joy, sadness, anger, fear, or disgust are explicitly expressed. The document aims to convey a sense of responsibility and action. The language is formal and objective, focusing on policy and implementation. Therefore, the initial scores will reflect low intensities for all emotions, with a slightly higher score for concern/surprise due to the emphasis on the negative impacts of invasive species.",
+    "critique": "The document is a formal executive order addressing the issue of invasive species. It primarily focuses on policy, definitions, agency duties, and the establishment and duties of the National Invasive Species Council. The language is formal and legalistic, aiming to establish clear guidelines and responsibilities. There is a sense of concern about the negative impacts of invasive species on various aspects of life, but this is presented in a factual and objective manner. There's no strong expression of any particular emotion, but a mild sense of concern and determination to address the issue.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 3
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 1
     }
 }

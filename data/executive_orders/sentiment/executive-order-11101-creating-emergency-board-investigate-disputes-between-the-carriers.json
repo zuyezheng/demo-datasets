@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order issued by President Kennedy to address a labor dispute in the railroad industry. The language is legalistic and procedural, focusing on the establishment of a board to investigate the disputes and prevent disruption to interstate commerce. There is no indication of an attempt to convey any particular emotion. The primary goal is to communicate the action being taken to resolve the dispute in a neutral and official manner. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It primarily conveys a sense of urgency and authority, with a focus on maintaining interstate commerce. There's a slight undercurrent of concern due to the potential disruption, but overall, the tone is neutral and official.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding the reauthorization and extension of the Export Administration Act. It revokes a previous executive order and clarifies the continued effect of rules and regulations. The language is formal and legalistic. There is no explicit expression of emotion. However, the rescinding of an economic emergency declaration could be interpreted as a sign of joy or relief, but this is very subtle. The public might feel a slight sense of relief or perhaps indifference, depending on their understanding of the issue. Given the technical nature of the document, the emotional response is likely to be minimal.",
+    "critique": "The document is a formal executive order. It primarily deals with legal and administrative matters, specifically the reauthorization and extension of the Export Administration Act. The language is formal and legalistic, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Upon review, the initial assessment seems accurate, and the revised scores will remain the same.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding the creation of a wildlife refuge. It primarily contains legal and geographical descriptions. There is no explicit emotional language used. The overall tone is formal and administrative. Therefore, the expected emotional response from the public would be minimal across all emotions. I will assign a baseline score of 1 for all emotions initially. Upon review, the act of creating a wildlife refuge might evoke a slight sense of joy or perhaps surprise in some, but the effect is likely to be minimal given the dry, legal tone. I will adjust the joy and surprise scores to 2 to reflect this possibility.",
+    "critique": "The document is a formal executive order establishing the Savannah River Wild Life Refuge. It primarily focuses on the legal description of the land being reserved and the regulations governing its use. There is a sense of purpose and authority in establishing the refuge and protecting wildlife, but the language is formal and legalistic. Therefore, emotions like joy, sadness, fear, disgust, and surprise are not explicitly conveyed. However, there might be a subtle undercurrent of positive sentiment related to conservation and preservation.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

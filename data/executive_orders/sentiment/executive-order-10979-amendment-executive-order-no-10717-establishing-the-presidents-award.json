@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order amending a previous order regarding awards for federal employees. It outlines the criteria for the President's Award for Distinguished Federal Civilian Service. The language is formal and bureaucratic. There is no explicit expression of emotion. However, the act of establishing and refining awards could be interpreted as conveying a sense of joy or appreciation for government employees, but this is very subtle. The document does not convey sadness, anger, fear, disgust, or surprise. Based on this, the initial scores are joy: 3, and all other emotions: 1. After further consideration, the joy score is likely too high. The document is primarily administrative and doesn't strongly convey any particular emotion. Therefore, the revised score for joy should be 2.",
+    "critique": "The document is a formal executive order amending a previous order regarding the President's Award for Distinguished Federal Civilian Service. The language is formal and bureaucratic. There is a sense of pride and importance associated with the award, but no strong emotions are explicitly conveyed. Therefore, most scores should be low.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

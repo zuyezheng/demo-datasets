@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the withdrawal of public lands in Alaska from settlement, location, sale, or entry. The language is legal and administrative, with no explicit emotional expression. The order aims to preserve the land for classification and potential legislation. Therefore, the expected emotional response from the American public would likely be minimal, with low scores across all emotions. The withdrawal might evoke slight sadness in those who wanted to settle the land, and slight surprise in those affected by it, but overall, the emotional impact is expected to be low.",
+    "critique": "The document is a formal executive order regarding land withdrawal in Alaska. It's a legal document, so the primary emotions conveyed are neutral. There is no explicit expression of joy, sadness, fear, disgust, or surprise. The document aims to be objective and factual. Therefore, the initial scores for all emotions should be low, close to 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

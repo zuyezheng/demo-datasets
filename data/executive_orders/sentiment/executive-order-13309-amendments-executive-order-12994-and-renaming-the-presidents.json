@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily reflects a change in terminology and expansion of a committee. There is no strong indication of emotions like joy, sadness, anger, fear, disgust, or surprise. The primary sentiment is neutral, reflecting an administrative update. Therefore, the initial scores should be low across all emotions. After further consideration, the document seems to convey a slight sense of positive sentiment due to the change in terminology to be more inclusive.",
+    "critique": "The document is a formal executive order. It primarily focuses on renaming a committee and expanding its membership. The language is very formal and legalistic. There is a mild sense of joy that could be inferred from the positive change for people with intellectual disabilities, but it is not explicitly stated. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 3,
-        "fear": 2,
-        "disgust": 7,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document expresses anger and disgust towards the previous administration's policies, particularly regarding diversity, equity, and inclusion (DEI), border security, and climate change. It aims to convey a sense of joy and hope by promising to restore common sense and unleash the potential of the American citizen. However, the primary emotions conveyed are anger and disgust at the previous administration's actions, with a secondary aim to inspire joy and hope for the future. There is little to no indication of fear or surprise.",
+    "critique": "The document expresses anger and disgust towards the previous administration's policies, particularly regarding diversity, equity, and inclusion (DEI), border security, and climate change. It conveys a sense of joy and hope in restoring common sense and unleashing the potential of the American citizen. There is a sense of fear regarding the perceived dangers of the previous administration's policies. Surprise is minimal, as the document primarily focuses on reversing existing policies rather than introducing unexpected changes. I will revise the scores to reflect these observations.",
     "revised_scores": {
-        "joy": 7,
-        "sadness": 2,
-        "fear": 1,
-        "disgust": 8,
-        "surprise": 1
+        "joy": 6,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 7,
+        "surprise": 2
     }
 }

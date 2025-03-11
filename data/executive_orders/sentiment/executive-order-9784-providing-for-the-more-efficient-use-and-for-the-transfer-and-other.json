@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the management and disposition of government records. It aims to ensure efficient internal management and proper handling of records. The language is formal and legalistic, focusing on procedures and responsibilities. There is no indication of any strong emotion being conveyed. The primary goal is to establish a clear framework for managing government records, not to evoke any particular emotional response from the public. Therefore, all emotions are scored low.",
+    "critique": "The document is a formal executive order regarding the management and disposition of government records. It aims to ensure efficient internal management and proper handling of records. The language is formal and legalistic, with no explicit emotional expression. However, there might be a subtle sense of joy in promoting efficiency and better governance, and a mild sense of disgust towards inefficiency or mismanagement. There is no indication of fear, sadness, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

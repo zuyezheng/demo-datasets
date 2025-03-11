@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to improve the efficiency and coordination of Federal policies related to personal fitness. The language is formal and bureaucratic, and the tone is neutral. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It aims to improve the efficiency and coordination of Federal policies related to personal fitness of the general public. The language is formal and legalistic. There is no strong emotion conveyed. The document expresses a neutral tone with a slight emphasis on the importance of personal fitness. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy due to the positive nature of promoting personal fitness.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding relations with Taiwan. It primarily focuses on legal and administrative procedures following the recognition of the People's Republic of China. The language is formal and legalistic, with no explicit emotional expression. Therefore, the expected emotional response from the American public would likely be neutral. However, some people might feel fear, sadness, surprise, disgust, or joy depending on their political views. The initial scores reflect a baseline of 1 for all emotions, with slight increases for surprise, fear, and joy to account for potential reactions to the policy changes. The revised scores are similar, but with a slight decrease in surprise and fear, and a slight increase in sadness, reflecting a more nuanced understanding of the document's likely impact.",
+    "critique": "The document is a formal presidential order regarding relations with Taiwan. It primarily focuses on legal and administrative procedures following the recognition of the People's Republic of China. The language is formal and legalistic, with no explicit emotional expression. Therefore, the scores for all emotions should be low. Considering the formal nature, a baseline of 1 is appropriate for emotions not explicitly present.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

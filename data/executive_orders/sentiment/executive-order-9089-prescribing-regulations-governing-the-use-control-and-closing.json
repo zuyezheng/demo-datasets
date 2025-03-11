@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 4,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order related to the control of wire communications during World War II. The primary emotion conveyed is a sense of seriousness and determination related to national security during wartime. There might be a subtle undercurrent of fear related to the war, but it's not explicitly stated. There's no indication of joy, disgust, or surprise. The order aims to reassure the public that actions will be taken responsibly and only when essential. The language is formal and legalistic, which further emphasizes the seriousness of the situation.",
+    "critique": "The document is a formal executive order issued during World War II. It outlines the President's decision to control wire communication facilities for national security. The primary emotion conveyed is a sense of urgency and determination to ensure national security during wartime. There is a hint of fear due to the ongoing war, but it is largely overshadowed by the need for control and order. There's no explicit expression of joy, sadness, or disgust. Surprise is also not a prominent emotion.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     }

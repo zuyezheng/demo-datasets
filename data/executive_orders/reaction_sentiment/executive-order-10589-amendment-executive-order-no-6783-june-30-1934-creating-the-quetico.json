@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal announcement of appointments to a committee. The tone is official and administrative. The primary emotion the President wants to elicit is confidence and stability in governance. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. The scores should reflect this neutrality, with low values for all emotions. The initial scores are all set to 1, reflecting the lack of emotional content. Upon review, I still believe the emotional content is minimal, so the revised scores will remain the same.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

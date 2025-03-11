@@ -2,14 +2,14 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It establishes an office and defines its duties related to national defense. The language is formal and bureaucratic. There is no explicit expression of emotion. However, the context of national defense during a declared national emergency might evoke a sense of fear or concern in the public. The establishment of an office to manage defense aid could also be seen as a positive step, potentially evoking a sense of hope or relief, but this is less direct. Considering the lack of emotional language, the scores should be low, but with a slight emphasis on fear due to the context.",
+    "critique": "The document is a formal executive order. It primarily aims to establish an office and define its functions related to national defense. The language is formal and legalistic, with no explicit emotional expression. However, the context of national emergency and defense implies a sense of urgency and concern. Considering the formal tone, the emotional scores should be relatively low, but not at the absolute minimum due to the underlying context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 3,
         "disgust": 1,
         "surprise": 1

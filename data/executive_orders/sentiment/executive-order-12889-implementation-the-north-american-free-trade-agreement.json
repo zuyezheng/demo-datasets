@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the North American Free Trade Agreement (NAFTA). It outlines the establishment of a US section of the NAFTA Secretariat, acceptance of panel decisions, implementation of safeguard provisions, publication of proposed rules, and government procurement procedures. The language is legal and procedural, with no overt expression of emotion. Therefore, the expected emotional response from the American public would be minimal across all emotions. Most of the public would likely not have a strong reaction to this document. The scores should be very low, close to 1, for all emotions.",
+    "critique": "The document is a formal executive order regarding the North American Free Trade Agreement (NAFTA). It primarily focuses on establishing structures and procedures for implementing the agreement. The language is legal and procedural, lacking strong emotional expression. Therefore, most emotions should be scored low. There might be a slight sense of joy or optimism related to the implementation of a trade agreement, but it's very subtle. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

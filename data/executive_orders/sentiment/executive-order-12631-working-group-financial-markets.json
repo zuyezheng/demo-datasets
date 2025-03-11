@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a working group on financial markets. It aims to project an image of competence, stability, and proactive governance. There's no strong indication of any specific emotion like joy, sadness, anger, fear, disgust, or surprise. The language is formal and neutral, intended to convey authority and seriousness. Therefore, all emotions are scored low initially.",
+    "critique": "The document is a formal executive order establishing a working group on financial markets. It aims to ensure the integrity, efficiency, and competitiveness of financial markets. The language is formal and legalistic, with no strong emotional expression. Therefore, the scores for all emotions should be relatively low. Joy is minimal as it's a formal document. Sadness is not present. Fear is low, related to potential financial instability, but not explicitly stated. Disgust is not present. Surprise is not present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

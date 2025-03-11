@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order amending previous orders related to military benefits. It primarily deals with administrative and legal matters. There is no indication of emotions like joy, sadness, anger, fear, disgust, or surprise being conveyed. The language is formal and factual, aimed at clarity and legal precision rather than emotional expression. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal amendment to an executive order regarding benefits for military personnel. The language is legal and administrative, with no explicit emotional expression. Therefore, all emotions should be scored low, with a default score of 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

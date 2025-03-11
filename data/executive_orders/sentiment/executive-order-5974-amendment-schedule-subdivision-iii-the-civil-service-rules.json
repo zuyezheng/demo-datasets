@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment regarding excepted positions under the Treasury Department. It mentions adding employees at psittacosis investigation stations to a list of other disease-related positions. The language is formal and factual, and the content is administrative. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal amendment to a schedule of excepted positions under the Treasury Department. It concerns the inclusion of employees at psittacosis investigation stations alongside those at leprosy, Rocky Mountain spotted fever, and yellow fever investigation stations. The language is formal and bureaucratic. There is no explicit emotional content. However, the mention of diseases like leprosy, Rocky Mountain spotted fever, yellow fever, and psittacosis might implicitly evoke a sense of fear or concern. Given the formal nature, the emotional intensity is likely low. Therefore, I will assign low scores across all emotions, with a slightly higher score for fear due to the mention of diseases.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

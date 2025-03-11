@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order designating customs ports of entry. It's primarily informational and procedural, lacking strong emotional cues. The language is neutral and factual. Therefore, all emotions should be scored low initially. Upon further reflection, the act of designating ports could be seen as a positive development for those regions, suggesting a slight degree of joy or optimism. However, this is a very subtle undertone.",
+    "critique": "The document is a formal executive order designating and modifying customs ports of entry. The language is legal and administrative, with no inherent emotional expression. Therefore, all emotions should be scored very low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

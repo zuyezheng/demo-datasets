@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 4,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the handling of remains in cemeteries in the Panama Canal Zone. It primarily deals with logistics, legal obligations, and respect for the wishes of the deceased's families. There is a somber tone due to the subject matter (death and burial), but the overall sentiment is neutral and administrative. It aims to ensure proper handling of remains and compliance with treaties and family wishes. Therefore, the initial scores should reflect low levels of all emotions, with a slight emphasis on sadness due to the inherent nature of dealing with deceased individuals.",
+    "critique": "The document is a formal executive order regarding the relocation of remains from cemeteries in the Canal Zone. It primarily deals with logistics, legal obligations, and respect for the wishes of the deceased's families. There is a somber tone due to the subject matter, but the overall emotional intensity is relatively low. Therefore, joy is 1, sadness is 4, fear is 1, disgust is 1, and surprise is 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 4,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

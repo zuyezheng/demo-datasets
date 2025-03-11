@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. The language is legalistic and neutral in tone. There is no indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored as 1 initially. After further consideration, the document aims to convey a sense of control and authority in resolving a dispute that threatens interstate commerce. While not explicitly stated, there's an underlying sense of responsibility and perhaps a hint of concern (fear) about the potential disruption. However, these are subtle, so I will adjust the fear score to 2 to reflect this.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses concern about potential disruption to interstate commerce and establishes a board to investigate the dispute. The language is formal and legalistic. Initial scores: Joy: 1 (no joy conveyed), Sadness: 2 (slight concern), Fear: 3 (concern about disruption), Disgust: 1 (no disgust conveyed), Surprise: 1 (no surprise conveyed). Revised scores: Joy: 1, Sadness: 2, Fear: 3, Disgust: 1, Surprise: 1",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

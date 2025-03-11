@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding White House Fellowships. It amends a previous order to allow for flexibility in determining the length of the fellowships. There is no expression of emotion in the document. The language is formal and legalistic. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order. It amends a previous order regarding the length of White House Fellowships. The language is legal and administrative, with no explicit emotional expression. Therefore, all emotions should be scored low, with a baseline of 1 due to the formal nature of the document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

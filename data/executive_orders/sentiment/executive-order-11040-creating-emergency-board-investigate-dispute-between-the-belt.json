@@ -2,11 +2,11 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding a labor dispute and the creation of a board to investigate it. The language is legal and procedural, with no explicit emotional expression. However, the situation implies a potential threat to interstate commerce and essential transportation, which could evoke a sense of concern or unease. Disgust: The document does not convey disgust. Score 1. Fear: The document mentions a threat to interstate commerce, which might cause some fear. Score 3. Joy: The document does not convey joy. Score 1. Sadness: The document does not convey sadness. Score 1. Surprise: The document does not convey surprise. Score 1.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses a sense of urgency and authority, but avoids strong emotional language. The primary emotion conveyed, albeit subtly, is concern (leading to a low fear score) that the dispute could disrupt essential transportation services. There's also a hint of determination to resolve the issue, but this is more about the action being taken than an expression of joy. Sadness, disgust, and surprise are not evident in the text. The initial scores reflect this assessment, with slight revisions to better capture the nuances.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 5,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
+    },
+    "critique": "The document is a simple land withdrawal for addition to the Salt River Indian Reservation. The tone is formal and legalistic. The primary emotion the President might want to elicit is a sense of satisfaction or perhaps mild joy from those who support the reservation, and perhaps mild surprise from those who didn't expect it. There's little to suggest strong emotions like anger, fear, disgust, or intense sadness. The language is neutral and doesn't aim to evoke strong feelings. The critique is that the initial scores might be too high for joy and surprise, and should be very low for the other emotions.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

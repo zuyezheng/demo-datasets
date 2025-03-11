@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 3,
+        "fear": 5,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The document is an executive order regarding banking regulations during a financial crisis. It aims to restore confidence and stability in the banking system. The primary emotion conveyed is a sense of control and reassurance, with a hint of urgency. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise, but the order implicitly addresses public fear and concern about the banking system. The order attempts to convey a sense of calm and resolve, suggesting a low level of negative emotions and a moderate level of reassurance.",
+    "critique": "The document is a formal executive order regarding banking regulations during a financial crisis. It primarily conveys a sense of urgency and control, with an underlying tone of concern for the stability of the financial system. There is no explicit expression of joy. Sadness might be inferred from the context of a crisis, but it is not directly stated. Fear is present as the order aims to prevent further economic instability. Disgust is not applicable. Surprise is not a primary emotion, as the order is a planned response to a known situation.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 3,
+        "fear": 5,
         "disgust": 1,
         "surprise": 2
     }

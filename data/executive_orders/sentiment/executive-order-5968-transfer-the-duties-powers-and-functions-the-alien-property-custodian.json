@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding the transfer of activities, powers, and duties of the Alien Property Custodian to the Department of Justice. The language is legal and administrative, lacking strong emotional cues. The primary goal appears to be efficiency and consolidation of government functions. Therefore, the expected emotional response from the public would likely be minimal. Considering the content, context, and language, the initial scores are as follows:\n\nJoy: 1 (The document is not intended to evoke joy.)\nSadness: 1 (The document is not intended to evoke sadness.)\nFear: 1 (The document is not intended to evoke fear.)\nDisgust: 1 (The document is not intended to evoke disgust.)\nSurprise: 1 (The document is not particularly surprising.)",
+    "critique": "The document is a formal executive order regarding the transfer of activities, powers, and duties of the Alien Property Custodian to the Department of Justice. The language is legal and administrative, with no explicit emotional expression. However, the underlying intent to increase efficiency and reduce expenditures could be interpreted as a positive move (joy), while the need for such measures might imply a previous state of inefficiency (sadness). The transfer of power could also be seen as a surprise to those affected. Given the formal nature, the emotional intensity is likely low.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

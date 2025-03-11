@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation. It revokes the establishment of the Tulerosa Valley as an Indian reservation and restores the land to the public domain. The language is formal and legalistic, devoid of explicit emotional expression. However, the action itself could be interpreted as conveying certain emotions depending on one's perspective. For example, those who support the revocation might feel joy or relief, while those who oppose it might feel sadness, anger, or fear. However, since I am asked to score the sentiment the President is conveying, and the document itself is neutral, I will assign low scores across all emotions. There is not enough information to assign a score higher than 1.",
+    "critique": "The document is a formal executive order regarding land allocation. It revokes the establishment of the Tulerosa Valley as an Indian reservation and restores the land to the public domain. The language is formal and direct, with no explicit emotional expression. However, the act of revoking a reservation could implicitly convey sadness or anger to those negatively affected, and perhaps joy or satisfaction to others. Given the formal nature and lack of explicit emotional cues, the scores should be low, with a slight lean towards sadness due to the revocation of the reservation. Surprise, fear, and disgust are not relevant in this context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is an executive order regarding civil service appointments during the national-defense program. It does not express any particular emotion. The language is formal and legalistic. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of urgency and determination related to national defense. There is a mild sense of concern (fear) due to the mention of 'public exigency' and 'national-defense program,' but overall, the emotions are quite muted. The initial scores reflect this, with slight adjustments made in the revised scores to better capture the subtle nuances.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

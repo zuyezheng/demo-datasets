@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The president is conveying a sense of joy and surprise with the creation of the Kentucky Woodlands Wildlife Refuge. The intensity of these emotions is relatively low, as the document is a formal order. The president is not conveying any sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal declaration establishing a wildlife refuge. It expresses no strong emotions. A baseline level of joy might be present due to the creation of a refuge, but it's minimal. There's no indication of sadness, anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

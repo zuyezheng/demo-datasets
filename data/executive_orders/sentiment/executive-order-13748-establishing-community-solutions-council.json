@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 4,
         "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is an executive order. It aims to address challenges in communities and improve the effectiveness of federal assistance. The language is formal and policy-oriented. The primary emotion conveyed is hope and determination to improve the lives of Americans. There's a hint of sadness acknowledging the current state of persistent poverty. There is no indication of anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order. It expresses a desire to improve communities and opportunities for citizens. There is a sense of hope and optimism, but it is tempered by the formal and procedural nature of the document. Therefore, joy and surprise should be relatively low. There is an acknowledgement of existing problems, which introduces a degree of sadness. There isn't any explicit anger, fear, or disgust conveyed.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 4,
         "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

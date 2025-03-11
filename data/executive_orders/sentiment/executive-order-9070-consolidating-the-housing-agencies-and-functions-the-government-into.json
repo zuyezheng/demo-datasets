@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order consolidating housing agencies during wartime. It is primarily administrative and legal in nature, with no explicit emotional appeals. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order consolidating housing agencies during wartime. The primary emotion conveyed is a sense of urgency and determination to streamline housing efforts for national defense. There's no explicit expression of joy, sadness, fear, disgust, or surprise. The language is formal and legalistic, aiming for clarity and efficiency rather than emotional impact. Therefore, most emotions should be scored low, with a slight emphasis on the seriousness of the situation.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

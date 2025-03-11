@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the transfer of functions from the Veterans' Administration to the Civil Service Commission. It is primarily administrative and legal in nature, with no strong emotional sentiment conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the transfer of functions from the Veterans' Administration to the Civil Service Commission. It is primarily concerned with legal and administrative matters. Therefore, the emotions conveyed are minimal. There is a slight sense of satisfaction or joy that the reorganization is in the public interest. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an amendment to an executive order. It lists the members of a commission. There is no emotional language in the document. Therefore, the scores for all emotions should be low. I will start with initial scores of 1 for all emotions, indicating a very low intensity.",
+    "critique": "The document is a formal amendment to an executive order. It lists the members of a commission. There is no emotional language in the document. Therefore, the initial scores should be low for all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

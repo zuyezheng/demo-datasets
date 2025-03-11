@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the relinquishment of possession of a shipbuilding plant. The language is formal and legalistic, with no strong emotional cues. The primary goal is to communicate a change in operational control, not to evoke a specific emotion. Therefore, all emotions should be scored low initially. After a second thought, since the order is related to national defense during a time of war, there might be a slight sense of relief or cautious optimism, but it's still very subtle.",
+    "critique": "The document is a formal executive order regarding the relinquishment of possession of a shipbuilding plant. The language is formal and legalistic. There is no strong indication of any particular emotion. A baseline level of formality is present, but no strong emotions are conveyed. Therefore, the initial scores are set to 1 for all emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a simple executive order that revokes one order and restores two others. The language is formal and direct, with no emotional cues. As the President, the primary goal is efficiency and clarity, not to elicit specific emotions. Therefore, all emotions should be scored low initially. Upon review, the scores remain low as the document's purpose is purely administrative and lacks any emotional intent.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

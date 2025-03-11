@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the exemption of Edgar M. Cohee from compulsory retirement. It does not express any strong emotions. The primary emotion might be a slight surprise or perhaps joy that someone is being allowed to continue working, but these would be very mild. The other emotions are not relevant.",
+    "critique": "The document is a formal order from the President regarding the retirement of Edgar M. Cohee. It mainly conveys a sense of formality and adherence to legal procedures. There is no strong indication of joy, sadness, fear, disgust, or surprise. The primary emotion is neutral, but there might be a slight sense of formality and respect for the individual being exempted. Therefore, I will assign low scores to all emotions except for surprise, which I will set to 1 due to lack of information.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

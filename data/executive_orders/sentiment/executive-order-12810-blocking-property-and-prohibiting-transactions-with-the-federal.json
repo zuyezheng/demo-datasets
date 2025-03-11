@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 4,
-        "disgust": 3,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 4,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order imposing sanctions on the Federal Republic of Yugoslavia (Serbia and Montenegro). The language is legalistic and devoid of emotional expression. The primary emotion conveyed, if any, is a sense of seriousness and resolve in addressing a national emergency. There is a slight indication of fear due to the mention of a national emergency. There is no indication of joy, sadness, or surprise. Disgust may be present due to the actions and policies that led to the order, but it is not explicitly stated.",
+    "critique": "The document is a formal executive order imposing sanctions on the Federal Republic of Yugoslavia (Serbia and Montenegro). The primary emotion conveyed is a sense of seriousness and resolve in addressing a national emergency. There's an element of disapproval or disgust towards the actions and policies of the targeted government, but it's expressed through formal restrictions and prohibitions rather than explicit emotional language. There is a hint of fear for national security. There is no explicit joy or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 5,
-        "disgust": 4,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 5,
         "surprise": 1
     }
 }

@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding passport issuance to residents of Insular Possessions. It primarily conveys information and lacks strong emotional sentiment. Therefore, all emotions should be scored low. Initial scores: Joy: 1, Sadness: 1, Anger: 1, Fear: 1, Disgust: 1, Surprise: 1. Revised scores: Joy: 1, Sadness: 1, Anger: 1, Fear: 1, Disgust: 1, Surprise: 1.",
+    "critique": "The document is a formal announcement regarding passport issuance to residents of Insular Possessions. It primarily conveys information and instructions. There's no strong indication of emotions like joy, sadness, fear, disgust, or surprise. The language is neutral and factual. Therefore, most emotions should be scored low, with a baseline of 1 where there isn't enough information to suggest otherwise.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

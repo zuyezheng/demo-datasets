@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 5,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal approval of an agreement related to the National Industrial Recovery Act. The language is legalistic and bureaucratic. There is no strong indication of any particular emotion being conveyed. The president is simply enacting policy. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal approval of an agreement related to the National Industrial Recovery Act. The language is legal and administrative, with no explicit emotional expression. However, implicit emotions can be inferred. Joy might be present due to the successful agreement and its potential positive impact. Sadness, fear, and disgust are unlikely to be conveyed. Surprise is also unlikely, as the document represents a planned action. Based on this, the initial scores are assigned, and then revised to reflect the subtle presence of joy and the absence of other emotions.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 5,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

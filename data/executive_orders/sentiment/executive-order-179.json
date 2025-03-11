@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 5,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order excusing government employees from duty to participate in a Peace Jubilee. The language is neutral and formal, with no explicit emotional expression. However, the context of a Peace Jubilee suggests a positive sentiment, leaning towards joy and perhaps a lack of sadness, fear, disgust, and surprise. The order itself doesn't convey strong emotions, so the scores should be relatively low, but joy should be slightly elevated due to the nature of the event being celebrated.",
+    "critique": "The document is a formal order excusing government employees from duty to participate in a Peace Jubilee. The primary emotion conveyed is joy, as it is a celebration. There is no indication of sadness, anger, fear, disgust, or surprise. The intensity of joy is moderate, as it is a formal announcement.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 5,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

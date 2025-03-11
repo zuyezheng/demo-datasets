@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal designation of an acting judge. It doesn't express any particular emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal designation of an acting judge. It expresses no strong emotions. The presence of the words 'illness' and 'disability' might suggest a hint of sadness, but it is very mild. Surprise, disgust, fear, and joy are not present.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

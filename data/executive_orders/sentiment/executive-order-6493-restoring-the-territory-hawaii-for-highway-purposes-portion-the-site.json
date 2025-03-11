@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order regarding land transfer in Hawaii. It's a formal and technical document with no emotional language. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order regarding land transfer in Hawaii. It expresses a sense of progress and improvement due to the road widening project. However, the overall emotional intensity is low, as it's a legal and administrative document. Therefore, joy, surprise, and sadness should be scored low. There is no indication of fear, disgust, or anger.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

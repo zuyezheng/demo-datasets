@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 7,
+        "sadness": 4,
+        "fear": 5,
         "disgust": 6,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a national emergency related to Belarus. It outlines sanctions and restrictions. The primary emotion conveyed is a sense of seriousness and determination to address a threat. There's an element of disgust and perhaps anger towards the actions of the Belarusian regime, but these are not explicitly stated, but rather implied through the actions being taken. There is no element of joy or surprise. Fear is present as the document addresses a threat to national security and foreign policy. Sadness is present as the document addresses human rights violations.",
+    "critique": "The document expresses concern and determination regarding the situation in Belarus. It aims to convey a sense of seriousness and resolve in addressing the perceived threat. There is a sense of disgust and anger towards the actions of the Belarusian regime. There is also a sense of fear about the potential consequences of the regime's actions. There is no indication of joy or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 6,
-        "fear": 8,
+        "sadness": 5,
+        "fear": 6,
         "disgust": 7,
         "surprise": 1
     }

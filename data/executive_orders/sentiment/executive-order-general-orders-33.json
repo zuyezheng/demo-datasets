@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a military order, which is generally neutral in tone. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The language is formal and direct, focusing on the transfer of command. Therefore, all emotions should be scored low, with a default score of 1.",
+    "critique": "The document is a military order. It is a formal document. The document does not convey any emotion. Therefore, the scores for all emotions should be 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

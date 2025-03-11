@@ -6,11 +6,11 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the appointment and responsibilities of the Federal Coordinator of Transportation. The language is legal and administrative, with no strong emotional indicators. Therefore, the initial scores should be low across all emotions. Upon further reflection, while the document itself doesn't evoke strong emotions, the context of addressing an 'acute economic emergency' suggests a potential undercurrent of concern or seriousness. This might slightly elevate the 'sadness' and 'fear' scores, but they should still remain relatively low.",
+    "critique": "The document is a formal announcement regarding the appointment and responsibilities of the Federal Coordinator of Transportation. The language is legal and administrative, with little emotional expression. Therefore, the initial scores for all emotions are set to 1, indicating a neutral emotional tone. The revised scores remain the same, reflecting the document's objective and unemotional nature.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

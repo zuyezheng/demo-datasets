@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding economic stabilization during an emergency. It primarily focuses on maintaining the stability of the economy by controlling prices and wages. The language is formal and legalistic, with no explicit emotional expression. However, the order implicitly conveys a sense of concern about the economic situation and a determination to address it. Given the context of an 'emergency' and the measures taken to control the economy, the public might feel a sense of worry or unease, but also a sense of reassurance that the government is taking action. Therefore, I will assign low to moderate scores for fear and concern, and a slightly higher score for determination or resolve. There is no indication of joy, disgust, or surprise.",
+    "critique": "The document is a formal executive order regarding economic stabilization during an emergency. It primarily focuses on maintaining the stability of the economy through government controls and adjustments to price ceilings and wages. Given the formal and regulatory nature of the document, the emotions conveyed are minimal. There might be a slight sense of concern (fear) regarding the economic situation, but it's presented in a controlled, official manner. There is no explicit expression of joy, sadness, disgust, or surprise. The document aims to convey authority and control rather than emotional sentiment.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

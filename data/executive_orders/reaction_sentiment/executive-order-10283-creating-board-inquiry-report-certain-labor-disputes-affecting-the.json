@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order addressing labor disputes in the copper and non-ferrous metals industry. As the President, the primary goal is to resolve the disputes to ensure national health and safety. The tone is formal and authoritative. The emotions the President wants to elicit are a sense of calm and assurance that the situation is being handled. There is no explicit mention of joy, sadness, anger, fear, disgust, or surprise. However, the implicit emotions are: Joy (1) - minimal, as it's a formal document; Sadness (1) - minimal, though the disputes are unfortunate; Anger (1) - minimal, the tone is neutral; Fear (3) - some fear about the potential impact of the disputes on national health and safety; Disgust (1) - minimal, no explicit disgust; Surprise (1) - minimal, the situation is likely anticipated. Revised scores: Joy: 1, Sadness: 2, Anger: 1, Fear: 4, Disgust: 1, Surprise: 1",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

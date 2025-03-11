@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding a labor dispute and the creation of a board to investigate it. The language is neutral and legalistic, with no explicit emotional expression. Therefore, the expected emotional response from the public would be minimal across all emotions. The initial scores reflect this neutrality, with all emotions scored at 1. After further consideration, the initial scores accurately reflect the document's lack of emotional content, so the revised scores remain the same.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses a sense of urgency and authority, but avoids strong emotional language. Therefore, most emotions should be scored low. There might be a slight sense of concern or seriousness, which could translate to a mild increase in sadness and fear, but overall, the scores should remain minimal.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

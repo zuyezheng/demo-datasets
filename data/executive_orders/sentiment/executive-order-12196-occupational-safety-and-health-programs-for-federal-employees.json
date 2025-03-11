@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding occupational safety and health. It is a formal and legal document. The president is trying to convey a sense of responsibility and authority. There is no explicit attempt to portray joy, sadness, anger, fear, disgust, or surprise. However, the order aims to reduce unsafe working conditions, which could implicitly reduce fear and disgust related to workplace hazards. The order is more about ensuring safety and health, so the primary emotion conveyed would be a sense of responsibility and perhaps a subtle sense of care for the well-being of federal employees.",
+    "critique": "The document is a formal executive order regarding occupational safety and health in federal agencies. It primarily focuses on outlining responsibilities, procedures, and compliance measures. There is no strong emotional language used. Therefore, most emotions should be scored low. There might be a slight sense of joy in ensuring safety and well-being, but it's very subtle. There is no indication of surprise, fear, disgust, or sadness.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

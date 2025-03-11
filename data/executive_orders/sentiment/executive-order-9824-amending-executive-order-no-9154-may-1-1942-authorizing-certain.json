@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily concerns administrative matters related to consular agents and amendments to previous orders. There is no explicit expression of emotions such as joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, aimed at clarity and precision rather than emotional impact. Therefore, the initial scores for all emotions should be low, reflecting the lack of emotional content.",
+    "critique": "The document is a formal executive order amending a previous order. It concerns civil service retirement and the appointment of consular agents. The language is legal and administrative, with no explicit emotional expression. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication of the emotion being conveyed. There is no indication of joy, sadness, fear, disgust, or surprise. The document is purely administrative.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

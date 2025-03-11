@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 2,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the exemption of a government employee from mandatory retirement. It does not contain strong emotional language. The primary emotion conveyed might be a mild sense of approval or satisfaction that the person is allowed to continue in service, but this is very subtle. Therefore, the initial scores are set to low values across all emotions, with a slightly higher score for joy due to the positive nature of the exemption.",
+    "critique": "The document is a formal executive order regarding the exemption of a government employee from mandatory retirement. The language is legalistic and procedural. There is no explicit expression of emotions. However, the act of exempting someone could be interpreted as a positive action, suggesting a slight degree of joy or satisfaction. Conversely, the need for such an order might imply a problem or concern, hinting at a minimal level of sadness or concern. Given the formal nature, the intensity of any emotion is likely to be very low.",
     "revised_scores": {
         "joy": 2,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

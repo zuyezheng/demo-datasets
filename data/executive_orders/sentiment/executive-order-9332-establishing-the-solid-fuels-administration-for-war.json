@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is an executive order regarding the regulation of solid fuels during wartime. It is a formal and legal document. The primary emotions conveyed are related to the seriousness and urgency of the war effort. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the context implies a sense of urgency and the need for efficient resource management to support the war effort. Therefore, I will assign low scores to fear and surprise, and very low scores to the other emotions.",
+    "critique": "The document is a formal executive order establishing a Solid Fuels Administration for War. It outlines the administrator's responsibilities and authorities related to solid fuels during wartime. The language is formal and legalistic, with no explicit emotional expression. However, the context of wartime implies a sense of urgency and importance, which could be interpreted as subdued fear and determination. The document aims to ensure the efficient supply of solid fuels for military and civilian needs, reflecting a serious and pragmatic approach. Therefore, the initial scores are set to reflect the formal tone and underlying context.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

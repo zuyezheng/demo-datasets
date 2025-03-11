@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. It aims to establish a Special Emergency Board to investigate wage adjustments. The language is formal and legalistic, with no explicit emotional expression. However, the context suggests a sense of urgency and concern about potential disruption of transportation services. Initial scores: Disgust: 1, Fear: 3, Joy: 1, Sadness: 2, Surprise: 1. Revised scores: Disgust: 1, Fear: 4, Joy: 1, Sadness: 2, Surprise: 1.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It establishes a Special Emergency Board to investigate wage adjustments for employees of the Pacific Electric Railway Company. The language is legalistic and procedural, with no overt expression of emotions. However, the urgency implied by the potential disruption of transportation services suggests a degree of concern. Given the formal nature, the emotional scores should be relatively low, reflecting the underlying concern without being overly expressive.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the extension of active duty for members of the Selected Reserve. The language is legal and procedural, with a focus on national security and the authority of the President. There is no explicit expression of emotion. However, the context of national security might evoke a sense of concern or perhaps a subdued sense of resolve. It is unlikely to evoke joy, disgust, or surprise. Fear and sadness are possible but not prominent. I will assign low scores to fear and sadness and very low scores to the other emotions.",
+    "critique": "The document is a formal executive order regarding the extension of active duty for members of the Selected Reserve. The primary goal is to communicate the legal and administrative decision-making process. There is a sense of seriousness and determination, but emotions are not explicitly conveyed. Therefore, most emotions should be scored low, with a slight emphasis on seriousness.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

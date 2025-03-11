@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal presidential order regarding naturalization for aliens and non-citizens who served in the Armed Forces in the Grenada campaign. It specifies the period and locations of qualifying active-duty service. The language is legal and procedural, with no explicit emotional expression. However, the order could evoke a sense of joy for those who are now eligible for naturalization, and perhaps a sense of gratitude or respect for the President. There's no indication of sadness, anger, fear, disgust, or surprise. The intensity of joy is likely moderate, as it affects a specific group. Therefore, the initial scores are: Joy: 5, and all other emotions: 1. After further consideration, the joy score seems a bit high. While the order is positive for those affected, the overall emotional impact on the general public is likely minimal. A score of 3 seems more appropriate. The other scores remain unchanged.",
+    "critique": "The document is a formal presidential order regarding naturalization for aliens and non-citizens who served in the Armed Forces in the Grenada campaign. It specifies the period and locations of qualifying active-duty service. The language is legal and procedural, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Considering the formal nature, I will assign a baseline score of 1 for all emotions to indicate a minimal level of each emotion being conveyed through the formal tone and the subject matter (military service, naturalization).",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

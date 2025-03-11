@@ -6,11 +6,11 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document discusses labor disputes between railroad companies and their employees, and the creation of a board to investigate these disputes. The language is formal and legalistic, indicating a serious but neutral tone. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The President is acting in an official capacity to resolve a situation that threatens interstate commerce. Therefore, the initial scores should reflect a low intensity for all emotions.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses a sense of urgency and authority, but avoids strong emotional language. The primary emotion conveyed, albeit subtly, is concern (leading to a low fear score) about the disruption of interstate commerce. There's a hint of disappointment (leading to a low sadness score) that the disputes haven't been resolved. Joy, disgust, and surprise are not evident. Revised scores reflect these nuances.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

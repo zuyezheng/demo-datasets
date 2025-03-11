@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "fear": 2,
+        "disgust": 3,
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. It doesn't express any strong emotions. The primary emotion conveyed might be a mild sense of concern or seriousness due to the potential disruption of transportation, but it's very subdued. Therefore, I will assign low scores across all emotions, with a slightly higher score for concern/sadness.",
+    "critique": "The document is a formal executive order creating a board to investigate a dispute between Pan American World Airways and its employees. The language is legal and procedural. There is no strong emotion conveyed, but a sense of concern and urgency is present due to the potential disruption of interstate commerce. Therefore, I will assign low scores to sadness, fear, and surprise, and a slightly higher score to disgust due to the negative impact of the dispute. Joy is not present at all.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "fear": 2,
+        "disgust": 3,
+        "surprise": 2
     }
 }

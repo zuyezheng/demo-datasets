@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document primarily conveys a sense of administrative procedure and recommendation. There's a problem identified with the noncompetitive examination process for expert money tellers, and a recommendation is made to revoke part of the order. There isn't a strong emotional sentiment expressed. The tone is formal and bureaucratic. Therefore, all emotions should be scored relatively low. I will assign a baseline score of 1 for all emotions initially, as the document does not explicitly evoke any strong feelings. After revision, I will keep the scores at 1, as the critique confirms the absence of strong emotional conveyance.",
+    "critique": "The document is a formal letter from the Civil Service Commission to the President, recommending a change in the appointment process for money tellers. The tone is professional and objective. There's a hint of frustration about the difficulty of finding 'experts' and the pressure the department faces due to the noncompetitive nature of the positions. However, the overall emotional intensity is low. Therefore, joy, sadness, fear, disgust and surprise will be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to an executive order regarding allowances for enlisted men. It does not express any particular emotion. The language is legal and administrative, and the content is factual. Therefore, all emotion scores should be low.",
+    "critique": "The document is a formal executive order amending a previous order regarding allowances for enlisted men. The language is legal and administrative, with no explicit emotional expression. However, the context of a 'national emergency' might implicitly convey a sense of concern or seriousness. Given the formal nature and lack of overt emotional cues, the scores should be low, with a slight increase in fear and sadness due to the emergency context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 3,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the transfer of property of the former Shah of Iran. It invokes legal authorities and describes specific actions to be taken by government officials. The tone is serious and official, aiming to convey a sense of legal obligation and national security concerns. There is a slight sense of joy because this order helps release US diplomats and normalize relations between the US and Iran. There is a slight sense of fear because the order addresses a threat to national security. There is no indication of disgust or surprise.",
+    "critique": "The document is a formal executive order regarding the transfer of property of the former Shah of Iran. It is primarily concerned with legal and economic matters, and aims to protect the rights of litigants and implement agreements with the Government of Iran. The language is formal and legalistic. There is a sense of resolution and normalization of relations, but no strong emotions are explicitly conveyed. Therefore, most emotions should be scored low. Joy is present due to the normalization of relations. Sadness, fear, disgust, and surprise are not significantly present.",
     "revised_scores": {
         "joy": 3,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 3,
-        "disgust": 2,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document primarily outlines punishments for various offenses within the military. It is a formal and legalistic document, not designed to evoke strong emotions. However, the content regarding punishments could elicit some level of fear or disgust, depending on the reader's perspective. Joy and surprise are unlikely to be conveyed. Sadness might be present due to the consequences outlined, but it is not the primary emotion. The document is intended to be authoritative and informative, not emotional.",
+    "critique": "The document is a formal military order outlining punishments for various offenses. It is primarily informative and regulatory, with little to no emotional expression intended. Therefore, most emotions should be scored very low. There might be a slight sense of sadness due to the discussion of punishments and potential loss of freedom, and perhaps a hint of fear related to the consequences of disobedience, but these would be minimal.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 3,
-        "disgust": 2,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     }
 }

@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 2,
         "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. It aims to convey a sense of authority and decisiveness, but not strong emotions. The primary emotion might be a mild sense of concern (sadness) due to the potential disruption of transportation, but it's largely a neutral, official statement. Initial scores: Disgust: 1, Fear: 2, Joy: 1, Sadness: 3, Surprise: 1. Revised scores: Disgust: 1, Fear: 1, Joy: 1, Sadness: 2, Surprise: 1.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It aims to prevent disruption to interstate commerce. The language is legalistic and factual, with little emotional expression. Therefore, the initial scores should be low across all emotions. Considering the potential negative impact of a strike, a slight sense of concern or seriousness might be present, reflected in slightly elevated fear and sadness scores compared to joy, disgust, and surprise. After a second thought, the initial scores seem appropriate given the formal and neutral tone of the document. No revisions are necessary.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

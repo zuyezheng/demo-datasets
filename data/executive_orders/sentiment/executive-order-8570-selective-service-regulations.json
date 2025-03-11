@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a set of regulations regarding physical standards for the Selective Service Act of 1940. It is a formal and legal document, and the President is not attempting to convey any particular emotion. The document is purely informational and procedural.",
+    "critique": "The document is a formal set of regulations regarding physical standards for the Selective Service Act of 1940. It is primarily informational and procedural, with a focus on defining standards and processes. There is no strong emotional content intended. Therefore, most emotions should be scored low. There might be a slight sense of seriousness or concern, but it's not overtly expressed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

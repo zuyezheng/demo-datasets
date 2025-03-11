@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition. The language is legal and administrative, with no explicit emotional expression. The President is conveying information, not trying to evoke a specific emotion. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal approval of a code of fair competition. It is unlikely to convey strong emotions. The language is formal and legalistic. Therefore, the initial scores for all emotions should be low, with a slight emphasis on joy due to the approval.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

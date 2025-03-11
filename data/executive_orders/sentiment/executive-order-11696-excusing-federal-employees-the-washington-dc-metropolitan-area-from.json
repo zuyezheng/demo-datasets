@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding a half-day holiday for federal employees. It does not express any strong emotions. The primary purpose is to inform and direct, not to evoke feelings. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order excusing federal employees from duty for half a day. There is no strong emotion conveyed, but there may be a slight sense of joy for those receiving the day off and a slight sense of surprise that they are getting a day off. The order is mostly neutral in tone.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

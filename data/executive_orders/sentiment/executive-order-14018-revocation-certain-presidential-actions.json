@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It revokes several previous executive orders. The language is formal and legalistic. There is no explicit expression of emotion. However, the act of revoking previous orders could imply a sense of disapproval or a desire for change. Given the context, the implied emotions are likely mild. The initial scores reflect a neutral stance with slight adjustments for potential emotions.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and decisiveness, but it doesn't strongly express emotions like joy, sadness, fear, disgust, or surprise. The revocation of previous orders might imply a rejection of past policies, but this is more about policy change than emotional expression. Therefore, most emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 2,
+        "disgust": 1,
         "surprise": 1
     }
 }

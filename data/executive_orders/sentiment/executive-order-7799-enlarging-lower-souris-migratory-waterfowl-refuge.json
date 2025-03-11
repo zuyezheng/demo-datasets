@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order regarding land acquisition for a migratory bird refuge. It is a formal, legal document. The primary emotion conveyed would be a sense of calm and order. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding land acquisition for a migratory bird refuge. It's primarily a legal and administrative document. Therefore, the emotional content is expected to be minimal. Joy might be present due to the conservation efforts, but it would be subdued. There's no indication of anger, fear, disgust, or surprise. Sadness is not present.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

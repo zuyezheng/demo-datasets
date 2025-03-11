@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The document is a formal executive order establishing a task force. The language is formal and objective, with no explicit emotional expression. However, the creation of a task force to address potential threats to the financial markets suggests an underlying concern or worry. Therefore, I will assign low scores for fear and surprise, and very low scores for the other emotions. After further consideration, the establishment of a task force suggests a slightly higher level of concern than initially assessed, so I will increase the fear score slightly.",
+    "critique": "The document is a formal executive order establishing a task force. The language is neutral and objective, with no strong emotional expression. The primary goal is to convey authority and purpose. Therefore, most emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 4,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

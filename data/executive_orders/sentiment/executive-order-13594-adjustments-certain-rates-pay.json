@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding pay schedules for federal employees, members of the uniformed services, and other government officials. It cites legal authorities and provides specific details about pay rates and effective dates. The language is formal and legalistic, with no overt expression of emotion. Therefore, the expected emotional response from the American public would likely be neutral. However, some people may feel joy if it increases their pay, and some people may feel sadness if it freezes their pay. Surprise, disgust, fear, and anger are unlikely to be conveyed.",
+    "critique": "The document is a formal executive order regarding pay schedules for federal employees. It is primarily informational and legal in nature. There is no strong emotional language used. Therefore, most emotions should be scored low. There might be a slight sense of satisfaction or joy in ensuring fair pay, but it's minimal. There's no indication of fear, disgust, or surprise. Sadness is also not present. The document aims to be neutral and objective.",
     "revised_scores": {
         "joy": 2,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

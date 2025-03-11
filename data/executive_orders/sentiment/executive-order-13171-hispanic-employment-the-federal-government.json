@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 1,
+        "joy": 5,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order focused on improving Hispanic representation in the Federal workforce. The primary emotion conveyed is a sense of determined action and commitment to diversity and equal opportunity. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and policy-oriented, aiming to convey a serious and professional tone. Therefore, the initial scores would be low across all emotions, with a slightly higher score for joy due to the positive nature of promoting diversity and inclusion.",
+    "critique": "The document is a formal executive order. It expresses a commitment to improving Hispanic representation in the Federal workforce. The primary emotion conveyed is a sense of determination and commitment to diversity and equal opportunity. There's a hint of concern about the current underrepresentation, but it's framed as a problem to be solved rather than a source of deep sadness or anger. There is no surprise, disgust, or fear conveyed.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 1,
+        "joy": 5,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

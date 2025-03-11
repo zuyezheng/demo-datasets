@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 6,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing labor disputes in the railway industry during wartime. The primary emotion conveyed is concern for national security and the effective prosecution of the war. There's an element of urgency and a desire to prevent disruptions. It does not seem to convey joy, and I don't see clear indications of sadness, disgust, or surprise. Fear is present due to the concern about strikes affecting the war effort. I will score fear higher than the other emotions. The scores are on a scale of 1-10.",
+    "critique": "The document is a formal executive order addressing labor disputes in the railway industry during wartime. It aims to prevent disruptions to transportation that could hinder the war effort. The primary emotion conveyed is a sense of urgency and determination to maintain stability and order. There's a hint of concern about potential disruptions, but it's presented in a formal, controlled manner. Therefore, fear and sadness are minimal. Joy is absent, and surprise is unlikely in such a formal declaration. Disgust is not applicable. The document conveys a sense of determination and resolve, but not anger.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 6,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

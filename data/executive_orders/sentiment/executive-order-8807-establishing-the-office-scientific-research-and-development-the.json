@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
-        "fear": 3,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the Office of Scientific Research and Development. It focuses on the organization, responsibilities, and functions of this office in relation to national defense. The language is formal and legalistic, with no explicit emotional expression. However, the context of national defense during a declared national emergency suggests an underlying sense of urgency and determination. Given the lack of emotional language, the scores should be low, but slightly elevated for emotions like fear and determination due to the context.",
+    "critique": "The document is a formal executive order establishing the Office of Scientific Research and Development. It focuses on outlining the structure, functions, and responsibilities of this new office. The primary emotion conveyed is a sense of urgency and determination to address the national emergency through scientific and medical research. There's an underlying sense of fear related to the national defense, but it's not explicitly stated. There is a hint of joy that science will help solve the problems. Disgust and surprise are not relevant in this context.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
-        "fear": 3,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

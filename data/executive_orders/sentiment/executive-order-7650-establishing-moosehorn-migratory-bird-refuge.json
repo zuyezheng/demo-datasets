@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order establishing a migratory bird refuge. It primarily uses formal, legal language and focuses on geographical boundaries. There's no explicit emotional appeal. However, the act of preserving land for wildlife could evoke a sense of joy or hope in some people, but it's very subtle. The document itself doesn't express any emotion directly. Therefore, most emotions should be scored low. I will revise the initial scores to reflect this analysis.",
+    "critique": "The document is a formal declaration establishing a migratory bird refuge. The primary emotion conveyed is a sense of official action and conservation. There's a hint of joy in preserving wildlife, but it's subdued. There's no strong indication of sadness, fear, disgust, or surprise. The scores should reflect this.",
     "revised_scores": {
         "joy": 3,
         "sadness": 1,

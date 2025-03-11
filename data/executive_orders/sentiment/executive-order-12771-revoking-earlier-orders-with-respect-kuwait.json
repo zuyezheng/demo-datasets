@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the revocation of previous orders related to Kuwait. It expresses a sense of resolution and satisfaction that the situation in Kuwait has been resolved, but it is primarily a legal and official statement. The primary emotion conveyed would be joy that the situation has been resolved. There may also be a slight sense of surprise that the situation has been resolved and the orders can be revoked. There is no indication of sadness, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding the revocation of previous orders related to the situation with Iraq and Kuwait. The language is legal and procedural. There is a sense of resolution and perhaps relief that the situation in Kuwait has been resolved, but this is not explicitly stated. Therefore, the emotion scores should be relatively low, with a slight emphasis on joy and relief.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

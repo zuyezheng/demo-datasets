@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "fear": 2,
+        "disgust": 3,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding federal procurement and the employment of unauthorized aliens. The language is legalistic and aims to convey a sense of authority and policy implementation. There's no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. However, the underlying message suggests a concern for 'economy and efficiency' and a focus on enforcing immigration laws. This could be interpreted as a response to a perceived problem, but the document itself remains neutral in tone. Therefore, most emotions should be scored low, with perhaps a slight indication of concern or determination.",
+    "critique": "The document is a formal executive order regarding government procurement and the employment of unauthorized aliens. It focuses on promoting economy and efficiency in government contracting by ensuring a stable and dependable workforce. The language is formal and legalistic, with an emphasis on policy and enforcement. There is a sense of determination to enforce immigration laws and maintain a stable workforce for government contractors. There is no strong indication of joy, sadness, fear, or surprise. There may be a hint of disgust towards contractors employing unauthorized aliens.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "fear": 2,
+        "disgust": 3,
         "surprise": 1
     }
 }

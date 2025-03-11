@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding a labor dispute and the creation of a Board of Inquiry. The language is legal and official, with no explicit emotional expression. However, the situation implies a potential threat to national health and safety, which could evoke fear and concern. The president is not explicitly conveying any emotion but addressing a serious situation. Therefore, the scores should reflect the implied emotions and the overall seriousness of the announcement.",
+    "critique": "The document is a formal declaration regarding a labor dispute. It expresses concern about the potential impact on national health and safety due to a possible strike or lockout. The primary emotion conveyed is concern, which can be interpreted as a form of worry or perhaps a low level of fear regarding the potential consequences. There's no explicit joy, sadness, disgust, or surprise expressed. The language is formal and neutral, aiming to convey the seriousness of the situation and the need for intervention. Therefore, the initial scores would reflect a low level of fear and minimal levels of other emotions. After further consideration, the initial assessment seems appropriate given the formal and concerned tone of the document. The revised scores will remain the same.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
+        "sadness": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding travel regulations for government employees. It revokes a previous order and references a new set of regulations. There is no explicit emotional language used. The context is purely administrative. Therefore, all emotions should be scored low, with a default of 1.",
+    "critique": "The document is a formal executive order regarding travel regulations. It primarily communicates administrative changes. There is no strong indication of any specific emotion. Therefore, the initial scores are set to 1 across all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

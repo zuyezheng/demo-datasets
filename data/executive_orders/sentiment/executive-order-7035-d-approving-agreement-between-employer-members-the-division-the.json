@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of the approval of an agreement related to the National Industrial Recovery Act. The language is legal and administrative, with no strong emotional cues. The president is conveying a sense of duty and compliance with the law. Therefore, the expected emotional response from the public would be minimal. The initial scores reflect this, with low values for all emotions. Upon further reflection, the document's purpose is to inspire confidence in the government's actions during the Great Depression. While not explicitly joyful, the approval of such an agreement could bring a sense of relief and hope. Therefore, a slight increase in 'joy' is warranted. The revised scores reflect this adjustment.",
+    "critique": "The document is a formal approval of an agreement related to the National Industrial Recovery Act. The language is legalistic and bureaucratic. There is no strong emotional content. A baseline of 1 is appropriate for most emotions, with a slight increase in joy due to the approval.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal declaration exempting Zeke Johnson from compulsory retirement. It doesn't express any strong emotions. The language is legal and procedural, not designed to evoke feelings. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order from the President to exempt Zeke Johnson from compulsory retirement. The language is formal and legalistic. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, there might be a hint of positive sentiment (joy) in allowing someone to continue working, and perhaps a touch of surprise that an exception is being made. Given the formal nature, these would be very mild. Therefore, I will assign low scores to joy and surprise and a score of 1 to the rest.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

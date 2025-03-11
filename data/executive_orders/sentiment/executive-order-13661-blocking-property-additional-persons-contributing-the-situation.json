@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 4,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 3,
         "surprise": 2
     },
-    "critique": "The document is a formal executive order addressing a national emergency related to the actions of the Russian Federation in Ukraine. The primary emotion conveyed is a sense of concern and determination to protect national security and foreign policy interests. There's an element of disapproval and perhaps disgust towards the actions of the Russian Federation. There isn't necessarily joy, surprise, overt fear, or sadness. The language is formal and legalistic, aiming for a serious and resolute tone.",
+    "critique": "The document expresses concern and determination regarding the actions of the Russian Federation in Ukraine. It aims to convey a sense of resolve and seriousness in addressing the situation. It uses formal and legal language, so the emotional intensity is somewhat muted, but the underlying emotions are still present.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 5,
-        "surprise": 2
+        "sadness": 4,
+        "fear": 5,
+        "disgust": 4,
+        "surprise": 3
     }
 }

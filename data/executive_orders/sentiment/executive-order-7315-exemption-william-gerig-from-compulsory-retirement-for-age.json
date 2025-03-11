@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the retirement age of a government employee. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of official business and adherence to legal procedures. There is a slight hint of positive sentiment in recognizing William Gerig's service and extending it, but it's very subdued. Therefore, joy, surprise, fear, disgust, and sadness should be minimal, while a neutral tone prevails.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

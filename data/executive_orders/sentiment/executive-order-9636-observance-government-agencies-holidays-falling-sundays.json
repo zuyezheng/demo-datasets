@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding holidays for federal employees. It does not express any particular emotion. The language is neutral and factual. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It dictates that when certain holidays fall on a Sunday, federal employees get the following Monday off. The language is very formal and procedural. There is no strong emotion conveyed. The primary emotion might be a slight sense of joy or relief for federal employees, but it's very mild. Therefore, I will assign low scores across the board, with a slightly higher score for joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

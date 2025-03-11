@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 1
+    },
+    "critique": "The document is a series of amendments to existing regulations. The tone is formal and bureaucratic. The primary goal is to ensure proper procedures and accountability within the diplomatic and consular services. There is no explicit attempt to elicit strong emotions. The document focuses on clarity, compliance, and legal correctness. Therefore, most emotions should be scored low. Joy and surprise are unlikely. Sadness might be present due to the strict regulations and potential penalties. Fear and disgust could be related to the consequences of not following the rules. I will revise the scores to reflect this.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

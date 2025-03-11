@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 4,
-        "sadness": 5,
+        "joy": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document expresses appreciation for past service, which might evoke a slight sense of joy or gratitude. However, it also mentions the death of Dr. Davis, introducing an element of sadness. The disagreement from the Civil Service Commission could introduce a hint of surprise or concern. Given the overall tone and context, I'll score joy and sadness as the most prominent emotions, with a lesser degree of surprise. There's no indication of anger, fear, or disgust.",
+    "critique": "The document expresses a formal recommendation for Miss Barbara Davis's appointment. The primary emotion conveyed is a sense of appreciation for her father's service. There might be a hint of sadness related to the mention of her father's death, but it's not the main focus. There's no explicit expression of joy, anger, fear, disgust, or surprise. Therefore, I will assign low scores to these emotions, with a slightly higher score for sadness due to the mention of her father's death.",
     "revised_scores": {
-        "joy": 4,
-        "sadness": 5,
+        "joy": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

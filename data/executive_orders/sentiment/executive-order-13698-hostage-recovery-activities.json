@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal presidential order addressing hostage recovery. It aims to convey a sense of seriousness, determination, and commitment to the safety of U.S. nationals held hostage abroad. There's an underlying sense of concern and perhaps a hint of fear regarding the increasing sophistication of hostage-taking operations. However, the primary emotions conveyed are those of resolve and a proactive approach to a challenging situation. It is unlikely to convey joy. The order is unlikely to convey surprise. The order is unlikely to convey disgust.",
+    "critique": "The document is a formal presidential order. It expresses concern for U.S. nationals taken hostage and outlines measures to secure their safe recovery. There is a sense of urgency and determination, but emotions are largely suppressed in favor of a professional tone. Therefore, joy is 1, sadness is 3, fear is 4, disgust is 2, and surprise is 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
-        "disgust": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 2,
         "surprise": 1
     }
 }

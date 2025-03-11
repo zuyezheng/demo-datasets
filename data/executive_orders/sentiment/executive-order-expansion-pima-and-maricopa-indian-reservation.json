@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 2,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation for the Pima and Maricopa Indians. It primarily focuses on defining boundaries and land usage. There is no explicit expression of emotions. However, one could argue there might be a subtle sense of joy or relief for the Pima and Maricopa Indians who are receiving land. Conversely, there might be a sense of disgust or anger from people who had claim to that land previously. Given the lack of explicit emotional language, the scores should be relatively low.",
+    "critique": "The document is a formal executive order regarding land allocation for the Pima and Maricopa Indians. It primarily focuses on legal descriptions of land boundaries. There is a sense of responsibility and perhaps a slight sense of justice in ensuring land for the Native American tribes. However, strong emotions are not expected in such a document. Therefore, the initial scores should be relatively low across all emotions.",
     "revised_scores": {
         "joy": 2,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

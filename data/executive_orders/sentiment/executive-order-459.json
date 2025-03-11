@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is a formal military order. It primarily conveys a sense of authority and purpose. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the decisiveness and scope of the order might evoke a mild sense of surprise or perhaps even fear (depending on the recipient). The scores are based on the assumption of how the American public might perceive the document's emotional undertones, not necessarily what the document explicitly states.",
+    "critique": "The document is a formal military order. It primarily conveys a sense of authority and purpose. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the implicit message of taking control and ensuring efficient operation might suggest a low level of surprise that the recipient is being given this authority.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation for Native American reservations. It primarily uses neutral and legal language. There is no explicit or implicit expression of joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores for all emotions should be low. Since the document reallocates land, it is possible that it evokes a bit of sadness. The tone of the document is neutral, so the revised scores should reflect that.",
+    "critique": "The document is a formal executive order regarding land allocation for Native American reservations. It primarily uses neutral and legal language. There is a slight sense of decisiveness and authority, but no strong emotions are explicitly conveyed. Therefore, most emotions should be scored low, with a slightly higher score for decisiveness which might be interpreted as a low level of joy or surprise that the order is being given.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order withdrawing land for use as practice bombing ranges. It is a formal and legal document. There is no explicit emotional language used. The context is wartime, which might evoke fear or concern, but the document itself is neutral in tone. Therefore, the initial scores should be low across all emotions. After further consideration, the surprise score could be slightly higher as the public might be surprised by the specific land allocation, but overall, the emotional impact is minimal.",
+    "critique": "The document is a formal order from the President withdrawing public lands for use as practice bombing ranges. It is a legal and administrative document, and as such, it does not explicitly convey any particular emotion. However, the act of withdrawing land for military use could be interpreted as a reflection of the somber and serious context of the time (1941), potentially implying a sense of concern or determination related to national security. Considering the lack of explicit emotional expression, the initial scores are set to 1 for all emotions. After further consideration, while the document itself doesn't express emotion, the context of the order suggests a low level of concern or seriousness, so I will adjust the fear score to 2.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

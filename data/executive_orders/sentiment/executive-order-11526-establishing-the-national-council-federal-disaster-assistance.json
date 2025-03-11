@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a National Council on Federal Disaster Assistance. It aims to coordinate federal efforts in response to large-scale disasters. The language is formal and bureaucratic, focusing on the establishment of the council, its functions, and the roles of various federal agencies. There is no explicit expression of emotions. However, the underlying sentiment is one of preparedness and a desire to mitigate the negative impacts of disasters. This could be interpreted as a response to fear and sadness associated with disasters, but the document itself does not directly convey these emotions. The document expresses no joy, disgust, or surprise. The intensity of emotions felt by the public is expected to be low, as the document is primarily administrative. Therefore, initial scores are set to 1 across all emotions. Upon further reflection, the document's purpose is to inspire confidence and security in the face of potential disasters. While not explicitly joyful, the proactive nature of the order could evoke a sense of relief and hope, warranting a slight increase in the joy score. The fear score should also be slightly increased to reflect the underlying concern about disasters that prompts the order.",
+    "critique": "The document is a formal executive order establishing a National Council on Federal Disaster Assistance. The primary emotion conveyed is a sense of seriousness and determination to coordinate disaster relief efforts. There is a hint of concern for those affected by disasters, but it's largely an administrative document. Therefore, joy is 1, sadness is 3, fear is 2, disgust is 1, and surprise is 1.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 1,
+        "joy": 1,
+        "sadness": 3,
         "fear": 2,
         "disgust": 1,
         "surprise": 1

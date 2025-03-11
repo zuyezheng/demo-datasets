@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document outlines the roles and responsibilities of the armed forces. It is a formal and official document. The primary emotion conveyed would be a sense of security and confidence in the nation's defense capabilities. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the underlying tone suggests a sense of responsibility and determination. The language is formal and objective, aiming to establish clear guidelines and procedures. Therefore, the scores for joy, sadness, anger, fear, disgust and surprise should be relatively low. The document inspires confidence and security, so I will adjust the scores accordingly.",
+    "critique": "The document outlines the roles and responsibilities of the armed forces. It is a formal and serious document, so it should not convey much emotion. The primary emotions conveyed are related to duty and security, so there might be a low level of fear and a low level of joy in the sense of national pride. There is no indication of sadness, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

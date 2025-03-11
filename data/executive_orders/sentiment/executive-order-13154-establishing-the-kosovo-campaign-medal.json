@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 3,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the Kosovo Campaign Medal. It outlines the criteria for awarding the medal and its relationship to other awards. The language is legal and procedural, with no explicit emotional expression. However, the act of establishing a medal can be seen as a recognition of service and sacrifice, which might evoke feelings of joy and pride in those who served, and perhaps sadness for those who were lost. Surprise, fear, and disgust are unlikely to be conveyed by this document.",
+    "critique": "The document is a formal executive order establishing the Kosovo Campaign Medal. The language is legal and procedural. There is a sense of formality and respect for the armed forces, but no strong emotions are explicitly conveyed. Therefore, the initial scores should be relatively low across all emotions.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 3,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

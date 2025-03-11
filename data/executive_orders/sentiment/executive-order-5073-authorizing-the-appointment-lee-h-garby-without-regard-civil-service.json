@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 5,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The document is a presidential order regarding the appointment of Mrs. Lee H. Garby to a position in the classified service. The order is recommended by the Secretary of Agriculture, but the Civil Service Commission does not concur. The reason given is 'For charity.' The language is formal and bureaucratic.The president is conveying a sense of joy, sadness, and surprise. Joy because the president is helping someone in need. Sadness because the Civil Service Commission does not concur. Surprise because the reason given is 'For charity.'\n\nInitial scores:\nJoy: 5\nSadness: 5\nSurprise: 5\nDisgust: 1\nFear: 1\n\nRevised scores:\nJoy: 5\nSadness: 5\nSurprise: 5\nDisgust: 1\nFear: 1",
+    "critique": "The document is a formal order regarding the appointment of Mrs. Lee H. Garby. It mentions her previous work and the recommendation of the Secretary of Agriculture, but also notes the Civil Service Commission's non-concurrence. The tone is neutral and bureaucratic, with a hint of advocacy for Mrs. Garby's appointment. There is a slight sense of justification or persuasion, but overall, the emotional content is minimal. Therefore, most emotions should be scored low, with a slightly higher score for joy due to the positive outcome for Mrs. Garby.",
     "revised_scores": {
-        "joy": 5,
-        "sadness": 5,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     }
 }

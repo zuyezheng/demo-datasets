@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 3
     },
-    "critique": "The document is a formal declaration of a national emergency. The language is legal and procedural. The primary emotion conveyed, if any, is concern or perhaps a sense of urgency, but it's very muted. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The document aims to convey a sense of authority and decisiveness in the face of a perceived threat. Given the nature of the document, the expected emotional response from the public would likely be minimal, with perhaps a slight increase in fear or concern depending on their understanding of the situation. Most people would likely not have a strong emotional reaction. Therefore, the initial scores should be low across all emotions.",
+    "critique": "The document is a formal declaration of a national emergency. It expresses concern about threats to national security, foreign policy, and the economy. There is a sense of urgency and determination to protect U.S. interests. It does not express joy. It expresses a small amount of sadness because a previous order is revoked. It expresses a small amount of fear because it declares a national emergency. It expresses a small amount of disgust because it mentions boycott practices of foreign nations. It expresses a small amount of surprise because it declares a national emergency.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 3
     }
 }

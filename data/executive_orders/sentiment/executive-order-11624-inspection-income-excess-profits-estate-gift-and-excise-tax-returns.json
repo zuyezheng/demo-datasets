@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order regarding tax returns and their inspection by a Senate committee. It cites legal authority and specifies the years and scope of the inspection. The language is formal and legalistic.There is no explicit emotional content. However, the act of opening tax returns for inspection in connection with investigating organized crime could imply a sense of concern or seriousness about the issue. Given the lack of explicit emotional language, the scores should be low, but not 1 as the document does have a serious tone.",
+    "critique": "The document is a formal order regarding tax returns and congressional investigation. It doesn't express strong emotions. The scores should be low, with a baseline of 1 for emotions not explicitly present.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

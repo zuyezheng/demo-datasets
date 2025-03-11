@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order, which is a legal document. It is unlikely to convey any strong emotions. The language is formal and technical. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It primarily assigns responsibilities and amends previous orders. The language is legal and procedural, with no overt emotional expression. Therefore, all emotions should be scored low, with a baseline of 1 to indicate minimal presence due to the formal nature of the document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

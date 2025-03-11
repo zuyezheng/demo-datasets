@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the retirement age of a government employee. It doesn't express strong emotions. The president is making an exception to a rule, so there might be a slight sense of surprise that an exception is being made, but overall the tone is neutral.",
+    "critique": "The document is a formal executive order regarding the exemption of Mrs. Maud Brackett Pattin from mandatory retirement. The language is legalistic and bureaucratic. There is no strong indication of any particular emotion. A baseline of 1 is appropriate for most emotions, with a slight increase in joy due to the positive outcome for Mrs. Pattin.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

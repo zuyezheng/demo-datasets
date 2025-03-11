@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 1,
+        "fear": 2,
         "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document outlines the conditions under which a Navy enlisted person can be discharged before their enlistment ends. It lists specific causes like undesirability, inaptitude, or disability. The tone is formal and bureaucratic, focusing on procedure and authorization. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the mention of 'undesirability' and 'unfitness' might evoke a slight sense of disgust or sadness, but it's very mild. The emphasis on following procedure and the chain of command suggests a desire for order and control, not strong emotions. Therefore, the initial scores should be low across all emotions.",
+    "critique": "The document outlines the conditions under which an enlisted person in the Navy can be discharged. It is a formal document that sets out rules and procedures. There is no explicit expression of emotions. However, the mention of 'undesirability', 'inaptitude', 'physical or mental disability', or 'unfitness' could be associated with negative emotions. Given the formal tone, the intensity of these emotions is likely to be low. Therefore, I will assign low scores for sadness, fear, and disgust, and a score of 1 for joy and surprise as they are not relevant in this context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     }
 }

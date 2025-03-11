@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 3,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 4
     },
-    "critique": "The document is a formal executive order. It invokes legal statutes and describes a suspension of an eight-hour work law due to a national emergency. The language is formal and legalistic, not designed to evoke strong emotions. The primary emotion might be a sense of concern or seriousness due to the declared national emergency, but this is presented in a factual, unemotional way. Therefore, all emotions should be scored low, with a slight emphasis on fear and concern.",
+    "critique": "The document is a formal executive order addressing a national emergency and the suspension of certain labor laws. It conveys a sense of urgency and determination to strengthen national defenses. It does not express personal emotions but rather focuses on the practical measures being taken. Therefore, the scores should reflect the formal and urgent nature of the document, with low scores for emotions like joy and higher scores for emotions like fear and surprise due to the declared emergency.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 3,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 4
     }
 }

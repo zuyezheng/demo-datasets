@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 1
     },
-    "critique": "The document is a military order assigning commanders to different districts. It is a formal and official document. The primary emotion conveyed would be surprise as the public learns of the assignments. There is no explicit expression of joy, sadness, anger, fear, or disgust. The intensity of surprise would be moderate, as the public might expect such assignments after the act of Congress. The initial scores are: Joy: 1, Sadness: 1, Anger: 1, Fear: 1, Disgust: 1, Surprise: 5. After further consideration, the document is purely informational and unlikely to evoke strong emotions. The revised scores are: Joy: 1, Sadness: 1, Anger: 1, Fear: 1, Disgust: 1, Surprise: 2.",
+    "critique": "The document is a formal military order assigning commanders to districts. It is neutral in tone and does not express any strong emotions. Therefore, the initial scores for all emotions should be low. Considering that this is a formal document, I will assign a baseline score of 1 to all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

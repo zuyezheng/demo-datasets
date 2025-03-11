@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The president is making a formal announcement. There is no emotion conveyed in the document. The initial scores should be 1 for all emotions. The revised scores should be 1 for all emotions.",
+    "critique": "The document is a formal directive regarding civil service classification. It doesn't express strong emotions. The scores should be low, with a baseline of 1 for emotions not explicitly present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

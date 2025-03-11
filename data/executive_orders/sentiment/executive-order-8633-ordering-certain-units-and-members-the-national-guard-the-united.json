@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 3,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a military order, so it is unlikely to convey strong emotions. However, the order to active duty could cause fear and sadness in those affected, and perhaps surprise. The order is unlikely to convey joy or disgust.",
+    "critique": "The document is a formal order to activate National Guard units. It is a serious matter, but the language is formal and bureaucratic. There is a sense of urgency and potential danger, but it is not explicitly stated. Therefore, fear and sadness are present, but not overwhelming. There is no joy or surprise. Disgust is not relevant. The document conveys a sense of duty and resolve, but not in an emotional way.",
     "revised_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 3,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

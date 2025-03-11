@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It establishes a task force and outlines its functions and administration. The language is formal and legalistic, with no strong emotional indicators. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing an advisory committee. The language is legal and administrative, with no strong emotional expression. Therefore, the initial scores should be low across all emotions. There might be a slight sense of joy or optimism related to the establishment of the task force, but it's very subdued. The revised scores will reflect this.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

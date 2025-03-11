@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
+        "sadness": 3,
         "fear": 7,
-        "disgust": 5,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a set of regulations regarding security measures in the Canal Zone. The primary emotion conveyed is fear, due to the concern about subversive activity and potential threats to national security. There's also a sense of disgust towards sabotage and subversive activities. There is no evidence of joy or surprise. The regulations aim to prevent damage or injury, suggesting a level of sadness about potential negative outcomes if security is breached. The intensity of these emotions is moderate, as the document is formal and legalistic in tone.",
+    "critique": "The document is a formal set of regulations concerning security in the Canal Zone. The primary emotion conveyed is fear, stemming from concerns about sabotage and subversive activity. There's also a sense of seriousness and determination to maintain control and prevent threats. There is no information about joy. There is a little bit of sadness because of the potential danger. There is no surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 8,
-        "disgust": 6,
+        "sadness": 3,
+        "fear": 7,
+        "disgust": 1,
         "surprise": 1
     }
 }

@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to establish policies and procedures for intelligence activities and information sharing, particularly concerning terrorism. The language is legal and procedural, lacking emotional expression. Therefore, the expected emotional response from the public would be minimal across all emotions.",
+    "critique": "The document is a formal executive order. It aims to strengthen intelligence activities and protect the US against terrorist attacks. The language is formal and legalistic. There is a sense of urgency and determination to improve information sharing and coordination among government agencies. It does not express personal emotions but rather outlines policy and procedures. Therefore, the scores should reflect the formal and serious nature of the document, with low scores for most emotions and a slightly higher score for fear due to the context of protecting against terrorist attacks.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

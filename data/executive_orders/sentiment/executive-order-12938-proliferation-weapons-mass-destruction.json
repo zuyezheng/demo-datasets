@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 2,
+        "fear": 5,
+        "disgust": 3,
+        "surprise": 3
     },
-    "critique": "The document is a formal executive order addressing the proliferation of weapons of mass destruction. The primary emotion conveyed is fear, due to the declared national emergency and the threat to national security. There might be a sense of disgust towards the actions of countries or entities involved in the proliferation of such weapons. There is no indication of joy. The order aims to control and prevent a dangerous situation, so surprise is not the main emotion. The order expresses a level of sadness that such measures are necessary, but it is not the primary emotion. The order is a serious matter, so I will adjust the scores accordingly.",
+    "critique": "The document expresses concern and determination to prevent the proliferation of weapons of mass destruction. There is a sense of urgency and resolve, but emotions are generally subdued due to the formal nature of the document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 8,
-        "disgust": 5,
-        "surprise": 2
+        "fear": 6,
+        "disgust": 4,
+        "surprise": 4
     }
 }

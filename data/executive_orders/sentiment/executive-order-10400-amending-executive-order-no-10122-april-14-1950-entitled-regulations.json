@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order amending regulations concerning disability retirement pay and hospitalization for members and former members of the uniformed services. It is a formal and legal document. The language is precise and technical, with no emotional tone. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal amendment to an executive order regarding disability retirement pay and hospitalization for members and former members of the uniformed services. The language is legal and administrative, with no explicit emotional expression. However, the order addresses the needs of disabled veterans, which could evoke feelings of sadness or concern. Given the formal nature, the emotional intensity is likely low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

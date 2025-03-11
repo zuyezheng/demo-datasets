@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The president is conveying a message about waiving consular fees for military personnel during the war. There is no explicit emotion conveyed in the document. The document is informational and administrative. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order from the White House regarding consular fees for military personnel during wartime. It's a directive, so it's unlikely to convey strong emotions. The primary emotion might be a slight sense of relief or gratitude for the military personnel who benefit from the fee waiver, but it's very subtle. Therefore, most scores should be low, with a slight emphasis on joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

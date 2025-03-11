@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Auction and Loose-leaf Tobacco Warehouse Industry. The language is legal and procedural, with no explicit emotional expression. However, the act of approving such a code could be seen as conveying a sense of joy or relief that the industry is being regulated and stabilized. Conversely, there might be a sense of sadness or disgust among those who oppose the regulation. Given the context of the Great Depression, the act could also inspire a sense of hope and reduce fear. Surprise is unlikely, as the process seems to be following established procedures.",
+    "critique": "The document is a formal executive order. It expresses no strong emotions. The language is very formal and procedural. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

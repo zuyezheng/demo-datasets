@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order. It primarily conveys information about the establishment of a Board of Relief. There is no strong indication of any particular emotion. Therefore, I will assign low scores across all emotions. Initial scores: disgust=1, fear=1, joy=1, sadness=1, surprise=1. Revised scores will be the same as the initial scores, as the initial assessment seems accurate.",
+    "critique": "The document is a formal order supplementing a previous executive order. It establishes a Board of Relief and designates its chairman. The language is formal and factual, with no strong emotional expression. Therefore, the initial scores should be low across all emotions. Considering this is a formal document, I will give a score of 1 for all emotions except surprise which I will give a score of 2 because the order is supplementing a previous order.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

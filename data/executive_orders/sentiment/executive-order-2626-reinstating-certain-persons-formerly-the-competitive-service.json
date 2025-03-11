@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal amendment to Civil Service Rule IX. It outlines the conditions under which a person resigning from a scientific, professional, or technical position to enter public service elsewhere can be reinstated. The language is formal and procedural, with no explicit emotional expression. However, the amendment could be interpreted as conveying a sense of reassurance and stability in the civil service, as it provides a clear path for reinstatement under specific circumstances. It could also be seen as conveying a sense of opportunity for those in scientific, professional, or technical positions. Given the context of 1917, during World War I, such measures might also aim to ensure the availability of skilled personnel for government service. Therefore, I will assign low scores for joy and surprise, and very low scores for the other emotions.",
+    "critique": "The document is a formal amendment to Civil Service Rule IX. It outlines the conditions under which a person resigning from a scientific, professional, or technical position to enter public service elsewhere can be reinstated. The language is formal and procedural. There is no strong emotional content conveyed. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

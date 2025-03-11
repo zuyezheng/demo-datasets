@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order establishing a wildlife refuge. It's formal and factual, so it's unlikely to evoke strong emotions. The primary emotion might be a mild sense of joy or satisfaction for those who value conservation, but overall, the emotional impact is minimal. Most of the text is related to legal descriptions of land, which would not evoke any emotion. Therefore, the initial scores should be very low across the board, with a slightly higher score for joy.",
+    "critique": "The document is a formal executive order establishing a wildlife refuge. The primary emotion conveyed is a sense of purpose and authority, with a secondary focus on conservation. There is a slight hint of joy in preserving wildlife, but it's not overt. There's no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

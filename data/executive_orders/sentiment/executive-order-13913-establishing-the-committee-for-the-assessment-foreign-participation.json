@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding telecommunications security. It is primarily informational and procedural, lacking emotional content. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the security of telecommunications networks. It primarily focuses on establishing a committee, defining its duties, and outlining processes for reviewing applications and licenses. The language is legalistic and procedural. Therefore, the emotions conveyed are minimal. There might be a slight sense of concern for national security, but it's presented in a very formal and detached manner.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

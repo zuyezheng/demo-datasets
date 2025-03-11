@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 7,
+        "sadness": 4,
+        "fear": 5,
         "disgust": 6,
-        "surprise": 2
+        "surprise": 3
     },
-    "critique": "The document conveys a sense of seriousness and determination to address a threat. It primarily aims to instill a sense of caution and perhaps a degree of fear regarding North Korea's actions. There's also an element of disgust towards North Korea's behavior. Surprise is less relevant here, and joy is entirely absent. The language is formal and legalistic, reinforcing the gravity of the situation.",
+    "critique": "The document expresses concern and determination regarding North Korea's actions. It aims to convey a sense of seriousness and resolve in addressing the issue. The document does not express joy. It expresses a degree of sadness regarding the situation with North Korea, a degree of fear regarding the potential threat, a degree of disgust regarding the actions of North Korea, and a degree of surprise regarding the actions of North Korea.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 8,
+        "sadness": 5,
+        "fear": 6,
         "disgust": 7,
-        "surprise": 1
+        "surprise": 4
     }
 }

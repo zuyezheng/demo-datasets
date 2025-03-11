@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal amendment to an existing executive order regarding the Abaca Production Act. The primary goal is administrative efficiency and clarity of responsibilities. The language is legalistic and devoid of emotional appeals. As such, the intended emotional impact is minimal. The document aims to convey a sense of order and competent governance, not to elicit strong emotions. Therefore, all emotions should be scored low initially. Upon review, I will adjust the surprise score to be slightly higher than the others, as the reader may not expect such an amendment.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

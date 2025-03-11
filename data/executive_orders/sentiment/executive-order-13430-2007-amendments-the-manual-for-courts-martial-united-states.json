@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order amending the Manual for Courts-Martial. It primarily deals with legal procedures and definitions, such as remote testimony, blood alcohol content limits, and offenses related to unborn children and stalking. There is no explicit emotional language or appeals. The President is acting in an official capacity, and the document's purpose is to update legal guidelines, not to evoke any particular emotion. Therefore, all emotions should be scored low.",
+    "critique": "This document is a formal executive order prescribing amendments to the Manual for Courts-Martial. The language is legal and procedural. There is no strong emotion conveyed. A baseline score of 1 is appropriate for all emotions, with a slight increase in sadness due to the legal nature of the document.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration establishing a migratory bird refuge. It uses formal and legal language. The primary emotion conveyed, if any, would be a mild sense of joy or satisfaction related to conservation. However, the document is largely factual and devoid of strong emotional cues. Therefore, most emotions should be scored low, with a slightly higher score for joy.",
+    "critique": "The document is a formal declaration establishing a migratory bird refuge. It primarily uses legal and administrative language. There is no strong emotional language present. Therefore, all emotions are scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

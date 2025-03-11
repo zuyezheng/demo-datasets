@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement about an appointment. It doesn't convey any strong emotions. The language is neutral and factual. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal announcement regarding the appointment of Mrs. Julia W. Wellborn. It is a factual statement and does not express any particular emotion. Therefore, all emotion scores should be low, with a default value of 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

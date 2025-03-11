@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It is unlikely to evoke strong emotions in the American public. The language is formal and legalistic, and the content is about the allocation of funding responsibilities for Noncombatant Evacuation Operations. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It primarily concerns the allocation of responsibilities for noncombatant evacuation operations. The language is formal and legalistic. There is no explicit expression of emotions. However, the context of evacuating citizens from threatened areas suggests a potential undercurrent of concern or seriousness. Considering the formal nature, the emotion scores should be relatively low, but not zero, to reflect the underlying context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

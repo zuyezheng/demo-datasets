@@ -4,9 +4,9 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding incentive pay for submarine duty. It does not express any particular emotion. The language is legal and procedural, with no indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order regarding incentive pay for submarine duty. It is unlikely to convey strong emotions. The language is legal and procedural, not designed to evoke feelings. Therefore, the initial scores should be low across all emotions, with a slight emphasis on surprise due to the announcement of changes.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

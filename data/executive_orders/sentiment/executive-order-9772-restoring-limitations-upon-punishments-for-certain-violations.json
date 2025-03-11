@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding military punishments. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order regarding punishments for violations of Articles of War. It primarily concerns legal and administrative matters, so the emotional content is expected to be minimal. The document expresses a sense of resolution and finality in terminating the suspensions of limitations upon punishments. There is a slight indication of relief or satisfaction that the previous measures are no longer necessary. Therefore, I will assign low scores for joy and sadness, and a minimal score for surprise. There is no indication of fear, disgust, or anger.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

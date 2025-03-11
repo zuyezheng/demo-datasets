@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding telecommunications functions. It is unlikely to evoke strong emotions in the American public. The language is formal and bureaucratic, focusing on coordination, assurance, and assignment of responsibilities. There is no indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores for all emotions should be low.",
+    "critique": "The document is a formal executive order. It primarily focuses on establishing the Director of Defense Mobilization's responsibilities regarding telecommunications. The language is formal and objective, with no strong emotional expressions. Therefore, most emotions should be scored low. There might be a slight sense of assurance or confidence (low joy) due to the order aiming to improve security and efficiency. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

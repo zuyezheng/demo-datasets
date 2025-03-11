@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order related to war powers during World War II. It primarily focuses on authorizing specific administrative actions related to lend-lease and war shipping. The language is formal and legalistic. Considering the context, the primary emotion conveyed would likely be a sense of seriousness and determination related to the war effort. There's an element of urgency implied, but not overt fear or anger. Joy and surprise are not relevant in this context. Disgust is also not applicable. Based on this, I'll assign initial scores reflecting these observations, and then revise them after further consideration.",
+    "critique": "The document is a formal executive order related to war powers during World War II. It authorizes specific government offices to enter into financial agreements to support the war effort. The language is legalistic and bureaucratic, with no explicit emotional expression. However, the context of wartime implies a sense of urgency and determination. Given the formal nature and lack of overt emotional cues, the emotion scores should be relatively low, with slight increases in fear and determination due to the war context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

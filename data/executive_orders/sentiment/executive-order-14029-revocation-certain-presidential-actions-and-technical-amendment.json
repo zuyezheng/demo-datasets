@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily aims to revoke previous orders and amend civil service rules. The language is legal and procedural, lacking emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It primarily focuses on revoking previous executive orders and amending civil service rules. The language is legal and procedural, with no explicit emotional expression. However, the act of revoking previous orders might imply a sense of disapproval or a desire for change, which could be interpreted as a low level of disgust or dissatisfaction with the previous policies. The technical amendment section aims to enhance efficiency and promote good administration, suggesting a positive intent, but it's not expressed with strong emotion. Therefore, most emotions are scored low, with a slight increase in disgust due to the revocation of prior orders.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

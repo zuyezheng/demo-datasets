@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Marking Devices Industry by President Franklin D. Roosevelt. The language is legal and administrative, with no strong emotional indicators. The primary emotion conveyed, if any, is a sense of formal approval and implementation of policy. Therefore, all emotions should be scored low, with a slight emphasis on joy and surprise due to the positive nature of the announcement.",
+    "critique": "The document is a formal approval of a code of fair competition. It expresses no strong emotions. The tone is neutral and administrative. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

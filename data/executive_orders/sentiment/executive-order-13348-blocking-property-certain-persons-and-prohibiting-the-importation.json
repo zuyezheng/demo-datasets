@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 2
     },
-    "critique": "The document primarily conveys a sense of seriousness and determination to address a threat to US foreign policy. While there isn't a strong expression of any particular emotion, the declaration of a national emergency suggests a level of concern and perhaps a hint of fear regarding the situation in Liberia. However, the overall tone is formal and legalistic, limiting the emotional impact. The initial scores reflect this, with low values for all emotions. The revised scores slightly increase the fear and sadness scores to acknowledge the underlying concern and the negative impact on Liberia, but maintain low scores for other emotions due to the document's formal nature.",
+    "critique": "The document is a formal executive order addressing a national emergency related to Liberia. It expresses concern over the actions of former Liberian President Charles Taylor and the illicit trade in resources. The order aims to block assets and prohibit trade to address the threat. The language is formal and legalistic.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 3,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 4,
+        "fear": 5,
+        "disgust": 4,
+        "surprise": 2
     }
 }

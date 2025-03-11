@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to improve the Senior Executive Service. The language is formal and bureaucratic. There is no strong emotion conveyed. A slight sense of joy might be inferred from the intention to improve the service and reward top performers, but it's very mild. All other emotions are not applicable.",
+    "critique": "The document is a formal executive order. It aims to improve the federal government's senior executive service. The language is formal and focuses on policy and implementation. There is a slight sense of joy in improving the federal government's ability to serve the American people. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

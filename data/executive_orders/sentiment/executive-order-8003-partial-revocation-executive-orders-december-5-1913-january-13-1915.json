@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land reservations. It's unlikely to evoke strong emotions in the general public. The primary emotion might be a mild sense of surprise due to the revocation of previous orders, but overall, the emotional impact is minimal.",
+    "critique": "The document is a formal executive order regarding the restoration of public water reserves. It revokes previous orders related to specific land descriptions in Wyoming, Arizona, and California. The language is legal and administrative, with no explicit emotional expression. Therefore, the initial scores should be very low across all emotions, with a baseline of 1 to indicate minimal presence.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

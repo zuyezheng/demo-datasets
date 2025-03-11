@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is an executive order establishing the Papago Indian Reserve. It is a formal and legal document. The primary emotion conveyed would likely be interpreted as a mild sense of surprise that the president is creating a reserve. There is no strong indication of joy, sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order establishing the Papago Indian Reserve. It primarily uses neutral and legal language. There is a slight sense of care and concern for the Papago Indians, but it is not strongly emphasized. Therefore, emotions like joy, sadness, fear, disgust, and surprise are not significantly present. The initial scores reflect this assessment.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a bird refuge. It uses legal and administrative language. There is no explicit emotional expression. However, the act of protecting wildlife could be seen as conveying a sense of joy and care for nature, but this is implicit. The prohibition of certain activities could be interpreted as a response to potential disgust or anger at those who might harm the environment, or fear for the well-being of the birds. However, these emotions are very subdued and not explicitly stated. Therefore, most emotions should be scored low.",
+    "critique": "The document is a formal order establishing a bird refuge. It aims to protect wild birds and animals and outlines prohibited activities within the reservation. The language is legal and administrative, with a focus on clarity and enforcement. There is a sense of purpose and authority, but no strong emotions are explicitly conveyed. Therefore, most emotions should be scored low, with a slight emphasis on joy due to the positive impact on wildlife conservation.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

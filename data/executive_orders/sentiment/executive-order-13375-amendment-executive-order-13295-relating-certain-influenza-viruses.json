@@ -6,11 +6,11 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It does not express any particular emotion. The language is legal and procedural. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order. It invokes legal authority and amends a previous executive order related to public health. The language is formal and legalistic, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Considering that the document addresses a serious topic such as influenza, a minimal amount of fear and sadness might be present, but it's very subtle. The revised scores will reflect this subtle presence.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

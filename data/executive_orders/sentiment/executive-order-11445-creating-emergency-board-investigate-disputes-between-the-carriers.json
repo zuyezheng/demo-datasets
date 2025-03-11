@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement invoking the Railway Labor Act to address disputes between carriers and employees. The language is legalistic and procedural, focusing on the creation of a board to investigate and resolve the disputes. There is no explicit expression of emotions such as joy, sadness, anger, fear, disgust, or surprise. The document aims to convey a sense of authority, responsibility, and commitment to resolving the labor disputes in a fair and orderly manner. The lack of emotional language suggests that the intended audience is expected to perceive the document as a neutral and objective statement of action.",
+    "critique": "The document is a formal presidential order addressing a labor dispute. It expresses a sense of urgency and importance due to the potential disruption of interstate commerce. However, it maintains a neutral tone, focusing on the legal and procedural aspects of resolving the dispute. Therefore, the scores should reflect this formality and neutrality, with low scores for most emotions and a slightly higher score for concern or seriousness.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

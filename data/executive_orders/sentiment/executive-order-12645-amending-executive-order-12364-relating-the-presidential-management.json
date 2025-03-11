@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the Presidential Management Intern Program. It amends a previous order to increase the number of outstanding employees recruited. The language is formal and bureaucratic, with no indication of strong emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It expresses no strong emotions. The changes to the program might bring some joy to those involved, but it is not explicitly stated. Therefore, a low score for joy is appropriate. The other emotions are not present.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a military order, so it is unlikely to convey strong emotions. However, the President expresses thanks to Major-General Halleck, which could be interpreted as a sign of joy or gratitude. The order also involves reassignment of duties, which could cause surprise. The other emotions are unlikely to be conveyed in this document. The initial scores are based on these assumptions.",
+    "critique": "The document is a formal military order. It primarily announces changes in command. There is a note of gratitude expressed to Major-General Halleck. Therefore, the primary emotions conveyed would be respect and perhaps a mild sense of gratitude. There isn't strong evidence of joy, sadness, fear, disgust, or surprise. The scores should reflect this formal and neutral tone, with a slight increase in joy due to the expression of gratitude.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

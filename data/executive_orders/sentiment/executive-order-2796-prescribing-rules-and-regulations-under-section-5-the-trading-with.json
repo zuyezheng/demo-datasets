@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 5,
-        "disgust": 3,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order from 1918 regarding financial transactions during wartime. It aims to regulate foreign exchange, export of precious metals, and dealings with enemies. The language is formal and legalistic. There's no explicit expression of emotions. However, the context of wartime and the need to control financial transactions might evoke a sense of fear and concern among the public, as well as a sense of duty and resolve. The order is designed to prevent enemies from benefiting from financial transactions. I will score the emotions based on this context. Joy is not conveyed at all. Sadness is unlikely. Surprise is not relevant. Disgust might be present towards enemies, but it's not a primary emotion conveyed to the public. Fear and resolve are the most likely emotions.",
+    "critique": "The document is a formal executive order outlining regulations related to foreign exchange and trade during World War I. It aims to control financial transactions to prevent enemies from benefiting. The language is legalistic and precise, with no explicit emotional expression. However, the underlying context of wartime and the need to protect national interests suggests a sense of seriousness and determination. There is a hint of fear of enemies benefiting from financial transactions. There is no indication of joy, surprise, or sadness.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 5,
-        "disgust": 3,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
         "surprise": 1
     }
 }

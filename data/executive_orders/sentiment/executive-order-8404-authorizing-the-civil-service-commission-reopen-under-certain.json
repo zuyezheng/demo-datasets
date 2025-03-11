@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding civil service examinations. It outlines specific conditions for reopening competitive examinations and eligibility requirements for individuals nominated by the Social Security Board and the Federal Security Agency. The language is legalistic and procedural, with no indication of emotions such as joy, sadness, anger, fear, disgust, or surprise. The order aims to ensure fairness and compliance with established procedures. Therefore, all emotions should be scored as 1, indicating a neutral emotional tone.",
+    "critique": "The document is a formal executive order regarding civil service examinations. It outlines specific conditions for reopening competitive examinations for individuals employed in state agencies administering federal funds under the Social Security Act. The language is formal and bureaucratic, with no overt expression of emotions. Therefore, the initial scores should be low across all emotions. Considering the formal nature of the document, a baseline of 1 is appropriate for emotions that are not explicitly conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

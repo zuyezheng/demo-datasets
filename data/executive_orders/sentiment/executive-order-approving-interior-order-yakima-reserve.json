@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal request from the Secretary of the Interior to the President regarding the survey of land for the Yakima Indians. It is a bureaucratic document with no strong emotional content. The language is formal and objective. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal request from the Secretary of the Interior to the President regarding the survey of land for the Yakima Indians. The language is formal and bureaucratic. There is no strong emotion conveyed, but there is a slight sense of duty and responsibility. Therefore, I will assign low scores across all emotions, with a slightly higher score for sadness due to the mention of restrictions and potential interference with settlers' rights.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

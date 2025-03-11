@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation. It primarily conveys an administrative tone, focused on legal and procedural aspects. There's no strong indication of emotions like joy, sadness, anger, fear, disgust, or surprise. The language is neutral and objective, aimed at clarity and precision rather than emotional expression. Therefore, all emotions are scored low initially.",
+    "critique": "The document is a formal executive order regarding land use. It primarily concerns legal and administrative actions. There is no strong emotional language present. Therefore, most emotions should be scored low. There might be a slight sense of joy for ex-service men who are granted homestead and desert-land rights.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

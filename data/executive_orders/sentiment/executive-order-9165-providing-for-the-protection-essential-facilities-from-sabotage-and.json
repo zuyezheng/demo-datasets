@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 7,
-        "disgust": 1,
-        "surprise": 4
+        "sadness": 1,
+        "fear": 5,
+        "disgust": 3,
+        "surprise": 1
     },
-    "critique": "The document is an executive order from 1942, outlining measures to protect national-defense materials and facilities from sabotage and other destructive acts. The primary emotion conveyed is fear, driven by the context of potential threats during that time. There's also a sense of seriousness and determination to ensure the safety and security of essential facilities. The language is formal and authoritative, reflecting the gravity of the situation.I will score fear, and surprise higher than other emotions.",
+    "critique": "The document is a formal executive order outlining protective measures for national-defense materials and facilities during World War II. The primary emotion conveyed is a sense of urgency and determination to safeguard essential resources. There is an element of fear related to potential sabotage and destructive acts, but it is presented in a controlled and formal manner. There's no explicit joy or sadness. Disgust is not directly present, but the actions being guarded against could be considered disgusting. Surprise is not a prominent emotion. The language is formal and legalistic, aiming for clarity and authority.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 7,
-        "disgust": 1,
-        "surprise": 4
+        "sadness": 1,
+        "fear": 5,
+        "disgust": 3,
+        "surprise": 1
     }
 }

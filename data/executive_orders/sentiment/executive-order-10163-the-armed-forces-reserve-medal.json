@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order establishing the Armed Forces Reserve Medal. It is primarily informational and procedural, lacking strong emotional content. The President is not explicitly trying to convey any particular emotion. However, a sense of pride and respect for the armed forces could be inferred. Initial scores are set to 1 across all emotions due to the lack of explicit emotional expression. Revised scores consider a slight sense of joy and pride, increasing the joy score to 2.",
+    "critique": "The document is a formal executive order establishing the Armed Forces Reserve Medal. It outlines the criteria for the award and the design specifications. The language is legalistic and procedural. There is no explicit emotional expression. However, a sense of pride and respect for the armed forces can be inferred. Therefore, I will assign low scores to joy and surprise, and very low scores to sadness, fear, and disgust.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

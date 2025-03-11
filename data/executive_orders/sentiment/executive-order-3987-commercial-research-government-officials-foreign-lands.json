@@ -6,11 +6,11 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a set of regulations for US government representatives in foreign countries. It focuses on promoting cooperation, information sharing, and efficiency. There is no language that evokes strong emotions. The tone is formal and bureaucratic. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal set of regulations. It aims to provide guidance and ensure cooperation among US government representatives in foreign countries. The language is formal and bureaucratic, focusing on procedures and responsibilities. There is no explicit expression of emotions. However, a very slight sense of joy might be inferred from the intention to promote cooperation and protect American interests, and a very slight sense of fear might be inferred from the need to protect American interests. The rest of the emotions are not present.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

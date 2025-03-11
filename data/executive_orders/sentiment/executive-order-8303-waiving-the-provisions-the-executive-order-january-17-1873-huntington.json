@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of official procedure and authorization. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is neutral and factual. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It primarily concerns legal and administrative matters, specifically waiving a prohibition for a federal employee to hold a state office. The language is formal and legalistic, devoid of overt emotional expression. Therefore, the scores should be low across all emotions. Considering the formal nature, a baseline of 1 is appropriate for emotions not explicitly present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

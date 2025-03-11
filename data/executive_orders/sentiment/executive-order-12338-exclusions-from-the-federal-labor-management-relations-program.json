@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order detailing amendments to a previous order regarding exemptions from the Federal Labor-Management Relations Program and organizational changes within the Department of Energy. The language is formal and legalistic, with no explicit emotional expression. The order focuses on specific agencies and subdivisions, listing them in a factual manner. There is no indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores for all emotions should be low, reflecting the lack of emotional content.",
+    "critique": "The document is a formal executive order. It primarily deals with organizational changes and exemptions within government agencies, specifically related to intelligence and defense. There is no explicit emotional language used. Therefore, the scores should be very low across all emotions. Considering it is a formal document, a baseline of 1 is appropriate for emotions that are not explicitly present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

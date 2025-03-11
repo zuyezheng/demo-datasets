@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 3,
         "fear": 5,
-        "disgust": 1,
+        "disgust": 4,
         "surprise": 1
     },
-    "critique": "The document is a presidential order addressing a labor disturbance affecting transportation during a wartime emergency. The primary emotion conveyed is a sense of urgency and determination to maintain essential services. There's an element of concern (fear) regarding the potential disruption to the war effort. There isn't a strong indication of joy, sadness, disgust, or surprise. The tone is formal and authoritative.",
+    "critique": "The document is a formal executive order regarding the government takeover of transportation systems due to labor disputes during a wartime emergency. It expresses a sense of urgency and determination to ensure the continued operation of essential services. There is a sense of fear about the potential disruption to the war effort and a sense of disgust at the labor disturbance. There is no indication of joy or surprise. Sadness is present due to the emergency situation.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 3,
         "fear": 5,
-        "disgust": 1,
+        "disgust": 4,
         "surprise": 1
     }
 }

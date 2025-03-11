@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is an executive order regarding Sudan. It mentions positive actions by Sudan, which could evoke a sense of joy or relief. However, it is primarily a legal and formal document, so the emotional impact is likely to be subdued. The order also includes provisions for potential future actions based on Sudan's continued behavior, suggesting a cautious approach. Therefore, I would expect low scores for all emotions, with a slightly higher score for joy due to the mention of positive actions.",
+    "critique": "The document is a formal executive order. It expresses a sense of cautious optimism due to Sudan's positive actions, but it's primarily a legal and administrative document. Therefore, emotions like joy, sadness, fear, disgust, and surprise are not strongly conveyed. The document expresses a mild sense of optimism and hope that Sudan continues on its path.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

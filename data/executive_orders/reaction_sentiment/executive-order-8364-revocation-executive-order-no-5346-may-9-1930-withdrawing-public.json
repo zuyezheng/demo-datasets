@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a simple revocation of a previous executive order regarding land in Minnesota. The tone is formal and administrative. There's no explicit attempt to evoke strong emotions. As such, the initial scores should be relatively low across all emotions. The primary emotion might be a slight sense of relief or satisfaction for those directly affected by the land resurvey, but this is very subtle. I will set joy to 2, and all other emotions to 1 initially. Upon review, I think even joy is too high, as there is no real indication of it. I will revise all scores to 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

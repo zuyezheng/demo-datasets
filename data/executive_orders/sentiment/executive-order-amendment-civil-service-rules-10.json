@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal amendment regarding age restrictions for employment at the Government Printing Office. It removes age limits, focusing on minimum age requirements. There is no explicit emotional language or context to suggest the president is trying to convey any specific emotion. Therefore, all emotions should be scored low, with a default of 1 due to the lack of information.",
+    "critique": "The document is a formal amendment to a rule. It does not express any particular emotion. Therefore, the initial scores for all emotions should be low. Since there is not enough information, I will use a score of 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

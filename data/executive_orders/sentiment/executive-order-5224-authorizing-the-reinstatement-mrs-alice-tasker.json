@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 4,
+        "joy": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document expresses sympathy and support for Mrs. Alice Tasker, who was discharged from her position due to an injury. The president is attempting to convey a sense of compassion and a desire to rectify the situation by recommending her reinstatement. There is no indication of anger, fear, disgust, or surprise. The primary emotions conveyed are sadness (due to her situation) and a mild sense of joy (in hoping for her reinstatement).",
+    "critique": "The document is a formal letter regarding the potential reinstatement of Mrs. Alice Tasker. It outlines her previous employment, reason for discharge, and a statement about her satisfactory service. The language is neutral and factual, with no strong emotional expressions. Therefore, the initial scores should be low across all emotions. Considering it is a formal document, I will give a score of 1 for each emotion except for sadness which I will give a score of 2 because the person was discharged due to an injury.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 4,
+        "joy": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

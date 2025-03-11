@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It establishes a military tribunal and designates its members. The language is legal and procedural, with no explicit emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order designating members to military tribunals. It conveys a sense of authority and purpose, but lacks strong emotional expression. The scores reflect this neutrality, with slight indications of seriousness (low sadness) and determination (low joy). There's no evident anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

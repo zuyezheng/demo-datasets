@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal agreement related to the National Industrial Recovery Act. The language is legal and procedural, with no explicit emotional expression. The president is conveying a sense of agreement and approval, but not necessarily joy. There is no indication of sadness, anger, fear, disgust, or surprise. The intensity of any emotion conveyed is likely to be low, as the document is primarily a legal formality.",
+    "critique": "The document is a formal agreement related to the National Industrial Recovery Act. It expresses a legal and administrative tone, with no strong emotional conveyance. Therefore, the initial scores for all emotions are set to 1, indicating a minimal presence.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

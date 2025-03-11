@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "joy": 3,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 2
     },
-    "critique": "The document primarily conveys factual information regarding appointments within the Department of Commerce and Labor. There is no strong indication of any particular emotion being conveyed by the President. Therefore, all emotion scores should be relatively low.",
+    "critique": "The document is a formal report detailing appointments within the Department of Commerce and Labor and the reasons for waiving civil-service rules. The language is factual and objective, with no overt emotional expression. Therefore, the initial scores should be low across all emotions. There is a slight hint of approval, so joy can be slightly higher than the rest. After a second thought, there is no emotion conveyed in this document, so all scores should be 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

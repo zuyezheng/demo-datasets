@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 5,
-        "disgust": 5,
+        "fear": 3,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It establishes the Office of Alien Property Custodian and delegates power and authority to it. The language is legal and procedural. There is no explicit emotional expression. However, given the context of the time (1942), the order likely evokes a sense of fear and disgust towards foreign entities, especially those considered enemies. Surprise, joy, and sadness are unlikely to be conveyed.",
+    "critique": "The document is a formal executive order establishing the Office of Alien Property Custodian. It primarily conveys a sense of authority and determination to manage alien property during a time of potential conflict (as indicated by the reference to the Trading with the Enemy Act and War Powers Act). There's a hint of concern or fear related to potential threats from foreign entities, but it's not explicitly stated. The order aims to establish control and prevent potential misuse of alien property. There is no information about joy, and little information about sadness, disgust, or surprise. The initial scores reflect these considerations.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 6,
-        "disgust": 6,
+        "fear": 3,
+        "disgust": 1,
         "surprise": 1
     }
 }

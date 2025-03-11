@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It addresses a national emergency related to the reconstruction of Iraq. The language is legal and procedural, not designed to evoke strong emotions. However, the mention of a 'threat' to national security and foreign policy might induce a slight sense of fear or concern. The modification of previous orders suggests a need to adapt to changing circumstances, which could be interpreted as a sign of concern or caution. The order aims to ensure the orderly reconstruction of Iraq and protect the Central Bank of Iraq from legal processes, which could be seen as a positive step towards stability. However, the overall tone is neutral and factual.",
+    "critique": "The document is a formal executive order. It primarily addresses legal and economic matters related to Iraq. There is a sense of seriousness and determination to protect the Central Bank of Iraq and ensure the orderly reconstruction of the country. However, the language is very formal and legalistic, so strong emotions are unlikely. Therefore, joy, surprise, fear, disgust, and sadness are scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
         "disgust": 1,
         "surprise": 1

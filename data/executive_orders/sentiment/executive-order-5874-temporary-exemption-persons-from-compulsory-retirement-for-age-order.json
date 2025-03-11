@@ -1,12 +1,12 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding temporary exemptions from mandatory retirement for certain government employees. It cites the legal basis for the decision and emphasizes the public interest in maintaining continuity of service. The language is formal and bureaucratic, with no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal announcement regarding temporary exemptions from mandatory retirement for specific individuals. It emphasizes public interest and the necessity of continuous service. The language is formal and bureaucratic. Initial scores: Joy: 1, Sadness: 2, Fear: 1, Disgust: 1, Surprise: 1. Revised scores: Joy: 1, Sadness: 1, Fear: 1, Disgust: 1, Surprise: 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

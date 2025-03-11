@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Cement Industry. The language is legal and procedural, with no explicit emotional expression. The President is conveying a sense of duty and accomplishment in implementing the National Industrial Recovery Act. The public is expected to feel a mild sense of optimism and confidence in the government's actions. Therefore, I will assign low scores to all emotions except joy, which will receive a slightly higher score.",
+    "critique": "The document is a formal approval of a code of fair competition. The language is legal and administrative, with no strong emotional expression. Therefore, the initial scores should be low across all emotions. The tone is neutral and objective, aiming to convey the legal approval process.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

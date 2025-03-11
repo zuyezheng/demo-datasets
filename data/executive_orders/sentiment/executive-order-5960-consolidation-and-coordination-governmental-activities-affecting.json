@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order detailing the transfer of various agencies and their functions to the Department of Commerce. The language is legalistic and \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995, with a focus on efficiency and consolidation. There is no explicit expression of emotions. However, the underlying intent might be to convey a sense of progress, efficiency, and responsible governance. Given the context of the Great Depression, the President might be trying to project an image of competence and control. Therefore, I will assign low scores to joy and surprise, and very low scores to sadness, fear, and disgust. The document is intended to convey a sense of order and efficiency, so I will assign a low score to joy.",
+    "critique": "The document is a formal executive order detailing the transfer of powers and duties between various government entities. It aims to increase efficiency and reduce expenditures. The language is formal and legalistic, with no explicit emotional expression. However, one could argue there's a subtle sense of determination and resolve to improve government operations. Considering the formal nature, the emotional scores should be low, with a slight emphasis on determination which can be interpreted as a low level of joy or satisfaction in achieving efficiency.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

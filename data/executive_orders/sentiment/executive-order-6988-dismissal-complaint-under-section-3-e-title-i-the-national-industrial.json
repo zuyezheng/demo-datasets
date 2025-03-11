@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding a complaint about pearl essence imports. The tone is neutral and bureaucratic, with no strong emotions expressed. The president is simply stating facts and a decision based on a recommendation. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal notification regarding a complaint about pearl essence imports. The tone is neutral and factual, without strong emotional expression. Therefore, most emotions should be scored low. There's a slight hint of disappointment or disapproval regarding the complaint, but it's minimal.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

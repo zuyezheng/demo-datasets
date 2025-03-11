@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order establishing Federal Regional Councils. It is a formal and procedural document. The language is neutral and objective, with no explicit emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing Federal Regional Councils. The language is formal and objective. There is no strong indication of any particular emotion. A baseline score of 1 is appropriate for most emotions, with a slightly higher score for joy due to the establishment of coordinating groups and promotion of Federal policies.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

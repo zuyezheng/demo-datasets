@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 3,
+        "joy": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a reservation for the Northern Cheyenne Indians. The language is legal and administrative, with no explicit emotional expression. However, the act of setting aside land for the Indians could be interpreted as a positive action, potentially conveying a sense of joy or relief for the intended beneficiaries. Conversely, it might evoke sadness or anger in those who are displaced or excluded by the order. Given the lack of explicit emotional cues, the scores should be relatively low, with a slight emphasis on joy and sadness due to the potential impact on different groups.",
+    "critique": "The document is a formal executive order establishing a reservation for the Northern Cheyenne Indians. The primary emotion conveyed is a sense of official action and legal formality. There is a hint of consideration for the welfare of the Northern Cheyenne Indians, but it is expressed through the act of setting aside land rather than through explicit emotional language. There is also a consideration for existing settlers. Therefore, the emotions are relatively muted. Considering this, the initial scores are as follows: Joy: 1, Sadness: 2, Fear: 1, Disgust: 1, Surprise: 1. After further consideration, I will revise the scores to reflect the slight positive sentiment towards the Northern Cheyenne Indians and the consideration for existing settlers.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 3,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

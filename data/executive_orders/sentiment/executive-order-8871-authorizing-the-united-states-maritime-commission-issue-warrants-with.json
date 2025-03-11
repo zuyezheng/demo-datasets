@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal authorization from the President regarding the issuance of warrants for vessels to support national defense. It's a legal and administrative document, not designed to evoke strong emotions. The primary goal is to convey authority and necessity. Therefore, the expected emotional response from the public would be minimal across all categories.",
+    "critique": "The document is a formal presidential order. It expresses no strong emotions. The primary emotion might be a mild sense of determination or resolve to ensure national defense, but this is very subtle. Therefore, most scores should be low, with a slight emphasis on the positive to reflect the resolve.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

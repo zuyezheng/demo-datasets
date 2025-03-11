@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order extending trust periods on land allotments. It primarily conveys a neutral tone, as it is a formal announcement. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. The mention of deceased individuals might evoke a slight sense of sadness, but it is minimal in the context of the document's purpose.",
+    "critique": "The document is a formal order extending the trust period on allotments made to Indians. It is a legal document with no emotional language. Therefore, the scores for all emotions should be very low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

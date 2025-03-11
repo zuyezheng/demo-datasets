@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of determination and resolve, but doesn't strongly emphasize any particular emotion. The most relevant emotions would be joy and surprise, but at a low level. The other emotions are not really present.",
+    "critique": "The document is a formal executive order. It expresses a sense of authority and determination to implement the National Industrial Recovery Act. There is a slight sense of hope or optimism conveyed through the extension of the Reemployment Agreement, but overall, the tone is neutral and focused on legal and administrative matters. Therefore, joy, sadness, fear, disgust, and surprise should be scored low, with slightly higher scores for joy.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

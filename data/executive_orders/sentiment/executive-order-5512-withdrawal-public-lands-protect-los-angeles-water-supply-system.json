@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order withdrawing land from settlement to protect Los Angeles' water supply. It is a factual, administrative document with no emotional language. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal order withdrawing land from settlement, location, sale, or entry. It is a legal document with no emotional language. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

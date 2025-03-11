@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 5,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order focused on facilitating broadband deployment. It uses formal language and outlines specific actions for government agencies. There is no explicit expression of emotions. However, the emphasis on improving broadband access suggests a positive sentiment related to progress and development. The order aims to address the lack of adequate access in some areas, which could imply a mild sense of concern or urgency. Considering the overall tone and purpose, the primary emotion conveyed is a subdued sense of joy or optimism about the potential benefits of improved broadband access. Other emotions like sadness, anger, fear, disgust, and surprise are not directly relevant to the document's content and purpose.",
+    "critique": "The document is a formal executive order focused on facilitating broadband deployment. It aims to improve broadband access across the nation. The language is formal and legalistic. There is a sense of optimism and determination to improve infrastructure and connectivity. Therefore, I will assign a moderate score to joy and low scores to other emotions.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 5,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

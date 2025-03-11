@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is an executive order regarding land allocation for the Muckleshoot Indian Reservation. It's a formal and legal document. There is no explicit emotional language used. The likely emotions conveyed would be neutral. Initial scores are set to 1 across all emotions due to the lack of emotional content. After further consideration, the document could evoke a slight sense of joy for those who support the action and a slight sense of sadness for those who oppose it. However, since the document itself doesn't express these emotions, the scores remain low.",
+    "critique": "The document is a formal executive order regarding land allocation for the Muckleshoot Indian Reservation. It's a legal and administrative document, so the emotional content is minimal. The primary emotion might be a slight sense of hope or relief for the Indians receiving the land, but this is not explicitly stated. Therefore, most emotions should be scored low, with a slightly higher score for joy and surprise due to the positive impact on the Indians.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

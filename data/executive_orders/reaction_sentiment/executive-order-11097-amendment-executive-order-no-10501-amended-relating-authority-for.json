@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order that amends a previous order. The tone is formal and legalistic. The primary goal is to update the list of agencies with authority for classifying information. There is no explicit emotional appeal. However, the mention of national security suggests an underlying concern for safety and order. The actions are administrative and unlikely to evoke strong emotions. Therefore, the initial scores are mostly low. The critique is that the initial scores might be too low for fear, given the mention of national security, so I will revise that upward slightly.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

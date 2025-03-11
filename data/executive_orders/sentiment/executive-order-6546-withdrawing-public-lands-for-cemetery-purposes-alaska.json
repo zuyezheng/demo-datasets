@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order regarding land withdrawal for burial purposes. It primarily uses legal and geographical language. There is no explicit or implicit emotional sentiment conveyed in the document. Therefore, all emotions should be scored as 1, indicating a neutral or absent emotional tone.",
+    "critique": "The document is a formal order regarding the reservation of public land in Alaska for burial purposes. It primarily conveys a sense of official procedure and legal compliance rather than strong emotions. Therefore, most emotions should be scored low. Joy is unlikely in this context, sadness might be subtly present due to the mention of burial, fear and disgust are not applicable, and surprise is minimal as it's a routine administrative action.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

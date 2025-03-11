@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a commission. It does not express strong emotions. A general sense of joy and surprise might be inferred due to the new vision for space exploration, but the overall tone is neutral and official. Therefore, the initial scores are set low, with slight emphasis on joy and surprise. The revised scores reflect a more neutral stance, reducing the initial slight emphasis on joy and surprise, and setting all scores to 1.",
+    "critique": "The document is a formal executive order establishing a commission. It expresses no strong emotions. The language is neutral and procedural. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

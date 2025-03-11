@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 3,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is an executive order regarding the United States Holocaust Memorial Council. It primarily deals with membership, reporting deadlines, and termination dates. The language is formal and legalistic. There is no explicit expression of emotion. However, given the subject matter (the Holocaust), a sense of sadness might be inferred, although the document itself is neutral. Therefore, I will assign low scores to all emotions except sadness, which will receive a slightly higher score. I will then revise the scores to reflect the document's neutral tone and focus on administrative matters, reducing the sadness score and setting all other scores to 1.",
+    "critique": "The document is a formal executive order amending a previous order regarding the United States Holocaust Memorial Council. The language is legal and procedural. There is no strong emotion conveyed, but a slight sense of importance and seriousness might be present. Therefore, I will assign low scores to sadness, fear, and disgust, and slightly higher scores to joy and surprise, but overall, the scores will be low to reflect the formal and unemotional nature of the document.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

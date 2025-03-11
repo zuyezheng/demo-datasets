@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order focused on reducing government spending. It uses formal language and outlines specific actions for agencies to take. There is no explicit expression of emotions. However, one could argue that there's an underlying sense of determination to improve government efficiency and be a good steward of taxpayer money. Given the nature of the document, the expected emotional response from the public would likely be minimal. Therefore, most emotions should be scored low. However, a slight sense of joy might be perceived by some due to the promise of efficient spending, and a slight sense of surprise might be felt due to the aggressive targets. Disgust, fear, and sadness are unlikely to be conveyed.",
+    "critique": "The document is a formal executive order focused on reducing government spending. It aims to convey a sense of responsibility and efficiency. There is no strong emotion conveyed, but a mild sense of determination and perhaps a hint of satisfaction in achieving cost savings. Therefore, the initial scores are set accordingly, with low values for most emotions and a slightly higher value for joy, reflecting the positive outcome of efficient spending.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

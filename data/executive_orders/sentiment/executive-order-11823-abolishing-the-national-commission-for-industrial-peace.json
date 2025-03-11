@@ -6,10 +6,10 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the abolishment of the National Commission for Industrial Peace. The language is legal and procedural, devoid of emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It abolishes a commission and assigns responsibility for closing its affairs. The language is formal and legalistic. There is no strong indication of any particular emotion. Therefore, the initial scores should be low across all emotions. After further consideration, the formal and legal nature of the document suggests a baseline level of seriousness, which might slightly elevate sadness. However, the overall emotional tone remains neutral.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

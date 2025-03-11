@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 4,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding waste prevention and recycling. It aims to improve the Federal Government's use of recycled products and environmentally preferable products and services. The language is formal and legalistic. The primary emotion conveyed is a sense of responsibility and commitment to environmental stewardship. There's a hint of optimism that these measures will lead to a better future. There is no indication of negative emotions such as sadness, anger, fear, or disgust. Surprise is also not relevant in this context. Therefore, joy is the most relevant emotion, but it's not a strong, overt expression of joy, more of an underlying positive sentiment.",
+    "critique": "The document is a formal executive order focused on improving the Federal Government's use of recycled products and environmentally preferable products and services. It outlines definitions, roles, duties, and goals related to waste prevention, recycling, and procurement practices. The language is formal and legalistic, with no overt expression of emotions. However, there is an underlying sense of optimism and determination to improve environmental practices within the government. Therefore, I will assign low scores for joy and surprise, and very low scores for sadness, fear, and disgust.",
     "revised_scores": {
-        "joy": 4,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

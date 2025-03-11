@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a proclamation adding land to a national forest and game refuge. It is a formal, legal document with no inherent emotional content. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal proclamation adding land to a national forest and game refuge. The language is legal and administrative, with no explicit emotional expression. Therefore, the initial scores should be very low across all emotions, with a baseline of 1 to indicate the presence of the document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

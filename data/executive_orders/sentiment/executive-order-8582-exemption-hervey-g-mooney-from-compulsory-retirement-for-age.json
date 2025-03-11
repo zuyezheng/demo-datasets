@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal exemption from retirement for an individual. It doesn't express strong emotions. The president is conveying a neutral tone, with a slight hint of joy for the person being exempted. The scores should be low across the board, with joy slightly higher than the others.",
+    "critique": "The document is a formal exemption from retirement. It expresses no strong emotions. The presence of the word \"Whereas\" indicates a formal tone. The document focuses on a specific legal action, exempting an individual from mandatory retirement. There's a neutral tone, with no indication of joy, sadness, fear, disgust, or surprise. Therefore, a score of 1 is appropriate for each emotion.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

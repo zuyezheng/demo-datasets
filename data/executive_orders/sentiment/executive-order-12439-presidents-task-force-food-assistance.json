@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a task force on food assistance. It uses formal and legalistic language. There is no strong emotional sentiment conveyed. The primary goal is to establish a task force and define its functions, administration, and general guidelines. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing a task force on food assistance. The language is formal and bureaucratic. There is a mild sense of joy that the president is trying to help people. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a land withdrawal order for use by the Department of Agriculture. The tone is formal and legalistic. The primary emotion the President wants to elicit is probably a sense of order and administrative efficiency. There's no strong emotional appeal, but a slight sense of reassurance that the government is managing resources responsibly might be intended. Therefore, I will assign low scores to all emotions except perhaps a slightly higher score to joy, reflecting a sense of satisfaction that things are being handled correctly. I will then revise the scores to reflect the lack of strong emotional content.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

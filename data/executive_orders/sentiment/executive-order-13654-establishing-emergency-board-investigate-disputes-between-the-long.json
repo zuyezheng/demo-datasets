@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding a labor dispute. It uses neutral and legalistic language. There is no strong indication of any particular emotion being conveyed. Therefore, all emotions are scored low initially. Upon further reflection, the document aims to convey a sense of calm and control in resolving a labor dispute, so a slight degree of 'joy' (in the sense of satisfaction that the situation is being handled) might be present. However, the overall tone remains very neutral.",
+    "critique": "The document is a formal order regarding a labor dispute. It primarily conveys a sense of seriousness and urgency, with a hint of concern due to the unresolved disputes. There is no explicit joy expressed. Sadness is minimal, related to the ongoing dispute. Fear is present due to the potential consequences of the dispute. Disgust is not apparent. Surprise is not a factor.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 1,
-        "fear": 1,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     }

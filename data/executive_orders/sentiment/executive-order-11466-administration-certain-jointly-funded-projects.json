@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and official procedure rather than any strong emotion. The language is legalistic and procedural, with no explicit emotional cues. Therefore, all emotions should be scored low initially. Upon further reflection, the document aims to inspire confidence and stability through its authoritative tone, which could be interpreted as a subtle form of joy or reassurance. However, this is a very mild effect.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and official procedure. There is no strong indication of emotions such as joy, sadness, fear, disgust, or surprise. The language is neutral and focused on legal and administrative matters. Therefore, the initial scores for all emotions are set to 1, indicating a minimal presence.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order regarding land withdrawal for national defense purposes. It's a formal and legal document, so it's unlikely to evoke strong emotions in the general public. The primary purpose is to inform and instruct, not to elicit an emotional response. Therefore, all emotions should be scored low initially.",
+    "critique": "The document is a formal presidential order withdrawing public lands for national defense purposes. It's a legal and administrative document, so the primary emotions conveyed are related to the importance and urgency of national defense. There is no explicit expression of emotions like joy, sadness, disgust, or surprise. Fear might be subtly present due to the context of national defense, but it's not overtly stated. Therefore, most emotions should be scored low, with a slightly higher score for fear due to the national defense context.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document primarily conveys a sense of purpose and progress in land conservation and wildlife preservation. While not explicitly joyful, the act of establishing a wildlife refuge suggests a positive outcome. There's no indication of sadness, anger, fear, or disgust. A mild sense of surprise might be present due to the scale of the project, but it's not a dominant emotion. Therefore, joy is scored moderately, and other emotions are scored low.",
+    "critique": "The document is a formal order regarding land use in North Carolina. It establishes a wildlife refuge and transfers jurisdiction of the land. The language is legal and administrative, with little emotional expression. Therefore, the initial scores should be low across all emotions. There might be a slight sense of joy due to the conservation aspect, but it's minimal. The revised scores will reflect this.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

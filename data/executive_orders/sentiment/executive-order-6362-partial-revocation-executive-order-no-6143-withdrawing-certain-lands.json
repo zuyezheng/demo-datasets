@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order regarding land allocation. It doesn't express any particular emotion. The language is formal and factual. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding land allocation. It primarily uses legal and administrative language. There is no explicit emotional expression. Therefore, the emotion scores should be very low, with a baseline of 1 for each emotion due to the presence of formal language.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

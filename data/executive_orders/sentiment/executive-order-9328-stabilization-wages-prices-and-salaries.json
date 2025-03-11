@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order focused on economic stabilization during wartime. It uses formal and legalistic language. The primary goal is to control prices, wages, and salaries to prevent inflation and support the war effort. There's no explicit expression of emotions. However, a sense of urgency and determination to maintain stability can be inferred. The order aims to prevent negative economic consequences, which could indirectly relate to fear or concern about the economy. However, the overall tone is neutral and authoritative, aiming to convey a sense of control and stability rather than any specific emotion. Therefore, all scores should be low.",
+    "critique": "The document is a formal executive order focused on economic stabilization during wartime. It primarily conveys a sense of urgency and determination to control prices and wages. There's a hint of concern about the potential for economic instability if these measures aren't taken. Joy is not present. Sadness is not present. There is no anger. Fear is present due to the economic situation of the war. Disgust is not present. Surprise is not present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     }

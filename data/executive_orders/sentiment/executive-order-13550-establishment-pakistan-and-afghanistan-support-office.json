@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is an executive order establishing the Pakistan and Afghanistan Support Office (PASO). It outlines the purpose, functions, personnel, and administrative details of the office. The language is formal and legalistic. There is no explicit expression of emotion. However, the underlying intent to support and strengthen the governments in Afghanistan and Pakistan could be interpreted as conveying a sense of hope or optimism, although this is not explicitly stated. The document aims to convey a sense of authority, determination, and commitment to the stated goals. Therefore, the initial scores are set to 1, except for joy, which is set to 2 to reflect the implicit hope.",
+    "critique": "The document is a formal executive order establishing a temporary organization. It aims to support governments in Afghanistan and Pakistan. The language is formal and legalistic. There is no strong emotion conveyed, but a sense of purpose and resolve is present. Therefore, the initial scores are set to low values, with slightly higher scores for joy and surprise due to the positive intent and establishment of a new office.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

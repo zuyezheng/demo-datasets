@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding compensation for enlisted men in the Navy and Coast Guard. It primarily focuses on amending a previous order related to pay for special qualifications in the use of arms. There is no explicit emotional language or sentiment expressed in the document. The content is purely administrative and legal in nature. Therefore, all emotion scores should be very low, close to 1, as the document is not designed to evoke any particular emotion in the reader.",
+    "critique": "The document is a formal executive order amending a previous order regarding compensation for enlisted men in the Navy and Coast Guard. The language is legalistic and procedural. There is no strong emotional content conveyed. A baseline of 1 is appropriate for most emotions, as the document focuses on factual information and directives rather than emotional expression. There might be a slight sense of joy that soldiers are getting paid, but it is not explicitly stated.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

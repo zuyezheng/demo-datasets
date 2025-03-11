@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the exemption of John F. Phillips from compulsory retirement. It does not express any strong emotions. The primary emotion conveyed might be a mild sense of approval or satisfaction in ensuring the continued service of a valuable employee, but this is very subtle. Therefore, most emotions should be scored low, with a slightly higher score for joy due to the positive nature of the announcement.",
+    "critique": "The document is a formal exemption from compulsory retirement. It expresses no strong emotions. The presence of the word \"judgment\" suggests a slight degree of thoughtfulness. The rest of the document is purely informational and procedural.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

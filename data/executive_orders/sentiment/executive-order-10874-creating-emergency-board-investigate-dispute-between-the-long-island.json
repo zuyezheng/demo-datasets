@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal announcement regarding a labor dispute. It doesn't express any particular emotion. The language is neutral and factual. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses a sense of urgency and authority, but avoids strong emotional language. Therefore, most emotions should be scored low. There might be a slight sense of concern (sadness) due to the potential disruption of transportation, and a hint of surprise that the dispute wasn't resolved earlier, but these are minimal. Disgust, fear, and joy are not present.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

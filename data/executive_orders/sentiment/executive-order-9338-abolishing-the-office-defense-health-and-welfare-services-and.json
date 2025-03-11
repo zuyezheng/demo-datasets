@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding health and welfare services during an emergency. It primarily focuses on transferring functions and responsibilities between different offices. The language is formal and legalistic, with no explicit emotional expression. However, the context of an 'emergency' might evoke some level of concern or seriousness. Given the nature of the document, the expected emotional response from the public would likely be minimal, with perhaps a slight sense of concern due to the mention of an emergency. Therefore, I will assign low scores across all emotions, with a slightly higher score for fear due to the emergency context.",
+    "critique": "The document is a formal executive order regarding the transfer of health and welfare services during a war emergency. The language is legalistic and bureaucratic. There is no explicit expression of emotions. However, the context of a war emergency might imply some level of concern or seriousness. I will assign low scores to sadness and fear to reflect the seriousness of the situation, but otherwise, I will assign a score of 1 to all other emotions.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
         "disgust": 1,
         "surprise": 1

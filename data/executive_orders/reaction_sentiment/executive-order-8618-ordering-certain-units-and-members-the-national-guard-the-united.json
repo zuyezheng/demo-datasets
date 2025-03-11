@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a military order, so the primary emotions the President wants to elicit are not strong ones. The document is formal and direct, so the emotions should be muted. The document is about national defense, so there should be a slight sense of reassurance and confidence. There is no information to suggest any strong emotions.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

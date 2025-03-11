@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 2,
-        "fear": 1,
-        "disgust": 1,
+        "joy": 4,
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal order establishing a wildlife refuge. It primarily uses legal and administrative language. The primary emotion conveyed would be joy for people who care about wild animals and sadness for people who want to use the land for other purposes. However, the overall tone is neutral. Therefore, the initial scores should be low across all emotions.",
+    "critique": "The document is a formal order establishing a wildlife refuge. It primarily uses legal and administrative language. There is a sense of joy in protecting wildlife, but it is subdued. There's a hint of sadness if the refuge is needed due to prior neglect. There's a stern warning against violations, suggesting potential anger towards those who might harm the refuge. There's a slight sense of fear for the wildlife if the refuge isn't established. Disgust might be present if one considers the actions that necessitate the refuge. Surprise is minimal, as such orders are not entirely unexpected.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 2,
-        "fear": 1,
-        "disgust": 1,
+        "joy": 4,
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 2,
         "surprise": 1
     }
 }

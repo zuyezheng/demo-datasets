@@ -1,14 +1,14 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation for the Northern Cheyenne Indian Reservation. It primarily uses legal and geographical descriptions. There's no explicit emotional language used. The order seems to aim for a neutral, official tone. However, considering the historical context of land allocation to Native Americans, some might perceive underlying emotions related to justice, fairness, or historical grievances. Given the lack of explicit emotional cues, the initial scores will be low, with a slight consideration for potential underlying sadness or surprise depending on one's perspective on such historical actions. The revised scores will reflect a more balanced and neutral assessment, acknowledging the document's formal nature and the absence of overt emotional expression.",
+    "critique": "The document is a formal executive order regarding land allocation for the Northern Cheyenne Indian Reservation. It primarily uses legal and geographical descriptions. Emotions such as joy, sadness, fear, disgust, and surprise are not explicitly conveyed. However, there might be an underlying sense of justice or resolution, but it's very subtle. Therefore, most scores will be low, with a slight consideration for the potential positive impact on the Northern Cheyenne.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

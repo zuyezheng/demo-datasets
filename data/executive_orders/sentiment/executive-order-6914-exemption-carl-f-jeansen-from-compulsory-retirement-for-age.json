@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of official action and adherence to legal procedures. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. The president is making a decision based on public interest, as stated in the document. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order from the President to exempt Carl F. Jeansen from mandatory retirement. The language is formal and legalistic. There is no strong emotion conveyed, but a mild sense of duty and perhaps a hint of positive sentiment towards Jeansen's continued service. Therefore, I will assign low scores across the board, with a slightly higher score for joy to reflect the positive decision to allow Jeansen to continue working.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

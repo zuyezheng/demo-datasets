@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
-        "disgust": 2,
-        "surprise": 3
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 6,
+        "surprise": 4
     },
-    "critique": "The document expresses a serious tone, addressing a critical issue during wartime. It conveys a sense of urgency and determination to ensure the uninterrupted flow of essential goods. The President aims to project a sense of control and resolve, but also acknowledges the existing labor dispute and the need for a peaceful resolution. There's an underlying tone of disappointment or frustration with the Company's refusal to submit to arbitration. Given the context, the primary emotions conveyed are a mix of determination, concern, and perhaps a hint of frustration. Joy is not present. Surprise is not the primary emotion, but there might be a slight element of it due to the unexpected refusal of the Company. Disgust is not a primary emotion, but a low level might be present due to the company's actions. Fear is not a primary emotion, but there might be a low level related to the potential disruption of the war effort. Sadness is not a primary emotion.",
+    "critique": "The document expresses a firm resolve to ensure the uninterrupted flow of goods during wartime. It highlights the agreement between labor and industry to avoid strikes and lockouts, and the establishment of the National War Labor Board to resolve disputes peacefully. The document conveys a sense of urgency and determination to address the labor dispute at the Toledo, Peoria and Western Railroad Company, which has disrupted essential transportation. The President invokes his authority to take control of the railroad to ensure the successful prosecution of the war. There is a sense of disappointment that the company refused arbitration. Overall, the document conveys a serious and decisive tone, with a focus on national security and the war effort. There is little to no expression of joy. There is a hint of sadness that the company and employees could not come to an agreement. There is a sense of anger that the company refused arbitration. There is a sense of fear that the interruption in the flow of goods will impact the war effort. There is a sense of disgust that the company refused arbitration. There is a sense of surprise that the company refused arbitration.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 3,
-        "disgust": 3,
-        "surprise": 4
+        "sadness": 4,
+        "fear": 6,
+        "disgust": 7,
+        "surprise": 5
     }
 }

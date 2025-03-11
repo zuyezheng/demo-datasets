@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a labor dispute between railroads and their employees. It establishes an emergency board to investigate the dispute and prevent disruption of interstate commerce. The language is legalistic and procedural, with no overt expression of emotion. Therefore, the expected emotional response from the public would be minimal across all categories.",
+    "critique": "The document is a formal order from the President regarding a dispute between railroads and their employees. The language is legal and procedural. There is no strong emotion conveyed, but a sense of urgency and concern due to the potential disruption of interstate commerce. Therefore, I will assign low scores to all emotions, with a slightly higher score for concern/fear and sadness due to the negative impact of the dispute.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

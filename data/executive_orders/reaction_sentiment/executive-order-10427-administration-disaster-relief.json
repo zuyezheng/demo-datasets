@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 5,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is an executive order regarding disaster relief. As the President, I would want to elicit feelings of joy (relief, hope), and reduce feelings of fear and sadness. The language is formal and bureaucratic, so strong emotions are unlikely. The order aims to provide assistance and coordinate efforts, which should inspire some joy and reduce fear. There's little to suggest anger, disgust, or surprise.",
+    "revised_scores": {
+        "joy": 6,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

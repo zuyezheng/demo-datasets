@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "fear": 5,
+        "disgust": 2,
+        "surprise": 3
     },
-    "critique": "The document is a formal military order regarding the suspension of habeas corpus for a specific individual accused of treason. The language is formal and legalistic, devoid of emotional expression. There is no explicit attempt to portray joy, sadness, anger, fear, disgust, or surprise. The context suggests a serious matter of national security, but the document itself remains neutral in tone. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal military order regarding the suspension of habeas corpus for a specific individual accused of treason. The primary emotion conveyed is a sense of seriousness and urgency, with a hint of fear or concern regarding potential threats to the government. There is no explicit expression of joy, sadness, disgust, or surprise. The order is delivered in a direct and authoritative tone, reflecting the gravity of the situation. Initial scores: Joy: 1, Sadness: 1, Fear: 5, Disgust: 2, Surprise: 3. Revised scores: Joy: 1, Sadness: 1, Fear: 5, Disgust: 2, Surprise: 3.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "fear": 5,
+        "disgust": 2,
+        "surprise": 3
     }
 }

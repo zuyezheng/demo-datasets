@@ -1,12 +1,12 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration regarding the governance and financial management of the Virgin Islands. It quotes sections of an Act of Congress and outlines rules for the local Colonial Council and the Governor. There is no explicit expression of emotion in the document. The language is legal and administrative, focusing on the practical implementation of laws and regulations. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal legal document outlining the governance and financial management of the Virgin Islands under US jurisdiction. It quotes sections of an Act of Congress and prescribes rules for the local government. The language is legalistic and devoid of emotional expression. Therefore, the initial scores should be very low across all emotions, with a slight emphasis on sadness due to the discussion of taxes. After revision, the scores should remain low, reflecting the document's neutral tone.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

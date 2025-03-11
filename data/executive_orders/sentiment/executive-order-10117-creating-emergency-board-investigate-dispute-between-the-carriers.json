@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding a labor dispute and the creation of a board to investigate it. The language is legal and procedural, with no explicit emotional expression. Therefore, the expected emotional response from the public would likely be minimal across all emotions. Considering that, initial scores will be set to 1 for all emotions. After further consideration, there's no indication of any specific emotion being conveyed. The document is purely informational.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses a sense of urgency and authority, but avoids strong emotional language. The primary goal is to establish a board to investigate and resolve the dispute, ensuring the continuation of essential transportation services. Therefore, the scores should reflect the formal and neutral tone of the document, with minimal expression of any particular emotion.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

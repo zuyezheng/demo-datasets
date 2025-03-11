@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is an executive order focused on counterterrorism. It is a formal and legal document. The primary emotion conveyed would be concern and determination to protect the United States from terrorist threats. There is a sense of urgency and seriousness, but not necessarily fear or anger. Joy is not relevant in this context. Surprise is also not a primary emotion, as the document is a planned response to a known threat.",
+    "critique": "The document is a formal executive order establishing the National Counterterrorism Center. The primary emotion conveyed is a sense of urgency and determination to counter terrorism. There is a subtle undercurrent of fear related to the threats posed by terrorism, but it is not explicitly stated. There is no indication of joy, surprise, or disgust. Sadness is not directly expressed, but the context implies a somber recognition of the need to address terrorism.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 5,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

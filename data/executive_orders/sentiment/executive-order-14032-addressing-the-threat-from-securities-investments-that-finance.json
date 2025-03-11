@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 1,
-        "surprise": 3
+        "sadness": 1,
+        "fear": 5,
+        "disgust": 4,
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a national emergency related to Chinese military companies and surveillance technology. The language is legal and technical, with the primary goal of conveying authority and outlining specific prohibitions and actions. There is no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. However, the context implies a level of concern and seriousness regarding the threats posed by the specified activities. The order aims to reassure the public that the government is taking action to protect national security and the economy. Therefore, the implied emotions are concern and determination. The intensity of these emotions is moderate, as the document is a formal declaration rather than an emotional appeal.",
+    "critique": "The document is a formal executive order addressing national security threats related to Chinese surveillance technology and military-civil fusion strategy. It primarily conveys a sense of seriousness and determination to protect national interests. There is an element of fear regarding the threats, but it is presented in a controlled, formal manner. There's no explicit joy, sadness, or surprise expressed. Disgust is implied but not directly stated.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 1,
-        "surprise": 3
+        "sadness": 1,
+        "fear": 6,
+        "disgust": 5,
+        "surprise": 1
     }
 }

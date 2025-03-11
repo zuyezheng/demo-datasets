@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of an appointment. It expresses no strong emotions. The language is neutral and factual. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal announcement of an appointment. There is no explicit emotional content. The mention of military training and qualifications suggests a positive sentiment, but it's not strong enough to warrant a high score for joy. There's no indication of sadness, anger, fear, disgust, or surprise. Therefore, a score of 1 is appropriate for all emotions initially.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

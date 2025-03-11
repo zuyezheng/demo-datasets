@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. It doesn't express any particular emotion; it's a factual and procedural declaration. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It aims to prevent disruption to interstate commerce. The language is formal and legalistic. There is no strong indication of joy, sadness, fear, disgust, or surprise. A low level of concern is present due to the potential disruption of essential services, so I will assign a low score to fear and sadness. The rest of the emotions will be scored as 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

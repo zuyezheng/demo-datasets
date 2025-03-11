@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal order establishing an emergency board to investigate a dispute between The Long Island Rail Road and its employees. The language is legal and procedural, with no explicit emotional expression. However, the situation implies a sense of concern and urgency to resolve the dispute and maintain stability. Therefore, I will assign low scores for sadness and fear, and a minimal score for surprise. There is no indication of joy or disgust.The initial scores reflect my assessment of the emotions conveyed in the document. After further consideration, I have slightly adjusted the scores to better reflect the subtle emotions implied by the situation.",
+    "critique": "The document is a formal executive order establishing an emergency board to investigate a dispute between The Long Island Rail Road and its employees. The language is legalistic and procedural. There is no strong emotional content. Therefore, the initial scores should be low across all emotions, with a slight emphasis on sadness and fear due to the mention of a 'dispute'.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 4,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

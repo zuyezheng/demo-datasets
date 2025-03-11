@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement naming a dam. There is no emotional language used. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal naming declaration. It's unlikely to convey strong emotions. The primary emotion might be a slight sense of joy or satisfaction in honoring General Joe Wheeler, but it's very subtle. Other emotions are not apparent.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

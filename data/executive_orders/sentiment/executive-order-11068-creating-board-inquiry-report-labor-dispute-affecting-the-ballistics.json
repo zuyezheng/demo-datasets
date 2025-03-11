@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
-        "disgust": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding a labor dispute and the creation of a Board of Inquiry. The language is legal and official, with no explicit emotional expression. However, the context suggests a sense of concern due to the potential impact of the strike on national health and safety. Therefore, a low level of fear and concern might be inferred. There's no indication of joy, sadness, disgust, or surprise.",
+    "critique": "The document is a formal presidential order creating a Board of Inquiry to address a labor dispute. It expresses concern about the potential impact of the strike on national health and safety. The language is formal and legalistic. Initial scores: Joy: 1, Sadness: 3, Fear: 4, Disgust: 2, Surprise: 1. Revised scores: Joy: 1, Sadness: 3, Fear: 4, Disgust: 2, Surprise: 1",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
-        "disgust": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 2,
         "surprise": 1
     }
 }

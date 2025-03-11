@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 8,
+        "fear": 6,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 4
     },
-    "critique": "The document is a military order from the President during the Civil War. The order is for the immediate organization of civil employees into armed companies for the defense of Washington. The primary emotion conveyed is fear due to the imminent threat to the capital. Surprise might also be present, as the order is unexpected. There is no indication of joy, sadness, or disgust. The intensity of fear is high, as it is a time of war. The surprise is moderate, as such measures might be expected during wartime.",
+    "critique": "The document is a military order from the President. It expresses a need to organize and arm employees for the defense of the capital. The primary emotion conveyed is fear, due to the perceived threat to the capital. There might also be a sense of surprise at the sudden need for such measures. There is no indication of joy, sadness, or disgust. The order is formal and direct, so the intensity of fear and surprise would be moderate.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 8,
+        "fear": 6,
         "disgust": 1,
-        "surprise": 5
+        "surprise": 4
     }
 }

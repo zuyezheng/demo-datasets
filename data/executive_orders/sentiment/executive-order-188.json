@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order regarding land transfer. It does not express any particular emotion. The language is formal and factual. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order regarding land transfer. It revokes a previous order and places land under the control of the Secretary of the Interior. The language is legal and administrative, with no explicit emotional expression. Therefore, all emotions should be scored low, with a baseline of 1 due to the formal nature of the document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

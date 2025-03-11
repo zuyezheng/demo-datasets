@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document primarily conveys a sense of seriousness and commitment to ethical conduct. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and aims to establish clear guidelines. Therefore, the initial scores for all emotions would be relatively low. After further consideration, the document evokes a very mild sense of reassurance and trust, but not enough to significantly alter the initial low scores.",
+    "critique": "The document is a formal executive order focused on ethics and moral standards within the Federal Government. It aims to prevent conflicts of interest and maintain public trust. The language is formal and legalistic, with no overt expression of emotions. However, there's an underlying sense of seriousness and determination to uphold ethical conduct. Therefore, I will assign low scores across all emotions, with a slightly higher score for sadness due to the acknowledgement of potential ethical lapses and a slightly higher score for disgust due to the intention to prevent unethical behavior.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 3,
         "surprise": 1
     }
 }

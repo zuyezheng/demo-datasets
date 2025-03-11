@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of official action and adherence to legal procedures. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. The president is making a practical decision to extend the service of two individuals based on public interest. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of official action and adherence to legal procedures. There is a mild sense of positive sentiment due to the exemption granted to the individuals, but it's not strong. Therefore, I will assign low scores for joy, and minimal scores for other emotions.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

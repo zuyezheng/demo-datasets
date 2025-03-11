@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order regarding the delay of employee separations. It's a formal announcement with no strong emotional language. The primary emotion conveyed might be a slight sense of relief (reduced fear/anxiety) for the employees who are temporarily spared from separation, but it's very mild. There's no explicit joy, sadness, anger, disgust, or surprise expressed or intended to be felt strongly by the public. The scores should reflect this neutrality with a slight leaning towards reduced fear.",
+    "critique": "The document is a formal announcement regarding a delay in the separation of employees. It's a bureaucratic communication with no strong emotional content. Therefore, all emotions should be scored low. Initial scores: disgust=1, fear=1, joy=1, sadness=1, surprise=1. Revised scores: disgust=1, fear=1, joy=1, sadness=1, surprise=1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

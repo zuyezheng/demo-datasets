@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order focused on curbing fraud, waste, and abuse in Federal programs. It outlines procedures for debarment and suspension of participants in Federal programs. The language is formal and legalistic, with a focus on establishing processes and responsibilities. There is no explicit expression of emotions. However, the order implicitly conveys a sense of seriousness and determination to address the issues of fraud, waste, and abuse. Therefore, I will assign low scores to negative emotions such as disgust, fear, and sadness, and a slightly higher score to surprise, as the public might be surprised by the extent of the problem. Joy is not conveyed at all. Revised scores are provided below.",
+    "critique": "The document is a formal executive order. It aims to curb fraud, waste, and abuse in Federal programs. The language is formal and legalistic. There is no explicit expression of emotions. However, the order implicitly conveys a sense of seriousness and determination to address the issues mentioned. Therefore, I will assign low scores for most emotions, with a slightly higher score for seriousness.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 2,
-        "surprise": 3
+        "surprise": 1
     }
 }

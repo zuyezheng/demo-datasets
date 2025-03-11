@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily concerns the revocation of a reporting requirement related to civilian casualties in US military operations. The language is legal and procedural, lacking emotional expression. Therefore, all emotions are scored low initially.",
+    "critique": "The document is a formal executive order. It primarily concerns the revocation of a reporting requirement related to civilian casualties in U.S. military operations. The language is legal and procedural, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. However, there might be a slight sense of sadness or concern implied by the subject matter, but it's very subtle.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

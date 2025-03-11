@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the exemption of Dr. Alan T. Waterman from compulsory retirement. It uses formal language and states the reasons for the exemption. There is no indication of emotions like joy, sadness, anger, fear, disgust, or surprise. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal announcement regarding the exemption of Dr. Alan T. Waterman from compulsory retirement. It expresses a formal tone with no strong emotional conveyance. Therefore, most emotions should be scored low, with a slightly elevated score for joy due to the positive nature of the announcement.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

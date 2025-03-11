@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal announcement about a change in departmental rules. It's unlikely to evoke strong emotions in the American public. The primary emotion might be a slight surprise that such a specific rule change is being announced, but overall, the emotional impact is minimal. Initial scores: disgust=1, fear=1, joy=1, sadness=1, surprise=2. Revised scores: disgust=1, fear=1, joy=1, sadness=1, surprise=2.",
+    "critique": "The document is a formal announcement about a change in departmental rules. It removes 'bookbinders' from the list of positions exempt from examination. The language is neutral and factual, with no explicit emotional expression. Therefore, all emotions should be scored low, with a default score of 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

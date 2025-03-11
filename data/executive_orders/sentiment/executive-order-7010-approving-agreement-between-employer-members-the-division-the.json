@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal legal document, an executive order from President Roosevelt. It approves an agreement within the construction industry under the National Industrial Recovery Act. The language is formal and legalistic, focusing on compliance and procedure. There's no explicit emotional appeal. However, the underlying intent might be to convey a sense of stability, order, and progress through the implementation of government programs. Given the context of the Great Depression, this could be interpreted as a subtle attempt to inspire hope and confidence. However, the document itself is largely devoid of overt emotional content. Therefore, most emotions should be scored low. I will give a slightly higher score to joy, as the document signifies progress and order.",
+    "critique": "The document is a formal approval of an agreement related to the National Industrial Recovery Act. The language is legal and administrative, with no strong emotional expression. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

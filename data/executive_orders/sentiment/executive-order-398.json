@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 9,
-        "fear": 1,
+        "sadness": 8,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 5
     },
-    "critique": "The document expresses sadness and somberness due to the assassination of Abraham Lincoln. The language used, such as 'great affliction' and 'lamented,' indicates a sense of sorrow and loss. There is no indication of joy, anger, fear, disgust, or surprise. The intensity of sadness is expected to be high, as it commemorates the death of a president. The other emotions are not relevant in this context, so they should be scored as 1.",
+    "critique": "The document is a formal announcement of the closure of public offices due to the assassination of Abraham Lincoln. The primary emotion conveyed is sadness due to the loss of the President. There might be some fear and surprise associated with the assassination, but sadness is the most prominent emotion. Disgust and joy are not relevant in this context. The initial scores reflect these considerations, with sadness being the highest, followed by fear and surprise, and minimal disgust and joy. The revised scores slightly adjust the intensity of sadness and fear based on the language used.",
     "revised_scores": {
         "joy": 1,
         "sadness": 9,
-        "fear": 1,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 5
     }
 }

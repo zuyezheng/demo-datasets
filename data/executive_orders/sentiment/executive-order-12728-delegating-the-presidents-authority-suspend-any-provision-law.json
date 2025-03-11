@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It delegates authority to the Secretary of Defense and the Secretary of Transportation regarding the suspension of certain laws related to members of the armed forces deemed essential to national security. The language is legal and procedural, with no explicit emotional content. Therefore, all emotions should be scored low. Since there is not enough information to portray any emotion, a score of 1 will be given to all emotions.",
+    "critique": "The document is a formal executive order. It primarily deals with delegation of authority related to national security. There is no strong indication of emotions like joy, sadness, fear, disgust, or surprise. The language is formal and legalistic. Therefore, the initial scores should be low across all emotions. I will set all initial scores to 1, indicating a minimal presence of each emotion.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

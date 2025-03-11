@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 3,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the classification and reservation of public lands for conservation and development. The language is legal and administrative, lacking strong emotional cues. The primary implied sentiment is a sense of responsibility and determination to manage natural resources effectively. Therefore, the scores should reflect low levels of all emotions, with a slight emphasis on positive emotions like joy that might be associated with conservation efforts.",
+    "critique": "The document is a formal executive order regarding the classification and withdrawal of public lands for conservation and development. The primary emotions conveyed are related to the importance of conservation and the execution of government programs. There is a sense of purpose and determination, but strong emotions are not explicitly expressed. Therefore, the scores should be relatively low, reflecting the formal and objective nature of the document.",
     "revised_scores": {
         "joy": 3,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the use of protected health information. It aims to establish a policy that protects patient privacy while allowing law enforcement access when the public interest clearly outweighs privacy concerns. The language is formal and legalistic, focusing on policy and implementation. There is no explicit expression of emotions. However, the document implicitly conveys a sense of responsibility and concern for both public safety and individual privacy. Given the nature of the document, the expected emotional response from the public would likely be minimal, with slight degrees of reassurance and perhaps mild surprise at the level of detail. Therefore, the initial scores are set accordingly.",
+    "critique": "The document is a formal policy statement regarding the use of protected health information. It aims to balance public interest with patient privacy. The language is formal and legalistic. Joy is unlikely to be conveyed. Sadness is unlikely to be conveyed. Anger is unlikely to be conveyed. Fear might be present due to concerns about privacy violations. Disgust is unlikely to be conveyed. Surprise is unlikely to be conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order from the President regarding closing government offices early on the days before Christmas and New Year's Day. The primary emotion conveyed is a sense of goodwill and consideration for government employees during the holiday season. There's a slight element of joy associated with the holidays, but it's not overtly expressed. There's no indication of sadness, anger, fear, disgust, or surprise. The scores reflect these observations, with joy being the only emotion with a non-negligible score.",
+    "critique": "The document is a formal order regarding government employees' time off before Christmas and New Year's Day. It expresses a neutral tone, with no strong emotions conveyed. The language is formal and administrative. Therefore, all emotions should be scored low, with a slight emphasis on joy due to the holiday season.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

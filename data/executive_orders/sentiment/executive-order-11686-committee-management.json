@@ -4,9 +4,9 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal announcement regarding the Federal Advisory Committee Act. The language is legal and procedural, with no indication of strong emotion. Therefore, I expect low scores for all emotions. The highest score might be for surprise, as the public might be mildly surprised by the announcement, but it should still be low. I will revise the surprise score to 2.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and official action. There is no strong indication of joy, sadness, fear, disgust, or surprise. The language is neutral and procedural. Therefore, the initial scores for all emotions should be low, with a slight emphasis on surprise due to the revocation of a previous order.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

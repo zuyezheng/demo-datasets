@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal announcement of an appointment. It is unlikely to evoke strong emotions in the American public. The most relevant emotions would be surprise, as it is an unexpected announcement, and perhaps a mild sense of joy or sadness depending on how the public views the appointment. Disgust, fear, and anger are unlikely to be conveyed.",
+    "critique": "The document is a formal announcement of an appointment. It is unlikely to convey strong emotions. The initial scores are set to 1 for all emotions, indicating a neutral baseline. Upon review, there's no indication of any specific emotion being conveyed. Therefore, the revised scores remain at 1 for all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

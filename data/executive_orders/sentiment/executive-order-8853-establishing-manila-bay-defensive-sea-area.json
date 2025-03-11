@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 7,
-        "disgust": 6,
+        "fear": 3,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order establishing a naval defensive sea area. It outlines regulations for vessels entering and navigating the area, emphasizing security and potential consequences for non-compliance. The primary emotion conveyed is a sense of caution and warning, with an underlying tone of authority and potential threat to those who disobey. Therefore, fear and disgust are the most relevant emotions. Surprise, joy, and sadness are not applicable.",
+    "critique": "The document is a formal order establishing a naval defensive sea area. It outlines regulations for vessels entering the area and consequences for non-compliance. The primary emotion conveyed is a sense of authority and warning. There is a hint of fear/caution due to the potential for danger and consequences of disobedience, but it's not the dominant emotion. There's no explicit joy, sadness, or surprise. Disgust is not relevant in this context.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 7,
-        "disgust": 6,
+        "fear": 3,
+        "disgust": 1,
         "surprise": 1
     }
 }

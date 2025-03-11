@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 8,
+        "sadness": 7,
         "fear": 1,
         "disgust": 1,
         "surprise": 3
     },
-    "critique": "The document is a formal announcement regarding the closure of government offices on the day of President Lincoln's funeral. The primary emotion conveyed is sadness due to the context of mourning a deceased president. There might be a touch of surprise due to the unexpected nature of Lincoln's assassination, but sadness is the dominant emotion. The intensity of sadness would likely be high, given the significance of the event. Other emotions like joy, anger, fear, and disgust are not directly conveyed in the text, so they should receive low scores.",
+    "critique": "The document is a formal announcement regarding the closure of government offices on the day of President Lincoln's funeral. The primary emotion conveyed is sadness due to the occasion. There might be a touch of surprise due to the unexpected nature of Lincoln's assassination, but it's not explicitly stated. There's no indication of joy, anger, fear, or disgust.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 9,
+        "sadness": 7,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 3
     }
 }

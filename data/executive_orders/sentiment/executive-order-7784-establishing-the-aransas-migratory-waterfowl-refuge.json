@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration establishing a wildlife refuge. It primarily conveys a sense of official action and conservation. There's a hint of joy in preserving nature, but it's not overt. There's no indication of sadness, anger, fear, disgust, or surprise. The scores should reflect this.",
+    "critique": "The document is a formal order establishing a migratory bird refuge. It primarily uses legal and administrative language. There is a sense of purpose and resolve in establishing the refuge, but emotions are largely absent. Therefore, most scores should be low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

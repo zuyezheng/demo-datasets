@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition. The language is legal and procedural, with no explicit emotional expression. The likely emotions conveyed would be joy and surprise due to the approval, but the intensity would be low. The other emotions are not relevant.",
+    "critique": "The document is a formal approval of a Code of Fair Competition. The language is legal and administrative, with no strong emotional expression. Therefore, the initial scores for all emotions should be low. I will set joy, sadness, fear, disgust, and surprise to 1, as there is no clear indication of these emotions being conveyed.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

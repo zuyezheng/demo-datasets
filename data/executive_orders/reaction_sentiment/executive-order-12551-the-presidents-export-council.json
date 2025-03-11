@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an amendment to an existing executive order regarding the President's Export Council. The primary goal is administrative and procedural, focusing on expanding the council's membership. The tone is formal and official, lacking strong emotional cues. The actions are unlikely to evoke intense emotions. Initial scores are set based on this assessment, with low values for all emotions. The critique questions the initial low scores, especially for surprise, as any change might elicit some level of surprise. Revised scores are slightly adjusted to reflect a minimal level of surprise.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

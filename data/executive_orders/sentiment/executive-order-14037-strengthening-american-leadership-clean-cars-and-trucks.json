@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 5,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order. It expresses a vision for the future of American auto industry with focus on clean energy and job creation. The primary emotion conveyed is a sense of optimism and determination to improve the economy, public health, energy security, and address the climate crisis. There's a hint of joy associated with the prospect of job creation and a better future, but the overall tone is more serious and focused on policy and action. There is no indication of negative emotions such as fear, disgust, or sadness. Surprise is also not a prominent emotion.",
+    "critique": "The document is a formal executive order. It expresses a sense of optimism and determination to improve the environment and economy through clean energy initiatives. There is a slight sense of urgency and importance conveyed, but overall, the tone is measured and professional. Therefore, joy is moderate, sadness is low, fear is low, disgust is low, and surprise is low.",
     "revised_scores": {
         "joy": 5,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

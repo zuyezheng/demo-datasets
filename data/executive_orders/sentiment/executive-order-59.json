@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document primarily conveys a sense of official action and policy implementation rather than strong emotions. The President is setting aside land for the use of Mohave-Apache Indians and other Indians deemed necessary by the Secretary of the Interior. There is a slight hint of care or concern for the well-being of the Indians, but it is not explicitly stated. Therefore, the scores for emotions like joy, sadness, anger, fear, disgust, and surprise should be relatively low. I will start with initial scores of 1 across the board, and then revise based on the slight hint of care.",
+    "critique": "The document is a formal order regarding land allocation for Mohave-Apache Indians. It does not express strong emotions. A baseline of 1 is appropriate for most emotions due to the formal and legal nature of the document. There might be a slight sense of hope or relief conveyed, but it's minimal.",
     "revised_scores": {
         "joy": 2,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

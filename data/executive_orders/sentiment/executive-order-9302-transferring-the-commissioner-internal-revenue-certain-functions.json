@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the transfer of functions related to Internal Revenue taxes and penalties from the Department of Justice to the Commissioner of Internal Revenue. The language is legal and administrative, with no emotional content. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order transferring authority regarding tax determination and compromise related to violations of the National Prohibition Act. The language is legal and procedural, with no explicit emotional expression. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication of the emotion being conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

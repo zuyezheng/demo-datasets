@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the use of off-road vehicles on public lands. The language is legal and procedural, with the primary goal of establishing policies and procedures for managing off-road vehicle use to protect resources, promote safety, and minimize conflicts. There is no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. The document aims to convey a sense of responsibility, control, and environmental concern. The expected emotional response from the public would likely be neutral, with some potentially feeling relief that the issue is being addressed and others potentially feeling restricted by the new regulations. Given the lack of emotional language, the initial scores for all emotions should be low.",
+    "critique": "The document is a formal executive order. It aims to regulate the use of off-road vehicles on public lands. The primary emotions conveyed are concern for the environment and public safety. There's a hint of sadness regarding the damage already caused by unregulated vehicle use, and a slight sense of fear about potential future damage if the situation is not addressed. There is no explicit joy, surprise, or disgust expressed in the document. The language is formal and legalistic, which tempers any strong emotional expression.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

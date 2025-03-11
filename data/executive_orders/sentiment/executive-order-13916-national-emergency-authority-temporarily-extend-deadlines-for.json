@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 4,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal declaration invoking emergency authority in response to the COVID-19 outbreak. It outlines specific actions to be taken by the Secretary of the Treasury. The language is legal and procedural, with no explicit emotional expression. However, the context of a national emergency suggests underlying tones of concern and seriousness. \n\nInitial scores:\n*   Joy: 1 (no joy conveyed)\n*   Sadness: 3 (implied sadness due to the emergency)\n*   Anger: 1 (no anger conveyed)\n*   Fear: 4 (implied fear due to the emergency)\n*   Disgust: 1 (no disgust conveyed)\n*   Surprise: 2 (possible surprise at the extent of the emergency, but not strongly emphasized)\n\nRevised scores:\n*   Joy: 1 (no joy conveyed)\n*   Sadness: 4 (slight increase to reflect the somber nature of the declaration)\n*   Anger: 1 (no anger conveyed)\n*   Fear: 5 (slight increase to reflect the seriousness of the emergency)\n*   Disgust: 1 (no disgust conveyed)\n*   Surprise: 2 (no change)",
+    "critique": "The document is a formal declaration of emergency authority related to COVID-19. It invokes the National Emergencies Act and provides the Secretary of the Treasury with additional authority to respond to the emergency. The language is legal and procedural. There is a sense of seriousness and urgency, but emotions are largely absent. Therefore, the initial scores are set to low values, with slight emphasis on fear and sadness due to the context of a national emergency.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 5,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

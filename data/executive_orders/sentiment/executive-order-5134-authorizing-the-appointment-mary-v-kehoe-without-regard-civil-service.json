@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 6,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a recommendation for Mrs. Mary V. Kehoe to be appointed to a position. The text mentions the death of her husband and his service. This might evoke some sadness. There is no indication of joy, anger, fear, disgust, or surprise. The recommendation itself is a neutral act. The mention of the deceased husband and his service might evoke a little sadness, but overall the document is quite neutral. So I will give a low score to sadness and 1 to the rest.",
+    "critique": "The document is a formal order regarding the appointment of Mrs. Mary V. Kehoe. The primary emotion conveyed is sadness due to the mention of her deceased husband and his years of service. There might be a hint of joy in offering her a position, but it's more about honoring her husband's service. There's no indication of anger, fear, disgust, or surprise. The initial scores reflect these considerations, with sadness being the most prominent emotion. The revised scores slightly adjust the intensity of sadness and joy based on the overall tone of the document.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 2,
+        "joy": 3,
+        "sadness": 7,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

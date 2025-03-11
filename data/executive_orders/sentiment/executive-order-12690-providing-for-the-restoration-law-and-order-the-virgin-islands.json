@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 5,
-        "disgust": 3,
-        "surprise": 1
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 2,
+        "surprise": 2
     },
-    "critique": "The document is a formal presidential order authorizing the use of armed forces to suppress violence and restore law and order in the Virgin Islands. The language is legalistic and devoid of explicit emotional expression. However, the context implies a sense of urgency and concern about the situation, which could translate to fear and perhaps a hint of anger or disgust at the violence. Surprise is unlikely, as the order suggests a planned response to ongoing events. Joy is completely absent. I will assign initial scores based on these considerations, then revise them after further reflection.",
+    "critique": "The document is a formal presidential order addressing domestic violence and disorder in the Virgin Islands. It authorizes the use of armed forces to suppress violence and restore law and order. The language is formal and legalistic, with no explicit emotional expression. However, the situation described implies a degree of concern and urgency.I will score the emotions based on the implied context and the formal tone of the document. Joy is not present, sadness is low, anger is moderate, fear is moderate, disgust is low, and surprise is low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 6,
-        "disgust": 4,
-        "surprise": 1
+        "fear": 4,
+        "disgust": 2,
+        "surprise": 2
     }
 }

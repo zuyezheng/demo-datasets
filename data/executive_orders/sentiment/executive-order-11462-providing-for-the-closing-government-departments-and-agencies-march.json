@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 7,
+        "sadness": 5,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The document is an official order from the President of the United States regarding the closure of government offices as a mark of respect for General Dwight David Eisenhower. The language is formal and respectful. The primary emotion conveyed is sadness due to the death of a former president. There might be a slight sense of surprise due to the unexpected nature of death, but it is not the main emotion. There is no indication of joy, anger, fear, or disgust.The initial scores reflect these considerations, with sadness being the highest, followed by surprise, and the other emotions being minimal. The revised scores are similar, with a slight adjustment to reflect the context more accurately.",
+    "critique": "The document is a formal order from the President of the United States regarding the closure of government offices as a mark of respect for Dwight David Eisenhower. The primary emotion conveyed is sadness due to the death of a former president. There might be a hint of surprise due to the unexpected nature of death, but it's minimal. There's no explicit expression of joy, anger, fear, or disgust. The intensity of sadness is moderate, given the respect being shown.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 8,
+        "sadness": 5,
         "fear": 1,
         "disgust": 1,
         "surprise": 2

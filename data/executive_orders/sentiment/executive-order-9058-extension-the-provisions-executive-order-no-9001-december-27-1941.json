@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order extending the provisions of a previous order to the Tennessee Valley Authority. The language is legal and procedural, with the purpose of facilitating the war effort. There is no explicit emotional expression in the document. However, the context of wartime might evoke a sense of urgency and determination. Given the lack of explicit emotional content, the initial scores for all emotions are set to 1. After further consideration, the context of the document suggests a slightly elevated sense of determination and resolve, which could be interpreted as a low level of joy and surprise that the president is taking action.",
+    "critique": "The document is a formal executive order extending the provisions of a previous order to the Tennessee Valley Authority. The purpose is to expedite the war effort. The language is formal and legalistic. There is no explicit expression of emotions. However, the context of war suggests a sense of urgency and determination, which could be interpreted as a low level of fear and a moderate level of determination/joy in the context of national unity and purpose. Given it is a formal document, the emotion scores should be relatively low.\n\nInitial assessment:\nJoy: 2 (sense of purpose and determination)\nSadness: 1 (no explicit sadness)\nFear: 2 (underlying concern about the war)\nDisgust: 1 (no disgust)\nSurprise: 1 (no surprise)\n\nRevised assessment:\nJoy: 2\nSadness: 1\nFear: 2\nDisgust: 1\nSurprise: 1",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

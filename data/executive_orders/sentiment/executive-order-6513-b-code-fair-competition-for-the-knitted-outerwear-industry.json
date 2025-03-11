@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Knitted Outerwear Industry. The language is legal and procedural. There is no strong indication of any particular emotion being conveyed. The president is simply stating facts and making an official decision. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal approval of a code of fair competition. It expresses no strong emotions. A baseline level of joy might be inferred from the act of approval, but it's minimal. There's no indication of sadness, anger, fear, disgust, or surprise. Therefore, most scores should be low, with a slightly elevated joy score to reflect the positive nature of the approval.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

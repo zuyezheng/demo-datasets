@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 6,
+        "sadness": 3,
+        "fear": 4,
         "disgust": 7,
-        "surprise": 3
+        "surprise": 6
     },
-    "critique": "The document expresses strong disapproval and anger towards the newspapers for publishing false information. The president aims to convey a sense of betrayal and outrage, with the intention of instilling fear in those who might support the enemy. There is no indication of joy, sadness, or surprise. Disgust is present due to the treacherous nature of the publication.",
+    "critique": "The document expresses strong disapproval and anger towards the publication of false information. It aims to convey a sense of urgency and determination to suppress actions that could aid the enemy. The emotions are scored based on this understanding.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 7,
+        "sadness": 3,
+        "fear": 5,
         "disgust": 8,
-        "surprise": 3
+        "surprise": 7
     }
 }

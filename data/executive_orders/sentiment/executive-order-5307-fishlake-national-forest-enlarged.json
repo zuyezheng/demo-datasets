@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order regarding land inclusion in the Fishlake National Forest. It's a legal and administrative document, not designed to evoke strong emotions. Therefore, all emotions should be scored low initially. There's no indication of joy, sadness, anger, fear, disgust, or surprise intended by the document. The language is neutral and factual.",
+    "critique": "The document is a formal order regarding land inclusion in the Fishlake National Forest. It's a legal and administrative document, so it doesn't express strong emotions. The baseline for a formal document is low, so I will assign low scores across the board. There is no indication of joy, sadness, fear, disgust, or surprise. Therefore, I will assign a score of 1 for each emotion.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing rules for awarding the Medal for Merit. The language is formal and legalistic, and the tone is official and neutral. There is no explicit expression of emotion in the document. Therefore, all emotions should be scored low. Since the creation of an award could be seen as a positive thing, I will give joy a slightly higher score than the others. The initial scores will be: disgust: 1, fear: 1, joy: 2, sadness: 1, surprise: 1. After further consideration, I still believe the document is primarily neutral in tone and intent. The slight increase in joy is still warranted, but the other emotions remain very low.",
+    "critique": "The document is a formal executive order establishing rules for awarding the Medal for Merit. The language is legalistic and procedural. There is no strong expression of any particular emotion. A baseline of 1 is appropriate for emotions not explicitly present. The document conveys a sense of respect and gratitude, so I will assign a low score to joy. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

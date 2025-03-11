@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding a labor dispute. It does not express strong emotions. A low level of concern (fear) might be present due to the potential disruption of interstate commerce, but overall the tone is neutral and factual.",
+    "critique": "The document is a formal order establishing an emergency board to investigate a dispute. It aims to prevent disruption to interstate commerce. The primary emotion conveyed is concern, which can be interpreted as a low level of fear and a touch of sadness that the situation has escalated to this point. There's no explicit joy, disgust, or surprise expressed. The language is very formal and neutral.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

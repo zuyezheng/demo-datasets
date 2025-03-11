@@ -3,15 +3,15 @@
         "joy": 2,
         "sadness": 1,
         "fear": 1,
-        "disgust": 2,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to improve the efficiency and fairness of civil litigation involving the US government. The language is legal and procedural, not designed to evoke strong emotions. Therefore, I would expect low scores for all emotions. The document expresses a desire to improve the system, which could be interpreted as a mild form of joy or satisfaction, but it's very subtle. There might be a hint of disgust with the current state of litigation, but again, it's very mild. There's no indication of fear or surprise. Sadness is not conveyed at all.",
+    "critique": "The document is a formal executive order. It aims to improve the efficiency and fairness of civil litigation involving the U.S. government. The language is formal and legalistic. There is no strong emotion conveyed, but a sense of determination to improve the legal system is present. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy due to the positive intent of improving the system.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,
         "fear": 1,
-        "disgust": 2,
+        "disgust": 1,
         "surprise": 1
     }
 }

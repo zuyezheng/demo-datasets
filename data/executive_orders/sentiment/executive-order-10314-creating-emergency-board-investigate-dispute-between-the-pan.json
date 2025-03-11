@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. It doesn't express any particular emotion. The president is acting in an official capacity to resolve a dispute that affects interstate commerce. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It aims to establish a board to investigate and resolve the dispute to prevent disruption of interstate commerce. The language is formal and legalistic, focusing on the facts of the situation and the actions being taken. There is no strong emotional language used, but there is a sense of urgency and importance. Initial scores: Joy: 1, Sadness: 2, Fear: 3, Disgust: 1, Surprise: 1. Revised scores: Joy: 1, Sadness: 2, Fear: 3, Disgust: 1, Surprise: 1",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

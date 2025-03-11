@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration establishing a migratory bird refuge. It uses legal and technical language, focusing on specific land descriptions. There is no explicit emotional appeal or sentiment expressed in the text. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order establishing a migratory bird refuge. It primarily uses legal and geographical descriptions. There is a slight sense of joy due to the creation of a refuge for migratory birds, but it is not strongly emphasized. There is no indication of sadness, fear, disgust, or surprise. The language is formal and objective, so the intensity of any emotion is low.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

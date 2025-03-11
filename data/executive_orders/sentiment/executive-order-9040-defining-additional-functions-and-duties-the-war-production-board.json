@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding war production. It aims to convey a sense of authority and decisiveness in mobilizing resources for the war effort. There is no explicit emotional language, but the implicit emotions are related to the context of war. The primary emotion conveyed would likely be a sense of seriousness and determination, with a possible undercurrent of fear or concern due to the ongoing war. The order itself doesn't express joy, disgust, or surprise. The scores are based on the likely public perception of the document during wartime.",
+    "critique": "The document is a formal executive order regarding war production. It primarily conveys a sense of authority and decisiveness. There is no explicit expression of emotions like joy, sadness, fear, disgust, or surprise. However, the context of war implies a backdrop of seriousness and potential fear, but the document itself focuses on the logistical and organizational aspects. Therefore, the initial scores should reflect the formal and authoritative tone, with low scores for most emotions and a slightly elevated score for fear due to the war context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

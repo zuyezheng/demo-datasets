@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 4,
+        "sadness": 4,
+        "fear": 3,
         "disgust": 7,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document expresses a firm stance against the mistreatment of soldiers, particularly those captured and enslaved due to their color. It conveys a sense of justice and determination to protect its citizens. The primary emotions conveyed are anger and disgust towards the enemy's actions, coupled with a sense of duty and resolve. There's also an element of fear regarding the potential enslavement of soldiers, but it's less prominent than the other emotions. Joy and surprise are not relevant in this context.The initial scores reflect these observations, with anger and disgust being the highest, followed by fear and sadness. The revised scores aim to fine-tune the intensity of each emotion based on the overall tone and message of the document.",
+    "critique": "The document expresses a strong sense of duty and determination to protect soldiers, with an underlying tone of anger and disgust towards the enemy's actions. There's also a hint of sadness regarding the soldiers killed or enslaved. Surprise is not a prominent emotion in this context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 5,
+        "sadness": 5,
+        "fear": 3,
         "disgust": 8,
         "surprise": 1
     }

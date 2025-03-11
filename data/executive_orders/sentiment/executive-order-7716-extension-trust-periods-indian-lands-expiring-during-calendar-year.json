@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the extension of trust periods for Indian lands. It cites legal authority and specifies the duration of the extension. There is no explicit emotional language or appeal to emotions. The tone is formal and legalistic. Therefore, all emotions should be scored low, with a default of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal order extending trust periods for Indian lands. It's a legal and administrative document, so the emotional content is minimal. There's no explicit expression of joy, sadness, fear, disgust, or surprise. The primary purpose is to convey a legal decision. Therefore, the initial scores should be very low for all emotions, with a baseline of 1 to indicate the presence of the document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

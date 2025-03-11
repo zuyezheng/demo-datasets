@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The document is a formal executive order regarding the mobilization of manpower during wartime. It is primarily informational and directive, lacking strong emotional cues. The primary emotion conveyed, if any, is a sense of urgency and determination to effectively manage resources for the war effort. Therefore, fear and surprise are not applicable. Disgust, joy, and sadness are also not applicable.The initial scores reflect this assessment.",
+    "critique": "The document is a formal executive order regarding the mobilization and utilization of national manpower during wartime. It establishes the War Manpower Commission and outlines its responsibilities and authority. The language is formal and bureaucratic, focusing on organization, coordination, and efficiency. There is a sense of urgency and determination to effectively manage resources for the war effort. Given the context, the primary emotions conveyed are related to the seriousness of the situation and the need for decisive action. There is a slight sense of surprise at the scale of the reorganization, but overall, the document is focused on the task at hand.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

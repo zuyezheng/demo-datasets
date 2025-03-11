@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the implementation of an agreement with Mexico concerning environmental cooperation. The language is legal and procedural, with no overt emotional expression. Therefore, all emotions should be scored low. There might be a slight sense of joy associated with international cooperation and environmental protection, but it's very subtle.",
+    "critique": "The document is a formal executive order. It aims to establish and implement agreements related to environmental cooperation and development along the US-Mexico border. The language is legal and procedural, with a focus on interagency coordination and delegation of authority. There is no strong emotional language present. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

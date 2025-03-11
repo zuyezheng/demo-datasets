@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order regarding land reservation for the Walapai Indians. It uses legal and administrative language. There is no explicit or implicit emotional expression in the text. Therefore, all emotions should be scored low initially. After reflection, I still believe that the document does not convey any specific emotion.",
+    "critique": "The document is a formal order regarding land reservation for the Walapai Indians. It uses formal and legal language. There is no explicit expression of emotions. However, one could argue there is a hint of positive sentiment (joy) towards the Walapai Indians. Given the formal nature, the intensity of any emotion is likely to be low. Most emotions are not applicable in this context, so they should be scored as 1.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

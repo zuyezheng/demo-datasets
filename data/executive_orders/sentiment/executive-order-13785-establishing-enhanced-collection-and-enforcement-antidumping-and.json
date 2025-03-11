@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 3,
-        "surprise": 4
+        "surprise": 2
     },
-    "critique": "The document primarily conveys a sense of determination and resolve to address unfair trade practices and protect American businesses and revenue. There's a hint of concern regarding the uncollected duties, but the overall tone is assertive and focused on enforcement. Therefore, I would expect the American public to feel a low level of fear and disgust, and a moderate level of surprise. There is no indication of joy or sadness.",
+    "critique": "The document is a formal executive order addressing trade law enforcement. It expresses concern about unfair competition and revenue loss due to unlawful evasion of antidumping and countervailing duties. While the tone is serious, it primarily focuses on policy and implementation, not direct emotional appeals. Therefore, the scores should reflect a low level of expressed emotion.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 3,
         "disgust": 3,
-        "surprise": 4
+        "surprise": 2
     }
 }

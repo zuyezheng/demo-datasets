@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Precious Jewelry Producing Industry. The language is legal and administrative, with no strong emotional indicators. The President is conveying a sense of duty and compliance with the law. Therefore, the expected emotional response from the public would be minimal. I will assign low scores across all emotions.",
+    "critique": "The document is a formal approval of a code of fair competition. The language is legal and administrative. There is no strong emotion conveyed. The document expresses a sense of satisfaction that the application was made in full compliance with the law. Therefore, I will assign a low score to joy. There is no indication of sadness, fear, disgust, or surprise. Therefore, I will assign a score of 1 to each of these emotions.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

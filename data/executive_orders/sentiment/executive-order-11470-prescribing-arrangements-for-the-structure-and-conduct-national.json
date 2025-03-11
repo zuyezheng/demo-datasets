@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is an executive order establishing a national voluntary action program. It is a formal and official document. The language is neutral and objective, focusing on the structure and functions of the program. There is no explicit expression of emotions. However, the underlying goal of solving public domestic problems and encouraging voluntary action might evoke a sense of hope and optimism, but this is implicit rather than explicitly stated. Therefore, the scores for all emotions should be relatively low. I will assign a slightly higher score to joy and surprise, as the program aims to improve society and may bring positive changes.",
+    "critique": "The document is a formal executive order establishing a national voluntary action program. It aims to encourage voluntary action to solve public domestic problems. The language is formal and bureaucratic. There is a sense of optimism and hope that voluntary action can contribute to solving problems, but it is expressed in a very measured and official way. Therefore, joy, surprise, sadness, disgust, and fear are all low. The document expresses a low level of joy in the potential for positive change through voluntary action. There's no indication of surprise, sadness, disgust, or fear.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

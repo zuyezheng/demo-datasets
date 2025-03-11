@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal authorization for the War Department to employ inspection staffs from allied nations during World War I. The language is formal and bureaucratic, with no indication of any particular emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal authorization for the War Department to employ inspection staffs from allied nations during World War I. The language is formal and bureaucratic. There is no explicit expression of emotions. However, the context of war might imply some level of fear or concern, but it is not directly stated. Therefore, I will assign low scores to all emotions, with a slightly higher score for fear due to the war context.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

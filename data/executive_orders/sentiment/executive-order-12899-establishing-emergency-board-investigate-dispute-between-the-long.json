@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding a labor dispute. It does not express strong emotions. The primary emotion conveyed might be a mild sense of concern or seriousness due to the dispute, but overall, the tone is neutral and procedural.",
+    "critique": "The document is a formal executive order regarding a labor dispute. It primarily conveys a sense of seriousness and urgency in resolving the dispute, but avoids expressing strong emotions. Therefore, most emotions should be scored low, with a slight emphasis on concern or seriousness which might translate to a low level of sadness or fear related to the potential consequences of the unresolved dispute.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

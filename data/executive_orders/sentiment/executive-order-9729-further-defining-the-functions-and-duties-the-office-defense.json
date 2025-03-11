@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and purpose, but lacks explicit emotional expression. The order focuses on allocating resources and delegating power during a time of war, suggesting a serious and urgent tone. Therefore, the most relevant emotions to consider are fear (related to the war context) and perhaps a hint of surprise if the order introduces unexpected changes. However, joy, sadness, and disgust are unlikely to be conveyed.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and determination to manage resources during a period of national defense. There is no strong indication of joy, sadness, fear, disgust, or surprise. The language is very formal and legalistic, so the emotional content is minimal. Therefore, the initial scores are set to reflect this.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

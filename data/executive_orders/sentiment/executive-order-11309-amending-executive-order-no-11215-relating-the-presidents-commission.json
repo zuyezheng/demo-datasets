@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to an existing executive order. It changes a time period from '18 months' to '20 months'. The language is very formal and procedural. There is no indication of any emotion being conveyed. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal amendment to an executive order. It adjusts a deadline, which doesn't inherently convey strong emotions. The language is neutral and administrative. Therefore, all emotions should be scored low, with a default of 1 where there's no clear indication of the emotion.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

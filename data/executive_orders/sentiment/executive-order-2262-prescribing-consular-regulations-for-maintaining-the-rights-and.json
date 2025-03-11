@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 3,
         "surprise": 1
     },
-    "critique": "The document primarily focuses on regulations and amendments related to seamen and consular officers. It lacks strong emotional cues, as it is largely a legal and procedural text. Therefore, the expected emotional response from the American public would likely be minimal across all emotions.",
+    "critique": "The document primarily focuses on regulations and procedures related to seamen, consular officers, and vessel operations. There is a strong emphasis on legal obligations, responsibilities, and potential penalties for non-compliance. While the document addresses issues such as desertion, cruel treatment, and illness, the overall tone is formal and objective, aiming to establish clear guidelines and ensure fair treatment within the maritime context. There is no explicit expression of joy, surprise, or fear. Sadness is present due to the discussion of illness, injury, and death, but it is not a dominant emotion. Disgust is present due to the discussion of cruel treatment, but it is not a dominant emotion.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 3,
         "surprise": 1
     }
 }

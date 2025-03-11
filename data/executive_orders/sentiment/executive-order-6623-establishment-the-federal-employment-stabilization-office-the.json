@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the reorganization of the Federal Employment Stabilization Board. It primarily conveys a sense of administrative action and policy implementation rather than strong emotions. Therefore, the scores for all emotions should be relatively low, with a slight emphasis on surprise due to the reorganization.",
+    "critique": "The document is a formal executive order regarding the reorganization of the Federal Employment Stabilization Board. The language is legal and administrative, with no explicit emotional expression. Therefore, all emotions are scored low initially. After a second thought, I realized that the president might feel joy in improving the efficiency of the government. Therefore, I will increase the joy score.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

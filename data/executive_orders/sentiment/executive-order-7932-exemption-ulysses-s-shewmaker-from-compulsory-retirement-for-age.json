@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal exemption from retirement for an administrative assistant. It doesn't express strong emotions. The primary emotion might be a slight sense of joy or relief for the exempted employee, but it's very mild. The other emotions are not really present.",
+    "critique": "The document is a formal exemption from compulsory retirement. It expresses no strong emotions. The presence of joy, sadness, fear, disgust, and surprise are minimal. Therefore, I will assign a low score to each of these emotions.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

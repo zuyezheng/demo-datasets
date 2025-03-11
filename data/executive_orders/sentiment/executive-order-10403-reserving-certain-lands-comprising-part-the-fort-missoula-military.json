@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration adding land to a national forest. It primarily conveys a sense of administrative action and resource management rather than strong emotions. The president is conveying a sense of responsibility and authority, but not necessarily joy, sadness, anger, fear, disgust, or surprise. The strongest emotion might be a mild sense of importance or purpose, but it's not overwhelming. Therefore, the initial scores are set low, with a slight emphasis on joy due to the positive impact of conservation.",
+    "critique": "The document is a formal executive order regarding land allocation. It primarily conveys a sense of authority and purpose, but lacks strong emotional expression. Therefore, most emotions should be scored low, with a slightly higher score for joy due to the positive outcome of land preservation.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

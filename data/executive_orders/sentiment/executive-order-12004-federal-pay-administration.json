@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The document is an executive order regarding federal pay administration. It amends a previous executive order and outlines the roles of various committees and agents in advising the President on federal pay systems. The language is formal and bureaucratic, with no explicit emotional expression. However, the act of amending an order to improve the process suggests a desire for efficiency and potentially a dissatisfaction with the previous system. This could imply a mild sense of surprise that the previous system was not optimal, and a slight sense of joy or satisfaction in implementing a better system. However, these emotions are very subtle and likely not strongly conveyed to the public. Therefore, the initial scores are all low.",
+    "critique": "The document is a formal executive order amending a previous order related to federal pay administration. The language is legal and administrative, with no strong emotional content. The primary goal is to improve the process of advising the President on Federal pay systems. Therefore, the initial scores should be low across all emotions, with a slight emphasis on surprise due to the amendment nature of the document.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

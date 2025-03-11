@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land use. It primarily conveys information about the revocation of a previous order and the opening of land for homesteading by ex-service men. There is no strong emotional sentiment conveyed in the document. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding land allocation. It primarily conveys information and instructions. There is no strong emotional language used. Therefore, most emotions should be scored low. I will assign a baseline score of 1 for emotions that are not explicitly present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

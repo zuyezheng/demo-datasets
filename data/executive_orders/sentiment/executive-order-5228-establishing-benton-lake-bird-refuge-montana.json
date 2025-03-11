@@ -2,13 +2,13 @@
     "initial_scores": {
         "joy": 3,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order establishing a bird refuge. It aims to protect wildlife and natural resources. The language is formal and legalistic. The primary emotion conveyed, if any, is a sense of responsibility and conservation. There's a hint of warning against those who might violate the order, but it's not strongly emphasized. Therefore, I would score joy, sadness, fear, disgust, and surprise all low, and perhaps give a slightly higher score to joy because the order is ultimately about preserving something valuable.",
+    "critique": "The document is a formal order establishing a bird refuge. It aims to protect wildlife and prevent destructive activities. The primary emotion conveyed is a sense of responsibility and protection, with a hint of warning against violations. Therefore, I will assign low scores to most emotions and a slightly higher score to responsibility/protection which I will represent with joy.",
     "revised_scores": {
-        "joy": 4,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

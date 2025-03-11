@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal presidential order related to the Hostage Relief Act of 1980. It specifies the date when the US citizens held captive in Iran were returned. The language is formal and legalistic, and the purpose is to officially record the end of the hostage situation under the terms of the Hostage Act. There is no explicit expression of emotion in the document. However, the context implies a sense of relief and perhaps subdued joy that the hostages were returned. Given the formal nature, the emotions conveyed are likely to be subtle. The scores should reflect this subtlety, with joy being the most prominent emotion, but not overwhelmingly so. Other emotions like sadness, fear, disgust, and surprise are not directly relevant to the document's purpose or content, so they should receive low scores.",
+    "critique": "The document is a formal presidential order specifying a date related to the Hostage Relief Act. It's a factual declaration with no inherent emotional expression. Therefore, all emotions should be scored low, with a default of 1 where there's no clear indication of the emotion being conveyed.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

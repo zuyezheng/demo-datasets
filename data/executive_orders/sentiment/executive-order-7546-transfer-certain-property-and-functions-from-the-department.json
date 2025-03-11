@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order transferring responsibility for Indian Subsistence Homesteads projects from the Department of Agriculture to the Department of the Interior. The language is legal and administrative, with no emotional tone. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order transferring Indian Subsistence Homesteads projects from the Department of Agriculture to the Department of the Interior. The language is legal and administrative, with no explicit emotional expression. Therefore, the initial scores should be very low across all emotions. Considering this is a formal document, I will give a score of 1 for all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

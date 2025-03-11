@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a neutral tone, with a slight hint of positive sentiment due to the exemption granted to Harry C. Dorsey. There is no indication of anger, fear, disgust, or surprise. The scores reflect this assessment, with joy being slightly higher than other negative emotions.",
+    "critique": "The document is a formal executive order regarding the exemption of Harry C. Dorsey from mandatory retirement. It primarily uses legal and administrative language. There is no explicit expression of joy, sadness, fear, disgust, or surprise. The document is neutral in tone, focusing on the legal justification and the action being taken. Therefore, the initial scores for all emotions are set to 1, indicating a minimal presence.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

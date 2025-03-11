@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
-        "sadness": 2,
-        "fear": 2,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding the jurisdiction of Kure Island. It doesn't express any strong emotions. The primary emotions that might be inferred are a mild sense of satisfaction (joy) that the island is being restored to Hawaii and perhaps a touch of caution (fear) or concern (sadness) that necessitates the reservation for the Navy to maintain a radar reflector. Surprise and disgust are not relevant in this context. The initial scores reflect this assessment, with low values for joy, sadness, and fear, and minimal values for surprise and disgust. The revised scores are similar, with slight adjustments to reflect the minimal emotional content.",
+    "critique": "The document is a formal executive order regarding the jurisdiction of Kure Island. It expresses a transfer of control from the Secretary of the Navy to the Territory of Hawaii, with a reservation for maintaining a radar reflector. The language is legal and administrative, devoid of strong emotional expression. Therefore, the scores should be low across all emotions, with a slight emphasis on surprise due to the change in jurisdiction.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 2,
-        "fear": 2,
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

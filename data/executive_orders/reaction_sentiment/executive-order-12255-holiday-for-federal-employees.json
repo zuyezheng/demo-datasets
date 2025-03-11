@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 7,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
+    },
+    "critique": "The document is an executive order closing government departments and agencies on the day after Christmas. The primary emotion the President wants to elicit is joy, by giving employees a day off. There might be a little surprise, but mostly joy. There is no indication of sadness, anger, fear, or disgust. The initial scores are joy: 7, surprise: 3, and the rest 1. After thinking through it, the joy score should be higher, and surprise lower. The revised scores are joy: 8, surprise: 2, and the rest 1.",
+    "revised_scores": {
+        "joy": 8,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

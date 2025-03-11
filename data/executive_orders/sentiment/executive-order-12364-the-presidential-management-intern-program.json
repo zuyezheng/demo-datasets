@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to establish and manage the Presidential Management Intern Program. The language is formal and procedural, focusing on recruitment, selection, and management of interns. There is no explicit emotional expression in the document. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It aims to establish and manage the Presidential Management Intern Program. The language is formal and legalistic. There is a sense of optimism and purpose, but emotions are largely suppressed in favor of a professional tone. Therefore, joy, sadness, fear, disgust, and surprise should all be relatively low. The order aims to attract outstanding employees, which suggests a degree of joy and optimism, but it's not overt. There's no explicit sadness, fear, disgust, or surprise conveyed. Veterans preference criteria is mentioned which can be interpreted as a sign of joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

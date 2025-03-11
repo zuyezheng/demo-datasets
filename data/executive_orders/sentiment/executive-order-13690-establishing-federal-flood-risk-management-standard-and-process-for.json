@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "joy": 2,
+        "sadness": 3,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding flood risk management. It aims to improve the nation's resilience to flooding and amends a previous executive order. The language is formal and legalistic, focusing on policy, amendments, and agency actions. There is no explicit expression of emotions. However, a subtle sense of concern and determination to address the issue of flooding can be inferred. The order acknowledges the increasing impacts of flooding due to climate change and emphasizes the need for preparedness and resilience. Therefore, I will assign low scores for sadness, fear, and concern, and a slightly higher score for determination. Other emotions are not relevant.",
+    "critique": "The document is a formal executive order addressing flood risk management. It aims to improve the nation's resilience to flooding and establishes a Federal Flood Risk Management Standard. The language is formal and technical, focusing on policy, amendments to existing orders, and agency actions. There is a sense of urgency and importance conveyed due to the increasing threat of flooding and its impact on national security. However, the document primarily focuses on outlining procedures and guidelines, rather than expressing strong emotions.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "joy": 2,
+        "sadness": 3,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

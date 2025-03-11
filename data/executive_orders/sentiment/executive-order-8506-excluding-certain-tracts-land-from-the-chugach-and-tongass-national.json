@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order regarding land allocation in Alaska. It's a formal declaration with no inherent emotional tone. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order regarding land allocation in Alaska. It's primarily administrative and factual, lacking strong emotional expression. Therefore, most emotions should be scored low. There might be a slight sense of satisfaction or accomplishment (joy) in completing this administrative task, but it's minimal. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document primarily focuses on the establishment and criteria for awarding the Vietnam Service Medal. It uses formal and legalistic language, typical of executive orders. There is no explicit expression of emotions such as joy, sadness, anger, fear, disgust, or surprise. The document aims to be authoritative and informative rather than emotional. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal executive order establishing the Vietnam Service Medal. It outlines the criteria for awarding the medal to members of the armed forces who served in Vietnam. The language is formal and bureaucratic, with no explicit expression of emotions. However, the establishment of a medal implicitly acknowledges the service and sacrifices of those who served in Vietnam. Given the formal nature of the document, the emotion scores should be relatively low. Joy might be present in a very subdued form, recognizing the service of veterans. Sadness might be present due to the implicit acknowledgment of sacrifices made during the war. Surprise, fear, and disgust are not evident in the text.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

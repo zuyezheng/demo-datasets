@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 4,
-        "fear": 6,
-        "disgust": 3,
-        "surprise": 1
+        "fear": 5,
+        "disgust": 6,
+        "surprise": 3
     },
-    "critique": "The document conveys a sense of urgency and resolve in response to violence and disorder. It authorizes the Secretary of Defense to take necessary actions, including deploying armed forces and national guard units, to restore law and order and protect property. The language is formal and direct, reflecting the gravity of the situation.Based on this, the primary emotions conveyed are a mix of concern (fear) and determination (perhaps a muted form of anger at the disorder, but primarily a resolve to fix it). There's no indication of joy or surprise. Disgust might be present, but it's less prominent than fear and resolve.I'll score fear, sadness, and a low level of disgust. I will also score joy and surprise as 1 since there is not enough information to suggest otherwise.",
+    "critique": "The document expresses concern and determination to restore order. It conveys a sense of urgency and resolve in addressing the violence and disorder. It does not express joy. It expresses sadness because of the violence. It expresses anger at the violence. It expresses fear that the violence will continue. It expresses disgust at the violence. It expresses surprise that the violence occurred.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
+        "sadness": 5,
         "fear": 6,
-        "disgust": 3,
-        "surprise": 1
+        "disgust": 7,
+        "surprise": 4
     }
 }

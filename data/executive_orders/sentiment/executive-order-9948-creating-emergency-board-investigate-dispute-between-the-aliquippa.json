@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding a labor dispute and the creation of a board to investigate it. The language is legalistic and neutral, with no explicit emotional expression. However, the situation implies a potential threat to interstate commerce, which could evoke a sense of concern or unease. Initial scores: Disgust: 1, Fear: 3, Joy: 1, Sadness: 2, Surprise: 2. Revised scores: Disgust: 1, Fear: 3, Joy: 1, Sadness: 2, Surprise: 2",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses no strong emotions. A low level of concern is present due to the potential disruption of interstate commerce. Therefore, I will assign low scores across the board, with a slightly higher score for concern (fear).",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

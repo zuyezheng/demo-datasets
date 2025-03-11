@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The document is a formal executive order. It primarily aims to communicate a policy change regarding the appointment of Administrative Law Judges (ALJs). The language is legal and procedural, focusing on the rationale and implementation of the new policy. There's no explicit attempt to evoke strong emotions. However, the justification provided, such as 'eliminate doubt regarding the constitutionality' and 'promote confidence,' suggests an underlying concern for stability and trust in the system. The policy change itself might be perceived differently by different groups (e.g., ALJs, agencies), but the document itself maintains a neutral tone. Therefore, the initial scores will be low across all emotions, with a slight emphasis on surprise due to the change in appointment procedures.",
+    "critique": "The document is a formal executive order. It aims to change the hiring process for Administrative Law Judges (ALJs). The primary emotion conveyed is a sense of authority and decisiveness. There's a hint of concern regarding the constitutionality of the previous appointment procedures and a desire to rectify it. However, overall, the document is quite neutral in tone.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 2
     }

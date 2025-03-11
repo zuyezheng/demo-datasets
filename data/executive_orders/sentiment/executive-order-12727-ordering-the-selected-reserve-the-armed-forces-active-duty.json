@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The document is a formal presidential order. It invokes constitutional and legal authority to augment the armed forces for operational missions. The language is formal and legalistic, focusing on authorization and necessity. There is no explicit expression of emotion. However, the context of augmenting armed forces might implicitly convey a sense of concern or seriousness, but not necessarily fear. The order also includes clauses to limit its legal enforceability and ensure transparency through publication and transmission to Congress. Given the formal and legal nature of the document, the expected emotional response from the public would likely be minimal. Therefore, a score of 1 is appropriate for most emotions. However, a slightly higher score might be assigned to fear or concern due to the context of military augmentation, but it should still be low.",
+    "critique": "The document is a formal order from the President authorizing the augmentation of the armed forces. It invokes constitutional and legal authority, and focuses on the effective conduct of operational missions. The language is formal and legalistic. There is a sense of seriousness and determination, but no strong emotional expression. Therefore, the initial scores should be relatively low across all emotions. The revised scores should reflect the same, with slight adjustments based on the critique.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

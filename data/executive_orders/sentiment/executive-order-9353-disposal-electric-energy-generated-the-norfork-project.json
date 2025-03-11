@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding the Norfork Project and its coordination with the Pensacola Project for wartime energy needs. The language is legal and administrative, lacking emotional expression. The primary goal is efficient resource management during wartime. Therefore, all emotions are scored low initially.",
+    "critique": "The document is a formal executive order regarding the Norfork Project and its coordination with the Pensacola Project for wartime energy needs. The language is legal and administrative, with a focus on authorization, direction, and compliance. There is a sense of urgency and determination to utilize resources effectively for the war effort. The emotions conveyed are very muted, as expected in such a document. Joy is not present. Sadness is not present. There may be a low level of surprise that copper is in short supply. There is no anger or disgust. There is a low level of fear due to the war.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

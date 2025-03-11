@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 2,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a legal order establishing a reservation for Pueblo Indians. It is unlikely to evoke strong emotions in the general public. The primary emotions might be a mild sense of joy for those who support indigenous rights, or mild surprise at the level of detail in the land description. However, for most people, the document will not elicit a strong emotional response. Therefore, the initial scores are set low, with a slight emphasis on joy and surprise.",
+    "critique": "The document is a formal order regarding land allocation for the Pueblo Indians of New Mexico. It does not express strong emotions. A baseline of 1 is appropriate for most emotions, with a slight elevation for joy due to the positive impact on the Pueblo Indians and a slight elevation of sadness due to the potential exclusion of land due to existing rights.",
     "revised_scores": {
         "joy": 2,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

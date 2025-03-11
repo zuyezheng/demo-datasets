@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for the Retail Solid Fuel Industry. The language is legal and administrative, with no explicit emotional expression. However, the context of the Great Depression and the National Industrial Recovery Act suggests an underlying sense of hope and determination to improve the economy and the lives of Americans. The President is likely trying to convey a sense of confidence and resolve. Therefore, I will assign low scores to negative emotions and a moderate score to joy and surprise. Disgust, fear and sadness are not applicable in this context, so I will assign a score of 1. The president is conveying joy and surprise to a small extent, so I will assign a score of 3 to each of them.",
+    "critique": "The document is a formal approval of a code of fair competition. It expresses no strong emotions. The language is legal and administrative. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

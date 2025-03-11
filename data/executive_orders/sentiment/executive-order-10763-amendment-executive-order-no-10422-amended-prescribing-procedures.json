@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily deals with procedures for investigations and amendments to previous orders. There is no strong indication of any particular emotion being conveyed. Therefore, all emotions are scored low.",
+    "critique": "The document is a formal executive order amending a previous order regarding investigations of individuals. The language is legal and procedural, with no explicit emotional expression. Therefore, all emotions should be scored low, with a baseline of 1 to indicate minimal presence due to the formal nature of the document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

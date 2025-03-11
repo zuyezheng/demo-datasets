@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal exemption from compulsory retirement for an engineer. It doesn't express strong emotions. The primary emotion might be a slight sense of joy or relief for the engineer, but it's very mild. There's no indication of sadness, anger, fear, disgust, or surprise. The scores should reflect this lack of strong emotional content.",
+    "critique": "The document is a formal order from the President to exempt an employee from mandatory retirement. It expresses no strong emotions. The language is formal and bureaucratic. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

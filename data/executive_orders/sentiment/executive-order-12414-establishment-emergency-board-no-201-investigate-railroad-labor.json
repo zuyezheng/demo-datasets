@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing an emergency board to investigate a labor dispute. It uses formal and legalistic language. There is no strong emotion conveyed, but a sense of seriousness and urgency might be inferred. The most relevant emotions would be low levels of concern (fear/sadness) and perhaps a touch of surprise that the situation requires presidential intervention. However, the overall emotional intensity is low.",
+    "critique": "The document is a formal order establishing an emergency board to investigate a labor dispute. It uses formal language and aims to be objective and impartial. Therefore, the scores for emotions should be low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order creating a board to investigate disputes between railway companies and their employees. The language is legal and procedural, with no explicit emotional expression. However, the context suggests a sense of concern or urgency due to the potential disruption of interstate commerce. The President aims to convey a sense of responsibility and decisive action in addressing the situation. Initial scores: Disgust: 1, Fear: 3, Joy: 1, Sadness: 2, Surprise: 1. Revised scores: Disgust: 1, Fear: 3, Joy: 1, Sadness: 2, Surprise: 1",
+    "critique": "The document is a formal executive order creating a board to investigate disputes between railroad companies and their employees. The language is legal and procedural. There is no strong emotional content. A baseline of 1 is appropriate for most emotions, with a slightly elevated score for concern (sadness/fear) due to the potential disruption of interstate commerce.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the exemption of an individual from compulsory retirement. It does not contain strong emotional language. The primary emotion conveyed might be a mild sense of approval or satisfaction that the person is allowed to continue working, but this is very subtle. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy and surprise due to the positive nature of the exemption.",
+    "critique": "The document is a formal order exempting an employee from mandatory retirement. It expresses no strong emotions. The presence of 'Now, Therefore' indicates a formal tone. The document primarily serves a legal and administrative function, and any emotional interpretation would be speculative. Therefore, a neutral emotional score is appropriate.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

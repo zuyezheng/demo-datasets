@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a military order. It countermands previous orders and assigns a commander to a military district. There is no explicit emotional language. However, the context suggests a sense of control and authority. The potential emotions conveyed could be interpreted as follows:\n\n*   **Joy:** Unlikely, as military orders are typically not associated with joy. Score: 1\n*   **Sadness:** Unlikely, as military orders are typically not associated with sadness. Score: 1\n*   **Anger:** Possible, as the countermanding of previous orders could imply dissatisfaction. Score: 3\n*   **Fear:** Possible, as the presence of a military commander could induce fear in some. Score: 3\n*   **Disgust:** Unlikely, as military orders are typically not associated with disgust. Score: 1\n*   **Surprise:** Possible, as the countermanding of previous orders could be surprising. Score: 4\n\nRevised Scores:\n\n*   **Joy:** 1\n*   **Sadness:** 1\n*   **Anger:** 3\n*   **Fear:** 3\n*   **Disgust:** 1\n*   **Surprise:** 4",
+    "critique": "The document is a military order. It expresses no emotion. Therefore, all scores should be 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 1
     }
 }

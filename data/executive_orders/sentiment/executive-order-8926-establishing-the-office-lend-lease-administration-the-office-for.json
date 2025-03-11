@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and purpose, but it doesn't strongly evoke any specific emotion. The language is legalistic and focused on establishing administrative structures and delegating power. Therefore, all emotions should be scored relatively low.",
+    "critique": "The document is a formal executive order. It primarily conveys a sense of determination and resolve in addressing a national emergency. There is a hint of concern (fear) for national defense, but it's not overwhelming. There's no explicit joy, sadness, disgust, or surprise. The language is formal and legalistic, aiming for clarity and authority.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

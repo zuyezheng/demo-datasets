@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 2,
-        "fear": 2,
-        "disgust": 2,
-        "surprise": 2
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The document is a presidential order regarding land acquisition for Yosemite National Park. It's a formal, legal document. The primary emotion conveyed, if any, would be a sense of purpose or resolve, but it's very subtle. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores should be low across the board, with a slightly higher score for purposefulness which might translate to a very mild sense of joy or perhaps surprise that this action is being taken. After further consideration, the document is purely administrative and factual. There is no emotional conveyance intended or likely to be received by the public. Therefore, all scores should be set to 1, indicating a neutral emotional impact.",
+    "critique": "The document is a formal presidential order regarding land acquisition for Yosemite National Park. It primarily uses legal and administrative language. There is no explicit emotional expression. Therefore, the initial scores for all emotions should be low, reflecting the lack of overt emotional content. Considering it is a formal document, I will assign a baseline score of 1 for all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

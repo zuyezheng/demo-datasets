@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 2
     },
-    "critique": "The document is a formal approval of an agreement within the construction industry. The language is legal and procedural, lacking strong emotional cues. The president is conveying a sense of duty and approval, but not necessarily strong emotions. Therefore, all emotions should be scored low, with a slight emphasis on joy and surprise due to the positive nature of the approval.",
+    "critique": "The document is a formal approval of an agreement within the construction industry. The language is legal and administrative, with no strong emotional content. Therefore, the initial scores should be low across all emotions, with a slight emphasis on surprise due to the announcement nature of the document.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

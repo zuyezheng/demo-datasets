@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to a departmental rule. It discusses employment of substitutes and their eligibility for regular positions. The language is formal and bureaucratic, with no indication of emotions like joy, sadness, anger, fear, disgust, or surprise. The context is a legal or administrative one, not one where emotions are typically expressed. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal amendment to a departmental rule. It discusses the employment of substitutes and their eligibility for regular positions. The language is formal and bureaucratic. There is no strong indication of any particular emotion. A baseline level of formality is present, but no specific emotion is emphasized. Therefore, I will assign a low score to all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

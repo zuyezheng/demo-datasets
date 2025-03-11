@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 1,
-        "disgust": 1,
+        "fear": 3,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is an executive order establishing a commission to investigate the Deepwater Horizon oil spill. The language is formal and legalistic. The primary emotion conveyed is concern and a desire to address the issue. There might be a hint of sadness related to the disaster, but it's not overt. There's no strong indication of joy, anger, fear, disgust, or surprise. The order aims to project an image of responsibility and action.",
+    "critique": "The document is a formal executive order establishing a commission to investigate the Deepwater Horizon oil spill. The primary emotion conveyed is concern and a desire to address the situation. There's a hint of sadness related to the disaster, and perhaps a touch of anger or disgust at the events that led to it, but these are very muted. Surprise is not really present. The document aims for a neutral, official tone.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 4,
+        "fear": 4,
+        "disgust": 3,
         "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 2,
         "fear": 2,
-        "disgust": 2,
+        "disgust": 3,
         "surprise": 2
     },
-    "critique": "The document is a formal executive order establishing a task force to combat fraud. The language is legal and procedural, with no explicit emotional appeals. However, the underlying intent to protect the American people from fraud could be interpreted as a response to a negative situation (fraud) and an attempt to instill confidence and security. Therefore, I will assign low scores to fear, disgust, and sadness (as these are emotions related to the problem of fraud), and a slightly higher score to joy (as a result of the action taken to combat fraud) and surprise (as the public may be surprised by the action).",
+    "critique": "The document is a formal executive order establishing a task force to combat fraud. It aims to convey a sense of seriousness, determination, and commitment to protecting the American people and the government from financial crimes. There is a slight sense of anger towards those who commit fraud, but it's not overt. There is no strong indication of joy, sadness, fear, or surprise.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 2,
         "fear": 2,
-        "disgust": 2,
+        "disgust": 4,
         "surprise": 2
     }
 }

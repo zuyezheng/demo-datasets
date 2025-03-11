@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 3,
-        "fear": 8,
-        "disgust": 7,
+        "fear": 6,
+        "disgust": 1,
         "surprise": 2
     },
-    "critique": "The document conveys a sense of seriousness and determination in response to a perceived threat. It aims to instill a sense of caution and resolve in the American public. The primary emotion conveyed is fear due to the declaration of a national emergency and the blocking of assets. There's also a sense of disgust towards the actions of the Iraqi government. Surprise is less relevant, as the document focuses on a measured response rather than shock. Joy and sadness are not prominent emotions in this context.",
+    "critique": "The document conveys a sense of seriousness and determination to address a threat. There is a clear absence of joy. Sadness might be present due to the situation, but it's not explicitly emphasized. Anger is not directly expressed, but implied through the actions being taken. Fear is present due to the declared threat to national security. Disgust is not explicitly present. Surprise is minimal, as the declaration follows a logical course of action given the circumstances.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 9,
-        "disgust": 8,
-        "surprise": 1
+        "sadness": 3,
+        "fear": 7,
+        "disgust": 2,
+        "surprise": 2
     }
 }

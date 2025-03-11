@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding nuclear export licensing. It primarily focuses on establishing procedures for inter-agency coordination and decision-making. There's no strong emotional language or appeals to sentiment. The dominant feeling is one of neutrality and procedural formality. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding nuclear exports. It primarily conveys a sense of authority and responsibility. There's a slight undercurrent of concern for national security, but it's not overtly emotional. Therefore, I will assign low scores to most emotions, with a slightly higher score for fear due to the security concerns.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

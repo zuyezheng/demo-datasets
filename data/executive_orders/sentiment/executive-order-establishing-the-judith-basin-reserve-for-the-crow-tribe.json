@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation for the Crow tribe of Indians. It primarily focuses on geographical details and legal specifications. There is no explicit expression of emotions such as joy, sadness, anger, fear, disgust, or surprise within the text. The language is neutral and objective, aiming to establish a clear legal framework. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal executive order regarding land withdrawal for the Crow tribe of Indians. It primarily uses legal and geographical language. There is no explicit expression of emotions. However, the act of withdrawing land for the tribe could be interpreted as a gesture of goodwill or protection, suggesting a slight degree of joy. Conversely, the withdrawal might imply a potential conflict or displacement, hinting at a minimal level of sadness or fear. Given the formal nature and lack of emotional cues, most emotions should be scored low.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

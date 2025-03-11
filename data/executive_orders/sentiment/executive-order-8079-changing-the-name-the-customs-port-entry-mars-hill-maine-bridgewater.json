@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding a change in the name and boundaries of a customs port. The language is legal and administrative, with no emotional content. Therefore, all emotions should be scored as 1, indicating a neutral sentiment.",
+    "critique": "The document is a formal executive order. It primarily concerns administrative changes to a customs port of entry. There is no strong emotional content. The changes themselves might bring a slight sense of satisfaction or relief to those affected, but the document itself doesn't convey these emotions directly. Therefore, most emotions should be scored low. I will give a slightly higher score to surprise as the change in name and inclusion of townships might be unexpected.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

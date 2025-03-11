@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the exemption of a person from mandatory retirement. It does not express any strong emotions. The primary purpose is to communicate a legal decision. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the exemption of a person from mandatory retirement. It expresses no strong emotions. The primary emotion might be a mild sense of duty or responsibility in ensuring the continuation of service for someone when the public interest requires. Therefore, I will assign low scores across all emotions, with a slightly higher score for responsibility which can be interpreted as a low level of joy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

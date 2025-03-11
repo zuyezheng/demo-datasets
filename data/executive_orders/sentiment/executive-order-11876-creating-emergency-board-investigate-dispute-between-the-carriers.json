@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document outlines a labor dispute and the creation of a board to investigate it. The language is formal and legalistic, indicating a serious but neutral tone. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. The President is acting in an official capacity to resolve a potential disruption to interstate commerce. Therefore, all emotions should be scored low, with a slight emphasis on concern or seriousness, which might translate to a minimal level of fear or sadness due to the potential disruption.",
+    "critique": "The document is a formal executive order addressing a labor dispute in the railway industry. It invokes the authority of the President under the Railway Labor Act to create a board of investigation. The language is legalistic and procedural, with no explicit expression of emotion. However, the implicit concern about a potential disruption of interstate commerce suggests a degree of worry or perhaps even a hint of fear regarding the economic consequences. Given the formal nature, the scores should be low, reflecting the absence of overt emotional expression.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 2,
         "disgust": 1,
         "surprise": 1

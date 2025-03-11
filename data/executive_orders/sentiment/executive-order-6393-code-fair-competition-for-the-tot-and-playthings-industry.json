@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal approval of a Code of Fair Competition for the Toy and Playthings Industry. The language is legal and administrative, with no clear emotional tone. The President is conveying a sense of duty and compliance with the National Industrial Recovery Act. Therefore, the emotions conveyed are minimal. I will assign low scores across all emotions initially. After further consideration, I still believe the emotional content is minimal, so the revised scores will remain low.",
+    "critique": "The document is a formal approval of a code of fair competition. The language is legal and administrative. There is no strong emotional content. A baseline of 1 is appropriate for most emotions. There might be a slight sense of joy or optimism associated with the approval, but it's very mild. Therefore, I will assign a score of 2 to joy and 1 to the rest.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

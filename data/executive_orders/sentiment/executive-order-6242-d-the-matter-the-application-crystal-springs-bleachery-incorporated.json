@@ -1,12 +1,12 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the denial of an exemption application related to the Cotton Textile Industry code. The language is formal and legalistic, suggesting a tone of authority and finality. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the denial of the application might convey a sense of disappointment or perhaps even a mild sense of injustice to those affected. Given the context of the Great Depression and the efforts to stabilize industries, there might be a subtle undercurrent of determination or resolve. The document does not contain strong emotional cues, so the initial scores should be relatively low.",
+    "critique": "The document is a formal announcement regarding the denial of an exemption application related to the Cotton Textile Industry code. The language is legalistic and procedural. There is no strong emotional language. Therefore, the initial scores should be low across all emotions. The document expresses a formal decision, so a baseline level of sadness is appropriate. There is no explicit joy, fear, or surprise. Disgust is not present. The revised scores reflect these considerations.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,

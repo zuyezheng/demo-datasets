@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to the Manual for Courts-Martial. It addresses the chain of command among prisoners of war. The language is legal and procedural, not designed to evoke emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal amendment to the Manual for Courts-Martial. It addresses the chain of command among prisoners of war. The primary emotion conveyed is a sense of authority and order. There is a hint of sadness due to the context of prisoners of war, and perhaps a touch of fear related to the hostile forces, but these are relatively low. There is no explicit joy, disgust, or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

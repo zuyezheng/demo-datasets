@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 6,
-        "sadness": 7,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "joy": 5,
+        "sadness": 6,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 2
     },
-    "critique": "The document expresses concern about kidney disease and outlines policy changes. It aims to convey a sense of hope and determination to improve the situation. Therefore, sadness and concern should be present, but also hope and determination. There is no indication of anger, fear, disgust, or surprise.",
+    "critique": "The document expresses concern about kidney disease and outlines policies to improve care and access to transplants. There is a sense of urgency and determination to address the issues.The initial scores reflect the presence of sadness due to the high mortality rate and suffering, and a moderate level of hope/joy due to the focus on improving care and increasing access to transplants. There's also a hint of disgust at the current state of affairs. Surprise is low as the document is a policy statement, not an expression of astonishment. Fear is present due to the severity of the disease and its consequences. The revised scores aim to better capture the nuances of these emotions within the context of a formal policy document.",
     "revised_scores": {
         "joy": 6,
         "sadness": 7,
-        "fear": 1,
-        "disgust": 1,
+        "fear": 5,
+        "disgust": 4,
         "surprise": 1
     }
 }

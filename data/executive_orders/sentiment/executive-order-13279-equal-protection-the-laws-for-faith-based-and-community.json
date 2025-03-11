@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 4,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order. Executive orders are typically written in formal, legalistic language and are not designed to evoke strong emotions. The purpose of this order is to guide federal agencies in formulating policies related to faith-based organizations and community organizations. The order aims to ensure equal protection of the laws, expand opportunities, and strengthen the capacity of these organizations. The language is neutral and objective, focusing on definitions, principles, and implementation. There is no indication of an attempt to convey joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores for all emotions should be low.",
+    "critique": "The document is a formal executive order. It aims to guide federal agencies in developing policies related to faith-based and community organizations. The language is formal and legalistic. There is a sense of purpose and determination to ensure equal protection and expand opportunities. However, strong emotions are not explicitly conveyed. The order seems to convey a sense of joy in expanding opportunities and reducing discrimination, and a sense of hope that the order will help meet social needs. There is no obvious sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 4,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

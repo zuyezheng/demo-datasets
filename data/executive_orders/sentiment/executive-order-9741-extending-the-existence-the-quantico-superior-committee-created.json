@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The president is making an announcement. The announcement itself doesn't convey any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal extension of an executive order. It expresses no strong emotions. The scores should be very low, close to 1, for all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

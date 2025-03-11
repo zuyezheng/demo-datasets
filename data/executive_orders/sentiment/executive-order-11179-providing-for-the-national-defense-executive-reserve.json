@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "joy": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order establishing a National Defense Executive Reserve. It outlines the structure, responsibilities, and membership guidelines for this reserve. The language is formal and legalistic, typical of such orders.The primary emotion conveyed is a sense of preparedness and order, with a hint of concern for national security, but not overt fear. There's no indication of joy, disgust, or surprise. The order aims to establish a system for emergency situations, suggesting a level of seriousness and potential for concern, but it's presented in a controlled and bureaucratic manner. Therefore, I would expect the public to feel a low level of concern (fear), and a moderate level of seriousness.I will revise the scores to reflect the subtle emotions conveyed.",
+    "critique": "The document is a formal executive order. It establishes a National Defense Executive Reserve and outlines the procedures for its operation. The language is legalistic and procedural. There is no explicit expression of emotions. However, the context suggests a sense of preparedness and concern for national security, which could be interpreted as a low level of fear and a moderate level of determination (which I will interpret as a low level of joy). The other emotions are not relevant.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 2,
-        "fear": 4,
+        "joy": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

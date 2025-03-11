@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The president is conveying joy and surprise with the document. The president is not conveying sadness, anger, fear, or disgust with the document.The document is a formal order, so the intensity of the emotions is low.",
+    "critique": "The document is a formal executive order establishing a wildlife refuge. It primarily conveys a sense of authority and purpose, with a secondary implication of concern for wildlife preservation. There is no explicit expression of joy, sadness, fear, disgust, or surprise. The language is legal and administrative, not emotional. Therefore, the initial scores should reflect this neutrality, with low scores for all emotions. Revised scores will reflect the same assessment.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

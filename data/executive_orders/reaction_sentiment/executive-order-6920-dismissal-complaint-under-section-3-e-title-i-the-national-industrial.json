@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal response to a complaint. The tone is neutral and bureaucratic. The primary goal is to communicate a decision, not to elicit strong emotions. Therefore, the initial scores should be low across the board. However, there might be a slight element of 'surprise' that the complaint was not warranted, and perhaps a touch of 'disgust' at the complaint itself, but these would be minimal. The revised scores will reflect this.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 2
+    }
+}

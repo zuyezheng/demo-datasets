@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order focused on ethics. It is a formal and legal document. The primary goal is to establish and maintain ethical standards within the executive branch. Therefore, the emotions conveyed are minimal. There might be a slight sense of joy that ethical standards are being reinforced, but it's very subtle. There is no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order establishing ethical conduct standards for executive branch employees. It aims to ensure public confidence in the government's integrity. The language is formal and legalistic, focusing on principles, responsibilities, and delegations of authority. There is a sense of duty and commitment to ethical governance, but no strong emotions are explicitly conveyed. Therefore, most emotions should be scored low, with a slight emphasis on the intention to inspire confidence and trust.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to the Civil Service Rules. It is unlikely to evoke strong emotions in the American public. The language is legal and procedural, not designed to elicit an emotional response. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal amendment to the Civil Service Rules. The language is legalistic and administrative. There is no strong emotional content. A baseline of 1 is appropriate for most emotions, with a slightly higher score for sadness due to the discussion of separation from service.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

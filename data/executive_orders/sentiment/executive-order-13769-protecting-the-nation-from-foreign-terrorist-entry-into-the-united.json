@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 4,
         "fear": 7,
-        "disgust": 4,
+        "disgust": 6,
         "surprise": 2
     },
-    "critique": "The document expresses concern about terrorism and the need to protect the American people. It aims to convey a sense of urgency and determination to strengthen security measures. The language used is formal and legalistic, reflecting the official nature of the document. The emotions most likely to be conveyed are fear (related to potential terrorist threats) and a sense of determination/resolve to address these threats. There might be some element of disgust towards those who would harm Americans or exploit immigration laws. There is little to no indication of joy or surprise.",
+    "critique": "The document expresses concern about terrorism and the need to protect the American people. It conveys a sense of fear and disgust towards those who intend to harm the country. There is also an element of sadness related to past terrorist attacks. The document does not express joy or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 5,
         "fear": 8,
-        "disgust": 5,
-        "surprise": 2
+        "disgust": 7,
+        "surprise": 1
     }
 }

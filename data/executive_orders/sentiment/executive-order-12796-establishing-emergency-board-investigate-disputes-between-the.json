@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a labor dispute in the railroad industry. It establishes an emergency board to investigate and report on the disputes, aiming to prevent disruption of essential transportation services. The language is formal and legalistic, focusing on the creation of the board, its duties, and the maintenance of existing conditions during the investigation.The primary emotion conveyed is concern and a sense of urgency to resolve a potentially disruptive situation. There's no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the implicit concern about the potential disruption of essential transportation services suggests a degree of worry or apprehension. Considering the context, the public might feel a mild sense of relief that the President is taking action to address the situation, but also a slight concern about the potential for disruption if the disputes are not resolved. Therefore, I will assign low scores to fear and surprise, and a minimal score to sadness. Joy, disgust and anger are not applicable here.Revised scores:Disgust: 1Fear: 2Joy: 1Sadness: 1Surprise: 2",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses a sense of urgency and authority, but avoids strong emotional language. The primary emotion conveyed, albeit subtly, is concern regarding the potential disruption of essential transportation services. Therefore, sadness is present due to the negative impact of the situation. There's a hint of fear regarding the potential consequences of the dispute. Surprise and disgust are not applicable. Joy is not applicable. The scores are on the lower end due to the formal tone.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

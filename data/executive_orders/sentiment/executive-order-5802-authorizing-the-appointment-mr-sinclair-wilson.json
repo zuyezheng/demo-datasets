@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of an appointment. It expresses no strong emotions. The language is neutral and factual. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal appointment notice. It expresses no strong emotions. The tone is neutral and factual. Therefore, all emotions should be scored low. Considering that the document expresses a positive decision, I will give joy a score of 2. All other emotions will be scored 1.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

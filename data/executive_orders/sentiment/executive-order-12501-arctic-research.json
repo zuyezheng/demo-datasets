@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the Arctic Research Commission and the Interagency Arctic Research Policy Committee. It outlines the structure, membership, functions, and responsibilities of these entities. The language is formal and legalistic, with no overt expression of emotion. The purpose is to establish a framework for Arctic research policy, not to evoke any particular emotion in the reader. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing the Arctic Research Commission and the Interagency Arctic Research Policy Committee. It outlines the structure, membership, functions, and responsibilities of these entities. The language is formal and legalistic, with a focus on policy and procedure. There is a general sense of purpose and intent to promote Arctic research, but no strong emotions are explicitly conveyed. Therefore, most emotions should be scored low, with a slight emphasis on joy due to the positive nature of establishing a research commission.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

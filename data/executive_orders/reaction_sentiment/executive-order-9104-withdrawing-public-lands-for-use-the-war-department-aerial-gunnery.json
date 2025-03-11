@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order withdrawing public lands for use as an aerial gunnery range. As the author, the President, the primary emotion is a sense of duty and resolve to provide resources for the War Department. There is no explicit mention of emotions, but the tone is authoritative and decisive. The order aims to ensure the War Department has the necessary resources, so a sense of confidence and security might be intended as a secondary effect. There's no indication of sadness, anger, disgust, or surprise. The joy score is low because it's a serious matter, not a celebration. Fear is also low, as the order is meant to address potential threats, not create them.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

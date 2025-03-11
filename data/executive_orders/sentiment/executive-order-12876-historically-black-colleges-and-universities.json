@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to establish and strengthen support for Historically Black Colleges and Universities. The language is formal and bureaucratic, focusing on establishing boards, assigning responsibilities, and setting goals. There is no explicit expression of emotions. However, the underlying sentiment is positive, aiming to promote opportunity and development. Therefore, I will score joy as a moderate positive emotion. The other emotions are not significantly present.",
+    "critique": "The document is a formal executive order, so the emotions conveyed are generally low. There is a sense of joy in advancing human potential and strengthening historically Black colleges and universities. There is no strong indication of sadness, anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

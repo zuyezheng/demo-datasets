@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a short statement about the appointment of Mr. I. B. Conklin. It does not contain any emotional language. The context is a routine personnel decision. Therefore, the expected sentiment scores for all emotions should be low.Since there is not enough information provided, I will use a score of 1.",
+    "critique": "The document is a formal announcement of an appointment. It does not express any particular emotion. Therefore, the initial scores for all emotions should be low. Since there is not enough information, I will use a score of 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

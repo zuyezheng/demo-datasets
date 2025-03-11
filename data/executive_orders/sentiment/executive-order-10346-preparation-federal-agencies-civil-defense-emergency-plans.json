@@ -4,9 +4,9 @@
         "sadness": 1,
         "fear": 3,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding civil defense planning. It primarily conveys a sense of preparedness and seriousness, but doesn't strongly emphasize any particular emotion. The language is formal and bureaucratic, not designed to evoke strong feelings. Therefore, all emotions should be scored relatively low. I will start with initial scores of 3 for fear and surprise, and 1 for the rest. After revision, I will reduce surprise to 1.",
+    "critique": "The document is a formal executive order regarding civil defense planning. It primarily conveys a sense of preparedness and seriousness. There is a mild sense of fear due to the context of a 'civil-defense emergency,' but it is not overwhelming. There is no explicit joy, sadness, disgust, or surprise conveyed. The scores should reflect this.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

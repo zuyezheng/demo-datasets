@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding the unification of agencies concerned with foreign economic affairs. It is a formal and legal document. The primary emotion conveyed would likely be a sense of seriousness and determination to improve the efficiency of the government during wartime. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, the context of wartime might imply a sense of urgency and perhaps underlying fear or concern about the economic situation. Given the nature of the document, the emotional impact on the public is likely to be minimal, but a sense of confidence in the government's actions might be present. Therefore, the initial scores are set accordingly, with low values for most emotions and a slightly higher value for confidence or perhaps a subdued sense of urgency.",
+    "critique": "The document is a formal executive order regarding the unification of agencies concerned with foreign economic affairs during World War II. It primarily conveys a sense of authority and determination to streamline operations for the war effort. There's no explicit expression of joy, sadness, fear, or disgust. Surprise is also unlikely in such a formal context. The primary emotion conveyed is a sense of determined action and control.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to an executive order regarding overtime wage compensation for work on holidays. The language is legal and administrative, devoid of emotional expression. The likely emotions conveyed would be minimal, with a slight sense of joy perhaps for those who benefit from the amendment, but overall, the emotional impact is negligible. Therefore, a score of 1 is appropriate for most emotions, with a slightly higher score for joy.",
+    "critique": "The document is a formal amendment to an executive order regarding overtime wage compensation for work on holidays. The language is legal and administrative. There is no explicit emotional expression. Therefore, the initial scores for all emotions should be low. Since there is not enough information provided, I will use a score of 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

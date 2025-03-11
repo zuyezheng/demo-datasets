@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order from the President of the United States regarding the closure of government offices and excusal of employees from duty on the afternoons preceding Christmas Day and New Year's Day in 1935. The language is formal and legalistic, typical of official presidential orders.The primary emotion conveyed, if any, is a mild sense of joy or goodwill, stemming from the President granting government employees time off for the holidays. However, the order is primarily administrative and doesn't explicitly express any strong emotion. Therefore, the scores for all emotions should be relatively low.I will revise the initial scores to reflect the administrative nature of the document and the slight sense of joy.",
+    "critique": "The document is a formal order from the President of the United States regarding closing government offices early on the days preceding Christmas and New Year's Day in 1935. The language is formal and official. There is no explicit expression of emotions. However, the order might implicitly convey a sense of goodwill or consideration for the employees, allowing them to start their holidays earlier. Given the formal nature, the intensity of any emotion conveyed is likely to be low.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal ratification of appointments. It does not express any strong emotions. The tone is neutral and bureaucratic. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order ratifying appointments. It mentions a past misapprehension and satisfactory service, but doesn't strongly convey any particular emotion. The tone is neutral and bureaucratic. Therefore, the initial scores should be low across all emotions, with a slight emphasis on surprise due to the mention of a 'misapprehension'.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

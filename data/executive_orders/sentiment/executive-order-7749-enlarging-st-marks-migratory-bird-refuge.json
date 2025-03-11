@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order establishing an addition to the St. Marks Migratory Bird Refuge. The language is formal and legalistic. The primary emotion conveyed, if any, is a sense of dutiful action and conservation. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The order seems intended to convey a sense of responsible governance and environmental stewardship.",
+    "critique": "The document is a formal executive order establishing an addition to the St. Marks Migratory Bird Refuge. The language is legal and administrative. There is no explicit expression of emotions. However, one could argue there is a subtle sense of joy in preserving natural habitats and protecting migratory birds. However, this is not explicitly stated, so I will keep the joy score low. There is no indication of sadness, fear, disgust, or surprise. Therefore, I will assign a score of 1 to each of these emotions.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

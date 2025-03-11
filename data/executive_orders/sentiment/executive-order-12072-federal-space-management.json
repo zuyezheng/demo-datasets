@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding Federal space facilities. It is a formal and legal document. The primary emotions conveyed are neutral. There may be a slight sense of joy in the idea of improving the Nation's cities, but it is not a strong emotion. There is no indication of sadness, anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal executive order regarding federal space facilities. It focuses on efficient acquisition, utilization, and management of these facilities, with an emphasis on strengthening urban areas. The language is formal and procedural, lacking strong emotional expression. Therefore, most emotions are scored low. Joy is present in the context of improving urban areas, but it's mild. There's a slight sense of concern (fear) for economic and social impacts, but it's also minimal. Surprise, disgust, and sadness are not evident.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

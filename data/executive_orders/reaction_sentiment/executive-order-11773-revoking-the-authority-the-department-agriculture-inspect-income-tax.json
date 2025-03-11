@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal announcement revoking previous executive orders. The tone is neutral and factual, aiming to convey a sense of authority and finality. There's no explicit attempt to evoke strong emotions. However, the revocation might implicitly aim to reduce potential negative emotions associated with the previous orders, such as fear or anger related to government oversight. Conversely, it might evoke sadness or disappointment in those who supported the previous orders. Surprise is unlikely, given the context of executive orders. Joy is also unlikely, as the document is purely procedural. Disgust is not relevant.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

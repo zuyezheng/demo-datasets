@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal authorization from the President regarding the Tennessee Valley Authority. It focuses on the use, conservation, and development of natural resources and the promotion of general welfare. The language is formal and legalistic, lacking strong emotional cues. Therefore, the expected emotional response from the American public would likely be minimal across all emotions. Initial scores are set to 1 across all emotions due to the document's neutral tone and lack of explicit emotional expression. Upon review, the initial assessment holds. The document's purpose is administrative and directive, not designed to evoke strong emotions.",
+    "critique": "The document is a formal authorization from the President regarding the Tennessee Valley Authority. It focuses on the development and conservation of natural resources. There is a sense of purpose and direction, but no strong emotions are explicitly conveyed. Joy might be present in the sense of promoting general welfare, but it's not overt. Sadness, anger, fear, disgust, and surprise are not evident in the text. Therefore, these emotions should be scored low.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

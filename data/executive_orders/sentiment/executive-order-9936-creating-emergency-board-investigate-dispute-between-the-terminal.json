@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 3,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document describes a labor dispute and the creation of a board to investigate it. The language is formal and legalistic. There is no explicit expression of emotion. However, the situation implies a sense of concern and urgency to resolve the dispute and prevent disruption of transportation services. Therefore, a low level of concern/fear and surprise might be present. The other emotions are not applicable.The initial scores reflect this assessment.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses concern about potential disruption to interstate commerce. The emotions conveyed are primarily related to concern and a need for resolution, but are presented in a very formal and measured tone. Therefore, the scores should be relatively low, with a slight emphasis on concern/sadness due to the potential negative impact of the dispute.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 3,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

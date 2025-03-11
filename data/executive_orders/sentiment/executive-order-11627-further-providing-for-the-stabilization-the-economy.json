@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     },
-    "critique": "The document is a formal executive order detailing economic stabilization measures. It primarily conveys a sense of authority and determination to address economic issues. There's no strong indication of joy, sadness, fear, disgust, or surprise. The language is formal and objective, aiming to establish policies and procedures. Therefore, the initial scores for all emotions are set to 1, indicating minimal emotional conveyance.",
+    "critique": "The document is a formal executive order detailing economic stabilization measures. It primarily conveys a sense of determination and authority in implementing these measures. There's a slight undercurrent of concern about economic stability, but it's largely overshadowed by the authoritative tone. Therefore, I will assign low scores to negative emotions and a moderate score to determination, which translates to a low surprise score.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

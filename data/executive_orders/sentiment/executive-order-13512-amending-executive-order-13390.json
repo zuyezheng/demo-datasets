@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal amendment to an executive order. It extends the work of the Coordinator of Federal Support for the Recovery and Rebuilding of the Gulf Coast Region. The language is formal and legalistic. There is no explicit expression of emotion. However, one could infer a sense of duty and responsibility. Considering the context of disaster relief, one might expect a touch of sadness and perhaps a hint of hope/joy related to recovery, but these would be very mild. The amendment itself doesn't convey strong emotions. Therefore, I will assign low scores across the board, with a slightly higher score for sadness due to the context of disaster relief.",
+    "critique": "The document is a formal amendment to an executive order. It extends the work of the Coordinator of Federal Support for the Recovery and Rebuilding of the Gulf Coast Region. There is no explicit emotion conveyed in the document. However, the extension of support could be interpreted as a sign of continued commitment and hope, but this is very subtle. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy due to the positive implication of continued support.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 2,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

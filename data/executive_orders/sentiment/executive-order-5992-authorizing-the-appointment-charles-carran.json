@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a short announcement about an appointment. It doesn't convey any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal announcement of an appointment. It is a factual statement with no emotional content. Therefore, the initial scores for all emotions should be low. Since there is not enough information, I will use a score of 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order regarding the reinstatement of Oliver H. Clarke to a position in the Treasury Department. The order emphasizes Clarke's qualifications and the needs of the service due to a large building program. The Civil Service Commission's non-concurrence is also noted.The language is formal and bureaucratic, focusing on justification and necessity. There's no explicit expression of emotion in the document. However, the emphasis on Clarke's qualifications and the needs of the service could be interpreted as conveying a mild sense of approval or satisfaction. Given the lack of strong emotional cues, the scores should be low.Joy: The document mentions that Clarke's appointment will be in the interest of the service, suggesting a positive outcome.Sadness: There is no indication of sadness in the document.Anger: There is no indication of anger in the document.Fear: There is no indication of fear in the document.Disgust: There is no indication of disgust in the document.Surprise: The document does not convey surprise.Revised scores:Joy: 2Sadness: 1Anger: 1Fear: 1Disgust: 1Surprise: 1",
+    "critique": "The document is a formal order regarding the reinstatement of Oliver H. Clarke. The language is neutral and factual. There is a slight hint of positive sentiment due to the recommendation by the Secretary of the Treasury, but overall, the document is not strongly emotional. Therefore, I will assign low scores to all emotions except for surprise, which I will set to 1 due to lack of information.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

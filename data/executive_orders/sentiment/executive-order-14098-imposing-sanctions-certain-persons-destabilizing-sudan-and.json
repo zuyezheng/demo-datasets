@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 3,
-        "fear": 3,
-        "disgust": 5,
-        "surprise": 2
-    },
-    "critique": "The document is a formal executive order addressing the situation in Sudan. It invokes legal authorities and outlines specific actions to be taken, including blocking property and restricting entry into the United States for individuals involved in actions that threaten the peace, security, or stability of Sudan. The language is legalistic and precise, with a focus on policy and enforcement.The primary emotion conveyed is concern and determination to address a threat to national security and foreign policy. There's an element of disgust towards the actions that are destabilizing Sudan and undermining democratic processes. There might be a hint of sadness about the situation in Sudan, but it's not explicitly stated. There is no explicit joy, fear, or surprise conveyed in the document.Initial assessment: Disgust: 5, Fear: 3, Joy: 1, Sadness: 3, Surprise: 2Revised assessment: Disgust: 6, Fear: 4, Joy: 1, Sadness: 4, Surprise: 2",
-    "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 4,
         "fear": 4,
+        "disgust": 5,
+        "surprise": 3
+    },
+    "critique": "The document expresses concern about the situation in Sudan and aims to support a transition to democracy. It conveys a sense of determination to address the threat to national security and foreign policy. There's a hint of sadness regarding the conflict and human rights abuses in Sudan. There's a sense of disgust regarding the actions that undermine democratic processes. There is a sense of surprise regarding the military's seizure of power in October 2021 and the outbreak of inter-service fighting in April 2023.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 5,
+        "fear": 5,
         "disgust": 6,
-        "surprise": 2
+        "surprise": 4
     }
 }

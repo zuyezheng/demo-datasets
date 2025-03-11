@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order establishing a bird refuge and outlining prohibited activities. It aims to convey a sense of seriousness and importance regarding the protection of wildlife and natural resources. There is a slight sense of joy that the president is trying to convey with the protection of the birds. There is no explicit expression of emotions like sadness, anger, fear, disgust, or surprise. The language is legal and administrative, focusing on clarity and enforcement. Therefore, the scores should reflect the low emotional intensity, with a slight emphasis on joy.",
+    "critique": "The document is a formal order establishing a bird refuge and outlining prohibited activities. It aims to protect wildlife and natural resources. The language is legal and administrative, not intended to evoke strong emotions. However, there might be a subtle sense of joy in preserving nature, a hint of sadness for the potential loss of wildlife if the refuge wasn't established, a touch of anger towards those who might violate the rules, and a bit of fear regarding the consequences of not protecting the area. Disgust might be present towards actions that harm the environment, and surprise is unlikely given the formal nature of the document.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "joy": 3,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     }
 }

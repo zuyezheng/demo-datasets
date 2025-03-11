@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding a labor dispute and the creation of a board to investigate it. The language is legal and procedural, with no explicit emotional expression. The President is acting in an official capacity to address a potential disruption to interstate commerce. Therefore, the expected emotional response from the American public would likely be minimal, with perhaps a slight sense of relief that the situation is being addressed. Given the lack of emotional content, all initial scores are set to 1.",
+    "critique": "The document is a formal announcement regarding a labor dispute. It expresses a sense of urgency and importance due to the potential disruption of interstate commerce. However, it does not explicitly convey strong emotions. The scores are based on the implied emotions within the formal context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

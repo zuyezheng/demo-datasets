@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement about changes to civil service rules. It revokes exceptions for certain positions, making them part of the competitive classified service. There is no explicit emotional language or sentiment expressed in the document. Therefore, all emotions should be scored low, as the public is not expected to feel any strong emotion based on this announcement. The initial scores will be all 1s, and the revised scores will remain the same after considering the lack of emotional content.",
+    "critique": "The document is a formal amendment to Civil-Service Rule II, section 3, regarding positions excepted from examination. It revokes paragraphs 1 and 20, which previously exempted the superintendent of the Hot Springs Reservation and superintendents/officers in charge of national parks or reservations from examination. This change includes these positions in the competitive classified service. The language is formal and administrative, with no explicit emotional expression. However, one could argue that there is a hint of joy as it includes more positions in the competitive classified service.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

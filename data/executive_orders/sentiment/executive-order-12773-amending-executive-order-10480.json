@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the transfer of responsibilities from the General Services Administration to the Department of Defense. The language is legal and procedural, and there is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order regarding the transfer of responsibilities from the General Services Administration to the Department of Defense. The language is legal and procedural. There is no explicit expression of emotion. Therefore, the initial scores should be very low for all emotions. Considering that this is a formal document, a score of 1 is appropriate for all emotions to indicate a baseline level of formality and lack of emotional expression.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

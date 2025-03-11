@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the President's Board of Consultants on Foreign Intelligence Activities. The language is formal and bureaucratic. The primary goal appears to be to convey a sense of authority and importance, and to establish a process for intelligence oversight. There is no strong indication of any particular emotion being conveyed. Therefore, the initial scores are all low.",
+    "critique": "The document is a formal executive order establishing the President's Board of Consultants on Foreign Intelligence Activities. The language is formal and legalistic. There is no explicit expression of emotions. However, the underlying intent to enhance national security suggests a concern for potential threats, which could be interpreted as a low level of fear. The establishment of the board and the emphasis on objective review and quality of intelligence could also be seen as a desire to improve the current state, implying a mild dissatisfaction or a lack of joy with the status quo. Given the formal nature, the scores should be low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

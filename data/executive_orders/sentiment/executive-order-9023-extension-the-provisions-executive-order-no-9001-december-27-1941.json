@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order extending the provisions of a previous order to additional government agencies. The language is legal and procedural, with the purpose of facilitating the war effort. There is no explicit emotional expression in the document. However, the context of the war might evoke a sense of fear and determination. The president is trying to show that he is taking action and is in control. Initial scores: Disgust: 1, Fear: 3, Joy: 1, Sadness: 1, Surprise: 1. Revised scores: Disgust: 1, Fear: 3, Joy: 1, Sadness: 1, Surprise: 1",
+    "critique": "The document is a formal executive order extending the provisions of a previous order to additional government agencies. The primary emotion conveyed is a sense of urgency and determination to support the war effort. There is no explicit expression of joy, sadness, fear, or disgust. Surprise is also unlikely in such a formal context. The language is formal and legalistic, aimed at efficiency and authorization.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

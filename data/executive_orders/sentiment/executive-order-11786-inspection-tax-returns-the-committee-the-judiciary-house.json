@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
+        "sadness": 3,
         "fear": 2,
-        "disgust": 3,
-        "surprise": 2
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The document is a formal authorization for the House of Representatives to inspect President Nixon's tax returns. The language is legal and procedural, with no explicit emotional expression. However, the context suggests potential negative emotions related to the impeachment investigation.The president is likely trying to convey a sense of duty and compliance, while the public might feel a mix of emotions depending on their views on the situation. Given the formal tone and lack of explicit emotional cues, the intensity scores should be relatively low, but not 1 as there is enough information to make an informed decision.",
+    "critique": "The document is a formal authorization for the House of Representatives to inspect President Nixon's tax returns. It is a legal document, and as such, it does not explicitly convey any particular emotion. However, given the context of the investigation into potential impeachment, a sense of seriousness and concern might be inferred. The scores are based on the assumption of a formal document with a slightly negative undertone due to the impeachment context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
+        "sadness": 3,
         "fear": 2,
-        "disgust": 3,
-        "surprise": 2
+        "disgust": 1,
+        "surprise": 1
     }
 }

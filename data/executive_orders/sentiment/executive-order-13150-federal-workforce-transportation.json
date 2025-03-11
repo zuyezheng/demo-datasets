@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding transportation fringe benefits for federal employees. It aims to reduce traffic congestion and air pollution by encouraging the use of mass transportation and vanpools. The language is legal and procedural, with no overt emotional expression. However, a sense of joy could be inferred from the positive impact of the order, and a sense of surprise could be inferred from the new policy implementation. Disgust, fear, and sadness are not relevant to the document's content or context. The initial scores reflect this assessment.",
+    "critique": "The document is a formal executive order regarding transportation benefits for federal employees. It aims to reduce traffic congestion and air pollution. The language is legal and procedural, lacking strong emotional expression. Therefore, most emotions should be scored low. There might be a slight sense of joy due to the positive impact on the environment and commuting, but it's minimal. There's no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

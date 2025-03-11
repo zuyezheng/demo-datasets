@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration regarding airspace restrictions for national defense purposes. It cites legal authority and specifies geographical coordinates. The language is formal and legalistic, devoid of emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal declaration restricting airspace for national defense purposes. It invokes legal authority and specifies geographical boundaries. The language is precise and authoritative, aiming to ensure compliance and security. There is an implicit sense of caution and control, but no strong emotions are explicitly conveyed. Therefore, the initial scores are set to reflect the formal and neutral tone of the document, with slight increases in fear and caution due to the nature of the announcement.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

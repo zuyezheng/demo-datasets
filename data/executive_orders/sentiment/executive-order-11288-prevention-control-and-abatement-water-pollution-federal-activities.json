@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 5,
         "surprise": 1
     },
-    "critique": "The document is an executive order focused on water pollution control. It is a formal and legal document. The primary emotion conveyed would be a sense of responsibility and determination to address the issue of water pollution. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and objective, aiming to establish policy and procedures. Therefore, the initial scores should be relatively low across all emotions, with a slightly higher score for determination or responsibility, which can be interpreted as a muted form of joy or a lack of sadness/fear about the issue. I will revise the scores to reflect this.",
+    "critique": "The document is a formal executive order addressing water pollution control. It primarily conveys a sense of responsibility and determination to improve water quality. There's a slight undercurrent of concern about the existing pollution problem, but it's not overwhelming. Joy is minimal, as it's a serious policy document. Sadness is low, as it focuses on solutions. Anger is absent. Fear is present due to the potential consequences of water pollution, but not dominant. Disgust is present due to the water pollution. Surprise is minimal, as it's a planned initiative.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 5,
         "surprise": 1
     }
 }

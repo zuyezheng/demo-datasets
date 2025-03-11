@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing an advisory committee. It uses formal language and outlines the committee's responsibilities and structure. There is no explicit emotional expression in the text. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing an advisory committee. It outlines the committee's responsibilities, membership, and administrative procedures. The language is formal and objective, with no overt expression of emotions. Therefore, the emotion scores should be low across the board. Considering the formal nature, a baseline score of 1 is appropriate for emotions that are not explicitly conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

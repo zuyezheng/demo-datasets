@@ -2,14 +2,14 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order related to housing during World War II. It primarily conveys a sense of authority and necessity for war purposes. There's no explicit emotional language used, but the context implies a serious and urgent situation. Therefore, I would expect the public to feel a moderate level of concern (fear) and perhaps some sadness related to the war, but not strong emotions like joy, disgust, or surprise. The initial scores reflect this assessment, with fear and sadness being slightly elevated. After further consideration, the document is a formal declaration, so the emotional impact is likely to be minimal. The revised scores reflect a more neutral stance, with only slight indications of fear and sadness.",
+    "critique": "The document is a formal executive order related to housing during wartime. It primarily conveys a sense of urgency and necessity due to the war context. There is no explicit expression of emotions like joy, sadness, fear, disgust, or surprise. However, the implicit context of war suggests a degree of concern and determination. The score for each emotion should be relatively low, reflecting the formal and factual nature of the document.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 2,
         "disgust": 1,
         "surprise": 1

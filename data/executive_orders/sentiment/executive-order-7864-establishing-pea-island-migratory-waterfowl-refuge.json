@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a presidential order establishing a wildlife refuge. It primarily uses formal and legal language, focusing on the precise description of the land being reserved. There is a sense of purpose and conservation, but no strong emotional sentiment is explicitly conveyed. The order aims to protect migratory birds and other wildlife, which could evoke a mild sense of joy or satisfaction in those who value conservation. However, the document itself is largely devoid of emotional expression. Therefore, the initial scores will be relatively low across all emotions, with a slight emphasis on joy.",
+    "critique": "The document is a formal declaration establishing a wildlife refuge. It primarily uses legal and geographical language. There is a sense of purpose and conservation, but emotions are not explicitly conveyed. Therefore, most emotions should be scored low, with a slight emphasis on joy due to the positive impact of conservation efforts.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

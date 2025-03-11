@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding accountability in the federal workforce. It aims to streamline the process of removing underperforming employees and ensure efficient use of federal resources. The language is formal and legalistic, focusing on policy and procedure. There is no explicit expression of emotion. However, the underlying sentiment could be interpreted as a desire to address a problem (poor performance) and implement a solution (increased accountability). This could be seen as a form of dissatisfaction or frustration with the current state, but it's not overtly expressed. Given the nature of the document, the expected emotional response from the public is likely to be minimal or neutral. Some might feel a sense of hope that government efficiency will improve, while others might feel anxiety about job security. However, these emotions are not directly conveyed by the document itself.",
+    "critique": "The document is a formal executive order regarding accountability in the federal workforce. It aims to streamline the process of addressing unacceptable performance and misconduct among federal employees. The language is formal and legalistic. There is a sense of determination to improve efficiency and accountability, but no strong emotions are explicitly conveyed. Joy is not present. There is a hint of sadness that the current system is not working as intended. There is a slight sense of frustration or anger that poor performance is undermining morale and agency missions. There is a slight sense of fear that the current system is not adequately addressing unacceptable performance. There is a slight sense of disgust that the current system is not working as intended. There is no surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     }
 }

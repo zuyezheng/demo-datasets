@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a legal declaration. It doesn't express any particular emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal designation of the Federal Aviation Agency. It invokes legal provisions and designates the FAA under those provisions. The language is formal and legalistic. There is no strong emotion conveyed. A low level of joy that the designation is in the public interest. No sadness, fear, or disgust. A touch of surprise that the agency is being designated.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

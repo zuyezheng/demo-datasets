@@ -3,15 +3,15 @@
         "joy": 1,
         "sadness": 1,
         "fear": 2,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a commission to study election integrity. The language is legal and procedural, with a focus on definitions, responsibilities, and administrative details. There is no explicit expression of emotion. However, the underlying implication is a concern about potential vulnerabilities in the voting process, which could be interpreted as a form of worry or concern. The establishment of a commission suggests a proactive approach to address these concerns. Given the nature of the document, the emotional impact on the public is likely to be minimal, with most people viewing it as a routine government action. Therefore, the initial scores are set low across all emotions. After further consideration, I believe that the initial scores accurately reflect the emotional tone of the document. The language is neutral and objective, and the focus is on establishing a commission and defining its responsibilities. There is no explicit expression of emotion, and the underlying implication of concern about election integrity is subtle. Therefore, I will keep the initial scores as the revised scores.",
+    "critique": "The document is a formal executive order establishing a commission to study election integrity. The language is formal and legalistic. There is a slight emphasis on the importance of fair and honest elections, which could be interpreted as a response to a perceived problem. However, the document itself does not explicitly express strong emotions. Therefore, most emotions should be scored low, with a slight increase in fear and disgust due to the mention of 'fraudulent voter registrations and fraudulent voting'.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
+        "fear": 3,
+        "disgust": 3,
         "surprise": 1
     }
 }

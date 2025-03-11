@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to establish a policy for coordinating ocean-related matters. The language is formal and legalistic, focusing on organization and cooperation. There is no explicit emotional appeal. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It establishes a committee on ocean policy and outlines its functions. The language is formal and legalistic. There is no strong emotion conveyed, but a sense of importance and purpose is present. Therefore, I will assign low scores for all emotions, with a slightly higher score for joy due to the positive nature of establishing a policy.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 5,
-        "disgust": 3,
-        "surprise": 2
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The document is a presidential order addressing domestic violence and disorder. The primary emotion conveyed is a sense of urgency and resolve to restore law and order. There's an element of concern (fear) regarding the ongoing violence, but it's presented in a formal, authoritative manner. Disgust might be present due to the nature of the violence, but it's not explicitly expressed. There's no indication of joy or surprise. The order aims to project control and decisiveness in a challenging situation.The initial scores reflect these considerations, with fear and sadness being moderate, and other emotions being low. The revised scores adjust the emphasis based on the formal tone and the intent to project authority.",
+    "critique": "The document is a formal presidential order addressing domestic violence and disorder. It authorizes the Secretary of Defense to take necessary actions, including deploying armed forces and calling National Guard units, to restore law and order. The language is serious and authoritative, reflecting the gravity of the situation.The initial scores are based on this understanding.\n\nRevised scores:\nJoy: 1 (There is no expression of joy in this document.)\nSadness: 3 (A sense of sadness might be inferred from the need to address domestic violence and disorder.)\nAnger: 4 (A degree of anger or resolve to address the violence is present.)\nFear: 5 (The situation warrants a level of fear or concern for public safety.)\nDisgust: 3 (Disgust at the violence and disorder might be present.)\nSurprise: 1 (The document does not express surprise.)",
     "revised_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 6,
-        "disgust": 2,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 3,
         "surprise": 1
     }
 }

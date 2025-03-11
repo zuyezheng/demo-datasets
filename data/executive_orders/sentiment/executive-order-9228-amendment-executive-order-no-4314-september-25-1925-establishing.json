@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order amending navigation rules for the Panama Canal during wartime. It primarily conveys a sense of seriousness and preparedness, with an underlying tone of caution and control. There is a slight indication of fear due to the mention of wartime, but it is not the primary emotion. There's no explicit joy, sadness, disgust, or surprise conveyed in the text. The scores are assigned based on these considerations.",
+    "critique": "The document is a formal executive order amending navigation rules for the Panama Canal during wartime. It focuses on security measures, specifically mandating a gangway watch to control access to vessels. The language is legalistic and devoid of emotional expression. Therefore, the scores should be low across all emotions, with a slight emphasis on fear due to the wartime context and security concerns.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

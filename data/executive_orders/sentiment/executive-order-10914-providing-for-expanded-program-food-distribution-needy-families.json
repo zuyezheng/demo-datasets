@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 6,
+        "sadness": 5,
         "fear": 2,
-        "disgust": 2,
-        "surprise": 4
+        "disgust": 1,
+        "surprise": 3
     },
-    "critique": "The document expresses concern about food and nutrition for all Americans, especially the needy and unemployed. It highlights the inadequacy of the current food distribution program and the decline in farm income. The President orders the Secretary of Agriculture to expand and improve the program. Based on this, the primary emotions conveyed are sadness (due to the problems identified) and a sense of hope or determination (to improve the situation). There might be a touch of surprise at the inadequacy despite food abundance. There isn't significant evidence of joy, anger, fear, or disgust. The initial scores reflect these considerations. The revised scores fine-tune the intensities based on the overall tone and focus on action.",
+    "critique": "The document expresses concern about food and nutrition for all Americans, especially the needy and unemployed. It highlights the inadequacy of the current food distribution program and the decline in farm income. The president orders the Secretary of Agriculture to expand and improve the program. Based on this, I will assign initial scores for sadness (due to the problems mentioned), and surprise (due to the inadequacy despite abundance). There might be a little fear about the future if the problems are not addressed. There is no explicit joy, disgust, or anger conveyed, so I will assign them a low score.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 7,
-        "fear": 1,
+        "sadness": 5,
+        "fear": 2,
         "disgust": 1,
         "surprise": 3
     }

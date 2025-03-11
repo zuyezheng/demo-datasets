@@ -3,15 +3,15 @@
         "joy": 1,
         "sadness": 2,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a letter from the President to the Secretary of War regarding captured flags from the Civil War. The President expresses concern about the legality and justification of returning these flags to the states. The tone is formal and bureaucratic. There is no explicit expression of joy, sadness, anger, fear, disgust, or surprise. However, a sense of caution and perhaps a hint of disapproval can be inferred. Initial scores: disgust: 1, fear: 1, joy: 1, sadness: 2, surprise: 1. Revised scores: disgust: 1, fear: 1, joy: 1, sadness: 2, surprise: 1",
+    "critique": "The document expresses the president's disapproval of the Secretary of War's plan to return captured flags. The tone is formal and direct, focusing on legal and procedural concerns rather than emotional expression. There's a hint of disapproval or disagreement, but it's primarily a matter of policy. Therefore, the initial scores should be low across all emotions, with a slight emphasis on sadness and disgust due to the disapproval.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order extending certain powers to the Tennessee Valley Authority. As the President, the primary emotion I want to elicit is a sense of confidence and security that the national defense is being facilitated. The tone is formal and authoritative. There isn't a strong indication of emotions like joy, sadness, anger, fear, or disgust. Surprise is also unlikely as this seems like a procedural extension of existing powers. Therefore, most emotions should be scored low initially.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

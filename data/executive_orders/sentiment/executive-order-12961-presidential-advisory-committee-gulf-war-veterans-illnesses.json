@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a committee to advise the President on Gulf War Veterans' Illnesses. The language is legal and procedural. There is no strong emotional sentiment conveyed. A slight sense of sadness might be inferred due to the focus on illnesses, but it is not explicitly stated. Therefore, the initial scores are mostly low, with a slightly higher score for sadness.",
+    "critique": "The document is a formal executive order establishing a committee to advise the President on Gulf War Veterans' Illnesses. The language is formal and bureaucratic. There is a slight sense of care and concern conveyed for the veterans, but it is very muted. Therefore, joy, sadness, fear, disgust, and surprise should all be scored low. The document is primarily informational and directive, not emotional.",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,

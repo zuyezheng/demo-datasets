@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing inflation. The language is formal and bureaucratic, with no strong emotional indicators. The primary goal is to convey a sense of order and control. Therefore, all emotions should be scored low. Considering the content, context and language of the document, the President is not attempting to portray any strong emotion. The initial scores reflect this assessment.",
+    "critique": "The document is a formal executive order addressing inflation. It primarily conveys a sense of seriousness and determination to address the issue. There's a slight undercurrent of concern about the economic situation, but it's mostly a matter of stating facts and outlining procedures. Therefore, emotions like joy, surprise, and disgust are not really present. Sadness and fear are present to a small degree because the document is created to solve an issue. The tone is very formal, so the intensity of any emotion is muted.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

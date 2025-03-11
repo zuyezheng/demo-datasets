@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
-        "disgust": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order focused on water pollution control. It outlines policies, procedures, and standards for federal facilities and projects. The language is formal and legalistic, aiming to establish clear guidelines and responsibilities. There's no explicit expression of emotions. However, the underlying intent is to address a problem (water pollution) and implement solutions, which could be interpreted as a response to concern or perhaps even disgust with the current state of affairs. However, given the formal nature, the emotional intensity is likely to be low. I will score surprise as 1, as there is nothing in the document that would indicate surprise.",
+    "critique": "The document is a formal executive order addressing water pollution control. It primarily conveys a sense of responsibility and determination to improve water quality. There's no strong indication of emotions like joy, sadness, fear, disgust, or surprise. The language is formal and objective, focusing on policy and procedures.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
-        "disgust": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

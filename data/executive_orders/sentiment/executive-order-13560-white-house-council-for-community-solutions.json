@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 7,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the White House Council for Community Solutions. The language is formal and bureaucratic. The overall tone is positive and aims to inspire civic participation and community solutions. Therefore, the primary emotion conveyed would be joy, with some element of surprise at innovative solutions. There's no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order establishing the White House Council for Community Solutions. The primary emotion conveyed is Joy, as the order aims to encourage growth and maximize the impact of innovative community solutions and civic participation. There is no indication of sadness, anger, fear, disgust, or surprise. Therefore, the scores for these emotions should be low.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 7,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. It doesn't express any particular emotion. The president is creating a board to investigate a dispute, so surprise is not relevant. The document aims to resolve a dispute that could interrupt transportation, so it is unlikely to convey joy. The situation is serious, so there might be a slight sense of concern or sadness, but it's not explicitly stated. There's no indication of anger or disgust. The scores should reflect the lack of strong emotional expression.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses concern about potential disruption to interstate commerce but maintains a neutral tone. There is no strong indication of joy, sadness, fear, disgust, or surprise. The primary emotion conveyed, albeit subtly, is concern, which can be interpreted as a mild form of worry or perhaps a low level of fear regarding the potential consequences of the dispute. Therefore, I will assign low scores across the board, with a slightly higher score for fear to reflect the concern about the disruption of transportation services.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 1,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

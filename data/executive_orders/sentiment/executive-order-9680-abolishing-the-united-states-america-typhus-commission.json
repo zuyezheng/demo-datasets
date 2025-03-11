@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the abolishment of the United States of America Typhus Commission. The tone is formal and administrative. There is a slight sense of joy and surprise due to the commission fulfilling its mission. There is no indication of sadness, anger, fear, or disgust.",
+    "critique": "The document is a formal executive order regarding the abolishment of the United States of America Typhus Commission. It expresses the completion of the commission's mission and the transfer of responsibilities to other organizations. The language is formal and factual, with no strong emotional expressions. Therefore, the scores should be low across all emotions.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 2,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 3
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order. It expresses a sense of determination to address national challenges. There's a hint of joy in revoking harmful policies, but overall, the tone is serious and focused on policy changes. It aims to convey a sense of decisive action and a commitment to solving problems. The order revokes previous executive orders, suggesting a change in direction and a desire to undo past policies. This could evoke a sense of surprise in some, but the primary emotions are related to the policy changes themselves.",
+    "critique": "The document is a formal executive order. It expresses a sense of determination to address national challenges and revoke policies deemed harmful. There is a subtle sense of hope for a better future, but overall, the tone is very formal and measured. Therefore, joy, sadness, fear, disgust, and surprise should be scored low, with slightly higher scores for joy and determination.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 2,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 3
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 2
     }
 }

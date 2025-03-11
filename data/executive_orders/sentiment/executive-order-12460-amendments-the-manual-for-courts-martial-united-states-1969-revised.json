@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 4,
-        "disgust": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order prescribing amendments to the Manual for Courts-Martial. It primarily deals with procedures in capital cases. The language is formal and legalistic. There is no explicit expression of emotion. However, the subject matter (death penalty) could evoke strong emotions in the public. Given the nature of the document, the most relevant emotions to consider are fear, disgust, and sadness. Surprise is unlikely, and joy is inappropriate. The intensity of these emotions would depend on individual views on the death penalty. A neutral perspective is required.",
+    "critique": "The document is a formal executive order amending the Manual for Courts-Martial. It primarily deals with procedures in capital cases. Given the legal and procedural nature of the document, the emotions conveyed are minimal. There might be a slight sense of seriousness or gravity due to the subject matter (death penalty), but overall, the document is neutral in tone.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 4,
-        "disgust": 3,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
         "surprise": 1
     }
 }

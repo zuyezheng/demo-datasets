@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order amending a previous order to assure the most effective utilization of shipping for the war effort. The primary emotion conveyed is a sense of urgency and determination to win the war. There is a hint of fear of failure if resources are not utilized effectively. There is no explicit joy, sadness, disgust, or surprise conveyed in the document. The language is formal and legalistic, which further mutes any strong emotional expression.I will assign initial scores based on this analysis and then revise them after further consideration.",
+    "critique": "The document is a formal executive order amending a previous order to assure the most effective utilization of shipping for the successful prosecution of the war. The primary emotion conveyed is a sense of urgency and determination to win the war. There is a sense of seriousness and resolve, but not necessarily anger, disgust, or excessive joy. Fear and surprise are not prominent emotions in this context. The document is very formal and uses legal language.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 4,
+        "sadness": 3,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

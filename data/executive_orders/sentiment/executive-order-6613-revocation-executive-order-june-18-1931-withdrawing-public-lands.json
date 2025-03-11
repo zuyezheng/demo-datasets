@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation. It primarily conveys a sense of official procedure and legal compliance rather than any strong emotion. The mention of 'ex-service men' might evoke a slight sense of joy or gratitude, but it's not the primary focus. The revocation and subsequent opening of land for homesteading could be seen as a positive action, but the language is very formal and neutral. Therefore, I will assign low scores across the board, with a slightly higher score for joy due to the potential benefit for ex-service men.",
+    "critique": "The document is a formal executive order regarding land allocation. It primarily conveys a sense of official procedure and legal compliance rather than strong emotions. Therefore, most emotions should be scored low. There might be a slight sense of joy for ex-service men who are granted land, but it's not explicitly stated, so I will keep the score low. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
         "joy": 2,
         "sadness": 1,

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
-    },
-    "critique": "The document is a formal executive order amending a previous order regarding financial transactions involving Norway and Denmark. The language is legal and technical, with no explicit emotional expression. However, the context of the order, issued shortly after the invasion of Norway and Denmark by Germany in April 1940, suggests an underlying sense of concern and a need for protective measures. The order aims to prevent financial exploitation by potentially hostile entities. Given the context, a sense of fear and disgust might be inferred, but the document itself remains neutral. Therefore, the initial scores will be low across all emotions, with a slight increase in fear and disgust due to the historical context. Revised scores will reflect a more nuanced understanding of the document's implications.",
-    "revised_scores": {
-        "joy": 1,
         "sadness": 2,
         "fear": 4,
         "disgust": 3,
-        "surprise": 2
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order amending a previous order regarding financial transactions involving Norway and Denmark. The primary emotion conveyed is a sense of seriousness and urgency due to the context of potential wartime financial restrictions. There is a hint of fear and disgust towards potential financial threats. The document aims to establish control and prevent financial exploitation or evasion. There is no explicit joy or surprise.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 5,
+        "disgust": 4,
+        "surprise": 1
     }
 }

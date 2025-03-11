@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal approval of a code of fair competition. It uses formal and legalistic language. There is no explicit expression of emotion. The most likely emotion conveyed is neutral, but given the context of the Great Depression, there might be a slight sense of hope or relief that this code could help the industry. Disgust, fear, and surprise are unlikely. I will assign low scores to all emotions, with a slightly higher score for joy and sadness to reflect the potential context.",
+    "critique": "The document is a formal approval of a code of fair competition. It uses formal language and aims to convey a sense of authority and compliance with legal requirements. There is no strong indication of any particular emotion. Therefore, the initial scores are set to 1 for all emotions.",
     "revised_scores": {
-        "joy": 2,
-        "sadness": 2,
+        "joy": 1,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

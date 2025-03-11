@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order extending provisions to the Office of Scientific Research and Development. The language is legal and official, with the purpose of facilitating the war effort. There is no indication of joy, sadness, anger, fear, disgust, or surprise. The primary emotion conveyed, if any, is a sense of determination and resolve, but this is not explicitly stated. Therefore, I will assign low scores to all emotions.",
+    "critique": "The document is a formal executive order extending the provisions of a previous order to the Office of Scientific Research and Development. The language is legal and official, with the purpose of facilitating the war effort. There is no explicit expression of emotions. However, the context of wartime implies a sense of urgency and determination. Given the formal nature, the emotional intensity is likely to be low across all emotions. I will assign a baseline score of 1 for most emotions, with a slight increase for fear and sadness due to the war context, but not exceeding 3, and joy will remain at 1.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

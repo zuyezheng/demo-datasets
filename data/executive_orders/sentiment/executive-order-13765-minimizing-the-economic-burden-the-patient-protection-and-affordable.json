@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document expresses a desire to repeal and minimize the impact of the Affordable Care Act. While it doesn't explicitly convey strong emotions, a sense of determination and perhaps a hint of dissatisfaction with the current state of healthcare could be inferred. The language is formal and legalistic, which tends to suppress overt emotional expression. Therefore, I will assign low scores across the board, with slightly higher scores for sadness (due to the intention to repeal the ACA) and perhaps a touch of surprise (given the swift action taken).",
+    "critique": "The document is a formal executive order. It expresses a desire to repeal and minimize the impact of the Affordable Care Act. There is a sense of determination and resolve, but emotions are largely suppressed in favor of a professional tone. Therefore, joy, sadness, fear, disgust and surprise should be scored low. The document conveys a sense of resolve and determination to change the current healthcare system.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 3,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order transferring officers during a national emergency. It doesn't express any particular emotion. The language is formal and legalistic. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal order transferring officers during a national emergency. It primarily conveys a sense of seriousness and urgency due to the emergency situation. There is no explicit expression of joy, sadness, disgust, or surprise. Fear might be subtly present due to the mention of a national emergency and the transfer of officers to the War Department. The scores are assigned based on this interpretation.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

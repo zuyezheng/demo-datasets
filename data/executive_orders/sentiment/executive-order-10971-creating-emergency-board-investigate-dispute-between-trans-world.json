@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal announcement invoking the Railway Labor Act to address a dispute between Trans World Airlines and its employees. The language is legal and procedural, lacking emotional expression. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal presidential order addressing a labor dispute. It expresses a sense of urgency and authority, but avoids strong emotional language. The primary emotion conveyed, albeit subtly, is concern (akin to sadness) due to the potential disruption of essential transportation services. There's a hint of surprise that the dispute has reached this level, requiring presidential intervention. Disgust, fear, and joy are not evident in the text.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

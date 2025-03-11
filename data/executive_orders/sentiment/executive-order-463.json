@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration by President Lincoln regarding the width of railroad tracks. It doesn't express strong emotions. The primary emotion conveyed might be a mild sense of determination or resolve, but overall, the emotional intensity is low. Therefore, initial scores are set to 1, and revised scores are also set to 1, except for surprise which is set to 2 because the document is unexpected.",
+    "critique": "The document is a formal declaration by President Lincoln regarding the width of railroad tracks. It's a technical and legal document, so strong emotions are unlikely. There might be a slight sense of joy that the project is moving forward, but it's very subdued. There's no indication of sadness, anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

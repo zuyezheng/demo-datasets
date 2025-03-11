@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 2,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration establishing a wildlife refuge. The language is legal and official, with no explicit emotional expression. The primary implied emotion might be a mild sense of joy or satisfaction that the President is taking action to protect wildlife. However, the overall tone is neutral. Therefore, initial scores should be low across all emotions, with a slightly higher score for joy. After reflection, I still believe the scores should be low, but I will adjust the joy score slightly upwards to reflect the positive impact of the action.",
+    "critique": "The document is a formal declaration establishing a wildlife refuge. It expresses no strong emotions. A baseline level of joy might be inferred from the creation of a refuge, and a baseline level of sadness might be inferred from the need to protect wildlife. There is no indication of anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 3,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

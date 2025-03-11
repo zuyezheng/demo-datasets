@@ -1,12 +1,12 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "joy": 2,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 2
     },
-    "critique": "The document is a formal announcement of amendments to Veterans' Regulations. It outlines specific changes regarding pension payments and eligibility based on employment status and income. There is no explicit emotional language used. The tone is neutral and legalistic, aiming to inform the public about the new regulations. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal amendment to Veterans' Regulations. It outlines specific conditions under which individuals receiving pensions or retirement pay can also hold government positions. The language is legalistic and precise, with no overt emotional expression. Therefore, the initial scores should be low across all emotions. Revised scores should reflect the lack of emotional content, with all scores set to 1.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

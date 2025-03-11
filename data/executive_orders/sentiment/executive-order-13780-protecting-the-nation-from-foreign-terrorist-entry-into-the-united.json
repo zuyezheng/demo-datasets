@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 4,
         "fear": 7,
-        "disgust": 6,
-        "surprise": 3
+        "disgust": 1,
+        "surprise": 1
     },
-    "critique": "The document is an executive order regarding immigration and national security. It primarily conveys a sense of fear and concern for national security, with the goal of protecting citizens from terrorist attacks. There's also an element of disgust towards terrorism and those who support it. However, the document is written in a formal, legalistic tone, which may temper the emotional response from the public. The document does not convey joy, sadness, or surprise.",
+    "critique": "The document is a formal executive order focused on national security and immigration. The primary emotion conveyed is fear, driven by concerns about terrorism and the need to protect the nation. There is also a sense of sadness related to past terrorist attacks and the potential for future harm. There is no explicit joy, surprise, or disgust conveyed in the document. The language is formal and legalistic, which tempers the emotional impact.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 8,
-        "disgust": 7,
-        "surprise": 3
+        "sadness": 4,
+        "fear": 7,
+        "disgust": 1,
+        "surprise": 1
     }
 }

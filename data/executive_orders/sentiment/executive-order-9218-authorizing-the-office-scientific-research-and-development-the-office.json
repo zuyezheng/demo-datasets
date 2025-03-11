@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order related to the Second War Powers Act. It authorizes the Office of Scientific Research and Development to acquire property for war purposes. The language is formal and legalistic. There is no explicit expression of emotion. However, the context of war might evoke some level of fear and sadness, but it is not directly conveyed in the text. The scores are assigned based on this interpretation.",
+    "critique": "The document is a formal authorization for the Office of Scientific Research and Development to acquire property for war purposes. The language is legal and official, with no explicit emotional expression. Therefore, all emotions are conveyed at a minimal level.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

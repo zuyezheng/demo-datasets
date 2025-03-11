@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order regarding land allocation. It doesn't express any strong emotions. The tone is formal and administrative. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding land allocation. It primarily conveys a sense of resolution and administrative action. There's a slight hint of positive sentiment in making land available for townsite purposes, but overall, the tone is neutral and factual.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

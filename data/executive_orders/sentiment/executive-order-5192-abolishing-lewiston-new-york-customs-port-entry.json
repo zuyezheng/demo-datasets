@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement about abolishing Lewiston, New York, as a port of entry. It's a factual statement with no explicit emotional language. The President is conveying an administrative decision. Therefore, the expected emotional response from the public would likely be minimal across all emotions. The initial scores should reflect this neutrality.",
+    "critique": "The document is a formal order abolishing Lewiston, New York, as a port of entry. There is no explicit expression of emotions. However, the act of abolishing a port of entry might convey a sense of sadness or disappointment for the people of Lewiston, but this is not explicitly stated. Given the formal nature of the document, the emotional intensity is likely low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

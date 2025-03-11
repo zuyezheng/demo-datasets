@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order outlining the implementation of an act providing assistance to Greece and Turkey. The language is legal and administrative, with no emotional tone. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal presidential order outlining the implementation of an act providing assistance to Greece and Turkey. The language is legalistic and procedural, with no explicit emotional expression. However, there might be a subtle undercurrent of determination and resolve to carry out the act effectively. Considering the formal nature, the initial scores are set to low values, with a slight increase in joy and surprise due to the positive implications of the act.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding the Year 2000 conversion problems. It is a formal and official document. The president is not attempting to portray any particular emotion. The document is purely informational and directive. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It primarily aims to establish an Information Coordination Center to address potential Y2K conversion problems. The language is formal and bureaucratic, focusing on directives and coordination. There is a sense of urgency and preparedness, but emotions are largely absent. Therefore, most emotions should be scored low, with a slight emphasis on preparedness which might translate to a low level of fear or concern.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

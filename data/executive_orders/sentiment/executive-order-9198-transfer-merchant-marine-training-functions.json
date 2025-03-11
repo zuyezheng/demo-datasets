@@ -6,11 +6,11 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the transfer of functions and resources related to the Coast Guard to the War Shipping Administration during World War II. The language is legalistic and bureaucratic, with the primary goal of efficient administration during wartime. There is no explicit emotional appeal or sentiment expressed in the document. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the transfer of functions, records, property, and personnel related to the Coast Guard to the War Shipping Administration during World War II. The language is legalistic and bureaucratic, with no explicit emotional expression. Therefore, the initial scores for all emotions should be low. Considering the context of wartime, a slight sense of urgency and determination might be inferred, but this is not explicitly stated. The revised scores will reflect the formal and unemotional nature of the document, with a slight increase in fear due to the war context.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

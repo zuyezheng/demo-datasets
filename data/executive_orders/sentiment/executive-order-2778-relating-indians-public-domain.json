@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order extending restrictions on land alienation for Native Americans. It is unlikely to evoke strong emotions in the general public. The primary emotion might be a mild sense of sadness due to the restrictions placed on Native Americans, but overall, the document is quite neutral in tone.",
+    "critique": "The document is a formal order extending trust periods for land patents issued to Native Americans. It is a legal document with no explicit emotional expression. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order outlining the functions and duties of the Office of Production Management during a national emergency. The language is formal and legalistic, with a focus on organization, efficiency, and resource allocation for defense purposes. There is no explicit expression of emotions. However, the context of a national emergency and the need for increased defense production might implicitly convey a sense of urgency and concern. Given the lack of emotional language, the scores should be low across all emotions. I will revise the scores to reflect a slightly higher sense of concern (fear) due to the context of a national emergency.",
+    "critique": "The document is a formal executive order outlining the functions and duties of the Office of Production Management during a national emergency. It focuses on utilizing existing plant facilities for defense, converting civilian industries, alleviating unemployment, and distributing defense contracts. The language is formal and procedural, with no explicit emotional expression. However, implicit emotions can be inferred from the context. The order aims to address potential fear and anxiety related to the emergency and economic disruption, and it expresses a sense of determination and resolve to mobilize resources for defense. Given the formal nature, the intensity of emotions is relatively low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 3,
         "disgust": 1,
         "surprise": 1

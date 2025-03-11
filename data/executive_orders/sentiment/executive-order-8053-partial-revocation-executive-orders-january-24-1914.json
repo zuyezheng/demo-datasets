@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the revocation of certain Executive Orders related to Public Water Reserves in California and Oregon. The language is legal and administrative, devoid of emotional expression. Therefore, all emotions should be scored low, as the public is unlikely to feel any strong emotion based on this document. I will assign a score of 1 for each emotion.",
+    "critique": "The document is a formal revocation of Executive Orders related to Public Water Reserves. The language is legal and administrative, devoid of emotional expression. Therefore, all emotions should be scored low, with a baseline of 1 to indicate minimal presence due to the formal nature of the document.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

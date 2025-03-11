@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order regarding civil defense and defense mobilization planning. The language is legalistic and procedural, with no explicit emotional expression. However, the context of preparing for a national emergency, including potential attack, suggests an underlying sense of concern and perhaps a desire to project an image of preparedness and control.I will score the emotions based on this context. Initial scores: Joy: 1 (no joy conveyed), Sadness: 2 (slight concern), Anger: 1 (no anger conveyed), Fear: 3 (moderate concern about potential threats), Disgust: 1 (no disgust conveyed), Surprise: 1 (no surprise conveyed). Revised scores: Joy: 1, Sadness: 2, Anger: 1, Fear: 3, Disgust: 1, Surprise: 1.",
+    "critique": "The document is a formal executive order regarding civil defense and defense mobilization planning. It invokes legal authority and directs government departments and agencies to develop plans and programs for national emergencies. The language is formal and procedural. There is a sense of seriousness and preparedness, but no strong emotions are explicitly conveyed. Considering the formal nature, I will assign low scores to all emotions, with a slight emphasis on fear and surprise due to the mention of 'attack upon the United States' and 'national emergency'.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

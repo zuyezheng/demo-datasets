@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a legal order that revokes a previous executive order. It does not convey any particular emotion. The language is formal and factual. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal revocation of an executive order affecting specific lands. It's a legal and administrative document, so it's unlikely to convey strong emotions. The presence of 'revoked' might suggest a slight negative sentiment, but overall, the tone is neutral. Therefore, most emotions should be scored low, with a slight consideration for sadness due to the revocation.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal correction of a land description. It does not convey any particular emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal correction of a land description. It does not express strong emotions. The presence of surprise is due to the identification of errors and inaccuracies.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding reemployment rights of Federal civilian employees. It does not express any particular emotion. The language is legal and administrative, and the purpose is to amend a previous order. Therefore, all emotions should be scored low.",
+    "critique": "The document primarily concerns legal and administrative matters related to the reemployment rights of Federal civilian employees. It amends a previous executive order and clarifies the conditions under which reemployment rights expire or can be exercised. The language is formal and legalistic, with no strong emotional expression. Therefore, the scores for all emotions should be relatively low, with a slight emphasis on sadness due to the termination of some reemployment rights.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

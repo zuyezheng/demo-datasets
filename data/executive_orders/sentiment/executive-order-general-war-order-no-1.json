@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is a military order, so it is unlikely to convey much emotion. The primary emotion might be surprise as the order is unexpected. However, the order could also convey fear and sadness as it is related to war. The order does not convey joy or disgust. The initial scores are surprise: 3, fear: 2, sadness: 2, joy: 1, disgust: 1. The revised scores are surprise: 3, fear: 2, sadness: 2, joy: 1, disgust: 1.",
+    "critique": "The document is a military order, so it is unlikely to convey strong emotions. The primary emotion conveyed is a sense of determination and seriousness. There might be a hint of anger towards the insurgents, but it's not explicitly stated. There is no information about joy, sadness, fear, or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 1,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

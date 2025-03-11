@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order. It aims to convey a sense of decisiveness and action regarding energy production and transmission. There's a subtle undercurrent of concern for the well-being of the American people, but it's primarily a policy statement. Therefore, the primary emotion conveyed would be Joy and Surprise. The remaining emotions are not applicable.",
+    "critique": "The document is a formal executive order. It expresses a sense of determination and purpose in increasing energy production and transmission. There is a mild sense of optimism and resolve, but no strong emotions are explicitly conveyed. Therefore, most emotions should be scored low, with a slightly higher score for joy due to the positive outlook on energy availability and a slightly higher score for surprise due to the unexpected nature of the order.",
     "revised_scores": {
-        "joy": 5,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 2
     }
 }

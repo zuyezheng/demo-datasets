@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal declaration approving the official seal of the United States Coast Guard. The language is formal and bureaucratic, with no indication of strong emotion. The president is simply performing a formal duty. Therefore, I would expect the American public to feel very little emotion reading this document. The initial scores should be very low across all emotions.",
+    "critique": "The document is a formal presidential order approving the official seal of the United States Coast Guard. The language is formal and official. There is no strong emotion conveyed, but a sense of pride and tradition might be present. Therefore, I will assign low scores to joy and surprise, and very low scores to the other emotions.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

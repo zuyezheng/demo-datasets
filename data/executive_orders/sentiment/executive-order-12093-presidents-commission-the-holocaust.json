@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 5,
+        "sadness": 7,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a commission to create a memorial to the victims of the Holocaust. The primary emotion conveyed is sadness and remembrance, with a secondary element of respect and solemnity. There is no indication of joy, anger, fear, disgust, or surprise. The intensity of sadness is moderate, as it is a formal declaration rather than a personal expression of grief.",
+    "critique": "The document is a formal presidential order establishing a commission to create a memorial for the victims of the Holocaust. The primary emotion conveyed is sadness, reflecting the solemn nature of the event being commemorated. There is also a sense of respect and determination to remember the victims. There is no explicit joy, anger, fear, disgust, or surprise present in the document. The initial scores reflect this assessment, with sadness being the highest and the other emotions being minimal. The revised scores maintain the emphasis on sadness but slightly increase the other emotions to acknowledge the underlying emotional weight of the subject matter.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 8,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     }
 }

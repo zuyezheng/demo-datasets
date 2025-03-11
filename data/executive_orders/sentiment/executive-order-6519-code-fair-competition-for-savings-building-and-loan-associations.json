@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal announcement of the approval of a Code of Fair Competition for Savings, Building and Loan Associations. The language is legal and administrative, with no explicit emotional expression. However, the context of the Great Depression suggests a subtle undercurrent of hope and relief, as the National Industrial Recovery Act was intended to stimulate economic recovery. Therefore, I will assign low scores to joy and surprise, and very low scores to the other emotions.",
+    "critique": "The document is a formal approval of a code of fair competition. It expresses no strong emotions. The tone is neutral and administrative. Therefore, all emotions should be scored low.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

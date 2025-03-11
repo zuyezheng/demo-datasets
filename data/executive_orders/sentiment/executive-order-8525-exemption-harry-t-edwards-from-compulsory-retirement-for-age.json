@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the extension of an exemption from compulsory retirement for a government employee. The language is formal and legalistic, and the content is administrative. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the exemption of an individual from compulsory retirement. The language is formal and legalistic. There is no explicit expression of emotions. However, one could argue there is a slight sense of joy that Harry T. Edwards is allowed to continue working. There is no indication of sadness, anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

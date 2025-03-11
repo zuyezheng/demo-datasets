@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 2,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order. It is a formal and legal document. The president is trying to convey a sense of leadership and decisiveness. The document itself does not convey any particular emotion. However, the order is intended to help people and communities, so there is a slight sense of joy. The order is also intended to address social and community needs, so there is a slight sense of sadness that these needs exist. The order is not intended to convey anger, fear, disgust, or surprise. The scores are based on the assumption that the American public will feel a slight sense of joy and sadness, but not any other emotion.",
+    "critique": "The document is a formal executive order. It aims to establish centers for faith-based and community initiatives. The language is formal and legalistic. There is no strong emotion conveyed. A baseline of 1 is appropriate for emotions that are not explicitly present. There might be a slight sense of joy or hope associated with expanding opportunities, but it's very subtle. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
         "joy": 2,
-        "sadness": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

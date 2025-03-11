@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. The primary emotion conveyed is a sense of determination and purpose in reforming the federal bureaucracy. There's a hint of concern about waste and inefficiency, but it's framed as a problem to be solved. There isn't a strong sense of joy, sadness, anger, fear, disgust, or surprise. The language is formal and bureaucratic, which tends to dampen emotional expression. The order aims to convey a sense of decisive action and commitment to efficiency.",
+    "critique": "The document is a formal executive order. The primary emotion conveyed is a sense of determination to reform the federal bureaucracy. There is a hint of dissatisfaction with the current state, but it's presented in a professional manner. There's no strong indication of joy, sadness, fear, disgust, or surprise. The language is formal and aims to be objective.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
-        "disgust": 1,
+        "disgust": 2,
         "surprise": 1
     }
 }

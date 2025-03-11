@@ -6,12 +6,12 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the establishment of a wildlife refuge. It uses legal and administrative language. The primary emotions conveyed would likely be related to the importance of conservation. However, given the dry and formal nature of the document, the emotional impact on the public is likely to be minimal. Therefore, I will assign low scores across all emotions initially. Then, I will revise the scores to reflect a slightly higher sense of joy and surprise due to the positive nature of wildlife conservation, while keeping the other emotions at a minimum.",
+    "critique": "The document is a formal executive order regarding the establishment of a wildlife refuge. It primarily uses legal and administrative language. There is no explicit emotional expression. Therefore, the emotion scores should be very low, with a baseline of 1 for each emotion to indicate a minimal presence due to the formal nature of the document.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the transfer of the Shipbuilding Stabilization Committee to the Department of Labor. The language is legal and administrative, with no explicit emotional expression. The likely emotions conveyed would be neutral. Therefore, I would rate each emotion as a 1.",
+    "critique": "The document is a formal executive order regarding the transfer of the Shipbuilding Stabilization Committee to the Department of Labor. The language is legal and administrative, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Considering the formal nature, a baseline of 1 is appropriate for emotions that are not explicitly present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

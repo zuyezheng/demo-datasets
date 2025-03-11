@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 7,
+        "sadness": 5,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is a military order regarding funeral arrangements, specifically the President's instructions for honoring the deceased. The language is formal and procedural, focusing on directives for military posts. Given the context of a funeral, sadness is the most prominent emotion. There might be a touch of surprise depending on the circumstances of the death, but it's not explicitly conveyed in the text. There is no explicit indication of joy, anger, fear, or disgust. The initial scores reflect this assessment, with sadness being the highest and the other emotions being low.",
+    "critique": "The document is a formal military order regarding funeral arrangements. It expresses sadness due to the death of a prominent figure, but it is primarily informational and procedural. Therefore, sadness should be moderate, and other emotions should be low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 7,
+        "sadness": 5,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

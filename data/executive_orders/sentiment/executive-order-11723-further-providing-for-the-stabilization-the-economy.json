@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
+        "sadness": 3,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding economic stabilization. It expresses a need to control prices and reduce inflation. The tone is formal and authoritative. The primary emotion conveyed would be concern, which can be interpreted as a mild form of fear about the economy. There might be a hint of disgust at the unsatisfactory price behavior. There's no strong indication of joy or surprise. Sadness might be present due to the economic issues, but it's not the dominant emotion.",
+    "critique": "The document is a formal executive order regarding economic stabilization. It expresses a sense of determination to address economic issues like inflation and unemployment. There's a hint of concern about the unsatisfactory price behavior. However, the overall tone is formal and focused on outlining the regulations and procedures. Therefore, emotions like joy, surprise, fear, and disgust are minimal. Sadness might be present due to the economic situation, but it's not explicitly emphasized. The primary emotion conveyed is a sense of determined action and control.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 3,
+        "sadness": 3,
+        "fear": 2,
+        "disgust": 1,
         "surprise": 1
     }
 }

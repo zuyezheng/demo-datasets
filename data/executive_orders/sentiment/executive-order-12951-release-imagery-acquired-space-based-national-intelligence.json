@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the declassification and release of historical intelligence imagery. It is primarily informational and procedural, lacking strong emotional content. The language is legalistic and objective. Therefore, the expected emotional response from the public would be minimal across all emotions.",
+    "critique": "The document is a formal executive order regarding the declassification and release of historical intelligence imagery. It aims to make information available to the public while considering national security interests. The language is formal and legalistic, with no explicit emotional expression. Therefore, the emotion scores should be low across the board, with a slight emphasis on joy due to the public release of information.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

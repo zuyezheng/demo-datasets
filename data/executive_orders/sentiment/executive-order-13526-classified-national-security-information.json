@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the classification, safeguarding, and declassification of national security information. The language is legalistic and procedural. The primary emotion conveyed is a sense of seriousness and responsibility. There's a hint of concern about protecting national security, but it's not overwhelming. There is no indication of joy, surprise, or disgust. Fear and sadness are also not prominent but are slightly present due to the nature of the topic.",
+    "critique": "The document is a formal executive order regarding the classification, safeguarding, and declassification of national security information. It aims to balance the need for government transparency with the protection of sensitive information. The language is formal and legalistic, with a focus on procedures, authorities, and responsibilities. There is a sense of seriousness and importance, but emotions are largely absent due to the document's objective and regulatory nature. Therefore, all emotions should be scored low.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

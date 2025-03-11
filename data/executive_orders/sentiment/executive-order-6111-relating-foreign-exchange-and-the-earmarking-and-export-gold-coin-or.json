@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 3,
+        "joy": 2,
+        "sadness": 4,
         "fear": 5,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 3
     },
-    "critique": "The document is an executive order issued by President Franklin D. Roosevelt in 1933 regarding the regulation of gold and foreign exchange during a national emergency. The language is formal and legalistic. The president is conveying a sense of authority and determination to address the economic crisis. There is a hint of fear and concern about the ongoing emergency, but the overall tone is one of decisive action.The initial scores reflect these observations. The revised scores are adjusted to better reflect the subtle nuances of the document's emotional tone.",
+    "critique": "The document is a formal executive order addressing a national emergency related to banking and gold. It conveys a sense of seriousness and determination to address the crisis. It does not explicitly express joy, but it aims to restore stability and confidence, which could indirectly lead to joy. There is a sense of sadness due to the existing national emergency. There is no explicit anger, but there is a sense of urgency and resolve to address the situation. There is a sense of fear due to the ongoing emergency. There is no explicit disgust. There is a sense of surprise due to the unexpected nature of the emergency.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 2,
-        "fear": 4,
+        "joy": 2,
+        "sadness": 4,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 3
     }
 }

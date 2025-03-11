@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document primarily conveys a sense of official action and conservation. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The language is formal and declarative, focusing on establishing a wildlife refuge. Therefore, the initial scores for all emotions should be relatively low.Let's start with initial scores of 1 across the board, indicating a minimal emotional presence. Upon review, the document's purpose is conservation, which might evoke a slight sense of joy or relief in some readers. However, this is not explicitly stated, so I will keep the joy score at 2 and the rest at 1.",
+    "critique": "The document is a formal declaration establishing a wildlife refuge. The language is legal and administrative, with no explicit emotional expression. However, there is a subtle sense of joy and surprise in protecting migratory birds and other wildlife. The mention of unlawful activities introduces a hint of disgust. The rest of the emotions are not present.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 4,
         "sadness": 1,
         "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "disgust": 2,
+        "surprise": 3
     }
 }

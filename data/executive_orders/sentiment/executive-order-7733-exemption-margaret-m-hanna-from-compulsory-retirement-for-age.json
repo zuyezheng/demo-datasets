@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order. It does not express any particular emotion. The president is simply enacting a provision to extend the service of a foreign service officer. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the exemption of Margaret M. Hanna from mandatory retirement. The language is legal and procedural. There is no strong indication of any particular emotion. A baseline of 1 is appropriate for most emotions, with a slight increase in surprise due to the nature of an exemption.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

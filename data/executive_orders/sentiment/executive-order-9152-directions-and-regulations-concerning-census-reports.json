@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration regarding the authority of the Secretary of Commerce during wartime. It lacks emotional language and aims to convey a sense of order and authority rather than any specific emotion. Therefore, all emotions should be scored low initially. After further consideration, the document does not evoke any strong emotions. The initial assessment is accurate.",
+    "critique": "The document is a formal directive from the President regarding census and statistical matters during wartime. It invokes the Second War Powers Act and directs the Secretary of Commerce to conduct special investigations and potentially curtail regular census work. The language is formal and legalistic. There is no explicit emotional expression. However, the context of wartime implies a sense of urgency and seriousness. Therefore, I will assign low scores to emotions like fear, sadness, and surprise, and a slightly higher score to disgust, reflecting the unpleasantness of war. Joy is not present. The initial scores will be adjusted to reflect the formal tone and context.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 3,
         "surprise": 1
     }
 }

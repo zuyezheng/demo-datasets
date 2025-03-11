@@ -4,11 +4,11 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal announcement of the approval of a Bankers Code of Fair Competition by President Franklin D. Roosevelt. The language is legal and procedural, with no explicit emotional expression. However, the act of approving a code of fair competition could be interpreted as conveying a sense of optimism and hope for economic recovery during the Great Depression. Therefore, I will assign low scores to joy and surprise, and very low scores to the other emotions. After further consideration, the document is purely a formal announcement, and any emotional interpretation would be speculative. Therefore, all scores should be set to 1.",
+    "critique": "The document is a formal approval of a Bankers Code of Fair Competition. The language is legal and administrative. There is no strong emotion conveyed. A baseline of 1 is appropriate for most emotions. There might be a slight sense of joy or optimism due to the approval, but it's very mild.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

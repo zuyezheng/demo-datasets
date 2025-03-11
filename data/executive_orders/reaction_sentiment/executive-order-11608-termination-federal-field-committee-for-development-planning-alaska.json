@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
+    },
+    "critique": "The document is a formal announcement about revoking two executive orders and abolishing a committee. The tone is neutral and factual, without any explicit emotional appeals. As the President, the primary goal is efficient governance, not eliciting specific emotions. However, implicit emotions could be a sense of order (low sadness if the committee was ineffective), and perhaps a tiny bit of surprise that such a committee existed. There is no explicit joy, anger, fear, or disgust conveyed or intended. The initial scores reflect this assessment.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

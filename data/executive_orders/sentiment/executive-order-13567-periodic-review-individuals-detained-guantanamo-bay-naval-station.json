@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the detention of individuals at Guantanamo Bay. It outlines review processes and standards for continued detention. The language is legal and procedural, with no overt expression of emotion. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the detention of individuals at Guantanamo Bay. It focuses on establishing a process for periodic review of their detention, ensuring it aligns with national security and justice interests. The language is legal and procedural, aiming for clarity and precision. There's a sense of responsibility and commitment to due process, but emotions are deliberately suppressed to maintain objectivity.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
+        "sadness": 2,
+        "fear": 3,
         "disgust": 1,
         "surprise": 1
     }

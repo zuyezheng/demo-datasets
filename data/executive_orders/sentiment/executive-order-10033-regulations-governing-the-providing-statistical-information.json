@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the provision of statistical information to international organizations. It is unlikely to evoke strong emotions in the general public. The language is formal and bureaucratic, focusing on procedures and responsibilities. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order. It lays out procedures for providing statistical information to international organizations. The language is very formal and legalistic. There is no strong emotion conveyed. A baseline of 1 is appropriate for all emotions, with slight increases if the text suggests otherwise. There's a very slight sense of satisfaction or perhaps even joy in establishing a systematic procedure, but it's very muted. There's no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

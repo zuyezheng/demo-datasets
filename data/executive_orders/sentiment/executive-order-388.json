@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal declaration by President Lincoln regarding the establishment of a point for railroad construction. The language is legalistic and factual, with no overt emotional expression. Therefore, all emotions should be scored low. Since the text provides very little to infer any emotion, a score of 1 is appropriate for all emotions.",
+    "critique": "The document is a formal declaration by President Lincoln regarding the construction of a railroad and telegraph line. It lacks strong emotional content. The primary emotion conveyed, if any, is a mild sense of determination or resolve in executing the provisions of the act. Therefore, most emotions should be scored low, with a slightly higher score for joy due to the progress and connection the railroad represents.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

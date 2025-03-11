@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It designates certain international organizations as public international organizations entitled to enjoy certain privileges, exemptions, and immunities. The language is formal and legalistic. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal designation of international organizations, so it is unlikely to convey strong emotions. The presence of the World Health Organization might suggest a hint of joy or hope, but it's very subtle. The overall tone is neutral and factual.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

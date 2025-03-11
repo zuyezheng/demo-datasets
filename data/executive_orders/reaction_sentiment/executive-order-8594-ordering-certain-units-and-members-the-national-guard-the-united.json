@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order calling members of the National Guard to active duty. As the author, the President, the primary emotion is a sense of duty and resolve. The document is formal and legalistic, so there is not a lot of emotional language. The document is intended to convey a sense of preparedness and strength, but also potentially some fear in the face of a growing threat. There is little joy or surprise. There may be some sadness at the prospect of war, and some disgust at the actions of aggressors that necessitate this order.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 4,
+        "surprise": 1
+    }
+}

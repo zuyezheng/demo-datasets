@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 3,
+        "fear": 7,
+        "disgust": 6,
+        "surprise": 2
     },
-    "critique": "The document is a formal declaration of defensive sea areas and regulations. It is primarily informational and legal in nature. There is no explicit expression of emotions. However, the context of national defense during wartime might implicitly evoke a sense of fear or concern, but this is not directly conveyed in the text. The regulations themselves aim to ensure safety and control, which could be interpreted as a response to a perceived threat. I will score the emotions based on the text itself, not the historical context. Therefore, I will assign low scores to all emotions, with a slightly higher score for fear due to the defensive nature of the document.",
+    "critique": "The document is a formal declaration of defensive sea areas and regulations for those areas. It is a legal document outlining restrictions and potential consequences for non-compliance. Therefore, the primary emotions conveyed are related to caution, warning, and authority. There is a sense of seriousness and potential danger associated with violating the regulations. Scores should reflect the formal and serious nature of the document, with emphasis on fear and disgust (related to the consequences of non-compliance) and minimal expression of joy or surprise.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 2,
-        "disgust": 1,
+        "sadness": 2,
+        "fear": 8,
+        "disgust": 7,
         "surprise": 1
     }
 }

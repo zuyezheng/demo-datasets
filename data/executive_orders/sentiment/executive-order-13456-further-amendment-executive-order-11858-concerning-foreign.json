@@ -1,16 +1,16 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding foreign investment in the United States. It is a formal and legal document. The language is neutral and objective. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding foreign investment in the United States. It primarily focuses on establishing and defining the roles and responsibilities of the Committee on Foreign Investment in the United States (CFIUS). The language is legal and procedural, with no explicit emotional expression. Therefore, most emotions should be scored low. There might be a slight sense of joy related to promoting economic growth, but it's very subtle. There is a slight indication of fear relating to national security, but it is not explicitly stated.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
-        "fear": 1,
+        "fear": 2,
         "disgust": 1,
         "surprise": 1
     }

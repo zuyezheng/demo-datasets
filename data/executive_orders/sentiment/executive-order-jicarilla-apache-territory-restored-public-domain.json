@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation. It does not contain language that conveys any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order regarding land allocation. It revokes a previous order that set aside land for the Jicarilla Apache Indians, returning it to the public domain. The language is formal and direct, with no explicit emotional expression. However, the action itself could be interpreted as causing sadness for the affected group and potentially joy for those who might benefit from the land being returned to the public domain. Given the lack of explicit emotional cues, I will assign low scores across the board, with a slightly elevated score for sadness due to the potential negative impact on the Jicarilla Apache Indians.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

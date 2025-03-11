@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding North Korea. It is a formal and legal document. The primary emotion conveyed would likely be concern or perhaps a sense of resolve. There isn't strong language evoking joy, sadness, fear, disgust, or surprise, but there might be a low level of concern/fear due to the nature of the order addressing a national emergency. The order aims to prevent certain actions related to North Korea, suggesting a potential threat or problem that needs addressing. The initial scores reflect this, with slightly elevated fear and concern, and low scores for other emotions. The revised scores are similar, but with a slight adjustment to reflect the formal tone.",
+    "critique": "The document is a formal executive order regarding North Korea. It primarily conveys a sense of seriousness and determination to address a national emergency. There is a hint of concern (fear) regarding the situation with North Korea, but overall, the document is quite neutral in tone. Therefore, joy, sadness, disgust, and surprise should be minimal. The scores are on a scale of 1-10.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
+        "sadness": 2,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     }

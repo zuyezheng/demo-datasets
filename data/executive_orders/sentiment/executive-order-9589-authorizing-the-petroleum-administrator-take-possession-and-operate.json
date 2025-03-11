@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a presidential order regarding the operation of a butadiene plant during wartime. The primary emotion conveyed is a sense of urgency and determination to ensure the continued production of synthetic rubber for the war effort. There's an element of concern about potential disruptions, but the overall tone is one of decisive action. Therefore, fear and surprise are low. Disgust is not applicable. Joy is not applicable. Sadness is not applicable. The president is trying to convey a sense of control and resolve in the face of a potential crisis.",
+    "critique": "The document expresses concern about a potential disruption to butadiene production due to a labor dispute, which could hinder the war effort. The primary emotion conveyed is a sense of urgency and determination to prevent any interruption. There's a hint of fear regarding the potential consequences of the disruption, but it's not overwhelming. There is no explicit joy, sadness, disgust or surprise expressed in the document. The document is formal and legalistic in tone.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 4,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

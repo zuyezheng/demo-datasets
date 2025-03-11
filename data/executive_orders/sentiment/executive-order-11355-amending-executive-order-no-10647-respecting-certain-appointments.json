@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order, amending a previous order. It uses legal and official language. There is no indication of any particular emotion being conveyed. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order, so the emotions conveyed are minimal. The document primarily consists of amendments and revocations of previous orders. There is no strong indication of joy, sadness, fear, disgust, or surprise. Therefore, a baseline score of 1 is appropriate for each emotion.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

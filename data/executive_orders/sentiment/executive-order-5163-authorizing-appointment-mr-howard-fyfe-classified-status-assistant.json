@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 6,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement of a promotion. It expresses no strong emotions. The tone is neutral and appreciative. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal announcement of a promotion. It expresses approval and appreciation for Mr. Fyfe's service. There is no indication of negative emotions such as sadness, fear, disgust. Surprise is also not relevant in this context. Joy is present due to the positive nature of the announcement, but it is not overwhelming. Therefore, the initial scores are: joy: 6, sadness: 1, fear: 1, disgust: 1, surprise: 1.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 6,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

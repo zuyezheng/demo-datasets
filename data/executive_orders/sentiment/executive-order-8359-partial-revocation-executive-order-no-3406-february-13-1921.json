@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal revocation of an executive order regarding land in Alaska. It's a legal and administrative action, devoid of emotional language. Therefore, all emotions should be scored low, as the public is unlikely to feel any strong emotion based on this document. I will start with initial scores of 1 across all emotions, indicating a very low level of emotional conveyance. Upon review, this seems appropriate as there's no indication of any specific emotion being conveyed.",
+    "critique": "The document is a formal revocation of an executive order regarding land in Alaska. It's a legal and administrative document, so it doesn't express strong emotions. The primary emotion might be a slight sense of decisiveness or resolution, but it's very subtle. Therefore, most emotions should be scored low, with a slight emphasis on decisiveness which can be interpreted as low level joy and surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

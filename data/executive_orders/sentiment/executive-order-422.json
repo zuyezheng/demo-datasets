@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 5,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 2
     },
-    "critique": "The document discusses the US government's decision to suspend the clearance of a Japanese vessel of war due to the state of affairs in Japan and its relationship with the United States. The language is formal and neutral, without explicitly expressing any particular emotion. However, the decision to suspend clearance suggests a degree of caution and concern regarding the situation in Japan. Initial scores: Disgust: 1, Fear: 3, Joy: 1, Sadness: 2, Surprise: 4. Revised scores: Disgust: 1, Fear: 3, Joy: 1, Sadness: 2, Surprise: 4",
+    "critique": "The document is a formal order regarding the clearance of a vessel of war. It expresses a cautious and somewhat apprehensive tone due to the 'state of affairs' in Japan and its relationship with the United States. There's no explicit expression of joy, sadness, or disgust. Fear is present due to the uncertainty of the situation. Surprise is minimal as the order seems to be a planned response. The initial scores reflect this assessment, with fear being the most prominent emotion. The revised scores slightly adjust the intensity of fear and surprise based on further consideration of the document's implications.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 3,
+        "sadness": 1,
+        "fear": 6,
         "disgust": 1,
-        "surprise": 4
+        "surprise": 3
     }
 }

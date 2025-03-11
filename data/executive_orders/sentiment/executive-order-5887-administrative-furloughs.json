@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 4,
-        "fear": 3,
+        "sadness": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document discusses employee furloughs during the fiscal year 1933. The president seems to be conveying a sense of responsibility and necessity due to the economic situation. There's no strong indication of joy, fear, or surprise. Sadness might be present due to the unfortunate circumstances of the furloughs, and disgust is unlikely. The language is formal and bureaucratic, aiming for a neutral tone. Initial scores: Joy: 1, Sadness: 4, Anger: 2, Fear: 3, Disgust: 1, Surprise: 2. Revised scores: Joy: 1, Sadness: 5, Anger: 2, Fear: 3, Disgust: 1, Surprise: 2.",
+    "critique": "The document is a formal announcement of regulations regarding employee furloughs due to budget constraints. It aims to be informative and directive, not to evoke strong emotions. Therefore, the initial scores should be low across the board, with a slight emphasis on sadness due to the unfortunate necessity of furloughs.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 5,
-        "fear": 3,
+        "sadness": 3,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

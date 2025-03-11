@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding disaster relief. It is a formal and legal document. The primary emotions conveyed would likely be low, as the document focuses on delegation of authority and legal references rather than emotional appeals. There may be a slight sense of reassurance or preparedness, but this would be minimal. Therefore, initial scores should be low across all emotions. After further consideration, the document is purely administrative and aims to establish a clear chain of command and operational procedures during disasters. It evokes no strong emotions. The revised scores should reflect this neutrality.",
+    "critique": "The document is a formal executive order regarding disaster relief. It primarily focuses on delegating authority and ensuring preparedness. There is no strong emotional language used. Therefore, most emotions should be scored low. There might be a slight sense of reassurance or hope conveyed through the preparedness measures, but it's minimal.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

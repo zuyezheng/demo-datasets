@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal presidential order regarding the Manual for Courts-Martial. It is primarily informational and legal in nature. There is no strong indication of any particular emotion being conveyed. Therefore, all emotions should be scored low. Revised scores reflect a more neutral assessment.",
+    "critique": "The document is a formal presidential order prescribing a manual for courts-martial. It is primarily legal and administrative in nature. Therefore, the emotions conveyed are minimal. I will assign low scores across all emotions, with a slight emphasis on sadness due to the serious nature of the content.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

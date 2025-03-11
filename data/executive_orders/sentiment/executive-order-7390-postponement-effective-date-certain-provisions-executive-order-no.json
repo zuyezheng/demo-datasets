@@ -4,9 +4,9 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding government operations. It primarily conveys a sense of bureaucratic process and legal compliance rather than strong emotions. Therefore, the initial scores should be low across all emotions, with a slight emphasis on surprise due to the delay mentioned.",
+    "critique": "The document is a formal executive order regarding transfers, consolidations, and eliminations. It primarily conveys a neutral tone, focusing on administrative actions and dates. There is no strong indication of joy, sadness, fear, disgust, or surprise. The language is formal and procedural, lacking emotional expression. Therefore, most emotions should be scored low, with a baseline of 1 to indicate minimal presence.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

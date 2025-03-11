@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It primarily conveys information about an amendment to an existing executive order. There is no explicit or implicit emotional content. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal executive order. It primarily serves an administrative function, amending a previous executive order to reflect the transfer of the Maritime Administration. The language is formal and legalistic, with no strong emotional tone. Therefore, the initial scores should be low across all emotions. Considering the formal nature of the document, a baseline of 1 is appropriate for emotions that are not explicitly conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

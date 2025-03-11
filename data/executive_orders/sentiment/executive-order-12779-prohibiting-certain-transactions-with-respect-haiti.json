@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
-        "disgust": 1,
+        "sadness": 4,
+        "fear": 4,
+        "disgust": 5,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a national emergency in Haiti. The primary emotion conveyed is concern and a sense of urgency regarding the situation in Haiti and its potential threat to the United States. There is a strong sense of resolve to take action and protect national interests. The order aims to convey a serious and determined stance, but it does not explicitly express emotions like joy, sadness, anger, fear, disgust, or surprise. The language is formal and legalistic, focusing on the specific actions being taken rather than emotional appeals. The order is intended to reassure the public that the government is taking necessary steps to address the situation. Therefore, the initial scores would be low across all emotions, with a slightly higher score for fear due to the mention of a 'threat to national security'.",
+    "critique": "The document expresses concern and determination regarding the situation in Haiti. It aims to address the threat to national security and support the Haitian people while taking action against the de facto regime. The emotions conveyed are primarily concern and resolve, with a hint of disgust towards the illegitimate regime. There is minimal joy or surprise. Fear is present due to the threat to national security, and sadness is present due to the disruption of the democratically elected government.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 3,
-        "disgust": 1,
+        "sadness": 5,
+        "fear": 5,
+        "disgust": 6,
         "surprise": 1
     }
 }

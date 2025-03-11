@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding land allocation for Native American tribes. It does not contain language that explicitly conveys any particular emotion. The order seems neutral in tone, simply stating the facts of the land allocation. Therefore, all emotions should be scored low, with a default score of 1 due to the lack of emotional content.",
+    "critique": "The document is a formal executive order regarding land allocation for Native American tribes. It's a legal and administrative document, so strong emotions are unlikely. There might be a hint of sadness related to the displacement of Native American tribes, but it's very subtle. Surprise, disgust, fear, and joy are not evident. The initial scores reflect this assessment.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

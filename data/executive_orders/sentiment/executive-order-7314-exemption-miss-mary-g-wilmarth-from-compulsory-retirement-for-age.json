@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 2,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the extension of service for Miss Mary G. Wilmarth. It doesn't express strong emotions. The primary emotion conveyed might be a mild sense of duty or perhaps a hint of satisfaction in serving the public interest, but these are very subtle. Therefore, most emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding the exemption of Miss Mary G. Wilmarth from mandatory retirement. The language is formal and legalistic. There is no explicit expression of emotions. However, the act of extending someone's service could be interpreted as a positive action, suggesting a slight degree of joy or appreciation. Conversely, the need for an exemption might imply a degree of concern or sadness about losing a valuable employee, but this is very subtle. Surprise, fear, and disgust are not relevant in this context. Therefore, the initial scores will be very low, reflecting the lack of overt emotional expression.",
     "revised_scores": {
         "joy": 2,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

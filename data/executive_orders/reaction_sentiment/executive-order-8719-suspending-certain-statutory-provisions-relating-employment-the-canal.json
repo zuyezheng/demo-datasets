@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal declaration regarding compliance with certain sections of public acts during a national emergency. The tone is official and procedural. The primary goal is to ensure smooth operation during the emergency, not to elicit strong emotions. Therefore, the expected emotional response is minimal. Most emotions should be scored low, with perhaps a slight sense of reassurance or relief that the government is taking necessary actions.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

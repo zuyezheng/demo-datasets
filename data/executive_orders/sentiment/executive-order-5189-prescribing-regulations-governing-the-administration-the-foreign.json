@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order outlining regulations for the Foreign Service. It is primarily concerned with establishing procedures for appointments, promotions, and evaluations within the service. There is no emotional language or appeal to emotions. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order outlining regulations for the Foreign Service. It focuses on structure, procedures, and qualifications. There is no strong emotional language used. Therefore, most emotions should be scored low. There might be a slight sense of joy or optimism associated with establishing a school and promoting efficiency, but it's very subtle.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

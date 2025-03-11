@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order, which is a legal document. It is unlikely to convey any strong emotions. The language is formal and technical. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order, so it is unlikely to convey strong emotions. The primary purpose is to transfer authority and responsibilities related to emergency preparedness and disaster relief. Therefore, the scores for all emotions should be relatively low, with a baseline of 1 to indicate the presence of the emotion, even if minimal.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

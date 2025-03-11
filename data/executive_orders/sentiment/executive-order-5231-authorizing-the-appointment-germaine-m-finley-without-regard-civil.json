@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 7,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document describes the appointment of Mrs. Germaine M. Finley to a position in the classified service. The context is that she is the widow of a former Consular Service member who died, leaving her with two young children and without means of support. The language is formal and sympathetic.The president is conveying sadness and perhaps a touch of surprise at the circumstances, but overall, the document seems intended to evoke a sense of compassion and support for Mrs. Finley. Therefore, sadness should be the highest score, followed by a lower score for surprise. There's no indication of joy, anger, fear, or disgust.",
+    "critique": "The document is a recommendation for the appointment of Mrs. Germaine M. Finley. The primary emotion conveyed is sadness due to the mention of her husband's death and her resulting lack of support. There might be a hint of joy that she is being considered for a position. There is no indication of anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 7,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

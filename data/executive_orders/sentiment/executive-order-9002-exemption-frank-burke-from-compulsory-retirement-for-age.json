@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the exemption of Frank Burke from compulsory retirement. It does not express any particular emotion. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal order exempting an agent from compulsory retirement. It expresses no strong emotions. A baseline of 1 is appropriate for emotions not explicitly present.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

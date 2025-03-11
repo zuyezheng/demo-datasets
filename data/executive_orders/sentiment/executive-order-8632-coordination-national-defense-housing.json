@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding defense housing during a national emergency. It primarily focuses on establishing a Division of Defense Housing Coordination and outlining its responsibilities. The language is legalistic and bureaucratic, aiming to establish clear lines of authority and ensure efficient coordination. There is no explicit expression of emotions. However, the context of a national emergency might implicitly evoke a sense of concern or urgency. The order aims to address potential housing shortages and ensure proper coordination, which could be interpreted as a response to a potential crisis. Given the nature of the document, the expected emotional response from the public would likely be minimal, with perhaps a slight sense of reassurance that the government is taking action. Therefore, all emotions are scored low, with a slightly higher score for fear due to the context of a national emergency.",
+    "critique": "The document is a formal executive order outlining the functions and duties of the Office for Emergency Management with respect to national defense housing. The primary emotion conveyed is a sense of urgency and determination to address the housing needs related to national defense. There is a sense of purpose and resolve, but not necessarily joy. There is no explicit sadness, fear, disgust, or surprise conveyed in the document. The language is formal and bureaucratic, focusing on establishing structures and responsibilities.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 4,
         "sadness": 1,
-        "fear": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

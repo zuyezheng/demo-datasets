@@ -4,14 +4,14 @@
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order establishing a committee. It doesn't express any strong emotions. The primary emotions conveyed, if any, are likely to be very mild. The language is formal and objective, suggesting a neutral tone. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing the National Advisory Committee on Mobilization Policy. The language is formal and legalistic. There is no strong emotional content. A baseline of 1 is appropriate for most emotions, with a slight increase in surprise due to the nature of establishing a new committee.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

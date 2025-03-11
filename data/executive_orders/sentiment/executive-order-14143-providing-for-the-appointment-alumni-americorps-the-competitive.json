@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 5,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order. It aims to convey a sense of policy and governance. There's a slight hint of joy in recognizing the value of AmeriCorps alumni, but overall, the tone is neutral and official. Therefore, I will assign low scores to all emotions except joy, which will get a slightly higher score.",
+    "critique": "The document is a formal executive order. It expresses a positive sentiment towards AmeriCorps alumni and their potential contribution to the Federal Government. There is a sense of joy in recognizing the value of public service and a desire to improve the workforce. However, the overall tone is formal and professional, limiting the intensity of emotions. There is no indication of anger, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 5,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement establishing an emergency board to investigate a dispute. It uses formal and neutral language. There is no indication of emotions like joy, sadness, anger, fear, disgust, or surprise. Therefore, the initial scores for all emotions should be low. I will set all initial scores to 1, indicating a minimal presence of each emotion. After further consideration, the formal and legalistic tone of the document reinforces the absence of any strong emotional conveyance. The revised scores will remain at 1 for all emotions.",
+    "critique": "The document is a formal declaration establishing an emergency board to investigate a dispute. It uses neutral and legalistic language. There is no strong indication of joy, sadness, fear, disgust, or surprise. The primary purpose is to establish the board and outline its responsibilities. Therefore, the initial scores should be low across all emotions.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

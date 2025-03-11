@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 3,
+        "surprise": 3
     },
-    "critique": "The document is a formal executive order regarding the transfer of air-navigation facilities. It does not express any strong emotions. The primary concern is the efficient transfer and maintenance of these facilities. Therefore, all emotions should be scored low.",
+    "critique": "The document expresses concern over the potential loss of public money and the need to maintain air-navigation facilities. It also conveys a sense of urgency and importance in promoting civil aeronautics. It does not express joy, but it does express concern and a sense of duty. There is no anger. There is a sense of surprise that the facilities are being abandoned. There is a sense of disgust that the facilities are being abandoned.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
-        "surprise": 1
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 3,
+        "surprise": 3
     }
 }

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a legal order about land withdrawal. As the President, the primary goal isn't to elicit strong emotions but to execute policy efficiently. The tone is formal and legalistic, not designed to evoke joy, sadness, anger, fear, disgust, or surprise. The withdrawal is temporary and for classification, suggesting a neutral administrative action. Therefore, most emotions should be scored low, with perhaps a slight lean towards surprise due to the sudden nature of the order, but even that is minimal.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

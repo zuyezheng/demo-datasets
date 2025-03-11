@@ -2,16 +2,16 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "fear": 4,
+        "disgust": 2,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding access to classified information. The language is legalistic and bureaucratic. There is no indication of any particular emotion being conveyed. The primary goal is to establish policy and procedure. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order regarding access to classified information. It focuses on security, procedures, and legal definitions. The primary emotion conveyed is a sense of seriousness and responsibility. There's a hint of fear regarding the potential damage from unauthorized disclosure, but it's presented in a controlled, formal manner. There is no indication of joy, surprise, or sadness. Disgust is not directly expressed, but the document aims to prevent actions that could be considered disgusting (e.g., disloyalty, breaches of trust).",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 1,
-        "disgust": 1,
+        "fear": 4,
+        "disgust": 2,
         "surprise": 1
     }
 }

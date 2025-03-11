@@ -6,9 +6,9 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding the Rural Electrification Administration. It primarily deals with the transfer of administration, jurisdiction, control, records, property, and employees from an earlier established entity to one established under the Rural Electrification Act of 1936. The language is legal and administrative, lacking emotional expression. Therefore, all emotions are scored low initially. After further consideration, the order's purpose is to ensure the smooth functioning of an important initiative, which might evoke a slight sense of joy or relief in those benefiting from rural electrification. However, this is a very subtle undertone.",
+    "critique": "The document is a formal executive order regarding the Rural Electrification Administration. It primarily deals with the transfer of administration, jurisdiction, control, records, property, and personnel from an earlier established entity to one established under the Rural Electrification Act of 1936. The language is legal and administrative, with no explicit emotional expression. Therefore, the scores should be low across all emotions. Considering the formal nature, a baseline of 1 is appropriate for emotions that are not explicitly present.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

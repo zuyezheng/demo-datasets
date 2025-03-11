@@ -1,15 +1,15 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 1,
+        "joy": 2,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order regarding physical fitness and sports. It outlines the responsibilities of the Secretary of Health, Education, and Welfare in developing and coordinating a national program. The language is formal and bureaucratic, with no explicit emotional expression. However, one could argue that there's an underlying sense of optimism or hope for improved public health through physical fitness. Given the lack of explicit emotional cues, the initial scores will be low across all emotions. The revised scores will reflect a slightly higher score for joy, acknowledging the potential positive impact on public health, but the other emotions will remain very low.",
+    "critique": "The document is a formal executive order. It aims to amend a previous order related to physical fitness and sports. The language is formal and objective, with no explicit emotional expression. However, one could argue there's a subtle sense of joy or optimism implied in promoting health and fitness, and perhaps a slight sense of concern (sadness) about the costs of physical inactivity. Surprise, fear, disgust and anger are not present.",
     "revised_scores": {
         "joy": 2,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

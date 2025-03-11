@@ -6,7 +6,7 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order regarding a labor dispute. It uses legal and official language. The president is not attempting to convey any particular emotion. The American public is not expected to feel any particular emotion reading this document. Therefore, all scores should be low.",
+    "critique": "The document is a formal executive order establishing an emergency board to investigate a dispute between Southeastern Pennsylvania Transportation Authority (SEPTA) and its employees. The language is legal and procedural, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Considering the formal nature, a baseline of 1 is appropriate where no explicit emotion is conveyed.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,

@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 2,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order focused on ensuring child support. It is a formal and legal document. The primary emotion conveyed would be a sense of responsibility and commitment to the well-being of children. There is no strong indication of joy, sadness, anger, fear, disgust, or surprise. The document is mostly informational and directive.",
+    "critique": "The document is a formal executive order focused on ensuring child support. It aims to establish the federal government as a model employer in promoting and facilitating child support enforcement. The language is legal and procedural, with a focus on compliance and efficiency. There is a sense of responsibility and commitment to children's well-being, but emotions are not explicitly expressed. Therefore, the scores should be relatively low, reflecting the formal and objective nature of the document.",
     "revised_scores": {
         "joy": 2,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

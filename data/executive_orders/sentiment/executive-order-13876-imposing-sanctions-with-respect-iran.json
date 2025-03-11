@@ -1,17 +1,17 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 4,
-        "disgust": 5,
-        "surprise": 1
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 4,
+        "surprise": 2
     },
-    "critique": "The document is a formal executive order imposing sanctions on Iran. It uses legal and official language. The primary emotion conveyed is a sense of resolve and determination to address a perceived threat. There might be an element of anger or disgust towards the actions of the Iranian government, but it's presented in a controlled, official manner. There is no element of surprise, joy, or sadness.",
+    "critique": "The document is a formal executive order imposing sanctions on Iran. It expresses a tone of resolve and determination to address the perceived threats posed by Iran's actions. There is a sense of seriousness and urgency conveyed through the legal and authoritative language. It aims to convey a message of strength and decisiveness in protecting U.S. interests and maintaining stability in the Middle East. Therefore, the initial scores are as follows:\n\nJoy: 1 (There is no expression of joy in this document.)\nSadness: 3 (There is a slight sense of sadness due to the need for sanctions.)\nFear: 5 (There is a moderate level of fear conveyed due to the threats posed by Iran.)\nDisgust: 4 (There is a moderate level of disgust conveyed due to Iran's actions.)\nSurprise: 2 (There is a low level of surprise, as the sanctions are a continuation of existing policies.)\n\nUpon further reflection, the initial scores are reasonable. However, I will revise the scores to better reflect the nuances of the document. The revised scores are as follows:",
     "revised_scores": {
         "joy": 1,
         "sadness": 2,
-        "fear": 5,
-        "disgust": 6,
+        "fear": 6,
+        "disgust": 5,
         "surprise": 1
     }
 }

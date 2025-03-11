@@ -1,16 +1,16 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 3,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order addressing a labor dispute. It aims to convey a sense of authority and decisiveness in resolving a situation that could disrupt essential transportation services. There is no explicit attempt to evoke strong emotions. However, a sense of concern or seriousness might be inferred due to the potential impact of the dispute. The language is formal and legalistic, which tends to suppress emotional expression. Therefore, the initial scores are set low, with a slight emphasis on concern (fear) and seriousness (sadness). After further consideration, the initial scores seem appropriate given the document's nature and purpose.",
+    "critique": "The document is a formal executive order addressing a labor dispute. It aims to establish an emergency board to investigate and report on the disputes. The language is formal and legalistic. There is no explicit expression of emotions. However, the implicit emotions are: concern (sadness) about the potential disruption of essential transportation services, and a sense of urgency (fear) to resolve the disputes quickly to avoid negative consequences. There is no display of joy, disgust, or surprise. The initial scores are based on this assessment.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 2,
-        "fear": 2,
+        "sadness": 3,
+        "fear": 4,
         "disgust": 1,
         "surprise": 1
     }

@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 4,
+        "joy": 6,
         "sadness": 8,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     },
-    "critique": "The document is an announcement of the death of Major-General Brown and a tribute to his character and service. The primary emotion conveyed is sadness, with elements of respect, admiration, and perhaps a touch of surprise at the suddenness of his passing. The language used is formal and somber, befitting the occasion.The initial scores reflect these observations, with sadness being the highest, followed by respect/joy, and then surprise. Fear, disgust and anger are not applicable here.The revised scores are slightly adjusted to better reflect the relative intensity of each emotion based on the text.",
+    "critique": "The document is an announcement of the death of Major-General Brown and a tribute to his character and service. The primary emotion conveyed is sadness due to his death, but there is also joy in celebrating his accomplishments and respect for his valor. There is no explicit anger, fear, disgust, or surprise expressed in the document. The language is formal and somber, befitting the occasion.",
     "revised_scores": {
-        "joy": 4,
-        "sadness": 9,
+        "joy": 6,
+        "sadness": 8,
         "fear": 1,
         "disgust": 1,
-        "surprise": 3
+        "surprise": 1
     }
 }

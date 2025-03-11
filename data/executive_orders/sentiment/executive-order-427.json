@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     },
-    "critique": "The document is a formal order transferring control of abandoned lands and related resources to the Bureau of Refugees, Freedmen, and Abandoned Lands. The language is formal and bureaucratic, with no explicit emotional expression. However, the context suggests a sense of purpose and resolve in implementing the act of Congress.The president is trying to show joy, sadness, anger, fear, disgust, or surprise with the document. The document does not convey any of these emotions. Therefore, I will score each emotion as 1.",
+    "critique": "The document is a formal order transferring control of abandoned lands, property, and funds related to refugees and freedmen to the Bureau of Refugees, Freedmen, and Abandoned Lands. The language is formal and legalistic, with no explicit emotional expression. However, there might be an underlying sense of justice or resolve to help refugees and freedmen, but it's very subtle. Therefore, I will assign low scores across all emotions, with a slightly higher score for joy and surprise due to the positive impact of the order on refugees and freedmen.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 2,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 1
+        "surprise": 2
     }
 }

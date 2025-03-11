@@ -1,17 +1,17 @@
 {
     "initial_scores": {
-        "joy": 1,
-        "sadness": 3,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal order excusing certain employees from duty to attend a statue unveiling. The language is formal and bureaucratic, with no explicit emotional expression. However, the event itself (honoring a deceased general) might evoke some sadness and respect. The order facilitates participation in this event, suggesting a subtle encouragement of these emotions. Disgust, fear, and strong joy are unlikely. Surprise is possible, but not strongly conveyed. Initial scores: Joy: 1, Sadness: 3, Anger: 1, Fear: 1, Disgust: 1, Surprise: 2. Revised scores: Joy: 1, Sadness: 3, Anger: 1, Fear: 1, Disgust: 1, Surprise: 2.",
+    "critique": "The document is a formal order excusing certain employees from duty to attend a statue unveiling. The primary emotion conveyed is respect for veterans and the late General John A. Logan. There is a slight sense of joy and pride in honoring these individuals, but overall, the tone is formal and respectful. Therefore, joy is scored low, and other emotions are scored even lower as they are not relevant to the document's purpose.",
     "revised_scores": {
-        "joy": 1,
-        "sadness": 3,
+        "joy": 2,
+        "sadness": 1,
         "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     }
 }

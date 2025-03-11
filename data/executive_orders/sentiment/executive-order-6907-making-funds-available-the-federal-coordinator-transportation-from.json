@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 3,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal announcement regarding the allocation of funds for unemployment relief efforts related to railroad labor. The language is formal and factual, with no explicit emotional expression. However, the underlying context of addressing unemployment suggests a degree of concern and perhaps hope for improvement. Therefore, I would expect some degree of Joy that the problem is being addressed, and some degree of Sadness that the problem exists. There is no indication of anger, fear, disgust, or surprise.",
+    "critique": "The document is a formal order regarding the allocation of funds for unemployment relief efforts related to railroad labor. It expresses a sense of purpose and determination to address unemployment, but it does not convey strong emotions. Joy, sadness, fear, disgust, and surprise are not explicitly present. A baseline level of concern is implied due to the nature of the document.",
     "revised_scores": {
-        "joy": 3,
+        "joy": 1,
         "sadness": 3,
         "fear": 1,
         "disgust": 1,

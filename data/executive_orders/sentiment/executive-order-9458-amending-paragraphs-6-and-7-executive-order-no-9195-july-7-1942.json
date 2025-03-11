@@ -6,11 +6,11 @@
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is an executive order amending regulations regarding aerial flights by enlisted men in the military. It is a formal and legal document. The primary emotions conveyed would likely be neutral, as it is simply a procedural update. There may be a slight sense of duty or seriousness associated with it, but no strong emotions are expected to be felt by the American public. Therefore, I will assign low scores across all emotions initially. After further consideration, the document could instill a sense of fear in those who are not qualified aircraft pilots or observers, as they may be required to participate in aerial flights. Therefore, I will revise the fear score to reflect this possibility.",
+    "critique": "The document is a formal executive order amending regulations related to aerial flights by military personnel. The language is legalistic and procedural. There is no explicit expression of emotions. Given the context of World War II, the order could be related to military readiness, which might implicitly involve some level of concern or seriousness, but this is not directly stated. Therefore, all emotions are scored low.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 3,
+        "fear": 1,
         "disgust": 1,
         "surprise": 1
     }

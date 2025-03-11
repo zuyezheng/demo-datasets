@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal exemption from compulsory retirement for an employee. It doesn't express strong emotions. The primary emotion might be a mild sense of joy or relief for the employee, but it's very subtle. The scores should be low across the board, with a slightly higher score for joy.",
+    "critique": "The document is a formal exemption from retirement. It expresses no strong emotions. A score of 1 is appropriate for all emotions due to the lack of emotional content.",
     "revised_scores": {
-        "joy": 2,
+        "joy": 1,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

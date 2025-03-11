@@ -1,15 +1,15 @@
 {
     "initial_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal order from the President of the United States regarding punishments for violations of Articles of War. The language is legal and official, and the tone is authoritative. There is no indication of joy, sadness, anger, fear, disgust, or surprise. The document is purely informational and directive. Therefore, all emotions should be scored as 1.",
+    "critique": "The document is a formal order from the President of the United States. It suspends limitations on punishments for specific violations of the Articles of War. The language is legalistic and devoid of emotional expression. Therefore, all emotions should be scored low. There is a slight sense of sadness due to the context of war, but it is minimal.",
     "revised_scores": {
         "joy": 1,
-        "sadness": 1,
+        "sadness": 2,
         "fear": 1,
         "disgust": 1,
         "surprise": 1

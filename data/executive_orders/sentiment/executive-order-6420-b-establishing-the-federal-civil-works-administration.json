@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 5,
-        "sadness": 3,
-        "fear": 2,
+        "joy": 3,
+        "sadness": 2,
+        "fear": 1,
         "disgust": 1,
-        "surprise": 2
+        "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing the Federal Civil Works Administration. The language is legal and bureaucratic, focusing on authorization, allocation of funds, and administrative procedures. There is no explicit expression of emotion. However, the underlying purpose of the order - to increase employment quickly - suggests an implicit sense of hope and determination to address the economic crisis of the time. Given the context of the Great Depression, the public might feel a sense of relief and hope, but also perhaps some apprehension about the scale of the intervention. Disgust, fear, and surprise are unlikely to be prominent emotions. Initial scores: disgust: 1, fear: 2, joy: 5, sadness: 3, surprise: 2. Revised scores: disgust: 1, fear: 1, joy: 6, sadness: 2, surprise: 1.",
+    "critique": "The document is a formal executive order establishing the Federal Civil Works Administration. The primary goal is to increase employment. The language is legal and administrative, lacking strong emotional expression. However, there is a sense of hope and determination to address the economic crisis. Joy is low, as it's a formal document, but present due to the positive goal of increasing employment. Sadness is also low, but acknowledged as the order is a response to the depression. Fear and disgust are negligible. Surprise is also low, as such orders are not unexpected during a crisis.",
     "revised_scores": {
-        "joy": 6,
+        "joy": 3,
         "sadness": 2,
         "fear": 1,
         "disgust": 1,

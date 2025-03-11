@@ -1,14 +1,14 @@
 {
     "initial_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order establishing a board to promote employment for people with disabilities. The language is formal and legalistic, with no strong emotional indicators. Therefore, all emotions should be scored low.",
+    "critique": "The document is a formal executive order establishing the President's Disability Employment Partnership Board. The language is formal and legalistic. There is a slight sense of joy in promoting employment for people with disabilities, but it is not strongly emphasized. There is no indication of sadness, fear, disgust, or surprise.",
     "revised_scores": {
-        "joy": 1,
+        "joy": 3,
         "sadness": 1,
         "fear": 1,
         "disgust": 1,

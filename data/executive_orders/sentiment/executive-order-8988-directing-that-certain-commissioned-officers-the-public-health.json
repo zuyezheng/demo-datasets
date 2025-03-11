@@ -2,15 +2,15 @@
     "initial_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 5,
         "disgust": 1,
         "surprise": 1
     },
-    "critique": "The document is a formal executive order detailing the assignment of Public Health Service officers to the Coast Guard during wartime. The language is legalistic and bureaucratic, with no explicit emotional expression. The context is serious, given it's during wartime, but the document itself is simply an administrative directive. Therefore, all emotions should be scored low, with a slight emphasis on seriousness which might translate to a touch of fear or concern.",
+    "critique": "The document is a formal order from the President regarding the Public Health Service and Coast Guard during wartime. It primarily conveys a sense of authority and direction, with a subtle undercurrent of concern for public interest and national security. There is no explicit expression of joy, sadness, disgust, or surprise. Fear is present due to the context of war.",
     "revised_scores": {
         "joy": 1,
         "sadness": 1,
-        "fear": 2,
+        "fear": 5,
         "disgust": 1,
         "surprise": 1
     }
