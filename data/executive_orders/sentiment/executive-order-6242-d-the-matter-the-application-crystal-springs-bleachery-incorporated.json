@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal announcement regarding the denial of an exemption application related to the Cotton Textile Industry code. The language is legalistic and procedural. There is no strong emotional language. Therefore, the initial scores should be low across all emotions. The document expresses a formal decision, so a baseline level of sadness is appropriate. There is no explicit joy, fear, or surprise. Disgust is not present. The revised scores reflect these considerations.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

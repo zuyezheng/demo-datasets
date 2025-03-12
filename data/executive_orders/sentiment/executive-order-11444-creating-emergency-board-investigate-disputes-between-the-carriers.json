@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal declaration regarding a labor dispute in the railway industry. The primary emotion conveyed is concern due to the potential disruption of interstate commerce. There's a hint of urgency and seriousness, but overall, the tone is neutral and official. Therefore, I will assign low scores to most emotions, with a slightly higher score for concern/fear due to the potential disruption.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

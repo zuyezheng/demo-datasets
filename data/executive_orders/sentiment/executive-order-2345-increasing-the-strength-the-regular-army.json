@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal announcement about increasing the enlisted strength of the Regular Army. It is a factual statement with no emotional language. Therefore, the initial scores for all emotions should be low. Considering this is a formal document, I will assign a baseline score of 1 for all emotions.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

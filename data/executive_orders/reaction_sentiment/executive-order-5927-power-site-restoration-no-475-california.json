@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 2
+    },
+    "critique": "The document is a revocation of a previous order regarding land allocation. The tone is formal and administrative. The primary emotion the President might want to elicit is relief or satisfaction from those who benefit from the revocation, but the document itself is emotionally neutral. Therefore, the initial scores should be low across all emotions. The critique is that the initial scores are too high and should be adjusted to reflect the neutral tone and content of the document.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding the retirement age of a government employee. It mainly conveys information and doesn't express strong emotions. Therefore, most emotions should be scored low. There might be a slight sense of joy or satisfaction that the President is able to make this exception for the employee, but it's very subtle.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

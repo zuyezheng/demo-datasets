@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal presidential order establishing a wildlife refuge. The language is legal and administrative, with no explicit emotional expression. However, the act of preserving land for wildlife implicitly conveys a sense of care and concern for nature, which could be interpreted as a low level of joy and a lack of negative emotions. The initial scores reflect this baseline assessment. The revised scores are slightly adjusted to reflect the implicit positive sentiment.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

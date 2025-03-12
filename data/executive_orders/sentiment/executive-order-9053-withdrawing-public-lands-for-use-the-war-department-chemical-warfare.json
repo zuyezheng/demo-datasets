@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal presidential order regarding the withdrawal of public lands for use as a chemical warfare range. The language is legal and administrative, with no explicit emotional expression. However, the context of establishing a chemical warfare range during wartime might implicitly convey some level of fear or concern. Given the formal nature, the scores should be low, but not zero, to reflect the implicit context. Joy, sadness, and disgust are not relevant in this context and should be scored as 1. Surprise is also unlikely, so it should be scored as 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

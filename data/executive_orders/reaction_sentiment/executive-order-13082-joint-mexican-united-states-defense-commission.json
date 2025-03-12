@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal amendment to an existing executive order, focusing on the composition of a joint defense commission. The tone is official and procedural. As such, the primary emotions the President would want to elicit are minimal. There's no call for joy, sadness, anger, fear, disgust, or surprise. The goal is simply to update the order efficiently. Therefore, most scores should be low, reflecting the neutral nature of the document. I will set surprise to 2 as the change is unexpected.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

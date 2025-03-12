@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The initial scores do not accurately reflect the emotional intent of the document. The document aims to evoke joy and patriotism, while also instilling fear and disgust towards the ideologies it opposes. The initial scores underemphasize the negative emotions and overemphasize surprise.",
+    "revised_scores": {
+        "joy": 8,
+        "sadness": 3,
+        "fear": 6,
+        "disgust": 7,
+        "surprise": 2
+    }
+}

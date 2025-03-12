@@ -1,0 +1,20 @@
+{
+    "analysis": "The documents in this cluster primarily concern the use of executive power to address various national and international issues. They cover topics such as ocean policy, foreign policy sanctions, export controls, construction project labor agreements, renaming geographic locations, investment restrictions related to the Chinese military, and limitations on congressional earmarks. The sentiment is generally neutral, focusing on the implementation of policies and regulations.",
+    "tags": [
+        "Executive Action",
+        "National Security",
+        "Economic Policy",
+        "Foreign Relations",
+        "Regulations",
+        "Policy Implementation"
+    ],
+    "title": "Executive Actions on National and International Affairs",
+    "request": {
+        "cluster": 8,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 14705,
+        "output_tokens": 96
+    }
+}

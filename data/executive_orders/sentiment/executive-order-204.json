@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 5,
+        "fear": 4,
+        "disgust": 6,
+        "surprise": 1
+    },
+    "critique": "The document expresses frustration and disappointment with the current situation. The president is clearly not joyful, but rather expresses sadness and disgust at the overwhelming number of applications for office. There's a hint of fear about the neglect of public duty if the situation continues. Surprise is not a prominent emotion. The initial scores reflect these observations, and the revised scores fine-tune the intensity of each emotion based on the language used.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 6,
+        "fear": 5,
+        "disgust": 7,
+        "surprise": 1
+    }
+}

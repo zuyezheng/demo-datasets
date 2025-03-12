@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order addressing actions and policies of UNITA. It conveys a sense of seriousness and determination to address a national emergency. There is no explicit expression of joy, but there is a sense of resolve. There is no explicit sadness, but there is a sense of concern. There is no explicit anger, but there is a sense of disapproval. There is no explicit fear, but there is a sense of caution. There is no explicit disgust, but there is a sense of aversion. There is no explicit surprise, but there is a sense of urgency.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 3,
+        "surprise": 3
+    }
+}

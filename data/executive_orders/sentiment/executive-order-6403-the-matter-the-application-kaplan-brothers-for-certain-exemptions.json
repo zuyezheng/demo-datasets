@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 1
+    },
+    "critique": "The document is a formal denial of an application for exemption from a code of fair competition. The language is formal and legalistic. There is no strong emotion conveyed. A baseline of 1 is appropriate for emotions not explicitly present. There may be a slight sense of disappointment or disapproval, but it is very mild. Therefore, I will assign a score of 2 to sadness and disgust, and 1 to the rest.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents all pertain to orders granting access to tax returns by various government entities (Federal Reserve, Department of Justice, Department of Commerce, Federal Trade Commission, Securities and Exchange Commission, Senate committees, and state officers) for specific purposes such as investigations, administration of tax laws, and internal management. They all cite the legal authority that allows the President to grant these exceptions to tax return privacy.",
+    "tags": [
+        "Tax Returns",
+        "Government Access",
+        "Internal Revenue Code",
+        "Investigations",
+        "Oversight"
+    ],
+    "title": "Tax Return Access for Government Oversight",
+    "request": {
+        "cluster": 3,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3632,
+        "output_tokens": 98
+    }
+}

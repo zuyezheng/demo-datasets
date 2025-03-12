@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal declaration regarding a labor dispute. It invokes the Railway Labor Act and establishes a board to investigate the dispute. The language is very formal and legalistic. There is no explicit expression of emotions. However, the situation implies a sense of concern due to the potential disruption of interstate commerce. Therefore, I will assign low scores for sadness and fear, and a minimal score for surprise. Joy, disgust are not present. The initial scores are: joy=1, sadness=2, surprise=1, fear=2, disgust=1. After a second thought, the document is very neutral, so I will set all scores to 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

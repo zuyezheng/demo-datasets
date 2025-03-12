@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal presidential order approving the official seal of the Central Intelligence Agency. The language is legal and administrative. There is no strong emotion conveyed. The document expresses a sense of formality and approval, but not strong emotions. Therefore, the initial scores should be low across all emotions.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

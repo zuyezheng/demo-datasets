@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing a committee on quantum information science. It aims to ensure American leadership in this field. The language is formal and legalistic, with no strong emotional expression. Therefore, all emotions should be scored low.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

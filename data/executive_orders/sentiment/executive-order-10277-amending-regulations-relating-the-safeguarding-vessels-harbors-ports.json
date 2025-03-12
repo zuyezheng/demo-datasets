@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order amending regulations related to port security. It primarily focuses on legal and security aspects, with no explicit emotional expression. Therefore, the initial scores should reflect a neutral or very low emotional intensity across all categories.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

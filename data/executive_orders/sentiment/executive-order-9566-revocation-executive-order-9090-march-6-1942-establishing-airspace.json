@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal revocation of an executive order. It's a legal and administrative action, not designed to evoke strong emotions. Therefore, all emotions should be scored low, with a default of 1 where there's no clear indication of the emotion being conveyed. There is no presence of joy, sadness, fear, disgust, or surprise. The initial and revised scores should be the same.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order amending tax rates on the acquisition of foreign stocks and debt obligations. It aims to adjust these rates to align with the United States' balance-of-payments objectives. The language is formal and legalistic, focusing on specific percentages and timeframes. There is no explicit expression of emotions. However, the adjustment of tax rates could be seen as a positive change (joy) for some investors or a negative change (sadness) for others, but these are not explicitly conveyed in the document. Given the formal nature, the emotional intensity is likely to be low across all emotions.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 5,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 6
+    },
+    "critique": "The document primarily focuses on delegating authority related to the Defense Production Act. The tone is formal and legalistic. The primary emotion the President likely wants to elicit is a sense of confidence and assurance in the government's ability to manage defense production, particularly involving small businesses. There's no strong indication of joy, sadness, anger, fear, disgust, or surprise. The emotions are very muted, and the scores should reflect that. The initial scores are likely too high, especially for emotions like joy, sadness, anger, fear, and disgust. Surprise might be slightly higher due to the nature of executive orders, but still relatively low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 3
+    }
+}

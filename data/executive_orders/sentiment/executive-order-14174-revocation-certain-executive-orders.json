@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It revokes two previous executive orders related to COVID-19 safety protocols and vaccination for federal contractors and employees. The language is legal and procedural. There is no explicit expression of emotions. However, the revocation of the previous orders might imply a sense of relief or a change in policy direction, but this is not explicitly stated. Therefore, the initial scores should be low across all emotions. After a second thought, the document is still a formal one and any implied emotion should not be considered. The scores should remain low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding the transfer of Iranian government financial assets. It invokes presidential authority and legal justifications for the order. The primary emotion conveyed is a sense of resolve and determination to address a national security threat and implement agreements with Iran. There's a hint of relief or satisfaction in resolving the hostage situation and normalizing relations, but it's subtle. There is no explicit expression of joy, sadness, fear, disgust, or surprise. The document focuses on legal and procedural aspects, maintaining a formal and neutral tone. Therefore, most emotions should be scored low, with a slightly higher score for resolve or determination, which can be interpreted as a low level of joy.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

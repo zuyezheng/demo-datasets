@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 2,
+        "security_liberty": -1,
+        "economic_regulation": 1,
+        "social_inclusion": 2
+    },
+    "critique": "This document is an executive order regarding the inspection of tax returns by the Senate Committee on Education and Labor. It is related to investigation of violations of free speech and assembly, and interference with labor organization. \n\n*   **Ideological Tilt:** The document supports investigation into potential violations of labor rights, which aligns with a liberal stance. Initial score: 3\n*   **Immigration Approach:** This document does not address immigration. Initial score: 0\n*   **Executive Power:** The order allows a Senate committee to inspect tax returns, seemingly expanding executive power by granting access to private information. Initial score: 2\n*   **Federalism:** The document involves the federal government (Senate committee) in labor issues, suggesting a stronger federal role. Initial score: 2\n*   **National Security vs. Civil Liberties:** The document potentially infringes on privacy (tax returns) for the sake of investigating labor rights violations. This is a complex balance, but leans slightly towards civil liberties. Initial score: -1\n*   **Economic Regulation:** The document indirectly relates to economic regulation by investigating interference with labor organizing. Initial score: 1\n*   **Social Inclusion:** The document supports labor rights and freedom of assembly, which promotes social inclusion. Initial score: 2\n\nRevised Scores:\n*   Ideological Tilt: 3 (Supports labor rights)\n*   Immigration Approach: 0 (Not relevant)\n*   Executive Power: 1 (Grants access to tax returns, but for oversight)\n*   Federalism: 2 (Federal government involved in labor issues)\n*   National Security vs. Civil Liberties: -1 (Slightly favors civil liberties/privacy)\n*   Economic Regulation: 1 (Indirectly related to labor organizing)\n*   Social Inclusion: 2 (Supports labor rights and assembly)",
+    "revised_scores": {
+        "ideological_tilt": 3,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 2,
+        "security_liberty": -1,
+        "economic_regulation": 1,
+        "social_inclusion": 2
+    }
+}

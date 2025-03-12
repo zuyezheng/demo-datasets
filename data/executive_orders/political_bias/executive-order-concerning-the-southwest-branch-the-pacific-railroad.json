@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 4,
+        "federalism": 4,
+        "security_liberty": 3,
+        "economic_regulation": 3,
+        "social_inclusion": 1
+    },
+    "critique": "This document is an executive order from 1862 during the Civil War, ordering the repair, extension, and completion of a railroad line in Missouri for military purposes. Given the context of the Civil War, several axes are impacted. Ideologically, the document reflects a focus on maintaining the Union, which could be seen as moderately conservative in the sense of preserving the existing order, but also reflects a strong federal role, which could be seen as liberal. Immigration is not relevant. Executive power is expanded to ensure the war effort. Federalism is strongly emphasized as the federal government takes control of a state railroad. National security is prioritized over civil liberties. Economic regulation is increased as the government intervenes in the railroad industry. Social inclusion is not directly addressed, but the context of the Civil War involves the issue of slavery, suggesting a move towards greater inclusion.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 4,
+        "federalism": 4,
+        "security_liberty": 4,
+        "economic_regulation": 4,
+        "social_inclusion": 1
+    }
+}

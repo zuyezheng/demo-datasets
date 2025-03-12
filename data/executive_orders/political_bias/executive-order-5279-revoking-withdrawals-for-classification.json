@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This document revokes previous executive orders withdrawing lands in Utah. It's primarily a land management action. There's no clear indication of ideological tilt, immigration stance, impact on civil liberties, or social inclusion. It could be argued that revoking the withdrawal promotes deregulation by potentially opening up the land for economic activities, but this is a weak signal. It also shifts power away from the federal government and towards the state. The executive power is slightly reduced as previous orders are revoked.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": -1,
+        "federalism": -1,
+        "security_liberty": 0,
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    }
+}

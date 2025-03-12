@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal order establishing an emergency board to investigate a dispute. It expresses a sense of urgency and importance, but avoids strong emotional language. Therefore, most emotions should be scored low. I will start with initial scores of joy: 1, sadness: 2, fear: 3, disgust: 1, surprise: 2. The document conveys a sense of importance, so I will set the initial score for surprise to 2. The document expresses concern that the dispute may interrupt interstate commerce, so I will set the initial score for fear to 3. The document expresses concern about a dispute, so I will set the initial score for sadness to 2. After a second thought, I will revise the scores to joy: 1, sadness: 2, fear: 3, disgust: 1, surprise: 2.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

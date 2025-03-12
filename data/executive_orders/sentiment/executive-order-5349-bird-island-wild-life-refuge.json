@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal order establishing a wildlife refuge. It primarily conveys a sense of seriousness and authority, with an underlying concern for the protection of wildlife. There is no explicit expression of joy, sadness, or surprise. Fear is present in the warnings against unlawful activities, and disgust might be inferred from the actions that are prohibited, such as destroying natural growth or harming animals. The scores should reflect the formal and legal nature of the document.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 6,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal presidential order regarding the establishment and funding of a special commission. The language is legalistic and procedural. There is no explicit expression of emotions. However, a slight sense of urgency and perhaps frustration can be inferred from the fact that the original commission was authorized but not funded, leading to the creation of this special commission. Therefore, I will assign low scores to sadness and surprise, and very low scores to the other emotions.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

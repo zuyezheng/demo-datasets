@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding land allocation. It cancels a previous order that set aside land for the Jicarilla Apache Indians and restores the land to the public domain. The language is formal and legalistic, and the tone is neutral. There is no explicit expression of emotions. However, the action of canceling a reservation could implicitly convey negative emotions such as sadness or disgust towards the situation necessitating the cancellation, or perhaps even joy or surprise if the cancellation is seen as a positive development. However, given the formal nature of the document and lack of explicit emotional cues, a low score is appropriate for all emotions. I will assign a baseline score of 1 for all emotions to reflect the lack of strong emotional conveyance.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

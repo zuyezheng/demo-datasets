@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 3
+    },
+    "critique": "The document is an executive order addressing a labor dispute. As the President, the primary emotion I want to elicit is a sense of calm and resolution, avoiding panic or anger. The language is formal and legalistic, aiming for a neutral tone. I want to convey a sense of control and authority, but also fairness. The emotions I want to convey are low intensity, as the goal is stability and order, not excitement or fear. The initial scores reflect this, with low values across the board. After reflection, I think the initial scores are reasonable, but I will adjust the surprise score slightly upwards to reflect the unexpected nature of the dispute requiring presidential intervention.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 4
+    }
+}

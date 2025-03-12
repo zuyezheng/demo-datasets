@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing a commission on organized crime. It is primarily informational and directive, with a serious tone reflecting the gravity of the subject matter. There is a sense of determination to combat organized crime, but emotions are largely absent. Therefore, most scores should be low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 5,
+        "disgust": 6,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order establishing the Office of Homeland Security. The primary emotion conveyed is concern and determination to address terrorist threats. There is an element of fear due to the nature of the threat, but the document focuses on preparedness and prevention. There's no explicit joy or sadness. Disgust is implied towards terrorism, and surprise is not a prominent emotion.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 6,
+        "disgust": 7,
+        "surprise": 1
+    }
+}

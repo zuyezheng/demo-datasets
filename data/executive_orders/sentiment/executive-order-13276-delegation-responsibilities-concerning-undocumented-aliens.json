@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding the handling of undocumented aliens. It outlines the duties and authorities of agency heads, particularly the Attorney General, in managing the migration of undocumented aliens in the Caribbean region. The language is legal and procedural, with a focus on national security and law enforcement. There is a sense of seriousness and urgency, but no explicit emotional expression. Therefore, the scores should be relatively low across all emotions, with a slight emphasis on fear and disgust due to the context of national security and undocumented migration.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 2
+    }
+}

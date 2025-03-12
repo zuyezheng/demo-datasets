@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order. It revokes a previous order related to the Taliban due to the success of the military campaign in Afghanistan, but also takes additional steps against terrorism. The language is formal and legalistic. Therefore, the scores should be low across all emotions, with a slight emphasis on fear and disgust due to the mention of terrorism.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 2
+    }
+}

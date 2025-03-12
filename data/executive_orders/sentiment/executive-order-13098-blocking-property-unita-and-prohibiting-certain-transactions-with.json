@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 3
+    },
+    "critique": "The document is a formal executive order addressing actions and policies of UNITA. It invokes legal authorities and outlines specific prohibitions and regulations. The language is formal and legalistic, with no explicit emotional expression. However, the order's purpose is to address a national emergency and impose sanctions, which implicitly conveys a sense of seriousness and concern. Therefore, I will assign low scores for sadness, fear, and disgust, and a slightly higher score for surprise due to the unexpected nature of such declarations. Joy is not present.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 3
+    }
+}

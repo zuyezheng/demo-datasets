@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order amending a previous order regarding the classification, downgrading, and declassification of information. The language is legalistic and procedural. There is no expression of joy, sadness, fear, or surprise. There might be a hint of disgust towards unauthorized disclosure of information, but it's very mild. The primary emotion conveyed, if any, is a sense of seriousness and importance related to national security.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

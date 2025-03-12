@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal order from the President, activating National Guard units for military service. The primary emotion conveyed is a sense of duty and resolve, though this is implicit rather than explicitly stated. There is a hint of sadness due to the circumstances necessitating the order, and a touch of fear given the context of potential conflict. Surprise is minimal, as such orders are likely anticipated during times of national concern. Disgust and joy are not applicable in this context. The scores reflect these considerations, with higher values for duty/resolve (represented by lower sadness and fear) and minimal values for other emotions.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

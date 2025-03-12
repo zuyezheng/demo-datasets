@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding land use. It primarily concerns legal and administrative procedures. There is no explicit emotional expression. Therefore, the initial scores should be very low across all emotions, with a default score of 1 where there is no information to suggest otherwise.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

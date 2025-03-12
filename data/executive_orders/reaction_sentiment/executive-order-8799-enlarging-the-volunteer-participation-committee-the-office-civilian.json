@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an amendment to an existing executive order, increasing the size of the Volunteer Participation Committee. The tone is formal and bureaucratic. The primary goal seems to be to increase the effectiveness of the committee. There is not enough information to determine the emotions the President wants to elicit, so I will start with a score of 1 for each emotion. Upon further reflection, the increase in committee size suggests a desire to inspire some level of joy and reduce fear by demonstrating a commitment to civilian defense. I will adjust the scores accordingly.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

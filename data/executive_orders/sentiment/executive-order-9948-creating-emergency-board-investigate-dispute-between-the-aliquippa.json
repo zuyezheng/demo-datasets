@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses no strong emotions. A low level of concern is present due to the potential disruption of interstate commerce. Therefore, I will assign low scores across the board, with a slightly higher score for concern (fear).",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

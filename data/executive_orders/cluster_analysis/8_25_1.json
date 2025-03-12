@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents in this cluster are all executive orders that relate to foreign policy, international relations, and national security. They cover a range of topics, including trade, sanctions, international agreements, and military justice. The documents also demonstrate the President's authority to conduct foreign policy and the importance of having a workforce that is committed to faithfully implementing the President's foreign policy.",
+    "tags": [
+        "Foreign Policy",
+        "International Relations",
+        "National Security",
+        "Trade",
+        "Sanctions",
+        "International Agreements",
+        "Military Justice"
+    ],
+    "title": "International Affairs and National Security Directives",
+    "request": {
+        "cluster": 8,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 31956,
+        "output_tokens": 97
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 5,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document describes the reservation of land for an experiment station. The tone is formal and legalistic. The primary emotion the President wants to elicit is probably joy that land is being used for agricultural experimentation. There might be a little surprise that the land is being set aside. There is no indication of sadness, anger, fear, or disgust. The initial scores are joy: 5, surprise: 2, sadness: 1, anger: 1, fear: 1, disgust: 1. Upon further reflection, the document is very neutral and the president is not trying to elicit any strong emotions. The reservation is also temporary and does not interfere with prior rights. Therefore, the emotions should be very low.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

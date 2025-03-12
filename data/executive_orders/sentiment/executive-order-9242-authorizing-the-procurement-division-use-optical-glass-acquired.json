@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal order from the President regarding the use of optical glass for war production. It expresses a sense of urgency due to the ongoing war and an imminent shortage. There is no explicit expression of joy, sadness, or disgust. Fear is present due to the shortage and war, but it is not the primary emotion. Surprise is not relevant in this context. The primary emotion conveyed is a sense of determination and resolve to address the shortage and support the war effort. The initial scores reflect a baseline level of these emotions, with slight increases in fear and determination. The revised scores adjust the levels to better reflect the document's intent and context.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

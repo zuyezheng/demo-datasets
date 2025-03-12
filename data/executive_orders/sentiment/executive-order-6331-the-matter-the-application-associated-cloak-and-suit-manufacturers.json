@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order denying an application for exemption from a code of fair competition. The language is legalistic and procedural. There is no explicit expression of emotion. However, the denial of the application could imply a lack of sympathy for the applicants' hardship, suggesting a low level of sadness. There's no indication of joy, fear, disgust, or surprise. Therefore, these emotions should be scored as 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

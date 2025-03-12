@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 5,
+        "fear": 6,
+        "disgust": 7,
+        "surprise": 1
+    },
+    "critique": "The document is an execution order for the Lincoln assassination conspirators. As the President, I want to convey a sense of justice and resolution, but also somberness given the gravity of the situation. Joy is not an emotion I want to elicit, as this is a serious matter. Sadness is present due to the loss of Lincoln and the need for such harsh measures. Anger is directed at the conspirators, but I don't want to appear overly vengeful. Fear should be instilled in those who might consider similar actions. Disgust at the crime is definitely present. Surprise is not a primary emotion here, as the executions are a planned consequence.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 6,
+        "fear": 7,
+        "disgust": 8,
+        "surprise": 1
+    }
+}

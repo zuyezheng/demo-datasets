@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal order from the President regarding a dispute between railroads and their employees. The language is legal and procedural. There is no strong emotion conveyed, but a sense of urgency and concern due to the potential disruption of interstate commerce. Therefore, I will assign low scores to all emotions, with a slightly higher score for concern/fear and sadness due to the negative impact of the dispute.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

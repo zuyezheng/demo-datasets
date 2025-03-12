@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal order from the President regarding the use of public lands for a War Department practice bombing range. The language is formal and legalistic. There is no explicit expression of emotions. However, given the context of 1941 and the reference to the War Department, a sense of urgency and perhaps a subtle undercurrent of fear or concern might be inferred. However, since the document itself does not express these emotions explicitly, I will assign low scores to all emotions.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

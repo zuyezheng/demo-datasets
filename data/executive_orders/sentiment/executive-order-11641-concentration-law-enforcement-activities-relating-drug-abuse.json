@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document expresses concern about drug abuse and emphasizes law enforcement. It conveys a sense of urgency and determination to combat the issue. Therefore, sadness, fear, and disgust are present, but joy and surprise are not. The intensity of fear, sadness, and disgust should be moderate, while joy and surprise should be low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 4,
+        "fear": 6,
+        "disgust": 5,
+        "surprise": 1
+    }
+}

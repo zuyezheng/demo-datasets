@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal delegation of functions related to the Multinational Force and Observers Participation Resolution. As such, it is unlikely to elicit strong emotions. The primary goal is to ensure efficient interagency coordination. The tone is formal and administrative, not designed to evoke strong feelings. Therefore, most emotions should be scored low. I will start with initial scores of 1 across the board, then adjust based on the specific context. There's a slight element of reassurance (reducing fear) by clarifying responsibilities, and perhaps a touch of satisfaction (joy) from streamlining processes. Surprise and disgust are unlikely. Sadness and anger are also unlikely, given the nature of the document.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

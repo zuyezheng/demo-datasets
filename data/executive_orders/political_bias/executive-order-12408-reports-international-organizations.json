@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This document is a delegation of authority from the President to the Secretary of State regarding specific sections of the Department of State Authorization Act. It's a technical amendment that doesn't directly address ideological issues, immigration, executive power in a broad sense, national security vs. civil liberties, economic regulation, or social inclusion. Therefore, most axes should be scored as neutral. The federalism axis is slightly negative as it delegates power away from the President.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": -1,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    }
+}

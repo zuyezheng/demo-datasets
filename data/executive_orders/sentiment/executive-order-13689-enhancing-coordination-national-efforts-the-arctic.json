@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It expresses concern about the changing Arctic and outlines a plan for a coordinated national effort. There is a sense of responsibility and determination, but emotions are generally subdued to maintain a professional tone. Therefore, joy, sadness, fear, disgust, and surprise should be scored low. The document conveys a sense of urgency and importance, which could be interpreted as a mild form of concern or worry, so fear is scored a 3. The document expresses the importance of protecting national interests and addressing climate change, which could be interpreted as a mild form of determination or resolve, so joy is scored a 2. The document acknowledges the negative impacts of climate change, which could be interpreted as a mild form of sadness, so sadness is scored a 2. The document does not express any disgust or surprise, so they are scored a 1.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

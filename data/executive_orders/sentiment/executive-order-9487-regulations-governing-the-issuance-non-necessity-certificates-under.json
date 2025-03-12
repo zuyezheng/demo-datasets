@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order prescribing regulations for issuing Non-Necessity Certificates under section 124(d) of the Internal Revenue Code. It defines terms like \"Emergency facility\", \"Necessity Certificate\", \"Emergency period\", and \"Non-Necessity Certificate\". The language is formal and legalistic, with no explicit emotional expression. However, given the context of wartime (1944), there's an underlying sense of urgency and seriousness related to national defense. The document aims to provide clarity and structure to the process of determining when emergency facilities are no longer needed, which could be interpreted as a subtle form of relief or optimism that the emergency period might be coming to an end. However, this is very subtle. Therefore, most emotions are scored low, with a slightly higher score for seriousness.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

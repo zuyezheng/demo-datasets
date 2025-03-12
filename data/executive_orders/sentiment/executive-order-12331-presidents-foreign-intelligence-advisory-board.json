@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing the President's Foreign Intelligence Advisory Board. The language is formal and legalistic. There is no strong expression of emotions. The primary goal is to establish the board and define its responsibilities. Therefore, the emotion scores should be relatively low across the board. I will assign a baseline score of 1 for most emotions, increasing the score only if there's a clear indication of that emotion being conveyed.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

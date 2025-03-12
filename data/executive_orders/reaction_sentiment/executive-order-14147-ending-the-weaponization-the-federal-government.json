@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 7,
+        "surprise": 5
+    },
+    "critique": "The document expresses strong disapproval of the previous administration's actions, aiming to evoke feelings of anger and disgust towards those actions. It also seeks to instill a sense of hope and relief that the current administration is taking steps to correct the past misconduct. The document also aims to create a sense of surprise that such actions could have occurred. The document does not seem to want to elicit joy or sadness.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 4,
+        "disgust": 8,
+        "surprise": 6
+    }
+}

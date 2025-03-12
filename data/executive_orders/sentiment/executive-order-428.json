@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal circular from the Attorney-General's Office regarding applications for pardon. It outlines the requirements for individuals in excepted classes seeking a presidential pardon, specifically the need to take and subscribe to the oath prescribed in the President's amnesty proclamation. The language is formal and procedural, with no explicit emotional expression. Therefore, the scores should be low across all emotions, with a baseline of 1 where there isn't enough information to suggest otherwise.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

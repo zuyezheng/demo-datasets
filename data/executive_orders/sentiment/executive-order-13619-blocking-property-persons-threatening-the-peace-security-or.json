@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 4,
+        "fear": 5,
+        "disgust": 3,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order addressing the situation in Burma. It expresses concern about human rights abuses and threats to peace and security. While it acknowledges some progress, the overall tone is serious and focused on national security and foreign policy. Therefore, sadness and fear are the most prominent emotions, with a touch of disgust towards the human rights abuses. Joy is minimal, as the focus is on ongoing threats. Surprise is also minimal, as the order is a continuation of existing policies.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 5,
+        "fear": 6,
+        "disgust": 4,
+        "surprise": 1
+    }
+}

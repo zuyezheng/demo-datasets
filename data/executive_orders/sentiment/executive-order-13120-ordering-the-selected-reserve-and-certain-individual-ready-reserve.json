@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal presidential order regarding the augmentation of armed forces for operations in and around the former Yugoslavia. The language is legal and procedural. There is no explicit expression of emotions. However, the context of military action might imply some level of concern or determination. Given the formal nature, the emotional intensity is likely low across all categories. The initial scores reflect this assessment, with slightly elevated scores for sadness and fear due to the context of conflict, and a slightly elevated score for surprise because it is an unexpected announcement. The revised scores will lower the surprise score to 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

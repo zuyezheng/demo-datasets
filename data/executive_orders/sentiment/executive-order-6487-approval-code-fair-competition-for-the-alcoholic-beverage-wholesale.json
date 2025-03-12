@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal declaration by President Roosevelt regarding the approval of a Code of Fair Competition for the Alcoholic Beverage Wholesale Industry. The language is legal and procedural. There is no strong emotional language. Therefore, the initial scores should be low across all emotions. Considering the formal tone, I will assign a baseline score of 1 for most emotions, increasing the score to 2 for joy as the document expresses the approval of the code.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding the withdrawal of public lands for the purpose of creating a migratory bird refuge. The language is legal and administrative, with no explicit emotional expression. Therefore, the scores should be very low across all emotions, with a baseline of 1 where there isn't enough information to suggest any emotion.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

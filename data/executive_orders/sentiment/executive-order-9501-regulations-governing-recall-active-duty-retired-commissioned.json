@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal order regarding the recall of retired officers of the Public Health Service to active duty. The language is legal and administrative, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. However, the context of recalling officers to active duty, especially during a time of war, might implicitly convey some level of concern or seriousness, which could be interpreted as slight fear or sadness. But given the formal nature, these should still be minimal.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

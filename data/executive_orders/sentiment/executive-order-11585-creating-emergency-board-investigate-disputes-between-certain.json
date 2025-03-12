@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses no strong emotions. A baseline level of sadness and fear might be inferred due to the potential disruption of essential transportation, but these are very mild. Surprise, disgust, and joy are not present.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing the Upper Mississippi River Basin Commission. The language is legal and procedural. There is no strong emotion conveyed. A score of 1 is appropriate for all emotions except perhaps a very mild sense of joy that the commission is being established, but even that is very muted. Therefore, I will assign the following initial scores: joy: 2, sadness: 1, anger: 1, fear: 1, disgust: 1, surprise: 1. After further consideration, I think even the joy is too high. All emotions should be at 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses a sense of urgency and authority, but avoids strong emotional language. The primary emotion conveyed, albeit subtly, is concern (leading to a low fear score) about the potential disruption of essential transportation services. There's a hint of disappointment (leading to a low sadness score) that the dispute hasn't been resolved through normal channels. Joy, disgust, and surprise are not evident in the text.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

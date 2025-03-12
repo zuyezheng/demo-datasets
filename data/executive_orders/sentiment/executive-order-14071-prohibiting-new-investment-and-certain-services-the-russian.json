@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order imposing economic sanctions. It is devoid of explicit emotional expression. However, the order implicitly conveys a sense of resolve and determination to address a perceived threat or problem, which could be interpreted as a form of controlled anger or disapproval. Given the formal nature, the emotional intensity is likely low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

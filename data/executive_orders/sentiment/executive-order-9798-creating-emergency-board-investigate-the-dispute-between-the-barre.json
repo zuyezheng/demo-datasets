@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order addressing a labor dispute between two railroad companies. It invokes the authority of the President under the Railway Labor Act to create a board of investigation. The language is legalistic and procedural. There is no explicit expression of emotions. However, the implicit emotions are sadness and fear. The sadness is due to the dispute and the potential disruption of essential transportation services. The fear is due to the potential interruption of interstate commerce. The other emotions are not present.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

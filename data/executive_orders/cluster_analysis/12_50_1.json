@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents in this cluster primarily concern amendments, revocations, extensions, and modifications of previous executive orders. They cover a wide range of topics, including public health, national security, advisory committees, federal employees, and international cooperation. The sentiment is neutral, as they are legal and administrative directives.",
+    "tags": [
+        "Executive Order Amendments",
+        "Revocations",
+        "Extensions",
+        "Modifications",
+        "Administrative Directives"
+    ],
+    "title": "Adjustments to Existing Executive Directives",
+    "request": {
+        "cluster": 12,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 26123,
+        "output_tokens": 78
+    }
+}

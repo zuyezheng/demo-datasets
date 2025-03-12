@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents in this cluster are all executive orders that modify or revoke previous executive orders. They cover a wide range of topics, from national security and foreign relations to domestic policy and administrative procedures. The sentiment is neutral, as they are simply legal documents.",
+    "tags": [
+        "executive order",
+        "modification",
+        "revocation",
+        "amendment",
+        "policy change"
+    ],
+    "title": "Amending or Revoking Existing Executive Directives",
+    "request": {
+        "cluster": 12,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 11527,
+        "output_tokens": 72
+    }
+}

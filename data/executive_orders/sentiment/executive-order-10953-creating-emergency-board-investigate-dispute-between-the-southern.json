@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses no strong emotions. The language is neutral and factual, focusing on the existence of a dispute, the potential impact on interstate commerce, and the establishment of a board to investigate. Therefore, all emotions should be scored low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

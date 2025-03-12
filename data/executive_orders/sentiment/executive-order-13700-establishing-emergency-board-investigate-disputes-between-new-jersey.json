@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing an emergency board to investigate disputes between New Jersey Transit Rail and certain labor organizations. The language is legal and procedural, with no explicit emotional expression. Therefore, the emotion scores should be low across the board, with a baseline of 1 for emotions that are not significantly present.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

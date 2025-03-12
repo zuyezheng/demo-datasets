@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order invoking emergency authority to combat international drug trafficking. It expresses a sense of urgency and determination to address a serious threat. It does not express explicit emotions, but the context implies concern and resolve. The initial scores reflect a baseline assessment of the emotions conveyed, with adjustments made to reflect the underlying concern and resolve.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 3,
+        "surprise": 2
+    }
+}

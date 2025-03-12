@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal presidential order establishing an emergency board to investigate a dispute. It uses formal language and aims to be objective. There is no explicit expression of emotions. However, the underlying tone suggests a sense of urgency and concern to resolve the dispute, which could be interpreted as mild surprise that the parties have not reached an agreement and slight concern (fear) about the potential consequences of the unresolved dispute. The mention of a dispute could also imply a low level of disgust. The document does not convey joy or sadness.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 2
+    }
+}

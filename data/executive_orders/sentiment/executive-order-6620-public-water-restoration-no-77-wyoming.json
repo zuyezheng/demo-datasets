@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding land use. It revokes a previous order and specifies land descriptions. The language is legal and administrative, with no explicit emotional expression. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication of the emotion being conveyed.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

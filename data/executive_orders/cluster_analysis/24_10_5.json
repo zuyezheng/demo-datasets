@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents are all executive orders, mostly from Franklin D. Roosevelt, that revoke previous orders withdrawing public lands in various states (Colorado, New Mexico, Wyoming, Montana) pending resurveys. The orders specify townships and ranges based on principal meridians. The revocations become effective upon the official filing of the plats of resurvey.",
+    "tags": [
+        "land resurvey",
+        "public land withdrawal",
+        "revocation",
+        "Roosevelt",
+        "Hoover"
+    ],
+    "title": "Revoking Land Withdrawals Pending Resurvey",
+    "request": {
+        "cluster": 24,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 2226,
+        "output_tokens": 92
+    }
+}

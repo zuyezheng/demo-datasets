@@ -1,0 +1,33 @@
+{
+    "analysis": "The documents primarily concern the withdrawal and reservation of public lands, often for specific purposes such as national forests, military use, lookout stations, or other governmental projects. They frequently involve revoking or modifying previous orders related to land use and classification. The documents specify land descriptions using township, range, and section numbers, and often cite the Act of June 25, 1910, as amended, as the legal basis for the actions.",
+    "tags": [
+        "land withdrawal",
+        "public land",
+        "national forest",
+        "military reservation",
+        "lookout station",
+        "reclamation",
+        "soil erosion control",
+        "flood control",
+        "national monument",
+        "air navigation",
+        "grazing",
+        "railroad",
+        "lighthouse",
+        "atomic energy",
+        "homestead",
+        "ranger station",
+        "wildlife refuge",
+        "water supply",
+        "Indian allotment"
+    ],
+    "title": "Public Land Use and Reservation Directives",
+    "request": {
+        "cluster": 20,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 20749,
+        "output_tokens": 140
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order addressing the seizure of assets allegedly stolen by Jean Claude Duvalier. The primary emotion conveyed is a sense of seriousness and determination to address a specific legal and financial issue. There is no explicit expression of joy, sadness, fear, disgust, or surprise. The document is factual and procedural in nature. Therefore, most emotions should be scored low, with a slight emphasis on the seriousness of the matter.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

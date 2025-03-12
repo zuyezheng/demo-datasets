@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This document is an executive order that waives civil service rules to appoint a specific person, Mrs. Selma F. Dinger, to a position in the War Department. The rationale is that she is the widow of a deceased Air Corps pilot. There is no clear ideological tilt, immigration aspect, or impact on federalism. It does not obviously expand executive power, as it is a one-time exception. It doesn't directly address national security vs. civil liberties, economic regulation, or social inclusion in a broad sense. Therefore, most axes should be neutral. However, one could argue that giving preferential treatment based on the service of a spouse leans slightly towards traditional values, so a small negative score on social inclusion might be appropriate.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": -1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing a labor-management committee. The language is formal and neutral, with the goal of promoting economic well-being and industrial peace. There is no strong expression of any particular emotion. Therefore, the initial scores should be low across all emotions. After a second thought, the document expresses a mild sense of joy and hope for a better future, so I will increase the joy score slightly.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

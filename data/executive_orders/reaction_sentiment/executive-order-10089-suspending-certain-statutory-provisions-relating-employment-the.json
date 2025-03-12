@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a legal order regarding employment in the Canal Zone. The tone is formal and bureaucratic. As such, the primary emotions the President wants to elicit are minimal. There is no intention to evoke strong feelings. The document aims for compliance and clarity, not emotional response. Therefore, all emotions should be scored low initially. Upon review, the surprise score could be slightly higher as the order suspends existing provisions, which might cause some surprise, but not significantly.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
+    }
+}

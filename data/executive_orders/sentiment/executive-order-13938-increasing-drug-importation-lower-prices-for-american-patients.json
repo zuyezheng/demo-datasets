@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 3,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document expresses concern about high drug prices and aims to address the issue through importation. There's a sense of determination to lower costs for Americans. It does not express explicit emotions, but it implicitly conveys concern and determination. The initial scores reflect a baseline level of emotions, with slight increases in sadness (due to the problem of high drug prices) and determination (reflected as a low joy score). The revised scores adjust these based on the implicit emotions conveyed.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 4,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and purpose, but it does not express strong emotions. Therefore, the emotion scores should be relatively low, with a slight emphasis on purposefulness rather than any specific emotion. The document is formal and legalistic, so it doesn't express emotions directly. The scores should reflect the implied emotions related to the order's purpose.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

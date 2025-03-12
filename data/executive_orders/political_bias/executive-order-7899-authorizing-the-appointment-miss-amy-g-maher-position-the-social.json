@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": -1
+    },
+    "critique": "This is an executive order from 1938 allowing a specific person to be appointed to a position in the Social Security Board without following civil service rules. \n\n*   **Ideological Tilt:** The Social Security Board itself suggests a slightly liberal tilt due to its association with social welfare programs, but this order itself doesn't directly reflect that. 1\n*   **Immigration Approach:** This order has no bearing on immigration. 0\n*   **Executive Power:** Waiving civil service rules for a specific appointment expands executive power, albeit in a limited way. 2\n*   **Federalism:** The Social Security Board is a federal entity, so the order leans towards federal control. 1\n*   **National Security vs. Civil Liberties:** Civil service rules are related to fair employment practices, so waiving them could be seen as a minor infringement on those principles, but it's not a major national security issue. 0\n*   **Economic Regulation:** The order doesn't directly regulate the economy. 0\n*   **Social Inclusion:** Waiving civil service rules could potentially lead to less diverse hiring practices, but it's not explicitly stated. -1",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 2,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": -1
+    }
+}

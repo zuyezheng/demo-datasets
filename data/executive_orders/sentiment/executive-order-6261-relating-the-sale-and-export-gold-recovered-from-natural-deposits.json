@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order issued by President Roosevelt during the national emergency in 1933. The primary purpose is to authorize the Secretary of the Treasury to manage gold sales and exports. The language is formal and legalistic, with no explicit emotional expression. However, the context of a national emergency might imply a sense of concern or urgency, but this is not directly stated. Therefore, the initial scores will be low across all emotions, with a slight increase in fear and surprise due to the emergency context. After a second thought, the document is very factual and does not convey any emotions. The revised scores will be even lower.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

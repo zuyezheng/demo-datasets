@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It amends previous executive orders related to Puerto Rico and labor relations. The language is legal and procedural, with no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Upon review, the order aims to improve conditions in Puerto Rico and clarify labor relation costs, which could be interpreted as a slight positive sentiment. However, the overall tone remains neutral and formal.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

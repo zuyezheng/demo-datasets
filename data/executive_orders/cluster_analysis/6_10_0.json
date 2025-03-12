@@ -1,0 +1,20 @@
+{
+    "analysis": "The documents in this cluster relate to land use and control by the US government, specifically concerning Native American land, military reservations, and natural resource management. They involve transferring jurisdiction of lands, establishing military reservations, and withdrawing public lands for classification and proposed legislation. The documents also address national emergencies related to human rights abuses, corruption, and technological advancements by countries of concern, as well as labor disputes affecting essential industries and military service obligations.",
+    "tags": [
+        "LandJurisdiction",
+        "MilitaryReservation",
+        "NaturalResources",
+        "NationalEmergency",
+        "LaborDisputes",
+        "MilitaryService"
+    ],
+    "title": "Federal Land Management and National Security",
+    "request": {
+        "cluster": 6,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 53067,
+        "output_tokens": 110
+    }
+}

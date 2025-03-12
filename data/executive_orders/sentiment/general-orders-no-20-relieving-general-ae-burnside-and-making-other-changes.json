@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal military order detailing the relief of several officers from their duties and the assignment of a new commander. The language is neutral and factual, devoid of emotional expression. There is a slight sense of sadness due to the relieving of duty of multiple people. There is no explicit or implicit expression of joy, fear, disgust, or surprise. Therefore, these emotions should be scored as 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is an executive order addressing a labor dispute between air carriers and their employees. As the President, the primary goal is to ensure the continuation of essential transportation services and prevent disruption to interstate commerce. The tone is formal and authoritative, aiming to convey a sense of control and resolution. The emotions the President wants to elicit are likely a sense of calm and assurance that the situation is being handled responsibly. Joy is not a primary emotion here, as it's a serious matter. Sadness is not intended, but there might be some concern about the dispute itself. Anger is not the goal, but some parties might feel it regardless. Fear should be minimized by the actions taken. Disgust is unlikely to be relevant. Surprise is also not a desired emotion; the aim is stability and predictability. Revised scores take into account the need to minimize negative emotions and promote a sense of stability.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

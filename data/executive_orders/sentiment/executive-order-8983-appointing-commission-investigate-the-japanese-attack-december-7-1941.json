@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal presidential order establishing a commission to investigate the Pearl Harbor attack. It expresses a serious and determined tone, but avoids overt emotional displays. Therefore, most emotions should be scored low, with a slight emphasis on sadness and anger due to the context of the attack.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

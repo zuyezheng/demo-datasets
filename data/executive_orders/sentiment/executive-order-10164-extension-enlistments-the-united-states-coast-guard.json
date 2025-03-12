@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal order extending enlistments in the United States Coast Guard. The language is legal and official. There is no explicit expression of emotions. However, the context of extending enlistments during a time of potential conflict might implicitly convey a sense of seriousness and perhaps a hint of concern or resolve. Given the formal nature, the emotional intensity is likely to be low across the board. I will assign a baseline score of 1 for most emotions, with a slightly higher score for sadness and fear due to the context of extending enlistments.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal order from the President during wartime. It primarily conveys a sense of urgency and determination to ensure the successful prosecution of the war. There is a sense of seriousness and resolve, but emotions like joy, surprise, and disgust are not relevant in this context. Fear and sadness might be subtly present due to the war context, but they are not explicitly emphasized. The initial scores reflect a baseline assessment, and the revised scores adjust based on the document's specific content and purpose.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 4,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

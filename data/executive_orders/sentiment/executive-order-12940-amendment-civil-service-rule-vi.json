@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It primarily focuses on administrative and legal matters, specifically concerning positions within the Department of Agriculture. The language is formal and legalistic, with no overt expression of emotions. Therefore, the initial scores should be low across all emotions. Considering the formal nature, a baseline of 1 is appropriate where there isn't enough information.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

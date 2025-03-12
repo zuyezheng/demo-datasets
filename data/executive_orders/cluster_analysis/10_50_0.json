@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents primarily concern the modification, revocation, or establishment of land reservations and withdrawals for various purposes, including power sites, water reserves, national parks, military uses, and other public uses. They specify land descriptions using the Public Land Survey System (PLSS) and cite the legal authority under which the actions are taken, mainly the act of June 25, 1910, as amended. The documents involve different states and meridians, and the actions are taken by Presidents Roosevelt and Hoover.",
+    "tags": [
+        "Land Management",
+        "Public Land",
+        "Land Reservation",
+        "Land Withdrawal",
+        "Public Land Survey System",
+        "Roosevelt",
+        "Hoover"
+    ],
+    "title": "Land Management Actions",
+    "request": {
+        "cluster": 10,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 15344,
+        "output_tokens": 125
+    }
+}

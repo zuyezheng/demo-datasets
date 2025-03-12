@@ -1,0 +1,20 @@
+{
+    "analysis": "The documents consist of presidential orders that waive civil service rules for specific individuals, often widows or family members of deceased government employees or veterans. The orders cite the Civil Service Act as the authority for these waivers. A common theme is providing support to those in need due to the loss or disability of a family member who served the government. The sentiment is generally compassionate, aiming to assist individuals facing hardship.",
+    "tags": [
+        "Civil Service Waiver",
+        "Family Support",
+        "Government Employee",
+        "Widow",
+        "Disability",
+        "Hardship"
+    ],
+    "title": "Civil Service Waivers for Families of Government Employees",
+    "request": {
+        "cluster": 21,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 6643,
+        "output_tokens": 105
+    }
+}

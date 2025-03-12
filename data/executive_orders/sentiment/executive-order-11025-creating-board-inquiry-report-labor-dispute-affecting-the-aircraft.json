@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal declaration regarding a labor dispute. It invokes legal authority and establishes a Board of Inquiry. The language is formal and objective, with no explicit emotional expression. However, the situation implies a sense of concern due to the potential impact on national health and safety. Therefore, a low level of concern or worry (fear) might be inferred. All other emotions are not explicitly present and should be scored as 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

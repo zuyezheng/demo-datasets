@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order amending a previous order. It specifies changes to reporting deadlines and termination dates for the President's Commission on Strategic Forces. The language is legal and procedural, with no explicit emotional content. Therefore, all emotions should be scored low, with a default score of 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

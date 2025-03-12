@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 3,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal address to the people of Cuba from the President of the United States. The tone is authoritative and paternalistic. The primary emotion conveyed is a sense of responsibility and control, with an underlying implication of potential instability in Cuba. There is a slight sense of hope for the future, but it is tempered by the need for US supervision. There isn't clear emotion expressed, so I will default most scores to 1, except for sadness which could be interpreted as the 'disorganized condition' of the island.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 3,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

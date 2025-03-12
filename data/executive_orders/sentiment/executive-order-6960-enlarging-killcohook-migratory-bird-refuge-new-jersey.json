@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing a bird refuge. It primarily uses legal and technical language. There is no explicit emotional expression. However, the act of protecting migratory birds could be interpreted as a sign of joy and care for nature, but this is implicit. The prohibitions against disturbing wildlife and damaging property suggest a concern that such actions might occur, implying a mild sense of disgust or disapproval of such potential actions. The penalties mentioned could induce a sense of fear. Given the formal nature, the emotional intensity is likely low.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

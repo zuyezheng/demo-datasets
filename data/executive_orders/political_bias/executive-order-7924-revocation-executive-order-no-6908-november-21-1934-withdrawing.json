@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order concerns land use in Alaska, specifically opening up previously withdrawn land for homesteading, initially prioritizing ex-service men. It revokes a previous order from 1934. There's a slight tilt towards favoring a specific group (ex-service men) for a limited time, but generally aims to open land for public use. It doesn't directly address ideological issues, immigration, executive power in a broad sense, or national security. It has a slight impact on federalism by managing federal lands, and a minor impact on economic regulation by opening land for private use. There's a very slight nod towards social inclusion by prioritizing ex-service men, but it's not a major factor.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This document revokes part of an executive order related to a phosphate reserve. It's a very specific action concerning land use and resource management. There's no clear indication of ideological tilt, immigration stance, executive power grab, federalism shift, security vs. liberty concerns, or social inclusion implications. The only axis that seems relevant is economic regulation, and even there, the impact is minimal. Revoking the order could be seen as slightly deregulatory, but it's hard to say without more context. Therefore, most axes will be scored as neutral (0).",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    }
+}

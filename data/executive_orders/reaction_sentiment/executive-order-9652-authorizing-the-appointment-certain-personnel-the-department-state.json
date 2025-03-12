@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 7,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 4
+    },
+    "critique": "The document is an executive order regarding the appointment of military personnel to civilian service in the Department of State. The primary emotion the President wants to elicit is likely joy that veterans are being given opportunities for civilian service. There might also be a sense of surprise that military personnel are being appointed to civilian positions. There is not enough information to determine the intensity of anger, fear, disgust, or sadness, so I will assign a score of 1 for each of those emotions. The initial scores are joy: 7, surprise: 4, anger: 1, fear: 1, disgust: 1, and sadness: 1. Upon further reflection, the document is primarily administrative. The president is not trying to elicit strong emotions, but rather to efficiently transfer personnel. Therefore, the scores should be lower. The revised scores are joy: 3, surprise: 2, anger: 1, fear: 1, disgust: 1, and sadness: 1.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

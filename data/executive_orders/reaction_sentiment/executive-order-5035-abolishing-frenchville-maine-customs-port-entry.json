@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order that abolishes Frenchville as a port of entry. The tone is formal and administrative. The primary emotion the President wants to elicit is probably not strong, but perhaps a sense of acceptance or understanding of the need for this change. There's no explicit emotional language. Therefore, the initial scores would be low across the board. However, upon further reflection, the President might anticipate some sadness or disappointment from those directly affected by the closure, but also perhaps a bit of surprise from the general public. The critique is that the initial scores were too low and didn't account for potential negative emotions from those directly impacted.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

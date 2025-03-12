@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a directive from the President to the Marshal of the United States for the District of Rhode Island. The primary emotion the President wants to elicit is a sense of compliance and authority. There isn't a strong emphasis on emotions like joy, sadness, anger, fear, disgust, or surprise. The tone is formal and authoritative, aiming for obedience and execution of the order. Therefore, most emotions would be low, with perhaps a slight emphasis on reducing fear or surprise by clearly stating the purpose.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

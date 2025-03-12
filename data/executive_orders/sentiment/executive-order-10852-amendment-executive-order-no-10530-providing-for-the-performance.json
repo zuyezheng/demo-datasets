@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order, focusing on amending a previous order. The language is legal and procedural, with no explicit emotional expression. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication of the emotion. There is no indication of joy, sadness, fear, disgust, or surprise. The initial and revised scores should be the same, as the critique does not suggest any changes.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

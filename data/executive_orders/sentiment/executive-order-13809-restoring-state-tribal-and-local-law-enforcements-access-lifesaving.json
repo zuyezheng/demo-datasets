@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It revokes a previous executive order and provides general provisions. The language is formal and legalistic. There is no explicit expression of emotions. However, the act of revoking a previous order might imply a sense of disapproval or disagreement with the previous policy. However, given the formal nature, I will keep the initial scores low and revise them slightly to reflect a hint of disapproval.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

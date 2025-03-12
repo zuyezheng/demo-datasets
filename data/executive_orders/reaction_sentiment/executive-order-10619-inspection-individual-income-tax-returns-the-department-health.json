@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding tax return inspections. The primary goal is efficient administration, not eliciting strong emotions. The tone is neutral and legalistic. Initial scores reflect this, with low values across all emotions. Revised scores remain low, acknowledging a slight potential for surprise due to the order's specific nature.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "analysis": "The documents primarily concern the modification, revocation, or creation of land reserves (power sites, water reserves, petroleum reserves, potash reserves) and withdrawals for various purposes (highway construction, flood control, national monument consideration) across different states (Idaho, Utah, Montana, Nevada, New Mexico, California). They involve specific land descriptions (township, range, section, lots) and reference acts of Congress related to land management. The sentiment is neutral, as they are legal and administrative orders.",
+    "tags": [
+        "Land Management",
+        "Land Reserve",
+        "Revocation",
+        "Modification",
+        "Withdrawal",
+        "Public Lands",
+        "Geographic Locations",
+        "Resource Management"
+    ],
+    "title": "Land Management Actions",
+    "request": {
+        "cluster": 10,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 2917,
+        "output_tokens": 119
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal announcement about changes to positions within the Executive Schedule. The tone is neutral and administrative. The primary goal is to inform about the changes, not to elicit strong emotions. Therefore, the initial scores should reflect this neutrality, with low values for all emotions. Considering the lack of emotional language, all initial scores are set to 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

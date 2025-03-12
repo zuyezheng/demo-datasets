@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is an executive order regarding land use in Alaska. As the President, the primary emotion I want to elicit is a sense of confidence and assurance that the government is functioning efficiently and effectively. The order itself is quite procedural and specific, so strong emotions are unlikely. However, a sense of trust and perhaps mild satisfaction that infrastructure projects are being facilitated could be present. Joy, sadness, anger, fear, and disgust are unlikely to be significantly evoked. Surprise might be present at a low level, as people may not expect such specific orders. Initial scores: Joy: 1, Sadness: 1, Anger: 1, Fear: 1, Disgust: 1, Surprise: 2. Upon review, the language is very formal and administrative. The goal is to convey authority and efficiency, not to evoke strong emotions. The surprise score should be lowered as the document is not intended to be surprising, but rather a routine administrative action.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

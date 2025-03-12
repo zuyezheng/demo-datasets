@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order creating a board to investigate a labor dispute. It expresses concern about potential disruption to interstate commerce and transportation services. The language is formal and legalistic. Initial scores are based on this assessment, with sadness reflecting the concern over the dispute and potential disruption, and fear reflecting the potential impact on transportation. Surprise, joy, disgust are minimal. Revised scores refine these based on the lack of strong emotional language.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

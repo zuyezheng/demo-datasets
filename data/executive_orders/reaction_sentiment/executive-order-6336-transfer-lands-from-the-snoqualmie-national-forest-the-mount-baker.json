@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a legal order transferring land between two national forests. The tone is formal and administrative. The primary goal is efficient land management, not eliciting strong emotions. Therefore, most emotions should be scored low. Joy might be present in a very mild form for those who benefit from the transfer, but it's not a primary goal. Sadness, anger, fear, and disgust are unlikely to be intended or present. Surprise is possible, but not probable.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding the absence of territorial officers. It expresses a sense of duty and expectation, with a hint of disapproval towards frequent absences. It does not explicitly express strong emotions like joy, sadness, fear, or disgust. Surprise is also not a prominent emotion. The primary emotion conveyed is a sense of seriousness and expectation.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

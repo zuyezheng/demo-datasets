@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It invokes legal authority and amends a previous order regarding security requirements for government employment. The language is formal and legalistic. There is no explicit expression of emotion. However, the order addresses potential disloyalty or misconduct, which could imply a sense of concern or seriousness. Given the formal nature, the emotional intensity is likely to be low across all emotions.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

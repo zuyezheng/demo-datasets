@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 3
+    },
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses a sense of urgency and importance due to the potential disruption of essential transportation services. However, it maintains a neutral tone, avoiding strong emotional expressions. The presence of 'disputes' and the potential for disruption might suggest a low level of fear and sadness, while the action taken to resolve the dispute could indicate a slight sense of hope or relief, which translates to a low level of joy. There's a hint of surprise that the disputes have reached this level, requiring presidential intervention, but it's not a dominant emotion. Disgust and anger are not apparent in the text.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 3
+    }
+}

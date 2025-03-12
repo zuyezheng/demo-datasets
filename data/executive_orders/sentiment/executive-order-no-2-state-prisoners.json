@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a military order from the War Department. It outlines the appointment of a commission to examine the cases of state prisoners. The language is formal and legalistic. There is a sense of seriousness and urgency due to the context of rebellion and public safety. However, there is no explicit expression of emotions like joy, sadness, anger, fear, disgust, or surprise. The order aims to be objective and procedural. Therefore, most emotions should be scored low, with a slight emphasis on fear and sadness due to the context of war and imprisonment.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

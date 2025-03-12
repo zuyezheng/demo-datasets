@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order addressing a labor dispute. As the President, the primary goal is to resolve the dispute and maintain essential transportation services. The tone is formal and authoritative. The language is legalistic and focuses on the facts of the situation. The context is a potential disruption of interstate commerce. Initial scores: Joy: 1 (no explicit joy), Sadness: 2 (concern about disruption), Anger: 1 (no explicit anger), Fear: 3 (concern about disruption of essential services), Disgust: 1 (no explicit disgust), Surprise: 1 (no explicit surprise). Critique: The initial scores seem reasonable given the nature of the document. However, the fear score could be slightly higher to reflect the potential impact of the disruption. Revised scores: Joy: 1, Sadness: 2, Anger: 1, Fear: 4, Disgust: 1, Surprise: 1",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

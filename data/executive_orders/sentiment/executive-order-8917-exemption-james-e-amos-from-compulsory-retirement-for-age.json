@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding the exemption of an FBI agent from compulsory retirement. The language is legal and procedural. There is no explicit emotional expression. However, the act of extending the agent's service could imply a sense of value or reliance, which might be interpreted as a low level of joy or appreciation. Given the formal nature, other emotions like sadness, fear, disgust, and surprise are unlikely to be present. I will assign a baseline score of 1 for emotions that are not explicitly present and a slightly higher score for joy to reflect the implied appreciation.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

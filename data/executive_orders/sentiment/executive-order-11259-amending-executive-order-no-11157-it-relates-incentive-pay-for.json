@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It amends a previous order regarding minimum requirements for military personnel, specifically addressing waivers for those engaged in combat operations. The language is legal and procedural, with no explicit emotional expression. Therefore, all emotions should be scored low, with a baseline of 1 due to the formal nature of the document.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

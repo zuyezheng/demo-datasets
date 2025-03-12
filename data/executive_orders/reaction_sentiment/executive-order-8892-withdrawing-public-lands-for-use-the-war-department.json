@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 7,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is an executive order withdrawing public lands for use as an aerial gunnery range. As the President, the primary emotion I want to elicit is a sense of security and confidence in national defense. The tone is authoritative and decisive. There is a sense of urgency due to the mention of the 'present national defense emergency'. Joy is not a primary emotion here, so it gets a low score. Sadness is also not a primary emotion, but there might be some sadness from those who lose access to the land, so it gets a low score. Anger might be present from those who oppose the land withdrawal, so it gets a moderate score. Fear is a key emotion, as the order is meant to address a national defense emergency, so it gets a high score. Disgust is not a primary emotion, so it gets a low score. Surprise is not a primary emotion, so it gets a low score.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 8,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

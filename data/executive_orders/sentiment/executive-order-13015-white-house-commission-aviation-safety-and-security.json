@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing a commission on aviation safety and security. The language is formal and legalistic. There is no explicit expression of emotions. However, the establishment of the commission suggests a concern for safety and security, which could be interpreted as a response to a potential threat or past incidents. Therefore, a low level of fear and concern might be inferred. All other emotions are not explicitly conveyed, so they should be scored as 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

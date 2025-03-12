@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order outlining a government-wide program to improve productivity. It focuses on efficiency, measurement, and reporting. There's a sense of optimism and determination to improve government services, but it's conveyed in a very formal and measured way. Therefore, joy and surprise should be low. Sadness, fear, and disgust are not really present.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

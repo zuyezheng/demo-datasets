@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order creating a board to investigate a dispute between a railroad and its employees. The language is legalistic and factual. There is no strong indication of any particular emotion being conveyed. A baseline level of sadness, fear, disgust, joy, and surprise might be present simply due to the nature of a dispute and the need for intervention, but these are minimal. Therefore, I will assign low scores across the board initially. After further consideration, the formal and neutral tone suggests even lower scores are appropriate, reflecting the document's objective nature.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

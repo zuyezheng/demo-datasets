@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents primarily concern the transfer of land between different entities, such as national forests, government departments, and administrations. Some documents also address labor disputes within the railroad industry and the creation of boards to investigate these disputes. The sentiment is neutral, as the documents are factual and administrative in nature.",
+    "tags": [
+        "Land Transfer",
+        "National Forests",
+        "Labor Disputes",
+        "Railroad Industry",
+        "Government Administration"
+    ],
+    "title": "Land Management and Labor Board Establishment",
+    "request": {
+        "cluster": 4,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 6796,
+        "output_tokens": 79
+    }
+}

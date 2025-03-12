@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding the closure of government offices as a mark of respect for Gerald R. Ford. It expresses respect and formality, but doesn't strongly convey any specific emotion. Therefore, the initial scores should be relatively low across all emotions. The revised scores will reflect a slight increase in sadness due to the occasion of mourning, but otherwise remain low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 5,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order addressing a labor dispute. It aims to prevent disruption to interstate commerce. The language is legalistic and neutral, with no explicit emotional expression. However, the implicit emotions are: A sense of urgency and concern (fear) about the potential disruption of essential transportation services. A sense of disapproval (disgust) of the dispute and its potential consequences. A sense of determination (joy) to resolve the dispute and maintain stability. A sense of seriousness (sadness) about the situation and its potential impact. A sense of unexpectedness (surprise) about the dispute and its potential consequences.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 1
+    }
+}

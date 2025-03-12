@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal letter from the President to the United States Civil Service Commission. The President is making a suggestion regarding civil-service rules and requesting a plan for testing the merits of certain cases. The tone is serious and professional. There is a hint of concern about potential misuse of the rules and a desire for uniformity and fairness. Given the formal nature of the document, the emotion scores should be relatively low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 2
+    }
+}

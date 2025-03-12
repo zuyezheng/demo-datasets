@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order terminates the President's War Relief Control Board and directs the Secretary of State to liquidate its activities. It's difficult to assess a strong ideological tilt without knowing the specifics of the board's activities, but given it's a war relief board, it likely had a moderate, centrist approach. The order doesn't directly address immigration, executive power, federalism, national security vs. civil liberties, economic regulation, or social inclusion. Therefore, most of these axes should be scored as neutral. The termination of a board could be seen as a slight reduction in government intervention, but it's not significant enough to warrant a strong negative score on economic regulation.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    }
+}

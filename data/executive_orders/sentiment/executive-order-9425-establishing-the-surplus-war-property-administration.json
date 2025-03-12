@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order establishing the Surplus War Property Administration. The primary emotion conveyed is one of authority and decisiveness, with a focus on efficient management of resources during wartime. There is a sense of urgency and importance, but emotions like joy, sadness, fear, disgust, and surprise are not explicitly present. The language is formal and legalistic, aimed at clarity and precision rather than emotional expression. Therefore, most emotions should be scored low, with a slightly higher score for authority/importance which translates to a low level of surprise that such an order is being given during war.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

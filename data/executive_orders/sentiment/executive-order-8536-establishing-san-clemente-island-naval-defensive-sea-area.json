@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order amending a previous order regarding a defensive sea area. The language is legal and precise, with no explicit emotional content. Therefore, the initial scores should be very low across all emotions. Considering the formal nature, a baseline of 1 is appropriate where no information is provided.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

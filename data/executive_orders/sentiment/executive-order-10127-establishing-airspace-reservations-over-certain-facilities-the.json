@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order establishing airspace reservations for national defense purposes. It outlines specific geographic coordinates and restrictions on air navigation. The language is legal and technical, with no explicit emotional expression. However, the context of national defense and the mention of penalties for violations could implicitly evoke a sense of seriousness and caution. Therefore, I will assign low scores for fear and surprise, and a minimal score for sadness. Joy and disgust are not relevant in this context.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

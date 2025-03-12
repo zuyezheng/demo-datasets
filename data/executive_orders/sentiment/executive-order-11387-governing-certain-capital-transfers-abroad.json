@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order addressing international finance during a declared national emergency. The primary emotion conveyed is a sense of urgency and resolve to protect the economic interests of the United States. There is no explicit expression of joy, sadness, fear, or disgust. Surprise is also not a prominent emotion, as the order seems to be a planned response to an existing situation. The order conveys a sense of seriousness and determination. Therefore, I will assign low scores to joy, sadness, fear, disgust, and surprise. I will assign a slightly higher score to fear because the order is issued in response to a 'national emergency'.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

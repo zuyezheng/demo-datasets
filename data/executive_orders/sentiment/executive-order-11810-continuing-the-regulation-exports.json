@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding export controls. It invokes legal authorities and describes the continuation of existing regulations. The language is legalistic and procedural. There is no explicit expression of emotions. However, implicit emotions can be inferred from the context. The emphasis on national security and the protection of the domestic economy suggests a concern for potential threats and vulnerabilities. The reference to 'national emergencies' and 'inflationary impact' could be interpreted as conveying a sense of urgency and seriousness. However, the overall tone is neutral and objective, aiming to establish legal and administrative procedures. Therefore, the initial scores are set to low values, with slight increases for fear and sadness due to the implicit concerns.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

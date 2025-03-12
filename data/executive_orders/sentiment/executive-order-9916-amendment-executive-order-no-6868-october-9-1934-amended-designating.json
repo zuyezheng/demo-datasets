@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It primarily concerns legal and administrative matters related to housing in the District of Columbia. The language is formal and objective, with no explicit emotional expression. Therefore, the scores should be low across all emotions. Considering it is a formal document, I will assign a baseline score of 1 for all emotions to reflect the minimal emotional presence inherent in such documents.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

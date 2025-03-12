@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It lists a number of advisory committees that are being continued. The language is very formal and legalistic. There is no strong emotion conveyed in this document. Most emotions should be scored as 1, indicating a lack of strong emotional content. There might be a slight sense of joy in continuing these committees, but it's very minimal.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

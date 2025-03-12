@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding land withdrawal and reservation. It uses legal and administrative language. There is no explicit emotional expression. Therefore, all emotions should be scored low. Considering it is a formal document, a baseline score of 1 is appropriate for all emotions in the absence of evidence to the contrary.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

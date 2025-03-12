@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It expresses a desire to promote youth sports and fitness. There is a sense of optimism and purpose, but it is not strongly conveyed. Therefore, the joy score should be low. There is a mention of declining sports participation, which introduces a hint of sadness, but it's not the primary focus. There's no explicit anger, fear, disgust, or surprise expressed in the document. The scores for these emotions should be minimal.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order detailing organizational changes within the national security apparatus. The language is precise and legalistic, devoid of emotional expression. Therefore, all emotions are scored low, with a baseline of 1 to indicate minimal presence due to the formal nature of the document.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

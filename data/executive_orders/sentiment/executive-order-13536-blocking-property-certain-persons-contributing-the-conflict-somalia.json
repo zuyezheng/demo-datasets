@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal declaration of a national emergency regarding the situation in Somalia. It invokes legal authorities and outlines specific actions to be taken. The primary emotion conveyed is concern and a sense of urgency due to the threat to national security. There is a sense of seriousness and determination to address the issue. Given the formal nature, strong emotions are unlikely. The document expresses concern (fear) about the security situation, but it's presented in a formal, measured tone. There's no explicit joy, sadness, disgust, or surprise expressed. Therefore, those emotions should be scored low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

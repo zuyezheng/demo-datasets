@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal letter from the Civil Service Commission to the President, recommending a change in the appointment process for money tellers. The tone is professional and objective. There's a hint of frustration about the difficulty of finding 'experts' and the pressure the department faces due to the noncompetitive nature of the positions. However, the overall emotional intensity is low. Therefore, joy, sadness, fear, disgust and surprise will be scored low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

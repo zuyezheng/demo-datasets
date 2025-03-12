@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a simple amendment to an existing executive order, appointing someone to a position. The tone is formal and administrative. There's no explicit emotional appeal. The primary emotion the President might want to elicit is perhaps a sense of confidence or stability in the government's operations, but this is very subtle. Therefore, most emotions should be scored low. I will start with initial scores of joy: 1, sadness: 1, anger: 1, fear: 1, disgust: 1, surprise: 1. Then I will revise the scores to reflect the subtle confidence.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

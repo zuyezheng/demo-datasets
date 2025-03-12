@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order regarding the exportation of articles and materials related to national defense. It is primarily informational and regulatory in nature. There is no strong emotional language used. Therefore, the scores for all emotions should be relatively low. I will assign a baseline score of 1 for most emotions, as there isn't enough information to suggest a higher score. A slightly higher score might be assigned to 'surprise' if the reader is unfamiliar with such orders, but overall, the emotional content is minimal.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

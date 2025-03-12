@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents consist of official communications, orders, and proclamations issued by U.S. Presidents and government officials. The common themes include military actions, appointments, infrastructure control during wartime, expressions of gratitude for military achievements, and legal and political actions related to states and territories. The sentiment is generally formal and authoritative.",
+    "tags": [
+        "Military",
+        "Appointments",
+        "Infrastructure",
+        "Gratitude",
+        "Legal Actions"
+    ],
+    "title": "Military Actions, Appointments, and Legal Directives",
+    "request": {
+        "cluster": 0,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 1901,
+        "output_tokens": 82
+    }
+}

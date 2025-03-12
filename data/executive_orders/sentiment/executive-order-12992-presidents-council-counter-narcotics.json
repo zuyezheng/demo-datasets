@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing the President's Council on Counter-Narcotics. It outlines the structure, membership, functions, and administration of the council. The language is formal and legalistic, with no explicit emotional expression. However, the establishment of such a council suggests a serious concern about drug control, which could imply a sense of concern or determination. Given the formal nature, the emotional intensity is likely to be low across all emotions. The initial scores reflect this baseline assessment.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

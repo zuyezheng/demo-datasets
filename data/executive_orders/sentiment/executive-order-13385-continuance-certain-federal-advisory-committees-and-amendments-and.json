@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It primarily deals with the continuation, amendment, and revocation of previous executive orders related to advisory committees and other governmental functions. The language is legalistic and procedural, with no overt expression of emotions. Therefore, the scores should be low across the board, with a baseline of 1 for each emotion due to the presence of formal language.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

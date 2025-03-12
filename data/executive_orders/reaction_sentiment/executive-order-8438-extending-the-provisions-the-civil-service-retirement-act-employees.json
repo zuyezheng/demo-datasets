@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal announcement extending retirement act provisions to specific employees. The tone is official and procedural, not designed to evoke strong emotions. The primary goal is administrative efficiency and fairness within the government. Therefore, the expected emotional response is minimal. Initial scores are set to reflect this, with slight positive values for joy and surprise due to the benefit conferred, and minimal values for other emotions. The critique acknowledges the lack of emotional content and suggests adjusting the scores to be even lower, reflecting the document's purely administrative nature.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

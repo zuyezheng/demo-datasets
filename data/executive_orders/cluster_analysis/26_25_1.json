@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents in this cluster establish committees, boards, and offices to address specific issues. They define the composition, functions, and responsibilities of these entities, often involving multiple departments and agencies. The documents aim to coordinate efforts, provide guidance, and make recommendations to the President on various policy matters.",
+    "tags": [
+        "committee",
+        "coordination",
+        "policy",
+        "recommendations",
+        "interagency"
+    ],
+    "title": "Presidential Committees and Policy Coordination",
+    "request": {
+        "cluster": 26,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 21591,
+        "output_tokens": 75
+    }
+}

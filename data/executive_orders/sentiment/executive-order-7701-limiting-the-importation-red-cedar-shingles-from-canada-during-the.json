@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding the import of red cedar shingles from Canada. It cites legal statutes and provides specific quantities. There is no strong emotional language used. Therefore, the emotion scores should be relatively low across all categories. Considering this is a formal document, I will give a baseline score of 1 for all emotions except for sadness which I will give a score of 2 because the document is about limiting imports which might cause some sadness.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

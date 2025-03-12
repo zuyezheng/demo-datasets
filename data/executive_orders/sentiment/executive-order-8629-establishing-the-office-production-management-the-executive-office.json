@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order outlining the functions and duties of the Office of Production Management during a national emergency. The primary emotion conveyed is a sense of urgency and determination to mobilize resources for national defense. There is a hint of fear related to the emergency, but the document mainly focuses on the practical steps to address the situation. There is no information about joy, disgust, or surprise. The document is formal, so the baseline should be low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

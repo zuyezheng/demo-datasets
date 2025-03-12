@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order addressing a labor dispute at an oil field during wartime. The primary emotion conveyed is a sense of urgency and determination to maintain the war effort. There's a hint of concern (fear) that the labor dispute could impede the war effort, and a sense of resolve (lack of joy/sadness) to resolve the issue. There isn't any surprise or disgust.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

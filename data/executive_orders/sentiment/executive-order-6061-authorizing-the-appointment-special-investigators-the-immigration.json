@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal order for appointments. It expresses no explicit emotions. The recommendation by the Secretary of Labor suggests a positive sentiment towards the appointees' qualifications and service, but this doesn't translate to a strong emotional expression in the document itself. Therefore, most emotions should be scored low, with a slight emphasis on joy due to the positive recommendation.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

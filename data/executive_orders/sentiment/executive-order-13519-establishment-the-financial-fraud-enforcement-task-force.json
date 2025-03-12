@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing a task force to combat financial fraud. The primary emotion conveyed is a sense of seriousness and determination to address the issue. There's a hint of concern about the financial crisis, but it's mainly focused on the legal and administrative aspects. Therefore, the scores should reflect a low level of negative emotions and a moderate level of determination.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 1
+    }
+}

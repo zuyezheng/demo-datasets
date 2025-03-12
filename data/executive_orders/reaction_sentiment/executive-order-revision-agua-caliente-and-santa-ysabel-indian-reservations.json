@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 4,
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 5
+    },
+    "critique": "The document cancels parts of a previous order regarding two Indian Reservations. The tone is formal and legalistic. The primary emotion the President wants to elicit is likely a sense of order and decisiveness, not strong emotions. The actions themselves (canceling parts of an order) don't inherently evoke strong emotions. Therefore, the initial scores should be relatively low across the board. The critique is that the initial scores are too high, especially for emotions like joy and sadness, which are unlikely to be relevant here. Revised scores should reflect a more neutral emotional impact.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

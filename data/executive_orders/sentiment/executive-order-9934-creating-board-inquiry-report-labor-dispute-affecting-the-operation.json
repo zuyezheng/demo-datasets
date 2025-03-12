@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal declaration regarding a labor dispute. It expresses concern about the potential impact of the dispute on national safety. The primary emotion conveyed is concern, which can be interpreted as a low level of fear and sadness. There's no explicit joy, disgust, or surprise expressed. The initial scores reflect this assessment, with low scores for fear and sadness and minimal scores for the other emotions. The revised scores slightly adjust the fear and sadness levels to better reflect the underlying concern conveyed in the document.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 4,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

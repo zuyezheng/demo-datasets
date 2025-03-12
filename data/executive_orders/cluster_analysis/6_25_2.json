@@ -1,0 +1,24 @@
+{
+    "analysis": "The documents in this cluster primarily concern executive actions related to national security, foreign policy, economic policy, trade, labor, and public health. They involve the use of executive authority to implement policies, impose sanctions, establish committees, and address national emergencies. The documents also reflect the government's role in regulating various sectors and ensuring ethical conduct within the executive branch.",
+    "tags": [
+        "national security",
+        "foreign policy",
+        "economic policy",
+        "trade",
+        "labor",
+        "public health",
+        "executive action",
+        "regulation",
+        "ethics",
+        "national emergency"
+    ],
+    "title": "Executive Actions on Security, Trade, and Public Welfare",
+    "request": {
+        "cluster": 6,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 80631,
+        "output_tokens": 102
+    }
+}

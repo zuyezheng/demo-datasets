@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order terminating a wage and price program. The language is legal and procedural. There is no explicit expression of emotion. Therefore, the initial scores should be very low across all emotions. Considering that the document terminates regulatory burdens, there might be a hint of joy, but it's very subtle. Given the formal nature, I will keep the initial scores at 1 across the board and revise them slightly to reflect the subtle joy.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

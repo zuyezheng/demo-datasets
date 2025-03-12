@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order delegating authority to the United States Civil Service Commission. The tone is formal and legalistic. There is no explicit expression of emotion. The primary goal is to efficiently delegate authority, not to elicit a particular emotional response. Therefore, all emotions should be scored low initially. Upon further reflection, the delegation of power could inspire a small amount of joy in those who support the civil service and a small amount of surprise that the president is delegating power. The other emotions remain very low.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order allocating funds to contractors affected by the National Industrial Recovery Act. The primary emotion conveyed is a sense of purpose and resolve to address the economic challenges of the time. There's a hint of relief that contractors will be able to complete their contracts, but overall, the tone is very formal and measured. Therefore, joy, sadness, fear, disgust and surprise should be scored low, while purpose should be scored higher.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents are all executive orders that waive civil service rules for specific individuals, often citing their qualifications, experience, or hardship circumstances such as being a widow of a government employee or veteran. The appointments span various departments and agencies.",
+    "tags": [
+        "Civil Service Waiver",
+        "Appointments",
+        "Hardship",
+        "Qualifications",
+        "Government Service"
+    ],
+    "title": "Civil Service Appointments Based on Merit and Hardship",
+    "request": {
+        "cluster": 21,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 1541,
+        "output_tokens": 69
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents in this cluster are all executive orders that amend or extend previous executive orders or directives. They cover a range of topics, including military pay, communication regulations during wartime, advisory committees, foreign service regulations, disaster relief, hostage compensation, information technology, nuclear cooperation, federal holidays, and trade policy. The common thread is that they all involve modifications or extensions of existing presidential directives.",
+    "tags": [
+        "amendments",
+        "executive orders",
+        "extensions",
+        "presidential directives",
+        "modifications"
+    ],
+    "title": "Amending and Extending Existing Executive Directives",
+    "request": {
+        "cluster": 12,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 6263,
+        "output_tokens": 98
+    }
+}

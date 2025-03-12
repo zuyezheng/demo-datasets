@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal waiver issued by the President. It invokes legal authority and makes a formal declaration. There is no explicit expression of emotions. However, the act of waiving a restriction could imply a sense of optimism or anticipation, but this is very subtle. Given the formal nature, a baseline score of 1 is appropriate for most emotions. A slightly higher score might be considered for joy or surprise, but without more context, it's best to remain conservative.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding land allocation. It primarily serves an administrative function and does not inherently express strong emotions. The cancellation of the order might evoke disappointment or frustration in affected parties, but the document itself remains neutral. Therefore, most emotions should be scored low, with a slight consideration for potential negative emotions due to the cancellation.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

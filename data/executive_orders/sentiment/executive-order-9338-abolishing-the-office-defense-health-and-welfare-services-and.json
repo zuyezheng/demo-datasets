@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding the transfer of health and welfare services during a war emergency. The language is legalistic and bureaucratic. There is no explicit expression of emotions. However, the context of a war emergency might imply some level of concern or seriousness. I will assign low scores to sadness and fear to reflect the seriousness of the situation, but otherwise, I will assign a score of 1 to all other emotions.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

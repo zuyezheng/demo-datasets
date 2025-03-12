@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 4,
+        "surprise": 1
+    },
+    "critique": "The document is a formal military correspondence and presidential review of a court of inquiry. The primary emotions conveyed are related to disapproval and a call for further investigation. There's a sense of disappointment in the court's initial findings and a need for more clarity and precision. There isn't strong evidence of joy, fear, or surprise. Disgust is present in the disapproval of the court's handling of the matter, and sadness is minimal. The tone is critical and corrective.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 5,
+        "surprise": 1
+    }
+}

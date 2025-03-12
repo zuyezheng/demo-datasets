@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a legal order about land withdrawal. The primary goal is to enact policy, not to elicit emotions. However, some emotions might be indirectly related. Joy and surprise are unlikely. There might be a little sadness for those who wanted to settle the land, and a little disgust and fear from those who oppose the order. The tone is formal and factual, not emotional. Revised scores will reflect the lack of emotional intent.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

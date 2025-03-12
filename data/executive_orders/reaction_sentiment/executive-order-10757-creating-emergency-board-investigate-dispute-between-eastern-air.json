@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order addressing a labor dispute between airlines and their employees. As the President, the primary goal is to ensure the continuation of essential transportation services and prevent disruption to interstate commerce. The tone is formal and authoritative, aiming to convey a sense of control and resolution. The language is legalistic and precise, reflecting the seriousness of the situation and the need for a clear and binding directive. The context is a potential crisis that could impact the economy and public welfare. Initial assessment: Joy: 1 (no explicit joy), Sadness: 2 (concern about the dispute), Anger: 2 (disapproval of the disruption), Fear: 3 (fear of economic impact), Disgust: 1 (no explicit disgust), Surprise: 1 (no explicit surprise). Revised assessment: Joy: 1 (no explicit joy), Sadness: 3 (concern about the dispute and its impact), Anger: 2 (disapproval of the disruption), Fear: 4 (fear of economic impact and disruption of services), Disgust: 1 (no explicit disgust), Surprise: 1 (no explicit surprise).",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

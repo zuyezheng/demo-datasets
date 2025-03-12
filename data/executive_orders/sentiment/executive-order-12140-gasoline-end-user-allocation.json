@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal delegation of authority regarding gasoline allocation during a shortage. It aims to address public health, safety, and welfare concerns. The primary emotion conveyed is a sense of urgency and responsibility to manage a crisis. There's a hint of concern (fear) about the potential consequences of gasoline shortages, but it's managed with a practical approach. There's no explicit joy, disgust, or surprise. Sadness is not really present. The initial scores reflect this assessment, and the revised scores fine-tune the intensity of fear and surprise.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 3
+    }
+}

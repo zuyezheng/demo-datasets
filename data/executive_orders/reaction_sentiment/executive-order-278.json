@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 8,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 4
+    },
+    "critique": "The document is a proclamation regarding the death of a former president. The primary emotion the current president wants to elicit is sadness and respect. There is also an element of surprise due to the unexpected nature of death, though the text mentions a long illness. There is no intention to elicit joy, anger, fear, or disgust. The language is formal and respectful, aiming to convey a sense of national mourning and unity.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 9,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
+    }
+}

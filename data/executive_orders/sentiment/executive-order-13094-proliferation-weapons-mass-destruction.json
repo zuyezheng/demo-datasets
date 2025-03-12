@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 5,
+        "disgust": 4,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order regarding the proliferation of weapons of mass destruction. The primary emotion conveyed is concern and determination to prevent the spread of such weapons. There is a sense of seriousness and resolve, but no strong display of joy, sadness, or surprise. Disgust and fear are present, but not overtly expressed. The language is formal and legalistic, which tempers the emotional impact.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 6,
+        "disgust": 5,
+        "surprise": 2
+    }
+}

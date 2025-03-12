@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal order establishing a bird refuge. It primarily uses legal and administrative language. There is no explicit emotional expression. However, the act of protecting wildlife could be interpreted as a subtle expression of joy or care. The warnings against unlawful activities might suggest a mild level of anger or disgust towards potential violations. The mention of penalties and warnings could also introduce a slight element of fear. Surprise is not relevant in this context.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

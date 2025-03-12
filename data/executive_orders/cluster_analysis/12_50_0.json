@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents primarily concern amendments, revocations, and extensions of existing Executive Orders. They cover a wide range of topics, including national security, foreign affairs, economic policy, and government administration. The sentiment is neutral, as they are legal and administrative directives.",
+    "tags": [
+        "Executive Order Amendments",
+        "Executive Order Revocations",
+        "Executive Order Extensions",
+        "Government Administration",
+        "Policy Changes"
+    ],
+    "title": "Modifications to Existing Executive Orders",
+    "request": {
+        "cluster": 12,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 25921,
+        "output_tokens": 74
+    }
+}

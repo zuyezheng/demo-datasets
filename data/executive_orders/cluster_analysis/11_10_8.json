@@ -1,0 +1,22 @@
+{
+    "analysis": "The documents consist of executive orders, mostly from the Franklin D. Roosevelt and Herbert Hoover administrations, concerning various governmental actions. Common themes include land withdrawal for resurvey, regulation of employment (particularly regarding foreign entities and wartime compensation), judicial appointments in Puerto Rico, adjustments to the Panama Canal Zone's legal framework, economic defense measures during national emergencies, revocation of prior orders related to the Alaska Railroad, reinstatement of Foreign Service officers, and regulations for deposit money orders in the Canal Zone. The sentiment is neutral, as these are official directives.",
+    "tags": [
+        "Land Withdrawal",
+        "Employment Regulation",
+        "Judicial Appointments",
+        "Panama Canal Zone",
+        "Economic Defense",
+        "Alaska Railroad",
+        "Foreign Service",
+        "Canal Zone Postal Service"
+    ],
+    "title": "Governmental Directives: Land, Employment, and Legal Administration",
+    "request": {
+        "cluster": 11,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 4791,
+        "output_tokens": 141
+    }
+}

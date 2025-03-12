@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal announcement from the Department of State. It mentions the illumination of Department buildings in honor of Washington's birthday and the recent triumphs of the Union. The language is formal and celebratory, but does not strongly convey any particular emotion. A low level of joy seems appropriate due to the celebratory nature of the announcement. The other emotions are not explicitly present, so they should be scored as 1.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

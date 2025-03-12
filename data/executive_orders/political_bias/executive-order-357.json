@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This document is a military order transferring command of the Army. It doesn't directly address ideological issues, immigration, or social inclusion. It primarily concerns the chain of command and executive power within the military. There's no clear indication of economic regulation or federalism. The order seems neutral regarding national security vs. civil liberties.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    }
+}

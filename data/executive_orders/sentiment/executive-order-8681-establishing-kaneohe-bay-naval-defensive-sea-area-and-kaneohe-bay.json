@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document establishes a naval defensive sea area and airspace reservation in Kaneohe Bay, Hawaii. The language is formal and legalistic, focusing on establishing boundaries, restrictions, and penalties for violations. There is a sense of seriousness and authority, but no strong emotions are explicitly conveyed. Therefore, the initial scores are set to 1 for all emotions, indicating a neutral emotional tone. Upon further reflection, the document's purpose is to protect national defense, which could imply a sense of fear of potential threats. Therefore, the revised score for fear is adjusted to 3, while the other emotions remain at 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

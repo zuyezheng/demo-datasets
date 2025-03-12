@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order outlining the functions and duties of the Economic Defense Board. It primarily focuses on the economic defense of the United States during a national emergency. The language is formal and legalistic, with little emotional expression. Therefore, most emotions should be scored low. Joy is unlikely in such a document. Sadness might be present due to the context of a national emergency, but it's not explicitly stated. Anger is not apparent. Fear is a possibility, given the context of national defense, but it's not directly expressed. Disgust is not relevant. Surprise is unlikely.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

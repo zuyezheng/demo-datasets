@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal waiver related to trade with China. It invokes legal authority and makes a formal declaration. There is no explicit emotional expression. Therefore, the initial scores should be low across all emotions. Considering this is a legal document, I will set all initial scores to 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

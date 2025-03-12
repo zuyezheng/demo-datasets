@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order addressing a labor dispute. It uses formal language and aims to remain neutral. Therefore, the scores should be low across all emotions. There is no explicit expression of joy, sadness, fear, disgust, or surprise. The situation involves a dispute that could disrupt transportation, suggesting a potential for concern, but this is not explicitly stated as fear. The document focuses on establishing a board to investigate and resolve the dispute in a neutral manner.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

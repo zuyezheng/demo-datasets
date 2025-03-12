@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal order from the War Department regarding the rescinding of an executive order about hay exportation. It's a very factual and unemotional piece of text. Therefore, all emotions should be scored very low, close to 1, as there's no explicit or implicit emotional expression.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

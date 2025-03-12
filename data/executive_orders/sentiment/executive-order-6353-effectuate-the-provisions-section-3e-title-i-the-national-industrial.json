@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order outlining procedures for handling complaints and investigations under the National Industrial Recovery Act. The language is legalistic and procedural, with no explicit emotional expression. However, a sense of authority and determination to address industrial issues can be inferred. Initial scores are set to 1 across all emotions due to the lack of overt emotional content. Revised scores reflect a slight increase in the 'surprise' score to 2, acknowledging the potential impact of the order on affected parties, and a slight increase in the 'joy' score to 2, reflecting the positive impact of the order on the economy.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

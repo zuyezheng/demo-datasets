@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal order regarding the appointment of Mrs. Elizabeth Bass. It cites legal authority and includes a recommendation from the Secretary of the Treasury. The language is neutral and bureaucratic, with no strong emotional expression. Therefore, all emotions should be scored low, with a baseline of 1 where there is not enough information.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

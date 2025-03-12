@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 4,
+        "fear": 5,
+        "disgust": 6,
+        "surprise": 3
+    },
+    "critique": "The document expresses concern and determination to restore order. It conveys a sense of urgency and resolve in addressing the violence and disorder. It does not express joy. It expresses sadness because of the violence. It expresses anger at the violence. It expresses fear that the violence will continue. It expresses disgust at the violence. It expresses surprise that the violence occurred.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 5,
+        "fear": 6,
+        "disgust": 7,
+        "surprise": 4
+    }
+}

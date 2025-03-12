@@ -1,0 +1,22 @@
+{
+    "analysis": "The documents share a common theme of executive authority and governance. They all involve the President of the United States issuing orders that delegate authority, establish committees, or set policies for various aspects of government operations, ranging from national security and foreign policy to domestic issues like energy, labor, and disaster response. The sentiment is generally neutral, as these are official directives. The documents span different presidential administrations and address a wide array of topics, reflecting the diverse responsibilities of the executive branch.",
+    "tags": [
+        "Executive Authority",
+        "Governance",
+        "Policy",
+        "Delegation of Power",
+        "Government Operations",
+        "National Security",
+        "Domestic Policy",
+        "Interagency Coordination"
+    ],
+    "title": "Presidential Directives on Governance and Executive Authority",
+    "request": {
+        "cluster": 22,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 120359,
+        "output_tokens": 123
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding tax return inspections by a House committee. The tone is official and legalistic. As the President, the primary emotion I want to elicit is a sense of order and adherence to legal processes, not strong emotions. The order itself is about compliance and oversight, not designed to evoke joy, sadness, anger, fear, disgust, or surprise. The mention of 'Un-American Activities' might stir some fear or disgust in some, but the document focuses on the legal procedure for inspection. Therefore, most emotions should be scored low, with perhaps a slightly higher score for fear or disgust due to the committee's name, but still relatively low as the order is about the process, not the activities themselves. Revised scores will reflect this.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

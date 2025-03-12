@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding collective bargaining agreements. It aims to improve the efficiency and effectiveness of these agreements within the federal government. The language is formal and legalistic, with a focus on policy and procedure. There is no explicit expression of emotions. However, there is an implicit sense of dissatisfaction with the current state of affairs and a desire for improvement. This could be interpreted as a mild form of frustration or determination. Given the formal nature, the emotional intensity is likely to be low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding export administration. It primarily focuses on delegating authority and establishing a review board. The language is legal and procedural, with no explicit emotional expression. Therefore, the emotion scores should be low across the board, with a baseline of 1 for each emotion due to the formal nature of the document.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

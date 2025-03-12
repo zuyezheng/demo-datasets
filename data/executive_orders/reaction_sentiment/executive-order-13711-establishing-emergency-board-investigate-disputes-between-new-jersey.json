@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order addressing a labor dispute. The tone is neutral and legalistic. The primary goal is to establish a process for resolving the dispute, not to elicit specific emotions. Therefore, most emotions should be scored low. There might be a slight element of 'surprise' that a second board is needed, but it's not a strong emotion conveyed by the text. Joy is not conveyed. Sadness is not conveyed. Anger is not conveyed. Fear is not conveyed. Disgust is not conveyed. Surprise is conveyed at a low level.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

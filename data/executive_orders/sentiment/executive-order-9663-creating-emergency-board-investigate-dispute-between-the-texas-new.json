@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses concern about potential disruption to interstate commerce but maintains a neutral tone. There's no strong indication of joy, sadness, fear, disgust, or surprise. The primary emotion conveyed, if any, is a mild concern or seriousness due to the potential impact on transportation services. Therefore, I will assign low scores across the board, with a slightly higher score for concern/seriousness which I will represent with sadness.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

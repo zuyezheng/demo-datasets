@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal announcement about a change in departmental rules regarding a specific clerk position. It states that the position will now be subject to competitive examination. There is no explicit emotional language used. The tone is neutral and administrative. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication of the emotion being conveyed. The initial and revised scores should be the same, as the analysis remains consistent.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

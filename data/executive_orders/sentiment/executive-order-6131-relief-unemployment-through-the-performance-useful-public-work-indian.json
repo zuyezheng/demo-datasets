@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing a fund for unemployment relief through public works on Indian reservations. The language is formal and bureaucratic, with no explicit emotional expression. However, the act of providing relief could be interpreted as conveying a sense of hope (joy) and concern (sadness) for the unemployed. Fear, disgust, and surprise are not evident. I will assign low scores to joy and sadness, and a score of 1 to the other emotions.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

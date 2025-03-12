@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal legal document, specifically an executive order amending the Manual for Courts-Martial. As such, it is expected to be neutral in tone and devoid of strong emotional expression. The language is precise and technical, focusing on legal procedures and definitions. Therefore, all emotions should be scored very low, close to 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

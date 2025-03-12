@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal amendment to an executive order. It primarily deals with replacing a member of the Advisory Board on Just Compensation. The language is legal and administrative, with no explicit emotional expression. Therefore, all emotions should be scored low, with a baseline of 1 where there isn't enough information to suggest otherwise. There is a hint of sadness due to the inability of Judge John J. Parker to serve, but it's very mild.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

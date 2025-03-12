@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal presidential order specifying a date related to the Hostage Relief Act. It's a factual declaration with no inherent emotional expression. Therefore, all emotions should be scored low, with a default of 1 where there's no clear indication of the emotion being conveyed.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

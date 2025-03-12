@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding appointments in the executive branch of the government. It primarily focuses on the terms of employment (permanent vs. non-permanent) during a period deemed necessary for national defense. The language is legalistic and procedural. There's no explicit expression of emotions. However, the context of 'national defense' might implicitly suggest a sense of urgency or concern, but this is very subtle. Therefore, most emotions should be scored low, with a slight consideration for fear or concern due to the national defense context.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

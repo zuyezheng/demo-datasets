@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order regarding export license applications. As the President, the primary goal is to ensure efficient and secure processing of these applications. The tone is formal and legalistic, aiming for clarity and compliance. The emotions I want to elicit are primarily trust in the process and confidence in the government's ability to manage exports effectively. There's a secondary desire to avoid causing alarm or fear among businesses involved in exporting, hence the emphasis on streamlining and timely decisions. Joy is not a primary emotion sought, nor is sadness or anger. Surprise is also not a desired emotion, as the order aims to establish a predictable and well-defined process. Fear and disgust are emotions that the document is trying to avoid.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

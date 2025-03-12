@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal amendment to an existing executive order, primarily dealing with the order of succession in the Department of Defense. The tone is formal and bureaucratic. As such, it's unlikely to elicit strong emotions. The primary goal is to ensure a clear and functional order of succession, not to evoke joy, sadness, anger, fear, disgust, or surprise. The changes are administrative in nature. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication of the emotion being conveyed.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

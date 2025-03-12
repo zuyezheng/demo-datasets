@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal revocation of a previous order. It's a legal document, so it's unlikely to convey strong emotions. The presence of 'revoked' might suggest a slight negative sentiment, but it's primarily a neutral administrative action. Therefore, most emotions should be scored low, with a slight consideration for sadness due to the revocation.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

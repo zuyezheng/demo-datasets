@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It establishes the Foreign Economic Administration and consolidates various offices and their functions into this new administration. The language is formal and legalistic, with no explicit emotional expression. However, given the context of WWII, the order suggests a sense of urgency and determination to unify and consolidate governmental activities related to foreign economic affairs. This might imply a low level of determination (joy), and a very low level of concern (fear) about the economic situation. There is no indication of sadness, disgust, or surprise.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding the transfer of the Civil Air Patrol to the Department of War during World War II. The language is legalistic and bureaucratic, with the primary goal of conveying authority, outlining the transfer of functions, property, and funds, and specifying the order's effective period. There is no explicit emotional expression. However, the context of wartime implies a sense of urgency and determination. Given the formal nature, the emotional scores should be relatively low, but not zero, to reflect the underlying context.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

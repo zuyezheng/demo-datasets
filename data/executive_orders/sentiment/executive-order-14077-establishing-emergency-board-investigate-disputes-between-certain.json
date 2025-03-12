@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order addressing a labor dispute in the railway industry. It establishes an emergency board to investigate and report on the disputes. The language is formal and legalistic, with no explicit expression of emotions. However, the order implicitly conveys a sense of concern about the potential disruption to interstate commerce. Initial scores are based on a neutral assessment with slight adjustments for the implicit concern. Revised scores reflect a more nuanced understanding of the document's emotional subtext, acknowledging the underlying concern while maintaining a low overall emotional intensity.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

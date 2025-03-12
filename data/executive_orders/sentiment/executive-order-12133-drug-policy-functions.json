@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It clarifies the responsibilities of the Domestic Policy Staff and the Associate Director for Drug Policy in assisting the President with drug policy functions. The language is formal and legalistic, with no explicit emotional expression. Therefore, all emotions should be scored low, with a default score of 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

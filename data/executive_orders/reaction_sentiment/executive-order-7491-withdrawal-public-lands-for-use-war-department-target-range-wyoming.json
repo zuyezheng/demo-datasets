@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order about land withdrawal for the War Department. The tone is formal and legalistic. The primary emotion the President wants to elicit is a sense of order and authority. There is no explicit mention of emotions. The actions are related to military readiness, so a sense of security might be intended, but it's not directly stated. Therefore, the initial scores are mostly low, with a slight emphasis on reducing fear and disgust related to national security concerns.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

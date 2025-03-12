@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 3,
+        "sadness": 7,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document expresses respect and remembrance for soldiers who died during the rebellion. The primary emotion the President wants to elicit is sadness and respect. There might be some joy in remembering the soldiers, but it is more about mourning their loss. There is no anger, fear, disgust, or surprise conveyed in the document.The initial scores are sadness: 7, joy: 3, and the rest are 1. After thinking through it, I think sadness should be higher and joy should be lower. Also, there might be a slight sense of respect which could translate to a low level of surprise at the remembrance.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 8,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

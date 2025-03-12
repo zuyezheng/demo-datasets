@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 7,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document expresses relief and gratitude for the retreat of insurgent forces. It suggests a sense of joy and thankfulness. The retreat of the insurgent force would reduce fear. There is no indication of sadness, disgust, or surprise.",
+    "revised_scores": {
+        "joy": 8,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

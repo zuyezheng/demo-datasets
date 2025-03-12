@@ -1,0 +1,18 @@
+{
+    "analysis": "The documents in this cluster are all executive orders issued by different US presidents. They cover a wide range of topics, but they all share the common characteristic of directing actions within the executive branch of the US government. The documents also share a common structure, including sections on purpose, policy, and general provisions.",
+    "tags": [
+        "executive branch",
+        "government directive",
+        "policy implementation",
+        "federal action"
+    ],
+    "title": "Executive Branch Directives",
+    "request": {
+        "cluster": 8,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 64247,
+        "output_tokens": 76
+    }
+}

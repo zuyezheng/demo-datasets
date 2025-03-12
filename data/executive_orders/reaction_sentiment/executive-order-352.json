@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 9,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document expresses sadness and respect for the deceased Chief Justice. There is no indication of joy, anger, fear, disgust, or surprise. The primary emotion is sadness, which should be scored highly. The other emotions should be scored low as they are not relevant to the context.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 10,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

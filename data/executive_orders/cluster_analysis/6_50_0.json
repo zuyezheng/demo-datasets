@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents share a common theme of governmental actions, specifically executive orders and proclamations, addressing various issues ranging from labor relations and military justice to environmental protection, civil service, and economic stabilization. They showcase the President's authority to implement policies, delegate responsibilities to different departments, and establish committees or task forces to tackle specific problems. The documents also reflect the historical context in which they were issued, such as wartime emergencies, economic crises, or social changes.",
+    "tags": [
+        "Governmental Actions",
+        "Executive Orders",
+        "Presidential Authority",
+        "Policy Implementation",
+        "Historical Context",
+        "Delegation of Responsibilities",
+        "Committee Establishment"
+    ],
+    "title": "Presidential Directives: Policy & Implementation Coordination",
+    "request": {
+        "cluster": 6,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 243240,
+        "output_tokens": 121
+    }
+}

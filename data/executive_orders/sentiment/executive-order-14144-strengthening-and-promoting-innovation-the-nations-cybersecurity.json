@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order focused on improving the nation's cybersecurity. It addresses various threats and outlines specific actions for government agencies and private sector entities. The language is formal and technical, with a focus on policy and implementation. There is a sense of urgency and concern about the current state of cybersecurity, but the overall tone is professional and objective. Therefore, the scores should reflect the presence of some negative emotions like fear and disgust (related to the threats), but also a sense of determination and resolve (which could be interpreted as a muted form of joy or hope). Surprise is less relevant in this context.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 4,
+        "surprise": 1
+    }
+}

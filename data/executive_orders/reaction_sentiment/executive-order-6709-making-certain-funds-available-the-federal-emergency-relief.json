@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 7,
+        "sadness": 1,
+        "fear": 5,
+        "disgust": 1,
+        "surprise": 3
+    },
+    "critique": "The document is an executive order allocating funds for emergency relief. As the President, the primary emotion I want to elicit is joy that people will be helped and fear that the emergency will continue if the funds are not used wisely. There might also be a little surprise that such a large amount of money is being allocated. There is not enough information to determine anger, sadness, or disgust, so those will be scored as 1. The initial scores are joy: 7, sadness: 1, anger: 1, fear: 5, disgust: 1, surprise: 3. After thinking through it, I think the joy score is a little high, and the fear score is a little low. I will revise the scores to joy: 6, sadness: 1, anger: 1, fear: 6, disgust: 1, surprise: 3.",
+    "revised_scores": {
+        "joy": 6,
+        "sadness": 1,
+        "fear": 6,
+        "disgust": 1,
+        "surprise": 3
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "analysis": "The documents primarily concern the withdrawal and reservation of public lands, often for specific purposes such as military use, national forests, wildlife refuges, or flood control. Many orders revoke or amend previous orders related to land classification or withdrawal. A common theme is the temporary nature of these withdrawals, often pending legislation, resurveys, or the end of a national emergency. The documents specify land descriptions using various meridians and township ranges.",
+    "tags": [
+        "Land Withdrawal",
+        "Public Land",
+        "Land Reservation",
+        "Land Management",
+        "Resource Management",
+        "Geographic Designations",
+        "Federal Land",
+        "Land Use",
+        "Land Classification",
+        "Revocation",
+        "Amendment"
+    ],
+    "title": "Federal Land Management & Temporary Withdrawal",
+    "request": {
+        "cluster": 20,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 11804,
+        "output_tokens": 117
+    }
+}

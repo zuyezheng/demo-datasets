@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It establishes a board to investigate disputes between a railroad company and its employees' unions. The language is legal and procedural, with no explicit emotional expression. However, the implicit emotions could be inferred from the context. The disputes threaten to interrupt interstate commerce, which could cause fear and concern. The order aims to resolve the disputes and maintain stability, which could bring a sense of relief and hope. However, the overall tone is neutral and objective. Therefore, the initial scores should be low for all emotions.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

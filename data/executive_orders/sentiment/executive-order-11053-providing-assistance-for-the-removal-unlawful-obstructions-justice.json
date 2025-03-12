@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 4,
+        "fear": 2,
+        "disgust": 3,
+        "surprise": 1
+    },
+    "critique": "The document is a formal presidential order addressing obstruction of justice in Mississippi. It expresses a firm resolve to enforce court orders and maintain law and order. The primary emotion conveyed is a stern resolve and determination to uphold the law. There's a hint of sadness that such measures are necessary, and perhaps a touch of anger at the defiance of court orders, but these are secondary to the overall tone of resolute action. There is no evidence of joy or surprise. Disgust is possible, but not explicitly stated.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 5,
+        "fear": 3,
+        "disgust": 4,
+        "surprise": 1
+    }
+}

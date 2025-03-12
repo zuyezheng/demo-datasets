@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It primarily conveys authority and direction. There is no strong emotional content. The baseline for a formal document is low, so I will assign low scores across all emotions. The document does not express joy, sadness, fear, disgust, or surprise. Therefore, I will assign a score of 1 for each of these emotions.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

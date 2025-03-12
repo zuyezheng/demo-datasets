@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It aims to curb fraud, waste, and abuse in Federal programs. The language is formal and legalistic. There is no explicit expression of emotions. However, the order implicitly conveys a sense of seriousness and determination to address the issues mentioned. Therefore, I will assign low scores for most emotions, with a slightly higher score for seriousness.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

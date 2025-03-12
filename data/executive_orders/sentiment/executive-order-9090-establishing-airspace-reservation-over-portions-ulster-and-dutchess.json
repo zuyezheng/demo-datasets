@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal declaration regarding airspace restrictions for national defense and public safety. It invokes legal authority and specifies penalties for violations. The primary emotion conveyed is a sense of seriousness and authority, with a hint of concern for public safety. There is no explicit expression of joy, sadness, or surprise. Fear and disgust are also not directly expressed, but the mention of penalties implies a deterrent against actions that could cause fear or disgust. Therefore, I will assign low scores to joy, sadness, surprise, fear, and disgust, and a slightly higher score to the seriousness of the document.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

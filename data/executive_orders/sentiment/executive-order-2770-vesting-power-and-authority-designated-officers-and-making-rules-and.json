@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding foreign insurance companies. It expresses authority and control, but doesn't explicitly convey strong emotions. The scores reflect a baseline level of emotions due to the formal nature of the document, with slight increases in categories related to the act of regulation and potential impact.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 2
+    }
+}

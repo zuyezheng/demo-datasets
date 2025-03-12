@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal announcement rescinding a previous executive order regarding travel restrictions due to an epidemic. The primary emotion conveyed is relief that the situation has improved, but this is very mild. There's a slight sense of cautious optimism. There's no strong indication of joy, sadness, fear, disgust, or surprise. The scores should be low, reflecting the formal and factual nature of the document.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

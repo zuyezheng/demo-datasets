@@ -1,0 +1,22 @@
+{
+    "analysis": "The documents consist of executive orders, mostly from the World War II era, concerning the management and control of resources, facilities, and labor for the war effort. They involve the transfer of authority, the operation of industries by the government, and adjustments to existing orders to ensure efficient war production and resource allocation. Some orders address labor disputes and the management of government assets after the war. A couple of documents also concern historical archives and the establishment of an Office of Defense Mobilization during the Korean War.",
+    "tags": [
+        "War Effort",
+        "Resource Management",
+        "Government Control",
+        "Labor",
+        "Executive Action",
+        "Facility Operation",
+        "Authority Transfer",
+        "Defense Mobilization"
+    ],
+    "title": "Wartime Resource and Labor Management",
+    "request": {
+        "cluster": 13,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 4696,
+        "output_tokens": 125
+    }
+}

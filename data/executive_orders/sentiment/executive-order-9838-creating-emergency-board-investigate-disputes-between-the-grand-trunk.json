@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order creating a board to investigate a labor dispute. The language is legal and procedural. There is no strong emotion conveyed, but a sense of concern and urgency is present due to the potential disruption of interstate commerce. I will assign low scores to sadness, fear, and surprise, and a slightly higher score to concern which I will represent with a low disgust score. Joy is not present.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 2
+    }
+}

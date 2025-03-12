@@ -1,0 +1,20 @@
+{
+    "analysis": "The documents in this cluster consist of executive orders related to national security, intelligence, artificial intelligence, foreign policy, and veteran affairs. They establish committees, delegate authority, and amend previous orders to address evolving challenges and priorities. The documents share a focus on adapting governmental structures and policies to meet current and future needs in these critical areas.",
+    "tags": [
+        "National Security",
+        "Intelligence",
+        "Artificial Intelligence",
+        "Foreign Policy",
+        "Veteran Affairs",
+        "Governmental Adaptation"
+    ],
+    "title": "Adapting Government to Evolving National Priorities",
+    "request": {
+        "cluster": 22,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 53576,
+        "output_tokens": 90
+    }
+}

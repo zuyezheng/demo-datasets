@@ -1,0 +1,20 @@
+{
+    "analysis": "The documents primarily concern orders and directives issued by the President or the War Department, often related to military assignments, customs administration, and departmental procedures. Several documents involve military commands and assignments, particularly in the context of post-Civil War reconstruction or overseas territories. Some address administrative matters such as customs collection in Cuba, flag disposition, and personnel appointments/dismissals. The sentiment is generally neutral, reflecting the formal and official nature of the orders.",
+    "tags": [
+        "Military Assignments",
+        "Administrative Directives",
+        "Customs",
+        "Personnel",
+        "War Department",
+        "Presidential Orders"
+    ],
+    "title": "Military and Administrative Directives",
+    "request": {
+        "cluster": 0,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 1944,
+        "output_tokens": 106
+    }
+}

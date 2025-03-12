@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding land inclusion in the Uinta National Forest. It cites legal authority and describes the specific land being added. There is no explicit emotional expression in such a document. Therefore, the initial scores should be very low across all emotions. Considering this is a formal document, I will assign a baseline score of 1 for all emotions to indicate a minimal level of formality and objectivity.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

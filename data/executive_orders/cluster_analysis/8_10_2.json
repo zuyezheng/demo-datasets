@@ -1,0 +1,20 @@
+{
+    "analysis": "The documents in this cluster consist of executive orders addressing various international and domestic issues. They cover topics such as national security threats (North Korea, Yugoslavia, Yemen), gender-based violence, trade deficits, Guantanamo Bay detention, Arctic policy, regulatory reform, federal holiday closures, and Historically Black Colleges and Universities (HBCUs). The sentiment is generally serious and focused on addressing specific problems or promoting certain policies.",
+    "tags": [
+        "National Security",
+        "International Relations",
+        "Economic Policy",
+        "Social Issues",
+        "Government Operations",
+        "Regulatory Policy"
+    ],
+    "title": "Addressing Global Challenges and Domestic Priorities",
+    "request": {
+        "cluster": 8,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 15549,
+        "output_tokens": 105
+    }
+}

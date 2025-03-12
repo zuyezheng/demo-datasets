@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal presidential determination regarding nuclear cooperation. It expresses a serious tone due to the subject matter of nuclear non-proliferation and national security. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the determination to extend the period suggests a sense of responsibility and perhaps a subtle concern for potential negative consequences if the cooperation were to cease. Therefore, I will assign low scores to fear and sadness, and a score of 1 to the other emotions.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This document is a transfer of land from the US Navy to the Territory of Hawaii. It is a simple administrative action with little to no ideological content. Therefore, most of the scores should be neutral. There is a slight shift towards state control (federalism) as the land is being returned to the Territory of Hawaii.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": -1,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    }
+}

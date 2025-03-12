@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It primarily conveys a sense of purpose and determination to implement the National Industrial Recovery Act. There is a mild sense of hope for economic recovery and progress, but emotions are largely suppressed in favor of a professional tone. Therefore, joy, sadness, fear, disgust, and surprise should be scored low, with slightly more emphasis on joy. The initial scores are: joy=3, sadness=1, fear=1, disgust=1, surprise=1. After a second thought, I think the joy score is a bit too high, and should be lowered to 2.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

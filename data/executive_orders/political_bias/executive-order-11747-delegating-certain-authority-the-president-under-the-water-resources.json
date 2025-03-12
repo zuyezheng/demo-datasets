@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This document is an executive order delegating authority related to water resources planning. It does not directly address ideological issues, immigration, civil liberties, or social inclusion. It primarily concerns the division of power between the executive branch and other entities regarding water resource management. Therefore, most axes should be scored as neutral. The delegation of power could be seen as slightly reducing the direct executive power, and the water resources planning could be seen as a slight intervention, but these are very minor.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": -1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    }
+}

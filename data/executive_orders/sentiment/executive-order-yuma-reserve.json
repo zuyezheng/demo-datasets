@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding land allocation for a Native American reservation. It uses legal and administrative language. There is no explicit expression of emotions. However, the act of setting aside land for a reservation could be interpreted as a gesture of goodwill (joy) or a response to a perceived need or injustice (sadness, perhaps mixed with a lack of surprise that such action is needed). Given the formal nature and lack of emotional language, the scores should be low. I will set joy to 2, sadness to 2, and all other emotions to 1, indicating a minimal presence.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

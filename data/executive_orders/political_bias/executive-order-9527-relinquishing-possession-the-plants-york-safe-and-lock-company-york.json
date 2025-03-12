@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This document pertains to the relinquishment of control of a company seized during wartime. It's a straightforward administrative action related to the war effort. There's no clear indication of ideological bias, immigration policy, or social inclusion. The executive power aspect is neutral, as it's simply returning control after the war need subsided. Federalism isn't really addressed. National security is indirectly relevant as it relates to the war effort, but the document itself is about ending government control. Economic regulation is also indirectly relevant, but the document is about ending intervention, not continuing it.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    }
+}

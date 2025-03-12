@@ -1,0 +1,25 @@
+{
+    "analysis": "The documents all pertain to orders granting specific congressional committees or government entities the authority to inspect tax returns for various purposes, such as investigations, oversight, or studies. The orders cite the legal basis for granting this authority, referencing sections of the Internal Revenue Code. The documents span several presidential administrations and congressional sessions, indicating a recurring practice of allowing access to tax information for governmental purposes.",
+    "tags": [
+        "Tax Returns",
+        "Congressional Oversight",
+        "Government Investigations",
+        "Internal Revenue Code",
+        "Committee on Government Operations",
+        "Committee on the Judiciary",
+        "Committee on Foreign Relations",
+        "Committee on Internal Security",
+        "Select Committee on Small Business",
+        "Federal Trade Commission",
+        "Committee on Naval Affairs"
+    ],
+    "title": "Tax Return Inspections for Congressional and Governmental Oversight",
+    "request": {
+        "cluster": 3,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3525,
+        "output_tokens": 125
+    }
+}

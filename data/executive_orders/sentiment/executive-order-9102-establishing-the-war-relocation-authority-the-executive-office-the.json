@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 4,
+        "fear": 7,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing the War Relocation Authority. It outlines the authority and responsibilities of the Director of the War Relocation Authority, including the removal, relocation, maintenance, and supervision of persons from designated areas. The order emphasizes national security interests and coordination among various government agencies. Given the context and language, the primary emotion conveyed is fear, driven by the perceived need for national security. There is also a sense of sadness associated with the displacement and relocation of individuals. Disgust might be present due to the discriminatory nature of the order, but it is not explicitly stated. Surprise and joy are not relevant in this context.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 5,
+        "fear": 8,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

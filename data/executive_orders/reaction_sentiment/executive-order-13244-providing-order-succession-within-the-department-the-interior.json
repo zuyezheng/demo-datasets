@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a standard executive order regarding the order of succession for the Secretary of the Interior. The tone is formal and legalistic. There is no explicit attempt to elicit any particular emotion. The primary goal is to ensure the continuity of government operations. Therefore, the initial scores should be very low across all emotions, with a slight emphasis on reducing fear and surprise by providing a clear plan.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

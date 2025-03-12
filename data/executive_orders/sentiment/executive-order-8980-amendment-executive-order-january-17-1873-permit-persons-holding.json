@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal amendment to an executive order. It permits individuals holding state, territorial, or municipal offices to serve on an Alien Enemy Hearing Board. The language is formal and legalistic. There is no explicit expression of joy, sadness, fear, disgust, or surprise. Given the context of 1941, the order likely relates to national security concerns during World War II, which might imply a degree of underlying concern or seriousness, but this is not explicitly stated. Therefore, a baseline score of 1 is appropriate for all emotions, as the document itself does not convey any of these emotions strongly.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

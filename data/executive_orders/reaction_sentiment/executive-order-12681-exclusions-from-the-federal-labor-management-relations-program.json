@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order amending a previous order. The tone is authoritative and legalistic. The primary goal is to ensure national security by excluding certain subdivisions from specific regulations. The language is precise and technical, focusing on specific offices and divisions within the Federal Emergency Management Agency. There is no explicit attempt to elicit any particular emotion. However, the implicit emotions are: Joy: 1 (no indication of joy), Sadness: 1 (no indication of sadness), Anger: 1 (no indication of anger), Fear: 2 (a slight sense of fear due to national security concerns), Disgust: 1 (no indication of disgust), Surprise: 1 (no indication of surprise). The critique is that the initial scores are too low across the board. The document does not explicitly convey any emotion, but the context of national security implies a slight degree of fear and perhaps a muted sense of responsibility or determination.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

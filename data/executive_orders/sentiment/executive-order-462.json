@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 2
+    },
+    "critique": "The document is a formal announcement from the War Department regarding the mustering of militia and volunteers into the service of the United States. The language is official and direct, with no explicit emotional expression. However, the context of preparing for war implies some level of concern and urgency. I will assign low scores for fear and sadness due to the somber nature of the announcement, and a minimal score for surprise, disgust, and joy as they are not directly relevant. I will revise the scores to reflect the formal and unemotional tone of the document, setting most scores to 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

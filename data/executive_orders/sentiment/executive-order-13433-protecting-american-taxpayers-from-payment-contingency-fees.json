@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It aims to ensure integrity and effective supervision of legal and expert witness services. The language is formal and legalistic. There is no explicit expression of emotions. However, the emphasis on integrity and effective supervision suggests a concern about potential issues in these areas, which could imply a mild level of concern or perhaps a desire to prevent negative outcomes. Given the formal nature, the emotional scores should be low.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

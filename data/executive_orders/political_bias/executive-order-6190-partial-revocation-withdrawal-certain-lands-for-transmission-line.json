@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": -1
+    },
+    "critique": "This executive order concerns the revocation of a previous order withdrawing certain lands in California and Nevada, opening them up for homesteading and desert-land laws, initially prioritizing ex-service men. It's difficult to assess a strong ideological tilt (liberal vs. conservative) as it primarily deals with land management. Immigration is not directly addressed. Executive power is not significantly expanded or restricted, as it's a specific action related to land use. Federalism is somewhat implicated as it involves federal lands, but the order doesn't drastically shift the balance. National security vs. civil liberties isn't a major factor. Economic regulation is mildly relevant as it opens land for private use, but it's not a major intervention. Social inclusion is weakly addressed by prioritizing ex-service men, which could be seen as slightly exclusive.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": -1,
+        "social_inclusion": -1
+    }
+}

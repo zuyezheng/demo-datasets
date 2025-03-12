@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order pertains to the compensation of patients working in federal or D.C. hospitals. It excludes these positions from the Classification Act of 1923, granting department heads and D.C. Commissioners the authority to set compensation rates, albeit with a ceiling. This appears to be an efficiency measure, allowing for more flexible compensation for patient workers. There's no clear indication of ideological bias, immigration stance, or impact on civil liberties. It slightly shifts power to department heads, but not in a significant way that impacts federalism. It has a minor impact on economic regulation by allowing departments to set wages, but it's capped. It doesn't directly address social inclusion.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    }
+}

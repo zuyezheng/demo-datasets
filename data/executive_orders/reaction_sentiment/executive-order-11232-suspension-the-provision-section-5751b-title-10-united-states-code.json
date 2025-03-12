@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal announcement regarding the suspension of a section of the United States Code. The tone is formal and authoritative. The primary emotion the President wants to elicit is a sense of confidence and order. There is no explicit mention of emotions. The actions are related to military personnel, so the emotions are likely related to that context. Initial scores: joy: 1, sadness: 1, anger: 1, fear: 1, disgust: 1, surprise: 1. Revised scores: joy: 2, sadness: 1, anger: 1, fear: 1, disgust: 1, surprise: 1. The rationale for increasing joy to 2 is that the action is intended to improve the efficiency of the Navy.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

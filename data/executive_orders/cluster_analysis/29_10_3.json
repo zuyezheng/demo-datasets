@@ -1,0 +1,20 @@
+{
+    "analysis": "The documents in this cluster are all executive orders that amend or create regulations related to military personnel, veterans, or government employees. They cover topics such as active duty orders, disability benefits, travel expenses, clothing allowances, and general-average contributions. The sentiment is neutral, as they are simply outlining rules and procedures.",
+    "tags": [
+        "Military Personnel",
+        "Veterans Affairs",
+        "Government Employees",
+        "Regulations",
+        "Benefits",
+        "Allowances"
+    ],
+    "title": "Military and Government Personnel Regulations",
+    "request": {
+        "cluster": 29,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3784,
+        "output_tokens": 82
+    }
+}

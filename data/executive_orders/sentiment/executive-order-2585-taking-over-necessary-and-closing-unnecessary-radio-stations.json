@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document expresses a serious tone due to the declaration of war. It aims to convey a sense of determination and control, but avoids strong emotional displays. Therefore, sadness, fear, disgust, and surprise are minimal. Joy is absent, and there's a moderate level of determination which can be interpreted as a low level of anger.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 4,
+        "fear": 4,
+        "disgust": 2,
+        "surprise": 3
+    }
+}

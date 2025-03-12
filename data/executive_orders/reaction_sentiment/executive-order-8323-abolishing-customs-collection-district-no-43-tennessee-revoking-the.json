@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding customs collection districts. The tone is neutral and administrative. There is no explicit expression of emotions. The actions are organizational and do not directly evoke strong emotions. The primary goal is efficiency and order, not emotional response. Therefore, the initial scores should be low across all emotions. Revised scores should reflect the same, with a slight increase in surprise due to the unexpected nature of the changes.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

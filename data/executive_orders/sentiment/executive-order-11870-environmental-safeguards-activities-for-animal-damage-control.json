@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding the use of chemical toxicants on federal lands. It aims to balance environmental protection with the need for animal damage control. The language is formal and legalistic, with a focus on restrictions, definitions, and authorizations. There is a sense of responsibility and caution conveyed, but no strong emotions are explicitly expressed. Therefore, the initial scores should be relatively low across all emotions.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 2
+    }
+}

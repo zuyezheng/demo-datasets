@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 6,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order imposing sanctions on North Korea. The primary emotion conveyed is one of resolve and determination to address a threat. There is a sense of seriousness and concern about the actions of North Korea. There is no explicit joy. There is a sense of sadness about the situation, but it is not the primary emotion. There is a sense of anger and disgust towards North Korea's actions. There is a sense of fear regarding the potential consequences of North Korea's actions. There is no surprise.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 6,
+        "disgust": 7,
+        "surprise": 1
+    }
+}

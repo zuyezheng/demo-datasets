@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a simple revocation of a previous executive order regarding land withdrawal in Colorado. The tone is formal and administrative. There's no explicit emotional appeal. As the President, the primary emotion I'd *want* to elicit is perhaps a sense of order and efficiency in governance, but the document itself doesn't strongly convey any particular emotion. The actions are administrative and unlikely to evoke strong emotional responses. Therefore, most emotions will be scored low. I will revise the initial scores to reflect a more neutral stance, increasing surprise slightly to acknowledge the action.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

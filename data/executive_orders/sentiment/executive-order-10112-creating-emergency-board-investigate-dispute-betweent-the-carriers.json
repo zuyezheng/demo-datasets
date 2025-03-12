@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses a sense of urgency and determination to resolve the issue to prevent disruption of essential transportation services. There is no explicit expression of emotions such as joy, sadness, fear, disgust, or surprise. However, the implicit emotions conveyed are concern (leading to action) and a desire for stability. Considering the formal nature, the scores should be relatively low, focusing on the implicit emotions rather than explicit ones. The initial scores reflect a baseline assessment, and the revised scores slightly adjust to better capture the subtle emotional undertones.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

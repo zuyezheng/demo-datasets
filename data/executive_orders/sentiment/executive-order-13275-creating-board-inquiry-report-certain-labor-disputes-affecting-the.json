@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal declaration regarding a labor dispute and its potential impact on national health and safety. The primary emotion conveyed is concern and urgency due to the potential disruption of trade and transportation. There's a hint of fear regarding the consequences of the lock-out. There is no information about joy, disgust, or surprise. The document expresses concern about the situation, so I will assign a low score to sadness.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

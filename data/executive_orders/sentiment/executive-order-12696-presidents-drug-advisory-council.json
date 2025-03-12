@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing the President's Drug Advisory Council. The language is formal and legalistic. There is no strong expression of emotion. The document aims to establish a council and define its functions, focusing on policy and administration. Therefore, most emotions should be scored low, with a baseline of 1 where there isn't enough information.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

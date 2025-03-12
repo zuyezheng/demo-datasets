@@ -1,0 +1,23 @@
+{
+    "analysis": "The documents primarily concern land management and resource allocation in Alaska. They involve establishing, modifying, revoking, or transferring land reservations for various purposes, including military use, townsites, national forests, agriculture, and infrastructure development. Many orders address specific parcels of land, often identified by survey numbers, geographic coordinates, or descriptions relative to natural features. A recurring theme is the balancing of competing interests, such as military needs, resource extraction, and the rights of settlers and native populations.",
+    "tags": [
+        "Land Management",
+        "Resource Allocation",
+        "Alaska",
+        "Military",
+        "Townsites",
+        "National Forests",
+        "Agriculture",
+        "Infrastructure",
+        "Land Reservations"
+    ],
+    "title": "Alaskan Land Management and Resource Allocation",
+    "request": {
+        "cluster": 2,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 17268,
+        "output_tokens": 121
+    }
+}

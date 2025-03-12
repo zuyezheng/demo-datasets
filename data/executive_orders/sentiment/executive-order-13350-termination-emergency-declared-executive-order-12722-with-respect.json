@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 2,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It primarily conveys a sense of authority and determination to address a national emergency. There's a subtle undercurrent of concern regarding the situation in Iraq and the need to protect national security and cultural property. However, emotions like joy, sadness, and surprise are largely absent. Disgust is also not explicitly present, but there's an implicit disapproval of actions that led to the national emergency and the illegal removal of cultural property. Fear is present due to the mention of national security.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 5,
+        "disgust": 3,
+        "surprise": 1
+    }
+}

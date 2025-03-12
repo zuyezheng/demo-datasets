@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal legal notice regarding the rejection of bids on real estate. The language is formal and factual. There is no strong emotional content. A baseline of 1 is appropriate for most emotions, with a slight increase in sadness due to the rejection of bids.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

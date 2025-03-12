@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding civil service examinations. It outlines specific conditions for reopening competitive examinations for individuals employed in state agencies administering federal funds under the Social Security Act. The language is formal and bureaucratic, with no overt expression of emotions. Therefore, the initial scores should be low across all emotions. Considering the formal nature of the document, a baseline of 1 is appropriate for emotions that are not explicitly conveyed.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

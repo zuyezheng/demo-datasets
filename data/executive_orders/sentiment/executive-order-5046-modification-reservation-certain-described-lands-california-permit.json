@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal modification of an executive order. It authorizes the Secretary of the Interior to approve a right of way for a tramway. There is no explicit emotional content. The baseline for formal documents is generally low on all emotions. Therefore, I will assign a score of 1 for each emotion.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

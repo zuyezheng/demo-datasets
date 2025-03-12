@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order concerns land allocation for veterans of World War I. It revokes a previous order that reserved land for the New Mexico National Guard and opens it up for homesteading by veterans, with a period of preference for them before opening it to the general public. This has implications for federalism and economic regulation, but minimal impact on other axes.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding land allocation. It primarily uses factual and legal language. Therefore, the emotions conveyed are minimal. Considering it is a formal document, I will use the language of formal documents as a baseline. I will score each document for joy, sadness, anger, fear, disgust, and surprise. For each emotion, I will score the relative intensity on a scale of 1-10 that is being conveyed. I will not consider text that are not part of the document and use a score of 1 if not enough information is provided.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal presidential order regarding the augmentation of the Armed Forces for Operation Atlantic Resolve. It invokes constitutional and legal authority, authorizing the Secretary of Defense and Homeland Security to order active duty for selected reserve units and individual members. The language is formal and legalistic, with no explicit emotional expression. However, the context of augmenting armed forces suggests a potential for concern or seriousness, but this is implicit rather than explicitly stated. Therefore, most emotions should be scored low, with a slight consideration for seriousness reflected in a slightly elevated fear score.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

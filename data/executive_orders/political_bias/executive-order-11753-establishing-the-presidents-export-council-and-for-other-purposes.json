@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order establishes the President's Export Council to advise the President on export expansion activities. It seems primarily focused on economic policy and doesn't directly address social or cultural issues. Therefore, the ideological tilt is likely neutral. Immigration, national security, and social inclusion are not directly addressed, so they should be scored as neutral. The order establishes a council within the Department of Commerce, which could be seen as a slight expansion of federal power, but it's primarily advisory. It also involves the Secretary of Commerce, suggesting a cooperative balance rather than strong federal control. The order aims to improve export trade, which suggests a move towards deregulation and free markets. Therefore, the economic regulation score should be slightly negative.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    }
+}

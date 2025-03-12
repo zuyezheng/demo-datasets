@@ -1,0 +1,22 @@
+{
+    "analysis": "The documents in this cluster are all executive orders. They cover a range of topics including economic policy, veteran employment, land reservation for military purposes, gun violence reduction, land withdrawal for reclamation, transfer of personnel functions, land transfer for military use, revocation of power-site reserve, termination of national emergency related to Liberia, and allowances for military personnel. Despite the variety, a common thread is government action and policy implementation across different sectors.",
+    "tags": [
+        "Government Action",
+        "Policy Implementation",
+        "Economic Policy",
+        "Veteran Employment",
+        "Land Management",
+        "Gun Violence",
+        "Personnel Management",
+        "National Emergency"
+    ],
+    "title": "Governmental Directives Across Sectors",
+    "request": {
+        "cluster": 26,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 8697,
+        "output_tokens": 112
+    }
+}

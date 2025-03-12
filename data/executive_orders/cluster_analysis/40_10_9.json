@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents in this cluster primarily concern the establishment, modification, or delegation of authority to committees, offices, or individuals within the executive branch of the U.S. government. They cover a range of topics including voluntary action programs, energy policy, air navigation, national security, mental retardation, advisory committees, environmental quality, radio station control, Pacific Islands administration, and diplomatic privileges. The sentiment is neutral, focusing on the practical aspects of governance and administration.",
+    "tags": [
+        "Government Organization",
+        "Executive Branch",
+        "Delegation of Authority",
+        "Committee Establishment",
+        "Policy Implementation"
+    ],
+    "title": "Executive Branch Organization and Authority Delegation",
+    "request": {
+        "cluster": 40,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 10775,
+        "output_tokens": 113
+    }
+}

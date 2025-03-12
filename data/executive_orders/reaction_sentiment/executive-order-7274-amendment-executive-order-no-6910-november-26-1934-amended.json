@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a legal order about land usage. The primary goal is to enact a policy, not to elicit emotions. The tone is formal and factual. Therefore, all emotions should be scored low, with a slight emphasis on neutral emotions like surprise due to the change in land management.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

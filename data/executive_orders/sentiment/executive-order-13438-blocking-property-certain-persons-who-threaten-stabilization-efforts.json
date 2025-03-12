@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 2,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order addressing a national emergency related to Iraq. The primary emotion conveyed is concern and determination to address the threat. There's a sense of seriousness and resolve, but not necessarily strong emotions like anger or joy. Fear is present due to the mention of threats to national security. Disgust might be indirectly present due to the acts of violence, but it's not explicitly stated. Surprise is minimal as the order seems to be a continuation of previous actions.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 6,
+        "disgust": 3,
+        "surprise": 2
+    }
+}

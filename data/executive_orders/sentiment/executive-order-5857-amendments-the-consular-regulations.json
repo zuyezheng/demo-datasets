@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal amendment to the Consular Regulations. It primarily deals with tariff acts and marking requirements for imported goods. There is no explicit emotional language used. Therefore, the scores for all emotions should be low, reflecting the neutral tone of the document. I will assign a baseline score of 1 for each emotion to indicate a minimal presence, as the document is purely informational and regulatory.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

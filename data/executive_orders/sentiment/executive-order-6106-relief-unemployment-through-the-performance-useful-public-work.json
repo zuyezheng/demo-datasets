@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding the allocation of funds for unemployment relief. It is a factual and procedural document, so it does not convey strong emotions. The primary goal is to establish a clear process for managing funds. Therefore, the scores for all emotions should be relatively low. Considering the context, a baseline score of 1 is appropriate for most emotions, with a slightly higher score for sadness due to the mention of unemployment.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

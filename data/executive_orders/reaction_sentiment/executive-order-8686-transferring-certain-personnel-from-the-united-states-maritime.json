@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal order transferring employees. The tone is official and administrative. There's no explicit attempt to evoke strong emotions. The primary goal is efficient governance, not emotional manipulation. Therefore, most emotions should be scored low. There might be a slight sense of reassurance (low fear) due to the orderly transfer, and perhaps a hint of surprise (low surprise) at the specific action, but these are minimal.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

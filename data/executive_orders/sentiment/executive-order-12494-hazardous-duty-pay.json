@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal amendment to an executive order. It defines the scope of hazardous duty related to explosives demolition. The language is legal and precise, with no overt emotional expression. Therefore, the initial scores should be low across all emotions. Revised scores will reflect the same, with a slight increase in fear due to the hazardous nature of the described duty.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

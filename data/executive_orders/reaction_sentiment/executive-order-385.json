@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 2
+    },
+    "critique": "The document is a military order, so the primary emotions the President wants to elicit are likely related to compliance and order. Joy is unlikely, as is sadness. Anger, fear, disgust, and surprise are possible, but should be relatively low. The tone is formal and direct, suggesting a focus on duty and obedience rather than strong emotional responses. Initial scores: joy=1, sadness=1, anger=3, fear=3, disgust=2, surprise=2. Revised scores: joy=1, sadness=1, anger=2, fear=2, disgust=1, surprise=1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

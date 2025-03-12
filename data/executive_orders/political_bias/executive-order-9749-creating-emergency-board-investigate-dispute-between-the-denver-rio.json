@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This document establishes a board to investigate a labor dispute between a railroad company and its employees. It invokes the Railway Labor Act and aims to prevent disruption of interstate commerce. There's no clear indication of ideological bias, immigration stance, or impact on civil liberties. It seems to be a fairly neutral intervention to resolve a labor dispute. The order doesn't obviously expand executive power, but it does utilize existing authority. It doesn't directly address federalism, economic regulation (beyond resolving the labor dispute), or social inclusion.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    }
+}

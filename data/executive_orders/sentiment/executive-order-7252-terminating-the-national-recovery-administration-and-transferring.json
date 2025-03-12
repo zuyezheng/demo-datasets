@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding the termination of the National Recovery Administration and the transfer of its divisions to the Departments of Commerce and Labor. The language is legal and administrative, with no explicit emotional expression. However, the act of terminating an administration might imply a sense of finality or change, which could be interpreted as a low level of sadness or perhaps a sense of resolution. Given the formal nature, the emotional intensity is likely to be minimal across all categories.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

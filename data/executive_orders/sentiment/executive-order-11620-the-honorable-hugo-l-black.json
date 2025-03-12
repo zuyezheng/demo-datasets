@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 7,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal presidential order to lower the flag to half-staff in honor of a deceased Supreme Court Justice. The primary emotion conveyed is sadness due to the death of the Justice. There might be a touch of respect and solemnity, but those are not emotions in the available categories. There is no indication of joy, fear, disgust, or surprise. Therefore, those emotions should be scored as 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 7,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

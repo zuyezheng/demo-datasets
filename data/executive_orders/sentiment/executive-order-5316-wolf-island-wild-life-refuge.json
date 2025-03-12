@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 2
+    },
+    "critique": "The document is a formal order establishing a wildlife refuge. It aims to protect wild animals and birds and prevent activities that could harm the environment. The primary emotion conveyed is a sense of responsibility and protection, with a hint of concern about potential harm to the environment and wildlife. There is no explicit expression of joy, sadness, fear, disgust, or surprise, but the underlying tone suggests a proactive approach to conservation. Therefore, I will assign low scores to all emotions except for joy, which I will set to 1, as there is no indication of joy in the document. I will set sadness, fear, disgust, and surprise to 2 to reflect the underlying concern and seriousness of the order.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 2
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a military order from the Secretary of War to Major-General McClellan. It outlines the President's directions regarding a plan of operations. The tone is formal and authoritative. There is no explicit expression of emotions. However, a sense of urgency and determination to pursue the enemy can be inferred. Given the formal nature of the document, the emotion scores should be relatively low, with a slight emphasis on determination and a lack of fear or sadness.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

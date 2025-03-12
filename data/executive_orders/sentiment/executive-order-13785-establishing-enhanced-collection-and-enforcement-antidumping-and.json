@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order addressing trade law enforcement. It expresses concern about unfair competition and revenue loss due to unlawful evasion of antidumping and countervailing duties. While the tone is serious, it primarily focuses on policy and implementation, not direct emotional appeals. Therefore, the scores should reflect a low level of expressed emotion.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 3,
+        "surprise": 2
+    }
+}

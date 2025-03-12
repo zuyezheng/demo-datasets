@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This document concerns the revocation of a previous executive order withdrawing public lands in Arizona. It's a very specific action related to land management. There's no clear indication of broad ideological leaning, immigration policy, or impact on civil liberties. It seems primarily related to federal land management and potentially economic activity tied to those lands. The revocation could be seen as slightly favoring deregulation or private use of land, but it's a weak signal. Given it returns land to the public domain, it could also be construed as having no economic impact. There's no clear impact on executive power or federalism. There's no social inclusion aspect. Therefore, most scores should be neutral.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    }
+}

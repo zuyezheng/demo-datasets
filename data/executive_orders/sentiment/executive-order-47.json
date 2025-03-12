@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 4,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document describes a situation where a clerk was unfairly transferred and later reinstated after an investigation. The language is formal and factual. There's a sense of injustice and eventual resolution. Based on this, I will assign initial scores for sadness (due to the initial injustice), and a slight amount of surprise (due to the unexpected conviction). Other emotions are not strongly conveyed, so I will assign them a low score.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 3,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

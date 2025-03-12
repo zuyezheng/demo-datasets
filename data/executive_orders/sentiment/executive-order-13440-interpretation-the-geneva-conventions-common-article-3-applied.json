@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 1
+    },
+    "critique": "The document is a formal presidential order regarding the treatment of detainees in the CIA's detention and interrogation program. It invokes legal justifications and defines acceptable and unacceptable practices. The primary emotion conveyed is a sense of serious determination and legal authority. There's a subtle undercurrent of fear related to terrorism, but it's not the dominant emotion. There's no explicit joy or surprise. Sadness might be present due to the context of war and detention, but it's not strongly emphasized. Disgust might be present due to the description of prohibited acts, but it is not explicitly conveyed.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 1
+    }
+}

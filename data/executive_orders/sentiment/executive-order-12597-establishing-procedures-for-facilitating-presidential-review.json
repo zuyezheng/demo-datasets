@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order. It primarily aims to establish procedures and guidelines for reviewing decisions related to the Federal Aviation Act. The language is legalistic and procedural, with a focus on clarity and precision. There is no explicit expression of emotions. However, the emphasis on national security and foreign relations suggests a concern for potential threats or risks, which could be interpreted as a low level of fear. The revocation of a previous order and the establishment of new procedures could be seen as a mild form of surprise, but this is more about administrative change than genuine emotional surprise. The document is devoid of joy, sadness, disgust, or anger.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

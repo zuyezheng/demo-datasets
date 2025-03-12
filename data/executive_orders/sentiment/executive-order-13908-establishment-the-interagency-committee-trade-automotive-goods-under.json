@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order establishing an interagency committee on trade in automotive goods. It outlines the committee's responsibilities, membership, decision-making processes, and implementing measures. The language is formal and legalistic, with no overt expression of emotions. Therefore, the emotion scores should be low across the board, with a baseline of 1 for each emotion due to the inherent formality of the document.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This document is an executive order amending a previous executive order to add members to the National Advisory Committee of the National Youth Administration. It is difficult to assess the ideological tilt without knowing the specific individuals added to the committee, but the National Youth Administration itself was a New Deal program, suggesting a liberal leaning. There is no information related to immigration, executive power, federalism, national security vs. civil liberties, or social inclusion. The economic regulation aspect is related to the New Deal program, which involved government intervention, but this specific document is just about adding members to a committee. Therefore, the economic regulation score should be moderate. Given the lack of information, most axes should be scored as neutral.",
+    "revised_scores": {
+        "ideological_tilt": 1,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    }
+}

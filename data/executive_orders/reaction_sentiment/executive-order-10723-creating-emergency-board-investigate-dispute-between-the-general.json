@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order addressing a labor dispute in the railway industry. As the President, the primary emotion I want to elicit is a sense of calm and assurance that the situation is being handled responsibly and fairly. The language is formal and legalistic, aiming to project authority and impartiality. There's an implicit desire to avoid panic or fear among the public due to potential disruptions in transportation. There's no explicit attempt to evoke joy or excitement. Sadness isn't directly relevant, but there might be a subtle undercurrent of regret that the dispute has reached this point. Anger and disgust are emotions I want to avoid eliciting. Surprise isn't a major factor, as the order is a measured response to a known issue. The initial scores reflect these considerations, with low values for negative emotions and a moderate value for assurance and calm. The revised scores are adjusted to better reflect the subtle nuances of the document's emotional impact.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

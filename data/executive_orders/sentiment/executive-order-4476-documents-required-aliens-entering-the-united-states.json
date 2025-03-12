@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order outlining regulations for alien entry into the United States. It primarily conveys a sense of authority and policy implementation. There is no strong indication of emotions like joy, sadness, fear, disgust, or surprise. The language is legal and procedural, aiming for clarity and precision rather than emotional expression. Therefore, most emotions should be scored low, with a slightly higher score for authority which can be interpreted as a low level of surprise that such an order is being given.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

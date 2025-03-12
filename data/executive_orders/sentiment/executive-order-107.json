@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal directive from the President to the Secretary of the Treasury regarding the transfer of funds for the annexation of the Hawaiian Islands and the enforcement of Chinese Exclusion Laws. The language is formal and bureaucratic. There is no explicit expression of emotions. However, the mention of 'Chinese Exclusion Laws' might imply a sense of disgust or fear related to Chinese immigration, but this is not explicitly stated and should be considered with caution. Given the formal nature, the emotional intensity is likely low across all emotions.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

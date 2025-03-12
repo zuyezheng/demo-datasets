@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 0,
+        "social_inclusion": 0
+    },
+    "critique": "This executive order concerns land use and access in Alaska, specifically opening up previously withdrawn lands for homesteading, initially prioritizing ex-service men. It revokes a previous order from 1915 and references specific acts and resolutions related to land allocation. There's a temporary preference given to ex-service men, followed by general public access. This doesn't directly address ideological tilts, immigration, executive power in a broad sense, national security, or social inclusion. It has some implications for economic regulation and federalism. The order opens up land for private use, which leans slightly towards deregulation. Since it is dealing with federal land it is an example of federal control.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 1,
+        "security_liberty": 0,
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    }
+}

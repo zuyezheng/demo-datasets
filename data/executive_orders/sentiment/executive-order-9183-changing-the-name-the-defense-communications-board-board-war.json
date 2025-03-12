@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It primarily communicates a sense of authority and decisiveness, but doesn't strongly convey any specific emotion. Therefore, most emotions should be scored low. There might be a slight sense of decisiveness which could be interpreted as a very mild form of joy or perhaps surprise at the changes being enacted, but these would be minimal.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

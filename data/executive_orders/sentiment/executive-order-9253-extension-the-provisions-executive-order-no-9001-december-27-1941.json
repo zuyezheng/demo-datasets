@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order extending the provisions of a previous order to the Immigration and Naturalization Service. The primary goal is to facilitate the prosecution of the war. There is no explicit expression of emotions. However, the context of war implies a sense of urgency and seriousness. Given the formal nature, the emotional intensity is likely to be low across all emotions. I will assign a baseline score of 1 for most emotions, with a slight increase in fear and sadness due to the war context.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

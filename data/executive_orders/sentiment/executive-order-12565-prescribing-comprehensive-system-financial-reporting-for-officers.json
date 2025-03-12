@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It aims to maintain public confidence in the government's integrity and promote ethical standards. The language is legal and procedural, lacking overt emotional expression. Therefore, the scores should be low across all emotions, with a slight emphasis on the importance of the order.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

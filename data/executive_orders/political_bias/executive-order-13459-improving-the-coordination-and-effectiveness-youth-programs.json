@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": 1
+    },
+    "critique": "This executive order establishes an interagency working group to promote positive results for at-risk youth. It focuses on collaboration, identifying effective strategies, and online publication of information. There's no clear ideological tilt, as it aims for bipartisan goals like improving outcomes for at-risk youth. It doesn't directly address immigration. It could be seen as a slight expansion of executive power through the establishment of the working group, but it also emphasizes collaboration with state and local entities. It doesn't directly impact national security or civil liberties. It involves government intervention in social programs, but not in a way that heavily regulates the economy. It promotes social inclusion by focusing on at-risk youth and aiming to improve their outcomes, but it doesn't explicitly address diversity or pluralism. Therefore, the initial scores are: Ideological Tilt: 0, Immigration Approach: 0, Executive Power: 1, Federalism: 0, National Security vs. Civil Liberties: 0, Economic Regulation: 1, Social Inclusion: 1. Upon further reflection, the emphasis on collaboration with state and local entities suggests a slight move towards state control, so Federalism should be -1. The focus on at-risk youth could be interpreted as a slight emphasis on conformity, so Social Inclusion should be 0.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": -1,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    }
+}

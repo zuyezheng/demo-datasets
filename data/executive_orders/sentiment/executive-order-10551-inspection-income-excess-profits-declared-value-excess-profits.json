@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding tax returns and their inspection by a congressional committee. It is related to studies of welfare and pension funds. The language is formal and legalistic. There is no strong emotion conveyed, but a sense of seriousness and purpose. Therefore, all emotions should be scored low, with a slight emphasis on seriousness.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

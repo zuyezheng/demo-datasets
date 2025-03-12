@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order regarding the government takeover of The Great Lakes Towing Company. The primary emotion conveyed is a sense of urgency and determination to ensure the continued operation of the transportation system during a wartime emergency. There is a hint of concern about potential disruptions due to labor disputes. The document aims to convey authority and decisiveness, not necessarily strong emotions. Therefore, the initial scores are relatively low across all emotions. After a second thought, I realized that the document is trying to convey the importance of the matter, so I will increase the fear and surprise scores.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 1,
+        "surprise": 3
+    }
+}

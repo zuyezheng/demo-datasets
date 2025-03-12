@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 1,
+        "federalism": 1,
+        "security_liberty": 2,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    },
+    "critique": "This document establishes a Board of Inquiry to address a labor dispute at Atomic Energy Commission facilities. It invokes the Labor-Management Relations Act, indicating a federal role in labor relations. The document itself doesn't express a clear ideological stance, immigration policy, or preference for state vs. federal control. It seems primarily focused on national security due to the involvement of atomic energy facilities. It also doesn't directly address civil liberties, economic regulation (beyond labor relations), or social inclusion. Therefore, most axes should be close to neutral, with a slight lean towards national security.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 1,
+        "security_liberty": 2,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    }
+}

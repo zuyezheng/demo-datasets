@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 3,
+        "sadness": 8,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal announcement of the death of Secretary of State Daniel Webster. As the President, my primary goal is to convey respect and sorrow, while also highlighting Webster's contributions and legacy. I want to elicit sadness and respect, while avoiding any sense of fear, disgust, or anger. Surprise is not really relevant in this context. The initial scores reflect this, with sadness being the highest, followed by joy (in celebrating Webster's life), and low scores for the other emotions. Upon review, I think the initial joy score is too high and should be lowered to better reflect the somber tone. The sadness score should be slightly increased to emphasize the gravity of the loss.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 9,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

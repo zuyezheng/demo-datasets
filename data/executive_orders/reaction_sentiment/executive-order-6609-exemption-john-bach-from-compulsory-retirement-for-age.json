@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is an executive order regarding the retirement age of a government employee. The primary emotion the President wants to elicit is probably a sense of reassurance and stability, showing that the government is functioning and taking care of its employees. There might be a hint of surprise that the President is intervening in such a specific case, but overall, the tone is formal and administrative. The initial scores reflect this assessment, with low values for most emotions and a slightly higher value for joy, reflecting the positive outcome for the employee in question. The revised scores are similar, but with a slight adjustment to surprise to reflect the unusual nature of the intervention.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
+    }
+}

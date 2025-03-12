@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding land use. It primarily conveys a sense of authority and legal compliance, with little emotional expression. Therefore, most emotions should be scored low. I will assign a baseline score of 1 for most emotions, increasing the score only if there's a clear indication of that emotion being conveyed.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

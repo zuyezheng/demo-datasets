@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses a sense of urgency and importance due to the potential disruption of interstate commerce. However, it maintains a neutral tone, focusing on the legal and procedural aspects of resolving the dispute. Therefore, the scores should reflect this neutrality with low values for most emotions.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

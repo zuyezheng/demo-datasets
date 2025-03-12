@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It primarily aims to establish an office and define its functions related to national defense. The language is formal and legalistic, with no explicit emotional expression. However, the context of national emergency and defense implies a sense of urgency and concern. Considering the formal tone, the emotional scores should be relatively low, but not at the absolute minimum due to the underlying context.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

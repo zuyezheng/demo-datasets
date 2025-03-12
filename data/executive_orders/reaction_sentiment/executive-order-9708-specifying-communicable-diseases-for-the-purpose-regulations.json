@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 1
+    },
+    "critique": "The document is a formal declaration listing communicable diseases under the Public Health Service Act. As the President, the primary goal is to ensure public health and safety. The tone is serious and authoritative, aiming to instill confidence in the government's ability to manage public health crises. The document does not explicitly aim to evoke strong emotions, but rather to inform and reassure the public. Therefore, the scores should reflect a low intensity for most emotions, with a slightly higher emphasis on reducing fear and disgust associated with communicable diseases.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

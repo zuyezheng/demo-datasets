@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a revocation of previous orders related to land use. The tone is formal and legalistic. The primary emotion the President wants to elicit is likely a sense of order and resolution, not strong emotions. The actions described are specific and technical, suggesting a focus on administrative efficiency rather than emotional impact. Therefore, I will assign low scores to all emotions initially. Upon review, I realize that while the document itself doesn't aim to evoke strong emotions, the act of revoking previous orders might subtly aim to reduce any potential fear or disgust related to the previous orders, and perhaps introduce a slight sense of joy or surprise that things are being changed or updated. However, these would still be relatively minor.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 3
+    }
+}

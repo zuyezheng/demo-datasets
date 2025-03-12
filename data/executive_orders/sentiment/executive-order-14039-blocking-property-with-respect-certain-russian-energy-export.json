@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order imposing sanctions related to Russia. It invokes legal authorities and outlines specific prohibitions and definitions. The language is precise and legalistic, with no overt expression of emotion. However, the underlying intent to address a national emergency and impose consequences for harmful foreign activities suggests a degree of concern and resolve.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 2
+    }
+}

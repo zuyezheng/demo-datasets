@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 1
+    },
+    "critique": "The document is a formal announcement of government closure due to the death of a public official. It expresses respect and mourning. It does not express joy, fear, or surprise. It expresses a small amount of sadness and potentially disgust at the death of a public official.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 1,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

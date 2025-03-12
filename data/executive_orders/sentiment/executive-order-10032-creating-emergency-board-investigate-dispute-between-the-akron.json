@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order addressing a labor dispute. The primary emotion conveyed is a sense of urgency and importance, but not necessarily strong emotions. There's a hint of concern due to the potential disruption of essential transportation services. Therefore, I will assign low scores to most emotions, with a slightly higher score for concern/fear.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

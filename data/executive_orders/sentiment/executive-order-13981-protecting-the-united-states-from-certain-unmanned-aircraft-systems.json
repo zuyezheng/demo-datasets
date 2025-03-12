@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 6,
+        "disgust": 5,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order regarding the security of Unmanned Aircraft Systems (UAS). The primary emotion conveyed is concern for national and economic security, with a focus on preventing risks associated with foreign adversaries. There's a sense of urgency and determination to protect American infrastructure and the defense industrial base. There is no obvious display of joy, sadness or surprise. Disgust is present in the context of foreign adversaries. Fear is present in the context of national security.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 7,
+        "disgust": 6,
+        "surprise": 2
+    }
+}

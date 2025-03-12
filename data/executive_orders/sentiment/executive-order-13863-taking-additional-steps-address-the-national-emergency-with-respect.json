@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order. It expresses concern about transnational criminal organizations and their threat to national security. There is a sense of seriousness and determination to address the issue. It does not express emotions like joy. The order aims to protect the safety and welfare of the United States and its citizens.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 5,
+        "disgust": 4,
+        "surprise": 2
+    }
+}

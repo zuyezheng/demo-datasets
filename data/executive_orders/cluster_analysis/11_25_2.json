@@ -1,0 +1,22 @@
+{
+    "analysis": "The documents primarily consist of executive orders and regulations issued by Presidents Roosevelt, Hoover, Eisenhower and Nixon. A common theme is the amendment or modification of existing orders, regulations, or procedures. Many address administrative matters, such as personnel, compensation, and the functioning of government agencies. Some address specific issues like land withdrawal, price controls during wartime, and student aid during the Depression. The sentiment is neutral, as they are legal and administrative directives.",
+    "tags": [
+        "Amendment",
+        "Modification",
+        "Government Administration",
+        "Personnel",
+        "Compensation",
+        "Land Management",
+        "Price Control",
+        "Student Aid"
+    ],
+    "title": "Amending and Modifying Existing Regulations and Orders",
+    "request": {
+        "cluster": 11,
+        "sample_size": 25
+    },
+    "stats": {
+        "input_tokens": 11358,
+        "output_tokens": 113
+    }
+}

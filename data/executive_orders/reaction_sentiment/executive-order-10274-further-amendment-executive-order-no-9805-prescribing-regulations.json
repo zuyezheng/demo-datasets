@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an amendment to an existing executive order regarding travel and transportation expenses for government employees. The tone is formal and bureaucratic. The primary goal is to communicate a change in regulations, not to elicit strong emotions. Therefore, the expected emotion scores should be low across the board, with a slight emphasis on reducing potential negative emotions like anger or disgust that might arise from perceived unfairness in travel expense policies. Surprise should also be low, as these types of amendments are common. Joy and sadness are unlikely to be relevant.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

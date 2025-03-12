@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It primarily deals with administrative changes, specifically modifying the Executive Schedule by removing obsolete positions and adding a new one. The language is formal and legalistic, devoid of emotional expression. Therefore, all emotions should be scored very low, close to 1, as there's no explicit or implicit conveyance of emotions like joy, sadness, anger, fear, disgust, or surprise. The order is simply a procedural update.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

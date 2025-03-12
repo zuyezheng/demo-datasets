@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order amending a previous order regarding financial transactions involving Norway and Denmark. The primary emotion conveyed is a sense of seriousness and urgency due to the context of potential wartime financial restrictions. There is a hint of fear and disgust towards potential financial threats. The document aims to establish control and prevent financial exploitation or evasion. There is no explicit joy or surprise.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 5,
+        "disgust": 4,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal amendment to an executive order. It delegates authority from the President to the Secretary of Health, Education, and Welfare regarding school construction assistance. The language is legal and procedural, with no explicit emotional content. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication of the emotion being conveyed.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

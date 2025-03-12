@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding the civil service status of certain employees. It is a legal and administrative document, and as such, it is unlikely to convey strong emotions. The primary goal is to communicate the new policy clearly and precisely. Therefore, most emotions should be scored low, with a baseline of 1 where there isn't enough information to suggest otherwise.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

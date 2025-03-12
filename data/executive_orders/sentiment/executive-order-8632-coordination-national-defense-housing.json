@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order outlining the functions and duties of the Office for Emergency Management with respect to national defense housing. The primary emotion conveyed is a sense of urgency and determination to address the housing needs related to national defense. There is a sense of purpose and resolve, but not necessarily joy. There is no explicit sadness, fear, disgust, or surprise conveyed in the document. The language is formal and bureaucratic, focusing on establishing structures and responsibilities.",
+    "revised_scores": {
+        "joy": 4,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

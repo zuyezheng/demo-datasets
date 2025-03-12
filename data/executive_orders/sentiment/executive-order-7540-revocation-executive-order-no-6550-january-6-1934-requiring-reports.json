@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order revoking a previous order. The language is formal and factual. There is no strong emotion conveyed. The primary emotion might be a slight sense of resolution or finality, but it's very mild. Therefore, I will assign low scores across all emotions, with a slightly higher score for sadness as it is a revocation.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

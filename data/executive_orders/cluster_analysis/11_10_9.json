@@ -1,0 +1,21 @@
+{
+    "analysis": "The documents consist of executive orders and presidential actions, many of which amend or refer to previous executive orders. A common theme is the modification and clarification of existing regulations and procedures, often related to government employees, compensation, and specific international situations. Several orders address pay, allowances, and working conditions for government employees, including those serving abroad. Some orders address specific countries or regions, often in the context of financial regulations or wartime measures. Some address civil service rules and appointments. The sentiment is generally neutral, focusing on legal and administrative details.",
+    "tags": [
+        "Government Employees",
+        "Compensation",
+        "International Affairs",
+        "Civil Service",
+        "Executive Orders",
+        "Amendments",
+        "Regulations"
+    ],
+    "title": "Amending Regulations Regarding Government and International Affairs",
+    "request": {
+        "cluster": 11,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3518,
+        "output_tokens": 131
+    }
+}

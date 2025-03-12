@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal order transferring motor repair shops from the Civilian Conservation Corps to the War Department during World War II. It's a factual and logistical directive, so it doesn't express strong emotions. A baseline of 1 is appropriate for emotions not explicitly present. There might be a hint of surprise at the scale of the transfer, but it's minimal. There is no explicit joy, sadness, fear, or disgust.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

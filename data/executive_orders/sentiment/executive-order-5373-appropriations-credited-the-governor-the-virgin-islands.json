@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal directive regarding the allocation of funds for the administration of the Virgin Islands. It is devoid of emotional language and focuses on legal and financial matters. Therefore, all emotions should be scored low, with a default of 1 where there is no clear indication of the emotion being conveyed.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

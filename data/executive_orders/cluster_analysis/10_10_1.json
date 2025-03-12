@@ -1,0 +1,20 @@
+{
+    "analysis": "The documents all relate to modifications or revocations of previous executive orders concerning public lands. They specify particular land descriptions (township, range, section) and the purpose for which the land was originally reserved (water reserves, power sites, elk refuge, etc.). The modifications often involve permitting alternative uses of the land, such as leasing for airports or exchanges for bird refuges. The documents span from 1912 to 1942, with multiple presidents issuing these orders.",
+    "tags": [
+        "Land Management",
+        "Public Land Modification",
+        "Revocation",
+        "Land Use",
+        "Geographic Specification",
+        "Resource Management"
+    ],
+    "title": "Adjustments to Land Use Designations",
+    "request": {
+        "cluster": 10,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 3510,
+        "output_tokens": 122
+    }
+}

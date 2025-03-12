@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 2,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order addressing a national emergency related to the de facto regime in Haiti. It outlines specific actions, including blocking assets and prohibiting certain transactions. Given the nature of the document, the primary emotions conveyed are concern and resolve. There is a sense of seriousness and determination to address the situation, but not overt anger, joy, or sadness. Fear and disgust are possible due to the nature of emergency, but not explicitly expressed. Surprise is not relevant in this context.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 4,
+        "disgust": 3,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents in this cluster are all executive orders issued by US presidents. They cover a wide range of topics, including labor relations, national security, veterans' affairs, and cultural policy. However, they all share the common goal of improving the effectiveness and efficiency of the federal government and promoting the well-being of the American people.",
+    "tags": [
+        "Government Efficiency",
+        "Policy Directives",
+        "Presidential Authority",
+        "Federal Regulations",
+        "Public Welfare"
+    ],
+    "title": "Federal Governance & National Priorities",
+    "request": {
+        "cluster": 22,
+        "sample_size": 10
+    },
+    "stats": {
+        "input_tokens": 32990,
+        "output_tokens": 85
+    }
+}

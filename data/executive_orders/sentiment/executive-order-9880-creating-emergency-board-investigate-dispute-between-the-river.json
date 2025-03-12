@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order addressing a labor dispute. It expresses a sense of urgency and authority, but avoids strong emotional language. Initial scores reflect a baseline level of emotions due to the formal nature of the document. Revised scores adjust based on the specific content, increasing slightly for concern (sadness) and potential disruption (fear), while maintaining low levels for other emotions.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 3,
+        "fear": 3,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

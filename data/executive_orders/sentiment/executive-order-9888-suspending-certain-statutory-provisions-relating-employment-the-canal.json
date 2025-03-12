@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal declaration regarding employment in the Canal Zone during a national emergency. It invokes legal authority and states the necessity of suspending certain employment requirements due to a housing shortage. The language is formal and legalistic. There is no explicit expression of emotions. However, the context of a national emergency and a housing shortage might implicitly convey a sense of concern or urgency. However, given the formal tone, the emotional intensity is likely to be low across all emotions. The initial scores will be set to reflect the formal tone and lack of explicit emotional expression. The revised scores will be adjusted slightly upwards to account for the implicit concern related to the national emergency and housing shortage.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

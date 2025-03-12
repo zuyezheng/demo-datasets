@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It focuses on improving productivity and efficiency within the federal government. There is no strong emotional language used. Therefore, most emotions should be scored low. There might be a slight sense of joy or optimism conveyed through the goal of improving services and efficiency, but it's very subtle. There's no indication of anger, fear, disgust, or surprise.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

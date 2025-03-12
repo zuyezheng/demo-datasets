@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal announcement of regulations regarding furloughs for government employees. It is primarily informational and legal in nature. There is no strong emotional content. The regulations aim to distribute work and manage personnel, which could be seen as a response to economic hardship, but the document itself doesn't express sadness or fear directly. There's no indication of joy, disgust, or surprise. Therefore, the initial scores should be low across all emotions. After further consideration, while the document itself is neutral, the context of furloughs implies a degree of sadness and perhaps fear among employees. However, the document is trying to be neutral, so the scores should remain low, but slightly elevated for sadness and fear.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

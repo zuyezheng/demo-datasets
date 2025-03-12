@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal order transferring officers from the Coast and Geodetic Survey to the Navy Department during a national emergency. The language is formal and legalistic. There is no explicit expression of emotions. However, the context of a national emergency might imply some level of fear or concern, but this is not directly stated. Therefore, a baseline score of 1 is appropriate for most emotions, with a slightly higher score for fear due to the emergency context.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

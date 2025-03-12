@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It aims to encourage and coordinate the development of commercial expendable launch vehicle (ELV) operations. The language is formal and legalistic. There is a sense of optimism and encouragement, but it is very subdued. Therefore, joy should be low. There is no indication of sadness, fear, disgust, or surprise. These should be set to 1.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding land withdrawal for military use. It uses formal and legal language. There is no explicit expression of emotions. However, the act of reserving land for military purposes might implicitly convey a sense of preparedness or seriousness. Given the formal nature, the emotional intensity is likely to be low across all emotions. I will assign a baseline score of 1 for most emotions, with a slightly higher score for seriousness which might be interpreted as a low level of fear or surprise related to national security.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

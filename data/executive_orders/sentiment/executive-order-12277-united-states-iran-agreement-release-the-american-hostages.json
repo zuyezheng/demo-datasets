@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal presidential order regarding the transfer of Iranian government assets. It aims to implement agreements with Iran, release U.S. hostages, and resolve claims. The language is legal and procedural. There is a sense of resolution and normalization, but it's conveyed through formal language, not emotional expression. Therefore, joy, sadness, fear, disgust, and surprise should be relatively low. The order is a response to a threat, so there might be a slight sense of relief or resolution, but it's not explicitly stated. The document is primarily about legal and economic actions, not emotions.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an amendment to consular regulations regarding postage charges. The tone is formal and bureaucratic. The primary goal is to ensure proper accounting and use of official postage. There is no explicit attempt to elicit any particular emotion. However, one could argue that the intention is to inspire confidence in the government's responsible use of funds (joy) and to prevent misuse (disgust/anger at potential misuse). However, these are very subtle. The language is neutral and factual. Therefore, the initial scores should be low across the board. After further consideration, the intention is to ensure proper accounting and use of official postage, so I will revise the joy score to 2.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

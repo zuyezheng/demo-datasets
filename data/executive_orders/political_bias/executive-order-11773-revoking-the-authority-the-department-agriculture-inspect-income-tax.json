@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": -1,
+        "federalism": 0,
+        "security_liberty": -1,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    },
+    "critique": "This document revokes two executive orders that gave the Department of Agriculture the authority to inspect income tax returns. This action could be seen as a move towards less government intervention and greater privacy. It's difficult to assess the ideological tilt without more context, but the revocation suggests a move away from government oversight. There is no mention of immigration, federalism, national security, economic regulation or social inclusion, so those scores should be neutral. The revocation of authority could be seen as restraining executive authority.",
+    "revised_scores": {
+        "ideological_tilt": -1,
+        "immigration": 0,
+        "executive_power": -1,
+        "federalism": 0,
+        "security_liberty": 1,
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    }
+}

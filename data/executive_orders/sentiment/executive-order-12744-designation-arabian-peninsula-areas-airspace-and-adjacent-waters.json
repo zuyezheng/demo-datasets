@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal designation of combat zones by the President. It is a legal document that does not explicitly express emotions. However, the designation of combat zones inherently implies a situation involving conflict, potential danger, and loss. Therefore, a baseline level of fear and sadness might be inferred. Surprise, disgust, and joy are unlikely to be present. The order is related to combat zones, so I will assign a low score to fear and sadness and a score of 1 to the other emotions.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

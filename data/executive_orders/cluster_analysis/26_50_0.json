@@ -1,0 +1,19 @@
+{
+    "analysis": "The documents in this cluster consist of executive orders related to the establishment, modification, or termination of government boards, committees, offices, and task forces. These entities are created to address specific issues, coordinate efforts across different government agencies, or provide advice to the President. The orders outline the functions, membership, and responsibilities of these entities, as well as their relationship to other parts of the government.",
+    "tags": [
+        "Government Organization",
+        "Interagency Coordination",
+        "Presidential Advisory",
+        "Policy Implementation",
+        "Federal Programs"
+    ],
+    "title": "Governmental Entities: Formation, Modification, and Termination",
+    "request": {
+        "cluster": 26,
+        "sample_size": 50
+    },
+    "stats": {
+        "input_tokens": 42329,
+        "output_tokens": 105
+    }
+}

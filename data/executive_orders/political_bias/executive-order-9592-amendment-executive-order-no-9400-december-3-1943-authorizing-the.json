@@ -1,0 +1,21 @@
+{
+    "initial_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": 1,
+        "social_inclusion": 0
+    },
+    "critique": "This document pertains to the operation of a shipyard during World War II. It modifies a previous executive order to allow the Secretary of the Navy to terminate government possession and operation of the shipyard when it can be efficiently operated privately in support of the war effort. Given the context of wartime, the document seems primarily focused on efficient resource management and transitioning back to private operation as soon as feasible. There's no clear indication of ideological bias, immigration policy, or civil liberties concerns. The federalism aspect is neutral as it involves the federal government managing a war-related asset. The economic regulation aspect leans slightly towards deregulation as it aims to return the shipyard to private operation. Social inclusion is not addressed in this document.",
+    "revised_scores": {
+        "ideological_tilt": 0,
+        "immigration": 0,
+        "executive_power": 0,
+        "federalism": 0,
+        "security_liberty": 0,
+        "economic_regulation": -1,
+        "social_inclusion": 0
+    }
+}

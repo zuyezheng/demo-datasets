@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 7,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
+    },
+    "critique": "The document is a simple name change of a national forest to honor George Washington. The primary emotion the President wants to elicit is joy and perhaps a little surprise. There is no indication of sadness, anger, fear, or disgust. The initial scores are joy: 7, surprise: 3, sadness: 1, anger: 1, fear: 1, disgust: 1. After thinking through it, the joy score seems a bit high. It's more of a respectful action, so joy should be lower. Surprise could also be a bit lower. The revised scores are joy: 5, surprise: 2, sadness: 1, anger: 1, fear: 1, disgust: 1.",
+    "revised_scores": {
+        "joy": 5,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

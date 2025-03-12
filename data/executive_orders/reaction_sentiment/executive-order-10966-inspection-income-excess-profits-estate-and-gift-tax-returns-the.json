@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding the inspection of tax returns by a House committee. The tone is formal and legalistic. The primary emotion the President likely wants to elicit is a sense of confidence in the government's operations and transparency. There is little to suggest strong emotions like joy, sadness, anger, fear, or disgust. Surprise is also unlikely, as the order is a procedural matter. Therefore, most emotions should be scored low initially. Upon further consideration, the president may want to instill a sense of trust and confidence, so I will revise the joy score slightly upward.",
+    "revised_scores": {
+        "joy": 3,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

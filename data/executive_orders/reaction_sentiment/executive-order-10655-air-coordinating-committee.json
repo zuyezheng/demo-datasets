@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order focused on coordinating aviation policies and activities. As the President, the primary emotions I want to elicit are a sense of confidence in the government's ability to manage aviation effectively and a sense of stability and order. There's not much room for strong emotions like joy or sadness in such a document. The language is formal and bureaucratic, aiming for clarity and precision rather than emotional impact. Therefore, the initial scores should reflect low intensities for most emotions, with perhaps a slightly higher score for confidence (which could be interpreted as a mild form of joy or a lack of fear). After further consideration, I think the initial scores are too neutral. While the document is formal, the act of establishing clear coordination could inspire a small amount of joy (things are being handled) and reduce fear (things are under control). The revised scores will reflect this.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

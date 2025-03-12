@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order regarding the retirement age of a government employee. It mainly conveys a neutral tone, with a slight hint of formality and importance. There is no strong indication of joy, sadness, fear, disgust, or surprise. Therefore, most emotions should be scored low, with a slightly higher score for importance or formality, which might be interpreted as a low level of surprise that such an order is being issued.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

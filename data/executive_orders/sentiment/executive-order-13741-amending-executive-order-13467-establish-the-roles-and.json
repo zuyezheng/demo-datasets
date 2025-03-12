@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It primarily focuses on establishing and amending policies and responsibilities related to background investigations and security clearances. Therefore, the emotional tone is expected to be neutral. There is no explicit expression of joy, sadness, fear, disgust, or surprise. However, the emphasis on strengthening security and addressing potential threats might implicitly convey a sense of concern or seriousness, but not outright fear. The order aims to improve efficiency and protect national interests, which could be interpreted as a subtle expression of determination or resolve. Given the formal nature and focus on policy, the emotional scores should be low, primarily reflecting the implicit seriousness of the subject matter.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

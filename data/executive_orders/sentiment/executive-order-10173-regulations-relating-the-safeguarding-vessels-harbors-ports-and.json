@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 7,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal set of regulations regarding the security of vessels, harbors, and waterfront facilities. The primary emotion conveyed is fear, stemming from concerns about sabotage and subversive activity. There's also a sense of authority and determination to maintain security. There is no information about joy. There is a low level of sadness because of the need for such regulations. There is a low level of disgust because of the actions that necessitate the regulations. There is a low level of surprise because the document is expected.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 8,
+        "disgust": 2,
+        "surprise": 1
+    }
+}

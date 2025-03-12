@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding government operations. The tone is official and bureaucratic, not intended to evoke strong emotions. The revocation of a previous order and the effective date are the main points. As such, the primary emotions conveyed are likely minimal. The initial scores reflect this, with low values across all emotions. The critique acknowledges the lack of emotional content and suggests slightly adjusting the scores to reflect the potential for minor surprise or concern due to the change in policy, but overall maintaining low emotional intensity.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

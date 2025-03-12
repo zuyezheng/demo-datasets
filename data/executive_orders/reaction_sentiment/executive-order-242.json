@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a military order assigning Major-General John M. Schofield to the command of the Army of the United States. As the President, my primary goal is to convey a sense of order, confidence, and stability in the military leadership. The tone is formal and direct, reflecting the seriousness of the situation. There is no explicit mention of emotions, but the implicit emotions are: Joy: 1 (no indication of joy), Sadness: 1 (no indication of sadness), Anger: 1 (no indication of anger), Fear: 1 (no indication of fear), Disgust: 1 (no indication of disgust), Surprise: 1 (no indication of surprise). Upon further reflection, the assignment of a new commander might bring a slight sense of hope or optimism, so I will adjust the joy score to 2. The other scores remain the same.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

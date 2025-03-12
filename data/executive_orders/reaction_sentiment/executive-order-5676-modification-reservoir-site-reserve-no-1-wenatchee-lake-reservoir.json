@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a modification to an existing executive order regarding land use for a specific project. The tone is formal and legalistic, with no explicit emotional appeals. As the President, the primary emotion I want to elicit is a sense of confidence and assurance that the government is efficiently managing resources and infrastructure projects. However, the document itself doesn't strongly convey any particular emotion. Therefore, the initial scores will be relatively low across the board.I will set all initial scores to 1, except for surprise which I will set to 2, since the modification of an existing order might be slightly surprising. After further consideration, I think a slight increase in joy and confidence is warranted, as the order facilitates a project. I will also slightly increase surprise, as the document does involve a change to a previous order.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 3
+    }
+}

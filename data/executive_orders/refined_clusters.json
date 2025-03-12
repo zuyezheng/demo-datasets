@@ -1,0 +1,797 @@
+[
+    {
+        "analysis": "Based on a comparative analysis with other clusters, the documents in this cluster uniquely focus on directives issued by U.S. Presidents and government officials, particularly the War Department, from the Civil War era through the early 20th century. While other clusters address land management, labor, or economic policies, this cluster is distinguished by its historical context and specific focus on military actions, appointments, and governance of territories during a transformative period in U.S. history. The sentiment is formal and authoritative, reflecting the official nature of the documents.",
+        "tags": [
+            "Civil War Era",
+            "Reconstruction Era",
+            "Presidential Directives",
+            "War Department",
+            "Territorial Governance",
+            "Military Actions",
+            "Appointments",
+            "Administrative Matters",
+            "19th Century",
+            "Early 20th Century"
+        ],
+        "title": "Civil War to Early 20th Century Presidential and War Department Directives",
+        "cluster": 0
+    },
+    {
+        "analysis": "Compared to other clusters, this cluster uniquely focuses on amendments to existing executive orders, specifically concerning government structure and personnel. While other clusters address broader policy implementations or land management, this cluster is distinguished by its narrow focus on administrative adjustments within the executive branch. The sentiment is neutral, reflecting the routine nature of these changes.",
+        "tags": [
+            "Executive Order Amendments",
+            "Government Structure",
+            "Personnel Changes",
+            "Committee Membership",
+            "Council Adjustments",
+            "Agency Responsibilities",
+            "Succession",
+            "Administrative Changes"
+        ],
+        "title": "Executive Order Amendments: Government Structure and Personnel",
+        "cluster": 1
+    },
+    {
+        "analysis": "This cluster is uniquely focused on land management and resource allocation specifically within Alaska. While other clusters address land management in general, this cluster is distinguished by its geographic specificity and recurring themes of modification, reservation, withdrawal, and reallocation of land for various purposes unique to Alaska, such as native interests and townsite development. The sentiment is neutral, reflecting legal and administrative actions.",
+        "tags": [
+            "Alaska Land Management",
+            "Resource Allocation",
+            "Land Reservation",
+            "Land Withdrawal",
+            "Governmental Land Use",
+            "Infrastructure Development",
+            "Native Interests",
+            "Townsite Development",
+            "Military Land Use",
+            "Agricultural Land Use"
+        ],
+        "title": "Alaskan Land Reallocations for Development and Native Interests",
+        "cluster": 2
+    },
+    {
+        "analysis": "This cluster uniquely focuses on executive and presidential orders authorizing access to tax returns for various governmental entities. While other clusters address government investigations or access to information, this cluster is distinguished by its specific focus on tax return inspections and the wide range of reasons cited for these inspections. The sentiment is neutral, reflecting the legal and administrative nature of the orders.",
+        "tags": [
+            "Tax Return Inspections",
+            "Government Oversight",
+            "Congressional Committees",
+            "Internal Revenue Code",
+            "Presidential Authority",
+            "Government Investigations",
+            "Access to Tax Information",
+            "Revenue Acts",
+            "Federal Agencies",
+            "State Officials"
+        ],
+        "title": "Government Authorized Tax Return Inspections",
+        "cluster": 3
+    },
+    {
+        "analysis": "This cluster uniquely combines government land and resource management with labor regulation, particularly within the railway industry. While other clusters focus on either land management or labor disputes, this cluster is distinguished by its dual focus and the establishment of boards or commissions to address railway labor disputes. The sentiment is neutral, reflecting legal and administrative actions.",
+        "tags": [
+            "Land Management",
+            "Resource Allocation",
+            "Land Transfer",
+            "Boundary Adjustments",
+            "National Forests",
+            "Military Reservations",
+            "Wildlife Refuges",
+            "Governmental Jurisdiction",
+            "Labor Disputes",
+            "Railway Industry",
+            "Labor Regulation"
+        ],
+        "title": "Government Land Management and Railway Labor Regulation",
+        "cluster": 4
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the delegation of presidential authority to various government officials and agencies across a wide range of topics. While other clusters address specific policy areas or government functions, this cluster is distinguished by its broad scope and focus on the delegation of power within the executive branch. The sentiment is neutral, reflecting the administrative nature of these orders.",
+        "tags": [
+            "Delegation of Authority",
+            "Government Agencies",
+            "Presidential Powers",
+            "Executive Branch",
+            "Government Administration",
+            "Agency Responsibilities",
+            "Government Operations",
+            "Administrative Procedures",
+            "Executive Order Amendments",
+            "Regulatory Compliance"
+        ],
+        "title": "Delegation of Presidential Authority to Government Agencies",
+        "cluster": 5
+    },
+    {
+        "analysis": "This cluster uniquely focuses on executive actions as a means of directing national policy and governance across various governmental departments and agencies. While other clusters address specific policy areas or government functions, this cluster is distinguished by its broad scope and focus on the use of executive authority to implement policies and respond to national challenges. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Executive Action",
+            "Government Regulations",
+            "Policy Implementation",
+            "National Security",
+            "Land Management",
+            "Labor Relations",
+            "Environmental Protection",
+            "Economic Policy",
+            "Civil Service",
+            "Presidential Directives"
+        ],
+        "title": "Executive Actions: Directing National Policy and Governance",
+        "cluster": 6
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the establishment, modification, and abolishment of restricted areas, including naval defensive sea areas and airspace reservations, primarily for national defense and public safety. While other clusters address national security or military operations, this cluster is distinguished by its specific focus on geographic boundaries and restrictions on navigation and activities. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Restricted Areas",
+            "Airspace Reservations",
+            "Naval Defensive Sea Areas",
+            "Geographic Boundaries",
+            "Navigation Restrictions",
+            "National Defense",
+            "Public Safety",
+            "Military Operations",
+            "Labor Regulations",
+            "Travel Expenses"
+        ],
+        "title": "Restricted Air and Sea Zones for National Defense",
+        "cluster": 7
+    },
+    {
+        "analysis": "This cluster uniquely focuses on presidential directives addressing a wide array of national and international issues, with a recurring theme of interagency coordination through task forces, committees, and councils. While other clusters address specific policy areas or government functions, this cluster is distinguished by its broad scope and focus on coordinating efforts across various government agencies. The sentiment is neutral, reflecting the legal and administrative nature of these directives.",
+        "tags": [
+            "Presidential Directives",
+            "Interagency Coordination",
+            "Foreign Policy",
+            "National Security",
+            "Economic Measures",
+            "Policy Implementation",
+            "Regulatory Reform",
+            "Emergency Response",
+            "Government Coordination",
+            "International Relations"
+        ],
+        "title": "Presidential Directives on National and International Governance",
+        "cluster": 8
+    },
+    {
+        "analysis": "This cluster uniquely focuses on presidential exemptions from mandatory retirement for government employees based on the Act of June 30, 1932. While other clusters address government employees or personnel management, this cluster is distinguished by its specific focus on retirement exemptions and the legal basis for these exemptions. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Retirement Exemption",
+            "Government Employees",
+            "Public Interest",
+            "Act of June 30, 1932",
+            "Section 204",
+            "Presidential Authority"
+        ],
+        "title": "Presidential Exemptions to Mandatory Retirement",
+        "cluster": 9
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the establishment, modification, and revocation of land reservations and withdrawals, specifying land descriptions using the Public Land Survey System. While other clusters address land management, this cluster is distinguished by its focus on reservations and withdrawals and the use of the Public Land Survey System for land descriptions. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Land Management",
+            "Public Land",
+            "Land Reservation",
+            "Land Withdrawal",
+            "Resource Management",
+            "Revocation",
+            "Modification",
+            "Public Land Survey System",
+            "Military Use"
+        ],
+        "title": "Land Reservation and Withdrawal Management",
+        "cluster": 10
+    },
+    {
+        "analysis": "This cluster uniquely focuses on executive orders that modify, amend, extend, revoke, suspend, or delay existing orders, regulations, and procedures. While other clusters address specific policy areas or government functions, this cluster is distinguished by its focus on adjustments to existing directives. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Executive Orders",
+            "Amendments",
+            "Modifications",
+            "Revocations",
+            "Suspensions",
+            "Delays",
+            "Government Administration",
+            "Personnel Management",
+            "Land Management",
+            "Financial Regulations"
+        ],
+        "title": "Adjustments to Existing Executive Orders and Regulations",
+        "cluster": 11
+    },
+    {
+        "analysis": "This cluster uniquely focuses on adjustments to existing executive orders and delegations of authority. While other clusters address specific policy areas or government functions, this cluster is distinguished by its focus on modifying existing directives and delegations of authority. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Executive Order Amendments",
+            "Executive Order Revocations",
+            "Executive Order Extensions",
+            "Executive Order Modifications",
+            "Delegation of Authority",
+            "Government Administration",
+            "Regulatory Adjustments",
+            "Presidential Directives"
+        ],
+        "title": "Adjustments to Existing Executive Orders and Delegations of Authority",
+        "cluster": 12
+    },
+    {
+        "analysis": "This cluster uniquely focuses on actions taken by the US government during times of war or national emergency, particularly concerning the control of private industries and resources. While other clusters address government regulations or economic policies, this cluster is distinguished by its focus on wartime powers and the seizure of facilities. The sentiment is serious and focused on national security and efficient resource management.",
+        "tags": [
+            "Wartime Powers",
+            "National Emergency",
+            "Economic Mobilization",
+            "Resource Control",
+            "Civil Defense",
+            "War Effort",
+            "Labor Disputes",
+            "Government Control",
+            "Agency Coordination"
+        ],
+        "title": "Federal Control of Resources and Production During Wartime",
+        "cluster": 13
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the withdrawal, reservation, modification, and restoration of public lands primarily in California and Nevada. While other clusters address land management, this cluster is distinguished by its geographic specificity and the use of the Mount Diablo and San Bernardino Meridians for land descriptions. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Land Management",
+            "California",
+            "Public Land",
+            "Land Withdrawal",
+            "Land Reservation",
+            "Mount Diablo Meridian",
+            "San Bernardino Meridian",
+            "Forest Protection",
+            "Military Use"
+        ],
+        "title": "California and Nevada Public Land Management",
+        "cluster": 14
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the order of succession for various US government departments and agencies. While other clusters address government administration or personnel management, this cluster is distinguished by its specific focus on establishing a hierarchy of officials to assume responsibilities in the event of absence, death, resignation, or disability. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Succession",
+            "Cabinet",
+            "Departmental Leadership",
+            "Government Continuity",
+            "Order of Succession",
+            "Vacancy",
+            "Presidential Authority",
+            "Acting Secretary",
+            "Federal Vacancies Reform Act"
+        ],
+        "title": "Presidential Orders of Succession within Federal Departments",
+        "cluster": 15
+    },
+    {
+        "analysis": "This cluster uniquely focuses on labor disputes that threaten to disrupt interstate commerce and/or national safety, and the creation of presidential boards to investigate these disputes. While other clusters address labor relations or government investigations, this cluster is distinguished by its specific focus on disputes that impact interstate commerce and national safety. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Labor Dispute",
+            "Interstate Commerce",
+            "National Safety",
+            "Emergency Board",
+            "Board of Inquiry",
+            "Transportation",
+            "Mediation",
+            "Essential Services",
+            "Strikes",
+            "Lockouts"
+        ],
+        "title": "Presidential Boards to Investigate Labor Disputes",
+        "cluster": 16
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the transfer, reservation, restoration, or modification of land, often related to military or naval purposes, lighthouses, or other government facilities, with a significant portion of the documents concerning land in Hawaii, Alaska, and the Canal Zone. While other clusters address land management, this cluster is distinguished by its geographic specificity and focus on military and naval land use. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Land Transfer",
+            "Land Reservation",
+            "Military Land",
+            "Territorial Land",
+            "Hawaii",
+            "Alaska",
+            "Canal Zone",
+            "Boundary Adjustment",
+            "Geographic Coordinates",
+            "Government Land Use"
+        ],
+        "title": "Land Management in US Territories and Military Reservations",
+        "cluster": 17
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the establishment, modification, and authorization of military and civilian awards, medals, decorations, seals, and flags by the President of the United States. While other clusters address government administration or military affairs, this cluster is distinguished by its specific focus on presidential recognition and honors. The sentiment is positive, reflecting the recognition of significant contributions and service.",
+        "tags": [
+            "Presidential Recognition",
+            "Military Awards",
+            "Civilian Awards",
+            "Medals",
+            "Decorations",
+            "Seals",
+            "Flags",
+            "Government Honors",
+            "Military Honors",
+            "National Symbols"
+        ],
+        "title": "Presidential Awards, Decorations, and National Symbols",
+        "cluster": 18
+    },
+    {
+        "analysis": "This cluster uniquely focuses on presidential exemptions from mandatory retirement for government employees, typically for one-year periods, based on the judgment that their continued service is in the public interest. While other clusters address government employees or personnel management, this cluster is distinguished by its specific focus on retirement exemptions and the legal basis for these exemptions. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Retirement Exemption",
+            "Government Employee",
+            "Public Interest",
+            "Presidential Action",
+            "Act of June 30, 1932",
+            "Section 204"
+        ],
+        "title": "Presidential Exemptions to Mandatory Retirement",
+        "cluster": 19
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the withdrawal, reservation, and management of public lands, often for specific purposes such as military use, national forests, wildlife refuges, flood control, and forest service facilities, with a recurring theme of temporary withdrawals. While other clusters address land management, this cluster is distinguished by its focus on temporary withdrawals and the specific purposes for which land is withdrawn. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Land Withdrawal",
+            "Public Land",
+            "Land Reservation",
+            "Resource Management",
+            "Military Use",
+            "Forest Service",
+            "Flood Control",
+            "Wildlife Refuge",
+            "Governmental Use",
+            "Revocation"
+        ],
+        "title": "Federal Land Withdrawal and Reservation for Public Purposes",
+        "cluster": 20
+    },
+    {
+        "analysis": "This cluster uniquely focuses on waiving civil service rules for government appointments, particularly for widows and family members of deceased government employees or veterans. While other clusters address civil service regulations, this cluster is distinguished by its focus on compassionate consideration and support for bereaved families. The sentiment is compassionate, aiming to provide support and recognition for government service.",
+        "tags": [
+            "Civil Service Waiver",
+            "Government Appointment",
+            "Widow/Family Support",
+            "Compassionate Consideration",
+            "Financial Hardship",
+            "Prior Service",
+            "Reinstatement"
+        ],
+        "title": "Civil Service Waivers for Bereaved Families",
+        "cluster": 21
+    },
+    {
+        "analysis": "This cluster uniquely combines national security, foreign policy, and domestic policy within executive orders and presidential actions. While other clusters address these areas individually, this cluster is distinguished by its integrated approach and the use of executive authority to address national needs and priorities. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Executive Action",
+            "National Security",
+            "Foreign Policy",
+            "Domestic Policy",
+            "Delegation of Authority",
+            "Government Regulations",
+            "Policy Directives",
+            "Presidential Authority",
+            "Emergency Preparedness"
+        ],
+        "title": "Presidential Actions on National Security and Governance",
+        "cluster": 22
+    },
+    {
+        "analysis": "This cluster uniquely focuses on Executive Orders from the Truman administration, primarily focused on amending, delegating authority, and adjusting existing regulations and frameworks. While other clusters address executive orders or government operations, this cluster is distinguished by its specific focus on the Truman administration and its post-war adjustments. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Truman Administration",
+            "Executive Orders",
+            "Government Operations",
+            "Amendments",
+            "Delegation of Authority",
+            "Regulations",
+            "Post-War Adjustments",
+            "National Emergency",
+            "Government Management"
+        ],
+        "title": "Truman Administration: Adjustments to Government Operations",
+        "cluster": 23
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the withdrawal or revocation of withdrawal of public lands for resurvey in various western states, primarily from the Roosevelt and Hoover administrations. While other clusters address land management, this cluster is distinguished by its focus on resurvey and the specific states involved. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Land Resurvey",
+            "Public Land Withdrawal",
+            "Land Revocation",
+            "Township and Range",
+            "Principal Meridian",
+            "Western States",
+            "Roosevelt",
+            "Hoover"
+        ],
+        "title": "Land Withdrawal and Resurvey Orders in Western States",
+        "cluster": 24
+    },
+    {
+        "analysis": "This cluster uniquely focuses on land management and resource allocation in Arizona and New Mexico, with a recurring theme of modifying land status for Native American tribes, military purposes, and various governmental uses. While other clusters address land management, this cluster is distinguished by its geographic specificity and focus on Native American affairs. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Land Management",
+            "Resource Allocation",
+            "Arizona",
+            "New Mexico",
+            "Native American Affairs",
+            "Military Use",
+            "Land Withdrawal",
+            "Land Reservation",
+            "Public Land"
+        ],
+        "title": "Land Management in Arizona and New Mexico",
+        "cluster": 25
+    },
+    {
+        "analysis": "This cluster uniquely focuses on executive orders and related governmental actions that address a diverse range of national issues, often involving the establishment, modification, or delegation of authority within government agencies and departments. While other clusters address specific policy areas or government functions, this cluster is distinguished by its broad scope and focus on adapting to evolving challenges. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Executive Orders",
+            "Governmental Actions",
+            "Resource Management",
+            "Economic Policy",
+            "National Security",
+            "Policy Implementation",
+            "Interagency Coordination",
+            "Delegation of Authority",
+            "Regulation Adjustment"
+        ],
+        "title": "Governmental Actions on National Issues",
+        "cluster": 26
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the establishment, modification, and administration of land reservations for Native American tribes in the United States, primarily from the late 19th to early 20th century. While other clusters address land management, this cluster is distinguished by its specific focus on Native American land rights and resource allocation. The sentiment is neutral, reflecting the historical relationship between the U.S. government and Native American tribes.",
+        "tags": [
+            "Native American Land",
+            "Land Reservation",
+            "Boundary Definition",
+            "Tribal Lands",
+            "Government Land Management",
+            "Land Use",
+            "Public Land Withdrawal",
+            "Territorial Administration",
+            "Resource Management"
+        ],
+        "title": "Native American Land Reservations",
+        "cluster": 27
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the implementation, modification, and administration of the National Industrial Recovery Act (NIRA) of 1933 and related legislation. While other clusters address economic policy or labor regulations, this cluster is distinguished by its specific focus on the NIRA and its impact on various industries. The sentiment is generally focused on economic recovery, industrial regulation, and fair labor practices during the Great Depression.",
+        "tags": [
+            "National Industrial Recovery Act",
+            "Fair Competition",
+            "Labor Regulations",
+            "Economic Recovery",
+            "Industrial Regulation",
+            "Delegation of Authority",
+            "Great Depression",
+            "New Deal",
+            "Labor Standards"
+        ],
+        "title": "National Industrial Recovery Act (NIRA) Implementation",
+        "cluster": 28
+    },
+    {
+        "analysis": "This cluster uniquely focuses on military and veteran affairs, specifically on regulations, personnel management, compensation, and benefits. While other clusters address government regulations or personnel management, this cluster is distinguished by its specific focus on the military and veteran community. The sentiment is neutral, reflecting the legal and administrative nature of the documents.",
+        "tags": [
+            "Military Personnel",
+            "Veteran Affairs",
+            "Regulations",
+            "Compensation",
+            "Benefits",
+            "Personnel Management",
+            "Amendments",
+            "Coast Guard",
+            "Military Justice"
+        ],
+        "title": "Military and Veteran Personnel: Regulation and Management",
+        "cluster": 29
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the designation of international organizations as public international organizations, granting them privileges, exemptions, and immunities under the International Organizations Immunities Act. While other clusters address international relations, this cluster is distinguished by its specific focus on the legal status and privileges of international organizations. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "International Organizations",
+            "Immunities",
+            "Privileges",
+            "Exemptions",
+            "Designation",
+            "Revocation"
+        ],
+        "title": "Designations of International Organizations for Immunities",
+        "cluster": 30
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the National Industrial Recovery Act (NIRA) of 1933 and the establishment, modification, and potential exemptions of Codes of Fair Competition across diverse industries. While other clusters address economic policy or industry regulation, this cluster is distinguished by its specific focus on the NIRA and the Codes of Fair Competition. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "National Industrial Recovery Act",
+            "NIRA",
+            "Fair Competition Codes",
+            "Industry Regulation",
+            "Great Depression",
+            "Economic Recovery",
+            "New Deal",
+            "Roosevelt Administration"
+        ],
+        "title": "NIRA: Approvals and Modifications of Fair Competition Codes",
+        "cluster": 31
+    },
+    {
+        "analysis": "This cluster uniquely focuses on executive orders that establish councils, working groups, or designate liaisons within federal agencies to address specific issues, ranging from volunteer community service and food safety to educational resource equity and energy efficiency. While other clusters address government operations or policy implementation, this cluster is distinguished by its focus on interagency coordination and the establishment of advisory bodies. The sentiment is a commitment to improving the effectiveness and efficiency of government programs.",
+        "tags": [
+            "Interagency Coordination",
+            "Government Efficiency",
+            "Policy Implementation",
+            "Executive Orders",
+            "Federal Agencies",
+            "Government Operations",
+            "Presidential Directives",
+            "Council Establishment",
+            "Committee Establishment"
+        ],
+        "title": "Executive Orders for Interagency Coordination",
+        "cluster": 32
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the establishment, modification, and management of wildlife refuges and breeding grounds, primarily for migratory birds, across various states. While other clusters address land management or environmental protection, this cluster is distinguished by its specific focus on wildlife refuges and the conservation of migratory birds. The sentiment is focused on the conservation of wildlife and their habitats.",
+        "tags": [
+            "Wildlife Refuge",
+            "Migratory Birds",
+            "Land Conservation",
+            "Habitat Protection",
+            "Environmental Protection",
+            "Breeding Ground",
+            "Hunting Prohibition",
+            "Department of Agriculture",
+            "Department of Interior"
+        ],
+        "title": "Establishment and Management of Wildlife Refuges",
+        "cluster": 33
+    },
+    {
+        "analysis": "This cluster uniquely focuses on modifications of customs ports of entry and collection districts, including creation, abolishment, extension of limits, name changes, and boundary adjustments, all invoking the authority of the Act of August 1, 1914. While other clusters address trade regulations, this cluster is distinguished by its specific focus on customs ports and collection districts. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Customs Ports",
+            "Ports of Entry",
+            "Customs Collection Districts",
+            "Geographic Boundaries",
+            "Act of August 1, 1914",
+            "Presidential Actions",
+            "Trade Regulations"
+        ],
+        "title": "Customs Ports of Entry: Modifications and Adjustments",
+        "cluster": 34
+    },
+    {
+        "analysis": "This cluster uniquely focuses on modifications, exceptions, and amendments to civil service rules and regulations, addressing specific situations, individuals, or groups of employees. While other clusters address civil service regulations, this cluster is distinguished by its focus on exceptions and amendments to address specific cases. The sentiment is generally neutral, focusing on the practical application and adjustment of civil service policies.",
+        "tags": [
+            "Civil Service",
+            "Appointments",
+            "Exceptions",
+            "Regulations",
+            "Amendments",
+            "Modifications",
+            "Waivers",
+            "Government Employees",
+            "Veteran Preference",
+            "Reinstatements"
+        ],
+        "title": "Civil Service: Rule Modifications and Exceptions",
+        "cluster": 35
+    },
+    {
+        "analysis": "This cluster uniquely focuses on executive orders and presidential directives that establish, modify, or revoke committees, councils, task forces, and other interagency groups within the US government. While other clusters address government organization or policy implementation, this cluster is distinguished by its focus on interagency coordination and the establishment of advisory groups. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Executive Orders",
+            "Presidential Directives",
+            "Interagency Coordination",
+            "Government Organization",
+            "Policy Implementation",
+            "Advisory Councils",
+            "Task Forces",
+            "Committees",
+            "Delegation of Authority"
+        ],
+        "title": "Executive Branch Organization: Interagency Groups",
+        "cluster": 36
+    },
+    {
+        "analysis": "This cluster uniquely focuses on announcements and orders related to mourning periods, closures of government departments, and commemorative ceremonies following deaths of government officials, military personnel, and national figures. While other clusters address government operations or military affairs, this cluster is distinguished by its focus on mourning and remembrance. The sentiment is respectful and sorrowful.",
+        "tags": [
+            "Mourning",
+            "Remembrance",
+            "Government Closure",
+            "National Figures",
+            "Military",
+            "Death",
+            "Respect",
+            "Sorrow",
+            "Commemoration"
+        ],
+        "title": "Governmental Mourning and Remembrance",
+        "cluster": 37
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the extension of trust periods for land allotments made to Native American tribes and individuals. While other clusters address Native American affairs or land management, this cluster is distinguished by its specific focus on trust periods and the prevention of land alienation. The sentiment is neutral, reflecting a long-standing federal policy concerning Native American land rights.",
+        "tags": [
+            "Native American",
+            "Land Allotments",
+            "Trust Period Extension",
+            "Federal Protection",
+            "Land Alienation",
+            "Reservations",
+            "Tribes"
+        ],
+        "title": "Extending Federal Trust on Native American Land Allotments",
+        "cluster": 38
+    },
+    {
+        "analysis": "This cluster uniquely focuses on amendments, modifications, and regulations related to international relations, trade, maritime activities, immigration, consular services, and the Panama Canal. While other clusters address international relations or trade regulations, this cluster is distinguished by its broad scope and focus on various aspects of international affairs. The sentiment is neutral, focusing on legal and administrative actions.",
+        "tags": [
+            "International Relations",
+            "Trade Regulations",
+            "Maritime Regulations",
+            "Immigration",
+            "Consular Services",
+            "Panama Canal",
+            "Amendments",
+            "Regulations",
+            "Tariffs",
+            "Fees"
+        ],
+        "title": "International Trade, Immigration, and Canal Regulations",
+        "cluster": 39
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the establishment, modification, or delegation of authority to committees, councils, offices, or individuals within the executive branch of the U.S. government. While other clusters address government organization or policy implementation, this cluster is distinguished by its focus on the structure and function of the executive branch. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Executive Branch Organization",
+            "Delegation of Authority",
+            "Interagency Coordination",
+            "Governmental Committees",
+            "Policy Implementation",
+            "Government Efficiency"
+        ],
+        "title": "Executive Branch Organization: Authority and Coordination",
+        "cluster": 40
+    },
+    {
+        "analysis": "This cluster uniquely focuses on international trade, tariffs, trade agreements, export controls, and related economic regulations. While other clusters address international relations or economic policy, this cluster is distinguished by its specific focus on trade-related issues. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "International Trade",
+            "Tariffs",
+            "Trade Agreements",
+            "Export Controls",
+            "Economic Regulations",
+            "Delegation of Authority",
+            "GSP",
+            "National Security",
+            "Economic Policy"
+        ],
+        "title": "International Trade and Export Regulations",
+        "cluster": 41
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the establishment, modification, continuation, or termination of Presidential advisory committees, commissions, boards, councils, and task forces. While other clusters address government organization or policy implementation, this cluster is distinguished by its focus on advisory bodies and their role in providing advice to the President. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Presidential Advisory Groups",
+            "Commissions",
+            "Committees",
+            "Federal Advisory Committee Act",
+            "Policy Recommendations",
+            "Government Consultation",
+            "Expert Advice"
+        ],
+        "title": "Presidential Advisory Committees and Commissions",
+        "cluster": 42
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the establishment, modification, continuation, or termination of various advisory committees, commissions, boards, councils, task forces, and other governmental entities within the Executive Branch. While other clusters address government organization or policy implementation, this cluster is distinguished by its focus on advisory bodies and their role in providing advice to the President and federal agencies. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Advisory Committees",
+            "Governmental Commissions",
+            "Executive Branch",
+            "Policy Recommendations",
+            "Interagency Coordination",
+            "Federal Government",
+            "Presidential Advisory",
+            "Governmental Organization",
+            "Delegation of Authority"
+        ],
+        "title": "Executive Branch Advisory Groups: Formation and Function",
+        "cluster": 43
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the allocation, transfer, and management of government funds and resources during times of emergency, particularly the Great Depression and the lead-up to World War II. While other clusters address economic policy or government regulations, this cluster is distinguished by its focus on emergency relief and resource management during times of crisis. The sentiment is proactive, reflecting the executive branch's efforts to address economic hardship and national security concerns.",
+        "tags": [
+            "Great Depression",
+            "New Deal",
+            "Emergency Relief",
+            "Fund Allocation",
+            "Economic Recovery",
+            "Public Works",
+            "Government Agencies",
+            "Resource Management",
+            "National Security",
+            "Roosevelt Administration"
+        ],
+        "title": "Great Depression and New Deal Era: Federal Resource Management",
+        "cluster": 44
+    },
+    {
+        "analysis": "This cluster uniquely focuses on amendments and modifications to civil service rules and regulations across various government departments, with a recurring theme of adjusting positions subject to or exempt from competitive examinations. While other clusters address civil service regulations, this cluster is distinguished by its focus on examination requirements and departmental regulations. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Civil Service",
+            "Rule Amendments",
+            "Government Employment",
+            "Hiring",
+            "Examinations",
+            "Departmental Regulations",
+            "Appointments",
+            "Transfers",
+            "Veterans",
+            "Eligibility"
+        ],
+        "title": "Civil Service - Examination and Appointment Rule Changes",
+        "cluster": 45
+    },
+    {
+        "analysis": "This cluster uniquely focuses on adjustments to pay scales and compensation for various U.S. government employees, including those in the General Schedule, Foreign Service, Veterans Health Administration, Senior Executive Service, Uniformed Services, and members of the Executive, Legislative, and Judicial branches. While other clusters address government employees or personnel management, this cluster is distinguished by its specific focus on compensation and pay scales. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Federal Pay",
+            "Salary Adjustments",
+            "Government Employees",
+            "Pay Scales",
+            "Uniformed Services Pay",
+            "Executive Salaries",
+            "Judicial Salaries",
+            "Legislative Salaries",
+            "Locality Pay",
+            "General Schedule"
+        ],
+        "title": "U.S. Government Employee Compensation Adjustments",
+        "cluster": 46
+    },
+    {
+        "analysis": "This cluster uniquely focuses on executive orders and other directives that amend or establish regulations and policies across a wide range of topics, including military service, cybersecurity, emergency preparedness, public health, and federal architecture. While other clusters address specific policy areas or government functions, this cluster is distinguished by its broad scope and focus on modifying existing governmental frameworks. The sentiment is neutral, reflecting the legal and administrative nature of these actions.",
+        "tags": [
+            "Executive Orders",
+            "Government Regulations",
+            "Policy Amendments",
+            "National Security",
+            "Public Health",
+            "Emergency Preparedness",
+            "Cybersecurity",
+            "Military",
+            "Federal Architecture"
+        ],
+        "title": "Executive Actions Modifying Government Regulations",
+        "cluster": 47
+    },
+    {
+        "analysis": "This cluster uniquely focuses on national security, government administration, energy policy, and international relations, with a significant portion of the documents focusing on the delegation of authority, management of personnel, and the protection of classified information. While other clusters address these areas individually, this cluster is distinguished by its integrated approach and focus on executive authority. The sentiment is serious and focused on national security and economic stability.",
+        "tags": [
+            "National Security",
+            "Government Administration",
+            "Energy Policy",
+            "International Relations",
+            "Delegation of Authority",
+            "Personnel Management",
+            "Classified Information",
+            "Economic Sanctions",
+            "Iran",
+            "Cybersecurity"
+        ],
+        "title": "Executive Actions on National Security and International Relations",
+        "cluster": 48
+    },
+    {
+        "analysis": "This cluster uniquely focuses on the revocation of prior executive orders withdrawing public lands, followed by the land's reopening for homesteading and desert land entry, with a key feature being the 91-day priority period granted to ex-service men (veterans) after a resurvey. While other clusters address land management, this cluster is distinguished by its focus on land reopenings for veterans. The sentiment is supportive of veterans and focused on land access.",
+        "tags": [
+            "Land Resurvey",
+            "Homesteading",
+            "Desert Land Entry",
+            "Veterans Preference",
+            "Public Resolution 85",
+            "Public Resolution 29",
+            "Land Revocation",
+            "91-Day Entry Period"
+        ],
+        "title": "Land Reopenings for Veterans Following Resurvey",
+        "cluster": 49
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order regarding abolishing customs ports of entry. As the author, the primary goal isn't to elicit strong emotions but to execute a policy change efficiently. The tone is formal and administrative, not designed to evoke joy, sadness, anger, fear, disgust, or surprise. The actions are presented as a matter of course, with no emotional spin. Therefore, the initial scores should be low across all emotions. Upon review, I realize that while the order itself is unemotional, the act of abolishing ports could potentially cause some sadness in those communities affected, and perhaps some surprise at the change. However, the overall impact is likely minimal, so the scores should remain low, but with a slight increase in sadness and surprise.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order related to land management. It amends and revokes previous orders concerning specific sections of land in Arizona. The language is legal and administrative, devoid of emotional expression. Therefore, all emotions should be scored very low, with a default of 1 where there is no explicit indication of the emotion.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding land use in Alaska. It primarily concerns the leasing of land for fur farming and the continued operation of lighthouses. The language is legal and administrative, with no strong emotional expression. Therefore, most emotions should be scored low. Joy, sadness, fear, disgust, and surprise are not explicitly conveyed. A baseline score of 1 is appropriate for each emotion due to the lack of emotional content.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

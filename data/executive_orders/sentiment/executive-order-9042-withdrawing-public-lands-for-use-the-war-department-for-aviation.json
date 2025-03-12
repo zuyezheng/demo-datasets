@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order regarding the withdrawal of public lands for use by the War Department. The language is legal and administrative, with no explicit emotional expression. However, the context of wartime might imply a sense of urgency or concern for national defense, which could be interpreted as a low level of fear or determination. Given the formal nature, joy, sadness, disgust, and surprise are unlikely to be conveyed. I will assign low scores to fear and leave the rest at 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 2,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

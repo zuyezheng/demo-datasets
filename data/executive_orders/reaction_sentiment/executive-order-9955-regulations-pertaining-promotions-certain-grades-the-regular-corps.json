@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is an executive order regarding promotions within the Public Health Service. The tone is formal and bureaucratic. The primary goal seems to be to manage promotions based on vacancies. There's no explicit emotional appeal. However, one could infer a desire to maintain order and efficiency within the Public Health Service. This might evoke a sense of stability or perhaps slight disappointment for those seeking promotion. Given the limited emotional content, most scores should be low. Joy would be low as it's not a celebratory document. Sadness would be low as there's no explicit loss or grief. Anger would be low as there's no direct provocation. Fear would be low as there's no threat. Disgust would be low as there's nothing repulsive. Surprise would be low as it's a routine administrative order.",
+    "revised_scores": {
+        "joy": 2,
+        "sadness": 2,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

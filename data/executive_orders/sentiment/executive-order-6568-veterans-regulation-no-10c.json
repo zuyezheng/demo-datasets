@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 2,
+        "fear": 2,
+        "disgust": 2,
+        "surprise": 2
+    },
+    "critique": "The document is a formal amendment to Veterans' Regulations. It outlines specific conditions under which individuals receiving pensions or retirement pay can also hold government positions. The language is legalistic and precise, with no overt emotional expression. Therefore, the initial scores should be low across all emotions. Revised scores should reflect the lack of emotional content, with all scores set to 1.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

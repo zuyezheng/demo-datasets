@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order amending rules for radio communication in the Panama Canal Zone. It is primarily informational and regulatory in nature. There is no strong emotional language used. Therefore, all emotions should be scored low. Considering the formal nature, a baseline of 1 is appropriate for emotions that are not explicitly present.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

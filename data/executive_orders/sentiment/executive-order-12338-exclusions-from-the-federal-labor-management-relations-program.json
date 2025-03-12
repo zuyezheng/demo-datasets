@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    },
+    "critique": "The document is a formal executive order. It primarily deals with organizational changes and exemptions within government agencies, specifically related to intelligence and defense. There is no explicit emotional language used. Therefore, the scores should be very low across all emotions. Considering it is a formal document, a baseline of 1 is appropriate for emotions that are not explicitly present.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 1
+    }
+}

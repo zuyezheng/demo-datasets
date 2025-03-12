@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    },
+    "critique": "The document is a formal executive order regarding the transfer of disbursing functions. It primarily uses legal and administrative language. There is no strong emotional language used; therefore, all emotions should be scored low. The document expresses a sense of determination and authority, but this does not translate directly into strong emotions. Considering the formal nature, a baseline score of 1 is appropriate for most emotions, with a slight increase for surprise due to the alteration of previous orders.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}

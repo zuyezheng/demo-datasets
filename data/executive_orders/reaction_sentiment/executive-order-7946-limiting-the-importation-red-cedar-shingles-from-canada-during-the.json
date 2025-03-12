@@ -1,0 +1,17 @@
+{
+    "initial_scores": {
+        "joy": 2,
+        "sadness": 2,
+        "fear": 3,
+        "disgust": 3,
+        "surprise": 4
+    },
+    "critique": "The initial scores seem reasonable given the context of the document. The document is a formal executive order regarding the import of red cedar shingles. It's unlikely to evoke strong emotions. Joy, sadness, fear, and disgust are probably low. Surprise might be slightly higher as the order sets a specific limit based on calculations. However, after further consideration, I think the initial scores are too high across the board. The document is very technical and unlikely to evoke much emotion at all. I will revise the scores to reflect this.",
+    "revised_scores": {
+        "joy": 1,
+        "sadness": 1,
+        "fear": 1,
+        "disgust": 1,
+        "surprise": 2
+    }
+}
